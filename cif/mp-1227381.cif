@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Ca2TiAlSi2O9F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42506100
+_cell_length_b   5.47001045
+_cell_length_c   7.14891897
+_cell_angle_alpha   104.88996527
+_cell_angle_beta   104.39345613
+_cell_angle_gamma   105.62103112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TiAlSi2O9F
+_chemical_formula_sum   'Ca2 Ti1 Al1 Si2 O9 F1'
+_cell_volume   185.58396905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.17099900  0.84009900  0.75569900  1
+  Ca  Ca1  1  0.82874600  0.16148600  0.24437200  1
+  Ti  Ti0  1  0.50617300  0.49336500  0.47818200  1
+  Al  Al0  1  0.50105900  0.49889400  0.00419100  1
+  Si  Si0  1  0.17849200  0.81020000  0.24471500  1
+  Si  Si1  1  0.82004700  0.19079700  0.75684800  1
+  O  O0  1  0.60640800  0.19692300  0.88453900  1
+  O  O1  1  0.18792400  0.60984100  0.38528500  1
+  O  O2  1  0.39037700  0.80412000  0.11469500  1
+  O  O3  1  0.81384800  0.39265200  0.61859600  1
+  O  O4  1  0.25303900  0.12004800  0.40771800  1
+  O  O5  1  0.13001700  0.25940500  0.90799700  1
+  O  O6  1  0.74372100  0.87934800  0.59864900  1
+  O  O7  1  0.86960000  0.74146500  0.09027500  1
+  O  O8  1  0.56954000  0.42894300  0.24652100  1
+  F  F0  1  0.43000900  0.57241500  0.76171800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F0 2.287056 1_555
+Ca0 O5 2.367925 1_565
+Ca0 O0 2.397728 1_565
+Ca0 O6 2.403711 1_455
+Ca0 O3 2.444245 1_455
+Ca0 O2 2.628486 1_556
+Ca0 O1 2.660095 1_555
+Ca1 O8 2.285855 1_555
+Ca1 O7 2.374061 1_545
+Ca1 O4 2.407083 1_655
+Ca1 O2 2.409427 1_545
+Ca1 O1 2.450970 1_655
+Ca1 O0 2.636170 1_554
+Ca1 O3 2.680793 1_555
+Al0 O8 1.839261 1_555
+Al0 F0 1.850573 1_554
+Al0 O5 1.915620 1_554
+Al0 O7 1.917463 1_555
+Al0 O0 1.952443 1_554
+Al0 O2 1.967241 1_555
+O0 Si1 1.645875 1_555
+O1 Si0 1.668618 1_555
+O1 Ti0 2.016845 1_555
+O2 Si0 1.649939 1_555
+O3 Si1 1.661756 1_555
+O3 Ti0 2.010877 1_555
+O4 Si0 1.666014 1_545
+O4 Ti0 1.981607 1_555
+O5 Si1 1.638472 1_455
+O6 Si1 1.658295 1_565
+O6 Ti0 1.977019 1_555
+O7 Si0 1.641962 1_655
+O8 Ti0 1.741685 1_555
+F0 Ti0 2.128027 1_555

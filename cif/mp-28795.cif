@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LaSi2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12301836
+_cell_length_b   4.53875382
+_cell_length_c   8.38662087
+_cell_angle_alpha   102.75260230
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSi2Ru
+_chemical_formula_sum   'La2 Si4 Ru2'
+_cell_volume   153.07050387
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.09301010  0.20168671  1
+  La  La1  1  0.75000000  0.90698990  0.79831329  1
+  Si  Si0  1  0.25000000  0.82922043  0.50576735  1
+  Si  Si1  1  0.75000000  0.17077957  0.49423265  1
+  Si  Si2  1  0.75000000  0.53867224  0.09214826  1
+  Si  Si3  1  0.25000000  0.46132776  0.90785174  1
+  Ru  Ru0  1  0.75000000  0.62037188  0.38944006  1
+  Ru  Ru1  1  0.25000000  0.37962812  0.61055994  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Si0 3.047133 1_545
+La0 Si2 3.163170 1_455
+La0 Si2 3.163170 1_555
+La0 Si1 3.164112 1_455
+La0 Si1 3.164112 1_555
+La0 Si2 3.225462 1_445
+La0 Si2 3.225462 1_545
+La0 Si3 3.268944 1_554
+La0 Ru0 3.285493 1_455
+La0 Ru0 3.285493 1_555
+La0 Si3 3.342677 1_544
+La1 Si1 3.047133 1_565
+La1 Si3 3.163170 1_555
+La1 Si3 3.163170 1_655
+La1 Si0 3.164112 1_555
+La1 Si0 3.164112 1_655
+La1 Si3 3.225462 1_565
+La1 Si3 3.225462 1_665
+La1 Si2 3.268944 1_556
+La1 Ru1 3.285493 1_655
+La1 Ru1 3.285493 1_555
+La1 Si2 3.342677 1_566
+Si0 Si1 2.593968 1_465
+Si0 Si1 2.593968 1_565
+Si2 Si3 2.553912 1_654
+Si2 Si3 2.553912 1_554
+Ru0 Si0 2.385763 1_555
+Ru0 Si0 2.385763 1_655
+Ru0 Si1 2.393353 1_555
+Ru0 Si2 2.438390 1_555
+Ru0 Si1 2.458440 1_565
+Ru1 Si1 2.385763 1_455
+Ru1 Si1 2.385763 1_555
+Ru1 Si0 2.393353 1_555
+Ru1 Si3 2.438390 1_555
+Ru1 Si0 2.458440 1_545

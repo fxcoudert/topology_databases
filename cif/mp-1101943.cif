@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_TaFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17542200
+_cell_length_b   3.73829900
+_cell_length_c   6.98315100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeSi
+_chemical_formula_sum   'Ta4 Fe4 Si4'
+_cell_volume   161.21004838
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.01584500  0.25000000  0.31281300  1
+  Ta  Ta1  1  0.51584500  0.25000000  0.18718700  1
+  Ta  Ta2  1  0.98415500  0.75000000  0.68718700  1
+  Ta  Ta3  1  0.48415500  0.75000000  0.81281300  1
+  Fe  Fe0  1  0.14879500  0.25000000  0.93542600  1
+  Fe  Fe1  1  0.64879500  0.25000000  0.56457400  1
+  Fe  Fe2  1  0.85120500  0.75000000  0.06457400  1
+  Fe  Fe3  1  0.35120500  0.75000000  0.43542600  1
+  Si  Si0  1  0.27788900  0.25000000  0.61519700  1
+  Si  Si1  1  0.77788900  0.25000000  0.88480300  1
+  Si  Si2  1  0.72211100  0.75000000  0.38480300  1
+  Si  Si3  1  0.22211100  0.75000000  0.11519700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Si3 2.296662 1_546
+Fe0 Si3 2.296662 1_556
+Fe0 Si1 2.317620 1_455
+Fe0 Si0 2.374061 1_555
+Fe0 Ta2 2.744528 1_445
+Fe0 Ta2 2.744528 1_455
+Fe0 Ta0 2.760281 1_556
+Fe0 Ta1 2.868578 1_556
+Fe0 Ta3 2.918191 1_545
+Fe0 Ta3 2.918191 1_555
+Fe1 Si2 2.296662 1_545
+Fe1 Si2 2.296662 1_555
+Fe1 Si0 2.317620 1_555
+Fe1 Si1 2.374061 1_555
+Fe1 Ta3 2.744528 1_545
+Fe1 Ta3 2.744528 1_555
+Fe1 Ta1 2.760281 1_555
+Fe1 Ta0 2.868578 1_655
+Fe1 Ta2 2.918191 1_555
+Fe1 Ta2 2.918191 1_545
+Fe2 Si1 2.296662 1_554
+Fe2 Si1 2.296662 1_564
+Fe2 Si3 2.317620 1_655
+Fe2 Si2 2.374061 1_555
+Fe2 Ta0 2.744528 1_665
+Fe2 Ta0 2.744528 1_655
+Fe2 Ta2 2.760281 1_554
+Fe2 Ta3 2.868578 1_554
+Fe2 Ta1 2.918191 1_565
+Fe2 Ta1 2.918191 1_555
+Fe3 Si0 2.296662 1_555
+Fe3 Si0 2.296662 1_565
+Fe3 Si2 2.317620 1_555
+Fe3 Si3 2.374061 1_555
+Fe3 Ta1 2.744528 1_565
+Fe3 Ta1 2.744528 1_555
+Fe3 Ta3 2.760281 1_555
+Fe3 Ta2 2.868578 1_455
+Fe3 Ta0 2.918191 1_565
+Fe3 Ta0 2.918191 1_555
+Si0 Ta3 2.649639 1_545
+Si0 Ta3 2.649639 1_555
+Si0 Ta2 2.652695 1_445
+Si0 Ta2 2.652695 1_455
+Si0 Ta0 2.660357 1_555
+Si1 Ta2 2.649639 1_545
+Si1 Ta2 2.649639 1_555
+Si1 Ta3 2.652695 1_545
+Si1 Ta3 2.652695 1_555
+Si1 Ta1 2.660357 1_556
+Si2 Ta1 2.649639 1_565
+Si2 Ta1 2.649639 1_555
+Si2 Ta0 2.652695 1_665
+Si2 Ta0 2.652695 1_655
+Si2 Ta2 2.660357 1_555
+Si3 Ta0 2.649639 1_565
+Si3 Ta0 2.649639 1_555
+Si3 Ta1 2.652695 1_565
+Si3 Ta1 2.652695 1_555
+Si3 Ta3 2.660357 1_554

@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Na2CdCl4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17395276
+_cell_length_b   8.17395276
+_cell_length_c   8.97184896
+_cell_angle_alpha   88.27055969
+_cell_angle_beta   112.09645530
+_cell_angle_gamma   56.35896913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CdCl4O3
+_chemical_formula_sum   'Na4 Cd2 Cl8 O6'
+_cell_volume   439.72417799
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.34053500  0.84596000  0.49457500  1
+  Na  Na1  1  0.65946500  0.15404000  0.50542500  1
+  Na  Na2  1  0.50000000  0.00000000  0.00000000  1
+  Na  Na3  1  0.00000000  0.50000000  0.00000000  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd1  1  0.50000000  0.50000000  0.00000000  1
+  Cl  Cl0  1  0.72469300  0.92851800  0.79617500  1
+  Cl  Cl1  1  0.70563000  0.39883900  0.80003900  1
+  Cl  Cl2  1  0.19887800  0.90559100  0.80003900  1
+  Cl  Cl3  1  0.27530700  0.07148200  0.20382500  1
+  Cl  Cl4  1  0.29437000  0.60116100  0.19996100  1
+  Cl  Cl5  1  0.80112200  0.09440900  0.19996100  1
+  Cl  Cl6  1  0.25029800  0.40170900  0.84858900  1
+  Cl  Cl7  1  0.74970200  0.59829100  0.15141100  1
+  O  O0  1  0.12123700  0.63568600  0.48555100  1
+  O  O1  1  0.03914300  0.27924200  0.47491200  1
+  O  O2  1  0.75415400  0.56423100  0.47491200  1
+  O  O3  1  0.87876300  0.36431400  0.51444900  1
+  O  O4  1  0.96085700  0.72075800  0.52508800  1
+  O  O5  1  0.24584600  0.43576900  0.52508800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.934551 1_565
+Na0 O2 2.934551 1_555
+Na0 O0 3.080053 1_555
+Na1 O5 2.934551 1_555
+Na1 O4 2.934551 1_545
+Na1 O3 3.080053 1_555
+Cd0 Cl3 2.678597 1_555
+Cd0 Cl0 2.678597 1_444
+Cd0 Cl5 2.710053 1_455
+Cd0 Cl1 2.710053 1_454
+Cd0 Cl2 2.710053 1_544
+Cd0 Cl4 2.710053 1_545
+Cd1 Cl7 2.540386 1_555
+Cd1 Cl6 2.540386 1_554
+Cd1 Cl5 2.746925 1_555
+Cd1 Cl4 2.746925 1_555
+Cd1 Cl2 2.746925 1_554
+Cd1 Cl1 2.746925 1_554
+Cl0 Na1 2.839270 1_565
+Cl0 Na3 2.908780 1_656
+Cl0 Na2 2.908780 1_566
+Cl1 Na3 2.956057 1_656
+Cl1 Na0 3.306321 1_555
+Cl1 Na1 3.396825 1_555
+Cl2 Na2 2.956057 1_566
+Cl2 Na0 3.306321 1_555
+Cl2 Na1 3.396825 1_465
+Cl3 Na0 2.839270 1_545
+Cl3 Na2 2.908780 1_555
+Cl3 Na3 2.908780 1_555
+Cl4 Na3 2.956057 1_555
+Cl4 Na1 3.306321 1_555
+Cl4 Na0 3.396825 1_555
+Cl5 Na2 2.956057 1_555
+Cl5 Na1 3.306321 1_555
+Cl5 Na0 3.396825 1_645
+Cl6 Na3 2.648060 1_556
+Cl6 Na2 2.648060 1_556
+Cl7 Na2 2.648060 1_565
+Cl7 Na3 2.648060 1_655
+O0 O5 1.297168 1_555
+O0 O4 1.297168 1_455
+O1 O3 1.297168 1_455
+O2 O3 1.297168 1_555

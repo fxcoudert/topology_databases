@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_NdAlPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47765643
+_cell_length_b   7.18965268
+_cell_length_c   7.79912754
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdAlPt
+_chemical_formula_sum   'Nd4 Al4 Pt4'
+_cell_volume   251.07571058
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75000000  0.47119665  0.81826020  1
+  Nd  Nd1  1  0.25000000  0.02880335  0.31826020  1
+  Nd  Nd2  1  0.75000000  0.97119665  0.68173980  1
+  Nd  Nd3  1  0.25000000  0.52880335  0.18173980  1
+  Al  Al0  1  0.75000000  0.85622259  0.06751884  1
+  Al  Al1  1  0.25000000  0.64377741  0.56751884  1
+  Al  Al2  1  0.75000000  0.35622259  0.43248116  1
+  Al  Al3  1  0.25000000  0.14377741  0.93248116  1
+  Pt  Pt0  1  0.75000000  0.71573583  0.38859905  1
+  Pt  Pt1  1  0.75000000  0.21573583  0.11140095  1
+  Pt  Pt2  1  0.25000000  0.28426417  0.61140095  1
+  Pt  Pt3  1  0.25000000  0.78426417  0.88859905  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 Pt1 2.932623 1_556
+Nd0 Pt2 3.069436 1_555
+Nd0 Pt2 3.069436 1_655
+Nd0 Pt3 3.221739 1_655
+Nd0 Pt3 3.221739 1_555
+Nd1 Pt2 2.932623 1_555
+Nd1 Pt1 3.069436 1_555
+Nd1 Pt1 3.069436 1_455
+Nd1 Pt0 3.221739 1_445
+Nd1 Pt0 3.221739 1_545
+Nd2 Pt0 2.932623 1_555
+Nd2 Pt3 3.069436 1_555
+Nd2 Pt3 3.069436 1_655
+Nd2 Pt2 3.221739 1_565
+Nd2 Pt2 3.221739 1_665
+Nd3 Pt3 2.932623 1_554
+Nd3 Pt0 3.069436 1_455
+Nd3 Pt0 3.069436 1_555
+Nd3 Pt1 3.221739 1_555
+Nd3 Pt1 3.221739 1_455
+Al0 Pt1 2.607335 1_565
+Al0 Pt3 2.688345 1_554
+Al0 Pt3 2.688345 1_654
+Al0 Pt0 2.700176 1_555
+Al0 Nd2 3.120228 1_554
+Al0 Nd1 3.221204 1_665
+Al0 Nd1 3.221204 1_565
+Al0 Nd3 3.368587 1_555
+Al0 Nd3 3.368587 1_655
+Al0 Nd0 3.382615 1_554
+Al1 Pt2 2.607335 1_555
+Al1 Pt0 2.688345 1_455
+Al1 Pt0 2.688345 1_555
+Al1 Pt3 2.700176 1_555
+Al1 Nd3 3.120228 1_555
+Al1 Nd0 3.221204 1_455
+Al1 Nd0 3.221204 1_555
+Al1 Nd2 3.368587 1_555
+Al1 Nd2 3.368587 1_455
+Al1 Nd1 3.382615 1_565
+Al2 Pt0 2.607335 1_555
+Al2 Pt2 2.688345 1_555
+Al2 Pt2 2.688345 1_655
+Al2 Pt1 2.700176 1_555
+Al2 Nd0 3.120228 1_555
+Al2 Nd3 3.221204 1_655
+Al2 Nd3 3.221204 1_555
+Al2 Nd1 3.368587 1_555
+Al2 Nd1 3.368587 1_655
+Al2 Nd2 3.382615 1_545
+Al3 Pt3 2.607335 1_545
+Al3 Pt1 2.688345 1_556
+Al3 Pt1 2.688345 1_456
+Al3 Pt2 2.700176 1_555
+Al3 Nd1 3.120228 1_556
+Al3 Nd2 3.221204 1_545
+Al3 Nd2 3.221204 1_445
+Al3 Nd0 3.368587 1_455
+Al3 Nd0 3.368587 1_555
+Al3 Nd3 3.382615 1_556

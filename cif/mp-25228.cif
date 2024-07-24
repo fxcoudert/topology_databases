@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_KMnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51242199
+_cell_length_b   6.51242144
+_cell_length_c   7.75025825
+_cell_angle_alpha   57.34046911
+_cell_angle_beta   122.65952685
+_cell_angle_gamma   151.86362500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnO2
+_chemical_formula_sum   'K2 Mn2 O4'
+_cell_volume   128.80398640
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.82793700  0.17206300  0.30730400  1
+  K  K1  1  0.17206300  0.82793700  0.69269600  1
+  Mn  Mn0  1  0.03038700  0.96961300  0.17373300  1
+  Mn  Mn1  1  0.96961300  0.03038700  0.82626700  1
+  O  O0  1  0.86787800  0.13212200  0.93044300  1
+  O  O1  1  0.55193500  0.44806500  0.32795400  1
+  O  O2  1  0.13212200  0.86787800  0.06955700  1
+  O  O3  1  0.44806500  0.55193500  0.67204600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O2 2.636192 1_655
+K0 O2 2.636192 1_545
+K0 O3 2.833150 1_545
+K0 O3 2.833150 1_655
+K0 O1 3.168073 1_545
+K0 O1 3.168074 1_655
+K0 O0 3.228851 1_554
+K1 O0 2.636192 1_455
+K1 O0 2.636192 1_565
+K1 O1 2.833150 1_565
+K1 O1 2.833150 1_455
+K1 O3 3.168073 1_565
+K1 O3 3.168074 1_455
+K1 O2 3.228851 1_556
+Mn0 O2 1.859749 1_555
+Mn0 O0 1.860996 1_464
+Mn0 O1 1.909614 1_455
+Mn0 O1 1.909615 1_565
+Mn1 O0 1.859749 1_555
+Mn1 O2 1.860996 1_646
+Mn1 O3 1.909614 1_655
+Mn1 O3 1.909615 1_545

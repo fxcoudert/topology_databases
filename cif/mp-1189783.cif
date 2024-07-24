@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_PrAlPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88852309
+_cell_length_b   7.02598231
+_cell_length_c   7.57308726
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAlPd2
+_chemical_formula_sum   'Pr4 Al4 Pd8'
+_cell_volume   313.31875726
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.34601521  0.75000000  0.03296401  1
+  Pr  Pr1  1  0.15398479  0.75000000  0.53296401  1
+  Pr  Pr2  1  0.65398479  0.25000000  0.96703599  1
+  Pr  Pr3  1  0.84601521  0.25000000  0.46703599  1
+  Al  Al0  1  0.65480194  0.75000000  0.38007066  1
+  Al  Al1  1  0.84519806  0.75000000  0.88007066  1
+  Al  Al2  1  0.34519806  0.25000000  0.61992934  1
+  Al  Al3  1  0.15480194  0.25000000  0.11992934  1
+  Pd  Pd0  1  0.91248435  0.55330921  0.17538078  1
+  Pd  Pd1  1  0.58751565  0.94669079  0.67538078  1
+  Pd  Pd2  1  0.08751565  0.05330921  0.82461922  1
+  Pd  Pd3  1  0.41248435  0.44669079  0.32461922  1
+  Pd  Pd4  1  0.08751565  0.44669079  0.82461922  1
+  Pd  Pd5  1  0.41248435  0.05330921  0.32461922  1
+  Pd  Pd6  1  0.91248435  0.94669079  0.17538078  1
+  Pd  Pd7  1  0.58751565  0.55330921  0.67538078  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Pd0 2.571984 1_555
+Al0 Pd6 2.571984 1_555
+Al0 Pd3 2.598793 1_555
+Al0 Pd5 2.598793 1_565
+Al0 Pd1 2.658625 1_555
+Al0 Pd7 2.658625 1_555
+Al0 Pr1 3.159278 1_655
+Al0 Pr1 3.168234 1_555
+Al0 Pr0 3.196265 1_555
+Al1 Pd1 2.571984 1_555
+Al1 Pd7 2.571984 1_555
+Al1 Pd4 2.598793 1_655
+Al1 Pd2 2.598793 1_665
+Al1 Pd6 2.658625 1_556
+Al1 Pd0 2.658625 1_556
+Al1 Pr0 3.159278 1_556
+Al1 Pr0 3.168234 1_656
+Al1 Pr1 3.196265 1_655
+Al2 Pd4 2.571984 1_555
+Al2 Pd2 2.571984 1_555
+Al2 Pd1 2.598793 1_545
+Al2 Pd7 2.598793 1_555
+Al2 Pd3 2.658625 1_555
+Al2 Pd5 2.658625 1_555
+Al2 Pr3 3.159278 1_455
+Al2 Pr3 3.168234 1_555
+Al2 Pr2 3.196265 1_555
+Al3 Pd3 2.571984 1_555
+Al3 Pd5 2.571984 1_555
+Al3 Pd0 2.598793 1_455
+Al3 Pd6 2.598793 1_445
+Al3 Pd4 2.658625 1_554
+Al3 Pd2 2.658625 1_554
+Al3 Pr2 3.159278 1_554
+Al3 Pr2 3.168234 1_454
+Al3 Pr3 3.196265 1_455
+Pd0 Pr2 3.057431 1_554
+Pd0 Pr3 3.094033 1_555
+Pd0 Pr0 3.096787 1_655
+Pd0 Pr1 3.356397 1_655
+Pd1 Pr3 3.057431 1_565
+Pd1 Pr2 3.094033 1_565
+Pd1 Pr1 3.096787 1_555
+Pd1 Pr0 3.356397 1_556
+Pd2 Pr0 3.057431 1_546
+Pd2 Pr1 3.094033 1_545
+Pd2 Pr2 3.096787 1_455
+Pd2 Pr3 3.356397 1_455
+Pd3 Pr1 3.057431 1_555
+Pd3 Pr0 3.094033 1_555
+Pd3 Pr3 3.096787 1_555
+Pd3 Pr2 3.356397 1_554
+Pd4 Pr0 3.057431 1_556
+Pd4 Pr1 3.094033 1_555
+Pd4 Pr2 3.096787 1_455
+Pd4 Pr3 3.356397 1_455
+Pd5 Pr1 3.057431 1_545
+Pd5 Pr0 3.094033 1_545
+Pd5 Pr3 3.096787 1_555
+Pd5 Pr2 3.356397 1_554
+Pd6 Pr2 3.057431 1_564
+Pd6 Pr3 3.094033 1_565
+Pd6 Pr0 3.096787 1_655
+Pd6 Pr1 3.356397 1_655
+Pd7 Pr3 3.057431 1_555
+Pd7 Pr2 3.094033 1_555
+Pd7 Pr1 3.096787 1_555
+Pd7 Pr0 3.356397 1_556

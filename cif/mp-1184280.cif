@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Fe3W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13055615
+_cell_length_b   5.13055615
+_cell_length_c   4.13909200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3W
+_chemical_formula_sum   'Fe6 W2'
+_cell_volume   94.35492904
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.16104300  0.32208600  0.25000000  1
+  Fe  Fe1  1  0.67791400  0.83895700  0.25000000  1
+  Fe  Fe2  1  0.16104300  0.83895700  0.25000000  1
+  Fe  Fe3  1  0.83895700  0.67791400  0.75000000  1
+  Fe  Fe4  1  0.32208600  0.16104300  0.75000000  1
+  Fe  Fe5  1  0.83895700  0.16104300  0.75000000  1
+  W  W0  1  0.33333300  0.66666700  0.75000000  1
+  W  W1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Fe1 2.478720 1_445
+Fe0 Fe2 2.478720 1_545
+Fe0 Fe5 2.516156 1_454
+Fe0 Fe5 2.516156 1_455
+Fe0 Fe4 2.516156 1_555
+Fe0 Fe4 2.516156 1_554
+Fe0 W1 2.565762 1_455
+Fe0 W1 2.565767 1_555
+Fe0 W0 2.574316 1_555
+Fe0 W0 2.574316 1_554
+Fe0 Fe1 2.651836 1_555
+Fe0 Fe2 2.651836 1_555
+Fe1 Fe2 2.478720 1_655
+Fe1 Fe5 2.516156 1_565
+Fe1 Fe5 2.516156 1_564
+Fe1 Fe3 2.516156 1_555
+Fe1 Fe3 2.516156 1_554
+Fe1 W1 2.565762 1_565
+Fe1 W1 2.565767 1_555
+Fe1 W0 2.574316 1_555
+Fe1 W0 2.574316 1_554
+Fe1 Fe2 2.651836 1_555
+Fe2 Fe3 2.516156 1_454
+Fe2 Fe4 2.516156 1_565
+Fe2 Fe3 2.516156 1_455
+Fe2 Fe4 2.516156 1_564
+Fe2 W1 2.565765 1_455
+Fe2 W1 2.565765 1_565
+Fe2 W0 2.574313 1_555
+Fe2 W0 2.574313 1_554
+Fe3 Fe4 2.478720 1_665
+Fe3 Fe5 2.478720 1_565
+Fe3 W0 2.565762 1_655
+Fe3 W0 2.565767 1_555
+Fe3 W1 2.574316 1_556
+Fe3 W1 2.574316 1_555
+Fe3 Fe4 2.651836 1_555
+Fe3 Fe5 2.651836 1_555
+Fe4 Fe5 2.478720 1_455
+Fe4 W0 2.565762 1_545
+Fe4 W0 2.565767 1_555
+Fe4 W1 2.574316 1_556
+Fe4 W1 2.574316 1_555
+Fe4 Fe5 2.651836 1_555
+Fe5 W0 2.565765 1_545
+Fe5 W0 2.565765 1_655
+Fe5 W1 2.574313 1_555
+Fe5 W1 2.574313 1_556

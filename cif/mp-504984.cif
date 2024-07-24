@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_USiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82529148
+_cell_length_b   6.72458718
+_cell_length_c   7.26724821
+_cell_angle_alpha   90.01262959
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   USiNi
+_chemical_formula_sum   'U4 Si4 Ni4'
+_cell_volume   186.93909886
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.25000000  0.13592055  0.99507432  1
+  U  U1  1  0.75000000  0.86407945  0.00492568  1
+  U  U2  1  0.25000000  0.36421059  0.49510617  1
+  U  U3  1  0.75000000  0.63578941  0.50489383  1
+  Si  Si0  1  0.25000000  0.62449655  0.80965630  1
+  Si  Si1  1  0.75000000  0.37550345  0.19034370  1
+  Si  Si2  1  0.25000000  0.87551779  0.30965433  1
+  Si  Si3  1  0.75000000  0.12448221  0.69034567  1
+  Ni  Ni0  1  0.25000000  0.56327156  0.13235316  1
+  Ni  Ni1  1  0.75000000  0.43672844  0.86764684  1
+  Ni  Ni2  1  0.25000000  0.93676375  0.63242864  1
+  Ni  Ni3  1  0.75000000  0.06323625  0.36757136  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+U0 U1 2.646706 1_546
+U0 U1 2.646706 1_446
+U2 U3 2.645454 1_455
+U2 U3 2.645454 1_555
+Si0 U1 2.875169 1_456
+Si0 U1 2.875169 1_556
+Si0 U2 2.878757 1_555
+Si0 U3 2.927341 1_455
+Si0 U3 2.927341 1_555
+Si1 U0 2.875169 1_654
+Si1 U0 2.875169 1_554
+Si1 U3 2.878757 1_555
+Si1 U2 2.927341 1_555
+Si1 U2 2.927341 1_655
+Si2 U3 2.875961 1_455
+Si2 U3 2.875961 1_555
+Si2 U0 2.880020 1_564
+Si2 U1 2.927155 1_455
+Si2 U1 2.927155 1_555
+Si3 U2 2.875961 1_555
+Si3 U2 2.875961 1_655
+Si3 U1 2.880020 1_546
+Si3 U0 2.927155 1_555
+Si3 U0 2.927155 1_655
+Ni0 Si1 2.330316 1_455
+Ni0 Si1 2.330316 1_555
+Ni0 Si0 2.381074 1_554
+Ni0 Si2 2.463305 1_555
+Ni0 U1 2.934000 1_555
+Ni0 U1 2.934000 1_455
+Ni0 U2 2.956865 1_555
+Ni0 U0 3.041794 1_554
+Ni1 Si0 2.330316 1_555
+Ni1 Si0 2.330316 1_655
+Ni1 Si1 2.381074 1_556
+Ni1 Si3 2.463305 1_555
+Ni1 U0 2.934000 1_655
+Ni1 U0 2.934000 1_555
+Ni1 U3 2.956865 1_555
+Ni1 U1 3.041794 1_556
+Ni2 Si3 2.329938 1_565
+Ni2 Si3 2.329938 1_465
+Ni2 Si2 2.381474 1_555
+Ni2 Si0 2.463630 1_555
+Ni2 U3 2.934737 1_455
+Ni2 U3 2.934737 1_555
+Ni2 U0 2.955935 1_565
+Ni2 U2 3.042923 1_565
+Ni3 Si2 2.329938 1_645
+Ni3 Si2 2.329938 1_545
+Ni3 Si3 2.381474 1_555
+Ni3 Si1 2.463630 1_555
+Ni3 U2 2.934737 1_555
+Ni3 U2 2.934737 1_655
+Ni3 U1 2.955935 1_545
+Ni3 U3 3.042923 1_545

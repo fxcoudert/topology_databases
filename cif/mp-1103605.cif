@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_VFeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49341800
+_cell_length_b   5.88827400
+_cell_length_c   6.69972900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFeP
+_chemical_formula_sum   'V4 Fe4 P4'
+_cell_volume   137.81478142
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.75000000  0.47437700  0.67358400  1
+  V  V1  1  0.75000000  0.97437700  0.82641600  1
+  V  V2  1  0.25000000  0.52562300  0.32641600  1
+  V  V3  1  0.25000000  0.02562300  0.17358400  1
+  Fe  Fe0  1  0.75000000  0.35669700  0.06153400  1
+  Fe  Fe1  1  0.75000000  0.85669700  0.43846600  1
+  Fe  Fe2  1  0.25000000  0.64330300  0.93846600  1
+  Fe  Fe3  1  0.25000000  0.14330300  0.56153400  1
+  P  P0  1  0.75000000  0.73034900  0.12468000  1
+  P  P1  1  0.75000000  0.23034900  0.37532000  1
+  P  P2  1  0.25000000  0.26965100  0.87532000  1
+  P  P3  1  0.25000000  0.76965100  0.62468000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 P2 2.206845 1_654
+Fe0 P2 2.206845 1_554
+Fe0 P1 2.230040 1_555
+Fe0 P0 2.240471 1_555
+Fe1 P3 2.206845 1_655
+Fe1 P3 2.206845 1_555
+Fe1 P0 2.230040 1_555
+Fe1 P1 2.240471 1_565
+Fe2 P0 2.206845 1_556
+Fe2 P0 2.206845 1_456
+Fe2 P3 2.230040 1_555
+Fe2 P2 2.240471 1_555
+Fe3 P1 2.206845 1_455
+Fe3 P1 2.206845 1_555
+Fe3 P2 2.230040 1_555
+Fe3 P3 2.240471 1_545
+P0 V1 2.461269 1_554
+P0 V3 2.486214 1_565
+P0 V3 2.486214 1_665
+P0 V2 2.516136 1_555
+P0 V2 2.516136 1_655
+P1 V0 2.461269 1_555
+P1 V2 2.486214 1_655
+P1 V2 2.486214 1_555
+P1 V3 2.516136 1_655
+P1 V3 2.516136 1_555
+P2 V3 2.461269 1_556
+P2 V1 2.486214 1_545
+P2 V1 2.486214 1_445
+P2 V0 2.516136 1_555
+P2 V0 2.516136 1_455
+P3 V2 2.461269 1_555
+P3 V0 2.486214 1_555
+P3 V0 2.486214 1_455
+P3 V1 2.516136 1_555
+P3 V1 2.516136 1_455

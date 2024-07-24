@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MgMn(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47431510
+_cell_length_b   6.88161282
+_cell_length_c   6.88169865
+_cell_angle_alpha   85.43523048
+_cell_angle_beta   74.31265868
+_cell_angle_gamma   74.31425770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn(SiO3)2
+_chemical_formula_sum   'Mg2 Mn2 Si4 O12'
+_cell_volume   240.29064882
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.74998400  0.24166900  0.75835200  1
+  Mg  Mg1  1  0.25000700  0.75835400  0.24164500  1
+  Mn  Mn0  1  0.74999400  0.89530600  0.10470800  1
+  Mn  Mn1  1  0.24997900  0.10462300  0.89534300  1
+  Si  Si0  1  0.20954900  0.21198500  0.38419900  1
+  Si  Si1  1  0.29045600  0.61579700  0.78800900  1
+  Si  Si2  1  0.70954700  0.38421300  0.21198800  1
+  Si  Si3  1  0.79045900  0.78802200  0.61578900  1
+  O  O0  1  0.42693600  0.34648300  0.35280600  1
+  O  O1  1  0.07307500  0.64722100  0.65350600  1
+  O  O2  1  0.57308700  0.65351200  0.64719700  1
+  O  O3  1  0.92694700  0.35280500  0.34647100  1
+  O  O4  1  0.12839000  0.14343500  0.61830600  1
+  O  O5  1  0.37157300  0.38168600  0.85656500  1
+  O  O6  1  0.87160500  0.85656200  0.38169100  1
+  O  O7  1  0.62840700  0.61830800  0.14344500  1
+  O  O8  1  0.83244500  0.21665800  0.03037900  1
+  O  O9  1  0.66753700  0.96962900  0.78334300  1
+  O  O10  1  0.33246400  0.03038600  0.21664800  1
+  O  O11  1  0.16755700  0.78335000  0.96961100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.985883 1_555
+Mg0 O4 1.985914 1_655
+Mg0 O8 2.025217 1_556
+Mg0 O9 2.025241 1_545
+Mg1 O7 1.985870 1_555
+Mg1 O6 1.985879 1_455
+Mg1 O10 2.025210 1_565
+Mg1 O11 2.025242 1_554
+Mn0 O7 2.157981 1_555
+Mn0 O6 2.157989 1_555
+Mn0 O10 2.166756 1_565
+Mn0 O11 2.166937 1_654
+Mn0 O8 2.364439 1_565
+Mn0 O9 2.364574 1_554
+Mn1 O4 2.158269 1_555
+Mn1 O5 2.158421 1_555
+Mn1 O8 2.166787 1_456
+Mn1 O9 2.166827 1_545
+Mn1 O11 2.363812 1_545
+Mn1 O10 2.364180 1_556
+O0 Si0 1.656585 1_555
+O0 Si2 1.663259 1_555
+O1 Si1 1.656591 1_555
+O1 Si3 1.663239 1_455
+O2 Si3 1.656566 1_555
+O2 Si1 1.663297 1_555
+O3 Si2 1.656587 1_555
+O3 Si0 1.663246 1_655
+O4 Si0 1.618860 1_555
+O5 Si1 1.618876 1_555
+O6 Si3 1.618778 1_555
+O7 Si2 1.618762 1_555
+O8 Si2 1.642959 1_555
+O9 Si3 1.642946 1_555
+O10 Si0 1.642893 1_555
+O11 Si1 1.642916 1_555

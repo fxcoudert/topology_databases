@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63827544
+_cell_length_b   6.63827544
+_cell_length_c   6.63827544
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTe2
+_chemical_formula_sum   'Cu4 Te8'
+_cell_volume   292.52689776
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  -0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  -0.00000000  1
+  Te  Te0  1  0.12029356  0.87970644  0.37970644  1
+  Te  Te1  1  0.87970644  0.37970644  0.12029356  1
+  Te  Te2  1  0.37970644  0.12029356  0.87970644  1
+  Te  Te3  1  0.62029356  0.62029356  0.62029356  1
+  Te  Te4  1  0.87970644  0.12029356  0.62029356  1
+  Te  Te5  1  0.12029356  0.62029356  0.87970644  1
+  Te  Te6  1  0.62029356  0.87970644  0.12029356  1
+  Te  Te7  1  0.37970644  0.37970644  0.37970644  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Te5 2.762018 1_554
+Cu0 Te7 2.762018 1_555
+Cu0 Te1 2.762018 1_555
+Cu0 Te3 2.762018 1_554
+Cu0 Te6 2.762018 1_555
+Cu0 Te2 2.762018 1_554
+Cu1 Te0 2.762018 1_545
+Cu1 Te7 2.762018 1_555
+Cu1 Te4 2.762018 1_555
+Cu1 Te2 2.762018 1_555
+Cu1 Te6 2.762018 1_545
+Cu1 Te3 2.762018 1_545
+Cu2 Te7 2.762018 1_555
+Cu2 Te5 2.762018 1_555
+Cu2 Te1 2.762018 1_455
+Cu2 Te3 2.762018 1_455
+Cu2 Te0 2.762018 1_555
+Cu2 Te4 2.762018 1_455
+Cu3 Te0 2.762018 1_545
+Cu3 Te5 2.762018 1_544
+Cu3 Te1 2.762018 1_455
+Cu3 Te6 2.762018 1_445
+Cu3 Te4 2.762018 1_454
+Cu3 Te2 2.762018 1_554
+Te0 Te4 2.766230 1_465
+Te1 Te5 2.766230 1_654
+Te2 Te6 2.766230 1_546
+Te3 Te7 2.766230 1_555

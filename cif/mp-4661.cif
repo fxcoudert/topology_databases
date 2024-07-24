@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_ScOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15595087
+_cell_length_b   5.18427653
+_cell_length_c   5.24956689
+_cell_angle_alpha   99.86033530
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScOF
+_chemical_formula_sum   'Sc4 O4 F4'
+_cell_volume   138.24747199
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.52750836  0.69218549  0.28775489  1
+  Sc  Sc1  1  0.02750836  0.30781451  0.21224511  1
+  Sc  Sc2  1  0.47249164  0.30781451  0.71224511  1
+  Sc  Sc3  1  0.97249164  0.69218549  0.78775489  1
+  O  O0  1  0.25370662  0.54410088  0.01215750  1
+  O  O1  1  0.75370662  0.45589912  0.48784250  1
+  O  O2  1  0.74629338  0.45589912  0.98784250  1
+  O  O3  1  0.24629338  0.54410088  0.51215750  1
+  F  F0  1  0.67468553  0.94311019  0.65783167  1
+  F  F1  1  0.17468553  0.05688981  0.84216833  1
+  F  F2  1  0.32531447  0.05688981  0.34216833  1
+  F  F3  1  0.82531447  0.94311019  0.15783167  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Sc0 2.072445 1_555
+O0 Sc3 2.095029 1_454
+O0 Sc1 2.098739 1_555
+O0 Sc2 2.142726 1_554
+O1 Sc1 2.072445 1_655
+O1 Sc2 2.095029 1_555
+O1 Sc0 2.098739 1_555
+O1 Sc3 2.142726 1_555
+O2 Sc2 2.072445 1_555
+O2 Sc1 2.095029 1_656
+O2 Sc3 2.098739 1_555
+O2 Sc0 2.142726 1_556
+O3 Sc3 2.072445 1_455
+O3 Sc0 2.095029 1_555
+O3 Sc2 2.098739 1_555
+O3 Sc1 2.142726 1_555
+F0 Sc2 2.135013 1_565
+F0 Sc3 2.195217 1_555
+F0 Sc0 2.275250 1_555
+F1 Sc3 2.135013 1_445
+F1 Sc2 2.195217 1_555
+F1 Sc1 2.275250 1_556
+F2 Sc0 2.135013 1_545
+F2 Sc1 2.195217 1_555
+F2 Sc2 2.275250 1_555
+F3 Sc1 2.135013 1_665
+F3 Sc0 2.195217 1_555
+F3 Sc3 2.275250 1_554

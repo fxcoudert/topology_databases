@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_TbSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02479341
+_cell_length_b   7.48639701
+_cell_length_c   7.48642184
+_cell_angle_alpha   119.99989710
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSnPt
+_chemical_formula_sum   'Tb3 Sn3 Pt3'
+_cell_volume   195.35378250
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.59360233  1.00000000  1
+  Tb  Tb1  1  0.50000000  0.40638213  0.40638951  1
+  Tb  Tb2  1  0.50000000  0.99999162  0.59361049  1
+  Sn  Sn0  1  -0.00000000  0.25818865  0.00000000  1
+  Sn  Sn1  1  -0.00000000  0.74179178  0.74179762  1
+  Sn  Sn2  1  -0.00000000  0.99999216  0.25820238  1
+  Pt  Pt0  1  -0.00000000  0.33331822  0.66667193  1
+  Pt  Pt1  1  -0.00000000  0.66664629  0.33332807  1
+  Pt  Pt2  1  0.50000000  0.99998783  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Tb0 3.217928 1_454
+Sn0 Tb0 3.217928 1_554
+Sn0 Tb1 3.340878 1_455
+Sn0 Tb1 3.340878 1_555
+Sn0 Tb2 3.340879 1_444
+Sn0 Tb2 3.340879 1_544
+Sn1 Tb1 3.217907 1_455
+Sn1 Tb1 3.217907 1_555
+Sn1 Tb2 3.340862 1_455
+Sn1 Tb2 3.340862 1_555
+Sn1 Tb0 3.340889 1_555
+Sn1 Tb0 3.340889 1_455
+Sn2 Tb2 3.217904 1_555
+Sn2 Tb2 3.217904 1_455
+Sn2 Tb1 3.340878 1_565
+Sn2 Tb1 3.340878 1_465
+Sn2 Tb0 3.340880 1_454
+Sn2 Tb0 3.340880 1_554
+Pt0 Sn0 2.819059 1_556
+Pt0 Sn2 2.819115 1_545
+Pt0 Sn1 2.819180 1_555
+Pt0 Tb2 3.034980 1_445
+Pt0 Tb2 3.034980 1_545
+Pt0 Tb0 3.035024 1_555
+Pt0 Tb0 3.035024 1_455
+Pt0 Tb1 3.035088 1_455
+Pt0 Tb1 3.035088 1_555
+Pt1 Sn0 2.819059 1_555
+Pt1 Sn1 2.819110 1_555
+Pt1 Sn2 2.819165 1_555
+Pt1 Tb1 3.034974 1_455
+Pt1 Tb1 3.034974 1_555
+Pt1 Tb0 3.035025 1_454
+Pt1 Tb0 3.035025 1_554
+Pt1 Tb2 3.035084 1_555
+Pt1 Tb2 3.035084 1_455
+Pt2 Sn1 2.790373 1_554
+Pt2 Sn1 2.790373 1_654
+Pt2 Sn0 2.790377 1_665
+Pt2 Sn0 2.790377 1_565
+Pt2 Sn2 2.790379 1_655
+Pt2 Sn2 2.790379 1_555
+Pt2 Tb0 3.042363 1_554
+Pt2 Tb2 3.042417 1_554
+Pt2 Tb1 3.042421 1_565

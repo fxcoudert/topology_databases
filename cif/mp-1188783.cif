@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Pu(BIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93641800
+_cell_length_b   7.67806400
+_cell_length_c   7.67806400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu(BIr)4
+_chemical_formula_sum   'Pu2 B8 Ir8'
+_cell_volume   232.06233869
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.25000000  0.25000000  0.25000000  1
+  Pu  Pu1  1  0.75000000  0.75000000  0.75000000  1
+  B  B0  1  0.36256800  0.90625800  0.02438500  1
+  B  B1  1  0.36256800  0.59374200  0.47561500  1
+  B  B2  1  0.86256800  0.52438500  0.09374200  1
+  B  B3  1  0.86256800  0.97561500  0.40625800  1
+  B  B4  1  0.63743200  0.09374200  0.97561500  1
+  B  B5  1  0.63743200  0.40625800  0.52438500  1
+  B  B6  1  0.13743200  0.47561500  0.90625800  1
+  B  B7  1  0.13743200  0.02438500  0.59374200  1
+  Ir  Ir0  1  0.13774200  0.41178400  0.64107500  1
+  Ir  Ir1  1  0.13774200  0.08821600  0.85892500  1
+  Ir  Ir2  1  0.63774200  0.14107500  0.58821600  1
+  Ir  Ir3  1  0.63774200  0.35892500  0.91178400  1
+  Ir  Ir4  1  0.86225800  0.58821600  0.35892500  1
+  Ir  Ir5  1  0.86225800  0.91178400  0.14107500  1
+  Ir  Ir6  1  0.36225800  0.85892500  0.41178400  1
+  Ir  Ir7  1  0.36225800  0.64107500  0.08821600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 B4 1.839321 1_564
+B0 Ir1 2.085434 1_564
+B0 Ir7 2.094247 1_555
+B0 Ir5 2.161846 1_555
+B0 Ir5 2.164067 1_455
+B0 Pu1 2.864212 1_554
+B1 B5 1.839321 1_555
+B1 Ir0 2.085434 1_555
+B1 Ir6 2.094247 1_555
+B1 Ir4 2.161846 1_555
+B1 Ir4 2.164067 1_455
+B1 Pu1 2.864212 1_555
+B2 B6 1.839321 1_654
+B2 Ir3 2.085434 1_554
+B2 Ir4 2.094247 1_555
+B2 Ir7 2.161846 1_655
+B2 Ir7 2.164067 1_555
+B2 Pu0 2.864212 1_655
+B3 B7 1.839321 1_665
+B3 Ir2 2.085434 1_565
+B3 Ir5 2.094247 1_555
+B3 Ir6 2.161846 1_655
+B3 Ir6 2.164067 1_555
+B3 Pu0 2.864212 1_665
+B4 Ir5 2.085434 1_546
+B4 Ir3 2.094247 1_555
+B4 Ir1 2.161846 1_555
+B4 Ir1 2.164067 1_655
+B4 Pu0 2.864212 1_556
+B5 Ir4 2.085434 1_555
+B5 Ir2 2.094247 1_555
+B5 Ir0 2.161846 1_555
+B5 Ir0 2.164067 1_655
+B5 Pu0 2.864212 1_555
+B6 Ir7 2.085434 1_556
+B6 Ir0 2.094247 1_555
+B6 Ir3 2.161846 1_455
+B6 Ir3 2.164067 1_555
+B6 Pu1 2.864212 1_455
+B7 Ir6 2.085434 1_545
+B7 Ir1 2.094247 1_555
+B7 Ir2 2.161846 1_455
+B7 Ir2 2.164067 1_555
+B7 Pu1 2.864212 1_445

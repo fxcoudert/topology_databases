@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgTiCu3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16724220
+_cell_length_b   6.16724282
+_cell_length_c   15.93011753
+_cell_angle_alpha   26.66271053
+_cell_angle_beta   26.66270597
+_cell_angle_gamma   28.11392914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiCu3O4
+_chemical_formula_sum   'Mg1 Ti1 Cu3 O4'
+_cell_volume   111.05696551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.03240819  0.03240819  0.25757117  1
+  Ti  Ti0  1  0.48572240  0.48572240  0.83541840  1
+  Cu  Cu0  1  0.98661682  0.98661682  0.04230568  1
+  Cu  Cu1  1  0.00671322  0.00671322  0.63529276  1
+  Cu  Cu2  1  0.64918676  0.64918676  0.40492817  1
+  O  O0  1  0.06869017  0.06869017  0.09999170  1
+  O  O1  1  0.08242342  0.08242342  0.69757765  1
+  O  O2  1  0.85248033  0.85248033  0.63263028  1
+  O  O3  1  0.83575569  0.83575569  0.03620919  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.066477 1_545
+Mg0 O3 2.066477 1_455
+Mg0 O0 2.117072 1_555
+Cu0 O0 1.863204 1_665
+Cu0 O3 1.894919 1_555
+Cu1 O1 1.860423 1_555
+Cu1 O2 1.884562 1_445
+Cu2 O0 1.966314 1_665
+Cu2 O2 2.068323 1_455
+Cu2 O2 2.068324 1_545
+O0 Ti0 1.978171 1_554
+O1 Ti0 1.929517 1_455
+O1 Ti0 1.929517 1_545
+O2 Ti0 1.890338 1_555
+O3 Ti0 2.262677 1_654
+O3 Ti0 2.262677 1_564

@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgTa2(FeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15488909
+_cell_length_b   5.18367015
+_cell_length_c   6.45114867
+_cell_angle_alpha   88.87324379
+_cell_angle_beta   90.48164240
+_cell_angle_gamma   103.07633877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa2(FeO4)2
+_chemical_formula_sum   'Mg1 Ta2 Fe2 O8'
+_cell_volume   167.87889564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.64082936  0.43176614  0.36011114  1
+  Ta  Ta0  1  0.00295598  0.73325155  0.82430030  1
+  Ta  Ta1  1  0.02286778  0.23088871  0.12679905  1
+  Fe  Fe0  1  0.37333347  0.84476324  0.35856749  1
+  Fe  Fe1  1  0.51298076  0.23319707  0.83230191  1
+  O  O0  1  0.26814331  0.93335325  0.64265725  1
+  O  O1  1  0.21735397  0.45670980  0.88656818  1
+  O  O2  1  0.26664343  0.44633104  0.32188948  1
+  O  O3  1  0.23631740  0.96575924  0.08023702  1
+  O  O4  1  0.80624405  0.01080286  0.88870089  1
+  O  O5  1  0.75224043  0.54108647  0.63764269  1
+  O  O6  1  0.79635108  0.50217253  0.07372216  1
+  O  O7  1  0.74262798  0.08241811  0.32364543  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.931795 1_555
+Mg0 O2 1.960682 1_555
+Mg0 O6 2.013777 1_555
+Mg0 O7 2.014678 1_555
+Fe0 O0 2.006541 1_555
+Fe0 O2 2.031536 1_555
+Fe0 O7 2.031617 1_565
+Fe0 O3 2.061818 1_555
+Fe1 O4 2.123577 1_555
+Fe1 O1 2.147361 1_555
+Fe1 O0 2.160250 1_545
+Fe1 O5 2.168375 1_555
+Fe1 O3 2.360214 1_546
+Fe1 O6 2.372542 1_556
+O0 Ta0 1.911876 1_555
+O1 Ta0 2.030895 1_555
+O1 Ta1 2.049606 1_556
+O2 Ta1 1.950375 1_555
+O3 Ta1 1.973775 1_565
+O3 Ta0 2.239331 1_554
+O4 Ta0 1.990368 1_645
+O4 Ta1 2.090797 1_656
+O5 Ta0 1.884420 1_655
+O6 Ta1 2.043423 1_655
+O6 Ta0 2.129297 1_654
+O7 Ta1 1.944512 1_655

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_MgTe4(MoS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37547200
+_cell_length_b   3.37540794
+_cell_length_c   42.27838611
+_cell_angle_alpha   90.00338645
+_cell_angle_beta   89.99303530
+_cell_angle_gamma   119.99937265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe4(MoS)4
+_chemical_formula_sum   'Mg1 Te4 Mo4 S4'
+_cell_volume   417.16950302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.33068900  0.66535900  0.37786700  1
+  Te  Te0  1  0.33368500  0.66693000  0.70228800  1
+  Te  Te1  1  0.66607900  0.33301000  0.04930800  1
+  Te  Te2  1  0.66722300  0.33362700  0.13851300  1
+  Te  Te3  1  0.33280000  0.66640900  0.61315200  1
+  Mo  Mo0  1  0.33328600  0.66663000  0.09389500  1
+  Mo  Mo1  1  0.33135600  0.66564500  0.47569300  1
+  Mo  Mo2  1  0.66567600  0.33282600  0.27819500  1
+  Mo  Mo3  1  0.66652800  0.33330600  0.65772900  1
+  S  S0  1  0.33241600  0.66621900  0.31379400  1
+  S  S1  1  0.66579500  0.33284000  0.43980100  1
+  S  S2  1  0.66349100  0.33174200  0.51110200  1
+  S  S3  1  0.33240700  0.66617100  0.24282800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 2.708907 1_555
+Mo0 Te1 2.710657 1_555
+Mo0 Te1 2.710727 1_565
+Mo0 Te2 2.710857 1_455
+Mo0 Te1 2.712637 1_455
+Mo0 Te2 2.712940 1_565
+Mo0 Te2 2.712959 1_555
+Mo1 S2 2.456097 1_555
+Mo1 S2 2.456112 1_565
+Mo1 S2 2.460111 1_455
+Mo1 S1 2.467529 1_455
+Mo1 S1 2.471130 1_555
+Mo1 S1 2.471140 1_565
+Mo2 S3 2.456323 1_545
+Mo2 S3 2.456349 1_555
+Mo2 S3 2.456400 1_655
+Mo2 S0 2.462175 1_555
+Mo2 S0 2.462190 1_545
+Mo2 S0 2.462656 1_655
+Mo3 Te0 2.709895 1_545
+Mo3 Te0 2.709948 1_555
+Mo3 Te3 2.710091 1_655
+Mo3 Te3 2.711524 1_545
+Mo3 Te3 2.711524 1_555
+Mo3 Te0 2.711709 1_655

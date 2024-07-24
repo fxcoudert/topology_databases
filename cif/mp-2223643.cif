@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_MgTe4Mo(WS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41514736
+_cell_length_b   3.41515921
+_cell_length_c   38.18658015
+_cell_angle_alpha   88.15079058
+_cell_angle_beta   91.85356459
+_cell_angle_gamma   120.06858601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe4Mo(WS)2
+_chemical_formula_sum   'Mg1 Te4 Mo1 W2 S2'
+_cell_volume   385.17583791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66618500  0.33388100  0.24046600  1
+  Te  Te0  1  0.65695500  0.34279800  0.06141600  1
+  Te  Te1  1  0.65602500  0.34393400  0.52909800  1
+  Te  Te2  1  0.68013600  0.31981500  0.15932100  1
+  Te  Te3  1  0.67913400  0.32093600  0.62738600  1
+  Mo  Mo0  1  0.33516700  0.66468800  0.11035100  1
+  W  W0  1  0.33429600  0.66572300  0.57824400  1
+  W  W1  1  0.65409600  0.34595000  0.35653000  1
+  S  S0  1  0.33032900  0.66977300  0.39566300  1
+  S  S1  1  0.31118100  0.68879600  0.31714400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Te2 3.102847 1_555
+Te1 W0 2.719642 1_655
+Te1 W0 2.719697 1_545
+Te1 W0 2.722780 1_555
+Te3 W0 2.720098 1_555
+Te3 W0 2.720821 1_545
+Te3 W0 2.720886 1_655
+Mo0 Te0 2.714043 1_565
+Mo0 Te0 2.714078 1_455
+Mo0 Te2 2.715995 1_455
+Mo0 Te2 2.716027 1_565
+Mo0 Te2 2.716221 1_555
+Mo0 Te0 2.717365 1_555
+S0 W1 2.472592 1_455
+S0 W1 2.472622 1_565
+S0 W1 2.473383 1_555
+S1 W1 2.478000 1_455
+S1 W1 2.478010 1_565
+S1 W1 2.480113 1_555

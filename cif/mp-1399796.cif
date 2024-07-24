@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Ca3(CrN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90685400
+_cell_length_b   5.91231100
+_cell_length_c   7.31577536
+_cell_angle_alpha   68.42218139
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(CrN3)2
+_chemical_formula_sum   'Ca3 Cr2 N6'
+_cell_volume   197.36305417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.83269800  0.11520300  1
+  Ca  Ca1  1  0.50000000  0.18413300  0.90246300  1
+  Ca  Ca2  1  0.00000000  0.15341700  0.54992900  1
+  Cr  Cr0  1  0.00000000  0.56505700  0.71321200  1
+  Cr  Cr1  1  0.50000000  0.46299500  0.29989200  1
+  N  N0  1  0.00000000  0.66646000  0.46550700  1
+  N  N1  1  0.50000000  0.76183200  0.13649100  1
+  N  N2  1  0.00000000  0.25689000  0.85566600  1
+  N  N3  1  0.50000000  0.25981700  0.19533100  1
+  N  N4  1  0.50000000  0.31168300  0.55190800  1
+  N  N5  1  0.00000000  0.77994200  0.80996700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 N5 2.365597 1_554
+Ca0 N0 2.383487 1_555
+Ca0 N1 2.484172 1_555
+Ca0 N1 2.484172 1_455
+Ca0 N2 2.528329 1_564
+Ca1 N3 2.344343 1_556
+Ca1 N4 2.392334 1_555
+Ca1 N1 2.453768 1_546
+Ca1 N2 2.492635 1_555
+Ca1 N2 2.492635 1_655
+Ca2 N5 2.324878 1_545
+Ca2 N2 2.526568 1_555
+Ca2 N4 2.627745 1_455
+Ca2 N4 2.627745 1_555
+Ca2 N0 2.864305 1_555
+Cr0 N5 1.666305 1_555
+Cr0 N0 1.686485 1_555
+Cr0 N2 1.734672 1_555
+Cr1 N3 1.644390 1_555
+Cr1 N4 1.728107 1_555
+Cr1 N1 1.731229 1_555

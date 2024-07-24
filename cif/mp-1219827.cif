@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_PuAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24182357
+_cell_length_b   5.24551594
+_cell_length_c   8.54590900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   62.60583809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuAlFe
+_chemical_formula_sum   'Pu4 Al4 Fe4'
+_cell_volume   208.62890400
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.33864200  0.33900700  0.54433300  1
+  Pu  Pu1  1  0.66336200  0.66320500  0.42113200  1
+  Pu  Pu2  1  0.66336200  0.66320500  0.07886800  1
+  Pu  Pu3  1  0.33864200  0.33900700  0.95566700  1
+  Al  Al0  1  0.99442200  0.99396500  0.49449500  1
+  Al  Al1  1  0.99442200  0.99396500  0.00550500  1
+  Al  Al2  1  0.83851400  0.34977700  0.75000000  1
+  Al  Al3  1  0.34970900  0.83862400  0.75000000  1
+  Fe  Fe0  1  0.84163100  0.84180400  0.75000000  1
+  Fe  Fe1  1  0.15398400  0.66459600  0.25000000  1
+  Fe  Fe2  1  0.66442100  0.15403300  0.25000000  1
+  Fe  Fe3  1  0.15889000  0.15881300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pu0 Pu1 3.092154 1_555
+Pu0 Pu1 3.315218 1_455
+Pu0 Pu1 3.319603 1_545
+Pu0 Pu3 3.515223 1_555
+Pu1 Pu2 2.924957 1_555
+Pu2 Pu3 3.092154 1_554
+Pu2 Pu3 3.315218 1_654
+Pu2 Pu3 3.319603 1_564
+Al0 Fe3 2.557869 1_665
+Al0 Fe0 2.575759 1_555
+Al0 Fe1 2.592394 1_655
+Al0 Fe2 2.593533 1_565
+Al0 Al3 2.739277 1_655
+Al0 Al2 2.741450 1_565
+Al0 Pu1 3.030748 1_555
+Al0 Pu0 3.088029 1_655
+Al0 Pu0 3.090032 1_565
+Al0 Pu0 3.117377 1_665
+Al0 Pu1 3.178089 1_655
+Al0 Pu1 3.181548 1_565
+Al1 Fe3 2.557869 1_665
+Al1 Fe0 2.575759 1_554
+Al1 Fe1 2.592394 1_655
+Al1 Fe2 2.593533 1_565
+Al1 Al3 2.739277 1_654
+Al1 Al2 2.741450 1_564
+Al1 Pu2 3.030748 1_555
+Al1 Pu3 3.088029 1_654
+Al1 Pu3 3.090032 1_564
+Al1 Pu3 3.117377 1_664
+Al1 Pu2 3.178089 1_655
+Al1 Pu2 3.181548 1_565
+Al2 Fe0 2.588494 1_555
+Al2 Fe0 2.657102 1_545
+Al2 Al3 2.663530 1_555
+Al2 Al3 2.785300 1_645
+Al2 Pu3 3.135091 1_655
+Al2 Pu0 3.135091 1_655
+Al2 Pu2 3.171074 1_556
+Al2 Pu1 3.171074 1_555
+Al2 Pu3 3.177148 1_555
+Al2 Pu0 3.177148 1_555
+Al3 Fe0 2.586286 1_555
+Al3 Fe0 2.655622 1_455
+Al3 Pu0 3.137172 1_565
+Al3 Pu3 3.137172 1_565
+Al3 Pu2 3.171187 1_556
+Al3 Pu1 3.171187 1_555
+Al3 Pu3 3.178174 1_555
+Al3 Pu0 3.178174 1_555
+Fe0 Pu2 3.233458 1_556
+Fe0 Pu1 3.233458 1_555
+Fe0 Pu3 3.241847 1_655
+Fe0 Pu0 3.241847 1_655
+Fe0 Pu3 3.242691 1_565
+Fe0 Pu0 3.242691 1_565
+Fe1 Fe3 2.604356 1_565
+Fe1 Fe3 2.641359 1_555
+Fe1 Fe2 2.667202 1_465
+Fe1 Fe2 2.781629 1_555
+Fe1 Pu3 2.942700 1_554
+Fe1 Pu0 2.942700 1_555
+Fe1 Pu1 2.961433 1_455
+Fe1 Pu2 2.961433 1_455
+Fe1 Pu2 3.041421 1_555
+Fe1 Pu1 3.041421 1_555
+Fe2 Fe3 2.603551 1_655
+Fe2 Fe3 2.638462 1_555
+Fe2 Pu3 2.942757 1_554
+Fe2 Pu0 2.942757 1_555
+Fe2 Pu1 2.963246 1_545
+Fe2 Pu2 2.963246 1_545
+Fe2 Pu1 3.042824 1_555
+Fe2 Pu2 3.042824 1_555
+Fe3 Pu3 2.987929 1_554
+Fe3 Pu0 2.987929 1_555
+Fe3 Pu1 3.092223 1_455
+Fe3 Pu2 3.092223 1_455
+Fe3 Pu1 3.092552 1_545
+Fe3 Pu2 3.092552 1_545

@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_K2GeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87887554
+_cell_length_b   7.43230237
+_cell_length_c   8.64446959
+_cell_angle_alpha   75.33779143
+_cell_angle_beta   73.24272819
+_cell_angle_gamma   66.82527192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2GeSe3
+_chemical_formula_sum   'K4 Ge2 Se6'
+_cell_volume   384.11353583
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38857922  0.79753531  0.89029504  1
+  K  K1  1  0.61142078  0.20246469  0.10970496  1
+  K  K2  1  0.15260934  0.46280122  0.68033393  1
+  K  K3  1  0.84739066  0.53719878  0.31966607  1
+  Ge  Ge0  1  0.86018785  0.05847009  0.68371379  1
+  Ge  Ge1  1  0.13981115  0.94152991  0.31628621  1
+  Se  Se0  1  0.66450015  0.38443361  0.71572011  1
+  Se  Se1  1  0.33549985  0.61556639  0.28427989  1
+  Se  Se2  1  0.86629817  0.81558844  0.91128991  1
+  Se  Se3  1  0.13370183  0.18441156  0.08871009  1
+  Se  Se4  1  0.22378926  0.03619283  0.53492123  1
+  Se  Se5  1  0.77621074  0.96380717  0.46507877  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se1 3.301760 1_556
+K0 Se3 3.328424 1_566
+K0 Se0 3.378447 1_555
+K0 Se4 3.396395 1_565
+K0 Se2 3.398989 1_555
+K0 Se2 3.495055 1_455
+K1 Se0 3.301760 1_554
+K1 Se2 3.328424 1_544
+K1 Se1 3.378447 1_555
+K1 Se5 3.396395 1_545
+K1 Se3 3.398989 1_555
+K1 Se3 3.495055 1_655
+K2 Se2 3.325373 1_455
+K2 Se1 3.356507 1_555
+K2 Se0 3.427619 1_555
+K2 Se4 3.509117 1_555
+K2 Se0 3.544487 1_455
+K2 Se3 3.606885 1_556
+K3 Se3 3.325373 1_655
+K3 Se0 3.356507 1_555
+K3 Se1 3.427619 1_555
+K3 Se5 3.509117 1_555
+K3 Se1 3.544487 1_655
+K3 Se2 3.606885 1_554
+Ge0 Se0 2.305566 1_555
+Ge0 Se2 2.306674 1_545
+Ge0 Se4 2.421659 1_655
+Ge0 Se5 2.454251 1_545
+Ge1 Se1 2.305567 1_555
+Ge1 Se3 2.306674 1_565
+Ge1 Se5 2.421654 1_455
+Ge1 Se4 2.454255 1_565

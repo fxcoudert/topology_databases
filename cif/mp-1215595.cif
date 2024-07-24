@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Zr2AlFe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03810578
+_cell_length_b   5.03810505
+_cell_length_c   8.32848824
+_cell_angle_alpha   90.00023610
+_cell_angle_beta   90.00022996
+_cell_angle_gamma   60.00091161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2AlFe3
+_chemical_formula_sum   'Zr4 Al2 Fe6'
+_cell_volume   183.07763715
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33333833  0.33332549  0.56504322  1
+  Zr  Zr1  1  0.66666566  0.66667559  0.43498385  1
+  Zr  Zr2  1  0.66666478  0.66667066  0.06503508  1
+  Zr  Zr3  1  0.33333232  0.33333132  0.93493155  1
+  Al  Al0  1  0.00000256  -0.00000233  0.50000295  1
+  Al  Al1  1  0.00000136  -0.00000172  -0.00000043  1
+  Fe  Fe0  1  0.82916760  0.34166795  0.74999514  1
+  Fe  Fe1  1  0.34167271  0.82915966  0.74999562  1
+  Fe  Fe2  1  0.82917418  0.82916180  0.74999517  1
+  Fe  Fe3  1  0.17083201  0.65832955  0.25000610  1
+  Fe  Fe4  1  0.65832150  0.17084250  0.25000591  1
+  Fe  Fe5  1  0.17082701  0.17083953  0.25000585  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 3.080611 1_555
+Zr0 Zr1 3.103847 1_545
+Zr0 Zr1 3.103929 1_555
+Zr0 Zr1 3.103941 1_455
+Zr1 Zr2 3.081114 1_555
+Zr2 Zr3 3.104024 1_564
+Zr2 Zr3 3.104025 1_554
+Zr2 Zr3 3.104053 1_654
+Al0 Fe2 2.560709 1_445
+Al0 Fe0 2.560727 1_455
+Al0 Fe1 2.560731 1_545
+Al0 Fe5 2.560747 1_555
+Al0 Fe3 2.560754 1_545
+Al0 Fe4 2.560788 1_455
+Al0 Zr1 2.958679 1_445
+Al0 Zr0 2.958731 1_555
+Al0 Zr1 2.958740 1_545
+Al0 Zr0 2.958777 1_455
+Al0 Zr1 2.958803 1_455
+Al0 Zr0 2.958811 1_545
+Al1 Fe2 2.560779 1_444
+Al1 Fe5 2.560800 1_555
+Al1 Fe0 2.560815 1_454
+Al1 Fe1 2.560816 1_544
+Al1 Fe3 2.560827 1_545
+Al1 Fe4 2.560853 1_455
+Al1 Zr2 2.958731 1_445
+Al1 Zr2 2.958764 1_545
+Al1 Zr3 2.958780 1_554
+Al1 Zr2 2.958802 1_455
+Al1 Zr3 2.958828 1_544
+Al1 Zr3 2.958838 1_454
+Fe0 Fe2 2.456062 1_555
+Fe0 Fe1 2.456076 1_555
+Fe0 Fe2 2.582043 1_545
+Fe0 Fe1 2.582098 1_645
+Fe0 Zr3 2.952825 1_655
+Fe0 Zr3 2.952865 1_555
+Fe0 Zr0 2.952909 1_555
+Fe0 Zr0 2.952916 1_655
+Fe0 Zr1 2.982286 1_555
+Fe0 Zr2 2.982479 1_556
+Fe1 Fe2 2.456089 1_555
+Fe1 Fe2 2.582016 1_455
+Fe1 Zr3 2.952841 1_555
+Fe1 Zr3 2.952844 1_565
+Fe1 Zr0 2.952914 1_555
+Fe1 Zr0 2.952914 1_565
+Fe1 Zr1 2.982259 1_555
+Fe1 Zr2 2.982454 1_556
+Fe2 Zr3 2.952849 1_655
+Fe2 Zr3 2.952898 1_565
+Fe2 Zr0 2.952940 1_565
+Fe2 Zr0 2.952942 1_655
+Fe2 Zr1 2.982241 1_555
+Fe2 Zr2 2.982474 1_556
+Fe3 Fe5 2.456039 1_555
+Fe3 Fe4 2.456051 1_555
+Fe3 Fe5 2.582067 1_565
+Fe3 Fe4 2.582124 1_465
+Fe3 Zr2 2.952976 1_455
+Fe3 Zr1 2.953002 1_455
+Fe3 Zr2 2.953014 1_555
+Fe3 Zr1 2.953048 1_555
+Fe3 Zr0 2.982468 1_555
+Fe3 Zr3 2.982724 1_554
+Fe4 Fe5 2.456056 1_555
+Fe4 Fe5 2.582049 1_655
+Fe4 Zr2 2.952990 1_545
+Fe4 Zr2 2.952998 1_555
+Fe4 Zr1 2.953009 1_545
+Fe4 Zr1 2.953042 1_555
+Fe4 Zr0 2.982425 1_555
+Fe4 Zr3 2.982704 1_554
+Fe5 Zr2 2.953009 1_455
+Fe5 Zr2 2.953037 1_545
+Fe5 Zr1 2.953049 1_455
+Fe5 Zr1 2.953060 1_545
+Fe5 Zr0 2.982437 1_555
+Fe5 Zr3 2.982719 1_554

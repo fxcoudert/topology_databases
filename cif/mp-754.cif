@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Te2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50135172
+_cell_length_b   6.50135172
+_cell_length_c   6.50135172
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2Rh
+_chemical_formula_sum   'Te8 Rh4'
+_cell_volume   274.79636614
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.36903657  0.36903657  0.36903657  1
+  Te  Te1  1  0.13096343  0.63096343  0.86903657  1
+  Te  Te2  1  0.86903657  0.13096343  0.63096343  1
+  Te  Te3  1  0.63096343  0.86903657  0.13096343  1
+  Te  Te4  1  0.63096343  0.63096343  0.63096343  1
+  Te  Te5  1  0.86903657  0.36903657  0.13096343  1
+  Te  Te6  1  0.13096343  0.86903657  0.36903657  1
+  Te  Te7  1  0.36903657  0.13096343  0.86903657  1
+  Rh  Rh0  1  0.00000000  -0.00000000  -0.00000000  1
+  Rh  Rh1  1  0.50000000  -0.00000000  0.50000000  1
+  Rh  Rh2  1  0.50000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 Te4 2.949472 1_555
+Te1 Te5 2.949472 1_456
+Te2 Te6 2.949472 1_645
+Te3 Te7 2.949472 1_564
+Rh0 Te1 2.684443 1_544
+Rh0 Te7 2.684443 1_554
+Rh0 Te3 2.684443 1_445
+Rh0 Te5 2.684443 1_455
+Rh0 Te6 2.684443 1_545
+Rh0 Te2 2.684443 1_454
+Rh1 Te2 2.684443 1_555
+Rh1 Te4 2.684443 1_545
+Rh1 Te0 2.684443 1_555
+Rh1 Te6 2.684443 1_545
+Rh1 Te3 2.684443 1_545
+Rh1 Te7 2.684443 1_555
+Rh2 Te3 2.684443 1_555
+Rh2 Te5 2.684443 1_555
+Rh2 Te7 2.684443 1_554
+Rh2 Te1 2.684443 1_554
+Rh2 Te4 2.684443 1_554
+Rh2 Te0 2.684443 1_555
+Rh3 Te2 2.684443 1_455
+Rh3 Te6 2.684443 1_555
+Rh3 Te0 2.684443 1_555
+Rh3 Te4 2.684443 1_455
+Rh3 Te5 2.684443 1_455
+Rh3 Te1 2.684443 1_555

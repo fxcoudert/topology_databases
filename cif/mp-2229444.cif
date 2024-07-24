@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MgV2S4(N3Cl2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74111347
+_cell_length_b   7.11195115
+_cell_length_c   8.56930191
+_cell_angle_alpha   89.88857965
+_cell_angle_beta   101.95064819
+_cell_angle_gamma   95.51447155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2S4(N3Cl2)2
+_chemical_formula_sum   'Mg1 V2 S4 N6 Cl4'
+_cell_volume   340.66353802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.70648160  0.40912695  0.01516498  1
+  V  V0  1  0.76143251  0.85544236  0.01119816  1
+  V  V1  1  0.20139501  0.11637517  0.98297241  1
+  S  S0  1  0.77069694  0.63765254  0.33251696  1
+  S  S1  1  0.82029317  0.13694356  0.66878440  1
+  S  S2  1  0.27662884  0.36833822  0.69744626  1
+  S  S3  1  0.19334232  0.88465130  0.31361870  1
+  N  N0  1  0.01855691  0.28060966  0.61039732  1
+  N  N1  1  0.07824765  0.92457478  0.13187122  1
+  N  N2  1  0.03104142  0.74381299  0.40079587  1
+  N  N3  1  0.68156819  0.67624119  0.14703727  1
+  N  N4  1  0.37018644  0.30045709  0.87211491  1
+  N  N5  1  0.91669960  0.08242972  0.85197566  1
+  Cl  Cl0  1  0.37384502  0.87932893  0.84016859  1
+  Cl  Cl1  1  0.12463138  0.37161696  0.14782391  1
+  Cl  Cl2  1  0.62151589  0.11200260  0.16970255  1
+  Cl  Cl3  1  0.82427010  0.62872899  0.82203585  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N4 2.136438 1_554
+Mg0 N3 2.243627 1_555
+N0 S2 1.583461 1_555
+N0 S1 1.612535 1_455
+N1 S3 1.597193 1_555
+N1 V0 1.915861 1_455
+N1 V1 2.042082 1_564
+N2 S3 1.592348 1_555
+N2 S0 1.602830 1_455
+N3 S0 1.597472 1_555
+N3 V0 1.814515 1_555
+N4 S2 1.573537 1_555
+N4 V1 1.920426 1_555
+N5 S1 1.612462 1_555
+N5 V1 1.776304 1_655
+N5 V0 2.341124 1_546
+Cl0 V0 2.418549 1_556
+Cl0 V1 2.480004 1_565
+Cl1 V1 2.430349 1_554
+Cl1 Mg0 2.473514 1_455
+Cl2 Mg0 2.552553 1_555
+Cl2 V0 2.561771 1_545
+Cl2 V1 2.606694 1_554
+Cl3 V0 2.391996 1_556
+Cl3 Mg0 2.426093 1_556

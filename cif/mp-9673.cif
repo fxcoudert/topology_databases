@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_K2NiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72736579
+_cell_length_b   6.58825135
+_cell_length_c   7.71709661
+_cell_angle_alpha   115.26850431
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiAs2
+_chemical_formula_sum   'K4 Ni2 As4'
+_cell_volume   263.32971738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.79219353  0.58438906  1
+  K  K1  1  0.25000000  0.20780647  0.41561094  1
+  K  K2  1  0.75000000  0.41038196  0.82076292  1
+  K  K3  1  0.25000000  0.58961804  0.17923708  1
+  Ni  Ni0  1  0.00000000  -0.00000000  -0.00000000  1
+  Ni  Ni1  1  0.50000000  -0.00000000  -0.00000000  1
+  As  As0  1  0.75000000  0.91741701  0.20210282  1
+  As  As1  1  0.25000000  0.08258299  0.79789718  1
+  As  As2  1  0.25000000  0.71531519  0.79789718  1
+  As  As3  1  0.75000000  0.28468481  0.20210282  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Ni0 3.234600 1_666
+K0 Ni1 3.234600 1_566
+K1 Ni1 3.234600 1_555
+K1 Ni0 3.234600 1_555
+As0 Ni1 2.345875 1_565
+As0 Ni0 2.345875 1_665
+As0 As3 2.419653 1_565
+As0 K2 3.380321 1_554
+As0 K0 3.385529 1_555
+As0 K1 3.447392 1_565
+As0 K1 3.447392 1_665
+As0 K3 3.545483 1_555
+As0 K3 3.545483 1_655
+As1 Ni1 2.345875 1_556
+As1 Ni0 2.345875 1_556
+As1 As2 2.419653 1_545
+As1 K3 3.380321 1_556
+As1 K1 3.385529 1_555
+As1 K0 3.447392 1_545
+As1 K0 3.447392 1_445
+As1 K2 3.545483 1_555
+As1 K2 3.545483 1_455
+As2 Ni1 2.345872 1_566
+As2 Ni0 2.345872 1_566
+As2 K3 3.380330 1_556
+As2 K1 3.385525 1_555
+As2 K0 3.447385 1_555
+As2 K0 3.447385 1_455
+As2 K2 3.545483 1_555
+As2 K2 3.545483 1_455
+As3 Ni1 2.345872 1_555
+As3 Ni0 2.345872 1_655
+As3 K2 3.380330 1_554
+As3 K0 3.385525 1_555
+As3 K1 3.447385 1_555
+As3 K1 3.447385 1_655
+As3 K3 3.545483 1_555
+As3 K3 3.545483 1_655

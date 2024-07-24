@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MgReN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85606500
+_cell_length_b   6.43268700
+_cell_length_c   5.48212500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgReN2
+_chemical_formula_sum   'Mg4 Re4 N8'
+_cell_volume   206.51292716
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.57587600  0.87682500  0.01157800  1
+  Mg  Mg1  1  0.42412400  0.12317500  0.51157800  1
+  Mg  Mg2  1  0.92412400  0.37682500  0.51157800  1
+  Mg  Mg3  1  0.07587600  0.62317500  0.01157800  1
+  Re  Re0  1  0.55904200  0.38140900  0.00380200  1
+  Re  Re1  1  0.44095800  0.61859100  0.50380200  1
+  Re  Re2  1  0.94095800  0.88140900  0.50380200  1
+  Re  Re3  1  0.05904200  0.11859100  0.00380200  1
+  N  N0  1  0.59796900  0.37806200  0.35531700  1
+  N  N1  1  0.40203100  0.62193800  0.85531700  1
+  N  N2  1  0.90203100  0.87806200  0.85531700  1
+  N  N3  1  0.09796900  0.12193800  0.35531700  1
+  N  N4  1  0.62156200  0.86186600  0.39930300  1
+  N  N5  1  0.37843800  0.13813400  0.89930300  1
+  N  N6  1  0.87843800  0.36186600  0.89930300  1
+  N  N7  1  0.12156200  0.63813400  0.39930300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N2 2.093309 1_554
+Mg0 N1 2.111533 1_554
+Mg0 N5 2.130999 1_564
+Mg0 N4 2.144488 1_555
+Mg1 N3 2.093309 1_555
+Mg1 N0 2.111533 1_555
+Mg1 N4 2.130999 1_545
+Mg1 N5 2.144488 1_555
+Mg2 N0 2.093309 1_555
+Mg2 N3 2.111533 1_655
+Mg2 N7 2.130999 1_655
+Mg2 N6 2.144488 1_555
+Mg3 N1 2.093309 1_554
+Mg3 N2 2.111533 1_454
+Mg3 N6 2.130999 1_454
+Mg3 N7 2.144488 1_555
+N0 Re0 1.940605 1_555
+N0 Re1 1.975351 1_555
+N1 Re1 1.940605 1_555
+N1 Re0 1.975351 1_556
+N2 Re2 1.940605 1_555
+N2 Re3 1.975351 1_666
+N3 Re3 1.940605 1_555
+N3 Re2 1.975351 1_445
+N4 Re2 1.960205 1_555
+N4 Re1 1.973757 1_555
+N5 Re3 1.960205 1_556
+N5 Re0 1.973757 1_556
+N6 Re0 1.960205 1_556
+N6 Re3 1.973757 1_656
+N7 Re1 1.960205 1_555
+N7 Re2 1.973757 1_455

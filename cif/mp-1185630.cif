@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MgIn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45975393
+_cell_length_b   6.45975393
+_cell_length_c   5.44832489
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgIn3
+_chemical_formula_sum   'Mg2 In6'
+_cell_volume   196.89084149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66666700  0.33333300  0.25000000  1
+  Mg  Mg1  1  0.33333300  0.66666700  0.75000000  1
+  In  In0  1  0.16748488  0.33496877  0.25000000  1
+  In  In1  1  0.16748488  0.83251512  0.25000000  1
+  In  In2  1  0.66503123  0.83251512  0.25000000  1
+  In  In3  1  0.33496877  0.16748488  0.75000000  1
+  In  In4  1  0.83251512  0.16748488  0.75000000  1
+  In  In5  1  0.83251512  0.66503123  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In2 3.214026 1_555
+In0 In1 3.214027 1_555
+In0 Mg0 3.229890 1_455
+In0 Mg0 3.229890 1_555
+In0 In2 3.245726 1_445
+In0 In1 3.245727 1_545
+In0 Mg1 3.296118 1_555
+In0 Mg1 3.296118 1_554
+In0 In3 3.306451 1_554
+In0 In3 3.306451 1_555
+In0 In4 3.306457 1_454
+In0 In4 3.306457 1_455
+In1 In2 3.214027 1_555
+In1 Mg0 3.229889 1_455
+In1 Mg0 3.229889 1_565
+In1 In2 3.245727 1_455
+In1 Mg1 3.296112 1_554
+In1 Mg1 3.296112 1_555
+In1 In3 3.306457 1_564
+In1 In3 3.306457 1_565
+In1 In5 3.306457 1_455
+In1 In5 3.306457 1_454
+In2 Mg0 3.229890 1_565
+In2 Mg0 3.229890 1_555
+In2 Mg1 3.296118 1_555
+In2 Mg1 3.296118 1_554
+In2 In5 3.306451 1_554
+In2 In5 3.306451 1_555
+In2 In4 3.306457 1_564
+In2 In4 3.306457 1_565
+In3 In5 3.214026 1_555
+In3 In4 3.214027 1_555
+In3 Mg1 3.229890 1_545
+In3 Mg1 3.229890 1_555
+In3 In5 3.245726 1_445
+In3 In4 3.245727 1_455
+In3 Mg0 3.296118 1_555
+In3 Mg0 3.296118 1_556
+In4 In5 3.214027 1_555
+In4 Mg1 3.229889 1_655
+In4 Mg1 3.229889 1_545
+In4 In5 3.245727 1_545
+In4 Mg0 3.296112 1_555
+In4 Mg0 3.296112 1_556
+In5 Mg1 3.229890 1_655
+In5 Mg1 3.229890 1_555
+In5 Mg0 3.296118 1_555
+In5 Mg0 3.296118 1_556

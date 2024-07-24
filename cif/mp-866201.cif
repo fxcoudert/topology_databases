@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ti3Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00294536
+_cell_length_b   6.00294536
+_cell_length_c   4.82614800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Bi
+_chemical_formula_sum   'Ti6 Bi2'
+_cell_volume   150.61217480
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.15803200  0.31606500  0.25000000  1
+  Ti  Ti1  1  0.68393500  0.84196800  0.25000000  1
+  Ti  Ti2  1  0.15803200  0.84196800  0.25000000  1
+  Ti  Ti3  1  0.84196800  0.68393500  0.75000000  1
+  Ti  Ti4  1  0.31606500  0.15803200  0.75000000  1
+  Ti  Ti5  1  0.84196800  0.15803200  0.75000000  1
+  Bi  Bi0  1  0.33333300  0.66666700  0.75000000  1
+  Bi  Bi1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti2 2.845978 1_545
+Ti0 Ti1 2.845979 1_445
+Ti0 Ti5 2.919380 1_455
+Ti0 Ti5 2.919380 1_454
+Ti0 Ti4 2.919386 1_554
+Ti0 Ti4 2.919386 1_555
+Ti0 Ti2 3.156967 1_555
+Ti0 Ti1 3.156967 1_555
+Ti1 Ti2 2.845978 1_655
+Ti1 Ti5 2.919380 1_564
+Ti1 Ti5 2.919380 1_565
+Ti1 Ti3 2.919386 1_555
+Ti1 Ti3 2.919386 1_554
+Ti1 Ti2 3.156967 1_555
+Ti2 Ti4 2.919380 1_565
+Ti2 Ti4 2.919380 1_564
+Ti2 Ti3 2.919380 1_454
+Ti2 Ti3 2.919380 1_455
+Ti3 Ti5 2.845978 1_565
+Ti3 Ti4 2.845979 1_665
+Ti3 Ti5 3.156967 1_555
+Ti3 Ti4 3.156967 1_555
+Ti4 Ti5 2.845978 1_455
+Ti4 Ti5 3.156967 1_555
+Bi0 Ti3 3.002809 1_455
+Bi0 Ti4 3.002809 1_565
+Bi0 Ti5 3.002815 1_455
+Bi0 Ti5 3.002815 1_565
+Bi0 Ti4 3.002821 1_555
+Bi0 Ti3 3.002821 1_555
+Bi0 Ti2 3.024082 1_555
+Bi0 Ti2 3.024082 1_556
+Bi0 Ti0 3.024082 1_556
+Bi0 Ti0 3.024082 1_555
+Bi0 Ti1 3.024082 1_555
+Bi0 Ti1 3.024082 1_556
+Bi1 Ti1 3.002809 1_545
+Bi1 Ti0 3.002809 1_655
+Bi1 Ti2 3.002815 1_545
+Bi1 Ti2 3.002815 1_655
+Bi1 Ti0 3.002821 1_555
+Bi1 Ti1 3.002821 1_555
+Bi1 Ti5 3.024082 1_554
+Bi1 Ti5 3.024082 1_555
+Bi1 Ti4 3.024082 1_554
+Bi1 Ti3 3.024082 1_555
+Bi1 Ti4 3.024082 1_555
+Bi1 Ti3 3.024082 1_554

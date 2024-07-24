@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_MnCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03259200
+_cell_length_b   5.03257986
+_cell_length_c   5.42473439
+_cell_angle_alpha   117.63656684
+_cell_angle_beta   62.36308346
+_cell_angle_gamma   120.00042145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCuO3
+_chemical_formula_sum   'Mn2 Cu2 O6'
+_cell_volume   100.47714229
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.84470700  0.15529300  0.46587900  1
+  Mn  Mn1  1  0.15530400  0.84469500  0.53408600  1
+  Cu  Cu0  1  0.64295500  0.35703900  0.07112600  1
+  Cu  Cu1  1  0.35704600  0.64295300  0.92886200  1
+  O  O0  1  0.94806300  0.44164400  0.26202700  1
+  O  O1  1  0.44161400  0.23158900  0.73798800  1
+  O  O2  1  0.76841100  0.94801400  0.73798800  1
+  O  O3  1  0.23155400  0.05193900  0.26202700  1
+  O  O4  1  0.55835700  0.76844700  0.26202800  1
+  O  O5  1  0.05198700  0.55838700  0.73798900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O3 1.940446 1_655
+Mn0 O4 1.940447 1_545
+Mn0 O0 1.940458 1_555
+Mn0 O1 1.979049 1_555
+Mn0 O2 1.979059 1_545
+Mn0 O5 1.979061 1_655
+Mn1 O2 1.940554 1_455
+Mn1 O1 1.940558 1_565
+Mn1 O5 1.940560 1_555
+Mn1 O4 1.978756 1_555
+Mn1 O0 1.978758 1_455
+Mn1 O3 1.978774 1_565
+Cu0 O3 2.005891 1_555
+Cu0 O4 2.005927 1_555
+Cu0 O0 2.005942 1_555
+Cu0 O2 2.166044 1_544
+Cu0 O5 2.166056 1_654
+Cu0 O1 2.166067 1_554
+Cu1 O1 2.005663 1_555
+Cu1 O2 2.005664 1_555
+Cu1 O5 2.005684 1_555
+Cu1 O0 2.165993 1_456
+Cu1 O3 2.166012 1_566
+Cu1 O4 2.166026 1_556

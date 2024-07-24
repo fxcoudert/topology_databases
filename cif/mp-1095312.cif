@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_U2Te2PO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   19.29314894
+_cell_length_b   19.29314894
+_cell_length_c   3.91040066
+_cell_angle_alpha   84.19876729
+_cell_angle_beta   84.19876729
+_cell_angle_gamma   163.51372272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Te2PO
+_chemical_formula_sum   'U4 Te4 P2 O2'
+_cell_volume   292.95142729
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.28011700  0.71537400  0.00546100  1
+  U  U1  1  0.71537400  0.28011700  0.00546100  1
+  U  U2  1  0.94440500  0.84475000  0.08267900  1
+  U  U3  1  0.84475000  0.94440500  0.08267900  1
+  Te  Te0  1  0.16833400  0.82008300  0.00844200  1
+  Te  Te1  1  0.82008300  0.16833400  0.00844200  1
+  Te  Te2  1  0.30899500  0.48351900  0.08204800  1
+  Te  Te3  1  0.48351900  0.30899500  0.08204800  1
+  P  P0  1  0.39294700  0.39294700  0.58309300  1
+  P  P1  1  0.88727500  0.88727500  0.59039600  1
+  O  O0  1  0.74845500  0.24834500  0.50572600  1
+  O  O1  1  0.24834500  0.74845500  0.50572600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 U1 3.216950 1_455
+Te0 U1 3.225728 1_456
+Te0 U1 3.236410 1_565
+Te0 U1 3.239978 1_564
+Te1 U0 3.216950 1_545
+Te1 U0 3.225728 1_546
+Te1 U0 3.236410 1_655
+Te1 U0 3.239978 1_654
+Te2 U3 3.106988 1_555
+Te2 U3 3.118515 1_554
+Te2 U3 3.120405 1_445
+Te2 U3 3.121671 1_446
+Te3 U2 3.106988 1_555
+Te3 U2 3.118515 1_554
+Te3 U2 3.120405 1_445
+Te3 U2 3.121671 1_446
+P0 U2 2.728418 1_446
+P0 U3 2.728418 1_446
+P0 U2 2.737585 1_555
+P0 U3 2.737585 1_555
+P1 U3 2.727202 1_556
+P1 U2 2.727202 1_556
+P1 U3 2.729632 1_555
+P1 U2 2.729632 1_555
+O0 U1 2.311311 1_556
+O0 U0 2.315510 1_655
+O0 U1 2.317375 1_555
+O0 U0 2.319842 1_546
+O1 U0 2.311311 1_556
+O1 U1 2.315510 1_565
+O1 U0 2.317375 1_555
+O1 U1 2.319842 1_456

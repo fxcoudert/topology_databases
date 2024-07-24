@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LuNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43089686
+_cell_length_b   6.43089686
+_cell_length_c   5.05525048
+_cell_angle_alpha   68.54323667
+_cell_angle_beta   68.54323667
+_cell_angle_gamma   114.06266843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuNbO4
+_chemical_formula_sum   'Lu2 Nb2 O8'
+_cell_volume   141.33564977
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.12825709  0.87174291  0.75000000  1
+  Lu  Lu1  1  0.87174291  0.12825709  0.25000000  1
+  Nb  Nb0  1  0.60986834  0.39013166  0.75000000  1
+  Nb  Nb1  1  0.39013166  0.60986834  0.25000000  1
+  O  O0  1  0.78434245  0.72084764  0.28497436  1
+  O  O1  1  0.27915236  0.21565755  0.21502564  1
+  O  O2  1  0.21565755  0.27915236  0.71502564  1
+  O  O3  1  0.72084764  0.78434245  0.78497436  1
+  O  O4  1  0.11698792  0.54383900  0.16485695  1
+  O  O5  1  0.45616100  0.88301208  0.33514305  1
+  O  O6  1  0.88301208  0.45616100  0.83514305  1
+  O  O7  1  0.54383900  0.11698792  0.66485695  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O6 2.244952 1_455
+Lu0 O7 2.244952 1_565
+Lu0 O1 2.258553 1_565
+Lu0 O0 2.258553 1_456
+Lu0 O4 2.319260 1_556
+Lu0 O5 2.319260 1_555
+Lu0 O2 2.366252 1_565
+Lu0 O3 2.366252 1_455
+Lu1 O5 2.244952 1_545
+Lu1 O4 2.244952 1_655
+Lu1 O2 2.258553 1_654
+Lu1 O3 2.258553 1_545
+Lu1 O6 2.319260 1_554
+Lu1 O7 2.319260 1_555
+Lu1 O1 2.366252 1_655
+Lu1 O0 2.366252 1_545
+Nb0 O6 1.878740 1_555
+Nb0 O7 1.878740 1_555
+Nb0 O1 1.942959 1_556
+Nb0 O0 1.942959 1_555
+Nb0 O3 2.431521 1_555
+Nb0 O2 2.431521 1_555
+Nb1 O4 1.878740 1_555
+Nb1 O5 1.878740 1_555
+Nb1 O2 1.942959 1_555
+Nb1 O3 1.942959 1_554
+Nb1 O0 2.431521 1_555
+Nb1 O1 2.431521 1_555

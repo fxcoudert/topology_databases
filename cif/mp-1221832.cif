@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MnCdCu4(SnSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11588562
+_cell_length_b   7.11588562
+_cell_length_c   11.68870983
+_cell_angle_alpha   65.81196279
+_cell_angle_beta   65.81196279
+_cell_angle_gamma   48.51263973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCdCu4(SnSe4)2
+_chemical_formula_sum   'Mn1 Cd1 Cu4 Sn2 Se8'
+_cell_volume   396.07343365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99986500  0.00013500  0.00000000  1
+  Cd  Cd0  1  0.99978000  0.00022000  0.50000000  1
+  Cu  Cu0  1  0.75029000  0.74878700  0.87574400  1
+  Cu  Cu1  1  0.74959900  0.75128000  0.37432400  1
+  Cu  Cu2  1  0.25121300  0.24971000  0.12425600  1
+  Cu  Cu3  1  0.24872000  0.25040100  0.62567600  1
+  Sn  Sn0  1  0.49978200  0.50013500  0.75182300  1
+  Sn  Sn1  1  0.49986500  0.50021800  0.24817700  1
+  Se  Se0  1  0.60240300  0.11261600  0.69927100  1
+  Se  Se1  1  0.62097500  0.10773800  0.18928000  1
+  Se  Se2  1  0.10741000  0.62173000  0.94597200  1
+  Se  Se3  1  0.11343100  0.60124700  0.44366900  1
+  Se  Se4  1  0.37827000  0.89259000  0.05402800  1
+  Se  Se5  1  0.39875300  0.88656900  0.55633100  1
+  Se  Se6  1  0.88738400  0.39759700  0.30072900  1
+  Se  Se7  1  0.89226200  0.37902500  0.81072000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Se2 2.549960 1_644
+Mn0 Se4 2.549960 1_645
+Mn0 Se7 2.552497 1_554
+Mn0 Se1 2.552497 1_555
+Cd0 Se0 2.682111 1_555
+Cd0 Se6 2.682111 1_555
+Cd0 Se3 2.683513 1_645
+Cd0 Se5 2.683513 1_645
+Cu0 Se0 2.420323 1_565
+Cu0 Se2 2.450766 1_655
+Cu0 Se7 2.451356 1_555
+Cu0 Se4 2.456718 1_556
+Cu1 Se5 2.413958 1_555
+Cu1 Se3 2.418278 1_655
+Cu1 Se6 2.418485 1_555
+Cu1 Se1 2.449573 1_565
+Cu2 Se6 2.420323 1_455
+Cu2 Se4 2.450766 1_545
+Cu2 Se1 2.451356 1_555
+Cu2 Se2 2.456718 1_554
+Cu3 Se3 2.413958 1_555
+Cu3 Se5 2.418278 1_545
+Cu3 Se0 2.418485 1_555
+Cu3 Se7 2.449573 1_455
+Se0 Sn0 2.620527 1_555
+Se1 Sn1 2.630037 1_555
+Se2 Sn0 2.628743 1_555
+Se3 Sn1 2.622536 1_555
+Se4 Sn1 2.628743 1_555
+Se5 Sn0 2.622536 1_555
+Se6 Sn1 2.620527 1_555
+Se7 Sn0 2.630037 1_555

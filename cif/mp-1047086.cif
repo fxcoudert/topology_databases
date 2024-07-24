@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MoIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25116234
+_cell_length_b   5.21611927
+_cell_length_c   9.11649329
+_cell_angle_alpha   55.05777642
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoIrO6
+_chemical_formula_sum   'Mo2 Ir2 O12'
+_cell_volume   204.69235007
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.50000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  -0.00000000  0.00000000  0.50000000  1
+  Ir  Ir0  1  0.50000000  0.50000000  0.50000000  1
+  Ir  Ir1  1  -0.00000000  0.50000000  0.00000000  1
+  O  O0  1  0.49222278  0.70221624  0.24980056  1
+  O  O1  1  0.20536467  0.82008345  0.97581648  1
+  O  O2  1  0.20476328  0.27193767  0.52393085  1
+  O  O3  1  0.70476328  0.72806233  0.97606915  1
+  O  O4  1  0.70536467  0.17991655  0.52418352  1
+  O  O5  1  0.99222278  0.29778376  0.25019944  1
+  O  O6  1  0.00777722  0.70221624  0.74980056  1
+  O  O7  1  0.29463533  0.82008345  0.47581648  1
+  O  O8  1  0.29523672  0.27193767  0.02393085  1
+  O  O9  1  0.79463533  0.17991655  0.02418352  1
+  O  O10  1  0.79523672  0.72806233  0.47606915  1
+  O  O11  1  0.50777722  0.29778376  0.75019944  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O11 1.883745 1_554
+Mo0 O0 1.883745 1_545
+Mo0 O1 1.886821 1_544
+Mo0 O9 1.886821 1_555
+Mo0 O3 1.889513 1_544
+Mo0 O8 1.889513 1_555
+Mo1 O6 1.883745 1_545
+Mo1 O5 1.883745 1_455
+Mo1 O7 1.886821 1_545
+Mo1 O4 1.886821 1_455
+Mo1 O2 1.889513 1_555
+Mo1 O10 1.889513 1_445
+Ir0 O0 1.887054 1_555
+Ir0 O11 1.887054 1_555
+Ir0 O10 1.889178 1_555
+Ir0 O2 1.889178 1_555
+Ir0 O7 1.891415 1_555
+Ir0 O4 1.891415 1_555
+Ir1 O5 1.887054 1_455
+Ir1 O6 1.887054 1_554
+Ir1 O3 1.889178 1_454
+Ir1 O8 1.889178 1_555
+Ir1 O9 1.891415 1_455
+Ir1 O1 1.891415 1_554

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_SrHN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95267920
+_cell_length_b   5.59960362
+_cell_length_c   7.54225214
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHN
+_chemical_formula_sum   'Sr4 H4 N4'
+_cell_volume   166.93596075
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.19279368  0.35282551  1
+  Sr  Sr1  1  0.75000000  0.30720632  0.85282551  1
+  Sr  Sr2  1  0.25000000  0.69279368  0.14717449  1
+  Sr  Sr3  1  0.25000000  0.80720632  0.64717449  1
+  H  H0  1  0.25000000  0.10941290  0.01801347  1
+  H  H1  1  0.25000000  0.39058710  0.51801347  1
+  H  H2  1  0.75000000  0.60941290  0.48198653  1
+  H  H3  1  0.75000000  0.89058710  0.98198653  1
+  N  N0  1  0.25000000  0.23703292  0.11664212  1
+  N  N1  1  0.25000000  0.26296708  0.61664212  1
+  N  N2  1  0.75000000  0.73703292  0.38335788  1
+  N  N3  1  0.75000000  0.76296708  0.88335788  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 N0 1.031525 1_555
+H0 Sr2 2.528128 1_545
+H0 Sr1 2.585509 1_554
+H0 Sr1 2.585509 1_454
+H1 N1 1.031525 1_555
+H1 Sr3 2.528128 1_555
+H1 Sr0 2.585509 1_555
+H1 Sr0 2.585509 1_455
+H2 N2 1.031525 1_555
+H2 Sr0 2.528128 1_555
+H2 Sr3 2.585509 1_555
+H2 Sr3 2.585509 1_655
+H3 N3 1.031525 1_555
+H3 Sr1 2.528128 1_565
+H3 Sr2 2.585509 1_556
+H3 Sr2 2.585509 1_656
+N0 Sr2 2.562448 1_555
+N0 Sr0 2.672173 1_455
+N0 Sr0 2.672173 1_555
+N0 Sr1 2.831874 1_454
+N0 Sr1 2.831874 1_554
+N1 Sr3 2.562448 1_545
+N1 Sr1 2.672173 1_455
+N1 Sr1 2.672173 1_555
+N1 Sr0 2.831874 1_555
+N1 Sr0 2.831874 1_455
+N2 Sr0 2.562448 1_565
+N2 Sr2 2.672173 1_655
+N2 Sr2 2.672173 1_555
+N2 Sr3 2.831874 1_555
+N2 Sr3 2.831874 1_655
+N3 Sr1 2.562448 1_555
+N3 Sr3 2.672173 1_555
+N3 Sr3 2.672173 1_655
+N3 Sr2 2.831874 1_656
+N3 Sr2 2.831874 1_556

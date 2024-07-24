@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_LaY(MnSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16727200
+_cell_length_b   4.16727200
+_cell_length_c   6.67699400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaY(MnSi)2
+_chemical_formula_sum   'La1 Y1 Mn2 Si2'
+_cell_volume   115.95371889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.50000000  0.32032400  1
+  Y  Y0  1  0.00000000  0.00000000  0.69730400  1
+  Mn  Mn0  1  0.50000000  0.00000000  0.99462000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.99462000  1
+  Si  Si0  1  0.50000000  0.50000000  0.82874800  1
+  Si  Si1  1  0.00000000  0.00000000  0.16438400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Mn1 3.011804 1_554
+La0 Mn1 3.011804 1_654
+La0 Mn0 3.011804 1_564
+La0 Mn0 3.011804 1_554
+La0 Si1 3.125252 1_655
+La0 Si1 3.125252 1_565
+La0 Si1 3.125252 1_665
+La0 Si1 3.125252 1_555
+La0 Si0 3.394744 1_555
+La0 Y0 3.875414 1_565
+La0 Y0 3.875414 1_555
+La0 Y0 3.875414 1_665
+La0 Y0 3.875414 1_655
+Mn0 Si0 2.359694 1_545
+Mn0 Si0 2.359694 1_555
+Mn0 Si1 2.372002 1_656
+Mn0 Si1 2.372002 1_556
+Mn0 Y0 2.877928 1_555
+Mn0 Y0 2.877928 1_655
+Mn1 Si0 2.359694 1_455
+Mn1 Si0 2.359694 1_555
+Mn1 Si1 2.372002 1_556
+Mn1 Si1 2.372002 1_566
+Mn1 Y0 2.877928 1_565
+Mn1 Y0 2.877928 1_555
+Si0 Y0 3.074630 1_665
+Si0 Y0 3.074630 1_555
+Si0 Y0 3.074630 1_655
+Si0 Y0 3.074630 1_565
+Si1 Y0 3.118690 1_554
+Si1 Y0 3.558304 1_555

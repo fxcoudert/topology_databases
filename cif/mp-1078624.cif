@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_LaCoC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86044967
+_cell_length_b   3.86044967
+_cell_length_c   7.40817360
+_cell_angle_alpha   81.27073039
+_cell_angle_beta   81.27073039
+_cell_angle_gamma   90.03842513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCoC2
+_chemical_formula_sum   'La2 Co2 C4'
+_cell_volume   107.82985885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.92638970  0.07619620  0.50229348  1
+  La  La1  1  0.07619620  0.92638970  0.00229348  1
+  Co  Co0  1  0.37099690  0.51531559  0.69523063  1
+  Co  Co1  1  0.51531559  0.37099690  0.19523063  1
+  C  C0  1  0.84847928  0.49165623  0.77371886  1
+  C  C1  1  0.49165623  0.84847928  0.27371886  1
+  C  C2  1  0.59492907  0.44203802  0.92575803  1
+  C  C3  1  0.44203802  0.59492907  0.42575803  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 C2 1.364927 1_555
+C0 Co0 2.010712 1_655
+C0 Co0 2.013356 1_555
+C0 La0 2.738975 1_555
+C0 La0 2.768408 1_565
+C0 La1 2.781163 1_646
+C0 La1 2.787320 1_656
+C1 C3 1.364927 1_555
+C1 Co1 2.010712 1_565
+C1 Co1 2.013356 1_555
+C1 La1 2.738975 1_555
+C1 La1 2.768408 1_655
+C1 La0 2.781163 1_465
+C1 La0 2.787320 1_565
+C2 Co1 1.949965 1_556
+C2 Co0 2.011390 1_555
+C2 La1 2.757120 1_546
+C2 La1 2.778136 1_646
+C2 La1 2.794645 1_556
+C2 La1 2.811829 1_656
+C3 Co0 1.949965 1_555
+C3 Co1 2.011390 1_555
+C3 La0 2.757120 1_455
+C3 La0 2.778136 1_465
+C3 La0 2.794645 1_555
+C3 La0 2.811829 1_565

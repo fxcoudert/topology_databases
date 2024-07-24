@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Ca(AlSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18854293
+_cell_length_b   6.18854255
+_cell_length_c   10.70752577
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.65518155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(AlSe2)2
+_chemical_formula_sum   'Ca2 Al4 Se8'
+_cell_volume   356.36504249
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.25000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.75000000  1
+  Al  Al0  1  0.23745840  0.76016946  0.00000000  1
+  Al  Al1  1  0.23983054  0.76254160  0.50000000  1
+  Al  Al2  1  0.76016946  0.23745840  0.50000000  1
+  Al  Al3  1  0.76254160  0.23983054  0.00000000  1
+  Se  Se0  1  -0.00000000  0.50000000  0.17049362  1
+  Se  Se1  1  0.18779985  0.34860157  0.50000000  1
+  Se  Se2  1  0.34860157  0.18779985  0.00000000  1
+  Se  Se3  1  0.65139843  0.81220015  0.00000000  1
+  Se  Se4  1  0.50000000  0.00000000  0.32950638  1
+  Se  Se5  1  0.50000000  0.00000000  0.67049362  1
+  Se  Se6  1  0.81220015  0.65139843  0.50000000  1
+  Se  Se7  1  -0.00000000  0.50000000  0.82950638  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Se3 3.159920 1_555
+Ca0 Se2 3.159920 1_555
+Ca0 Se1 3.159920 1_555
+Ca0 Se6 3.159920 1_555
+Ca0 Se4 3.209245 1_565
+Ca0 Se4 3.209245 1_555
+Ca0 Se0 3.209245 1_655
+Ca0 Se0 3.209245 1_555
+Ca1 Se3 3.159920 1_556
+Ca1 Se2 3.159920 1_556
+Ca1 Se1 3.159920 1_555
+Ca1 Se6 3.159920 1_555
+Ca1 Se5 3.209245 1_565
+Ca1 Se5 3.209245 1_555
+Ca1 Se7 3.209245 1_555
+Ca1 Se7 3.209245 1_655
+Al0 Se2 2.382297 1_565
+Al0 Se7 2.396493 1_554
+Al0 Se0 2.396493 1_555
+Al0 Se3 2.418611 1_555
+Al1 Se6 2.382297 1_455
+Al1 Se5 2.396493 1_565
+Al1 Se4 2.396493 1_565
+Al1 Se1 2.418611 1_555
+Al2 Se1 2.382297 1_655
+Al2 Se5 2.396493 1_555
+Al2 Se4 2.396493 1_555
+Al2 Se6 2.418611 1_555
+Al3 Se3 2.382297 1_545
+Al3 Se0 2.396493 1_655
+Al3 Se7 2.396493 1_654
+Al3 Se2 2.418611 1_555

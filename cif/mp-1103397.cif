@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_BaSnF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33358361
+_cell_length_b   4.33358361
+_cell_length_c   11.15426769
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSnF4
+_chemical_formula_sum   'Ba2 Sn2 F8'
+_cell_volume   209.47655498
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.75000000  0.63492613  1
+  Ba  Ba1  1  0.25000000  0.25000000  0.36507387  1
+  Sn  Sn0  1  0.75000000  0.75000000  0.12607481  1
+  Sn  Sn1  1  0.25000000  0.25000000  0.87392519  1
+  F  F0  1  0.75000000  0.25000000  0.81433391  1
+  F  F1  1  0.25000000  0.75000000  0.81433391  1
+  F  F2  1  0.25000000  0.75000000  0.18566609  1
+  F  F3  1  0.75000000  0.25000000  0.18566609  1
+  F  F4  1  0.75000000  0.25000000  0.50000000  1
+  F  F5  1  0.25000000  0.75000000  0.50000000  1
+  F  F6  1  0.75000000  0.75000000  0.31282876  1
+  F  F7  1  0.25000000  0.25000000  0.68717124  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 F4 2.638185 1_555
+Ba0 F5 2.638185 1_555
+Ba0 F5 2.638185 1_655
+Ba0 F4 2.638185 1_565
+Ba0 F0 2.949515 1_555
+Ba0 F1 2.949515 1_555
+Ba0 F0 2.949515 1_565
+Ba0 F1 2.949515 1_655
+Ba0 F7 3.119227 1_565
+Ba0 F7 3.119227 1_555
+Ba0 F7 3.119227 1_665
+Ba0 F7 3.119227 1_655
+Ba1 F4 2.638185 1_455
+Ba1 F4 2.638185 1_555
+Ba1 F5 2.638185 1_555
+Ba1 F5 2.638185 1_545
+Ba1 F2 2.949515 1_545
+Ba1 F2 2.949515 1_555
+Ba1 F3 2.949515 1_455
+Ba1 F3 2.949515 1_555
+Ba1 F6 3.119227 1_555
+Ba1 F6 3.119227 1_455
+Ba1 F6 3.119227 1_545
+Ba1 F6 3.119227 1_445
+F0 Sn1 2.266453 1_555
+F0 Sn1 2.266453 1_655
+F1 Sn1 2.266453 1_555
+F1 Sn1 2.266453 1_565
+F2 Sn0 2.266453 1_555
+F2 Sn0 2.266453 1_455
+F3 Sn0 2.266453 1_545
+F3 Sn0 2.266453 1_555
+F6 Sn0 2.083104 1_555
+F7 Sn1 2.083104 1_555

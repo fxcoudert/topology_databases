@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaTl2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.98206873
+_cell_length_b   12.82937906
+_cell_length_c   12.82937940
+_cell_angle_alpha   61.55086572
+_cell_angle_beta   62.17837505
+_cell_angle_gamma   62.17837852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTl2In
+_chemical_formula_sum   'Na1 Tl2 In1'
+_cell_volume   1455.85906433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  -0.00000000  -0.00000000  1
+  Tl  Tl0  1  0.73900468  0.00000003  0.00000003  1
+  Tl  Tl1  1  0.26099532  0.99999997  -0.00000003  1
+  In  In0  1  0.50000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Tl1 3.127264 1_545
+Na0 Tl0 3.127264 1_455
+In0 Tl0 2.863771 1_555
+In0 Tl1 2.863771 1_545

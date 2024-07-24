@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Co(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42197500
+_cell_length_b   5.33474300
+_cell_length_c   6.85498608
+_cell_angle_alpha   64.56757771
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(CO3)2
+_chemical_formula_sum   'Co2 C4 O12'
+_cell_volume   245.11605932
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.50000000  0.00000000  0.50000000  1
+  C  C0  1  0.26334100  0.12043500  0.12974300  1
+  C  C1  1  0.23665900  0.12043500  0.62974300  1
+  C  C2  1  0.76334100  0.87956500  0.37025700  1
+  C  C3  1  0.73665900  0.87956500  0.87025700  1
+  O  O0  1  0.12161800  0.27824400  0.07036800  1
+  O  O1  1  0.40505200  0.18502100  0.20070600  1
+  O  O2  1  0.74349800  0.10893600  0.39452800  1
+  O  O3  1  0.24349800  0.89106400  0.10547200  1
+  O  O4  1  0.90505200  0.81497900  0.29929400  1
+  O  O5  1  0.62161800  0.72175600  0.42963200  1
+  O  O6  1  0.37838200  0.27824400  0.57036800  1
+  O  O7  1  0.09494800  0.18502100  0.70070600  1
+  O  O8  1  0.75650200  0.10893600  0.89452800  1
+  O  O9  1  0.25650200  0.89106400  0.60547200  1
+  O  O10  1  0.59494800  0.81497900  0.79929400  1
+  O  O11  1  0.87838200  0.72175600  0.92963200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 O8 1.940539 1_454
+Co0 O3 1.940539 1_545
+Co0 O11 1.966152 1_444
+Co0 O0 1.966152 1_555
+Co0 O7 1.985153 1_554
+Co0 O4 1.985153 1_445
+Co1 O9 1.940539 1_545
+Co1 O2 1.940539 1_555
+Co1 O6 1.966152 1_555
+Co1 O5 1.966152 1_545
+Co1 O10 1.985153 1_545
+Co1 O1 1.985153 1_555
+C0 O1 1.267097 1_555
+C0 O0 1.298662 1_555
+C0 O3 1.312064 1_545
+C1 O7 1.267097 1_555
+C1 O6 1.298662 1_555
+C1 O9 1.312064 1_545
+C2 O4 1.267097 1_555
+C2 O5 1.298662 1_555
+C2 O2 1.312064 1_565
+C3 O10 1.267097 1_555
+C3 O11 1.298662 1_555
+C3 O8 1.312064 1_565

@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_NbGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90171297
+_cell_length_b   6.55031075
+_cell_length_c   7.57191663
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGePt
+_chemical_formula_sum   'Nb4 Ge4 Pt4'
+_cell_volume   193.51874749
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.25000000  0.02686610  0.33732017  1
+  Nb  Nb1  1  0.25000000  0.52686610  0.16267983  1
+  Nb  Nb2  1  0.75000000  0.97313390  0.66267983  1
+  Nb  Nb3  1  0.75000000  0.47313390  0.83732017  1
+  Ge  Ge0  1  0.25000000  0.26918289  0.62713925  1
+  Ge  Ge1  1  0.25000000  0.76918289  0.87286075  1
+  Ge  Ge2  1  0.75000000  0.73081711  0.37286075  1
+  Ge  Ge3  1  0.75000000  0.23081711  0.12713925  1
+  Pt  Pt0  1  0.25000000  0.15374710  0.93397702  1
+  Pt  Pt1  1  0.25000000  0.65374710  0.56602298  1
+  Pt  Pt2  1  0.75000000  0.84625290  0.06602298  1
+  Pt  Pt3  1  0.75000000  0.34625290  0.43397702  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Pt3 2.952676 1_455
+Nb0 Pt3 2.952676 1_555
+Nb0 Pt1 2.995364 1_545
+Nb0 Pt2 3.070082 1_445
+Nb0 Pt2 3.070082 1_545
+Nb0 Pt0 3.165147 1_554
+Nb1 Pt2 2.952676 1_455
+Nb1 Pt2 2.952676 1_555
+Nb1 Pt0 2.995364 1_554
+Nb1 Pt3 3.070082 1_455
+Nb1 Pt3 3.070082 1_555
+Nb1 Pt1 3.165147 1_555
+Nb2 Pt1 2.952676 1_555
+Nb2 Pt1 2.952676 1_655
+Nb2 Pt3 2.995364 1_565
+Nb2 Pt0 3.070082 1_565
+Nb2 Pt0 3.070082 1_665
+Nb2 Pt2 3.165147 1_556
+Nb3 Pt0 2.952676 1_655
+Nb3 Pt0 2.952676 1_555
+Nb3 Pt2 2.995364 1_556
+Nb3 Pt1 3.070082 1_655
+Nb3 Pt1 3.070082 1_555
+Nb3 Pt3 3.165147 1_555
+Ge0 Pt0 2.443298 1_555
+Ge0 Pt3 2.489964 1_455
+Ge0 Pt3 2.489964 1_555
+Ge0 Pt1 2.561170 1_555
+Ge0 Nb0 2.708345 1_555
+Ge0 Nb2 2.763839 1_445
+Ge0 Nb2 2.763839 1_545
+Ge0 Nb3 2.850152 1_555
+Ge0 Nb3 2.850152 1_455
+Ge1 Pt1 2.443298 1_555
+Ge1 Pt2 2.489964 1_456
+Ge1 Pt2 2.489964 1_556
+Ge1 Pt0 2.561170 1_565
+Ge1 Nb1 2.708345 1_556
+Ge1 Nb3 2.763839 1_455
+Ge1 Nb3 2.763839 1_555
+Ge1 Nb2 2.850152 1_555
+Ge1 Nb2 2.850152 1_455
+Ge2 Pt2 2.443298 1_555
+Ge2 Pt1 2.489964 1_655
+Ge2 Pt1 2.489964 1_555
+Ge2 Pt3 2.561170 1_555
+Ge2 Nb2 2.708345 1_555
+Ge2 Nb0 2.763839 1_565
+Ge2 Nb0 2.763839 1_665
+Ge2 Nb1 2.850152 1_555
+Ge2 Nb1 2.850152 1_655
+Ge3 Pt3 2.443298 1_555
+Ge3 Pt0 2.489964 1_654
+Ge3 Pt0 2.489964 1_554
+Ge3 Pt2 2.561170 1_545
+Ge3 Nb3 2.708345 1_554
+Ge3 Nb1 2.763839 1_555
+Ge3 Nb1 2.763839 1_655
+Ge3 Nb0 2.850152 1_555
+Ge3 Nb0 2.850152 1_655

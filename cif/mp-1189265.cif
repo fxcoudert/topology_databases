@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_NaCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63130285
+_cell_length_b   8.00036699
+_cell_length_c   8.41578308
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCl3
+_chemical_formula_sum   'Na4 Cl12'
+_cell_volume   379.15197827
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.05084515  0.82062723  1
+  Na  Na1  1  0.25000000  0.44915485  0.32062723  1
+  Na  Na2  1  0.75000000  0.94915485  0.17937277  1
+  Na  Na3  1  0.75000000  0.55084515  0.67937277  1
+  Cl  Cl0  1  0.25000000  0.35775917  0.64248710  1
+  Cl  Cl1  1  0.25000000  0.14224083  0.14248710  1
+  Cl  Cl2  1  0.75000000  0.64224083  0.35751290  1
+  Cl  Cl3  1  0.75000000  0.85775917  0.85751290  1
+  Cl  Cl4  1  0.25000000  0.78840453  0.58103751  1
+  Cl  Cl5  1  0.25000000  0.71159547  0.08103751  1
+  Cl  Cl6  1  0.75000000  0.21159547  0.41896249  1
+  Cl  Cl7  1  0.75000000  0.28840453  0.91896249  1
+  Cl  Cl8  1  0.25000000  0.55114007  0.87982486  1
+  Cl  Cl9  1  0.25000000  0.94885993  0.37982486  1
+  Cl  Cl10  1  0.75000000  0.44885993  0.12017514  1
+  Cl  Cl11  1  0.75000000  0.05114007  0.62017514  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Cl8 2.526483 1_555
+Cl0 Na1 2.805659 1_555
+Cl0 Na0 2.876922 1_555
+Cl0 Na3 3.226536 1_455
+Cl0 Na3 3.226536 1_555
+Cl1 Cl9 2.526483 1_545
+Cl1 Na0 2.805659 1_554
+Cl1 Na1 2.876922 1_555
+Cl1 Na2 3.226536 1_445
+Cl1 Na2 3.226536 1_545
+Cl2 Na3 2.805659 1_555
+Cl2 Na2 2.876922 1_555
+Cl2 Na1 3.226536 1_555
+Cl2 Na1 3.226536 1_655
+Cl3 Na2 2.805659 1_556
+Cl3 Na3 2.876922 1_555
+Cl3 Na0 3.226536 1_565
+Cl3 Na0 3.226536 1_665
+Cl4 Cl9 2.124939 1_555
+Cl4 Na0 2.911016 1_565
+Cl5 Cl8 2.124939 1_554
+Cl5 Na1 2.911016 1_555
+Cl6 Na2 2.911016 1_545
+Cl7 Na3 2.911016 1_555
+Cl8 Na3 3.282337 1_555
+Cl8 Na3 3.282337 1_455
+Cl9 Na2 3.282337 1_455
+Cl9 Na2 3.282337 1_555
+Cl10 Cl7 2.124939 1_554
+Cl10 Cl2 2.526483 1_555
+Cl10 Na1 3.282337 1_655
+Cl10 Na1 3.282337 1_555
+Cl11 Cl6 2.124939 1_555
+Cl11 Cl3 2.526483 1_545
+Cl11 Na0 3.282337 1_555
+Cl11 Na0 3.282337 1_655

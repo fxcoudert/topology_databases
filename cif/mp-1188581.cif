@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Si5(H2Cl)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51525543
+_cell_length_b   7.51525543
+_cell_length_c   7.51525543
+_cell_angle_alpha   103.22377822
+_cell_angle_beta   103.22377822
+_cell_angle_gamma   122.85331984
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si5(H2Cl)4
+_chemical_formula_sum   'Si5 H8 Cl4'
+_cell_volume   313.14021978
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.75000000  0.50000000  1
+  Si  Si1  1  0.85996200  0.62028300  0.37790000  1
+  Si  Si2  1  0.24238400  0.48206200  0.62210000  1
+  Si  Si3  1  0.37971700  0.75761600  0.23967900  1
+  Si  Si4  1  0.51793800  0.14003800  0.76032100  1
+  H  H0  1  0.79039200  0.65575000  0.19471500  1
+  H  H1  1  0.46103400  0.59567700  0.80528500  1
+  H  H2  1  0.34425000  0.53896600  0.13464200  1
+  H  H3  1  0.40432300  0.20960800  0.86535800  1
+  H  H4  1  0.68545100  0.37083000  0.33903300  1
+  H  H5  1  0.03179700  0.34641700  0.66096700  1
+  H  H6  1  0.62917000  0.96820300  0.31462000  1
+  H  H7  1  0.65358300  0.31454900  0.68538000  1
+  Cl  Cl0  1  0.82945400  0.81221900  0.60204500  1
+  Cl  Cl1  1  0.21017400  0.22740800  0.39795500  1
+  Cl  Cl2  1  0.18778100  0.78982600  0.01723500  1
+  Cl  Cl3  1  0.77259200  0.17054600  0.98276500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.375771 1_455
+Si0 Si4 2.375771 1_565
+Si0 Si3 2.375771 1_555
+Si0 Si2 2.375773 1_555
+H0 Si1 1.493129 1_555
+H1 Si2 1.493120 1_555
+H2 Si3 1.493115 1_555
+H3 Si4 1.493129 1_555
+H4 Si1 1.492131 1_555
+H5 Si2 1.492138 1_555
+H6 Si3 1.492135 1_555
+H7 Si4 1.492128 1_555
+Cl0 Si1 2.096341 1_555
+Cl1 Si2 2.096341 1_555
+Cl2 Si3 2.096346 1_555
+Cl3 Si4 2.096346 1_555

@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Cd3(CuP5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41674767
+_cell_length_b   7.41674767
+_cell_length_c   7.41674658
+_cell_angle_alpha   60.09651945
+_cell_angle_beta   60.09651945
+_cell_angle_gamma   60.09652438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3(CuP5)2
+_chemical_formula_sum   'Cd3 Cu2 P10'
+_cell_volume   289.11740185
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.40458714  0.40458714  0.78509476  1
+  Cd  Cd1  1  0.78509476  0.40458714  0.40458714  1
+  Cd  Cd2  1  0.40458714  0.78509476  0.40458714  1
+  Cu  Cu0  1  0.00126373  0.00126373  0.00126373  1
+  Cu  Cu1  1  0.38620004  0.38620004  0.38620004  1
+  P  P0  1  0.00701947  0.50838873  0.50838873  1
+  P  P1  1  0.50838873  0.50838873  0.00701947  1
+  P  P2  1  0.50838873  0.00701947  0.50838873  1
+  P  P3  1  0.51302983  0.98897199  0.98897199  1
+  P  P4  1  0.98897199  0.51302983  0.98897199  1
+  P  P5  1  0.98897199  0.98897199  0.51302983  1
+  P  P6  1  0.87208120  0.87208120  0.38617162  1
+  P  P7  1  0.87208120  0.38617162  0.87208120  1
+  P  P8  1  0.38617162  0.87208120  0.87208120  1
+  P  P9  1  0.87316242  0.87316242  0.87316242  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 P3 2.555069 1_545
+Cd0 P4 2.555069 1_455
+Cd0 P1 2.648113 1_556
+Cd1 P4 2.555069 1_554
+Cd1 P5 2.555069 1_545
+Cd1 P0 2.648113 1_655
+Cd2 P3 2.555069 1_554
+Cd2 P5 2.555069 1_455
+Cd2 P2 2.648113 1_565
+Cu0 P9 2.325549 1_444
+Cu0 P6 2.333782 1_445
+Cu0 P8 2.333782 1_544
+Cu0 P7 2.333782 1_454
+Cu1 P1 2.299573 1_555
+Cu1 P0 2.299573 1_555
+Cu1 P2 2.299573 1_555
+P0 P7 2.207759 1_455
+P0 P6 2.207760 1_455
+P1 P7 2.207760 1_554
+P1 P8 2.207760 1_554
+P2 P8 2.207759 1_545
+P2 P6 2.207760 1_545
+P3 P8 2.182768 1_555
+P3 P9 2.184126 1_555
+P4 P7 2.182768 1_555
+P4 P9 2.184126 1_555
+P5 P6 2.182768 1_555
+P5 P9 2.184125 1_555

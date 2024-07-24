@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_PmSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16700646
+_cell_length_b   8.38218923
+_cell_length_c   8.46326189
+_cell_angle_alpha   89.80386038
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmSe2
+_chemical_formula_sum   'Pm4 Se8'
+_cell_volume   295.60846736
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.27902985  0.37345782  0.27465491  1
+  Pm  Pm1  1  0.72097015  0.62654218  0.72534509  1
+  Pm  Pm2  1  0.22097015  0.87345782  0.27465491  1
+  Pm  Pm3  1  0.77902985  0.12654218  0.72534509  1
+  Se  Se0  1  0.18281747  0.61801744  0.99770208  1
+  Se  Se1  1  0.75703524  0.12539547  0.36850792  1
+  Se  Se2  1  0.24296476  0.87460453  0.63149208  1
+  Se  Se3  1  0.25703524  0.37460453  0.63149208  1
+  Se  Se4  1  0.68281747  0.88198256  0.00229792  1
+  Se  Se5  1  0.74296476  0.62539547  0.36850792  1
+  Se  Se6  1  0.81718253  0.38198256  0.00229792  1
+  Se  Se7  1  0.31718253  0.11801744  0.99770208  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pm0 Se5 2.973112 1_555
+Pm0 Se1 2.985062 1_555
+Pm0 Se6 3.003484 1_455
+Pm0 Se3 3.021445 1_555
+Pm0 Se1 3.110373 1_455
+Pm0 Se0 3.134341 1_554
+Pm0 Se5 3.176768 1_455
+Pm0 Se7 3.184044 1_554
+Pm0 Se6 3.216501 1_555
+Pm1 Se3 2.973112 1_555
+Pm1 Se2 2.985062 1_555
+Pm1 Se0 3.003484 1_655
+Pm1 Se5 3.021445 1_555
+Pm1 Se2 3.110373 1_655
+Pm1 Se6 3.134341 1_556
+Pm1 Se3 3.176768 1_655
+Pm1 Se4 3.184044 1_556
+Pm1 Se0 3.216501 1_555
+Pm2 Se1 2.973112 1_465
+Pm2 Se5 2.985062 1_455
+Pm2 Se4 3.003484 1_555
+Pm2 Se2 3.021445 1_555
+Pm2 Se5 3.110373 1_555
+Pm2 Se7 3.134341 1_564
+Pm2 Se1 3.176768 1_565
+Pm2 Se0 3.184044 1_554
+Pm2 Se4 3.216501 1_455
+Pm3 Se2 2.973112 1_645
+Pm3 Se3 2.985062 1_655
+Pm3 Se7 3.003484 1_555
+Pm3 Se1 3.021445 1_555
+Pm3 Se3 3.110373 1_555
+Pm3 Se4 3.134341 1_546
+Pm3 Se2 3.176768 1_545
+Pm3 Se6 3.184044 1_556
+Pm3 Se7 3.216501 1_655
+Se0 Se6 2.497353 1_456
+Se4 Se7 2.497353 1_564

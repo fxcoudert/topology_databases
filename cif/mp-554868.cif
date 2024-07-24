@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Al(MoS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90796030
+_cell_length_b   6.90796030
+_cell_length_c   6.90796026
+_cell_angle_alpha   60.68754366
+_cell_angle_beta   60.68754366
+_cell_angle_gamma   60.68753830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(MoS2)4
+_chemical_formula_sum   'Al1 Mo4 S8'
+_cell_volume   236.71329235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.99757300  0.99757300  0.99757300  1
+  Mo  Mo0  1  0.18681500  0.60070000  0.60070000  1
+  Mo  Mo1  1  0.59514200  0.59514200  0.59514200  1
+  Mo  Mo2  1  0.60070000  0.18681500  0.60070000  1
+  Mo  Mo3  1  0.60070000  0.60070000  0.18681500  1
+  S  S0  1  0.36483400  0.36483400  0.36483400  1
+  S  S1  1  0.35978000  0.89889500  0.35978000  1
+  S  S2  1  0.35978000  0.35978000  0.89889500  1
+  S  S3  1  0.86001400  0.86001400  0.40012400  1
+  S  S4  1  0.86162700  0.86162700  0.86162700  1
+  S  S5  1  0.40012400  0.86001400  0.86001400  1
+  S  S6  1  0.86001400  0.40012400  0.86001400  1
+  S  S7  1  0.89889500  0.35978000  0.35978000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 S4 2.288314 1_555
+Al0 S5 2.290912 1_655
+Al0 S6 2.290912 1_565
+Al0 S3 2.290912 1_556
+Mo0 S0 2.344670 1_555
+Mo0 S2 2.355166 1_555
+Mo0 S1 2.355166 1_555
+Mo0 S4 2.606916 1_455
+Mo0 S3 2.626394 1_455
+Mo0 S6 2.626394 1_455
+Mo1 S7 2.365859 1_555
+Mo1 S1 2.365859 1_555
+Mo1 S2 2.365859 1_555
+Mo1 S5 2.638491 1_555
+Mo1 S6 2.638491 1_555
+Mo1 S3 2.638492 1_555
+Mo2 S0 2.344670 1_555
+Mo2 S2 2.355166 1_555
+Mo2 S7 2.355166 1_555
+Mo2 S4 2.606916 1_545
+Mo2 S3 2.626394 1_545
+Mo2 S5 2.626394 1_545
+Mo3 S0 2.344670 1_555
+Mo3 S1 2.355166 1_555
+Mo3 S7 2.355166 1_555
+Mo3 S4 2.606916 1_554
+Mo3 S5 2.626394 1_554
+Mo3 S6 2.626394 1_554

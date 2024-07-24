@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbTePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60655898
+_cell_length_b   6.60655898
+_cell_length_c   6.60655898
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbTePd
+_chemical_formula_sum   'Sb4 Te4 Pd4'
+_cell_volume   288.35397959
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.62650546  0.62650546  0.62650446  1
+  Sb  Sb1  1  0.87349554  0.37349554  0.12650546  1
+  Sb  Sb2  1  0.12650546  0.87349454  0.37349554  1
+  Sb  Sb3  1  0.37349554  0.12650446  0.87349454  1
+  Te  Te0  1  0.37496283  0.37496283  0.37496383  1
+  Te  Te1  1  0.12503717  0.62503717  0.87496183  1
+  Te  Te2  1  0.87496283  0.12503717  0.62503617  1
+  Te  Te3  1  0.62503717  0.87496283  0.12503817  1
+  Pd  Pd0  1  0.00432582  0.00432582  0.00432582  1
+  Pd  Pd1  1  0.49567418  0.99567418  0.50432582  1
+  Pd  Pd2  1  0.50432582  0.49567418  0.99567418  1
+  Pd  Pd3  1  0.99567418  0.50432582  0.49567418  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Te0 2.878368 1_555
+Sb1 Te1 2.878372 1_654
+Sb2 Te2 2.878368 1_465
+Sb3 Te3 2.878372 1_546
+Pd0 Sb1 2.710547 1_455
+Pd0 Sb3 2.710547 1_554
+Pd0 Sb2 2.710549 1_545
+Pd0 Te3 2.765033 1_445
+Pd0 Te1 2.765034 1_544
+Pd0 Te2 2.765038 1_454
+Pd1 Sb3 2.710539 1_565
+Pd1 Sb2 2.710541 1_555
+Pd1 Sb0 2.710542 1_555
+Pd1 Te3 2.765026 1_555
+Pd1 Te0 2.765030 1_565
+Pd1 Te2 2.765030 1_565
+Pd2 Sb3 2.710547 1_555
+Pd2 Sb1 2.710547 1_556
+Pd2 Sb0 2.710549 1_555
+Pd2 Te1 2.765033 1_555
+Pd2 Te3 2.765034 1_556
+Pd2 Te0 2.765038 1_556
+Pd3 Sb1 2.710539 1_555
+Pd3 Sb0 2.710541 1_555
+Pd3 Sb2 2.710542 1_655
+Pd3 Te1 2.765026 1_655
+Pd3 Te2 2.765030 1_555
+Pd3 Te0 2.765030 1_655

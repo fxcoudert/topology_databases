@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_NaSnAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58362101
+_cell_length_b   7.52925931
+_cell_length_c   8.10219611
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSnAu
+_chemical_formula_sum   'Na4 Sn4 Au4'
+_cell_volume   279.61708697
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.01569681  0.17212810  1
+  Na  Na1  1  0.50000000  0.51569681  0.32787190  1
+  Na  Na2  1  0.00000000  0.48430319  0.67212810  1
+  Na  Na3  1  0.00000000  0.98430319  0.82787190  1
+  Sn  Sn0  1  0.50000000  0.66213731  0.93591739  1
+  Sn  Sn1  1  0.50000000  0.16213631  0.56408261  1
+  Sn  Sn2  1  0.00000000  0.83786269  0.43591739  1
+  Sn  Sn3  1  0.00000000  0.33786269  0.06408261  1
+  Au  Au0  1  -0.00000000  0.70593006  0.12320808  1
+  Au  Au1  1  0.50000000  0.29406994  0.87679192  1
+  Au  Au2  1  0.50000000  0.79406994  0.62320808  1
+  Au  Au3  1  -0.00000000  0.20593006  0.37679192  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sn0 3.278596 1_544
+Na0 Sn1 3.361652 1_555
+Na0 Sn2 3.407806 1_645
+Na0 Sn2 3.407806 1_545
+Na0 Sn3 3.450016 1_555
+Na0 Sn3 3.450016 1_655
+Na1 Sn1 3.278602 1_555
+Na1 Sn0 3.361655 1_554
+Na1 Sn3 3.407806 1_655
+Na1 Sn3 3.407806 1_555
+Na1 Sn2 3.450016 1_655
+Na1 Sn2 3.450016 1_555
+Na2 Sn2 3.278596 1_555
+Na2 Sn3 3.361655 1_556
+Na2 Sn0 3.407806 1_455
+Na2 Sn0 3.407806 1_555
+Na2 Sn1 3.450021 1_555
+Na2 Sn1 3.450021 1_455
+Na3 Sn3 3.278596 1_566
+Na3 Sn2 3.361655 1_555
+Na3 Sn1 3.407803 1_465
+Na3 Sn1 3.407803 1_565
+Na3 Sn0 3.450016 1_455
+Na3 Sn0 3.450016 1_555
+Au0 Sn2 2.721405 1_555
+Au0 Sn0 2.768360 1_554
+Au0 Sn0 2.768360 1_454
+Au0 Sn3 2.812374 1_555
+Au0 Na1 3.170747 1_555
+Au0 Na1 3.170747 1_455
+Au0 Na3 3.181008 1_554
+Au0 Na0 3.293810 1_565
+Au0 Na0 3.293810 1_465
+Au1 Sn1 2.721408 1_555
+Au1 Sn3 2.768360 1_656
+Au1 Sn3 2.768360 1_556
+Au1 Sn0 2.812374 1_555
+Au1 Na2 3.170747 1_555
+Au1 Na2 3.170747 1_655
+Au1 Na0 3.181008 1_556
+Au1 Na3 3.293810 1_545
+Au1 Na3 3.293810 1_645
+Au2 Sn0 2.721405 1_555
+Au2 Sn2 2.768360 1_555
+Au2 Sn2 2.768360 1_655
+Au2 Sn1 2.812367 1_565
+Au2 Na3 3.170747 1_555
+Au2 Na3 3.170747 1_655
+Au2 Na1 3.181008 1_555
+Au2 Na2 3.293810 1_555
+Au2 Na2 3.293810 1_655
+Au3 Sn3 2.721405 1_555
+Au3 Sn1 2.768361 1_555
+Au3 Sn1 2.768361 1_455
+Au3 Sn2 2.812374 1_545
+Au3 Na0 3.170747 1_555
+Au3 Na0 3.170747 1_455
+Au3 Na2 3.181008 1_555
+Au3 Na1 3.293810 1_455
+Au3 Na1 3.293810 1_555

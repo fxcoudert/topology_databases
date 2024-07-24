@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_CdIBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17514361
+_cell_length_b   4.17514361
+_cell_length_c   13.75318101
+_cell_angle_alpha   81.26942386
+_cell_angle_beta   81.26942386
+_cell_angle_gamma   59.99997000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdIBr
+_chemical_formula_sum   'Cd2 I2 Br2'
+_cell_volume   204.40956608
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.71197088  0.71197088  0.86408735  1
+  Cd  Cd1  1  0.21185260  0.21185260  0.36444420  1
+  I  I0  1  0.00233090  0.00233090  0.99300731  1
+  I  I1  1  0.83550779  0.83550779  0.49347663  1
+  Br  Br0  1  0.58240102  0.58240102  0.25279595  1
+  Br  Br1  1  0.41593682  0.41593682  0.75218855  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 I0 2.976201 1_655
+Cd0 I0 2.976201 1_565
+Cd0 I0 2.976202 1_665
+Cd1 I1 2.977092 1_455
+Cd1 I1 2.977092 1_545
+Cd1 I1 2.977099 1_445
+Br0 Cd1 2.845340 1_555
+Br0 Cd1 2.845348 1_565
+Br0 Cd1 2.845348 1_655
+Br1 Cd0 2.847148 1_455
+Br1 Cd0 2.847148 1_545
+Br1 Cd0 2.847152 1_555

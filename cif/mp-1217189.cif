@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Ti5Mn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12266121
+_cell_length_b   5.12265854
+_cell_length_c   7.74387407
+_cell_angle_alpha   90.00000433
+_cell_angle_beta   90.00002059
+_cell_angle_gamma   119.99925345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Mn7
+_chemical_formula_sum   'Ti5 Mn7'
+_cell_volume   175.98806790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666710  0.33333293  0.06597428  1
+  Ti  Ti1  1  0.33333284  0.66666720  0.93408917  1
+  Ti  Ti2  1  0.33333253  0.66666740  0.56068921  1
+  Ti  Ti3  1  0.66666741  0.33333262  0.43921096  1
+  Ti  Ti4  1  -0.00000017  0.00000006  0.00005066  1
+  Mn  Mn0  1  0.65593992  0.82796759  0.25857700  1
+  Mn  Mn1  1  0.17202925  0.82797177  0.25857616  1
+  Mn  Mn2  1  0.17203361  0.34406108  0.25857661  1
+  Mn  Mn3  1  0.34400705  0.17200540  0.74143420  1
+  Mn  Mn4  1  0.82799716  0.17200214  0.74143478  1
+  Mn  Mn5  1  0.82799309  0.65599194  0.74143462  1
+  Mn  Mn6  1  0.00000020  -0.00000015  0.49995236  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti3 2.890298 1_555
+Ti0 Ti4 3.001289 1_655
+Ti0 Ti4 3.001328 1_665
+Ti0 Ti4 3.001330 1_555
+Ti0 Ti1 3.128938 1_554
+Ti0 Ti1 3.128957 1_544
+Ti0 Ti1 3.128959 1_654
+Ti1 Ti2 2.891562 1_555
+Ti1 Ti4 3.001340 1_566
+Ti1 Ti4 3.001378 1_556
+Ti1 Ti4 3.001378 1_666
+Ti2 Ti3 3.103573 1_555
+Ti2 Ti3 3.103586 1_565
+Ti2 Ti3 3.103586 1_455
+Mn0 Mn6 2.413231 1_665
+Mn0 Mn2 2.478916 1_555
+Mn0 Mn1 2.478921 1_555
+Mn0 Ti4 2.517506 1_665
+Mn0 Mn1 2.643740 1_655
+Mn0 Mn2 2.643802 1_665
+Mn0 Ti2 2.742575 1_555
+Mn0 Ti1 2.891797 1_554
+Mn0 Ti3 2.918783 1_555
+Mn0 Ti3 2.918796 1_565
+Mn0 Ti0 2.964316 1_555
+Mn0 Ti0 2.964333 1_565
+Mn1 Mn6 2.413217 1_565
+Mn1 Mn2 2.478920 1_555
+Mn1 Ti4 2.517483 1_565
+Mn1 Mn2 2.643738 1_565
+Mn1 Ti2 2.742572 1_555
+Mn1 Ti1 2.891786 1_554
+Mn1 Ti3 2.918816 1_565
+Mn1 Ti3 2.918821 1_455
+Mn1 Ti0 2.964345 1_565
+Mn1 Ti0 2.964348 1_455
+Mn2 Mn6 2.413236 1_555
+Mn2 Ti4 2.517505 1_555
+Mn2 Ti2 2.742574 1_555
+Mn2 Ti1 2.891792 1_554
+Mn2 Ti3 2.918782 1_555
+Mn2 Ti3 2.918802 1_455
+Mn2 Ti0 2.964313 1_555
+Mn2 Ti0 2.964335 1_455
+Mn3 Mn6 2.413720 1_555
+Mn3 Mn5 2.479325 1_555
+Mn3 Mn4 2.479326 1_555
+Mn3 Ti4 2.517919 1_556
+Mn3 Mn4 2.643335 1_455
+Mn3 Mn5 2.643393 1_445
+Mn3 Ti3 2.743431 1_555
+Mn3 Ti0 2.892264 1_556
+Mn3 Ti2 2.919194 1_555
+Mn3 Ti2 2.919202 1_545
+Mn3 Ti1 2.964519 1_555
+Mn3 Ti1 2.964530 1_545
+Mn4 Mn6 2.413709 1_655
+Mn4 Mn5 2.479325 1_555
+Mn4 Ti4 2.517897 1_656
+Mn4 Mn5 2.643334 1_545
+Mn4 Ti3 2.743425 1_555
+Mn4 Ti0 2.892255 1_556
+Mn4 Ti2 2.919224 1_545
+Mn4 Ti2 2.919228 1_655
+Mn4 Ti1 2.964546 1_545
+Mn4 Ti1 2.964548 1_655
+Mn5 Mn6 2.413726 1_665
+Mn5 Ti4 2.517917 1_666
+Mn5 Ti3 2.743430 1_555
+Mn5 Ti0 2.892260 1_556
+Mn5 Ti2 2.919192 1_555
+Mn5 Ti2 2.919209 1_655
+Mn5 Ti1 2.964514 1_555
+Mn5 Ti1 2.964533 1_655
+Mn6 Ti2 2.994715 1_545
+Mn6 Ti3 2.994724 1_455
+Mn6 Ti2 2.994759 1_555
+Mn6 Ti2 2.994762 1_445
+Mn6 Ti3 2.994763 1_445
+Mn6 Ti3 2.994765 1_555

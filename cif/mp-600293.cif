@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_YPdPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01287362
+_cell_length_b   8.01287362
+_cell_length_c   3.91224400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999684
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YPdPb
+_chemical_formula_sum   'Y3 Pd3 Pb3'
+_cell_volume   217.53701480
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.27660600  0.27660600  0.00000000  1
+  Y  Y1  1  0.72339400  0.00000000  0.00000000  1
+  Y  Y2  1  0.00000000  0.72339400  0.00000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.50000000  1
+  Pd  Pd1  1  0.66666700  0.33333300  0.00000000  1
+  Pd  Pd2  1  0.33333300  0.66666700  0.00000000  1
+  Pb  Pb0  1  0.39818600  0.00000000  0.50000000  1
+  Pb  Pb1  1  0.60181400  0.60181400  0.50000000  1
+  Pb  Pb2  1  0.00000000  0.39818600  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pd0 Y2 2.956160 1_546
+Pd0 Y2 2.956160 1_545
+Pd0 Y1 2.956160 1_456
+Pd0 Y1 2.956160 1_455
+Pd0 Y0 2.956160 1_555
+Pd0 Y0 2.956160 1_556
+Pd1 Y1 2.924840 1_555
+Pd1 Y2 2.924845 1_655
+Pd1 Y0 2.924848 1_555
+Pd2 Y2 2.924840 1_555
+Pd2 Y1 2.924845 1_565
+Pd2 Y0 2.924848 1_555
+Pb0 Pd2 3.137272 1_545
+Pb0 Pd2 3.137272 1_546
+Pb0 Pd1 3.137274 1_555
+Pb0 Pd1 3.137274 1_556
+Pb0 Pd0 3.190614 1_555
+Pb0 Y1 3.258354 1_556
+Pb0 Y1 3.258354 1_555
+Pb0 Y0 3.441975 1_555
+Pb0 Y0 3.441975 1_556
+Pb0 Y2 3.441975 1_546
+Pb0 Y2 3.441975 1_545
+Pb1 Pd1 3.137278 1_555
+Pb1 Pd2 3.137278 1_556
+Pb1 Pd1 3.137278 1_556
+Pb1 Pd2 3.137278 1_555
+Pb1 Pd0 3.190614 1_665
+Pb1 Y0 3.258354 1_556
+Pb1 Y0 3.258354 1_555
+Pb1 Y1 3.441975 1_565
+Pb1 Y1 3.441975 1_566
+Pb1 Y2 3.441975 1_655
+Pb1 Y2 3.441975 1_656
+Pb2 Pd1 3.137272 1_455
+Pb2 Pd1 3.137272 1_456
+Pb2 Pd2 3.137274 1_556
+Pb2 Pd2 3.137274 1_555
+Pb2 Pd0 3.190614 1_555
+Pb2 Y2 3.258354 1_556
+Pb2 Y2 3.258354 1_555
+Pb2 Y0 3.441975 1_555
+Pb2 Y0 3.441975 1_556
+Pb2 Y1 3.441975 1_456
+Pb2 Y1 3.441975 1_455

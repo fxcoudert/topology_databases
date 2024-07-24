@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SmInPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76630224
+_cell_length_b   7.76630224
+_cell_length_c   3.89488141
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInPd
+_chemical_formula_sum   'Sm3 In3 Pd3'
+_cell_volume   203.44798821
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.59049221  0.00000000  0.50000000  1
+  Sm  Sm1  1  0.00000000  0.59049221  0.50000000  1
+  Sm  Sm2  1  0.40950779  0.40950779  0.50000000  1
+  In  In0  1  0.25659481  0.00000000  -0.00000000  1
+  In  In1  1  0.00000000  0.25659481  -0.00000000  1
+  In  In2  1  0.74340519  0.74340519  0.00000000  1
+  Pd  Pd0  1  -0.00000000  0.00000000  0.50000000  1
+  Pd  Pd1  1  0.33333300  0.66666700  -0.00000000  1
+  Pd  Pd2  1  0.66666700  0.33333300  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Pd0 2.786350 1_554
+In0 Pd0 2.786350 1_555
+In0 Pd1 2.932528 1_545
+In0 Pd2 2.932532 1_555
+In0 Sm0 3.242984 1_554
+In0 Sm0 3.242984 1_555
+In0 Sm1 3.397152 1_544
+In0 Sm1 3.397152 1_545
+In0 Sm2 3.397152 1_555
+In0 Sm2 3.397152 1_554
+In1 Pd0 2.786350 1_554
+In1 Pd0 2.786350 1_555
+In1 Pd2 2.932528 1_455
+In1 Pd1 2.932532 1_555
+In1 Sm1 3.242984 1_554
+In1 Sm1 3.242984 1_555
+In1 Sm0 3.397152 1_454
+In1 Sm0 3.397152 1_455
+In1 Sm2 3.397152 1_555
+In1 Sm2 3.397152 1_554
+In2 Pd0 2.786350 1_664
+In2 Pd0 2.786350 1_665
+In2 Pd1 2.932535 1_555
+In2 Pd2 2.932535 1_555
+In2 Sm2 3.242983 1_555
+In2 Sm2 3.242983 1_554
+In2 Sm0 3.397153 1_565
+In2 Sm0 3.397153 1_564
+In2 Sm1 3.397153 1_655
+In2 Sm1 3.397153 1_654
+Pd0 Sm2 3.180361 1_555
+Pd0 Sm1 3.180361 1_545
+Pd0 Sm0 3.180361 1_455
+Pd1 Sm1 3.051673 1_554
+Pd1 Sm1 3.051673 1_555
+Pd1 Sm0 3.051675 1_565
+Pd1 Sm0 3.051675 1_564
+Pd1 Sm2 3.051679 1_555
+Pd1 Sm2 3.051679 1_554
+Pd2 Sm0 3.051673 1_555
+Pd2 Sm0 3.051673 1_554
+Pd2 Sm1 3.051675 1_655
+Pd2 Sm1 3.051675 1_654
+Pd2 Sm2 3.051679 1_555
+Pd2 Sm2 3.051679 1_554

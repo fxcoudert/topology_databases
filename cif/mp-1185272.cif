@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li3Sm
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67477053
+_cell_length_b   6.67477053
+_cell_length_c   5.07806400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Sm
+_chemical_formula_sum   'Li6 Sm2'
+_cell_volume   195.93023469
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.70308000  0.85154000  0.25000000  1
+  Li  Li1  1  0.14846000  0.29692000  0.25000000  1
+  Li  Li2  1  0.85154000  0.14846000  0.75000000  1
+  Li  Li3  1  0.14846000  0.85154000  0.25000000  1
+  Li  Li4  1  0.85154000  0.70308000  0.75000000  1
+  Li  Li5  1  0.29692000  0.14846000  0.75000000  1
+  Sm  Sm0  1  0.33333300  0.66666700  0.75000000  1
+  Sm  Sm1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Li1 2.972809 1_665
+Li0 Li3 2.972809 1_655
+Li0 Li2 3.064726 1_565
+Li0 Li2 3.064726 1_564
+Li0 Li4 3.064727 1_554
+Li0 Li4 3.064727 1_555
+Li0 Sm0 3.318865 1_555
+Li0 Sm0 3.318865 1_554
+Li0 Sm1 3.344013 1_565
+Li0 Sm1 3.344020 1_555
+Li1 Li3 2.972809 1_545
+Li1 Li2 3.064726 1_455
+Li1 Li2 3.064726 1_454
+Li1 Li5 3.064727 1_555
+Li1 Li5 3.064727 1_554
+Li1 Sm0 3.318865 1_555
+Li1 Sm0 3.318865 1_554
+Li1 Sm1 3.344013 1_455
+Li1 Sm1 3.344020 1_555
+Li2 Li4 2.972809 1_545
+Li2 Li5 2.972809 1_655
+Li2 Sm1 3.318861 1_555
+Li2 Sm1 3.318861 1_556
+Li2 Sm0 3.344016 1_545
+Li2 Sm0 3.344016 1_655
+Li3 Li4 3.064726 1_455
+Li3 Li5 3.064726 1_564
+Li3 Li5 3.064726 1_565
+Li3 Li4 3.064726 1_454
+Li3 Sm0 3.318861 1_555
+Li3 Sm0 3.318861 1_554
+Li3 Sm1 3.344016 1_455
+Li3 Sm1 3.344016 1_565
+Li4 Li5 2.972809 1_665
+Li4 Sm1 3.318865 1_556
+Li4 Sm1 3.318865 1_555
+Li4 Sm0 3.344013 1_655
+Li4 Sm0 3.344020 1_555
+Li5 Sm1 3.318865 1_555
+Li5 Sm1 3.318865 1_556
+Li5 Sm0 3.344013 1_545
+Li5 Sm0 3.344020 1_555

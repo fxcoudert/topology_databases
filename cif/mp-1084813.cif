@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_NdCuGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86917341
+_cell_length_b   8.86917341
+_cell_length_c   4.19384343
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   152.17663104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCuGe2
+_chemical_formula_sum   'Nd2 Cu2 Ge4'
+_cell_volume   153.97861340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.89559644  0.10440356  0.75000000  1
+  Nd  Nd1  1  0.10440356  0.89559644  0.25000000  1
+  Cu  Cu0  1  0.67600283  0.32399717  0.75000000  1
+  Cu  Cu1  1  0.32399717  0.67600283  0.25000000  1
+  Ge  Ge0  1  0.53889606  0.46110394  0.75000000  1
+  Ge  Ge1  1  0.46110394  0.53889606  0.25000000  1
+  Ge  Ge2  1  0.24925725  0.75074275  0.75000000  1
+  Ge  Ge3  1  0.75074275  0.24925725  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Ge0 2.360709 1_555
+Cu0 Ge3 2.460310 1_555
+Cu0 Ge3 2.460310 1_556
+Cu0 Ge2 2.477482 1_545
+Cu0 Ge2 2.477482 1_655
+Cu0 Nd1 3.234798 1_546
+Cu0 Nd1 3.234798 1_545
+Cu0 Nd1 3.234798 1_656
+Cu0 Nd1 3.234798 1_655
+Cu1 Ge1 2.360709 1_555
+Cu1 Ge2 2.460310 1_555
+Cu1 Ge2 2.460310 1_554
+Cu1 Ge3 2.477482 1_565
+Cu1 Ge3 2.477482 1_455
+Cu1 Nd0 3.234798 1_455
+Cu1 Nd0 3.234798 1_454
+Cu1 Nd0 3.234798 1_565
+Cu1 Nd0 3.234798 1_564
+Ge0 Ge1 2.488202 1_555
+Ge0 Ge1 2.488202 1_556
+Ge0 Nd1 3.196296 1_546
+Ge0 Nd1 3.196296 1_655
+Ge0 Nd1 3.196296 1_656
+Ge0 Nd1 3.196296 1_545
+Ge0 Nd0 3.261104 1_455
+Ge0 Nd0 3.261104 1_565
+Ge1 Nd0 3.196296 1_455
+Ge1 Nd0 3.196296 1_454
+Ge1 Nd0 3.196296 1_565
+Ge1 Nd0 3.196296 1_564
+Ge1 Nd1 3.261104 1_655
+Ge1 Nd1 3.261104 1_545
+Ge2 Nd1 3.258465 1_555
+Ge2 Nd1 3.258465 1_556
+Ge2 Nd0 3.300878 1_455
+Ge2 Nd0 3.300878 1_565
+Ge3 Nd0 3.258465 1_554
+Ge3 Nd0 3.258465 1_555
+Ge3 Nd1 3.300878 1_545
+Ge3 Nd1 3.300878 1_655

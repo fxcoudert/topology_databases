@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_BaSr2I6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.73000292
+_cell_length_b   13.73000292
+_cell_length_c   8.97478986
+_cell_angle_alpha   84.79977005
+_cell_angle_beta   84.79977005
+_cell_angle_gamma   33.46869732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr2I6
+_chemical_formula_sum   'Ba2 Sr4 I12'
+_cell_volume   928.84332959
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73377900  0.26622100  0.25000000  1
+  Ba  Ba1  1  0.26622100  0.73377900  0.75000000  1
+  Sr  Sr0  1  0.05385400  0.60302900  0.13460100  1
+  Sr  Sr1  1  0.60302900  0.05385400  0.63460100  1
+  Sr  Sr2  1  0.39697100  0.94614600  0.36539900  1
+  Sr  Sr3  1  0.94614600  0.39697100  0.86539900  1
+  I  I0  1  0.36774600  0.49721300  0.07693500  1
+  I  I1  1  0.49721300  0.36774600  0.57693500  1
+  I  I2  1  0.90827300  0.88040600  0.37630500  1
+  I  I3  1  0.88040600  0.90827300  0.87630500  1
+  I  I4  1  0.32743000  0.23990600  0.35912000  1
+  I  I5  1  0.23990600  0.32743000  0.85912000  1
+  I  I6  1  0.76009400  0.67257000  0.14088000  1
+  I  I7  1  0.67257000  0.76009400  0.64088000  1
+  I  I8  1  0.11959400  0.09172700  0.12369500  1
+  I  I9  1  0.09172700  0.11959400  0.62369500  1
+  I  I10  1  0.50278700  0.63225400  0.42306500  1
+  I  I11  1  0.63225400  0.50278700  0.92306500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 I0 3.414384 1_555
+Ba0 I10 3.414384 1_555
+Ba0 I1 3.544346 1_555
+Ba0 I11 3.544346 1_554
+Ba0 I2 3.649084 1_545
+Ba0 I8 3.649084 1_655
+Ba1 I1 3.414384 1_555
+Ba1 I11 3.414384 1_555
+Ba1 I0 3.544346 1_556
+Ba1 I10 3.544346 1_555
+Ba1 I3 3.649084 1_455
+Ba1 I9 3.649084 1_565
+I0 Sr0 3.199697 1_555
+I1 Sr1 3.199697 1_555
+I2 Sr1 3.346305 1_565
+I2 Sr0 3.349048 1_655
+I3 Sr0 3.346305 1_656
+I3 Sr1 3.349048 1_565
+I4 Sr2 3.275081 1_545
+I4 Sr0 3.366485 1_555
+I4 Sr1 3.373555 1_555
+I5 Sr3 3.275081 1_455
+I5 Sr1 3.366485 1_555
+I5 Sr0 3.373555 1_556
+I6 Sr0 3.275081 1_655
+I6 Sr2 3.366485 1_555
+I6 Sr3 3.373555 1_554
+I7 Sr1 3.275081 1_565
+I7 Sr3 3.366485 1_555
+I7 Sr2 3.373555 1_555
+I8 Sr3 3.346305 1_454
+I8 Sr2 3.349048 1_545
+I9 Sr2 3.346305 1_545
+I9 Sr3 3.349048 1_455
+I10 Sr2 3.199697 1_555
+I11 Sr3 3.199697 1_555

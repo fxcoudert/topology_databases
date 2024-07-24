@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LaTeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53794737
+_cell_length_b   8.00043396
+_cell_length_c   9.46708535
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTeCl
+_chemical_formula_sum   'La4 Te4 Cl4'
+_cell_volume   343.70772394
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75000000  0.26218503  0.86877038  1
+  La  La1  1  0.75000000  0.76218503  0.63122962  1
+  La  La2  1  0.25000000  0.73781497  0.13122962  1
+  La  La3  1  0.25000000  0.23781497  0.36877038  1
+  Te  Te0  1  0.75000000  0.03784752  0.16853033  1
+  Te  Te1  1  0.75000000  0.53784752  0.33146967  1
+  Te  Te2  1  0.25000000  0.96215248  0.83146967  1
+  Te  Te3  1  0.25000000  0.46215248  0.66853033  1
+  Cl  Cl0  1  0.75000000  0.63478751  0.94069463  1
+  Cl  Cl1  1  0.75000000  0.13478751  0.55930537  1
+  Cl  Cl2  1  0.25000000  0.36521249  0.05930537  1
+  Cl  Cl3  1  0.25000000  0.86521249  0.44069463  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Te2 3.321869 1_645
+La0 Te2 3.321869 1_545
+La0 Te0 3.357783 1_556
+La0 Te3 3.361744 1_555
+La0 Te3 3.361744 1_655
+La1 Te3 3.321869 1_655
+La1 Te3 3.321869 1_555
+La1 Te1 3.357783 1_555
+La1 Te2 3.361744 1_655
+La1 Te2 3.361744 1_555
+La2 Te0 3.321869 1_565
+La2 Te0 3.321869 1_465
+La2 Te2 3.357783 1_554
+La2 Te1 3.361744 1_555
+La2 Te1 3.361744 1_455
+La3 Te1 3.321869 1_555
+La3 Te1 3.321869 1_455
+La3 Te3 3.357783 1_555
+La3 Te0 3.361744 1_455
+La3 Te0 3.361744 1_555
+Cl0 La2 3.013534 1_656
+Cl0 La2 3.013534 1_556
+Cl0 La0 3.057760 1_555
+Cl0 La1 3.101962 1_555
+Cl1 La3 3.013534 1_655
+Cl1 La3 3.013534 1_555
+Cl1 La1 3.057760 1_545
+Cl1 La0 3.101962 1_555
+Cl2 La0 3.013534 1_454
+Cl2 La0 3.013534 1_554
+Cl2 La2 3.057760 1_555
+Cl2 La3 3.101962 1_555
+Cl3 La1 3.013534 1_455
+Cl3 La1 3.013534 1_555
+Cl3 La3 3.057760 1_565
+Cl3 La2 3.101962 1_555

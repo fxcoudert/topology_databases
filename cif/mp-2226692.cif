@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgFe2Mo2(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17457583
+_cell_length_b   7.10415142
+_cell_length_c   7.10778202
+_cell_angle_alpha   89.81335994
+_cell_angle_beta   90.85393381
+_cell_angle_gamma   90.86516309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFe2Mo2(ClO4)2
+_chemical_formula_sum   'Mg1 Fe2 Mo2 Cl2 O8'
+_cell_volume   261.22895816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49971100  0.50008800  0.50015600  1
+  Fe  Fe0  1  0.18821000  0.24852300  0.24844100  1
+  Fe  Fe1  1  0.81126400  0.75144600  0.75146400  1
+  Mo  Mo0  1  0.99994800  0.25809000  0.74181400  1
+  Mo  Mo1  1  0.99997300  0.74174700  0.25796200  1
+  Cl  Cl0  1  0.68926300  0.27139400  0.27143100  1
+  Cl  Cl1  1  0.31057900  0.72909100  0.72899200  1
+  O  O0  1  0.16260000  0.96242100  0.27555200  1
+  O  O1  1  0.23427500  0.55332000  0.28288300  1
+  O  O2  1  0.23434900  0.28283900  0.55363200  1
+  O  O3  1  0.16250300  0.27573800  0.96231800  1
+  O  O4  1  0.76591300  0.71706900  0.44641200  1
+  O  O5  1  0.83764400  0.03738500  0.72444400  1
+  O  O6  1  0.83774800  0.72421600  0.03748400  1
+  O  O7  1  0.76602000  0.44663400  0.71701600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.087990 1_555
+Mg0 O1 2.088821 1_555
+Mg0 O4 2.089791 1_555
+Mg0 O7 2.089919 1_555
+Fe0 O0 2.043496 1_545
+Fe0 O3 2.044789 1_554
+Fe0 O1 2.188951 1_555
+Fe0 O2 2.192772 1_555
+Fe1 O5 2.042494 1_565
+Fe1 O6 2.044283 1_556
+Fe1 O7 2.188673 1_555
+Fe1 O4 2.191471 1_555
+Mo0 O5 1.771265 1_555
+Mo0 O3 1.771572 1_655
+Mo0 O7 1.825241 1_555
+Mo0 O2 1.825252 1_655
+Mo1 O6 1.770569 1_555
+Mo1 O0 1.771944 1_655
+Mo1 O4 1.825436 1_555
+Mo1 O1 1.826000 1_655
+Cl0 Mg0 2.521407 1_555
+Cl0 Fe0 2.597000 1_655
+Cl0 Fe0 2.598116 1_555
+Cl1 Mg0 2.522469 1_555
+Cl1 Fe1 2.595872 1_555
+Cl1 Fe1 2.598331 1_455

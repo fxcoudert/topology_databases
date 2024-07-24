@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_ErGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23201163
+_cell_length_b   6.74708872
+_cell_length_c   7.21432273
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErGaNi
+_chemical_formula_sum   'Er4 Ga4 Ni4'
+_cell_volume   205.99602487
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.25000000  0.98088941  0.30498136  1
+  Er  Er1  1  0.25000000  0.48088941  0.19501864  1
+  Er  Er2  1  0.75000000  0.01911059  0.69501864  1
+  Er  Er3  1  0.75000000  0.51911059  0.80498136  1
+  Ga  Ga0  1  0.25000000  0.32570056  0.57593021  1
+  Ga  Ga1  1  0.25000000  0.82570056  0.92406979  1
+  Ga  Ga2  1  0.75000000  0.67429944  0.42406979  1
+  Ga  Ga3  1  0.75000000  0.17429944  0.07593021  1
+  Ni  Ni0  1  0.25000000  0.21108045  0.90219424  1
+  Ni  Ni1  1  0.25000000  0.71108045  0.59780576  1
+  Ni  Ni2  1  0.75000000  0.78891955  0.09780576  1
+  Ni  Ni3  1  0.75000000  0.28891955  0.40219424  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Ni1 2.788679 1_555
+Er0 Ni2 2.896385 1_555
+Er0 Ni2 2.896385 1_455
+Er0 Ga1 2.940743 1_554
+Er0 Ga3 2.985126 1_465
+Er0 Ga3 2.985126 1_565
+Er0 Ga0 3.038646 1_565
+Er0 Ni3 3.047736 1_565
+Er0 Ni3 3.047736 1_465
+Er0 Ga2 3.081342 1_555
+Er0 Ga2 3.081342 1_455
+Er1 Ni0 2.788679 1_554
+Er1 Ni3 2.896385 1_455
+Er1 Ni3 2.896385 1_555
+Er1 Ga0 2.940743 1_555
+Er1 Ga2 2.985126 1_455
+Er1 Ga2 2.985126 1_555
+Er1 Ga1 3.038646 1_554
+Er1 Ni2 3.047736 1_455
+Er1 Ni2 3.047736 1_555
+Er1 Ga3 3.081342 1_455
+Er1 Ga3 3.081342 1_555
+Er2 Ni3 2.788679 1_555
+Er2 Ni0 2.896385 1_655
+Er2 Ni0 2.896385 1_555
+Er2 Ga3 2.940743 1_556
+Er2 Ga1 2.985126 1_645
+Er2 Ga1 2.985126 1_545
+Er2 Ga2 3.038646 1_545
+Er2 Ni1 3.047736 1_645
+Er2 Ni1 3.047736 1_545
+Er2 Ga0 3.081342 1_555
+Er2 Ga0 3.081342 1_655
+Er3 Ni2 2.788679 1_556
+Er3 Ni1 2.896385 1_655
+Er3 Ni1 2.896385 1_555
+Er3 Ga2 2.940743 1_555
+Er3 Ga0 2.985126 1_655
+Er3 Ga0 2.985126 1_555
+Er3 Ga3 3.038646 1_556
+Er3 Ni0 3.047736 1_555
+Er3 Ni0 3.047736 1_655
+Er3 Ga1 3.081342 1_655
+Er3 Ga1 3.081342 1_555
+Ga0 Ni3 2.471851 1_455
+Ga0 Ni3 2.471851 1_555
+Ga0 Ni0 2.477564 1_555
+Ga0 Ni1 2.604977 1_555
+Ga1 Ni2 2.471851 1_456
+Ga1 Ni2 2.471851 1_556
+Ga1 Ni1 2.477564 1_555
+Ga1 Ni0 2.604977 1_565
+Ga2 Ni1 2.471851 1_555
+Ga2 Ni1 2.471851 1_655
+Ga2 Ni2 2.477564 1_555
+Ga2 Ni3 2.604977 1_555
+Ga3 Ni0 2.471851 1_654
+Ga3 Ni0 2.471851 1_554
+Ga3 Ni3 2.477564 1_555
+Ga3 Ni2 2.604977 1_545

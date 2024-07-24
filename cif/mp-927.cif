@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CuP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78337532
+_cell_length_b   5.76654591
+_cell_length_c   7.49791675
+_cell_angle_alpha   112.60047173
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuP2
+_chemical_formula_sum   'Cu4 P8'
+_cell_volume   190.93693188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.04048855  0.77427506  0.91845882  1
+  Cu  Cu1  1  0.54048855  0.72572494  0.58154118  1
+  Cu  Cu2  1  0.95951145  0.22572494  0.08154118  1
+  Cu  Cu3  1  0.45951145  0.27427506  0.41845882  1
+  P  P0  1  0.38393146  0.67330889  0.08040032  1
+  P  P1  1  0.88393146  0.82669111  0.41959968  1
+  P  P2  1  0.61606854  0.32669111  0.91959968  1
+  P  P3  1  0.11606854  0.17330889  0.58040032  1
+  P  P4  1  0.78035616  0.45381907  0.69971911  1
+  P  P5  1  0.28035616  0.04618093  0.80028089  1
+  P  P6  1  0.21964384  0.54618093  0.30028089  1
+  P  P7  1  0.71964384  0.95381907  0.19971911  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 P0 2.248453 1_556
+Cu0 P4 2.307287 1_455
+Cu0 P5 2.372336 1_565
+Cu0 Cu2 2.444535 1_466
+Cu0 P7 2.489267 1_456
+Cu1 P1 2.248453 1_555
+Cu1 P5 2.307287 1_565
+Cu1 P4 2.372336 1_555
+Cu1 Cu3 2.444535 1_555
+Cu1 P6 2.489267 1_555
+Cu2 P2 2.248453 1_554
+Cu2 P6 2.307287 1_655
+Cu2 P7 2.372336 1_545
+Cu2 P5 2.489267 1_654
+Cu3 P3 2.248453 1_555
+Cu3 P7 2.307287 1_545
+Cu3 P6 2.372336 1_555
+Cu3 P4 2.489267 1_555
+P0 P6 2.191336 1_555
+P0 P2 2.197619 1_554
+P0 P7 2.209833 1_555
+P1 P7 2.191336 1_555
+P1 P3 2.197619 1_665
+P1 P6 2.209833 1_655
+P2 P4 2.191336 1_555
+P2 P5 2.209833 1_555
+P3 P5 2.191336 1_555
+P3 P4 2.209833 1_455

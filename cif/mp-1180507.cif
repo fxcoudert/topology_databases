@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_LiB11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15503320
+_cell_length_b   5.15503320
+_cell_length_c   5.15503296
+_cell_angle_alpha   55.80643001
+_cell_angle_beta   55.80643001
+_cell_angle_gamma   55.80642082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiB11
+_chemical_formula_sum   'Li1 B11'
+_cell_volume   87.44865728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.46337000  0.46337000  0.46337000  1
+  B  B0  1  0.37494400  0.37494400  0.01589000  1
+  B  B1  1  0.01589000  0.37494400  0.37494400  1
+  B  B2  1  0.37494400  0.01589000  0.37494400  1
+  B  B3  1  0.41018000  0.01393100  0.01393100  1
+  B  B4  1  0.01393100  0.41018000  0.01393100  1
+  B  B5  1  0.01393100  0.01393100  0.41018000  1
+  B  B6  1  0.03199600  0.03199600  0.03199600  1
+  B  B7  1  0.77795900  0.77795900  0.77795900  1
+  B  B8  1  0.41374100  0.79467200  0.79467200  1
+  B  B9  1  0.79467200  0.41374100  0.79467200  1
+  B  B10  1  0.79467200  0.79467200  0.41374100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 B1 1.732399 1_555
+B0 B2 1.732399 1_555
+B0 B3 1.770777 1_555
+B0 B4 1.770777 1_555
+B0 B8 1.865149 1_554
+B0 B9 1.865149 1_554
+B0 Li0 2.417245 1_554
+B1 B2 1.732399 1_555
+B1 B4 1.770777 1_555
+B1 B5 1.770777 1_555
+B1 B10 1.865149 1_455
+B1 B9 1.865149 1_455
+B1 Li0 2.417245 1_455
+B2 B3 1.770777 1_555
+B2 B5 1.770777 1_555
+B2 B8 1.865149 1_545
+B2 Li0 2.417245 1_545
+B3 B7 1.741476 1_544
+B3 B6 1.849248 1_555
+B3 B4 1.911861 1_555
+B3 B5 1.911861 1_555
+B3 B8 1.986136 1_544
+B3 Li0 2.438579 1_545
+B3 Li0 2.438579 1_554
+B4 B7 1.741476 1_454
+B4 B6 1.849248 1_555
+B4 B5 1.911861 1_555
+B4 B9 1.986136 1_454
+B4 Li0 2.438579 1_455
+B4 Li0 2.438579 1_554
+B5 B7 1.741476 1_445
+B5 B6 1.849248 1_555
+B5 Li0 2.438579 1_545
+B5 Li0 2.438579 1_455
+B6 B9 1.770970 1_454
+B6 B8 1.770970 1_544
+B7 B8 1.784592 1_555
+B7 B9 1.784592 1_555
+B8 B9 1.837953 1_555
+B10 B6 1.770970 1_665
+B10 B7 1.784592 1_555
+B10 B8 1.837953 1_555
+B10 B9 1.837953 1_555
+B10 B2 1.865149 1_565
+B10 B5 1.986136 1_665

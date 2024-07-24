@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Th(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00464837
+_cell_length_b   7.00464837
+_cell_length_c   9.93704640
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(PS3)2
+_chemical_formula_sum   'Th2 P4 S12'
+_cell_volume   487.56216378
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.00000000  -0.00000000  0.75000000  1
+  Th  Th1  1  0.00000000  -0.00000000  0.25000000  1
+  P  P0  1  0.64920209  0.06078746  -0.00000000  1
+  P  P1  1  0.35079791  0.93921254  -0.00000000  1
+  P  P2  1  0.06078746  0.35079791  0.50000000  1
+  P  P3  1  0.93921254  0.64920209  0.50000000  1
+  S  S0  1  0.21313902  0.32374688  0.66971229  1
+  S  S1  1  0.67625312  0.21313902  0.16971229  1
+  S  S2  1  0.17754827  0.17406558  -0.00000000  1
+  S  S3  1  0.82593442  0.17754827  0.50000000  1
+  S  S4  1  0.17406558  0.82245173  0.50000000  1
+  S  S5  1  0.82245173  0.82593442  -0.00000000  1
+  S  S6  1  0.21313902  0.32374688  0.33028771  1
+  S  S7  1  0.67625312  0.21313902  0.83028771  1
+  S  S8  1  0.32374688  0.78686098  0.83028771  1
+  S  S9  1  0.78686098  0.67625312  0.33028771  1
+  S  S10  1  0.78686098  0.67625312  0.66971229  1
+  S  S11  1  0.32374688  0.78686098  0.16971229  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 S1 2.004702 1_555
+P0 S7 2.004702 1_554
+P0 S5 2.044246 1_545
+P0 P1 2.257035 1_545
+P1 S8 2.004702 1_554
+P1 S11 2.004702 1_555
+P1 S2 2.044246 1_565
+P2 S0 2.004702 1_555
+P2 S6 2.004702 1_555
+P2 S3 2.044246 1_455
+P2 P3 2.257035 1_455
+P3 S9 2.004702 1_555
+P3 S10 2.004702 1_555
+P3 S4 2.044246 1_655
+S0 Th0 2.829854 1_555
+S1 Th1 2.829854 1_655
+S2 Th1 3.033953 1_555
+S2 Th0 3.033953 1_554
+S3 Th1 3.033953 1_655
+S3 Th0 3.033953 1_655
+S4 Th0 3.033953 1_565
+S4 Th1 3.033953 1_565
+S5 Th0 3.033953 1_664
+S5 Th1 3.033953 1_665
+S6 Th1 2.829854 1_555
+S7 Th0 2.829854 1_655
+S8 Th0 2.829854 1_565
+S9 Th1 2.829854 1_665
+S10 Th0 2.829854 1_665
+S11 Th1 2.829854 1_565

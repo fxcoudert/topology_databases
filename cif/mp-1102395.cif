@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbRuSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36899500
+_cell_length_b   6.43342277
+_cell_length_c   6.47253028
+_cell_angle_alpha   113.02711866
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbRuSe
+_chemical_formula_sum   'Sb4 Ru4 Se4'
+_cell_volume   244.07644139
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.13474100  0.85551600  0.12328700  1
+  Sb  Sb1  1  0.63474100  0.14448400  0.37671300  1
+  Sb  Sb2  1  0.86525900  0.14448400  0.87671300  1
+  Sb  Sb3  1  0.36525900  0.85551600  0.62328700  1
+  Ru  Ru0  1  0.50462000  0.71261600  0.20002700  1
+  Ru  Ru1  1  0.00462000  0.28738400  0.29997300  1
+  Ru  Ru2  1  0.49538000  0.28738400  0.79997300  1
+  Ru  Ru3  1  0.99538000  0.71261600  0.70002700  1
+  Se  Se0  1  0.86509800  0.65119900  0.31938600  1
+  Se  Se1  1  0.36509800  0.34880100  0.18061400  1
+  Se  Se2  1  0.13490200  0.34880100  0.68061400  1
+  Se  Se3  1  0.63490200  0.65119900  0.81938600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Se0 2.755604 1_455
+Sb1 Se1 2.755604 1_555
+Sb2 Se2 2.755604 1_655
+Sb3 Se3 2.755604 1_555
+Ru0 Se1 2.460414 1_555
+Ru0 Se3 2.480509 1_554
+Ru0 Se0 2.502568 1_555
+Ru0 Sb0 2.645511 1_555
+Ru0 Sb3 2.677281 1_555
+Ru0 Sb1 2.688553 1_565
+Ru1 Se0 2.460414 1_455
+Ru1 Se2 2.480509 1_555
+Ru1 Se1 2.502568 1_555
+Ru1 Sb1 2.645511 1_455
+Ru1 Sb2 2.677281 1_454
+Ru1 Sb0 2.688553 1_545
+Ru2 Se3 2.460414 1_555
+Ru2 Se1 2.480509 1_556
+Ru2 Se2 2.502568 1_555
+Ru2 Sb2 2.645511 1_555
+Ru2 Sb1 2.677281 1_555
+Ru2 Sb3 2.688553 1_545
+Ru3 Se2 2.460414 1_655
+Ru3 Se0 2.480509 1_555
+Ru3 Se3 2.502568 1_555
+Ru3 Sb3 2.645511 1_655
+Ru3 Sb0 2.677281 1_656
+Ru3 Sb2 2.688553 1_565

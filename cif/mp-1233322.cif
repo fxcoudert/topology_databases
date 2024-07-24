@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Mg(NiN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48286364
+_cell_length_b   3.48373057
+_cell_length_c   5.17033511
+_cell_angle_alpha   90.00963794
+_cell_angle_beta   89.97778377
+_cell_angle_gamma   90.10871060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(NiN)2
+_chemical_formula_sum   'Mg1 Ni2 N2'
+_cell_volume   62.73341123
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99997500  0.00004100  0.25002900  1
+  Ni  Ni0  1  0.50018800  0.50000700  0.97948700  1
+  Ni  Ni1  1  0.49979500  0.49996700  0.52050100  1
+  N  N0  1  0.49984600  0.99998600  0.49849100  1
+  N  N1  1  0.00019500  0.50000000  0.00149300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N0 2.163953 1_545
+Mg0 N0 2.164032 1_645
+Mg0 N1 2.164511 1_645
+Mg0 N1 2.164626 1_655
+N0 Ni1 1.745494 1_565
+N0 Ni1 1.745663 1_555
+N1 Ni0 1.745076 1_554
+N1 Ni0 1.745213 1_454

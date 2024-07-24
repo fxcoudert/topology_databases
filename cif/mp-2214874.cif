@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_CoHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.90407800
+_cell_length_b   3.05412398
+_cell_length_c   8.90368643
+_cell_angle_alpha   88.09190383
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.38770999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoHO2
+_chemical_formula_sum   'Co2 H2 O4'
+_cell_volume   69.42455149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.99999900  1
+  H  H0  1  0.34885800  0.69771800  0.25080800  1
+  H  H1  1  0.65114200  0.30228200  0.74920200  1
+  O  O0  1  0.33960700  0.67921400  0.38292200  1
+  O  O1  1  0.66039400  0.32078800  0.61707400  1
+  O  O2  1  0.65229700  0.30459400  0.88875800  1
+  O  O3  1  0.34770200  0.69540400  0.11123700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 O1 2.001474 1_555
+Co0 O1 2.001474 1_455
+Co0 O0 2.001491 1_545
+Co0 O0 2.001491 1_445
+Co0 O1 2.067132 1_445
+Co0 O0 2.067153 1_555
+Co1 O3 1.922967 1_546
+Co1 O3 1.922967 1_446
+Co1 O2 1.922978 1_455
+Co1 O2 1.922978 1_555
+Co1 O3 2.147595 1_556
+Co1 O2 2.147613 1_445
+H0 O0 1.175470 1_555
+H0 O3 1.242947 1_555
+H1 O1 1.175595 1_555
+H1 O2 1.242813 1_555

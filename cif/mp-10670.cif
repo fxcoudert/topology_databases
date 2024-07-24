@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ca3(AlGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10845822
+_cell_length_b   4.57199106
+_cell_length_c   9.75444837
+_cell_angle_alpha   103.56437922
+_cell_angle_beta   102.15716197
+_cell_angle_gamma   89.99999898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(AlGe)2
+_chemical_formula_sum   'Ca3 Al2 Ge2'
+_cell_volume   173.88539639
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  -0.00000000  -0.00000000  1
+  Ca  Ca1  1  0.18588976  0.18453233  0.37177951  1
+  Ca  Ca2  1  0.81411024  0.81546767  0.62822049  1
+  Al  Al0  1  0.93180913  0.43242646  0.86361925  1
+  Al  Al1  1  0.06819087  0.56757354  0.13638075  1
+  Ge  Ge0  1  0.35457835  0.35731730  0.70915671  1
+  Ge  Ge1  1  0.64542165  0.64268270  0.29084329  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ge0 3.523531 1_544
+Ca0 Ge1 3.523531 1_555
+Ca0 Ge0 3.540416 1_554
+Ca0 Ge1 3.540416 1_545
+Ca1 Ge0 3.123215 1_555
+Ca1 Ge1 3.158927 1_555
+Ca1 Ge1 3.158927 1_455
+Ca1 Ge1 3.167846 1_545
+Ca1 Ge1 3.167846 1_445
+Ca2 Ge1 3.123215 1_555
+Ca2 Ge0 3.158927 1_555
+Ca2 Ge0 3.158927 1_655
+Ca2 Ge0 3.167846 1_565
+Ca2 Ge0 3.167846 1_665
+Al0 Ge0 2.502904 1_555
+Al0 Ge0 2.502907 1_655
+Al0 Al1 2.525011 1_656
+Al0 Ca2 3.155469 1_545
+Al0 Ca2 3.160981 1_555
+Al0 Ca0 3.320472 1_566
+Al0 Ca0 3.320475 1_666
+Al0 Ca0 3.324689 1_556
+Al0 Ca0 3.324691 1_656
+Al1 Ge1 2.502904 1_555
+Al1 Ge1 2.502907 1_455
+Al1 Ca1 3.155469 1_565
+Al1 Ca1 3.160981 1_555
+Al1 Ca0 3.320472 1_555
+Al1 Ca0 3.320475 1_455
+Al1 Ca0 3.324689 1_565
+Al1 Ca0 3.324691 1_465

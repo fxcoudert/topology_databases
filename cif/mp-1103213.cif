@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbTeOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56268615
+_cell_length_b   6.66094828
+_cell_length_c   6.73300978
+_cell_angle_alpha   66.42744661
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbTeOs
+_chemical_formula_sum   'Sb4 Te4 Os4'
+_cell_volume   269.76474462
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.13935768  0.85998113  0.88517659  1
+  Sb  Sb1  1  0.63935768  0.14001887  0.61482341  1
+  Sb  Sb2  1  0.86064232  0.14001887  0.11482341  1
+  Sb  Sb3  1  0.36064232  0.85998113  0.38517659  1
+  Te  Te0  1  0.86536090  0.65321582  0.68245799  1
+  Te  Te1  1  0.36536090  0.34678418  0.81754201  1
+  Te  Te2  1  0.13463910  0.34678418  0.31754201  1
+  Te  Te3  1  0.63463910  0.65321582  0.18245799  1
+  Os  Os0  1  0.49921908  0.72406806  0.79507209  1
+  Os  Os1  1  0.99921908  0.27593194  0.70492791  1
+  Os  Os2  1  0.50078092  0.27593194  0.20492791  1
+  Os  Os3  1  0.00078092  0.72406806  0.29507209  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Te0 2.914906 1_455
+Sb1 Te1 2.914906 1_555
+Sb2 Te2 2.914906 1_655
+Sb3 Te3 2.914906 1_555
+Os0 Te1 2.608834 1_555
+Os0 Te3 2.613637 1_556
+Os0 Te0 2.618713 1_555
+Os0 Sb0 2.684092 1_555
+Os0 Sb3 2.695361 1_555
+Os0 Sb1 2.702903 1_565
+Os1 Te0 2.608834 1_555
+Os1 Te2 2.613637 1_655
+Os1 Te1 2.618713 1_655
+Os1 Sb1 2.684092 1_555
+Os1 Sb2 2.695361 1_556
+Os1 Sb0 2.702903 1_645
+Os2 Te3 2.608834 1_555
+Os2 Te1 2.613637 1_554
+Os2 Te2 2.618713 1_555
+Os2 Sb2 2.684092 1_555
+Os2 Sb1 2.695361 1_555
+Os2 Sb3 2.702903 1_545
+Os3 Te2 2.608834 1_555
+Os3 Te0 2.613637 1_455
+Os3 Te3 2.618713 1_455
+Os3 Sb3 2.684092 1_555
+Os3 Sb0 2.695361 1_554
+Os3 Sb2 2.702903 1_465

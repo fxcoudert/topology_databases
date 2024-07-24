@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_SnAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86464048
+_cell_length_b   5.86463970
+_cell_length_c   5.14309961
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnAu3
+_chemical_formula_sum   'Sn2 Au6'
+_cell_volume   153.19279061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.33333300  0.66666700  0.75000100  1
+  Sn  Sn1  1  0.66666600  0.33333200  0.24999900  1
+  Au  Au0  1  0.16524967  0.33049834  0.24999900  1
+  Au  Au1  1  0.66950066  0.83474933  0.24999900  1
+  Au  Au2  1  0.16525067  0.83474933  0.24999900  1
+  Au  Au3  1  0.83474833  0.66950066  0.75000100  1
+  Au  Au4  1  0.33049734  0.16524867  0.75000100  1
+  Au  Au5  1  0.83474933  0.16524867  0.75000100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Au1 2.907390 1_445
+Au0 Au2 2.907392 1_545
+Au0 Sn1 2.932353 1_555
+Au0 Sn1 2.932358 1_455
+Au0 Au2 2.957247 1_555
+Au0 Au1 2.957251 1_555
+Au0 Au4 3.070899 1_554
+Au0 Au5 3.070907 1_454
+Au0 Au4 3.070916 1_555
+Au0 Au5 3.070924 1_455
+Au0 Sn0 3.086738 1_554
+Au0 Sn0 3.086755 1_555
+Au1 Au2 2.907396 1_655
+Au1 Sn1 2.932355 1_565
+Au1 Sn1 2.932355 1_555
+Au1 Au2 2.957245 1_555
+Au1 Au3 3.070896 1_554
+Au1 Au5 3.070904 1_564
+Au1 Au3 3.070913 1_555
+Au1 Au5 3.070922 1_565
+Au1 Sn0 3.086735 1_554
+Au1 Sn0 3.086752 1_555
+Au2 Sn1 2.932350 1_565
+Au2 Sn1 2.932362 1_455
+Au2 Au4 3.070904 1_564
+Au2 Au3 3.070913 1_454
+Au2 Au4 3.070922 1_565
+Au2 Au3 3.070930 1_455
+Au2 Sn0 3.086726 1_554
+Au2 Sn0 3.086743 1_555
+Au3 Au5 2.907381 1_565
+Au3 Au4 2.907387 1_665
+Au3 Sn0 2.932347 1_555
+Au3 Sn0 2.932364 1_655
+Au3 Au4 2.957254 1_555
+Au3 Au5 2.957259 1_555
+Au3 Sn1 3.086738 1_556
+Au3 Sn1 3.086755 1_555
+Au4 Au5 2.907384 1_455
+Au4 Sn0 2.932352 1_545
+Au4 Sn0 2.932358 1_555
+Au4 Au5 2.957257 1_555
+Au4 Sn1 3.086738 1_556
+Au4 Sn1 3.086755 1_555
+Au5 Sn0 2.932350 1_545
+Au5 Sn0 2.932362 1_655
+Au5 Sn1 3.086732 1_556
+Au5 Sn1 3.086749 1_555

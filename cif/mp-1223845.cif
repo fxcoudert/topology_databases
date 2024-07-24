@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_K(SiPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36374115
+_cell_length_b   6.36374115
+_cell_length_c   6.36374115
+_cell_angle_alpha   97.47385238
+_cell_angle_beta   97.47385238
+_cell_angle_gamma   137.71885731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(SiPd)4
+_chemical_formula_sum   'K1 Si4 Pd4'
+_cell_volume   161.71292992
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.34274754  0.34274754  -0.00000000  1
+  Si  Si0  1  0.38873742  0.88969975  0.27780639  1
+  Si  Si1  1  0.61189336  0.11093103  0.72219361  1
+  Si  Si2  1  0.11093103  0.38873742  0.49903767  1
+  Si  Si3  1  0.88969975  0.61189336  0.50096233  1
+  Pd  Pd0  1  0.17445956  0.68123608  0.85520169  1
+  Pd  Pd1  1  0.82603540  0.31925787  0.14479831  1
+  Pd  Pd2  1  0.31925787  0.17445956  0.49322247  1
+  Pd  Pd3  1  0.68123608  0.82603540  0.50677753  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Pd0 3.210773 1_554
+K0 Pd2 3.210779 1_554
+K0 Pd1 3.210779 1_555
+K0 Pd3 3.210781 1_555
+K0 Pd1 3.432286 1_455
+K0 Pd2 3.432286 1_555
+K0 Pd3 3.432289 1_444
+K0 Pd0 3.432292 1_544
+K0 Si3 3.476112 1_555
+K0 Si0 3.476112 1_555
+K0 Si2 3.476112 1_554
+K0 Si1 3.476112 1_554
+Pd0 Si1 2.427250 1_455
+Pd0 Si1 2.427844 1_565
+Pd0 Si3 2.460816 1_455
+Pd0 Si0 2.508587 1_556
+Pd0 Si2 2.513158 1_555
+Pd1 Si0 2.427252 1_545
+Pd1 Si0 2.427842 1_655
+Pd1 Si2 2.460813 1_655
+Pd1 Si1 2.508587 1_554
+Pd1 Si3 2.513161 1_555
+Pd2 Si3 2.427252 1_445
+Pd2 Si3 2.427842 1_555
+Pd2 Si0 2.460813 1_545
+Pd2 Si2 2.508587 1_555
+Pd2 Si1 2.513161 1_555
+Pd3 Si2 2.427248 1_555
+Pd3 Si2 2.427842 1_665
+Pd3 Si1 2.460808 1_565
+Pd3 Si3 2.508593 1_555
+Pd3 Si0 2.513156 1_555

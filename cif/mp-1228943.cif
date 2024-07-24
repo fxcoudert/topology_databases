@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_AlGa3N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16707762
+_cell_length_b   5.14558977
+_cell_length_c   5.48365467
+_cell_angle_alpha   89.96115767
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGa3N4
+_chemical_formula_sum   'Al1 Ga3 N4'
+_cell_volume   89.36426023
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.00050108  0.33269560  1
+  Ga  Ga0  1  0.50000000  0.49913931  0.66485347  1
+  Ga  Ga1  1  0.00000000  0.49913488  0.16867384  1
+  Ga  Ga2  1  0.00000000  0.99990822  0.83375911  1
+  N  N0  1  0.50000000  0.11923844  0.65870285  1
+  N  N1  1  0.00000000  0.11682905  0.17473548  1
+  N  N2  1  0.00000000  0.62024701  0.83384907  1
+  N  N3  1  0.50000000  0.63260202  0.33272958  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 N0 1.889625 1_555
+Al0 N3 1.893058 1_545
+Al0 N1 1.901443 1_555
+Al0 N1 1.901443 1_655
+Ga0 N2 1.937916 1_655
+Ga0 N2 1.937916 1_555
+Ga0 N3 1.945992 1_555
+Ga0 N0 1.955128 1_555
+Ga1 N2 1.938543 1_554
+Ga1 N3 1.946640 1_555
+Ga1 N3 1.946640 1_455
+Ga1 N1 1.967447 1_555
+Ga2 N0 1.950724 1_465
+Ga2 N0 1.950724 1_565
+Ga2 N2 1.953581 1_555
+Ga2 N1 1.964591 1_566

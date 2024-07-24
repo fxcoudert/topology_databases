@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81269978
+_cell_length_b   5.04099494
+_cell_length_c   4.87188446
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   99.85606392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiO2
+_chemical_formula_sum   'Ti4 O8'
+_cell_volume   116.45132512
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.72256474  0.28685173  0.55280836  1
+  Ti  Ti1  1  0.27743526  0.21314827  0.05280836  1
+  Ti  Ti2  1  0.27743526  0.71314827  0.44719164  1
+  Ti  Ti3  1  0.72256474  0.78685173  0.94719164  1
+  O  O0  1  0.55463901  0.03322814  0.25763174  1
+  O  O1  1  0.44536099  0.46677186  0.75763174  1
+  O  O2  1  0.44536099  0.96677186  0.74236826  1
+  O  O3  1  0.55463901  0.53322814  0.24236826  1
+  O  O4  1  0.93616178  0.64844326  0.67696552  1
+  O  O5  1  0.06383822  0.85155674  0.17696552  1
+  O  O6  1  0.06383822  0.35155674  0.32303448  1
+  O  O7  1  0.93616178  0.14844326  0.82303448  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Ti0 2.000512 1_555
+O0 Ti1 2.003103 1_555
+O0 Ti2 2.121134 1_545
+O0 Ti3 2.196983 1_544
+O1 Ti1 2.000512 1_556
+O1 Ti0 2.003103 1_555
+O1 Ti3 2.121134 1_555
+O1 Ti2 2.196983 1_555
+O2 Ti2 2.000512 1_555
+O2 Ti3 2.003103 1_555
+O2 Ti0 2.121134 1_565
+O2 Ti1 2.196983 1_566
+O3 Ti3 2.000512 1_554
+O3 Ti2 2.003103 1_555
+O3 Ti1 2.121134 1_555
+O3 Ti0 2.196983 1_555
+O4 Ti3 1.876777 1_555
+O4 Ti2 1.968183 1_655
+O4 Ti0 2.025751 1_555
+O5 Ti2 1.876777 1_555
+O5 Ti3 1.968183 1_454
+O5 Ti1 2.025751 1_565
+O6 Ti1 1.876777 1_555
+O6 Ti0 1.968183 1_455
+O6 Ti2 2.025751 1_555
+O7 Ti0 1.876777 1_555
+O7 Ti1 1.968183 1_656
+O7 Ti3 2.025751 1_545

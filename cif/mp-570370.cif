@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SnPSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87900693
+_cell_length_b   6.91961053
+_cell_length_c   12.23592134
+_cell_angle_alpha   55.61381464
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPSe3
+_chemical_formula_sum   'Sn4 P4 Se12'
+_cell_volume   550.52263763
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.89123877  0.79662275  0.20848382  1
+  Sn  Sn1  1  0.36365810  0.25943118  0.19626814  1
+  Sn  Sn2  1  0.10876123  0.79662275  0.70848382  1
+  Sn  Sn3  1  0.63634190  0.25943118  0.69626814  1
+  P  P0  1  0.64143215  0.87662444  0.56750463  1
+  P  P1  1  0.35856785  0.87662444  0.06750463  1
+  P  P2  1  0.14883906  0.12211522  0.93933189  1
+  P  P3  1  0.85116094  0.12211522  0.43933189  1
+  Se  Se0  1  0.94401409  0.89515184  0.95451155  1
+  Se  Se1  1  0.75071132  0.36361908  0.24088593  1
+  Se  Se2  1  0.45204843  0.70329669  0.97469556  1
+  Se  Se3  1  0.24269752  0.63411245  0.26185433  1
+  Se  Se4  1  0.05598591  0.89515184  0.45451155  1
+  Se  Se5  1  0.55310727  0.11169969  0.05814456  1
+  Se  Se6  1  0.06152866  0.28082866  0.04351859  1
+  Se  Se7  1  0.24928868  0.36361908  0.74088593  1
+  Se  Se8  1  0.93847134  0.28082866  0.54351859  1
+  Se  Se9  1  0.54795157  0.70329669  0.47469556  1
+  Se  Se10  1  0.44689273  0.11169969  0.55814456  1
+  Se  Se11  1  0.75730248  0.63411245  0.76185433  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 Se11 2.190219 1_555
+P0 Se10 2.190438 1_565
+P0 Se9 2.192937 1_555
+P0 P3 2.250912 1_565
+P1 Se3 2.190219 1_555
+P1 Se5 2.190438 1_565
+P1 Se2 2.192937 1_554
+P1 P2 2.250912 1_564
+P2 Se7 2.175233 1_555
+P2 Se0 2.185380 1_445
+P2 Se6 2.210414 1_556
+P3 Se1 2.175233 1_555
+P3 Se4 2.185380 1_645
+P3 Se8 2.210414 1_555
+Se0 Sn0 2.810991 1_556
+Se1 Sn0 3.003106 1_555
+Se1 Sn1 3.249986 1_555
+Se2 Sn1 2.804119 1_556
+Se3 Sn0 2.920561 1_455
+Se3 Sn1 3.259491 1_555
+Se4 Sn2 2.810991 1_555
+Se5 Sn1 2.842683 1_555
+Se5 Sn0 3.271814 1_545
+Se6 Sn1 2.978138 1_555
+Se6 Sn0 3.075944 1_445
+Se7 Sn2 3.003106 1_555
+Se7 Sn3 3.249986 1_555
+Se8 Sn3 2.978138 1_555
+Se8 Sn2 3.075944 1_645
+Se9 Sn3 2.804119 1_555
+Se10 Sn3 2.842683 1_555
+Se10 Sn2 3.271814 1_545
+Se11 Sn2 2.920561 1_655
+Se11 Sn3 3.259491 1_555

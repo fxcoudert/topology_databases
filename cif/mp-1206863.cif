@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CsCaCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66775457
+_cell_length_b   7.66775457
+_cell_length_c   7.66775457
+_cell_angle_alpha   120.35649455
+_cell_angle_beta   120.35649455
+_cell_angle_gamma   89.38363448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCaCl3
+_chemical_formula_sum   'Cs2 Ca2 Cl6'
+_cell_volume   317.04133451
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.25000000  0.50000000  1
+  Cs  Cs1  1  0.25000000  0.75000000  0.50000000  1
+  Ca  Ca0  1  0.00000000  -0.00000000  -0.00000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  -0.00000000  1
+  Cl  Cl0  1  0.72404686  0.22404686  0.94809173  1
+  Cl  Cl1  1  0.27595314  0.77595314  0.05190827  1
+  Cl  Cl2  1  0.22404686  0.27595314  0.50000000  1
+  Cl  Cl3  1  0.77595314  0.72404686  0.50000000  1
+  Cl  Cl4  1  0.25000000  0.25000000  -0.00000000  1
+  Cl  Cl5  1  0.75000000  0.75000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Cl3 2.710830 1_444
+Ca0 Cl2 2.710830 1_555
+Ca0 Cl1 2.710831 1_545
+Ca0 Cl0 2.710831 1_454
+Ca0 Cl5 2.725503 1_445
+Ca0 Cl4 2.725503 1_555
+Ca1 Cl3 2.710830 1_555
+Ca1 Cl2 2.710830 1_554
+Ca1 Cl0 2.710831 1_554
+Ca1 Cl1 2.710831 1_555
+Ca1 Cl4 2.725503 1_555
+Ca1 Cl5 2.725503 1_555
+Cl0 Cs0 3.642440 1_555
+Cl0 Cs1 3.642456 1_545
+Cl0 Cs1 4.035648 1_656
+Cl0 Cs0 4.035663 1_556
+Cl1 Cs1 3.642440 1_555
+Cl1 Cs0 3.642456 1_565
+Cl1 Cs0 4.035648 1_454
+Cl1 Cs1 4.035663 1_554
+Cl2 Cs0 3.642455 1_455
+Cl2 Cs1 3.642455 1_555
+Cl2 Cs0 4.035648 1_555
+Cl2 Cs1 4.035648 1_545
+Cl3 Cs0 3.642455 1_555
+Cl3 Cs1 3.642455 1_655
+Cl3 Cs0 4.035648 1_565
+Cl3 Cs1 4.035648 1_555
+Cl4 Cs1 3.813200 1_555
+Cl4 Cs0 3.813200 1_555
+Cl4 Cs1 3.813200 1_544
+Cl4 Cs0 3.813200 1_454
+Cl5 Cs0 3.813200 1_565
+Cl5 Cs0 3.813200 1_554
+Cl5 Cs1 3.813200 1_554
+Cl5 Cs1 3.813200 1_655

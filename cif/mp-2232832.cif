@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_MgTi2(FeO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34574554
+_cell_length_b   6.05759415
+_cell_length_c   6.08088900
+_cell_angle_alpha   59.87271359
+_cell_angle_beta   61.37133224
+_cell_angle_gamma   62.56084211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(FeO2)4
+_chemical_formula_sum   'Mg1 Ti2 Fe4 O8'
+_cell_volume   169.81836235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.50000000  0.50000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe0  1  0.02529800  0.09665000  0.18902600  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe3  1  0.97470200  0.90335000  0.81097400  1
+  O  O0  1  0.26305300  0.21427500  0.26754000  1
+  O  O1  1  0.26305300  0.21427500  0.75513400  1
+  O  O2  1  0.24825600  0.72754500  0.26210000  1
+  O  O3  1  0.67682400  0.27941800  0.27187900  1
+  O  O4  1  0.32317600  0.72058200  0.72812100  1
+  O  O5  1  0.75174400  0.27245500  0.73790000  1
+  O  O6  1  0.73694700  0.78572500  0.24486600  1
+  O  O7  1  0.73694700  0.78572500  0.73246000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O6 2.137602 1_545
+Mg0 O1 2.137602 1_554
+Mg0 O7 2.137611 1_544
+Mg0 O0 2.137611 1_555
+Mg0 O2 2.272796 1_545
+Mg0 O5 2.272796 1_554
+Fe0 O3 1.898830 1_455
+Fe0 O2 1.971817 1_545
+Fe0 O1 2.243739 1_554
+Fe0 O0 2.243747 1_555
+Fe1 O4 1.988987 1_554
+Fe1 O3 1.988987 1_555
+Fe1 O5 2.174455 1_554
+Fe1 O2 2.174455 1_555
+Fe1 O0 2.265167 1_555
+Fe1 O7 2.265167 1_554
+Fe2 O4 1.988986 1_555
+Fe2 O3 1.988986 1_555
+Fe2 O5 2.174450 1_555
+Fe2 O2 2.174450 1_555
+Fe2 O1 2.265166 1_555
+Fe2 O6 2.265166 1_555
+Fe3 O4 1.898830 1_655
+Fe3 O5 1.971817 1_565
+Fe3 O6 2.243739 1_556
+Fe3 O7 2.243747 1_555
+O0 Ti1 2.083260 1_555
+O0 Ti0 2.304883 1_555
+O1 Ti1 2.083269 1_555
+O1 Ti0 2.304890 1_555
+O2 Ti0 2.071270 1_555
+O3 Ti1 1.987475 1_555
+O4 Ti1 1.987475 1_565
+O5 Ti0 2.071270 1_655
+O6 Ti1 2.083269 1_565
+O6 Ti0 2.304890 1_655
+O7 Ti1 2.083260 1_565
+O7 Ti0 2.304883 1_655

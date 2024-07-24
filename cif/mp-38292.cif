@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Sm(BiTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40497473
+_cell_length_b   8.40497473
+_cell_length_c   8.40497473
+_cell_angle_alpha   108.21009558
+_cell_angle_beta   108.21009558
+_cell_angle_gamma   112.02402856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(BiTe2)2
+_chemical_formula_sum   'Sm2 Bi4 Te8'
+_cell_volume   456.39101985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  Sm  Sm1  1  0.25000000  0.75000000  0.50000000  1
+  Bi  Bi0  1  0.12500000  0.53145900  0.90645900  1
+  Bi  Bi1  1  0.46854100  0.37500000  0.59354100  1
+  Bi  Bi2  1  0.62500000  0.21854100  0.09354100  1
+  Bi  Bi3  1  0.78145900  0.87500000  0.40645900  1
+  Te  Te0  1  0.88181900  0.63199800  0.12435400  1
+  Te  Te1  1  0.88199800  0.63181900  0.62435400  1
+  Te  Te2  1  0.00746600  0.25764400  0.37564600  1
+  Te  Te3  1  0.36800200  0.49235600  0.24982100  1
+  Te  Te4  1  0.24253400  0.11818100  0.75017900  1
+  Te  Te5  1  0.36818100  0.99253400  0.25017900  1
+  Te  Te6  1  0.50764400  0.75746600  0.87564600  1
+  Te  Te7  1  0.74235600  0.11800200  0.74982100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sm0 Te2 3.187921 1_555
+Sm0 Te1 3.187926 1_444
+Sm0 Te7 3.187926 1_454
+Sm0 Te5 3.187931 1_545
+Sm0 Te4 3.465713 1_554
+Sm0 Te6 3.465719 1_444
+Sm0 Te3 3.465719 1_555
+Sm0 Te0 3.465719 1_445
+Sm1 Te6 3.187921 1_555
+Sm1 Te0 3.187926 1_455
+Sm1 Te3 3.187926 1_555
+Sm1 Te4 3.187931 1_565
+Sm1 Te5 3.465713 1_555
+Sm1 Te2 3.465719 1_555
+Sm1 Te7 3.465719 1_565
+Sm1 Te1 3.465719 1_455
+Bi0 Te3 3.165516 1_556
+Bi0 Te1 3.165516 1_455
+Bi0 Te7 3.203906 1_455
+Bi0 Te6 3.203908 1_555
+Bi0 Te5 3.303542 1_556
+Bi0 Te0 3.303548 1_456
+Bi1 Te5 3.165521 1_545
+Bi1 Te6 3.165522 1_555
+Bi1 Te1 3.203906 1_555
+Bi1 Te4 3.203910 1_555
+Bi1 Te2 3.303540 1_555
+Bi1 Te3 3.303548 1_555
+Bi2 Te4 3.165521 1_554
+Bi2 Te2 3.165522 1_655
+Bi2 Te0 3.203906 1_555
+Bi2 Te5 3.203910 1_545
+Bi2 Te6 3.303540 1_544
+Bi2 Te7 3.303548 1_554
+Bi3 Te7 3.165516 1_565
+Bi3 Te0 3.165516 1_555
+Bi3 Te3 3.203906 1_555
+Bi3 Te2 3.203908 1_665
+Bi3 Te4 3.303542 1_665
+Bi3 Te1 3.303548 1_555

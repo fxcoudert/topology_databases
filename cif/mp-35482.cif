@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Ti(FeO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82155676
+_cell_length_b   5.82155676
+_cell_length_c   5.78890115
+_cell_angle_alpha   61.09489090
+_cell_angle_beta   61.09489090
+_cell_angle_gamma   60.78865157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(FeO2)4
+_chemical_formula_sum   'Ti1 Fe4 O8'
+_cell_volume   141.82636035
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe0  1  0.11614300  0.11614300  0.14529500  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe3  1  0.88385700  0.88385700  0.85470500  1
+  O  O0  1  0.24517700  0.72228500  0.28116100  1
+  O  O1  1  0.72228500  0.24517700  0.28116100  1
+  O  O2  1  0.24226900  0.24226900  0.29224700  1
+  O  O3  1  0.25823700  0.25823700  0.73164000  1
+  O  O4  1  0.74176300  0.74176300  0.26836000  1
+  O  O5  1  0.75773100  0.75773100  0.70775300  1
+  O  O6  1  0.27771500  0.75482300  0.71883900  1
+  O  O7  1  0.75482300  0.27771500  0.71883900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O2 1.880373 1_555
+Fe0 O1 1.893879 1_455
+Fe0 O0 1.893879 1_545
+Fe0 O3 1.985133 1_554
+Fe1 O5 1.930267 1_455
+Fe1 O2 1.930267 1_555
+Fe1 O0 1.945934 1_555
+Fe1 O7 1.945934 1_455
+Fe1 O3 2.024387 1_555
+Fe1 O4 2.024387 1_455
+Fe2 O5 1.930267 1_545
+Fe2 O2 1.930267 1_555
+Fe2 O1 1.945934 1_555
+Fe2 O6 1.945934 1_545
+Fe2 O3 2.024387 1_555
+Fe2 O4 2.024387 1_545
+Fe3 O5 1.880373 1_555
+Fe3 O6 1.893879 1_655
+Fe3 O7 1.893879 1_565
+Fe3 O4 1.985133 1_556
+O0 Ti0 1.959173 1_555
+O1 Ti0 1.959173 1_555
+O3 Ti0 2.011065 1_555
+O4 Ti0 2.011065 1_555
+O6 Ti0 1.959173 1_555
+O7 Ti0 1.959173 1_555

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SmCoC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71570967
+_cell_length_b   3.75827203
+_cell_length_c   3.75827203
+_cell_angle_alpha   106.55456621
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCoC2
+_chemical_formula_sum   'Sm1 Co1 C2'
+_cell_volume   50.30746464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00333992  0.99666008  1
+  Co  Co0  1  0.50000000  0.38873448  0.61126552  1
+  C  C0  1  0.50000000  0.84946287  0.45653727  1
+  C  C1  1  0.50000000  0.54346273  0.15053713  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 C1 1.375307 1_555
+C0 Co0 1.942723 1_565
+C0 Co0 1.977420 1_555
+C0 Sm0 2.690298 1_565
+C0 Sm0 2.690298 1_665
+C0 Sm0 2.709765 1_564
+C0 Sm0 2.709765 1_664
+C1 Co0 1.942723 1_554
+C1 Co0 1.977420 1_555
+C1 Sm0 2.690298 1_554
+C1 Sm0 2.690298 1_654
+C1 Sm0 2.709765 1_564
+C1 Sm0 2.709765 1_664

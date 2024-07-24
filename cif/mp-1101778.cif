@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_LaAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69567246
+_cell_length_b   7.78029180
+_cell_length_c   7.54780069
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAlAu
+_chemical_formula_sum   'La4 Al4 Au4'
+_cell_volume   275.74910068
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.01585830  0.31444444  1
+  La  La1  1  0.25000000  0.51585830  0.18555556  1
+  La  La2  1  0.75000000  0.98414064  0.68558138  1
+  La  La3  1  0.75000000  0.48414064  0.81441862  1
+  Al  Al0  1  0.25000000  0.17146508  0.91440258  1
+  Al  Al1  1  0.25000000  0.67146508  0.58559742  1
+  Al  Al2  1  0.75000000  0.82850565  0.08562546  1
+  Al  Al3  1  0.75000000  0.32850565  0.41437454  1
+  Au  Au0  1  0.25000000  0.31332698  0.59260138  1
+  Au  Au1  1  0.25000000  0.81332698  0.90739862  1
+  Au  Au2  1  0.75000000  0.68670336  0.40734545  1
+  Au  Au3  1  0.75000000  0.18670336  0.09265455  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Au0 2.667907 1_555
+Al0 Au3 2.708601 1_556
+Al0 Au3 2.708601 1_456
+Al0 Au1 2.786920 1_545
+Al1 Au1 2.667907 1_555
+Al1 Au2 2.708601 1_455
+Al1 Au2 2.708601 1_555
+Al1 Au0 2.786920 1_555
+Al2 Au2 2.667157 1_555
+Al2 Au1 2.708487 1_654
+Al2 Au1 2.708487 1_554
+Al2 Au3 2.787388 1_565
+Al3 Au3 2.667157 1_555
+Al3 Au0 2.708487 1_655
+Al3 Au0 2.708487 1_555
+Al3 Au2 2.787388 1_555
+Au0 La0 3.124772 1_555
+Au0 La3 3.175150 1_455
+Au0 La3 3.175150 1_555
+Au0 La1 3.452829 1_555
+Au0 La2 3.544633 1_545
+Au0 La2 3.544633 1_445
+Au1 La1 3.124772 1_556
+Au1 La2 3.175150 1_455
+Au1 La2 3.175150 1_555
+Au1 La0 3.452829 1_566
+Au1 La3 3.544633 1_455
+Au1 La3 3.544633 1_555
+Au2 La2 3.124992 1_555
+Au2 La1 3.175143 1_555
+Au2 La1 3.175143 1_655
+Au2 La3 3.453124 1_555
+Au2 La0 3.544338 1_665
+Au2 La0 3.544338 1_565
+Au3 La3 3.124992 1_554
+Au3 La0 3.175143 1_655
+Au3 La0 3.175143 1_555
+Au3 La2 3.453124 1_544
+Au3 La1 3.544338 1_555
+Au3 La1 3.544338 1_655

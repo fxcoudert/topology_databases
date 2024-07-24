@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_KAgCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07167123
+_cell_length_b   7.07167202
+_cell_length_c   7.07167184
+_cell_angle_alpha   61.04256827
+_cell_angle_beta   61.04257136
+_cell_angle_gamma   61.04257547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgCl3
+_chemical_formula_sum   'K2 Ag2 Cl6'
+_cell_volume   255.93481633
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25829849  0.25829849  0.25829849  1
+  K  K1  1  0.75829849  0.75829849  0.75829849  1
+  Ag  Ag0  1  0.00494441  0.00494441  0.00494441  1
+  Ag  Ag1  1  0.50494441  0.50494441  0.50494441  1
+  Cl  Cl0  1  0.25564484  0.79797084  0.71164141  1
+  Cl  Cl1  1  0.79797084  0.71164141  0.25564484  1
+  Cl  Cl2  1  0.71164141  0.25564484  0.79797084  1
+  Cl  Cl3  1  0.21164141  0.29797084  0.75564484  1
+  Cl  Cl4  1  0.75564484  0.21164141  0.29797084  1
+  Cl  Cl5  1  0.29797084  0.75564484  0.21164141  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 Cl3 2.537471 1_554
+Ag0 Cl5 2.537472 1_545
+Ag0 Cl4 2.537472 1_455
+Ag0 Cl1 2.540414 1_445
+Ag0 Cl2 2.540414 1_454
+Ag0 Cl0 2.540414 1_544
+Ag1 Cl1 2.537471 1_555
+Ag1 Cl2 2.537472 1_555
+Ag1 Cl0 2.537472 1_555
+Ag1 Cl3 2.540414 1_555
+Ag1 Cl5 2.540414 1_555
+Ag1 Cl4 2.540414 1_555
+Cl0 K0 3.281830 1_565
+Cl0 K1 3.507064 1_455
+Cl0 K1 3.592094 1_555
+Cl1 K0 3.281830 1_655
+Cl1 K1 3.507065 1_554
+Cl1 K1 3.592095 1_555
+Cl2 K0 3.281830 1_556
+Cl2 K1 3.507065 1_545
+Cl2 K1 3.592095 1_555
+Cl3 K1 3.281830 1_455
+Cl3 K0 3.507065 1_555
+Cl3 K0 3.592095 1_556
+Cl4 K1 3.281830 1_545
+Cl4 K0 3.507064 1_555
+Cl4 K0 3.592094 1_655
+Cl5 K1 3.281830 1_554
+Cl5 K0 3.507065 1_555
+Cl5 K0 3.592095 1_565

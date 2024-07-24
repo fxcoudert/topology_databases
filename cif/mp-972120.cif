@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Sr(GaAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.62215344
+_cell_length_b   4.06142343
+_cell_length_c   12.56838852
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.93742515
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(GaAs)2
+_chemical_formula_sum   'Sr4 Ga8 As8'
+_cell_volume   488.53320141
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  -0.00000000  0.00000000  1
+  Sr  Sr1  1  0.99999900  -0.00000000  0.50000000  1
+  Sr  Sr2  1  0.20195009  0.50000000  0.77538729  1
+  Sr  Sr3  1  0.79805091  0.50000000  0.22461271  1
+  Ga  Ga0  1  0.80457226  0.50000000  0.67630463  1
+  Ga  Ga1  1  0.40013823  -0.00000000  0.55317857  1
+  Ga  Ga2  1  0.19542774  0.50000000  0.32369537  1
+  Ga  Ga3  1  0.60764001  0.50000000  0.78021974  1
+  Ga  Ga4  1  0.39235899  0.50000000  0.21978026  1
+  Ga  Ga5  1  0.89247146  -0.00000000  0.93677781  1
+  Ga  Ga6  1  0.10752854  -0.00000000  0.06322219  1
+  Ga  Ga7  1  0.59986177  -0.00000000  0.44682043  1
+  As  As0  1  0.94801992  -0.00000000  0.74276381  1
+  As  As1  1  0.45104184  -0.00000000  0.75354449  1
+  As  As2  1  0.05198108  -0.00000000  0.25723719  1
+  As  As3  1  0.54895816  -0.00000000  0.24645451  1
+  As  As4  1  0.75574967  0.50000000  0.47652653  1
+  As  As5  1  0.74102882  0.50000000  0.96596670  1
+  As  As6  1  0.25897118  0.50000000  0.03403230  1
+  As  As7  1  0.24425033  0.50000000  0.52347347  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga3 2.410073 1_555
+Ga1 Ga7 2.451851 1_555
+Ga2 Ga4 2.410065 1_555
+Ga5 Ga6 2.475331 1_656
+As0 Ga0 2.547181 1_545
+As0 Ga0 2.547181 1_555
+As0 Ga5 2.549771 1_555
+As0 Sr1 3.142512 1_555
+As0 Sr2 3.170904 1_645
+As0 Sr2 3.170904 1_655
+As1 Ga1 2.515242 1_555
+As1 Ga3 2.530249 1_545
+As1 Ga3 2.530249 1_555
+As1 Sr0 3.084613 1_556
+As1 Sr2 3.174891 1_545
+As1 Sr2 3.174891 1_555
+As2 Ga2 2.547172 1_555
+As2 Ga2 2.547172 1_545
+As2 Ga6 2.549780 1_555
+As2 Sr1 3.142507 1_455
+As2 Sr3 3.170904 1_445
+As2 Sr3 3.170904 1_455
+As3 Ga7 2.515242 1_555
+As3 Ga4 2.530254 1_555
+As3 Ga4 2.530254 1_545
+As3 Sr0 3.084601 1_555
+As3 Sr3 3.174896 1_545
+As3 Sr3 3.174896 1_555
+As4 Ga0 2.506236 1_555
+As4 Ga7 2.529280 1_555
+As4 Ga7 2.529280 1_565
+As4 Sr1 3.096909 1_565
+As4 Sr1 3.096909 1_555
+As4 Sr3 3.233697 1_555
+As5 Ga3 2.545097 1_555
+As5 Ga5 2.548022 1_555
+As5 Ga5 2.548022 1_565
+As5 Sr0 3.144957 1_556
+As5 Sr0 3.144957 1_566
+As5 Sr3 3.240294 1_556
+As6 Ga4 2.545104 1_555
+As6 Ga6 2.548025 1_555
+As6 Ga6 2.548025 1_565
+As6 Sr0 3.144954 1_555
+As6 Sr0 3.144954 1_565
+As6 Sr2 3.240281 1_554
+As7 Ga2 2.506236 1_555
+As7 Ga1 2.529279 1_555
+As7 Ga1 2.529279 1_565
+As7 Sr1 3.096923 1_465
+As7 Sr1 3.096923 1_455
+As7 Sr2 3.233695 1_555

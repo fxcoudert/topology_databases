@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Mg(BiO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45582029
+_cell_length_b   5.80656354
+_cell_length_c   12.07478582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.45492049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(BiO2)4
+_chemical_formula_sum   'Mg1 Bi4 O8'
+_cell_volume   223.92701604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.91497592  0.19866137  0.25000000  1
+  Bi  Bi0  1  0.88605265  0.72361630  0.08939002  1
+  Bi  Bi1  1  0.05820764  0.25404115  0.92058628  1
+  Bi  Bi2  1  0.88605265  0.72361630  0.41060998  1
+  Bi  Bi3  1  0.05820764  0.25404115  0.57941372  1
+  O  O0  1  0.13304367  0.43480948  0.38110637  1
+  O  O1  1  0.72475946  0.52178530  0.57384413  1
+  O  O2  1  0.72475946  0.52178530  0.92615587  1
+  O  O3  1  0.13304367  0.43480948  0.11889363  1
+  O  O4  1  0.28146378  0.99099704  0.25000000  1
+  O  O5  1  0.01639842  0.18382580  0.75000000  1
+  O  O6  1  0.40401752  0.99879717  0.99096751  1
+  O  O7  1  0.40401752  0.99879717  0.50903249  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.040806 1_655
+Mg0 O0 2.040806 1_655
+Mg0 O4 2.055406 1_645
+Mg0 O4 2.056792 1_545
+Bi0 O3 2.182012 1_655
+Bi0 O6 2.232640 1_654
+Bi0 O2 2.251675 1_554
+Bi0 O3 2.525326 1_555
+Bi0 O4 2.533384 1_655
+Bi1 O5 2.094003 1_555
+Bi1 O2 2.234249 1_555
+Bi1 O2 2.262293 1_455
+Bi1 O6 2.338859 1_445
+Bi1 O6 2.387469 1_545
+Bi1 O3 2.587467 1_556
+Bi2 O0 2.182012 1_655
+Bi2 O7 2.232640 1_655
+Bi2 O1 2.251675 1_555
+Bi2 O0 2.525326 1_555
+Bi2 O4 2.533384 1_655
+Bi3 O5 2.094003 1_555
+Bi3 O1 2.234249 1_555
+Bi3 O1 2.262293 1_455
+Bi3 O7 2.338859 1_445
+Bi3 O7 2.387469 1_545
+Bi3 O0 2.587467 1_555

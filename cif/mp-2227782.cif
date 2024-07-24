@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_K4Mg(TiS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74046704
+_cell_length_b   6.64638321
+_cell_length_c   7.73878916
+_cell_angle_alpha   74.31304310
+_cell_angle_beta   86.98101222
+_cell_angle_gamma   82.03630171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Mg(TiS3)2
+_chemical_formula_sum   'K4 Mg1 Ti2 S6'
+_cell_volume   330.52135432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.72085382  0.08086332  0.52366272  1
+  K  K1  1  0.17196003  0.54066947  0.20276820  1
+  K  K2  1  0.87139072  0.47518783  0.72453570  1
+  K  K3  1  0.29750172  0.84312648  0.53512560  1
+  Mg  Mg0  1  0.67594322  0.45757992  0.12304992  1
+  Ti  Ti0  1  0.71898530  0.94095357  0.06761984  1
+  Ti  Ti1  1  0.28346032  0.08047875  0.92765418  1
+  S  S0  1  0.32488287  0.32020386  0.66314351  1
+  S  S1  1  0.73435928  0.65809487  0.33424652  1
+  S  S2  1  0.99796316  0.90323030  0.85242416  1
+  S  S3  1  0.46151406  0.17609363  0.15596838  1
+  S  S4  1  0.51980942  0.77547843  0.90161640  1
+  S  S5  1  0.96137610  0.18322458  0.11781487  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S2 3.101766 1_545
+K0 S0 3.204361 1_555
+K0 S3 3.285837 1_555
+K0 S5 3.401394 1_555
+K0 S4 3.412543 1_545
+K0 S1 3.492111 1_545
+K1 S3 2.983548 1_555
+K1 S1 3.133709 1_455
+K1 S5 3.157268 1_455
+K1 S2 3.248372 1_454
+K1 S4 3.440351 1_554
+K1 S0 3.612205 1_555
+K2 S1 3.074211 1_555
+K2 S0 3.141608 1_655
+K2 S5 3.173479 1_556
+K2 Mg0 3.268028 1_556
+K2 S4 3.362112 1_555
+K2 S2 3.476366 1_555
+K2 S2 3.648857 1_545
+K3 S2 3.170222 1_455
+K3 S4 3.172212 1_555
+K3 S0 3.327839 1_555
+K3 S3 3.399130 1_565
+K3 S1 3.485409 1_555
+K3 S0 3.598601 1_565
+Mg0 S1 2.448158 1_555
+Mg0 S5 2.467367 1_555
+Mg0 S3 2.471202 1_555
+Mg0 S4 2.474717 1_554
+S0 Ti1 2.259675 1_555
+S1 Ti0 2.381899 1_555
+S2 Ti0 2.477421 1_556
+S2 Ti1 2.558730 1_665
+S3 Ti0 2.371301 1_545
+S3 Ti1 2.451120 1_554
+S4 Ti1 2.445431 1_565
+S4 Ti0 2.452999 1_556
+S5 Ti0 2.558747 1_545
+S5 Ti1 2.672326 1_654

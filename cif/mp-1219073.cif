@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_SmFe2Co2B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10556614
+_cell_length_b   5.13788782
+_cell_length_c   6.89040502
+_cell_angle_alpha   89.99572991
+_cell_angle_beta   89.99141012
+_cell_angle_gamma   60.20788972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFe2Co2B
+_chemical_formula_sum   'Sm2 Fe4 Co4 B2'
+_cell_volume   156.85915482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999000  0.00000000  0.00243800  1
+  Sm  Sm1  1  0.99998500  0.00000000  0.49267000  1
+  Fe  Fe0  1  0.99999300  0.49999500  0.71244400  1
+  Fe  Fe1  1  0.49998800  0.50000500  0.71244400  1
+  Fe  Fe2  1  0.66763800  0.66460300  0.00302700  1
+  Fe  Fe3  1  0.33224100  0.33539700  0.00302700  1
+  Co  Co0  1  0.50001300  0.00000000  0.28873300  1
+  Co  Co1  1  0.99998700  0.50003200  0.28992200  1
+  Co  Co2  1  0.50001800  0.49996800  0.28992200  1
+  Co  Co3  1  0.50001200  0.00000000  0.71228200  1
+  B  B0  1  0.66497100  0.66999300  0.49654600  1
+  B  B1  1  0.33496400  0.33000700  0.49654600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Fe2 2.485300 1_556
+Fe0 Fe3 2.485327 1_656
+Fe0 Sm1 2.981966 1_565
+Fe0 Sm1 2.982151 1_555
+Fe1 Fe3 2.485299 1_556
+Fe1 Fe2 2.485327 1_556
+Fe1 Sm1 2.981966 1_555
+Fe1 Sm1 2.982151 1_465
+Fe2 Sm0 2.958355 1_465
+Fe2 Sm0 2.958798 1_565
+Fe2 Sm0 2.963357 1_555
+Fe3 Sm0 2.958355 1_455
+Fe3 Sm0 2.958799 1_555
+Fe3 Sm0 2.963357 1_465
+Co0 Fe3 2.472238 1_555
+Co0 Fe2 2.472238 1_545
+Co0 Sm1 2.913926 1_455
+Co0 Sm1 2.914045 1_555
+Co1 Fe3 2.464608 1_655
+Co1 Fe2 2.465166 1_555
+Co1 Sm1 2.924173 1_565
+Co1 Sm1 2.924288 1_555
+Co2 Fe2 2.464611 1_555
+Co2 Fe3 2.465163 1_555
+Co2 Sm1 2.924176 1_555
+Co2 Sm1 2.924286 1_465
+Co3 Fe2 2.499974 1_546
+Co3 Fe3 2.499975 1_556
+Co3 Sm1 2.967265 1_555
+Co3 Sm1 2.967892 1_455
+B0 Co0 2.053177 1_565
+B0 Co1 2.056790 1_555
+B0 Co2 2.056938 1_555
+B0 Co3 2.091617 1_565
+B0 Fe1 2.101385 1_555
+B0 Fe0 2.101815 1_555
+B0 Sm1 2.946546 1_465
+B0 Sm1 2.946694 1_565
+B0 Sm1 2.987506 1_555
+B1 Co0 2.053177 1_555
+B1 Co2 2.056786 1_555
+B1 Co1 2.056935 1_455
+B1 Co3 2.091617 1_555
+B1 Fe0 2.101385 1_455
+B1 Fe1 2.101815 1_555
+B1 Sm1 2.946546 1_455
+B1 Sm1 2.946694 1_555
+B1 Sm1 2.987506 1_465

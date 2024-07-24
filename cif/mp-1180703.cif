@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MgSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04103879
+_cell_length_b   7.76457390
+_cell_length_c   7.76457305
+_cell_angle_alpha   46.24086938
+_cell_angle_beta   49.59322891
+_cell_angle_gamma   49.59323605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiO3
+_chemical_formula_sum   'Mg4 Si4 O12'
+_cell_volume   217.49262407
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75000000  0.77049600  0.22950400  1
+  Mg  Mg1  1  0.75000000  0.25071000  0.74929000  1
+  Mg  Mg2  1  0.25000000  0.22950400  0.77049600  1
+  Mg  Mg3  1  0.25000000  0.74929000  0.25071000  1
+  Si  Si0  1  0.69217900  0.79044700  0.68538100  1
+  Si  Si1  1  0.80782100  0.31461900  0.20955300  1
+  Si  Si2  1  0.19217900  0.68538100  0.79044700  1
+  Si  Si3  1  0.30782100  0.20955300  0.31461900  1
+  O  O0  1  0.64069500  0.11605900  0.50630500  1
+  O  O1  1  0.37299200  0.44377800  0.73436300  1
+  O  O2  1  0.87299200  0.73436300  0.44377800  1
+  O  O3  1  0.12700800  0.26563700  0.55622200  1
+  O  O4  1  0.38686300  0.83174200  0.89524300  1
+  O  O5  1  0.61313700  0.16825800  0.10475700  1
+  O  O6  1  0.35930500  0.88394100  0.49369500  1
+  O  O7  1  0.88686300  0.89524300  0.83174200  1
+  O  O8  1  0.11313700  0.10475700  0.16825800  1
+  O  O9  1  0.62700800  0.55622200  0.26563700  1
+  O  O10  1  0.14069500  0.50630500  0.11605900  1
+  O  O11  1  0.85930500  0.49369500  0.88394100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.122245 1_555
+Mg0 O9 2.122245 1_555
+Mg0 O6 2.143276 1_555
+Mg0 O10 2.143276 1_655
+Mg0 O7 2.149193 1_554
+Mg0 O5 2.149194 1_565
+Mg1 O5 1.965663 1_556
+Mg1 O7 1.965663 1_545
+Mg1 O3 2.075284 1_655
+Mg1 O1 2.075285 1_555
+Mg2 O3 2.122245 1_555
+Mg2 O1 2.122245 1_555
+Mg2 O0 2.143276 1_555
+Mg2 O11 2.143276 1_455
+Mg2 O8 2.149193 1_556
+Mg2 O4 2.149194 1_545
+Mg3 O4 1.965663 1_554
+Mg3 O8 1.965663 1_565
+Mg3 O2 2.075284 1_455
+Mg3 O9 2.075285 1_555
+O0 Si1 1.730262 1_555
+O0 Si0 1.749102 1_545
+O1 Si2 1.626241 1_555
+O2 Si0 1.626240 1_555
+O3 Si3 1.626240 1_555
+O4 Si0 1.633160 1_555
+O5 Si3 1.633160 1_555
+O6 Si2 1.730262 1_555
+O6 Si3 1.749102 1_565
+O7 Si2 1.633160 1_655
+O8 Si1 1.633160 1_455
+O9 Si1 1.626241 1_555
+O10 Si3 1.730262 1_555
+O10 Si2 1.749101 1_554
+O11 Si0 1.730262 1_555
+O11 Si1 1.749101 1_556

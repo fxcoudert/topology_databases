@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Na2MgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08381977
+_cell_length_b   5.08381977
+_cell_length_c   10.11499500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgPb
+_chemical_formula_sum   'Na4 Mg2 Pb2'
+_cell_volume   226.40009686
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.91973500  1
+  Na  Na1  1  0.66666700  0.33333300  0.08026500  1
+  Na  Na2  1  0.66666700  0.33333300  0.41973500  1
+  Na  Na3  1  0.33333300  0.66666700  0.58026500  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.25000000  1
+  Mg  Mg1  1  0.00000000  0.00000000  0.75000000  1
+  Pb  Pb0  1  0.33333300  0.66666700  0.25000000  1
+  Pb  Pb1  1  0.66666700  0.33333300  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Pb0 3.340629 1_556
+Na0 Na1 3.354349 1_456
+Na0 Na1 3.354349 1_566
+Na0 Na1 3.354356 1_556
+Na0 Pb1 3.400396 1_455
+Na0 Pb1 3.400396 1_565
+Na0 Pb1 3.400404 1_555
+Na0 Na3 3.433737 1_555
+Na1 Pb1 3.340629 1_554
+Na1 Pb0 3.400396 1_545
+Na1 Pb0 3.400396 1_655
+Na1 Pb0 3.400404 1_555
+Na1 Na2 3.433737 1_555
+Na2 Pb1 3.340629 1_555
+Na2 Na3 3.354349 1_545
+Na2 Na3 3.354349 1_655
+Na2 Na3 3.354356 1_555
+Na2 Pb0 3.400396 1_545
+Na2 Pb0 3.400396 1_655
+Na2 Pb0 3.400404 1_555
+Na3 Pb0 3.340629 1_555
+Na3 Pb1 3.400396 1_455
+Na3 Pb1 3.400396 1_565
+Na3 Pb1 3.400404 1_555
+Mg0 Pb0 2.935142 1_545
+Mg0 Pb0 2.935146 1_445
+Mg0 Pb0 2.935146 1_555
+Mg0 Na1 3.400396 1_455
+Mg0 Na2 3.400396 1_455
+Mg0 Na2 3.400400 1_445
+Mg0 Na1 3.400400 1_555
+Mg0 Na1 3.400400 1_445
+Mg0 Na2 3.400400 1_555
+Mg1 Pb1 2.935142 1_455
+Mg1 Pb1 2.935146 1_445
+Mg1 Pb1 2.935146 1_555
+Mg1 Na3 3.400396 1_545
+Mg1 Na0 3.400396 1_545
+Mg1 Na0 3.400400 1_555
+Mg1 Na3 3.400400 1_555
+Mg1 Na3 3.400400 1_445
+Mg1 Na0 3.400400 1_445

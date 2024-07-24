@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_MnCu2SiTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35219257
+_cell_length_b   7.35219257
+_cell_length_c   7.35219257
+_cell_angle_alpha   131.16604774
+_cell_angle_beta   131.16604774
+_cell_angle_gamma   71.54939650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu2SiTe4
+_chemical_formula_sum   'Mn1 Cu2 Si1 Te4'
+_cell_volume   220.38940366
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu1  1  0.75000000  0.25000000  0.50000000  1
+  Si  Si0  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te0  1  0.39133500  0.86899200  0.00000000  1
+  Te  Te1  1  0.86899200  0.39133500  0.00000000  1
+  Te  Te2  1  0.13100800  0.13100800  0.52234300  1
+  Te  Te3  1  0.60866500  0.60866500  0.47765700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Te2 2.729782 1_555
+Mn0 Te3 2.729782 1_444
+Mn0 Te1 2.729782 1_455
+Mn0 Te0 2.729782 1_545
+Cu0 Te2 2.582926 1_565
+Cu0 Te3 2.582926 1_555
+Cu0 Te1 2.582926 1_455
+Cu0 Te0 2.582926 1_556
+Cu1 Te0 2.582926 1_545
+Cu1 Te1 2.582926 1_556
+Cu1 Te2 2.582926 1_655
+Cu1 Te3 2.582926 1_555
+Si0 Te3 2.574140 1_555
+Si0 Te1 2.574140 1_555
+Si0 Te2 2.574140 1_554
+Si0 Te0 2.574140 1_555

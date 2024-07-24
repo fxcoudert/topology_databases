@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_SnPbS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17672163
+_cell_length_b   4.22781760
+_cell_length_c   17.07102243
+_cell_angle_alpha   87.34005234
+_cell_angle_beta   85.65802285
+_cell_angle_gamma   90.05879262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPbS2
+_chemical_formula_sum   'Sn2 Pb2 S4'
+_cell_volume   300.25508514
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.32511500  0.61328600  0.24436000  1
+  Sn  Sn1  1  0.22358400  0.86559400  0.58774500  1
+  Pb  Pb0  1  0.67055200  0.38297800  0.75912100  1
+  Pb  Pb1  1  0.77680500  0.10904000  0.41383600  1
+  S  S0  1  0.71613200  0.44631700  0.60093700  1
+  S  S1  1  0.28407600  0.57840500  0.39729800  1
+  S  S2  1  0.17327800  0.90136200  0.74170600  1
+  S  S3  1  0.83045900  0.10301600  0.25499800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pb0 S0 2.693482 1_555
+Pb0 S2 2.934928 1_645
+Pb0 S2 2.947755 1_545
+Pb0 S2 3.022604 1_655
+Pb0 S2 3.041024 1_555
+Pb1 S3 2.705117 1_555
+Pb1 S1 2.880485 1_555
+Pb1 S1 2.890558 1_655
+Pb1 S1 3.079820 1_545
+Pb1 S1 3.095102 1_645
+S0 Sn1 2.732348 1_555
+S0 Sn1 2.751019 1_655
+S1 Sn0 2.600749 1_555
+S2 Sn1 2.632141 1_555
+S3 Sn0 2.928360 1_645
+S3 Sn0 2.975441 1_655
+S3 Sn0 2.976382 1_545
+S3 Sn0 3.028703 1_555

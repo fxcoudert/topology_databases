@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Na3(W2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64618289
+_cell_length_b   6.64618289
+_cell_length_c   6.64618289
+_cell_angle_alpha   112.67953280
+_cell_angle_beta   108.48415333
+_cell_angle_gamma   107.30037789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3(W2O3)2
+_chemical_formula_sum   'Na3 W4 O6'
+_cell_volume   225.43562978
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.02113100  0.50000000  0.52113100  1
+  Na  Na1  1  0.53438900  0.00000000  0.53438900  1
+  Na  Na2  1  0.45509500  0.50000000  0.95509500  1
+  W  W0  1  0.49263900  0.47065700  0.46382400  1
+  W  W1  1  0.49263900  0.02881500  0.02198200  1
+  W  W2  1  0.99316800  0.52934300  0.02198200  1
+  W  W3  1  0.99316800  0.97118500  0.46382400  1
+  O  O0  1  0.72620100  0.71172400  0.43792600  1
+  O  O1  1  0.72620100  0.28827600  0.01447700  1
+  O  O2  1  0.26205300  0.21260200  0.47465400  1
+  O  O3  1  0.45965200  0.73802100  0.72163100  1
+  O  O4  1  0.98361000  0.26197900  0.72163100  1
+  O  O5  1  0.26205300  0.78739800  0.04945100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.437641 1_455
+Na0 O3 2.437641 1_555
+Na0 O0 2.771529 1_455
+Na0 O1 2.771530 1_455
+Na0 O5 2.825857 1_556
+Na0 O2 2.825857 1_555
+Na1 O4 2.524973 1_555
+Na1 O3 2.524973 1_545
+Na1 O0 2.594357 1_545
+Na1 O1 2.594358 1_556
+Na1 O5 2.632166 1_545
+Na1 O2 2.632167 1_555
+Na2 O5 2.594574 1_556
+Na2 O2 2.594580 1_555
+Na2 O4 2.608677 1_455
+Na2 O3 2.608677 1_555
+Na2 O1 2.620639 1_556
+Na2 O0 2.620644 1_556
+O0 W0 1.977142 1_555
+O0 W3 1.977154 1_555
+O1 W1 1.977146 1_555
+O1 W2 1.977151 1_555
+O2 W0 1.974124 1_555
+O2 W3 1.974127 1_445
+O3 W0 2.064812 1_555
+O3 W1 2.064812 1_566
+O4 W2 2.064808 1_556
+O4 W3 2.064816 1_545
+O5 W2 1.974124 1_455
+O5 W1 1.974128 1_565

@@ -1,0 +1,90 @@
+# generated using pymatgen
+data_MgHg2(BiO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33583800
+_cell_length_b   5.33583800
+_cell_length_c   10.41761600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgHg2(BiO3)4
+_chemical_formula_sum   'Mg1 Hg2 Bi4 O12'
+_cell_volume   296.60168657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.50000000  0.75000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00279100  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.49720900  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.32283600  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.64945500  1
+  Bi  Bi2  1  0.50000000  0.50000000  0.17716400  1
+  Bi  Bi3  1  0.50000000  0.50000000  0.85054500  1
+  O  O0  1  0.19174400  0.78107400  0.81719500  1
+  O  O1  1  0.20367900  0.79614600  0.17510500  1
+  O  O2  1  0.18046700  0.81043900  0.49316600  1
+  O  O3  1  0.31043900  0.31953300  0.00683400  1
+  O  O4  1  0.29614600  0.29632100  0.32489500  1
+  O  O5  1  0.28107400  0.30825600  0.68280500  1
+  O  O6  1  0.70385400  0.70367900  0.32489500  1
+  O  O7  1  0.71892600  0.69174400  0.68280500  1
+  O  O8  1  0.68956100  0.68046700  0.00683400  1
+  O  O9  1  0.81953300  0.18956100  0.49316600  1
+  O  O10  1  0.79632100  0.20385400  0.17510500  1
+  O  O11  1  0.80825600  0.21892600  0.81719500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.945784 1_555
+Mg0 O11 1.945784 1_455
+Mg0 O0 1.945784 1_555
+Mg0 O7 1.945784 1_455
+Hg0 O10 2.363616 1_455
+Hg0 O1 2.363616 1_545
+Hg0 O8 2.377510 1_445
+Hg0 O3 2.377510 1_555
+Hg0 O0 2.479848 1_544
+Hg0 O11 2.479848 1_454
+Hg1 O6 2.363616 1_555
+Hg1 O4 2.363616 1_555
+Hg1 O9 2.377510 1_555
+Hg1 O2 2.377510 1_555
+Hg1 O7 2.479848 1_555
+Hg1 O5 2.479848 1_555
+Bi0 O1 2.175506 1_545
+Bi0 O10 2.175506 1_455
+Bi0 O4 2.235485 1_555
+Bi0 O6 2.235485 1_445
+Bi0 O2 2.258082 1_545
+Bi0 O9 2.258082 1_455
+Bi1 O2 2.145047 1_545
+Bi1 O9 2.145047 1_455
+Bi1 O7 2.252861 1_445
+Bi1 O5 2.252861 1_555
+Bi1 O11 2.337719 1_455
+Bi1 O0 2.337719 1_545
+Bi2 O4 2.175506 1_555
+Bi2 O6 2.175506 1_555
+Bi2 O1 2.235485 1_555
+Bi2 O10 2.235485 1_555
+Bi2 O3 2.258082 1_555
+Bi2 O8 2.258082 1_555
+Bi3 O3 2.145047 1_556
+Bi3 O8 2.145047 1_556
+Bi3 O0 2.252861 1_555
+Bi3 O11 2.252861 1_555
+Bi3 O5 2.337719 1_555
+Bi3 O7 2.337719 1_555

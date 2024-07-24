@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Zn(AgI2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34254325
+_cell_length_b   7.67389467
+_cell_length_c   9.08534653
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(AgI2)2
+_chemical_formula_sum   'Zn2 Ag4 I8'
+_cell_volume   511.92205894
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.37629280  0.67147861  0.50000000  1
+  Zn  Zn1  1  0.87629280  0.32852139  -0.00000000  1
+  Ag  Ag0  1  0.37276941  0.17561979  0.74652995  1
+  Ag  Ag1  1  0.37276941  0.17561979  0.25347005  1
+  Ag  Ag2  1  0.87276941  0.82438021  0.75347005  1
+  Ag  Ag3  1  0.87276941  0.82438021  0.24652995  1
+  I  I0  1  0.51786852  0.35610132  0.50000000  1
+  I  I1  1  0.01786852  0.64389868  -0.00000000  1
+  I  I2  1  0.01930153  0.65635421  0.50000000  1
+  I  I3  1  0.51930153  0.34364579  -0.00000000  1
+  I  I4  1  0.48670016  0.82065134  0.74463868  1
+  I  I5  1  0.48670016  0.82065134  0.25536132  1
+  I  I6  1  0.98670016  0.17934866  0.75536132  1
+  I  I7  1  0.98670016  0.17934866  0.24463868  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 I6 2.836010 1_455
+Ag0 I0 2.840780 1_555
+Ag0 I4 2.849600 1_545
+Ag0 I3 2.850152 1_556
+Ag1 I7 2.836010 1_455
+Ag1 I0 2.840780 1_555
+Ag1 I5 2.849600 1_545
+Ag1 I3 2.850152 1_555
+Ag2 I4 2.836010 1_555
+Ag2 I1 2.840780 1_656
+Ag2 I6 2.849600 1_565
+Ag2 I2 2.850152 1_655
+Ag3 I5 2.836010 1_555
+Ag3 I1 2.840780 1_655
+Ag3 I7 2.849600 1_565
+Ag3 I2 2.850152 1_655
+I0 Zn0 2.633979 1_555
+I1 Zn1 2.633979 1_455
+I2 Zn0 2.623792 1_555
+I3 Zn1 2.623792 1_555
+I4 Zn0 2.628246 1_555
+I5 Zn0 2.628246 1_555
+I6 Zn1 2.628246 1_556
+I7 Zn1 2.628246 1_555

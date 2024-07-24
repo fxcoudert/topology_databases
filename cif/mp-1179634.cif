@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_S(IN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05494300
+_cell_length_b   8.56066908
+_cell_length_c   12.35721644
+_cell_angle_alpha   101.14507035
+_cell_angle_beta   103.27379527
+_cell_angle_gamma   107.41686025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   S(IN)2
+_chemical_formula_sum   'S4 I8 N8'
+_cell_volume   664.91441418
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.62902300  0.86813400  0.37374800  1
+  S  S1  1  0.37097700  0.13186600  0.62625200  1
+  S  S2  1  0.12911000  0.36667600  0.12256700  1
+  S  S3  1  0.87089000  0.63332400  0.87743300  1
+  I  I0  1  0.31171500  0.20964200  0.94754000  1
+  I  I1  1  0.41938900  0.03543600  0.20911600  1
+  I  I2  1  0.68828500  0.79035800  0.05246000  1
+  I  I3  1  0.16807500  0.31341400  0.37730400  1
+  I  I4  1  0.58061100  0.96456400  0.79088400  1
+  I  I5  1  0.83192500  0.68658600  0.62269600  1
+  I  I6  1  0.88658000  0.61999300  0.31560100  1
+  I  I7  1  0.11342000  0.38000700  0.68439900  1
+  N  N0  1  0.74881700  0.75802400  0.89059800  1
+  N  N1  1  0.41921600  0.13137000  0.75605200  1
+  N  N2  1  0.58078400  0.86863000  0.24394800  1
+  N  N3  1  0.91892100  0.59138000  0.76143500  1
+  N  N4  1  0.76105200  0.76241800  0.41461500  1
+  N  N5  1  0.23894800  0.23758200  0.58538500  1
+  N  N6  1  0.25118300  0.24197600  0.10940200  1
+  N  N7  1  0.08107900  0.40862000  0.23856500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+I0 N6 2.123351 1_556
+I0 N1 2.671839 1_555
+I1 N2 2.122913 1_545
+I1 N6 2.734887 1_555
+I2 N0 2.123351 1_554
+I2 N2 2.671839 1_555
+I3 N7 2.082466 1_555
+I3 N5 2.744494 1_555
+I4 N1 2.122913 1_565
+I4 N0 2.734887 1_555
+I5 N3 2.082466 1_555
+I5 N4 2.744494 1_555
+I6 N4 2.082104 1_555
+I6 N7 2.735632 1_655
+I7 N5 2.082104 1_555
+I7 N3 2.735632 1_455
+N0 S3 1.566947 1_555
+N1 S1 1.562491 1_555
+N2 S0 1.562491 1_555
+N3 S3 1.547687 1_555
+N4 S0 1.551443 1_555
+N5 S1 1.551443 1_555
+N6 S2 1.566947 1_555
+N7 S2 1.547687 1_555

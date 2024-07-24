@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_LaCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.54234393
+_cell_length_b   10.54234393
+_cell_length_c   6.30207900
+_cell_angle_alpha   81.40569463
+_cell_angle_beta   81.40569463
+_cell_angle_gamma   82.52045369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCoO3
+_chemical_formula_sum   'La2 Co2 O6'
+_cell_volume   680.59949499
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.49731000  0.50269000  0.25000000  1
+  La  La1  1  0.50269000  0.49731000  0.75000000  1
+  Co  Co0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.03317400  0.50126600  0.57450300  1
+  O  O1  1  0.94465400  0.05534600  0.75000000  1
+  O  O2  1  0.49873400  0.96682600  0.92549700  1
+  O  O3  1  0.96682600  0.49873400  0.42549700  1
+  O  O4  1  0.05534600  0.94465400  0.25000000  1
+  O  O5  1  0.50126600  0.03317400  0.07450300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 La1 3.151927 1_555
+La0 La1 3.151927 1_554
+Co0 O4 1.753431 1_545
+Co0 O1 1.753431 1_455
+Co1 O4 1.753431 1_545
+Co1 O1 1.753431 1_454
+O0 O3 1.257153 1_455
+O2 O5 1.257153 1_566

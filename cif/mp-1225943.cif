@@ -1,0 +1,121 @@
+# generated using pymatgen
+data_Gd(AlCr)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80143932
+_cell_length_b   6.80143932
+_cell_length_c   6.80143932
+_cell_angle_alpha   135.44739762
+_cell_angle_beta   99.09193005
+_cell_angle_gamma   97.43344015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(AlCr)6
+_chemical_formula_sum   'Gd1 Al6 Cr6'
+_cell_volume   204.23149289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al0  1  0.65415600  0.00000000  0.65415600  1
+  Al  Al1  1  0.34584400  0.00000000  0.34584400  1
+  Al  Al2  1  0.66612900  0.66612900  0.00000000  1
+  Al  Al3  1  0.33387100  0.33387100  0.00000000  1
+  Al  Al4  1  0.19699300  0.50000000  0.69699300  1
+  Al  Al5  1  0.80300700  0.50000000  0.30300700  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr2  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr4  1  0.24210600  0.74210600  0.50000000  1
+  Cr  Cr5  1  0.75789400  0.25789400  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Cr5 2.684865 1_555
+Al0 Cr4 2.684865 1_545
+Al0 Al1 2.721181 1_555
+Al0 Cr0 2.722457 1_655
+Al0 Cr1 2.722457 1_656
+Al0 Cr3 2.722457 1_556
+Al0 Cr2 2.722457 1_545
+Al0 Al5 2.893671 1_545
+Al0 Al5 2.893671 1_556
+Al0 Gd0 3.052441 1_656
+Al1 Cr4 2.684865 1_545
+Al1 Cr5 2.684865 1_555
+Al1 Cr3 2.722457 1_555
+Al1 Cr2 2.722457 1_555
+Al1 Cr1 2.722457 1_545
+Al1 Cr0 2.722457 1_555
+Al1 Al4 2.893671 1_555
+Al1 Al4 2.893671 1_544
+Al1 Gd0 3.052441 1_555
+Al2 Cr2 2.664050 1_554
+Al2 Cr1 2.664050 1_655
+Al2 Cr3 2.664050 1_565
+Al2 Cr0 2.664050 1_665
+Al2 Cr5 2.706592 1_554
+Al2 Cr5 2.706592 1_565
+Al2 Gd0 2.996472 1_665
+Al2 Al5 3.061906 1_555
+Al2 Al4 3.061906 1_554
+Al3 Cr2 2.664050 1_555
+Al3 Cr0 2.664050 1_554
+Al3 Cr1 2.664050 1_555
+Al3 Cr3 2.664050 1_555
+Al3 Cr4 2.706592 1_555
+Al3 Cr4 2.706592 1_544
+Al3 Gd0 2.996472 1_555
+Al3 Al4 3.061906 1_554
+Al3 Al5 3.061906 1_555
+Al4 Cr0 2.629650 1_555
+Al4 Cr3 2.629650 1_566
+Al4 Cr1 2.629650 1_556
+Al4 Cr2 2.629650 1_555
+Al4 Cr4 2.782880 1_555
+Al4 Cr5 2.782880 1_455
+Al4 Gd0 3.109715 1_566
+Al4 Gd0 3.109715 1_555
+Al5 Cr0 2.629650 1_665
+Al5 Cr3 2.629650 1_555
+Al5 Cr2 2.629650 1_555
+Al5 Cr1 2.629650 1_655
+Al5 Cr4 2.782880 1_655
+Al5 Cr5 2.782880 1_555
+Al5 Gd0 3.109715 1_655
+Al5 Gd0 3.109715 1_666
+Cr0 Cr4 2.556475 1_545
+Cr0 Cr5 2.556475 1_455
+Cr0 Cr1 2.578245 1_556
+Cr0 Cr1 2.578245 1_545
+Cr0 Gd0 3.400720 1_555
+Cr0 Gd0 3.400720 1_556
+Cr1 Cr5 2.556475 1_454
+Cr1 Cr4 2.556475 1_555
+Cr1 Gd0 3.400720 1_565
+Cr1 Gd0 3.400720 1_555
+Cr2 Cr5 2.556475 1_555
+Cr2 Cr4 2.556475 1_555
+Cr2 Cr3 2.578245 1_566
+Cr2 Cr3 2.578245 1_555
+Cr2 Gd0 3.400720 1_666
+Cr2 Gd0 3.400720 1_555
+Cr3 Cr5 2.556475 1_555
+Cr3 Cr4 2.556475 1_544
+Cr3 Gd0 3.400720 1_655
+Cr3 Gd0 3.400720 1_555
+Cr4 Gd0 3.371763 1_555
+Cr4 Gd0 3.371763 1_566
+Cr5 Gd0 3.371763 1_655
+Cr5 Gd0 3.371763 1_666

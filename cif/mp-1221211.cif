@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na3WNO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69154600
+_cell_length_b   6.36817800
+_cell_length_c   7.39347700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3WNO3
+_chemical_formula_sum   'Na6 W2 N2 O6'
+_cell_volume   267.97493268
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.52099100  0.33032500  0.74571700  1
+  Na  Na1  1  0.52099100  0.33032500  0.25428300  1
+  Na  Na2  1  0.02099100  0.66967500  0.75428300  1
+  Na  Na3  1  0.02099100  0.66967500  0.24571700  1
+  Na  Na4  1  0.51823600  0.84285900  0.00000000  1
+  Na  Na5  1  0.01823600  0.15714100  0.50000000  1
+  W  W0  1  0.50297100  0.82816500  0.50000000  1
+  W  W1  1  0.00297100  0.17183500  0.00000000  1
+  N  N0  1  0.68927200  0.17570900  0.00000000  1
+  N  N1  1  0.18927200  0.82429100  0.50000000  1
+  O  O0  1  0.60223000  0.10886100  0.50000000  1
+  O  O1  1  0.10223000  0.89113900  0.00000000  1
+  O  O2  1  0.60310500  0.68761100  0.70898400  1
+  O  O3  1  0.60310500  0.68761100  0.29101600  1
+  O  O4  1  0.10310500  0.31238900  0.79101600  1
+  O  O5  1  0.10310500  0.31238900  0.20898400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O2 2.338587 1_555
+Na0 O0 2.345892 1_555
+Na0 O4 2.404597 1_555
+Na1 O3 2.338587 1_555
+Na1 O0 2.345892 1_555
+Na1 O5 2.404597 1_555
+Na2 O4 2.338587 1_555
+Na2 O1 2.345892 1_556
+Na2 O2 2.404597 1_455
+Na3 O5 2.338587 1_555
+Na3 O1 2.345892 1_555
+Na3 O3 2.404597 1_455
+Na4 O1 2.387596 1_555
+Na4 O3 2.416654 1_555
+Na4 O2 2.416654 1_554
+Na5 O0 2.387596 1_455
+Na5 O5 2.416654 1_555
+Na5 O4 2.416654 1_555
+N0 W1 1.785603 1_655
+N0 Na1 2.328380 1_555
+N0 Na0 2.328380 1_554
+N0 Na4 2.332495 1_545
+N1 W0 1.785603 1_555
+N1 Na2 2.328380 1_555
+N1 Na3 2.328380 1_555
+N1 Na5 2.332495 1_565
+O0 W0 1.874670 1_545
+O1 W1 1.874670 1_565
+O2 W0 1.874394 1_555
+O3 W0 1.874394 1_555
+O4 W1 1.874394 1_556
+O5 W1 1.874394 1_555

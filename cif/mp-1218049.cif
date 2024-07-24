@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Ta3Mo3N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.04921400
+_cell_length_b   3.04921400
+_cell_length_c   12.66678000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Mo3N4
+_chemical_formula_sum   'Ta3 Mo3 N4'
+_cell_volume   117.77199663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.64597200  1
+  Ta  Ta1  1  0.00000000  0.00000000  0.35247800  1
+  Ta  Ta2  1  0.50000000  0.50000000  0.85231400  1
+  Mo  Mo0  1  0.00000000  0.00000000  0.00375300  1
+  Mo  Mo1  1  0.50000000  0.50000000  0.49989800  1
+  Mo  Mo2  1  0.50000000  0.50000000  0.14669600  1
+  N  N0  1  0.50000000  0.50000000  0.32297700  1
+  N  N1  1  0.00000000  0.00000000  0.82527000  1
+  N  N2  1  0.00000000  0.00000000  0.17416400  1
+  N  N3  1  0.50000000  0.50000000  0.67647700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 N2 2.158559 1_555
+Mo0 N1 2.260805 1_554
+Mo1 N3 2.236687 1_555
+Mo1 N0 2.241019 1_555
+Mo2 N2 2.184012 1_655
+Mo2 N2 2.184012 1_565
+Mo2 N2 2.184012 1_665
+Mo2 N2 2.184012 1_555
+Mo2 N0 2.232913 1_555
+N0 Ta1 2.188262 1_665
+N0 Ta1 2.188262 1_555
+N0 Ta1 2.188262 1_565
+N0 Ta1 2.188262 1_655
+N1 Ta2 2.183163 1_545
+N1 Ta2 2.183163 1_445
+N1 Ta2 2.183163 1_455
+N1 Ta2 2.183163 1_555
+N1 Ta0 2.271128 1_555
+N2 Ta1 2.258664 1_555
+N3 Ta0 2.190470 1_565
+N3 Ta0 2.190470 1_555
+N3 Ta0 2.190470 1_665
+N3 Ta0 2.190470 1_655
+N3 Ta2 2.227289 1_555

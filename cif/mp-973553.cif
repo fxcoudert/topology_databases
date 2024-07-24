@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Gd(Al2Cu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09517460
+_cell_length_b   6.69240503
+_cell_length_c   6.69233017
+_cell_angle_alpha   98.45900128
+_cell_angle_beta   67.48578791
+_cell_angle_gamma   112.51377509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(Al2Cu)4
+_chemical_formula_sum   'Gd1 Al8 Cu4'
+_cell_volume   194.74278130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al0  1  0.28060885  0.78037401  0.21963356  1
+  Al  Al1  1  0.50000096  0.21953141  0.21952997  1
+  Al  Al2  1  0.65108165  0.65147373  0.34851593  1
+  Al  Al3  1  -0.00000679  0.34841291  0.34841659  1
+  Al  Al4  1  0.00000679  0.65158609  0.65158241  1
+  Al  Al5  1  0.34891935  0.34852627  0.65148307  1
+  Al  Al6  1  0.71939215  0.21962699  0.78036644  1
+  Al  Al7  1  0.49999904  0.78046959  0.78047103  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  -0.00000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.50000100  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Cu3 2.543051 1_565
+Al0 Cu1 2.543107 1_555
+Al0 Cu2 2.543350 1_565
+Al0 Cu0 2.543418 1_555
+Al0 Al7 2.715034 1_554
+Al0 Al1 2.715041 1_565
+Al0 Al2 2.785261 1_455
+Al0 Al2 2.786399 1_555
+Al0 Al4 2.787038 1_555
+Al0 Al3 2.787135 1_555
+Al0 Gd0 3.184333 1_665
+Al0 Gd0 3.196783 1_565
+Al1 Cu0 2.540623 1_655
+Al1 Cu2 2.540628 1_555
+Al1 Cu1 2.548124 1_555
+Al1 Cu3 2.548130 1_555
+Al1 Al6 2.715040 1_554
+Al1 Al3 2.785525 1_655
+Al1 Al3 2.785569 1_555
+Al1 Al2 2.786518 1_555
+Al1 Al5 2.786564 1_555
+Al1 Gd0 3.189376 1_655
+Al1 Gd0 3.189384 1_555
+Al2 Al5 2.649571 1_555
+Al2 Cu0 2.671563 1_655
+Al2 Cu2 2.671662 1_665
+Al2 Cu1 2.672452 1_555
+Al2 Cu3 2.672539 1_565
+Al2 Al7 2.786578 1_555
+Al2 Gd0 3.048033 1_665
+Al3 Al4 2.649897 1_555
+Al3 Cu3 2.669030 1_455
+Al3 Cu1 2.669061 1_555
+Al3 Cu0 2.676179 1_555
+Al3 Cu2 2.676195 1_555
+Al3 Al6 2.787040 1_455
+Al3 Gd0 3.045369 1_555
+Al4 Cu3 2.669038 1_565
+Al4 Cu1 2.669064 1_456
+Al4 Cu0 2.676182 1_556
+Al4 Cu2 2.676198 1_565
+Al4 Al7 2.785532 1_555
+Al4 Al7 2.785576 1_455
+Al4 Al6 2.787125 1_455
+Al4 Gd0 3.045378 1_566
+Al5 Cu0 2.671569 1_556
+Al5 Cu2 2.671661 1_555
+Al5 Cu1 2.672456 1_556
+Al5 Cu3 2.672541 1_555
+Al5 Al6 2.785261 1_455
+Al5 Al6 2.786399 1_555
+Al5 Al7 2.786528 1_555
+Al5 Gd0 3.048037 1_556
+Al6 Cu3 2.543051 1_555
+Al6 Cu1 2.543104 1_556
+Al6 Cu2 2.543352 1_655
+Al6 Cu0 2.543413 1_656
+Al6 Al7 2.715041 1_545
+Al6 Gd0 3.184338 1_556
+Al6 Gd0 3.196784 1_656
+Al7 Cu0 2.540624 1_556
+Al7 Cu2 2.540629 1_665
+Al7 Cu1 2.548125 1_556
+Al7 Cu3 2.548126 1_565
+Al7 Gd0 3.189371 1_566
+Al7 Gd0 3.189379 1_666
+Cu0 Cu1 2.547587 1_555
+Cu0 Cu1 2.547587 1_455
+Cu0 Gd0 3.346203 1_555
+Cu0 Gd0 3.346203 1_565
+Cu1 Gd0 3.340498 1_665
+Cu1 Gd0 3.340498 1_555
+Cu2 Cu3 2.547582 1_455
+Cu2 Cu3 2.547592 1_555
+Cu2 Gd0 3.346165 1_556
+Cu2 Gd0 3.346165 1_555
+Cu3 Gd0 3.340452 1_655
+Cu3 Gd0 3.340456 1_556

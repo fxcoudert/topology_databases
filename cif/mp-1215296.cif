@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrMnCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04616640
+_cell_length_b   5.04616640
+_cell_length_c   8.10322100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.31986211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnCr
+_chemical_formula_sum   'Zr4 Mn4 Cr4'
+_cell_volume   178.11586897
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33350800  0.66649200  0.19046200  1
+  Zr  Zr1  1  0.66692300  0.33307700  0.31398200  1
+  Zr  Zr2  1  0.66692300  0.33307700  0.68601800  1
+  Zr  Zr3  1  0.33350800  0.66649200  0.80953800  1
+  Mn  Mn0  1  0.83301500  0.16698500  0.00000000  1
+  Mn  Mn1  1  0.17131800  0.34038000  0.50000000  1
+  Mn  Mn2  1  0.65962000  0.82868200  0.50000000  1
+  Mn  Mn3  1  0.17021900  0.82978100  0.50000000  1
+  Cr  Cr0  1  0.99922600  0.00077400  0.25954000  1
+  Cr  Cr1  1  0.99922600  0.00077400  0.74046000  1
+  Cr  Cr2  1  0.83359300  0.66502800  0.00000000  1
+  Cr  Cr3  1  0.33497200  0.16640700  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.071325 1_455
+Zr0 Zr1 3.071325 1_565
+Zr0 Zr1 3.085650 1_555
+Zr0 Zr3 3.086711 1_554
+Zr1 Zr2 3.014690 1_555
+Zr2 Zr3 3.071325 1_545
+Zr2 Zr3 3.071325 1_655
+Zr2 Zr3 3.085650 1_555
+Mn0 Zr2 2.930434 1_554
+Mn0 Zr1 2.930434 1_555
+Mn0 Zr3 2.947280 1_544
+Mn0 Zr0 2.947280 1_655
+Mn0 Zr0 2.947280 1_545
+Mn0 Zr3 2.947280 1_654
+Mn1 Mn2 2.452131 1_555
+Mn1 Mn3 2.472403 1_555
+Mn1 Mn2 2.569619 1_445
+Mn1 Mn3 2.573772 1_545
+Mn1 Zr0 2.882602 1_555
+Mn1 Zr3 2.882602 1_555
+Mn1 Zr1 2.936159 1_555
+Mn1 Zr2 2.936159 1_555
+Mn1 Zr1 2.942295 1_455
+Mn1 Zr2 2.942295 1_455
+Mn2 Mn3 2.472403 1_555
+Mn2 Mn3 2.573772 1_655
+Mn2 Zr0 2.882602 1_555
+Mn2 Zr3 2.882602 1_555
+Mn2 Zr2 2.936159 1_555
+Mn2 Zr1 2.936159 1_555
+Mn2 Zr1 2.942295 1_565
+Mn2 Zr2 2.942295 1_565
+Mn3 Zr3 2.886995 1_555
+Mn3 Zr0 2.886995 1_555
+Mn3 Zr1 2.928722 1_455
+Mn3 Zr2 2.928722 1_455
+Mn3 Zr2 2.928722 1_565
+Mn3 Zr1 2.928722 1_565
+Cr0 Mn2 2.446430 1_545
+Cr0 Mn1 2.446430 1_655
+Cr0 Mn3 2.457116 1_645
+Cr0 Mn0 2.557393 1_555
+Cr0 Cr2 2.561707 1_545
+Cr0 Cr3 2.561707 1_655
+Cr0 Zr1 2.941823 1_545
+Cr0 Zr1 2.941823 1_655
+Cr0 Zr1 2.942330 1_555
+Cr0 Zr0 2.953382 1_655
+Cr0 Zr0 2.953382 1_545
+Cr0 Zr0 2.979448 1_645
+Cr1 Mn2 2.446430 1_545
+Cr1 Mn1 2.446430 1_655
+Cr1 Mn3 2.457116 1_645
+Cr1 Mn0 2.557393 1_556
+Cr1 Cr2 2.561707 1_546
+Cr1 Cr3 2.561707 1_656
+Cr1 Zr2 2.941823 1_545
+Cr1 Zr2 2.941823 1_655
+Cr1 Zr2 2.942330 1_555
+Cr1 Zr3 2.953382 1_655
+Cr1 Zr3 2.953382 1_545
+Cr1 Zr3 2.979448 1_645
+Cr2 Cr3 2.503950 1_555
+Cr2 Mn0 2.511737 1_555
+Cr2 Cr3 2.517800 1_665
+Cr2 Mn0 2.534432 1_565
+Cr2 Zr1 2.926452 1_555
+Cr2 Zr2 2.926452 1_554
+Cr2 Zr0 2.954144 1_655
+Cr2 Zr3 2.954144 1_654
+Cr2 Zr0 2.961239 1_555
+Cr2 Zr3 2.961239 1_554
+Cr3 Mn0 2.511737 1_555
+Cr3 Mn0 2.534432 1_455
+Cr3 Zr1 2.926452 1_555
+Cr3 Zr2 2.926452 1_554
+Cr3 Zr0 2.954144 1_545
+Cr3 Zr3 2.954144 1_544
+Cr3 Zr3 2.961239 1_554
+Cr3 Zr0 2.961239 1_555

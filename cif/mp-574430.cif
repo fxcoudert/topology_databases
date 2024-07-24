@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaUI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31714142
+_cell_length_b   8.31714142
+_cell_length_c   14.69969340
+_cell_angle_alpha   83.59236694
+_cell_angle_beta   83.59236694
+_cell_angle_gamma   119.03898025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaUI6
+_chemical_formula_sum   'Ba2 U2 I12'
+_cell_volume   867.23651291
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17593465  0.33354225  0.99469169  1
+  Ba  Ba1  1  0.33354225  0.17593465  0.49469169  1
+  U  U0  1  0.66711371  0.83982827  0.50025815  1
+  U  U1  1  0.83982827  0.66711371  0.00025815  1
+  I  I0  1  0.59382579  0.72375466  0.88020545  1
+  I  I1  1  0.72375466  0.59382579  0.38020545  1
+  I  I2  1  0.87925068  0.41879623  0.87489284  1
+  I  I3  1  0.61423253  0.08436084  0.62369937  1
+  I  I4  1  0.41879623  0.87925068  0.37489284  1
+  I  I5  1  -0.00039954  0.18513396  0.37628940  1
+  I  I6  1  0.18513396  -0.00039954  0.87628940  1
+  I  I7  1  0.91848610  0.79728531  0.62093701  1
+  I  I8  1  0.08436084  0.61423253  0.12369937  1
+  I  I9  1  0.50025565  0.32859891  0.12362608  1
+  I  I10  1  0.32859891  0.50025565  0.62362608  1
+  I  I11  1  0.79728531  0.91848610  0.12093701  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 I0 3.459754 1_555
+Ba0 I11 3.462675 1_446
+Ba0 I6 3.464802 1_555
+Ba0 I8 3.466746 1_556
+Ba0 I2 3.476001 1_455
+Ba0 I9 3.478694 1_556
+Ba1 I1 3.459754 1_555
+Ba1 I7 3.462675 1_445
+Ba1 I5 3.464802 1_555
+Ba1 I3 3.466746 1_555
+Ba1 I4 3.476001 1_545
+Ba1 I10 3.478694 1_555
+I0 U1 3.013070 1_556
+I1 U0 3.013070 1_555
+I2 U1 3.023410 1_556
+I3 U0 3.022648 1_545
+I4 U0 3.023410 1_555
+I5 U0 3.035291 1_445
+I6 U1 3.035291 1_446
+I7 U0 3.008151 1_555
+I8 U1 3.022648 1_455
+I9 U1 3.031457 1_555
+I10 U0 3.031457 1_555
+I11 U1 3.008151 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiTi3O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27377196
+_cell_length_b   7.27377196
+_cell_length_c   5.00309931
+_cell_angle_alpha   87.54819484
+_cell_angle_beta   87.54819484
+_cell_angle_gamma   23.50127670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTi3O6
+_chemical_formula_sum   'Li1 Ti3 O6'
+_cell_volume   105.45457935
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21380500  0.21380500  0.93510400  1
+  Ti  Ti0  1  0.65202700  0.65202700  0.46972900  1
+  Ti  Ti1  1  0.99636500  0.99636500  0.99987500  1
+  Ti  Ti2  1  0.34675900  0.34675900  0.52069300  1
+  O  O0  1  0.90436200  0.90436200  0.31370100  1
+  O  O1  1  0.76865300  0.76865300  0.70996600  1
+  O  O2  1  0.56962100  0.56962100  0.17551600  1
+  O  O3  1  0.43212500  0.43212500  0.81621100  1
+  O  O4  1  0.22858600  0.22858600  0.30297500  1
+  O  O5  1  0.09989500  0.09989500  0.69593100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 1.861613 1_556
+Li0 O1 1.999104 1_545
+Li0 O1 1.999104 1_455
+Li0 O5 2.057583 1_555
+O0 Ti2 1.966121 1_565
+O0 Ti2 1.966121 1_655
+O0 Ti1 2.000623 1_554
+O1 Ti2 2.058275 1_565
+O1 Ti2 2.058275 1_655
+O1 Ti0 2.092426 1_555
+O2 Ti0 1.922296 1_555
+O2 Ti1 2.033530 1_454
+O2 Ti1 2.033530 1_544
+O3 Ti2 1.954825 1_555
+O3 Ti1 1.987279 1_455
+O3 Ti1 1.987279 1_545
+O4 Ti0 1.999959 1_545
+O4 Ti0 1.999959 1_455
+O4 Ti2 2.044391 1_555
+O5 Ti0 1.988205 1_545
+O5 Ti0 1.988205 1_455
+O5 Ti1 2.071410 1_445

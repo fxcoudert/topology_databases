@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_Hf3(Cu2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32399961
+_cell_length_b   6.32399866
+_cell_length_c   3.97975474
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3(Cu2Ge)2
+_chemical_formula_sum   'Hf3 Cu4 Ge2'
+_cell_volume   137.83849495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.58940902  0.50000000  1
+  Hf  Hf1  1  0.41059098  0.41059098  0.50000000  1
+  Hf  Hf2  1  0.58940902  -0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  -0.00000000  0.50000000  1
+  Cu  Cu1  1  0.23935757  -0.00000000  -0.00000000  1
+  Cu  Cu2  1  0.76064243  0.76064243  -0.00000000  1
+  Cu  Cu3  1  0.00000000  0.23935757  0.00000000  1
+  Ge  Ge0  1  0.66666700  0.33333300  -0.00000000  1
+  Ge  Ge1  1  0.33333300  0.66666700  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Cu3 2.500178 1_556
+Cu0 Cu3 2.500178 1_555
+Cu0 Cu2 2.500178 1_446
+Cu0 Cu2 2.500178 1_445
+Cu0 Cu1 2.500178 1_555
+Cu0 Cu1 2.500178 1_556
+Cu0 Hf0 2.596577 1_545
+Cu0 Hf1 2.596577 1_555
+Cu0 Hf2 2.596577 1_455
+Cu1 Ge1 2.459600 1_545
+Cu1 Ge0 2.459604 1_555
+Cu1 Cu3 2.621800 1_555
+Cu1 Cu2 2.621800 1_445
+Cu1 Hf2 2.976607 1_554
+Cu1 Hf2 2.976607 1_555
+Cu1 Hf1 3.010427 1_554
+Cu1 Hf1 3.010427 1_555
+Cu1 Hf0 3.010427 1_544
+Cu1 Hf0 3.010427 1_545
+Cu2 Ge0 2.459606 1_555
+Cu2 Ge1 2.459606 1_555
+Cu2 Cu3 2.621800 1_665
+Cu2 Hf1 2.976607 1_555
+Cu2 Hf1 2.976607 1_554
+Cu2 Hf2 3.010427 1_564
+Cu2 Hf2 3.010427 1_565
+Cu2 Hf0 3.010427 1_655
+Cu2 Hf0 3.010427 1_654
+Cu3 Ge0 2.459600 1_455
+Cu3 Ge1 2.459604 1_555
+Cu3 Hf0 2.976607 1_555
+Cu3 Hf0 2.976607 1_554
+Cu3 Hf2 3.010427 1_454
+Cu3 Hf2 3.010427 1_455
+Cu3 Hf1 3.010427 1_554
+Cu3 Hf1 3.010427 1_555
+Ge0 Hf2 2.758995 1_554
+Ge0 Hf2 2.758995 1_555
+Ge0 Hf0 2.758996 1_655
+Ge0 Hf0 2.758996 1_654
+Ge0 Hf1 2.758999 1_554
+Ge0 Hf1 2.758999 1_555
+Ge1 Hf0 2.758995 1_555
+Ge1 Hf0 2.758995 1_554
+Ge1 Hf2 2.758996 1_564
+Ge1 Hf2 2.758996 1_565
+Ge1 Hf1 2.758999 1_555
+Ge1 Hf1 2.758999 1_554

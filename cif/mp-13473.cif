@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Sm(MnSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92618961
+_cell_length_b   3.92618868
+_cell_length_c   5.98272346
+_cell_angle_alpha   109.15515179
+_cell_angle_beta   109.15513836
+_cell_angle_gamma   89.99998791
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(MnSi)2
+_chemical_formula_sum   'Sm1 Mn2 Si2'
+_cell_volume   81.69275285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.00000000  -0.00000000  0.00000000  1
+  Mn  Mn0  1  0.75000000  0.25000000  0.50000000  1
+  Mn  Mn1  1  0.25000000  0.75000000  0.50000000  1
+  Si  Si0  1  0.61919592  0.61919592  0.23839284  1
+  Si  Si1  1  0.38080408  0.38080408  0.76160716  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si0 2.403301 1_555
+Mn0 Si1 2.403301 1_555
+Mn0 Si0 2.403304 1_545
+Mn0 Si1 2.403305 1_655
+Mn0 Sm0 3.297744 1_655
+Mn0 Sm0 3.297744 1_666
+Mn0 Sm0 3.297744 1_656
+Mn0 Sm0 3.297745 1_555
+Mn1 Si1 2.403301 1_555
+Mn1 Si0 2.403301 1_555
+Mn1 Si1 2.403304 1_565
+Mn1 Si0 2.403305 1_455
+Mn1 Sm0 3.297744 1_566
+Mn1 Sm0 3.297744 1_555
+Mn1 Sm0 3.297744 1_565
+Mn1 Sm0 3.297745 1_666
+Si0 Si1 2.526762 1_554
+Si0 Sm0 3.050180 1_555
+Si0 Sm0 3.050182 1_655
+Si0 Sm0 3.050182 1_565
+Si0 Sm0 3.050185 1_665
+Si1 Sm0 3.050180 1_666
+Si1 Sm0 3.050182 1_566
+Si1 Sm0 3.050182 1_656
+Si1 Sm0 3.050185 1_556

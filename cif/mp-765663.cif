@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_VF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86993700
+_cell_length_b   4.86993700
+_cell_length_c   9.03137100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VF3
+_chemical_formula_sum   'V4 F12'
+_cell_volume   214.19058108
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50000000  0.50000000  0.32780100  1
+  V  V1  1  0.50000000  0.50000000  0.67219900  1
+  V  V2  1  0.00000000  0.00000000  0.17219900  1
+  V  V3  1  0.00000000  0.00000000  0.82780100  1
+  F  F0  1  0.68148100  0.31851900  0.50000000  1
+  F  F1  1  0.71171400  0.28828600  0.82032400  1
+  F  F2  1  0.71171400  0.28828600  0.17967600  1
+  F  F3  1  0.78828600  0.78828600  0.67967600  1
+  F  F4  1  0.78828600  0.78828600  0.32032400  1
+  F  F5  1  0.81851900  0.81851900  0.00000000  1
+  F  F6  1  0.18148100  0.18148100  0.00000000  1
+  F  F7  1  0.21171400  0.21171400  0.32032400  1
+  F  F8  1  0.21171400  0.21171400  0.67967600  1
+  F  F9  1  0.28828600  0.71171400  0.17967600  1
+  F  F10  1  0.28828600  0.71171400  0.82032400  1
+  F  F11  1  0.31851900  0.68148100  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+F0 V1 1.995203 1_555
+F0 V0 1.995203 1_555
+F1 V1 1.978812 1_555
+F1 V3 1.986611 1_655
+F2 V0 1.978812 1_555
+F2 V2 1.986611 1_655
+F3 V3 1.978812 1_665
+F3 V1 1.986611 1_555
+F4 V2 1.978812 1_665
+F4 V0 1.986611 1_555
+F5 V2 1.995203 1_665
+F5 V3 1.995203 1_664
+F6 V3 1.995203 1_554
+F6 V2 1.995203 1_555
+F7 V2 1.978812 1_555
+F7 V0 1.986611 1_555
+F8 V3 1.978812 1_555
+F8 V1 1.986611 1_555
+F9 V0 1.978812 1_555
+F9 V2 1.986611 1_565
+F10 V1 1.978812 1_555
+F10 V3 1.986611 1_565
+F11 V1 1.995203 1_555
+F11 V0 1.995203 1_555

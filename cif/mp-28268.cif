@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_PtI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97993522
+_cell_length_b   7.04100242
+_cell_length_c   13.42939297
+_cell_angle_alpha   84.34977353
+_cell_angle_beta   78.54294728
+_cell_angle_gamma   60.28649086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PtI3
+_chemical_formula_sum   'Pt4 I12'
+_cell_volume   561.79547598
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.09530734  0.80938631  0.75000000  1
+  Pt  Pt1  1  0.90469266  0.19061369  0.25000000  1
+  Pt  Pt2  1  0.50000000  0.50000000  0.50000000  1
+  Pt  Pt3  1  0.00000000  0.50000000  -0.00000000  1
+  I  I0  1  0.80782147  0.12468766  0.64047713  1
+  I  I1  1  0.06749087  0.12468766  0.85952287  1
+  I  I2  1  0.19217853  0.87531234  0.35952287  1
+  I  I3  1  0.93250913  0.87531234  0.14047713  1
+  I  I4  1  0.84552365  0.50385311  0.38018245  1
+  I  I5  1  0.65062424  0.50385311  0.11981755  1
+  I  I6  1  0.15447635  0.49614689  0.61981755  1
+  I  I7  1  0.34937576  0.49614689  0.88018245  1
+  I  I8  1  0.24475855  0.20133141  0.12236313  1
+  I  I9  1  0.55391004  0.20133141  0.37763687  1
+  I  I10  1  0.75524145  0.79866859  0.87763687  1
+  I  I11  1  0.44608996  0.79866859  0.62236313  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+I0 Pt0 2.689207 1_645
+I0 Pt2 3.187258 1_555
+I1 Pt0 2.689204 1_545
+I1 Pt3 3.187258 1_556
+I2 Pt1 2.689207 1_465
+I2 Pt2 3.187258 1_555
+I3 Pt1 2.689204 1_565
+I3 Pt3 3.187258 1_655
+I4 Pt2 2.630766 1_555
+I4 Pt1 2.767812 1_555
+I5 Pt3 2.630760 1_655
+I5 Pt1 2.767807 1_555
+I6 Pt2 2.630766 1_555
+I6 Pt0 2.767812 1_555
+I7 Pt3 2.630760 1_556
+I7 Pt0 2.767807 1_555
+I8 Pt3 2.629557 1_555
+I8 Pt1 2.667155 1_455
+I9 Pt2 2.629557 1_555
+I9 Pt1 2.667149 1_555
+I10 Pt3 2.629557 1_656
+I10 Pt0 2.667155 1_655
+I11 Pt2 2.629557 1_555
+I11 Pt0 2.667149 1_555

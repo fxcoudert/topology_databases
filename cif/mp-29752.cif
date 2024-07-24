@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_NiGePt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32628168
+_cell_length_b   5.32628176
+_cell_length_c   5.37201122
+_cell_angle_alpha   118.18053099
+_cell_angle_beta   118.18053018
+_cell_angle_gamma   92.71617229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiGePt2
+_chemical_formula_sum   'Ni2 Ge2 Pt4'
+_cell_volume   111.00905349
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.20067850  0.79932150  -0.00000000  1
+  Ni  Ni1  1  0.79932150  0.20067850  0.00000000  1
+  Ge  Ge0  1  0.76789447  0.76789447  0.53579194  1
+  Ge  Ge1  1  0.23210553  0.23210553  0.46420806  1
+  Pt  Pt0  1  0.69724632  0.69724632  0.00000000  1
+  Pt  Pt1  1  0.75000000  0.25000000  0.50000000  1
+  Pt  Pt2  1  0.30275368  0.30275368  -0.00000000  1
+  Pt  Pt3  1  0.25000000  0.75000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Pt0 2.710616 1_455
+Ni0 Pt2 2.710617 1_565
+Ni0 Pt1 2.712782 1_565
+Ni0 Pt1 2.712782 1_454
+Ni0 Pt3 2.712783 1_554
+Ni0 Pt3 2.712783 1_555
+Ni0 Pt0 2.725282 1_555
+Ni0 Pt2 2.725282 1_555
+Ni1 Pt2 2.710616 1_655
+Ni1 Pt0 2.710617 1_545
+Ni1 Pt3 2.712782 1_544
+Ni1 Pt3 2.712782 1_655
+Ni1 Pt1 2.712783 1_555
+Ni1 Pt1 2.712783 1_554
+Ni1 Pt2 2.725282 1_555
+Ni1 Pt0 2.725282 1_555
+Ge0 Ni1 2.387500 1_566
+Ge0 Ni0 2.387500 1_656
+Ge0 Pt2 2.551132 1_555
+Ge0 Pt0 2.551144 1_555
+Ge0 Pt3 2.666822 1_555
+Ge0 Pt1 2.666822 1_555
+Ge0 Pt3 2.666837 1_655
+Ge0 Pt1 2.666837 1_565
+Ge0 Pt0 2.874205 1_556
+Ge0 Pt2 2.874222 1_666
+Ge1 Ni0 2.387500 1_545
+Ge1 Ni1 2.387500 1_455
+Ge1 Pt0 2.551132 1_556
+Ge1 Pt2 2.551144 1_556
+Ge1 Pt1 2.666822 1_555
+Ge1 Pt3 2.666822 1_555
+Ge1 Pt1 2.666837 1_455
+Ge1 Pt3 2.666837 1_545
+Ge1 Pt2 2.874205 1_555
+Ge1 Pt0 2.874222 1_445
+Pt0 Pt1 2.775092 1_565
+Pt0 Pt3 2.775092 1_655
+Pt0 Pt1 2.775092 1_554
+Pt0 Pt3 2.775092 1_554
+Pt0 Pt2 2.900254 1_555
+Pt1 Pt2 2.775092 1_656
+Pt1 Pt2 2.775092 1_555
+Pt2 Pt3 2.775092 1_544
+Pt2 Pt3 2.775092 1_555

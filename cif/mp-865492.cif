@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LuCuPbSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09158652
+_cell_length_b   7.09158652
+_cell_length_c   10.44859900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.92492001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCuPbSe3
+_chemical_formula_sum   'Lu2 Cu2 Pb2 Se6'
+_cell_volume   286.76669705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.49863000  0.50137000  0.49446200  1
+  Lu  Lu1  1  0.50137000  0.49863000  0.99446200  1
+  Cu  Cu0  1  0.96639200  0.03360800  0.24496200  1
+  Cu  Cu1  1  0.03360800  0.96639200  0.74496200  1
+  Pb  Pb0  1  0.25439100  0.74560900  0.23635800  1
+  Pb  Pb1  1  0.74560900  0.25439100  0.73635800  1
+  Se  Se0  1  0.13875200  0.86124800  0.55402000  1
+  Se  Se1  1  0.13938500  0.86061500  0.93470300  1
+  Se  Se2  1  0.42279600  0.57720400  0.74685200  1
+  Se  Se3  1  0.57720400  0.42279600  0.24685200  1
+  Se  Se4  1  0.86061500  0.13938500  0.43470300  1
+  Se  Se5  1  0.86124800  0.13875200  0.05402000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Se3 2.799074 1_555
+Lu0 Se4 2.825920 1_455
+Lu0 Se4 2.825920 1_565
+Lu0 Se2 2.831524 1_555
+Lu0 Se0 2.844564 1_655
+Lu0 Se0 2.844564 1_545
+Lu1 Se2 2.799074 1_555
+Lu1 Se1 2.825920 1_545
+Lu1 Se1 2.825920 1_655
+Lu1 Se3 2.831524 1_556
+Lu1 Se5 2.844564 1_566
+Lu1 Se5 2.844564 1_456
+Cu0 Se4 2.449248 1_555
+Cu0 Se5 2.454394 1_555
+Cu0 Se3 2.518934 1_655
+Cu0 Se3 2.518934 1_545
+Cu1 Se1 2.449248 1_555
+Cu1 Se0 2.454394 1_555
+Cu1 Se2 2.518934 1_565
+Cu1 Se2 2.518934 1_455
+Pb0 Se5 3.132921 1_565
+Pb0 Se5 3.132921 1_455
+Pb0 Se3 3.144918 1_565
+Pb0 Se3 3.144918 1_455
+Pb0 Se4 3.233499 1_455
+Pb0 Se4 3.233499 1_565
+Pb1 Se0 3.132921 1_545
+Pb1 Se0 3.132921 1_655
+Pb1 Se2 3.144918 1_655
+Pb1 Se2 3.144918 1_545
+Pb1 Se1 3.233499 1_655
+Pb1 Se1 3.233499 1_545

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiMn2O2F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99551200
+_cell_length_b   6.10009323
+_cell_length_c   6.87220062
+_cell_angle_alpha   107.70017174
+_cell_angle_beta   89.99899449
+_cell_angle_gamma   114.17382680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn2O2F3
+_chemical_formula_sum   'Li2 Mn4 O4 F6'
+_cell_volume   180.13177962
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49999800  0.50000100  0.00000300  1
+  Li  Li1  1  0.50000500  0.50000200  0.50000200  1
+  Mn  Mn0  1  0.16205800  0.87706100  0.36889200  1
+  Mn  Mn1  1  0.21499900  0.87705200  0.86887900  1
+  Mn  Mn2  1  0.78496900  0.12293700  0.13112400  1
+  Mn  Mn3  1  0.83794300  0.12292700  0.63110500  1
+  O  O0  1  0.97806800  0.10057000  0.36694100  1
+  O  O1  1  0.62251600  0.10059400  0.86695600  1
+  O  O2  1  0.37749300  0.89940500  0.13303500  1
+  O  O3  1  0.02192600  0.89943100  0.63305300  1
+  F  F0  1  0.20850300  0.49996400  0.74993200  1
+  F  F1  1  0.79150100  0.50003800  0.25006800  1
+  F  F2  1  0.57973000  0.25348400  0.55054300  1
+  F  F3  1  0.17376100  0.25356600  0.05061800  1
+  F  F4  1  0.82624900  0.74644400  0.94938700  1
+  F  F5  1  0.42028200  0.74652500  0.44946100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O3 1.931782 1_555
+Mn0 O0 1.934261 1_465
+Mn0 O2 1.954000 1_555
+Mn1 O2 1.931795 1_556
+Mn1 O1 1.934250 1_565
+Mn1 O3 1.953919 1_555
+Mn2 O1 1.931814 1_554
+Mn2 O2 1.934059 1_545
+Mn2 O0 1.953896 1_555
+Mn3 O0 1.931793 1_555
+Mn3 O3 1.934159 1_645
+Mn3 O1 1.953937 1_555
+F0 Mn3 2.180456 1_455
+F0 Mn1 2.180825 1_555
+F0 Li1 2.251765 1_555
+F0 Li0 2.252416 1_556
+F1 Mn0 2.180398 1_655
+F1 Mn2 2.180823 1_555
+F1 Li1 2.251767 1_555
+F1 Li0 2.252410 1_555
+F2 Li1 1.829954 1_555
+F2 Mn3 1.927212 1_555
+F2 Mn0 2.348948 1_545
+F3 Li0 1.829820 1_555
+F3 Mn2 1.927108 1_455
+F3 Mn1 2.349613 1_544
+F4 Li0 1.829887 1_556
+F4 Mn1 1.926927 1_655
+F4 Mn2 2.349604 1_566
+F5 Li1 1.829978 1_555
+F5 Mn0 1.927179 1_555
+F5 Mn3 2.348852 1_565

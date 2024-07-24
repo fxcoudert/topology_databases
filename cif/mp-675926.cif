@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_LiBH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07291100
+_cell_length_b   4.08036301
+_cell_length_c   5.06669019
+_cell_angle_alpha   90.21624185
+_cell_angle_beta   90.11994749
+_cell_angle_gamma   90.00370704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBH4
+_chemical_formula_sum   'Li2 B2 H8'
+_cell_volume   84.20231377
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99166800  0.01051500  0.00083200  1
+  Li  Li1  1  0.49523900  0.49237800  0.50165500  1
+  B  B0  1  0.50113800  0.49569300  0.00273200  1
+  B  B1  1  0.99587100  0.00301600  0.50011200  1
+  H  H0  1  0.00081500  0.75884600  0.63950600  1
+  H  H1  1  0.23901100  0.00042800  0.36087700  1
+  H  H2  1  0.99946600  0.25270600  0.63293900  1
+  H  H3  1  0.49969300  0.24543600  0.87256000  1
+  H  H4  1  0.25442700  0.50306400  0.13907100  1
+  H  H5  1  0.74893800  0.50141400  0.13901000  1
+  H  H6  1  0.50092700  0.73966900  0.86290100  1
+  H  H7  1  0.74370600  0.99812900  0.36920400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 H3 1.213530 1_554
+B0 H4 1.220874 1_555
+B0 H5 1.221836 1_555
+B0 H6 1.224054 1_554
+B1 H1 1.217097 1_655
+B1 H2 1.218984 1_555
+B1 H7 1.221554 1_545
+B1 H0 1.223556 1_645
+H0 Li0 2.096085 1_466
+H1 Li0 2.082613 1_455
+H2 Li0 2.113349 1_556
+H3 Li1 2.135740 1_555
+H4 Li1 2.081318 1_555
+H5 Li1 2.110352 1_555
+H6 Li1 2.086779 1_555
+H7 Li0 2.124771 1_565

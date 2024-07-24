@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Cs(ThTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.92924457
+_cell_length_b   12.92924457
+_cell_length_c   6.21963297
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   160.10251406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs(ThTe3)2
+_chemical_formula_sum   'Cs1 Th2 Te6'
+_cell_volume   353.85217759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49688389  0.50311611  0.00000000  1
+  Th  Th0  1  0.68248193  0.31751807  0.00000000  1
+  Th  Th1  1  0.31698951  0.68301049  0.50000000  1
+  Te  Te0  1  0.27274210  0.72725790  0.00000000  1
+  Te  Te1  1  0.72740780  0.27259220  0.50000000  1
+  Te  Te2  1  0.11287030  0.88712970  0.24623588  1
+  Te  Te3  1  0.88722709  0.11277291  0.25859990  1
+  Te  Te4  1  0.11287030  0.88712970  0.75376412  1
+  Te  Te5  1  0.88722709  0.11277291  0.74140010  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Te3 3.921348 1_565
+Cs0 Te5 3.921348 1_564
+Cs0 Te5 3.921348 1_454
+Cs0 Te3 3.921348 1_455
+Cs0 Te4 4.007744 1_654
+Cs0 Te2 4.007744 1_655
+Cs0 Te4 4.007744 1_544
+Cs0 Te2 4.007744 1_545
+Te0 Th0 3.205393 1_565
+Te0 Th0 3.205393 1_455
+Te0 Th1 3.307720 1_554
+Te0 Th1 3.307720 1_555
+Te1 Th1 3.193023 1_655
+Te1 Th1 3.193023 1_545
+Te1 Th0 3.313647 1_556
+Te1 Th0 3.313647 1_555
+Te2 Te4 3.062994 1_554
+Te2 Te4 3.156639 1_555
+Te2 Th0 3.237064 1_455
+Te2 Th0 3.237064 1_565
+Te3 Te5 3.002840 1_555
+Te3 Te5 3.216793 1_554
+Te3 Th1 3.231741 1_545
+Te3 Th1 3.231741 1_655
+Te4 Th0 3.237064 1_566
+Te4 Th0 3.237064 1_456
+Te5 Th1 3.231741 1_545
+Te5 Th1 3.231741 1_655

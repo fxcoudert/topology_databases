@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaH4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00694600
+_cell_length_b   3.98903000
+_cell_length_c   6.38820063
+_cell_angle_alpha   89.19940090
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaH4O3
+_chemical_formula_sum   'Ba2 H8 O6'
+_cell_volume   178.53863968
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.24075500  0.99577400  0.34422300  1
+  Ba  Ba1  1  0.74075500  0.00422600  0.65577700  1
+  H  H0  1  0.19761500  0.80443300  0.87268000  1
+  H  H1  1  0.19880000  0.20650000  0.87263900  1
+  H  H2  1  0.69761500  0.19556700  0.12732000  1
+  H  H3  1  0.69880000  0.79350000  0.12736100  1
+  H  H4  1  0.40758600  0.50331300  0.99075800  1
+  H  H5  1  0.90758600  0.49668700  0.00924200  1
+  H  H6  1  0.55187100  0.51993800  0.39575300  1
+  H  H7  1  0.05187100  0.48006200  0.60424700  1
+  O  O0  1  0.14807100  0.00836600  0.79061900  1
+  O  O1  1  0.64807100  0.99163400  0.20938100  1
+  O  O2  1  0.27239900  0.50165100  0.03130300  1
+  O  O3  1  0.77239900  0.49834900  0.96869700  1
+  O  O4  1  0.47953600  0.50528000  0.52648000  1
+  O  O5  1  0.97953600  0.49472000  0.47352000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O4 2.814167 1_555
+Ba0 O5 2.825093 1_455
+Ba0 O2 2.829236 1_565
+Ba0 O5 2.835434 1_465
+Ba0 O2 2.835556 1_555
+Ba0 O4 2.889957 1_565
+Ba0 O0 2.925798 1_565
+Ba0 O1 2.981313 1_555
+Ba1 O5 2.814167 1_555
+Ba1 O4 2.825093 1_555
+Ba1 O3 2.829236 1_545
+Ba1 O4 2.835434 1_545
+Ba1 O3 2.835556 1_555
+Ba1 O5 2.889957 1_545
+Ba1 O1 2.925798 1_545
+Ba1 O0 2.981313 1_655
+H0 O0 1.022340 1_565
+H1 O0 1.018395 1_555
+H2 O1 1.022340 1_545
+H3 O1 1.018395 1_555
+H4 O2 0.982019 1_556
+H5 O3 0.982019 1_554
+H6 O4 0.977936 1_555
+H7 O5 0.977936 1_455

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Li2Fe3O3F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99859697
+_cell_length_b   5.99859697
+_cell_length_c   6.10520301
+_cell_angle_alpha   59.59680355
+_cell_angle_beta   59.59680355
+_cell_angle_gamma   59.38836938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Fe3O3F5
+_chemical_formula_sum   'Li2 Fe3 O3 F5'
+_cell_volume   153.66943359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.88009100  0.36497900  0.37232000  1
+  Li  Li1  1  0.36497900  0.88009100  0.37232000  1
+  Fe  Fe0  1  0.36255700  0.36255700  0.87503800  1
+  Fe  Fe1  1  0.74948700  0.74948700  0.77218600  1
+  Fe  Fe2  1  0.38204700  0.38204700  0.37447900  1
+  O  O0  1  0.60537100  0.14640700  0.62896300  1
+  O  O1  1  0.61179700  0.61179700  0.14355800  1
+  O  O2  1  0.14640700  0.60537100  0.62896300  1
+  F  F0  1  0.61746300  0.61746300  0.63316800  1
+  F  F1  1  0.15099000  0.58719500  0.12333900  1
+  F  F2  1  0.13875900  0.13875900  0.13630100  1
+  F  F3  1  0.15298300  0.15298300  0.56598500  1
+  F  F4  1  0.58719500  0.15099000  0.12333900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.097006 1_555
+Li0 O1 2.118533 1_555
+Li1 O2 2.097006 1_555
+Li1 O1 2.118533 1_555
+Fe0 O0 1.973100 1_555
+Fe0 O2 1.973100 1_555
+Fe1 O1 1.846320 1_556
+Fe1 O0 1.934558 1_565
+Fe1 O2 1.934558 1_655
+Fe2 O1 1.946148 1_555
+Fe2 O2 2.040065 1_555
+Fe2 O0 2.040065 1_555
+F0 Fe1 1.993535 1_555
+F0 Fe0 2.160341 1_555
+F0 Li1 2.187193 1_555
+F0 Li0 2.187193 1_555
+F1 Fe0 2.025612 1_554
+F1 Fe2 2.071336 1_555
+F1 Li0 2.093590 1_455
+F2 Fe0 1.910340 1_554
+F2 Li1 1.974107 1_545
+F2 Li0 1.974107 1_455
+F3 Fe2 1.952893 1_555
+F3 Li1 2.002975 1_545
+F3 Li0 2.002975 1_455
+F4 Fe0 2.025612 1_554
+F4 Fe2 2.071336 1_555
+F4 Li1 2.093590 1_545

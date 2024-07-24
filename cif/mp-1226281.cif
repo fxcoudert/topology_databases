@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_CrAg(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38107207
+_cell_length_b   6.38107207
+_cell_length_c   7.35060062
+_cell_angle_alpha   81.96469240
+_cell_angle_beta   81.96469240
+_cell_angle_gamma   119.99811376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrAg(PSe3)2
+_chemical_formula_sum   'Cr1 Ag1 P2 Se6'
+_cell_volume   248.87336879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.33365700  0.66634300  0.00000000  1
+  Ag  Ag0  1  0.66685700  0.33314300  0.00000000  1
+  P  P0  1  0.05049900  0.05105900  0.84271700  1
+  P  P1  1  0.94894100  0.94950100  0.15728300  1
+  Se  Se0  1  0.12061600  0.43478800  0.75844500  1
+  Se  Se1  1  0.39196700  0.03504300  0.75822800  1
+  Se  Se2  1  0.96495700  0.60803300  0.24177200  1
+  Se  Se3  1  0.56521200  0.87938400  0.24155500  1
+  Se  Se4  1  0.72059700  0.76330400  0.75910400  1
+  Se  Se5  1  0.23669600  0.27940300  0.24089600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 Se5 2.560967 1_555
+Cr0 Se4 2.560967 1_554
+Cr0 Se0 2.565862 1_554
+Cr0 Se3 2.565862 1_555
+Cr0 Se1 2.569603 1_564
+Cr0 Se2 2.569603 1_455
+Ag0 Se4 2.884041 1_554
+Ag0 Se5 2.884041 1_555
+Ag0 Se3 2.884430 1_545
+Ag0 Se0 2.884430 1_654
+Ag0 Se2 2.886809 1_555
+Ag0 Se1 2.886809 1_554
+P0 P1 2.220057 1_446
+P0 Se0 2.232160 1_555
+P0 Se4 2.234481 1_445
+P0 Se1 2.237407 1_555
+P1 Se3 2.232160 1_555
+P1 Se5 2.234481 1_665
+P1 Se2 2.237407 1_555

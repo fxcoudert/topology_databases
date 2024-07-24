@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_FeNiP6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68076642
+_cell_length_b   6.68076642
+_cell_length_c   7.71601371
+_cell_angle_alpha   54.84374637
+_cell_angle_beta   54.84374637
+_cell_angle_gamma   70.66031773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNiP6
+_chemical_formula_sum   'Fe2 Ni2 P12'
+_cell_volume   230.20305672
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  -0.00000000  0.50000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  -0.00000000  0.00000000  1
+  Ni  Ni0  1  0.50000000  -0.00000000  0.50000000  1
+  Ni  Ni1  1  -0.00000000  0.50000000  0.50000000  1
+  P  P0  1  0.65562178  0.65562178  0.19788987  1
+  P  P1  1  0.34437822  0.34437822  0.80211013  1
+  P  P2  1  0.64697063  0.64697063  0.49644572  1
+  P  P3  1  0.35302937  0.35302937  0.50355428  1
+  P  P4  1  0.86087671  0.15054314  0.34335733  1
+  P  P5  1  0.13912329  0.84945686  0.65664267  1
+  P  P6  1  0.15054314  0.86087671  0.34335733  1
+  P  P7  1  0.84945686  0.13912329  0.65664267  1
+  P  P8  1  0.49359233  0.79558461  0.86059270  1
+  P  P9  1  0.50640767  0.20441539  0.13940730  1
+  P  P10  1  0.20441539  0.50640767  0.13940730  1
+  P  P11  1  0.79558461  0.49359233  0.86059270  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 P11 2.192569 1_454
+Fe0 P10 2.192569 1_555
+Fe0 P5 2.193592 1_554
+Fe0 P4 2.193592 1_455
+Fe0 P1 2.214483 1_554
+Fe0 P0 2.214483 1_455
+Fe1 P8 2.192569 1_544
+Fe1 P9 2.192569 1_555
+Fe1 P7 2.193592 1_554
+Fe1 P6 2.193592 1_545
+Fe1 P1 2.214483 1_554
+Fe1 P0 2.214483 1_545
+Ni0 P2 2.244338 1_545
+Ni0 P3 2.244338 1_555
+Ni0 P8 2.265832 1_545
+Ni0 P9 2.265832 1_555
+Ni0 P4 2.266117 1_555
+Ni0 P5 2.266117 1_545
+Ni1 P3 2.244338 1_555
+Ni1 P2 2.244338 1_455
+Ni1 P10 2.265832 1_555
+Ni1 P11 2.265832 1_455
+Ni1 P6 2.266117 1_555
+Ni1 P7 2.266117 1_455
+P0 P2 2.238099 1_555
+P0 P3 2.336917 1_555
+P1 P3 2.238099 1_555
+P1 P2 2.336917 1_555
+P4 P6 2.238195 1_645
+P4 P7 2.331122 1_555
+P5 P7 2.238195 1_465
+P5 P6 2.331122 1_555
+P10 P8 2.234329 1_554
+P10 P9 2.333435 1_555
+P11 P9 2.234329 1_556
+P11 P8 2.333435 1_555

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_MgN(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61879882
+_cell_length_b   5.61879882
+_cell_length_c   10.38712813
+_cell_angle_alpha   89.52322293
+_cell_angle_beta   89.52322293
+_cell_angle_gamma   78.66696491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgN(ClO2)3
+_chemical_formula_sum   'Mg2 N2 Cl6 O12'
+_cell_volume   321.51822047
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Mg  Mg1  1  0.50000000  0.50000000  0.50000000  1
+  N  N0  1  0.99390700  0.00609300  0.25000000  1
+  N  N1  1  0.00609300  0.99390700  0.75000000  1
+  Cl  Cl0  1  0.86738700  0.62526200  0.24753900  1
+  Cl  Cl1  1  0.37473800  0.13261300  0.25246100  1
+  Cl  Cl2  1  0.13261300  0.37473800  0.75246100  1
+  Cl  Cl3  1  0.62526200  0.86738700  0.74753900  1
+  Cl  Cl4  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl5  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.64822400  0.66520700  0.15995900  1
+  O  O1  1  0.33479300  0.35177600  0.34004100  1
+  O  O2  1  0.35177600  0.33479300  0.84004100  1
+  O  O3  1  0.66520700  0.64822400  0.65995900  1
+  O  O4  1  0.79825000  0.56989200  0.38347900  1
+  O  O5  1  0.43010800  0.20175000  0.11652100  1
+  O  O6  1  0.20175000  0.43010800  0.61652100  1
+  O  O7  1  0.56989200  0.79825000  0.88347900  1
+  O  O8  1  0.17876900  0.72299800  0.04238600  1
+  O  O9  1  0.27700200  0.82123100  0.45761400  1
+  O  O10  1  0.82123100  0.27700200  0.95761400  1
+  O  O11  1  0.72299800  0.17876900  0.54238600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O8 2.031919 1_555
+Mg0 O10 2.031919 1_554
+Mg0 O7 2.155088 1_554
+Mg0 O5 2.155088 1_555
+Mg0 O2 2.160665 1_554
+Mg0 O0 2.160665 1_555
+Mg1 O11 2.031919 1_555
+Mg1 O9 2.031919 1_555
+Mg1 O4 2.155088 1_555
+Mg1 O6 2.155088 1_555
+Mg1 O3 2.160665 1_555
+Mg1 O1 2.160665 1_555
+Cl0 O4 1.507506 1_555
+Cl0 O0 1.516899 1_555
+Cl0 N0 2.384090 1_565
+Cl1 O5 1.507506 1_555
+Cl1 O1 1.516899 1_555
+Cl1 N0 2.384090 1_455
+Cl2 O6 1.507506 1_555
+Cl2 O2 1.516899 1_555
+Cl2 N1 2.384090 1_545
+Cl3 O7 1.507506 1_555
+Cl3 O3 1.516899 1_555
+Cl3 N1 2.384090 1_655
+Cl4 O9 1.733997 1_545
+Cl4 O11 1.733997 1_455
+Cl5 O8 1.733997 1_545
+Cl5 O10 1.733997 1_454

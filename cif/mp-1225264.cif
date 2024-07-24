@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Fe3Cu(SnS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11163163
+_cell_length_b   7.11163163
+_cell_length_c   7.11163163
+_cell_angle_alpha   120.56069832
+_cell_angle_beta   119.23800846
+_cell_angle_gamma   90.17821881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Cu(SnS4)2
+_chemical_formula_sum   'Fe3 Cu1 Sn2 S8'
+_cell_volume   254.67047819
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.99410500  0.99410500  0.00000000  1
+  Fe  Fe1  1  0.37582400  0.62196900  0.24614600  1
+  Fe  Fe2  1  0.37582400  0.12967800  0.75385400  1
+  Cu  Cu0  1  0.75775400  0.25775400  0.50000000  1
+  Sn  Sn0  1  0.87107600  0.62419200  0.24688400  1
+  Sn  Sn1  1  0.37730800  0.62419200  0.75311600  1
+  S  S0  1  0.14627000  0.90776500  0.76149400  1
+  S  S1  1  0.14627000  0.38477600  0.23850600  1
+  S  S2  1  0.59525100  0.87851500  0.71673500  1
+  S  S3  1  0.16178000  0.87851500  0.28326500  1
+  S  S4  1  0.60231700  0.34455200  0.74223500  1
+  S  S5  1  0.60231700  0.86008200  0.25776500  1
+  S  S6  1  0.15692300  0.37195200  0.78497100  1
+  S  S7  1  0.58698000  0.37195200  0.21502900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 S1 2.272252 1_665
+Fe0 S0 2.272253 1_654
+Fe0 S2 2.345037 1_554
+Fe0 S3 2.345042 1_655
+Fe1 S5 2.275858 1_555
+Fe1 S1 2.305739 1_555
+Fe1 S7 2.325182 1_555
+Fe1 S6 2.325191 1_554
+Fe1 S2 2.373915 1_555
+Fe1 S3 2.373920 1_555
+Fe2 S4 2.275853 1_555
+Fe2 S0 2.305740 1_545
+Fe2 S6 2.325192 1_555
+Fe2 S7 2.325192 1_556
+Fe2 S3 2.373915 1_545
+Fe2 S2 2.373920 1_545
+Cu0 S5 2.313818 1_545
+Cu0 S4 2.313818 1_555
+Cu0 S6 2.348858 1_655
+Cu0 S7 2.348858 1_555
+S0 Sn0 2.600801 1_455
+S0 Sn1 2.600806 1_555
+S1 Sn1 2.600800 1_555
+S1 Sn0 2.600800 1_455
+S2 Sn1 2.567217 1_555
+S3 Sn0 2.567212 1_455
+S4 Sn1 2.550637 1_555
+S4 Sn0 2.550637 1_556
+S5 Sn0 2.550637 1_555
+S5 Sn1 2.550637 1_554
+S6 Sn1 2.543265 1_555
+S7 Sn0 2.543271 1_555

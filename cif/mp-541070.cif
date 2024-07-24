@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ta2NiSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93713694
+_cell_length_b   6.93713694
+_cell_length_c   15.72478795
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.64264212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2NiSe5
+_chemical_formula_sum   'Ta4 Ni2 Se10'
+_cell_volume   370.99457578
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.22183052  0.77816948  0.11055715  1
+  Ta  Ta1  1  0.22183052  0.77816948  0.38944285  1
+  Ta  Ta2  1  0.77816948  0.22183052  0.88944285  1
+  Ta  Ta3  1  0.77816948  0.22183052  0.61055715  1
+  Ni  Ni0  1  0.70302590  0.29697410  0.25000000  1
+  Ni  Ni1  1  0.29697410  0.70302590  0.75000000  1
+  Se  Se0  1  0.58783917  0.41216083  0.13890255  1
+  Se  Se1  1  0.58783917  0.41216083  0.36109745  1
+  Se  Se2  1  0.41216083  0.58783917  0.86109745  1
+  Se  Se3  1  0.41216083  0.58783917  0.63890255  1
+  Se  Se4  1  0.15121183  0.84878817  0.95072963  1
+  Se  Se5  1  0.15121183  0.84878817  0.54927037  1
+  Se  Se6  1  0.84878817  0.15121183  0.04927037  1
+  Se  Se7  1  0.84878817  0.15121183  0.45072963  1
+  Se  Se8  1  0.32144524  0.67855476  0.25000000  1
+  Se  Se9  1  0.67855476  0.32144524  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Se1 2.332806 1_555
+Ni0 Se0 2.332806 1_555
+Ni0 Se8 2.369836 1_545
+Ni0 Se8 2.369836 1_655
+Ni0 Ta0 2.821654 1_655
+Ni0 Ta1 2.821654 1_655
+Ni0 Ta1 2.821654 1_545
+Ni0 Ta0 2.821654 1_545
+Ni1 Se2 2.332806 1_555
+Ni1 Se3 2.332806 1_555
+Ni1 Se9 2.369836 1_565
+Ni1 Se9 2.369836 1_455
+Ni1 Ta2 2.821654 1_565
+Ni1 Ta3 2.821654 1_565
+Ni1 Ta3 2.821654 1_455
+Ni1 Ta2 2.821654 1_455
+Se0 Ta0 2.553981 1_655
+Se0 Ta0 2.553981 1_545
+Se1 Ta1 2.553981 1_655
+Se1 Ta1 2.553981 1_545
+Se2 Ta2 2.553981 1_565
+Se2 Ta2 2.553981 1_455
+Se3 Ta3 2.553981 1_565
+Se3 Ta3 2.553981 1_455
+Se4 Ta2 2.631023 1_455
+Se4 Ta2 2.631023 1_565
+Se4 Ta0 2.686034 1_556
+Se5 Ta3 2.631023 1_455
+Se5 Ta3 2.631023 1_565
+Se5 Ta1 2.686034 1_555
+Se6 Ta0 2.631023 1_545
+Se6 Ta0 2.631023 1_655
+Se6 Ta2 2.686034 1_554
+Se7 Ta1 2.631023 1_545
+Se7 Ta1 2.631023 1_655
+Se7 Ta3 2.686034 1_555
+Se8 Ta1 2.568165 1_555
+Se8 Ta0 2.568165 1_555
+Se9 Ta2 2.568165 1_555
+Se9 Ta3 2.568165 1_555

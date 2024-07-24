@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_YbZnPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75571971
+_cell_length_b   4.75571971
+_cell_length_c   7.57824000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbZnPb
+_chemical_formula_sum   'Yb2 Zn2 Pb2'
+_cell_volume   148.43335561
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.00000000  0.25766200  1
+  Yb  Yb1  1  0.00000000  0.00000000  0.75766200  1
+  Zn  Zn0  1  0.33333300  0.66666700  0.44147400  1
+  Zn  Zn1  1  0.66666700  0.33333300  0.94147400  1
+  Pb  Pb0  1  0.33333300  0.66666700  0.04186400  1
+  Pb  Pb1  1  0.66666700  0.33333300  0.54186400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Yb0 Zn0 3.078849 1_545
+Yb0 Zn0 3.078853 1_445
+Yb0 Zn0 3.078853 1_555
+Yb1 Zn1 3.078849 1_455
+Yb1 Zn1 3.078853 1_445
+Yb1 Zn1 3.078853 1_555
+Pb0 Zn1 2.849163 1_454
+Pb0 Zn1 2.849163 1_564
+Pb0 Zn1 2.849170 1_554
+Pb0 Zn0 3.028340 1_555
+Pb0 Yb0 3.195837 1_565
+Pb0 Yb0 3.195841 1_665
+Pb0 Yb0 3.195841 1_555
+Pb0 Yb1 3.489640 1_564
+Pb0 Yb1 3.489643 1_554
+Pb0 Yb1 3.489643 1_664
+Pb1 Zn0 2.849163 1_545
+Pb1 Zn0 2.849163 1_655
+Pb1 Zn0 2.849170 1_555
+Pb1 Zn1 3.028340 1_555
+Pb1 Yb1 3.195837 1_655
+Pb1 Yb1 3.195841 1_555
+Pb1 Yb1 3.195841 1_665
+Pb1 Yb0 3.489640 1_655
+Pb1 Yb0 3.489643 1_555
+Pb1 Yb0 3.489643 1_665

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_DyIn2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62623728
+_cell_length_b   5.62623728
+_cell_length_c   7.28644624
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.73625554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyIn2Ni
+_chemical_formula_sum   'Dy2 In4 Ni2'
+_cell_volume   163.84259907
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.56859700  0.43140300  0.25000000  1
+  Dy  Dy1  1  0.43140300  0.56859700  0.75000000  1
+  In  In0  1  0.85593253  0.14406747  0.45046261  1
+  In  In1  1  0.14406747  0.85593253  0.54953739  1
+  In  In2  1  0.85593253  0.14406747  0.04953739  1
+  In  In3  1  0.14406747  0.85593253  0.95046261  1
+  Ni  Ni0  1  0.28848135  0.71151865  0.25000000  1
+  Ni  Ni1  1  0.71151865  0.28848135  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 Ni0 2.909279 1_555
+Dy0 Ni0 3.146856 1_545
+Dy0 Ni0 3.146856 1_655
+Dy0 In3 3.172588 1_654
+Dy0 In1 3.172588 1_655
+Dy0 In3 3.172588 1_544
+Dy0 In1 3.172588 1_545
+Dy0 In0 3.322554 1_555
+Dy0 In2 3.322554 1_555
+Dy0 In2 3.420433 1_565
+Dy0 In0 3.420433 1_455
+Dy0 In0 3.420433 1_565
+Dy0 In2 3.420433 1_455
+Dy1 Ni1 2.909279 1_555
+Dy1 Ni1 3.146856 1_455
+Dy1 Ni1 3.146856 1_565
+Dy1 In0 3.172588 1_455
+Dy1 In2 3.172588 1_566
+Dy1 In2 3.172588 1_456
+Dy1 In0 3.172588 1_565
+Dy1 In1 3.322554 1_555
+Dy1 In3 3.322554 1_555
+Dy1 In3 3.420433 1_655
+Dy1 In1 3.420433 1_545
+Dy1 In1 3.420433 1_655
+Dy1 In3 3.420433 1_545
+In0 Ni1 2.648250 1_555
+In0 Ni0 2.704003 1_545
+In0 Ni0 2.704003 1_655
+In0 In2 2.921320 1_555
+In0 In1 3.078409 1_645
+In0 In1 3.170232 1_655
+In0 In1 3.170232 1_545
+In1 Ni0 2.648250 1_555
+In1 Ni1 2.704003 1_565
+In1 Ni1 2.704003 1_455
+In1 In3 2.921320 1_555
+In2 Ni1 2.648250 1_554
+In2 Ni0 2.704003 1_545
+In2 Ni0 2.704003 1_655
+In2 In3 3.078409 1_644
+In2 In3 3.170232 1_654
+In2 In3 3.170232 1_544
+In3 Ni0 2.648250 1_556
+In3 Ni1 2.704003 1_565
+In3 Ni1 2.704003 1_455

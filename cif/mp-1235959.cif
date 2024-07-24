@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Sr2LiFeO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09392481
+_cell_length_b   4.01149359
+_cell_length_c   8.03444158
+_cell_angle_alpha   89.46483075
+_cell_angle_beta   59.58122787
+_cell_angle_gamma   89.80781550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiFeO3F
+_chemical_formula_sum   'Sr2 Li1 Fe1 O3 F1'
+_cell_volume   113.77966176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33979600  0.58754500  0.25230400  1
+  Sr  Sr1  1  0.84810800  0.59982300  0.73949900  1
+  Li  Li0  1  0.59048400  0.09858100  0.49919100  1
+  Fe  Fe0  1  0.09539100  0.09190700  0.99329600  1
+  O  O0  1  0.12246800  0.59184200  0.96614800  1
+  O  O1  1  0.56503100  0.09114100  0.02341400  1
+  O  O2  1  0.07168300  0.10292200  0.52066300  1
+  F  F0  1  0.63370700  0.60290600  0.45918800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 2.042038 1_555
+Li0 O2 2.062855 1_655
+Fe0 O0 2.012629 1_555
+Fe0 O0 2.016464 1_545
+Fe0 O1 2.055797 1_556
+Fe0 O1 2.059344 1_456
+O0 Sr1 2.578474 1_455
+O0 Sr1 2.581425 1_555
+O0 Sr0 2.844794 1_456
+O0 Sr0 2.854532 1_556
+O1 Sr0 2.556656 1_555
+O1 Sr0 2.557191 1_545
+O1 Sr1 2.796906 1_544
+O1 Sr1 2.821764 1_554
+O2 Sr1 2.513692 1_445
+O2 Sr1 2.515160 1_455
+O2 Sr0 2.678152 1_555
+O2 Sr0 2.792746 1_545
+F0 Li0 2.010055 1_565
+F0 Li0 2.039655 1_555
+F0 Sr0 2.498444 1_555
+F0 Sr0 2.501569 1_655
+F0 Sr1 2.800697 1_555
+F0 Sr1 2.842723 1_455

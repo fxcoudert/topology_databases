@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_LuCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10328100
+_cell_length_b   6.69650300
+_cell_length_c   6.95861900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCoSi
+_chemical_formula_sum   'Lu4 Co4 Si4'
+_cell_volume   191.20638273
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.51356800  0.80734200  1
+  Lu  Lu1  1  0.75000000  0.01356800  0.69265800  1
+  Lu  Lu2  1  0.25000000  0.48643200  0.19265800  1
+  Lu  Lu3  1  0.25000000  0.98643200  0.30734200  1
+  Co  Co0  1  0.75000000  0.35236100  0.44045800  1
+  Co  Co1  1  0.75000000  0.85236100  0.05954200  1
+  Co  Co2  1  0.25000000  0.64763900  0.55954300  1
+  Co  Co3  1  0.25000000  0.14763900  0.94045700  1
+  Si  Si0  1  0.75000000  0.19939400  0.10792000  1
+  Si  Si1  1  0.75000000  0.69939400  0.39208000  1
+  Si  Si2  1  0.25000000  0.80060600  0.89208000  1
+  Si  Si3  1  0.25000000  0.30060600  0.60792000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Si3 2.858095 1_655
+Lu0 Si3 2.858095 1_555
+Lu0 Si2 2.872558 1_655
+Lu0 Si2 2.872558 1_555
+Lu0 Si0 2.966661 1_556
+Lu1 Si2 2.858095 1_645
+Lu1 Si2 2.858095 1_545
+Lu1 Si3 2.872558 1_555
+Lu1 Si3 2.872558 1_655
+Lu1 Si1 2.966661 1_545
+Lu2 Si1 2.858095 1_555
+Lu2 Si1 2.858095 1_455
+Lu2 Si0 2.872558 1_455
+Lu2 Si0 2.872558 1_555
+Lu2 Si2 2.966661 1_554
+Lu3 Si0 2.858095 1_465
+Lu3 Si0 2.858095 1_565
+Lu3 Si1 2.872558 1_455
+Lu3 Si1 2.872558 1_555
+Lu3 Si3 2.966661 1_565
+Co0 Si1 2.348164 1_555
+Co0 Si3 2.384802 1_555
+Co0 Si3 2.384802 1_655
+Co0 Si0 2.530593 1_555
+Co0 Lu0 2.771860 1_555
+Co0 Lu2 2.826421 1_555
+Co0 Lu2 2.826421 1_655
+Co0 Lu1 2.868279 1_555
+Co1 Si0 2.348164 1_565
+Co1 Si2 2.384802 1_654
+Co1 Si2 2.384802 1_554
+Co1 Si1 2.530593 1_555
+Co1 Lu1 2.771860 1_564
+Co1 Lu3 2.826421 1_655
+Co1 Lu3 2.826421 1_555
+Co1 Lu0 2.868279 1_554
+Co2 Si3 2.348163 1_555
+Co2 Si1 2.384805 1_555
+Co2 Si1 2.384805 1_455
+Co2 Si2 2.530587 1_555
+Co2 Lu2 2.771867 1_555
+Co2 Lu0 2.826417 1_455
+Co2 Lu0 2.826417 1_555
+Co2 Lu3 2.868284 1_555
+Co3 Si2 2.348163 1_545
+Co3 Si0 2.384805 1_456
+Co3 Si0 2.384805 1_556
+Co3 Si3 2.530587 1_555
+Co3 Lu3 2.771867 1_546
+Co3 Lu1 2.826417 1_455
+Co3 Lu1 2.826417 1_555
+Co3 Lu2 2.868284 1_556

@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_CuAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16196792
+_cell_length_b   6.88975989
+_cell_length_c   6.52716013
+_cell_angle_alpha   67.73817328
+_cell_angle_beta   71.40846733
+_cell_angle_gamma   72.41982204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAs
+_chemical_formula_sum   'Cu5 As5'
+_cell_volume   160.63255609
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.74511800  0.24130800  0.26845600  1
+  Cu  Cu2  1  0.25488200  0.75869200  0.73154400  1
+  Cu  Cu3  1  0.89085600  0.78547700  0.43281000  1
+  Cu  Cu4  1  0.10914400  0.21452300  0.56719000  1
+  As  As0  1  0.50000000  0.50000000  0.50000000  1
+  As  As1  1  0.84214200  0.46529300  0.85042200  1
+  As  As2  1  0.15785800  0.53470700  0.14957800  1
+  As  As3  1  0.62968500  0.00363300  0.73699600  1
+  As  As4  1  0.37031500  0.99636700  0.26300400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Cu3 2.606778 1_445
+Cu0 Cu4 2.606778 1_554
+Cu0 Cu1 2.629915 1_455
+Cu0 Cu2 2.629915 1_544
+Cu1 Cu4 2.752033 1_555
+Cu1 Cu4 2.752036 1_655
+Cu1 Cu3 2.844886 1_545
+Cu2 Cu3 2.752033 1_555
+Cu2 Cu3 2.752036 1_455
+Cu2 Cu4 2.844886 1_565
+As0 Cu1 2.541845 1_555
+As0 Cu2 2.541845 1_555
+As0 Cu3 2.744354 1_555
+As0 Cu4 2.744354 1_555
+As0 Cu4 2.744357 1_655
+As0 Cu3 2.744357 1_455
+As0 As1 2.961955 1_555
+As0 As2 2.961955 1_555
+As0 As2 2.961958 1_655
+As0 As1 2.961958 1_455
+As1 Cu1 2.544236 1_556
+As1 Cu4 2.754635 1_655
+As1 Cu2 2.774615 1_555
+As1 Cu2 2.774618 1_655
+As1 Cu3 2.774772 1_555
+As1 Cu0 2.902932 1_656
+As1 As2 2.913979 1_556
+As1 As2 2.913986 1_656
+As2 Cu2 2.544236 1_554
+As2 Cu3 2.754635 1_455
+As2 Cu1 2.774615 1_555
+As2 Cu1 2.774618 1_455
+As2 Cu4 2.774772 1_555
+As2 Cu0 2.902932 1_565
+As3 Cu4 2.538225 1_555
+As3 Cu4 2.538232 1_655
+As3 Cu2 2.636985 1_545
+As3 Cu2 2.636988 1_645
+As3 Cu0 2.637078 1_556
+As3 Cu0 2.637082 1_656
+As3 Cu3 2.698295 1_545
+As3 Cu1 2.830030 1_555
+As4 Cu3 2.538225 1_555
+As4 Cu3 2.538232 1_455
+As4 Cu1 2.636985 1_565
+As4 Cu1 2.636988 1_465
+As4 Cu0 2.637078 1_665
+As4 Cu0 2.637082 1_565
+As4 Cu4 2.698295 1_565
+As4 Cu2 2.830030 1_555

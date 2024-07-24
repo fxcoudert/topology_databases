@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgFe2(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79502317
+_cell_length_b   5.79502073
+_cell_length_c   5.79502031
+_cell_angle_alpha   52.59980350
+_cell_angle_beta   52.59972029
+_cell_angle_gamma   52.59975126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFe2(NiO3)2
+_chemical_formula_sum   'Mg1 Fe2 Ni2 O6'
+_cell_volume   113.71077635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.17574000  0.17574000  0.17574000  1
+  Fe  Fe1  1  0.82426000  0.82426000  0.82426000  1
+  Ni  Ni0  1  0.35947200  0.35947100  0.35947200  1
+  Ni  Ni1  1  0.64052800  0.64052900  0.64052800  1
+  O  O0  1  0.05424400  0.77849200  0.41531300  1
+  O  O1  1  0.58468600  0.94575700  0.22150800  1
+  O  O2  1  0.22150800  0.58468700  0.94575600  1
+  O  O3  1  0.77849200  0.41531300  0.05424400  1
+  O  O4  1  0.41531400  0.05424300  0.77849200  1
+  O  O5  1  0.94575600  0.22150800  0.58468700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.053038 1_455
+Mg0 O2 2.053038 1_544
+Mg0 O0 2.053039 1_545
+Mg0 O5 2.053039 1_454
+Mg0 O4 2.053041 1_554
+Mg0 O1 2.053041 1_445
+Fe0 O1 1.990021 1_545
+Fe0 O5 1.990023 1_455
+Fe0 O2 1.990025 1_554
+Fe0 O4 2.149829 1_554
+Fe0 O0 2.149829 1_545
+Fe0 O3 2.149829 1_455
+Fe1 O4 1.990021 1_565
+Fe1 O0 1.990023 1_655
+Fe1 O3 1.990025 1_556
+Fe1 O1 2.149829 1_556
+Fe1 O5 2.149829 1_565
+Fe1 O2 2.149829 1_655
+Ni0 O3 2.042412 1_555
+Ni0 O4 2.042413 1_555
+Ni0 O0 2.042414 1_555
+Ni0 O1 2.313089 1_545
+Ni0 O5 2.313096 1_455
+Ni0 O2 2.313099 1_554
+Ni1 O2 2.042412 1_555
+Ni1 O1 2.042413 1_555
+Ni1 O5 2.042414 1_555
+Ni1 O4 2.313089 1_565
+Ni1 O0 2.313096 1_655
+Ni1 O3 2.313099 1_556

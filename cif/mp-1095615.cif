@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_CeAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93946900
+_cell_length_b   3.94304400
+_cell_length_c   16.98916300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAsS
+_chemical_formula_sum   'Ce4 As4 S4'
+_cell_volume   263.90115673
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.23138500  0.25000000  0.85478100  1
+  Ce  Ce1  1  0.26861500  0.25000000  0.35478100  1
+  Ce  Ce2  1  0.76861500  0.75000000  0.14521900  1
+  Ce  Ce3  1  0.73138500  0.75000000  0.64521900  1
+  As  As0  1  0.23113100  0.75000000  0.50060600  1
+  As  As1  1  0.26886900  0.75000000  0.00060600  1
+  As  As2  1  0.76886900  0.25000000  0.49939400  1
+  As  As3  1  0.73113100  0.25000000  0.99939400  1
+  S  S0  1  0.23124000  0.25000000  0.68361700  1
+  S  S1  1  0.26876000  0.25000000  0.18361700  1
+  S  S2  1  0.76876000  0.75000000  0.31638300  1
+  S  S3  1  0.73124000  0.75000000  0.81638300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 S3 2.861829 1_545
+Ce0 S3 2.861829 1_555
+Ce0 S3 2.862615 1_445
+Ce0 S3 2.862615 1_455
+Ce0 S0 2.907933 1_555
+Ce1 S2 2.861829 1_455
+Ce1 S2 2.861829 1_445
+Ce1 S2 2.862615 1_545
+Ce1 S2 2.862615 1_555
+Ce1 S1 2.907933 1_555
+Ce2 S1 2.861829 1_565
+Ce2 S1 2.861829 1_555
+Ce2 S1 2.862615 1_655
+Ce2 S1 2.862615 1_665
+Ce2 S2 2.907933 1_555
+Ce3 S0 2.861829 1_655
+Ce3 S0 2.861829 1_665
+Ce3 S0 2.862615 1_555
+Ce3 S0 2.862615 1_565
+Ce3 S3 2.907933 1_555
+As0 As2 2.683954 1_455
+As0 As2 2.683954 1_465
+As0 As2 2.893951 1_555
+As0 As2 2.893951 1_565
+As0 Ce3 3.148340 1_455
+As0 Ce3 3.149592 1_555
+As0 Ce1 3.169611 1_565
+As0 Ce1 3.169611 1_555
+As1 As3 2.683954 1_564
+As1 As3 2.683954 1_554
+As1 As3 2.893951 1_454
+As1 As3 2.893951 1_464
+As1 Ce2 3.148340 1_555
+As1 Ce2 3.149592 1_455
+As1 Ce0 3.169611 1_564
+As1 Ce0 3.169611 1_554
+As2 Ce1 3.148340 1_655
+As2 Ce1 3.149592 1_555
+As2 Ce3 3.169611 1_545
+As2 Ce3 3.169611 1_555
+As3 Ce0 3.148340 1_555
+As3 Ce0 3.149592 1_655
+As3 Ce2 3.169611 1_546
+As3 Ce2 3.169611 1_556

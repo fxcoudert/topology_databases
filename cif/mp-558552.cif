@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Ta6S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24923543
+_cell_length_b   7.55510880
+_cell_length_c   7.55251783
+_cell_angle_alpha   113.89826347
+_cell_angle_beta   98.40429560
+_cell_angle_gamma   109.01636237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6S
+_chemical_formula_sum   'Ta12 S2'
+_cell_volume   245.12609671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.55919128  0.77407867  0.59108511  1
+  Ta  Ta1  1  0.44080872  0.22592233  0.40891489  1
+  Ta  Ta2  1  0.00287909  0.37096295  0.29494242  1
+  Ta  Ta3  1  0.50000000  -0.00000000  -0.00000000  1
+  Ta  Ta4  1  0.14975032  0.72091681  0.14959978  1
+  Ta  Ta5  1  0.22828493  0.06441183  0.69162161  1
+  Ta  Ta6  1  0.52767026  0.57524513  0.86375184  1
+  Ta  Ta7  1  0.77171507  0.93558817  0.30837839  1
+  Ta  Ta8  1  0.85024968  0.27908319  0.85040022  1
+  Ta  Ta9  1  0.99712091  0.62903705  0.70505758  1
+  Ta  Ta10  1  0.00000000  -0.00000000  -0.00000000  1
+  Ta  Ta11  1  0.47232974  0.42475487  0.13624816  1
+  S  S0  1  0.07218555  0.29968511  0.58498888  1
+  S  S1  1  0.92781445  0.70031489  0.41501112  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ta10 2.978531 1_666
+Ta0 Ta3 2.983763 1_566
+Ta1 Ta10 2.978530 1_555
+Ta1 Ta3 2.983764 1_555
+Ta2 Ta3 2.861233 1_455
+Ta3 Ta5 2.845194 1_554
+Ta3 Ta7 2.845194 1_545
+Ta3 Ta9 2.861233 1_444
+Ta3 Ta6 3.008325 1_544
+Ta3 Ta8 3.018900 1_554
+Ta3 Ta4 3.018900 1_545
+Ta10 Ta3 2.624618 1_555
+Ta10 Ta3 2.624618 1_455
+Ta10 Ta2 2.778741 1_555
+Ta10 Ta9 2.778741 1_444
+Ta10 Ta5 2.907112 1_554
+Ta10 Ta7 2.907112 1_445
+Ta10 Ta11 2.982939 1_555
+Ta10 Ta6 2.982939 1_444
+Ta10 Ta8 3.015125 1_454
+Ta10 Ta4 3.015125 1_545
+Ta11 Ta3 3.008325 1_555
+S0 Ta7 2.443806 1_445
+S0 Ta2 2.464041 1_555
+S0 Ta9 2.466646 1_455
+S0 Ta6 2.493352 1_555
+S0 Ta8 2.493353 1_455
+S0 Ta5 2.528969 1_555
+S0 Ta1 2.584102 1_555
+S1 Ta5 2.443806 1_665
+S1 Ta9 2.464041 1_555
+S1 Ta2 2.466646 1_655
+S1 Ta11 2.493352 1_555
+S1 Ta4 2.493353 1_655
+S1 Ta7 2.528969 1_555
+S1 Ta0 2.584104 1_555

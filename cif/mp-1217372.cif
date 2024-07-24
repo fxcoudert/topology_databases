@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_ThU(MnSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95055610
+_cell_length_b   3.95055610
+_cell_length_c   10.40748018
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThU(MnSi)4
+_chemical_formula_sum   'Th1 U1 Mn4 Si4'
+_cell_volume   162.42843476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.00000000  0.00000000  -0.00000000  1
+  U  U0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn0  1  0.00000000  0.50000000  0.25658383  1
+  Mn  Mn1  1  0.50000000  -0.00000000  0.74341617  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.25658383  1
+  Mn  Mn3  1  -0.00000000  0.50000000  0.74341617  1
+  Si  Si0  1  0.50000000  0.50000000  0.12230890  1
+  Si  Si1  1  0.00000000  0.00000000  0.61524883  1
+  Si  Si2  1  -0.00000000  -0.00000000  0.38475117  1
+  Si  Si3  1  0.50000000  0.50000000  0.87769110  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si2 2.383487 1_565
+Mn0 Si2 2.383487 1_555
+Mn0 Si0 2.419634 1_555
+Mn0 Si0 2.419634 1_455
+Mn0 U0 3.212410 1_555
+Mn0 U0 3.212410 1_455
+Mn1 Si1 2.383487 1_655
+Mn1 Si1 2.383487 1_555
+Mn1 Si3 2.419634 1_545
+Mn1 Si3 2.419634 1_555
+Mn1 U0 3.212410 1_545
+Mn1 U0 3.212410 1_555
+Mn2 Si2 2.383487 1_655
+Mn2 Si2 2.383487 1_555
+Mn2 Si0 2.419634 1_555
+Mn2 Si0 2.419634 1_545
+Mn2 U0 3.212410 1_545
+Mn2 U0 3.212410 1_555
+Mn3 Si1 2.383487 1_565
+Mn3 Si1 2.383487 1_555
+Mn3 Si3 2.419634 1_455
+Mn3 Si3 2.419634 1_555
+Mn3 U0 3.212410 1_455
+Mn3 U0 3.212410 1_555
+Si0 Si3 2.545855 1_554
+Si0 Th0 3.069819 1_665
+Si0 Th0 3.069819 1_565
+Si0 Th0 3.069819 1_555
+Si0 Th0 3.069819 1_655
+Si1 Si2 2.398900 1_555
+Si1 U0 3.040087 1_445
+Si1 U0 3.040087 1_545
+Si1 U0 3.040087 1_555
+Si1 U0 3.040087 1_455
+Si2 U0 3.040087 1_455
+Si2 U0 3.040087 1_545
+Si2 U0 3.040087 1_555
+Si2 U0 3.040087 1_445
+Si3 Th0 3.069819 1_666
+Si3 Th0 3.069819 1_656
+Si3 Th0 3.069819 1_556
+Si3 Th0 3.069819 1_566

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_YZn2AsO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40255400
+_cell_length_b   3.40255400
+_cell_length_c   12.51254900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YZn2AsO2
+_chemical_formula_sum   'Y1 Zn2 As1 O2'
+_cell_volume   144.86245600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn0  1  0.50000000  0.50000000  0.19327800  1
+  Zn  Zn1  1  0.50000000  0.50000000  0.80672200  1
+  As  As0  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.50000000  0.50000000  0.66488100  1
+  O  O1  1  0.50000000  0.50000000  0.33511900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Zn1 2.418400 1_554
+As0 Zn0 2.418400 1_555
+O0 Zn1 1.774792 1_555
+O0 Y0 2.063082 1_555
+O1 Zn0 1.774792 1_555
+O1 Y0 2.063082 1_555

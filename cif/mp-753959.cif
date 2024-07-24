@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiVCoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95921669
+_cell_length_b   5.95921669
+_cell_length_c   5.95921669
+_cell_angle_alpha   122.41912371
+_cell_angle_beta   121.17083750
+_cell_angle_gamma   86.92172704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVCoO4
+_chemical_formula_sum   'Li2 V2 Co2 O8'
+_cell_volume   145.33046542
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.38332500  0.13332500  0.25000000  1
+  Li  Li1  1  0.61667500  0.86667500  0.75000000  1
+  V  V0  1  0.00000000  0.50000000  0.50000000  1
+  V  V1  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co0  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.50000000  1
+  O  O0  1  0.19943300  0.73063900  0.46879400  1
+  O  O1  1  0.76184400  0.73063900  0.03120600  1
+  O  O2  1  0.74835300  0.71968500  0.47133200  1
+  O  O3  1  0.74835300  0.27702200  0.02866800  1
+  O  O4  1  0.25164700  0.72297800  0.97133200  1
+  O  O5  1  0.25164700  0.28031500  0.52866800  1
+  O  O6  1  0.23815600  0.26936100  0.96879400  1
+  O  O7  1  0.80056700  0.26936100  0.53120600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 1.963724 1_555
+Li0 O4 1.963729 1_544
+Li0 O7 2.023448 1_555
+Li0 O6 2.023448 1_554
+Li1 O2 1.963724 1_555
+Li1 O3 1.963729 1_566
+Li1 O0 2.023448 1_555
+Li1 O1 2.023448 1_556
+Co0 O0 1.930666 1_555
+Co0 O7 1.930666 1_454
+Co0 O6 1.930671 1_554
+Co0 O1 1.930671 1_455
+Co0 O3 2.183186 1_455
+Co0 O4 2.183186 1_554
+Co1 O0 1.930666 1_545
+Co1 O7 1.930666 1_455
+Co1 O1 1.930666 1_445
+Co1 O6 1.930666 1_555
+Co1 O5 2.183190 1_555
+Co1 O2 2.183190 1_445
+O0 V0 2.003585 1_555
+O1 V1 2.003581 1_555
+O2 V1 1.937954 1_555
+O2 V0 1.937954 1_655
+O3 V1 1.937950 1_555
+O3 V0 1.937954 1_655
+O4 V1 1.937950 1_556
+O4 V0 1.937954 1_555
+O5 V1 1.937954 1_556
+O5 V0 1.937954 1_555
+O6 V1 2.003581 1_556
+O7 V0 2.003585 1_655

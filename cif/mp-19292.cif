@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Co(AsO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79004238
+_cell_length_b   4.79004432
+_cell_length_c   4.46614154
+_cell_angle_alpha   89.99997337
+_cell_angle_beta   90.00011148
+_cell_angle_gamma   119.99999169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(AsO3)2
+_chemical_formula_sum   'Co1 As2 O6'
+_cell_volume   88.74462075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  -0.00000000  -0.00000000  1
+  As  As0  1  0.33333300  0.66666700  0.50000000  1
+  As  As1  1  0.66666700  0.33333400  0.50000000  1
+  O  O0  1  0.36250965  0.36251065  0.72587894  1
+  O  O1  1  0.63749035  -0.00000000  0.72587894  1
+  O  O2  1  0.00000100  0.63748935  0.72587894  1
+  O  O3  1  0.36251065  0.00000000  0.27411906  1
+  O  O4  1  0.63748935  0.63748935  0.27411906  1
+  O  O5  1  0.00000000  0.36251065  0.27411906  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 O3 2.124622 1_555
+Co0 O1 2.124623 1_454
+Co0 O5 2.124625 1_555
+Co0 O4 2.124626 1_445
+Co0 O0 2.124629 1_554
+Co0 O2 2.124632 1_544
+As0 O2 1.833970 1_555
+As0 O0 1.833974 1_555
+As0 O1 1.833975 1_565
+As0 O3 1.833978 1_565
+As0 O5 1.833978 1_555
+As0 O4 1.833983 1_555
+As1 O2 1.833974 1_655
+As1 O4 1.833977 1_555
+As1 O1 1.833978 1_555
+As1 O0 1.833980 1_555
+As1 O3 1.833981 1_555
+As1 O5 1.833981 1_655

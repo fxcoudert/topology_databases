@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_La2Cd(SeO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09289400
+_cell_length_b   4.09289400
+_cell_length_c   18.90263700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Cd(SeO)2
+_chemical_formula_sum   'La4 Cd2 Se4 O4'
+_cell_volume   316.65284093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.50000000  0.12727700  1
+  La  La1  1  0.50000000  0.50000000  0.62727700  1
+  La  La2  1  0.00000000  0.00000000  0.99824300  1
+  La  La3  1  0.00000000  0.00000000  0.49824300  1
+  Cd  Cd0  1  0.00000000  0.50000000  0.31524700  1
+  Cd  Cd1  1  0.50000000  0.00000000  0.81524700  1
+  Se  Se0  1  0.00000000  0.00000000  0.22214900  1
+  Se  Se1  1  0.00000000  0.00000000  0.72214900  1
+  Se  Se2  1  0.50000000  0.50000000  0.40820000  1
+  Se  Se3  1  0.50000000  0.50000000  0.90820000  1
+  O  O0  1  0.00000000  0.50000000  0.56259800  1
+  O  O1  1  0.50000000  0.00000000  0.06259800  1
+  O  O2  1  0.00000000  0.50000000  0.06318600  1
+  O  O3  1  0.50000000  0.00000000  0.56318600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 O2 2.378161 1_555
+La0 O2 2.378161 1_655
+La0 O1 2.383842 1_555
+La0 O1 2.383842 1_565
+La0 Se0 3.404692 1_665
+La0 Se0 3.404692 1_655
+La0 Se0 3.404692 1_555
+La0 Se0 3.404692 1_565
+La1 O3 2.378161 1_555
+La1 O3 2.378161 1_565
+La1 O0 2.383842 1_655
+La1 O0 2.383842 1_555
+La1 Se1 3.404692 1_555
+La1 Se1 3.404692 1_655
+La1 Se1 3.404692 1_665
+La1 Se1 3.404692 1_565
+La2 O1 2.380707 1_456
+La2 O1 2.380707 1_556
+La2 O2 2.386406 1_556
+La2 O2 2.386406 1_546
+La2 Se3 3.357509 1_455
+La2 Se3 3.357509 1_555
+La2 Se3 3.357509 1_545
+La2 Se3 3.357509 1_445
+La3 O0 2.380707 1_545
+La3 O0 2.380707 1_555
+La3 O3 2.386406 1_555
+La3 O3 2.386406 1_455
+La3 Se2 3.357509 1_545
+La3 Se2 3.357509 1_445
+La3 Se2 3.357509 1_555
+La3 Se2 3.357509 1_455
+Cd0 Se2 2.697257 1_555
+Cd0 Se2 2.697257 1_455
+Cd0 Se0 2.699043 1_555
+Cd0 Se0 2.699043 1_565
+Cd1 Se3 2.697257 1_555
+Cd1 Se3 2.697257 1_545
+Cd1 Se1 2.699043 1_555
+Cd1 Se1 2.699043 1_655

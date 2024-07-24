@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_K2UTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00068668
+_cell_length_b   8.01077452
+_cell_length_c   8.70668806
+_cell_angle_alpha   81.01175955
+_cell_angle_beta   71.76860997
+_cell_angle_gamma   60.04154406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2UTe3
+_chemical_formula_sum   'K4 U2 Te6'
+_cell_volume   459.19755836
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.65423540  0.69152901  0.50000018  1
+  K  K1  1  0.34576460  0.30847099  0.49999982  1
+  K  K2  1  0.00000000  -0.00000000  0.50000000  1
+  K  K3  1  0.50000000  -0.00000000  0.00000000  1
+  U  U0  1  0.83218596  0.33562929  -0.00000040  1
+  U  U1  1  0.16781404  0.66437071  0.00000040  1
+  Te  Te0  1  0.20234187  0.99999773  0.78613349  1
+  Te  Te1  1  0.57385251  0.37144529  0.78281971  1
+  Te  Te2  1  0.94530023  0.62855189  0.78281745  1
+  Te  Te3  1  0.42614749  0.62855471  0.21718029  1
+  Te  Te4  1  0.05469977  0.37144811  0.21718255  1
+  Te  Te5  1  0.79765813  0.00000227  0.21386651  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te4 3.425616 1_655
+K0 Te1 3.425641 1_555
+K0 Te0 3.570584 1_555
+K0 Te5 3.570607 1_565
+K0 Te2 3.710435 1_555
+K0 Te3 3.710446 1_555
+K1 Te2 3.425616 1_455
+K1 Te3 3.425641 1_555
+K1 Te5 3.570584 1_555
+K1 Te0 3.570607 1_545
+K1 Te4 3.710435 1_555
+K1 Te1 3.710446 1_555
+K2 Te0 3.369078 1_545
+K2 Te5 3.369078 1_455
+K2 Te1 3.666866 1_455
+K2 Te3 3.666866 1_545
+K2 Te2 3.666868 1_445
+K2 Te4 3.666868 1_555
+K3 Te0 3.451585 1_544
+K3 Te5 3.451585 1_555
+K3 Te1 3.475265 1_554
+K3 Te3 3.475265 1_545
+K3 Te2 3.475288 1_544
+K3 Te4 3.475288 1_555
+Te0 U1 3.102898 1_556
+Te0 U0 3.102914 1_466
+Te1 U1 3.092676 1_556
+Te1 U0 3.100545 1_556
+Te2 U0 3.092669 1_556
+Te2 U1 3.100554 1_656
+Te3 U0 3.092676 1_555
+Te3 U1 3.100545 1_555
+Te4 U1 3.092669 1_555
+Te4 U0 3.100554 1_455
+Te5 U0 3.102898 1_555
+Te5 U1 3.102914 1_645

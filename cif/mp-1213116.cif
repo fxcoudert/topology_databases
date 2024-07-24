@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CuTeSeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04225500
+_cell_length_b   8.02503400
+_cell_length_c   12.11706602
+_cell_angle_alpha   63.48728873
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTeSeCl
+_chemical_formula_sum   'Cu4 Te4 Se4 Cl4'
+_cell_volume   438.74511328
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.86724500  0.82089000  0.24881600  1
+  Cu  Cu1  1  0.13275500  0.17911000  0.75118400  1
+  Cu  Cu2  1  0.36724500  0.17911000  0.25118400  1
+  Cu  Cu3  1  0.63275500  0.82089000  0.74881600  1
+  Te  Te0  1  0.51376500  0.72031200  0.14197800  1
+  Te  Te1  1  0.48623500  0.27968800  0.85802200  1
+  Te  Te2  1  0.01376500  0.27968800  0.35802200  1
+  Te  Te3  1  0.98623500  0.72031200  0.64197800  1
+  Se  Se0  1  0.69835500  0.41638300  0.15891800  1
+  Se  Se1  1  0.30164500  0.58361700  0.84108200  1
+  Se  Se2  1  0.19835500  0.58361700  0.34108200  1
+  Se  Se3  1  0.80164500  0.41638300  0.65891800  1
+  Cl  Cl0  1  0.64311000  0.92187500  0.37563300  1
+  Cl  Cl1  1  0.35689000  0.07812500  0.62436700  1
+  Cl  Cl2  1  0.14311000  0.07812500  0.12436700  1
+  Cl  Cl3  1  0.85689000  0.92187500  0.87563300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Se2 2.400498 1_655
+Cu0 Te0 2.537118 1_555
+Cu1 Se3 2.400498 1_455
+Cu1 Te1 2.537118 1_555
+Cu2 Se0 2.400498 1_555
+Cu2 Te2 2.537118 1_555
+Cu3 Se1 2.400498 1_555
+Cu3 Te3 2.537118 1_555
+Se0 Te0 2.531872 1_555
+Se0 Te2 2.681473 1_655
+Se1 Te1 2.531872 1_555
+Se1 Te3 2.681473 1_455
+Se2 Te2 2.531872 1_555
+Se2 Te0 2.681473 1_555
+Se3 Te3 2.531872 1_555
+Se3 Te1 2.681473 1_555
+Cl0 Cu0 2.325315 1_555
+Cl0 Cu2 2.385582 1_565
+Cl1 Cu1 2.325315 1_555
+Cl1 Cu3 2.385582 1_545
+Cl2 Cu2 2.325315 1_555
+Cl2 Cu0 2.385582 1_445
+Cl3 Cu3 2.325315 1_555
+Cl3 Cu1 2.385582 1_665

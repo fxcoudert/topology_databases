@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Ca(TiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69819041
+_cell_length_b   7.69819041
+_cell_length_c   7.69819041
+_cell_angle_alpha   122.72196336
+_cell_angle_beta   122.72196336
+_cell_angle_gamma   85.34672496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(TiS2)2
+_chemical_formula_sum   'Ca2 Ti4 S8'
+_cell_volume   308.20887781
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.00000000  1
+  Ca  Ca1  1  0.25000000  0.75000000  0.50000000  1
+  Ti  Ti0  1  0.87500000  0.12500000  0.25000000  1
+  Ti  Ti1  1  0.37500000  0.12500000  0.25000000  1
+  Ti  Ti2  1  0.87500000  0.62500000  0.75000000  1
+  Ti  Ti3  1  0.87500000  0.12500000  0.75000000  1
+  S  S0  1  0.67146700  0.90115100  0.77031600  1
+  S  S1  1  0.09884900  0.86916500  0.77031600  1
+  S  S2  1  0.09884900  0.32853300  0.22968400  1
+  S  S3  1  0.07853300  0.34884900  0.72968400  1
+  S  S4  1  0.61916500  0.34884900  0.27031600  1
+  S  S5  1  0.65115100  0.38083500  0.72968400  1
+  S  S6  1  0.13083500  0.90115100  0.22968400  1
+  S  S7  1  0.65115100  0.92146700  0.27031600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 S4 2.628038 1_555
+Ca0 S3 2.628038 1_554
+Ca0 S7 2.628038 1_555
+Ca0 S5 2.628038 1_554
+Ca1 S1 2.628038 1_555
+Ca1 S2 2.628038 1_555
+Ca1 S6 2.628038 1_555
+Ca1 S0 2.628038 1_555
+S0 Ti2 2.522650 1_555
+S0 Ti0 2.522650 1_566
+S0 Ti3 2.538374 1_565
+S1 Ti1 2.522650 1_566
+S1 Ti3 2.522650 1_465
+S1 Ti2 2.538374 1_455
+S2 Ti3 2.522650 1_454
+S2 Ti1 2.522650 1_555
+S2 Ti0 2.538374 1_455
+S3 Ti0 2.522650 1_455
+S3 Ti2 2.522650 1_455
+S3 Ti3 2.538374 1_455
+S4 Ti0 2.522650 1_555
+S4 Ti2 2.522650 1_555
+S4 Ti1 2.538374 1_555
+S5 Ti3 2.522650 1_555
+S5 Ti1 2.522650 1_555
+S5 Ti2 2.538374 1_555
+S6 Ti0 2.522650 1_465
+S6 Ti2 2.522650 1_454
+S6 Ti1 2.538374 1_565
+S7 Ti3 2.522650 1_565
+S7 Ti1 2.522650 1_565
+S7 Ti0 2.538374 1_565

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiPrSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93052807
+_cell_length_b   9.93052807
+_cell_length_c   4.57515900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.84684540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrSn2
+_chemical_formula_sum   'Li2 Pr2 Sn4'
+_cell_volume   198.86803228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67411800  0.32588200  0.75000000  1
+  Li  Li1  1  0.32588200  0.67411800  0.25000000  1
+  Pr  Pr0  1  0.89435900  0.10564100  0.75000000  1
+  Pr  Pr1  1  0.10564100  0.89435900  0.25000000  1
+  Sn  Sn0  1  0.54331700  0.45668300  0.75000000  1
+  Sn  Sn1  1  0.45668300  0.54331700  0.25000000  1
+  Sn  Sn2  1  0.25064200  0.74935800  0.75000000  1
+  Sn  Sn3  1  0.74935800  0.25064200  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn0 2.530480 1_555
+Li0 Sn2 2.690698 1_545
+Li0 Sn2 2.690698 1_655
+Li0 Sn3 2.711416 1_555
+Li0 Sn3 2.711416 1_556
+Li0 Pr1 3.469319 1_545
+Li0 Pr1 3.469319 1_655
+Li0 Pr1 3.469319 1_656
+Li0 Pr1 3.469319 1_546
+Li1 Sn1 2.530480 1_555
+Li1 Sn3 2.690698 1_455
+Li1 Sn3 2.690698 1_565
+Li1 Sn2 2.711416 1_554
+Li1 Sn2 2.711416 1_555
+Li1 Pr0 3.469319 1_454
+Li1 Pr0 3.469319 1_564
+Li1 Pr0 3.469319 1_455
+Li1 Pr0 3.469319 1_565
+Pr0 Sn1 3.425632 1_546
+Pr0 Sn1 3.425632 1_655
+Pr0 Sn1 3.425632 1_656
+Pr0 Sn1 3.425632 1_545
+Pr0 Sn2 3.574707 1_655
+Pr0 Sn2 3.574707 1_545
+Pr0 Sn3 3.619687 1_555
+Pr0 Sn3 3.619687 1_556
+Pr0 Sn0 3.654125 1_655
+Pr0 Sn0 3.654125 1_545
+Pr1 Sn0 3.425632 1_565
+Pr1 Sn0 3.425632 1_564
+Pr1 Sn0 3.425632 1_454
+Pr1 Sn0 3.425632 1_455
+Pr1 Sn3 3.574707 1_565
+Pr1 Sn3 3.574707 1_455
+Pr1 Sn2 3.619687 1_555
+Pr1 Sn2 3.619687 1_554
+Pr1 Sn1 3.654125 1_565
+Pr1 Sn1 3.654125 1_455

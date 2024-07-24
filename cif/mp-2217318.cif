@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgTi2(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78324139
+_cell_length_b   5.78324126
+_cell_length_c   5.78324154
+_cell_angle_alpha   53.56277567
+_cell_angle_beta   53.56277880
+_cell_angle_gamma   53.56278101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(CoO3)2
+_chemical_formula_sum   'Mg1 Ti2 Co2 O6'
+_cell_volume   116.17548193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.81313400  0.81313400  0.81313400  1
+  Ti  Ti1  1  0.18686600  0.18686600  0.18686600  1
+  Co  Co0  1  0.64295900  0.64295900  0.64295900  1
+  Co  Co1  1  0.35704100  0.35704100  0.35704100  1
+  O  O0  1  0.59008600  0.94434600  0.20224400  1
+  O  O1  1  0.20224400  0.59008600  0.94434600  1
+  O  O2  1  0.94434600  0.20224400  0.59008600  1
+  O  O3  1  0.40991400  0.05565400  0.79775600  1
+  O  O4  1  0.79775600  0.40991400  0.05565400  1
+  O  O5  1  0.05565400  0.79775600  0.40991400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.063248 1_554
+Mg0 O0 2.063248 1_445
+Mg0 O2 2.063248 1_454
+Mg0 O5 2.063248 1_545
+Mg0 O1 2.063248 1_544
+Mg0 O4 2.063248 1_455
+Co0 O0 2.154819 1_555
+Co0 O1 2.154819 1_555
+Co0 O2 2.154819 1_555
+Co0 O5 2.366024 1_655
+Co0 O4 2.366024 1_556
+Co0 O3 2.366024 1_565
+Co1 O3 2.154819 1_555
+Co1 O4 2.154819 1_555
+Co1 O5 2.154819 1_555
+Co1 O2 2.366024 1_455
+Co1 O1 2.366024 1_554
+Co1 O0 2.366024 1_545
+O0 Ti1 1.904194 1_565
+O0 Ti0 2.172838 1_554
+O1 Ti1 1.904193 1_556
+O1 Ti0 2.172838 1_455
+O2 Ti1 1.904194 1_655
+O2 Ti0 2.172838 1_545
+O3 Ti0 1.904194 1_545
+O3 Ti1 2.172838 1_556
+O4 Ti0 1.904193 1_554
+O4 Ti1 2.172838 1_655
+O5 Ti0 1.904194 1_455
+O5 Ti1 2.172838 1_565

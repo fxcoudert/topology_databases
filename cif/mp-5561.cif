@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ho(CrSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99614203
+_cell_length_b   5.99614203
+_cell_length_c   5.99614203
+_cell_angle_alpha   142.59193006
+_cell_angle_beta   142.59193006
+_cell_angle_gamma   53.93815717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(CrSi)2
+_chemical_formula_sum   'Ho1 Cr2 Si2'
+_cell_volume   79.03489437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr0  1  0.75000000  0.25000000  0.50000000  1
+  Cr  Cr1  1  0.25000000  0.75000000  0.50000000  1
+  Si  Si0  1  0.61489800  0.61489800  0.00000000  1
+  Si  Si1  1  0.38510200  0.38510200  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Si0 2.983745 1_444
+Ho0 Si0 2.983745 1_455
+Ho0 Si0 2.983745 1_545
+Ho0 Si0 2.983745 1_556
+Ho0 Si1 2.983745 1_444
+Ho0 Si1 2.983745 1_545
+Ho0 Si1 2.983745 1_556
+Ho0 Si1 2.983745 1_455
+Cr0 Si1 2.404667 1_555
+Cr0 Si1 2.404667 1_656
+Cr0 Si0 2.404667 1_545
+Cr0 Si0 2.404667 1_556
+Cr1 Si1 2.404667 1_555
+Cr1 Si0 2.404667 1_455
+Cr1 Si1 2.404667 1_566
+Cr1 Si0 2.404667 1_556
+Si0 Si1 2.456092 1_555

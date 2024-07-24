@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsCoW(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33825179
+_cell_length_b   7.65142428
+_cell_length_c   7.58294322
+_cell_angle_alpha   57.55472285
+_cell_angle_beta   61.61993653
+_cell_angle_gamma   59.56197538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCoW(OF)3
+_chemical_formula_sum   'Cs2 Co2 W2 O6 F6'
+_cell_volume   297.41991050
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37127300  0.37130100  0.37872100  1
+  Cs  Cs1  1  0.62872600  0.62870000  0.62127700  1
+  Co  Co0  1  0.99999800  0.00000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.99999600  0.50000200  1
+  W  W0  1  0.00000200  0.50000800  0.99999200  1
+  W  W1  1  0.50000500  0.99999900  0.00000000  1
+  O  O0  1  0.69425000  0.05690600  0.03594300  1
+  O  O1  1  0.05683400  0.69455200  0.71273900  1
+  O  O2  1  0.30039000  0.30035100  0.94959300  1
+  O  O3  1  0.69961300  0.69964800  0.05040500  1
+  O  O4  1  0.94316500  0.30544600  0.28726700  1
+  O  O5  1  0.30574600  0.94309200  0.96405900  1
+  F  F0  1  0.08740200  0.64963800  0.08076600  1
+  F  F1  1  0.07731400  0.07737600  0.67263300  1
+  F  F2  1  0.35016400  0.91237800  0.31802900  1
+  F  F3  1  0.64983600  0.08762100  0.68196900  1
+  F  F4  1  0.92268800  0.92262400  0.32736500  1
+  F  F5  1  0.91259600  0.35036300  0.91924000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 F3 2.965655 1_555
+Cs0 F0 2.965800 1_555
+Cs0 F1 3.105667 1_555
+Cs1 F2 2.965651 1_555
+Cs1 F5 2.965838 1_555
+Cs1 F4 3.105678 1_555
+Co0 O0 1.963172 1_555
+Co0 O5 1.963172 1_644
+Co0 F4 2.063785 1_545
+Co0 F1 2.063792 1_654
+Co0 F0 2.200596 1_645
+Co0 F5 2.200616 1_554
+Co1 O1 1.960848 1_555
+Co1 O4 1.960873 1_465
+Co1 F4 2.064938 1_455
+Co1 F1 2.064954 1_565
+Co1 F3 2.198354 1_465
+Co1 F2 2.198362 1_555
+O0 W1 1.849652 1_545
+O1 W0 1.849520 1_555
+O2 W1 1.937030 1_546
+O2 W0 1.937134 1_555
+O3 W1 1.937013 1_555
+O3 W0 1.937106 1_654
+O4 W0 1.849669 1_654
+O5 W1 1.849741 1_556
+F0 W0 1.991765 1_554
+F2 W1 1.991386 1_555
+F3 W1 1.991387 1_546
+F5 W0 1.991773 1_655

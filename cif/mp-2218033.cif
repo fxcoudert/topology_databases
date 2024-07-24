@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgZn2(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85464582
+_cell_length_b   5.85464537
+_cell_length_c   5.85464582
+_cell_angle_alpha   52.42593878
+_cell_angle_beta   52.42594210
+_cell_angle_gamma   52.42594269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(FeO3)2
+_chemical_formula_sum   'Mg1 Zn2 Fe2 O6'
+_cell_volume   116.66456359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn0  1  0.32757600  0.32757600  0.32757600  1
+  Zn  Zn1  1  0.67242400  0.67242400  0.67242400  1
+  Fe  Fe0  1  0.14295700  0.14295700  0.14295700  1
+  Fe  Fe1  1  0.85704300  0.85704300  0.85704300  1
+  O  O0  1  0.08229600  0.74562400  0.44474500  1
+  O  O1  1  0.55525500  0.91770400  0.25437600  1
+  O  O2  1  0.25437600  0.55525500  0.91770400  1
+  O  O3  1  0.74562400  0.44474500  0.08229600  1
+  O  O4  1  0.44474500  0.08229600  0.74562400  1
+  O  O5  1  0.91770400  0.25437600  0.55525500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 2.064384 1_555
+Mg0 O1 2.064384 1_555
+Mg0 O2 2.064384 1_555
+Mg0 O3 2.064384 1_555
+Mg0 O5 2.064384 1_555
+Mg0 O0 2.064384 1_555
+Fe0 O0 1.972054 1_545
+Fe0 O3 1.972054 1_455
+Fe0 O4 1.972054 1_554
+Fe0 O2 2.231655 1_554
+Fe0 O5 2.231655 1_455
+Fe0 O1 2.231655 1_545
+Fe1 O5 1.972054 1_565
+Fe1 O2 1.972054 1_655
+Fe1 O1 1.972054 1_556
+Fe1 O3 2.231655 1_556
+Fe1 O0 2.231655 1_655
+Fe1 O4 2.231655 1_565
+O0 Zn1 2.091726 1_455
+O0 Zn0 2.254528 1_555
+O1 Zn0 2.091725 1_565
+O1 Zn1 2.254528 1_555
+O2 Zn0 2.091726 1_556
+O2 Zn1 2.254528 1_555
+O3 Zn1 2.091726 1_554
+O3 Zn0 2.254528 1_555
+O4 Zn1 2.091725 1_545
+O4 Zn0 2.254528 1_555
+O5 Zn0 2.091726 1_655
+O5 Zn1 2.254528 1_555

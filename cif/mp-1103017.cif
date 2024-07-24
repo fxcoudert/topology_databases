@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_NiBiSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23738800
+_cell_length_b   6.23738800
+_cell_length_c   6.23738800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiBiSe
+_chemical_formula_sum   'Ni4 Bi4 Se4'
+_cell_volume   242.66563667
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.26567100  0.73432900  0.23432900  1
+  Ni  Ni1  1  0.76567100  0.76567100  0.76567100  1
+  Ni  Ni2  1  0.23432900  0.26567100  0.73432900  1
+  Ni  Ni3  1  0.73432900  0.23432900  0.26567100  1
+  Bi  Bi0  1  0.38300000  0.88300000  0.61700000  1
+  Bi  Bi1  1  0.88300000  0.61700000  0.38300000  1
+  Bi  Bi2  1  0.61700000  0.38300000  0.88300000  1
+  Bi  Bi3  1  0.11700000  0.11700000  0.11700000  1
+  Se  Se0  1  0.37878500  0.37878500  0.37878500  1
+  Se  Se1  1  0.62121500  0.87878500  0.12121500  1
+  Se  Se2  1  0.87878500  0.12121500  0.62121500  1
+  Se  Se3  1  0.12121500  0.62121500  0.87878500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Se1 2.495531 1_555
+Ni0 Se3 2.495531 1_554
+Ni0 Se0 2.495531 1_555
+Ni1 Se2 2.495531 1_565
+Ni1 Se3 2.495531 1_655
+Ni1 Se1 2.495531 1_556
+Ni2 Se3 2.495531 1_555
+Ni2 Se2 2.495531 1_455
+Ni2 Se0 2.495531 1_555
+Ni3 Se1 2.495531 1_545
+Ni3 Se2 2.495531 1_555
+Ni3 Se0 2.495531 1_555
+Bi0 Ni1 2.663199 1_555
+Bi0 Ni0 2.663199 1_555
+Bi0 Ni2 2.663199 1_565
+Bi0 Se3 2.828187 1_555
+Bi1 Ni0 2.663199 1_655
+Bi1 Ni3 2.663199 1_555
+Bi1 Ni1 2.663199 1_555
+Bi1 Se1 2.828187 1_555
+Bi2 Ni1 2.663199 1_555
+Bi2 Ni2 2.663199 1_555
+Bi2 Ni3 2.663199 1_556
+Bi2 Se2 2.828187 1_555
+Bi3 Ni0 2.663199 1_545
+Bi3 Ni3 2.663199 1_455
+Bi3 Ni2 2.663199 1_554
+Bi3 Se0 2.828187 1_555

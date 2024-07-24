@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_YbAsPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93319165
+_cell_length_b   6.93319165
+_cell_length_c   4.20924900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAsPd
+_chemical_formula_sum   'Yb3 As3 Pd3'
+_cell_volume   175.22726181
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.00000000  0.57876600  0.50000000  1
+  Yb  Yb1  1  0.42123400  0.42123400  0.50000000  1
+  Yb  Yb2  1  0.57876600  0.00000000  0.50000000  1
+  As  As0  1  0.66666700  0.33333300  0.00000000  1
+  As  As1  1  0.33333300  0.66666700  0.00000000  1
+  As  As2  1  0.00000000  0.00000000  0.50000000  1
+  Pd  Pd0  1  0.24142000  0.00000000  0.00000000  1
+  Pd  Pd1  1  0.75858000  0.75858000  0.00000000  1
+  Pd  Pd2  1  0.00000000  0.24142000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Pd2 2.686972 1_655
+As0 Pd0 2.686977 1_555
+As0 Pd1 2.686979 1_555
+As0 Yb2 2.955236 1_555
+As0 Yb2 2.955236 1_554
+As0 Yb0 2.955237 1_655
+As0 Yb0 2.955237 1_654
+As0 Yb1 2.955241 1_554
+As0 Yb1 2.955241 1_555
+As1 Pd0 2.686972 1_565
+As1 Pd2 2.686977 1_555
+As1 Pd1 2.686979 1_555
+As1 Yb0 2.955236 1_555
+As1 Yb0 2.955236 1_554
+As1 Yb2 2.955237 1_565
+As1 Yb2 2.955237 1_564
+As1 Yb1 2.955241 1_554
+As1 Yb1 2.955241 1_555
+As2 Pd0 2.689068 1_555
+As2 Pd0 2.689068 1_556
+As2 Pd2 2.689068 1_555
+As2 Pd2 2.689068 1_556
+As2 Pd1 2.689068 1_445
+As2 Pd1 2.689068 1_446
+As2 Yb2 2.920496 1_455
+As2 Yb0 2.920496 1_545
+As2 Yb1 2.920496 1_555
+Pd0 Pd2 2.899126 1_555
+Pd0 Pd1 2.899126 1_445
+Pd0 Yb2 3.146399 1_554
+Pd0 Yb2 3.146399 1_555
+Pd0 Yb1 3.297276 1_555
+Pd0 Yb1 3.297276 1_554
+Pd0 Yb0 3.297276 1_545
+Pd0 Yb0 3.297276 1_544
+Pd1 Pd2 2.899126 1_665
+Pd1 Yb1 3.146399 1_555
+Pd1 Yb1 3.146399 1_554
+Pd1 Yb2 3.297276 1_565
+Pd1 Yb2 3.297276 1_564
+Pd1 Yb0 3.297276 1_655
+Pd1 Yb0 3.297276 1_654
+Pd2 Yb0 3.146399 1_555
+Pd2 Yb0 3.146399 1_554
+Pd2 Yb1 3.297276 1_555
+Pd2 Yb1 3.297276 1_554
+Pd2 Yb2 3.297276 1_455
+Pd2 Yb2 3.297276 1_454

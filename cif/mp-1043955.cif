@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_LaFeReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60159300
+_cell_length_b   5.53210200
+_cell_length_c   9.56142024
+_cell_angle_alpha   55.13412958
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFeReO6
+_chemical_formula_sum   'La2 Fe2 Re2 O12'
+_cell_volume   243.10773337
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.29798000  0.23678100  0.75382700  1
+  La  La1  1  0.70202000  0.23678100  0.25382700  1
+  Fe  Fe0  1  0.75508700  0.99694200  0.00073900  1
+  Fe  Fe1  1  0.24491300  0.99694200  0.50073900  1
+  Re  Re0  1  0.76074100  0.49917100  0.50047600  1
+  Re  Re1  1  0.23925900  0.49917100  0.00047600  1
+  O  O0  1  0.25885600  0.31154400  0.23745800  1
+  O  O1  1  0.46228300  0.21648000  0.02542200  1
+  O  O2  1  0.49109900  0.74242800  0.47236400  1
+  O  O3  1  0.50890100  0.74242800  0.97236400  1
+  O  O4  1  0.53771700  0.21648000  0.52542200  1
+  O  O5  1  0.74114400  0.31154400  0.73745800  1
+  O  O6  1  0.75971400  0.65954400  0.26269000  1
+  O  O7  1  0.94977000  0.81003400  0.46170900  1
+  O  O8  1  0.97099800  0.26686600  0.03512600  1
+  O  O9  1  0.02900200  0.26686600  0.53512600  1
+  O  O10  1  0.05023000  0.81003400  0.96170900  1
+  O  O11  1  0.24028600  0.65954400  0.76269000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 O11 2.409992 1_555
+La0 O10 2.466816 1_545
+La0 O9 2.504520 1_555
+La0 O5 2.506787 1_555
+La0 O3 2.589945 1_545
+La0 O4 2.620257 1_555
+La0 O1 2.696253 1_556
+La0 O2 2.762363 1_555
+La1 O6 2.409992 1_555
+La1 O7 2.466816 1_545
+La1 O8 2.504520 1_555
+La1 O0 2.506787 1_555
+La1 O2 2.589945 1_545
+La1 O1 2.620257 1_555
+La1 O4 2.696253 1_555
+La1 O3 2.762363 1_554
+Fe0 O8 2.088533 1_565
+Fe0 O5 2.088788 1_564
+Fe0 O10 2.093533 1_654
+Fe0 O3 2.096316 1_554
+Fe0 O6 2.100665 1_555
+Fe0 O1 2.132741 1_565
+Fe1 O9 2.088533 1_565
+Fe1 O0 2.088788 1_565
+Fe1 O7 2.093533 1_455
+Fe1 O2 2.096316 1_555
+Fe1 O11 2.100665 1_555
+Fe1 O4 2.132741 1_565
+O0 Re1 1.880074 1_555
+O1 Re1 1.907053 1_555
+O2 Re0 1.936761 1_555
+O3 Re1 1.936761 1_556
+O4 Re0 1.907053 1_555
+O5 Re0 1.880074 1_555
+O6 Re0 1.910521 1_555
+O7 Re0 1.867416 1_555
+O8 Re1 1.879526 1_655
+O9 Re0 1.879526 1_455
+O10 Re1 1.867416 1_556
+O11 Re1 1.910521 1_556

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_HoCuPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55860876
+_cell_length_b   4.55860876
+_cell_length_c   7.33908073
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCuPb
+_chemical_formula_sum   'Ho2 Cu2 Pb2'
+_cell_volume   132.07995924
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  -0.00000000  0.98403238  1
+  Ho  Ho1  1  0.00000000  -0.00000000  0.48403238  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.31597412  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.81597412  1
+  Pb  Pb0  1  0.33333300  0.66666700  0.21449450  1
+  Pb  Pb1  1  0.66666700  0.33333300  0.71449450  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Pb0 3.128534 1_546
+Ho0 Pb0 3.128537 1_446
+Ho0 Pb0 3.128537 1_556
+Ho0 Pb1 3.292427 1_455
+Ho0 Pb1 3.292430 1_445
+Ho0 Pb1 3.292430 1_555
+Ho1 Pb1 3.128534 1_455
+Ho1 Pb1 3.128537 1_555
+Ho1 Pb1 3.128537 1_445
+Ho1 Pb0 3.292427 1_545
+Ho1 Pb0 3.292430 1_555
+Ho1 Pb0 3.292430 1_445
+Cu0 Pb0 2.735258 1_545
+Cu0 Pb0 2.735258 1_655
+Cu0 Pb0 2.735265 1_555
+Cu0 Ho1 2.906582 1_655
+Cu0 Ho1 2.906585 1_555
+Cu0 Ho1 2.906585 1_665
+Cu0 Pb1 2.924773 1_555
+Cu1 Pb1 2.735258 1_455
+Cu1 Pb1 2.735258 1_565
+Cu1 Pb1 2.735265 1_555
+Cu1 Ho0 2.906582 1_565
+Cu1 Ho0 2.906585 1_665
+Cu1 Ho0 2.906585 1_555
+Cu1 Pb0 2.924773 1_556

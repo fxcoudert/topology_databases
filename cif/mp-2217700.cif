@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgV2(CuO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88847797
+_cell_length_b   6.01252903
+_cell_length_c   5.95287906
+_cell_angle_alpha   51.11475315
+_cell_angle_beta   51.78090109
+_cell_angle_gamma   50.56248103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2(CuO3)2
+_chemical_formula_sum   'Mg1 V2 Cu2 O6'
+_cell_volume   117.92363299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00132300  0.99942400  0.99902500  1
+  V  V0  1  0.64840300  0.65249500  0.65556800  1
+  V  V1  1  0.35422000  0.34643700  0.34309900  1
+  Cu  Cu0  1  0.82890600  0.82122700  0.83671800  1
+  Cu  Cu1  1  0.16213800  0.17994600  0.17099600  1
+  O  O0  1  0.26917100  0.93510100  0.58718000  1
+  O  O1  1  0.95054800  0.57827200  0.26524800  1
+  O  O2  1  0.57462300  0.27209900  0.94271600  1
+  O  O3  1  0.73471300  0.06502100  0.41054500  1
+  O  O4  1  0.42625900  0.72797000  0.05695300  1
+  O  O5  1  0.04969400  0.42201400  0.73195600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 2.053378 1_556
+Mg0 O2 2.057200 1_465
+Mg0 O0 2.068518 1_555
+Mg0 O3 2.071020 1_466
+Mg0 O1 2.085689 1_456
+Mg0 O5 2.086141 1_565
+Cu0 O4 2.138834 1_556
+Cu0 O5 2.179920 1_655
+Cu0 O3 2.220731 1_565
+Cu0 O1 2.325388 1_556
+Cu0 O0 2.368433 1_655
+Cu0 O2 2.410529 1_565
+Cu1 O1 2.152675 1_455
+Cu1 O2 2.175691 1_554
+Cu1 O0 2.208282 1_545
+Cu1 O3 2.318863 1_455
+Cu1 O5 2.351254 1_554
+Cu1 O4 2.429997 1_545
+O0 V0 1.864221 1_555
+O0 V1 2.154079 1_565
+O1 V0 1.985299 1_555
+O1 V1 2.037261 1_655
+O2 V0 1.943363 1_555
+O2 V1 2.082776 1_556
+O3 V1 1.867577 1_555
+O3 V0 2.163303 1_545
+O4 V1 1.944231 1_555
+O4 V0 2.089518 1_554
+O5 V1 1.982356 1_555
+O5 V0 2.022129 1_455

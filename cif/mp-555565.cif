@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Ag5(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06589684
+_cell_length_b   6.06589684
+_cell_length_c   6.52927900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag5(PbO3)2
+_chemical_formula_sum   'Ag5 Pb2 O6'
+_cell_volume   208.05868938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50086500  0.00000000  0.52145600  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.27377600  1
+  Ag  Ag2  1  0.49913500  0.49913500  0.52145600  1
+  Ag  Ag3  1  0.00000000  0.50086500  0.52145600  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.73770700  1
+  Pb  Pb0  1  0.33333300  0.66666700  0.02034100  1
+  Pb  Pb1  1  0.66666700  0.33333300  0.02034100  1
+  O  O0  1  0.00000000  0.62183200  0.21274300  1
+  O  O1  1  0.37611500  0.00000000  0.82907900  1
+  O  O2  1  0.62183200  0.00000000  0.21274300  1
+  O  O3  1  0.37816800  0.37816800  0.21274300  1
+  O  O4  1  0.00000000  0.37611500  0.82907900  1
+  O  O5  1  0.62388500  0.62388500  0.82907900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O2 2.145079 1_555
+Ag0 O1 2.146375 1_555
+Ag1 O3 2.328284 1_555
+Ag1 O0 2.328285 1_545
+Ag1 O2 2.328285 1_455
+Ag2 O3 2.145079 1_555
+Ag2 O5 2.146375 1_555
+Ag3 O0 2.145079 1_555
+Ag3 O4 2.146375 1_555
+Ag4 O5 2.358188 1_445
+Ag4 O4 2.358188 1_555
+Ag4 O1 2.358188 1_555
+O0 Pb0 2.278279 1_555
+O0 Pb1 2.278280 1_455
+O1 Pb0 2.278260 1_546
+O1 Pb1 2.278262 1_556
+O2 Pb1 2.278279 1_555
+O2 Pb0 2.278280 1_545
+O3 Pb0 2.278284 1_555
+O3 Pb1 2.278284 1_555
+O4 Pb1 2.278260 1_456
+O4 Pb0 2.278262 1_556
+O5 Pb0 2.278265 1_556
+O5 Pb1 2.278265 1_556

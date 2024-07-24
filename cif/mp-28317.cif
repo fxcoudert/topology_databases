@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_NaCu5S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14645648
+_cell_length_b   7.14645648
+_cell_length_c   6.98355600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCu5S3
+_chemical_formula_sum   'Na2 Cu10 S6'
+_cell_volume   308.87925357
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.25000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.75000000  1
+  Cu  Cu0  1  0.56943600  0.78471800  0.25000000  1
+  Cu  Cu1  1  0.21528200  0.78471800  0.25000000  1
+  Cu  Cu2  1  0.21528200  0.43056400  0.25000000  1
+  Cu  Cu3  1  0.78471800  0.56943600  0.75000000  1
+  Cu  Cu4  1  0.78471800  0.21528200  0.75000000  1
+  Cu  Cu5  1  0.43056400  0.21528200  0.75000000  1
+  Cu  Cu6  1  0.66666700  0.33333300  0.44826200  1
+  Cu  Cu7  1  0.33333300  0.66666700  0.55173800  1
+  Cu  Cu8  1  0.33333300  0.66666700  0.94826200  1
+  Cu  Cu9  1  0.66666700  0.33333300  0.05173800  1
+  S  S0  1  0.65640800  0.00000000  0.00000000  1
+  S  S1  1  0.00000000  0.65640800  0.00000000  1
+  S  S2  1  0.34359200  0.34359200  0.00000000  1
+  S  S3  1  0.34359200  0.00000000  0.50000000  1
+  S  S4  1  0.00000000  0.34359200  0.50000000  1
+  S  S5  1  0.65640800  0.65640800  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S2 3.012879 1_555
+Na0 S5 3.012879 1_445
+Na0 S1 3.012879 1_545
+Na0 S0 3.012879 1_455
+Na0 S3 3.012879 1_555
+Na0 S4 3.012879 1_555
+Na1 S2 3.012879 1_556
+Na1 S5 3.012879 1_445
+Na1 S1 3.012879 1_546
+Na1 S0 3.012879 1_456
+Na1 S3 3.012879 1_555
+Na1 S4 3.012879 1_555
+Cu0 S0 2.201179 1_565
+Cu0 S5 2.201180 1_555
+Cu0 Na0 2.664766 1_665
+Cu1 S3 2.201179 1_565
+Cu1 S1 2.201179 1_555
+Cu1 Na0 2.664766 1_565
+Cu2 S4 2.201179 1_555
+Cu2 S2 2.201180 1_555
+Cu2 Na0 2.664766 1_555
+Cu3 S1 2.201179 1_656
+Cu3 S5 2.201180 1_555
+Cu3 Na1 2.664766 1_665
+Cu4 S4 2.201179 1_655
+Cu4 S0 2.201179 1_556
+Cu4 Na1 2.664766 1_655
+Cu5 S3 2.201179 1_555
+Cu5 S2 2.201180 1_556
+Cu5 Na1 2.664766 1_555
+Cu6 S4 2.374008 1_655
+Cu6 S3 2.374011 1_555
+Cu6 S5 2.374015 1_555
+Cu7 S3 2.374008 1_565
+Cu7 S4 2.374011 1_555
+Cu7 S5 2.374015 1_555
+Cu8 S1 2.374008 1_556
+Cu8 S0 2.374011 1_566
+Cu8 S2 2.374015 1_556
+Cu9 S0 2.374008 1_555
+Cu9 S1 2.374011 1_655
+Cu9 S2 2.374015 1_555

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_InSn2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45970489
+_cell_length_b   4.45970489
+_cell_length_c   11.00148417
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSn2Te3
+_chemical_formula_sum   'In1 Sn2 Te3'
+_cell_volume   189.49344728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.00000000  -0.00000000  0.00000000  1
+  Sn  Sn0  1  0.33333300  0.66666700  0.66866667  1
+  Sn  Sn1  1  0.66666700  0.33333300  0.33133333  1
+  Te  Te0  1  0.33333300  0.66666700  0.16575718  1
+  Te  Te1  1  0.66666700  0.33333300  0.83424282  1
+  Te  Te2  1  -0.00000000  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Te1 3.155165 1_454
+In0 Te0 3.155165 1_545
+In0 Te1 3.155169 1_444
+In0 Te1 3.155169 1_554
+In0 Te0 3.155169 1_445
+In0 Te0 3.155169 1_555
+Sn0 Te1 3.154015 1_455
+Sn0 Te1 3.154015 1_565
+Sn0 Te1 3.154021 1_555
+Sn0 Te2 3.173773 1_565
+Sn0 Te2 3.173776 1_555
+Sn0 Te2 3.173776 1_665
+Sn1 Te0 3.154015 1_545
+Sn1 Te0 3.154015 1_655
+Sn1 Te0 3.154021 1_555
+Sn1 Te2 3.173773 1_655
+Sn1 Te2 3.173776 1_555
+Sn1 Te2 3.173776 1_665

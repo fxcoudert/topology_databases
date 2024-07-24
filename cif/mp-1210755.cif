@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li2AlSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31404066
+_cell_length_b   4.31404066
+_cell_length_c   8.15989200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2AlSi
+_chemical_formula_sum   'Li4 Al2 Si2'
+_cell_volume   131.51747635
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66666700  0.33333300  0.57416300  1
+  Li  Li1  1  0.33333300  0.66666700  0.42583700  1
+  Li  Li2  1  0.33333300  0.66666700  0.07416300  1
+  Li  Li3  1  0.66666700  0.33333300  0.92583700  1
+  Al  Al0  1  0.00000000  0.00000000  0.75000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.25000000  1
+  Si  Si0  1  0.33333300  0.66666700  0.75000000  1
+  Si  Si1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si1 2.645135 1_555
+Li0 Li1 2.769209 1_545
+Li0 Li1 2.769209 1_655
+Li0 Li1 2.769216 1_555
+Li0 Li3 2.869622 1_555
+Li0 Si0 2.874425 1_545
+Li0 Si0 2.874425 1_655
+Li0 Si0 2.874432 1_555
+Li1 Si0 2.645135 1_555
+Li1 Li2 2.869622 1_555
+Li1 Si1 2.874425 1_455
+Li1 Si1 2.874425 1_565
+Li1 Si1 2.874432 1_555
+Li2 Si0 2.645135 1_554
+Li2 Li3 2.769209 1_454
+Li2 Li3 2.769209 1_564
+Li2 Li3 2.769216 1_554
+Li2 Si1 2.874425 1_455
+Li2 Si1 2.874425 1_565
+Li2 Si1 2.874432 1_555
+Li3 Si1 2.645135 1_556
+Li3 Si0 2.874425 1_545
+Li3 Si0 2.874425 1_655
+Li3 Si0 2.874432 1_555
+Al0 Si0 2.490710 1_545
+Al0 Si0 2.490714 1_555
+Al0 Si0 2.490714 1_445
+Al0 Li0 2.874425 1_455
+Al0 Li3 2.874425 1_455
+Al0 Li3 2.874428 1_445
+Al0 Li0 2.874428 1_445
+Al0 Li3 2.874428 1_555
+Al0 Li0 2.874428 1_555
+Al1 Si1 2.490710 1_455
+Al1 Si1 2.490714 1_555
+Al1 Si1 2.490714 1_445
+Al1 Li2 2.874425 1_545
+Al1 Li1 2.874425 1_545
+Al1 Li1 2.874428 1_445
+Al1 Li2 2.874428 1_445
+Al1 Li2 2.874428 1_555
+Al1 Li1 2.874428 1_555

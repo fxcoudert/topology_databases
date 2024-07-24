@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ThCoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44974801
+_cell_length_b   8.44974801
+_cell_length_c   4.07068577
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.78710937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCoSi2
+_chemical_formula_sum   'Th2 Co2 Si4'
+_cell_volume   137.39968678
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.60882075  0.39117925  0.75000000  1
+  Th  Th1  1  0.39117925  0.60882075  0.25000000  1
+  Co  Co0  1  0.82030867  0.17969133  0.75000000  1
+  Co  Co1  1  0.17969133  0.82030867  0.25000000  1
+  Si  Si0  1  0.95876670  0.04123330  0.75000000  1
+  Si  Si1  1  0.04123330  0.95876670  0.25000000  1
+  Si  Si2  1  0.25047834  0.74952166  0.75000000  1
+  Si  Si3  1  0.74952166  0.25047834  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Si0 2.269311 1_555
+Co0 Si3 2.342790 1_555
+Co0 Si3 2.342790 1_556
+Co0 Si2 2.356070 1_545
+Co0 Si2 2.356070 1_655
+Co0 Th1 3.119776 1_546
+Co0 Th1 3.119776 1_656
+Co0 Th1 3.119776 1_545
+Co0 Th1 3.119776 1_655
+Co1 Si1 2.269311 1_555
+Co1 Si2 2.342790 1_555
+Co1 Si2 2.342790 1_554
+Co1 Si3 2.356070 1_455
+Co1 Si3 2.356070 1_565
+Co1 Th0 3.119776 1_565
+Co1 Th0 3.119776 1_454
+Co1 Th0 3.119776 1_455
+Co1 Th0 3.119776 1_564
+Si0 Si1 2.443254 1_646
+Si0 Si1 2.443254 1_645
+Si0 Th1 3.100144 1_656
+Si0 Th1 3.100144 1_545
+Si0 Th1 3.100144 1_655
+Si0 Th1 3.100144 1_546
+Si0 Th0 3.207749 1_545
+Si0 Th0 3.207749 1_655
+Si1 Th0 3.100144 1_455
+Si1 Th0 3.100144 1_564
+Si1 Th0 3.100144 1_565
+Si1 Th0 3.100144 1_454
+Si1 Th1 3.207749 1_455
+Si1 Th1 3.207749 1_565
+Si2 Th1 3.075807 1_556
+Si2 Th1 3.075807 1_555
+Si2 Th0 3.103496 1_455
+Si2 Th0 3.103496 1_565
+Si3 Th0 3.075807 1_554
+Si3 Th0 3.075807 1_555
+Si3 Th1 3.103496 1_655
+Si3 Th1 3.103496 1_545

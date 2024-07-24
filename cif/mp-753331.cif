@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiNi2O2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95995800
+_cell_length_b   2.95995800
+_cell_length_c   12.57712400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi2O2F
+_chemical_formula_sum   'Li2 Ni4 O4 F2'
+_cell_volume   110.19260248
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.41629900  1
+  Li  Li1  1  0.50000000  0.00000000  0.58370100  1
+  Ni  Ni0  1  0.00000000  0.50000000  0.74969700  1
+  Ni  Ni1  1  0.50000000  0.00000000  0.91535400  1
+  Ni  Ni2  1  0.00000000  0.50000000  0.08464600  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.25030300  1
+  O  O0  1  0.50000000  0.00000000  0.74715900  1
+  O  O1  1  0.00000000  0.50000000  0.91605700  1
+  O  O2  1  0.50000000  0.00000000  0.08394300  1
+  O  O3  1  0.00000000  0.50000000  0.25284100  1
+  F  F0  1  0.50000000  0.00000000  0.42188500  1
+  F  F1  1  0.00000000  0.50000000  0.57811500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.055832 1_555
+Li1 O0 2.055832 1_555
+Ni0 O1 2.092330 1_555
+Ni0 O0 2.093250 1_555
+Ni0 O0 2.093250 1_565
+Ni0 O0 2.093250 1_465
+Ni0 O0 2.093250 1_455
+Ni1 O1 2.093025 1_655
+Ni1 O1 2.093025 1_545
+Ni1 O1 2.093025 1_555
+Ni1 O1 2.093025 1_645
+Ni1 O0 2.115409 1_555
+Ni1 O2 2.120365 1_556
+Ni2 O2 2.093025 1_465
+Ni2 O2 2.093025 1_455
+Ni2 O2 2.093025 1_555
+Ni2 O2 2.093025 1_565
+Ni2 O3 2.115409 1_555
+Ni2 O1 2.120365 1_554
+Ni3 O2 2.092330 1_555
+Ni3 O3 2.093250 1_545
+Ni3 O3 2.093250 1_645
+Ni3 O3 2.093250 1_555
+Ni3 O3 2.093250 1_655
+F0 Li1 2.035180 1_555
+F0 Li0 2.094185 1_545
+F0 Li0 2.094185 1_645
+F0 Li0 2.094185 1_555
+F0 Li0 2.094185 1_655
+F0 Ni3 2.158008 1_555
+F1 Li0 2.035180 1_555
+F1 Li1 2.094185 1_465
+F1 Li1 2.094185 1_565
+F1 Li1 2.094185 1_455
+F1 Li1 2.094185 1_555
+F1 Ni0 2.158008 1_555

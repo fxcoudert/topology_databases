@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Na3AgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38831055
+_cell_length_b   6.90833659
+_cell_length_c   7.82361809
+_cell_angle_alpha   116.19996195
+_cell_angle_beta   114.09625209
+_cell_angle_gamma   89.99999864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3AgS2
+_chemical_formula_sum   'Na6 Ag2 S4'
+_cell_volume   275.87322208
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.75000000  -0.00000000  1
+  Na  Na1  1  0.50000000  0.25000000  -0.00000000  1
+  Na  Na2  1  0.76755840  0.51755840  0.53511679  1
+  Na  Na3  1  0.23244160  0.98244160  0.46488321  1
+  Na  Na4  1  0.23244160  0.48244160  0.46488321  1
+  Na  Na5  1  0.76755840  0.01755840  0.53511679  1
+  Ag  Ag0  1  -0.00000000  0.50000000  -0.00000000  1
+  Ag  Ag1  1  -0.00000000  -0.00000000  -0.00000000  1
+  S  S0  1  0.13902678  0.36861605  0.73723309  1
+  S  S1  1  0.40179368  0.13138395  0.26276691  1
+  S  S2  1  0.59820632  0.86861605  0.73723309  1
+  S  S3  1  0.86097322  0.63138395  0.26276691  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S2 2.798569 1_554
+Na0 S3 2.798569 1_555
+Na0 S1 2.798573 1_565
+Na0 S0 2.798573 1_554
+Na1 S1 2.798569 1_555
+Na1 S0 2.798569 1_554
+Na1 S2 2.798573 1_544
+Na1 S3 2.798573 1_555
+Na2 S2 2.750127 1_555
+Na2 S0 2.750131 1_655
+Na2 S1 2.834143 1_555
+Na2 S3 2.834147 1_555
+Na3 S3 2.750127 1_455
+Na3 S1 2.750131 1_565
+Na3 S0 2.834142 1_565
+Na3 S2 2.834147 1_555
+Na4 S1 2.750127 1_555
+Na4 S3 2.750131 1_455
+Na4 S2 2.834143 1_555
+Na4 S0 2.834147 1_555
+Na5 S0 2.750127 1_655
+Na5 S2 2.750131 1_545
+Na5 S3 2.834142 1_545
+Na5 S1 2.834147 1_555
+Ag0 S0 2.383722 1_554
+Ag0 S3 2.383722 1_455
+Ag1 S1 2.383722 1_555
+Ag1 S2 2.383722 1_444

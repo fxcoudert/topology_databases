@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_TiAl(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06902500
+_cell_length_b   5.46647366
+_cell_length_c   5.67695837
+_cell_angle_alpha   106.34653820
+_cell_angle_beta   85.52042995
+_cell_angle_gamma   107.91986179
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAl(WO4)2
+_chemical_formula_sum   'Ti1 Al1 W2 O8'
+_cell_volume   143.61892340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.95851900  0.13201200  0.22175200  1
+  Al  Al0  1  0.40027000  0.04722300  0.66120000  1
+  W  W0  1  0.71706900  0.59418800  0.40958400  1
+  W  W1  1  0.26248100  0.63263900  0.05510200  1
+  O  O0  1  0.62194000  0.85839400  0.67713500  1
+  O  O1  1  0.73067300  0.25601700  0.48605100  1
+  O  O2  1  0.66985000  0.78908900  0.15602800  1
+  O  O3  1  0.87349800  0.36405600  0.06928400  1
+  O  O4  1  0.18257300  0.89593900  0.93909400  1
+  O  O5  1  0.34003300  0.35658100  0.80102700  1
+  O  O6  1  0.30024300  0.40194700  0.29748400  1
+  O  O7  1  0.14294700  0.86800900  0.40475700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 O5 1.762791 1_555
+Al0 O0 1.765916 1_545
+Al0 O7 1.867622 1_545
+Al0 O4 2.071546 1_545
+Al0 O1 2.073342 1_555
+O0 W0 1.924787 1_555
+O1 Ti0 1.919181 1_555
+O1 W0 2.036016 1_555
+O2 Ti0 1.948852 1_565
+O2 W1 2.036173 1_555
+O2 W0 2.082873 1_555
+O3 Ti0 1.885898 1_555
+O3 W1 2.076107 1_655
+O3 W0 2.224866 1_555
+O4 W1 1.898272 1_556
+O4 Ti0 2.231981 1_466
+O5 W1 1.887731 1_556
+O6 Ti0 1.883899 1_455
+O6 W0 2.107346 1_555
+O6 W1 2.164886 1_555
+O7 W1 2.194765 1_555
+O7 W0 2.219682 1_455
+O7 Ti0 2.421149 1_465

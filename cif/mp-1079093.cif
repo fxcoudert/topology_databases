@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_TmSiAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93979141
+_cell_length_b   6.93979141
+_cell_length_c   4.14515416
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmSiAg
+_chemical_formula_sum   'Tm3 Si3 Ag3'
+_cell_volume   172.88771125
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.41932255  0.41932255  0.50000000  1
+  Tm  Tm1  1  0.58067745  0.00000000  0.50000000  1
+  Tm  Tm2  1  0.00000000  0.58067745  0.50000000  1
+  Si  Si0  1  0.66666700  0.33333300  -0.00000000  1
+  Si  Si1  1  0.33333300  0.66666700  -0.00000000  1
+  Si  Si2  1  0.00000000  -0.00000000  0.50000000  1
+  Ag  Ag0  1  0.74950985  0.74950985  -0.00000000  1
+  Ag  Ag1  1  0.25049015  -0.00000000  -0.00000000  1
+  Ag  Ag2  1  -0.00000000  0.25049015  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Tm1 2.936397 1_554
+Si0 Tm1 2.936397 1_555
+Si0 Tm2 2.936398 1_655
+Si0 Tm2 2.936398 1_654
+Si0 Tm0 2.936402 1_555
+Si0 Tm0 2.936402 1_554
+Si1 Tm2 2.936397 1_554
+Si1 Tm2 2.936397 1_555
+Si1 Tm1 2.936398 1_564
+Si1 Tm1 2.936398 1_565
+Si1 Tm0 2.936402 1_555
+Si1 Tm0 2.936402 1_554
+Si2 Tm0 2.910011 1_555
+Si2 Tm2 2.910011 1_545
+Si2 Tm1 2.910011 1_455
+Ag0 Si0 2.647954 1_555
+Ag0 Si1 2.647954 1_555
+Ag0 Si2 2.705076 1_665
+Ag0 Si2 2.705076 1_664
+Ag0 Ag1 3.010909 1_665
+Ag0 Ag2 3.010909 1_665
+Ag0 Tm0 3.089698 1_555
+Ag0 Tm0 3.089698 1_554
+Ag0 Tm2 3.275207 1_654
+Ag0 Tm1 3.275207 1_565
+Ag0 Tm2 3.275207 1_655
+Ag0 Tm1 3.275207 1_564
+Ag1 Si1 2.647947 1_545
+Ag1 Si0 2.647952 1_555
+Ag1 Si2 2.705076 1_554
+Ag1 Si2 2.705076 1_555
+Ag1 Ag2 3.010910 1_555
+Ag1 Tm1 3.089698 1_555
+Ag1 Tm1 3.089698 1_554
+Ag1 Tm2 3.275207 1_545
+Ag1 Tm2 3.275207 1_544
+Ag1 Tm0 3.275207 1_555
+Ag1 Tm0 3.275207 1_554
+Ag2 Si0 2.647947 1_455
+Ag2 Si1 2.647952 1_555
+Ag2 Si2 2.705076 1_554
+Ag2 Si2 2.705076 1_555
+Ag2 Tm2 3.089698 1_554
+Ag2 Tm2 3.089698 1_555
+Ag2 Tm1 3.275207 1_454
+Ag2 Tm1 3.275207 1_455
+Ag2 Tm0 3.275207 1_554
+Ag2 Tm0 3.275207 1_555

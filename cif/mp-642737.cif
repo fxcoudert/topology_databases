@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Cu2H3ClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14297082
+_cell_length_b   6.14297082
+_cell_length_c   6.14297065
+_cell_angle_alpha   68.52442217
+_cell_angle_beta   68.52442217
+_cell_angle_gamma   68.52441426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2H3ClO3
+_chemical_formula_sum   'Cu4 H6 Cl2 O6'
+_cell_volume   193.39849685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.50000000  1
+  H  H0  1  0.77191100  0.77191100  0.17491800  1
+  H  H1  1  0.17491800  0.77191100  0.77191100  1
+  H  H2  1  0.77191100  0.17491800  0.77191100  1
+  H  H3  1  0.22808900  0.22808900  0.82508200  1
+  H  H4  1  0.82508200  0.22808900  0.22808900  1
+  H  H5  1  0.22808900  0.82508200  0.22808900  1
+  Cl  Cl0  1  0.81163700  0.81163700  0.81163700  1
+  Cl  Cl1  1  0.18836300  0.18836300  0.18836300  1
+  O  O0  1  0.73033400  0.35559300  0.73033400  1
+  O  O1  1  0.73033400  0.73033400  0.35559300  1
+  O  O2  1  0.35559300  0.73033400  0.73033400  1
+  O  O3  1  0.26966600  0.64440700  0.26966600  1
+  O  O4  1  0.26966600  0.26966600  0.64440700  1
+  O  O5  1  0.64440700  0.26966600  0.26966600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O3 2.102100 1_555
+Cu0 O5 2.102100 1_555
+Cu0 O2 2.102100 1_555
+Cu0 O0 2.102100 1_555
+Cu0 O4 2.102100 1_555
+Cu0 O1 2.102100 1_555
+Cu1 O0 1.993447 1_554
+Cu1 O2 1.993447 1_554
+Cu1 O5 1.993447 1_555
+Cu1 O3 1.993447 1_555
+Cu2 O1 1.993446 1_455
+Cu2 O4 1.993446 1_555
+Cu2 O0 1.993447 1_455
+Cu2 O3 1.993447 1_555
+Cu3 O1 1.993446 1_545
+Cu3 O4 1.993446 1_555
+Cu3 O2 1.993447 1_545
+Cu3 O5 1.993447 1_555
+H0 O1 0.997469 1_555
+H1 O2 0.997469 1_555
+H2 O0 0.997469 1_555
+H3 O4 0.997469 1_555
+H4 O5 0.997469 1_555
+H5 O3 0.997469 1_555
+Cl0 H0 2.084549 1_556
+Cl0 H2 2.084549 1_565
+Cl0 H1 2.084549 1_655
+Cl0 Cu3 2.847475 1_565
+Cl0 Cu2 2.847475 1_655
+Cl0 Cu1 2.847475 1_556
+Cl1 H3 2.084549 1_554
+Cl1 H5 2.084549 1_545
+Cl1 H4 2.084549 1_455
+Cl1 Cu2 2.847475 1_555
+Cl1 Cu3 2.847475 1_555
+Cl1 Cu1 2.847475 1_555

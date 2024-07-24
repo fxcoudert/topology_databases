@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Eu(GaS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99203552
+_cell_length_b   5.99203552
+_cell_length_c   10.42148592
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.63723800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(GaS2)2
+_chemical_formula_sum   'Eu2 Ga4 S8'
+_cell_volume   325.22580000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000000  0.50000000  0.75000000  1
+  Eu  Eu1  1  0.50000000  0.50000000  0.25000000  1
+  Ga  Ga0  1  0.76455779  0.23781717  0.50000000  1
+  Ga  Ga1  1  0.23544221  0.76218283  0.50000000  1
+  Ga  Ga2  1  0.76218283  0.23544221  0.00000000  1
+  Ga  Ga3  1  0.23781717  0.76455779  0.00000000  1
+  S  S0  1  0.35319980  0.18446806  0.50000000  1
+  S  S1  1  0.64680020  0.81553194  0.50000000  1
+  S  S2  1  0.81553194  0.64680020  0.00000000  1
+  S  S3  1  0.18446806  0.35319980  0.00000000  1
+  S  S4  1  0.50000000  0.00000000  0.83407616  1
+  S  S5  1  -0.00000000  0.50000000  0.66592384  1
+  S  S6  1  0.50000000  0.00000000  0.16592384  1
+  S  S7  1  -0.00000000  0.50000000  0.33407616  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 S2 3.080836 1_556
+Eu0 S3 3.080836 1_556
+Eu0 S0 3.080836 1_555
+Eu0 S1 3.080836 1_555
+Eu0 S4 3.121513 1_555
+Eu0 S5 3.121513 1_555
+Eu0 S4 3.121513 1_565
+Eu0 S5 3.121513 1_655
+Eu1 S2 3.080836 1_555
+Eu1 S0 3.080836 1_555
+Eu1 S1 3.080836 1_555
+Eu1 S3 3.080836 1_555
+Eu1 S7 3.121513 1_555
+Eu1 S6 3.121513 1_565
+Eu1 S7 3.121513 1_655
+Eu1 S6 3.121513 1_555
+Ga0 S1 2.265993 1_545
+Ga0 S7 2.292686 1_655
+Ga0 S5 2.292686 1_655
+Ga0 S0 2.323466 1_555
+Ga1 S0 2.265993 1_565
+Ga1 S7 2.292686 1_555
+Ga1 S5 2.292686 1_555
+Ga1 S1 2.323466 1_555
+Ga2 S3 2.265993 1_655
+Ga2 S6 2.292686 1_555
+Ga2 S4 2.292686 1_554
+Ga2 S2 2.323466 1_555
+Ga3 S2 2.265993 1_455
+Ga3 S6 2.292686 1_565
+Ga3 S4 2.292686 1_564
+Ga3 S3 2.323466 1_555

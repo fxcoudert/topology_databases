@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_DySnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46703689
+_cell_length_b   7.46703689
+_cell_length_c   4.01206803
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySnPt
+_chemical_formula_sum   'Dy3 Sn3 Pt3'
+_cell_volume   193.72939114
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.40568258  0.40568258  0.50000000  1
+  Dy  Dy1  1  0.59431742  -0.00000000  0.50000000  1
+  Dy  Dy2  1  -0.00000000  0.59431742  0.50000000  1
+  Sn  Sn0  1  0.74121945  0.74121945  -0.00000000  1
+  Sn  Sn1  1  0.25878055  -0.00000000  0.00000000  1
+  Sn  Sn2  1  -0.00000000  0.25878055  0.00000000  1
+  Pt  Pt0  1  0.66666700  0.33333300  -0.00000000  1
+  Pt  Pt1  1  0.33333300  0.66666700  -0.00000000  1
+  Pt  Pt2  1  -0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 Pt0 3.027635 1_556
+Dy0 Pt0 3.027635 1_555
+Dy0 Pt1 3.027635 1_555
+Dy0 Pt1 3.027635 1_556
+Dy0 Pt2 3.029247 1_555
+Dy0 Sn0 3.209600 1_556
+Dy0 Sn0 3.209600 1_555
+Dy0 Sn2 3.328798 1_555
+Dy0 Sn2 3.328798 1_556
+Dy0 Sn1 3.328798 1_555
+Dy0 Sn1 3.328798 1_556
+Dy1 Pt0 3.027630 1_555
+Dy1 Pt0 3.027630 1_556
+Dy1 Pt1 3.027632 1_546
+Dy1 Pt1 3.027632 1_545
+Dy1 Pt2 3.029247 1_655
+Dy1 Sn1 3.209600 1_555
+Dy1 Sn1 3.209600 1_556
+Dy1 Sn2 3.328798 1_655
+Dy1 Sn2 3.328798 1_656
+Dy1 Sn0 3.328798 1_545
+Dy1 Sn0 3.328798 1_546
+Dy2 Pt1 3.027630 1_555
+Dy2 Pt1 3.027630 1_556
+Dy2 Pt0 3.027632 1_455
+Dy2 Pt0 3.027632 1_456
+Dy2 Pt2 3.029247 1_565
+Dy2 Sn2 3.209600 1_556
+Dy2 Sn2 3.209600 1_555
+Dy2 Sn1 3.328798 1_565
+Dy2 Sn1 3.328798 1_566
+Dy2 Sn0 3.328798 1_456
+Dy2 Sn0 3.328798 1_455
+Pt0 Sn2 2.809033 1_655
+Pt0 Sn1 2.809038 1_555
+Pt0 Sn0 2.809040 1_555
+Pt1 Sn1 2.809033 1_565
+Pt1 Sn2 2.809038 1_555
+Pt1 Sn0 2.809040 1_555
+Pt2 Sn0 2.785327 1_446
+Pt2 Sn0 2.785327 1_445
+Pt2 Sn2 2.785327 1_555
+Pt2 Sn1 2.785327 1_555
+Pt2 Sn2 2.785327 1_556
+Pt2 Sn1 2.785327 1_556

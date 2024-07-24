@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Na2ZnS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84792872
+_cell_length_b   6.38108091
+_cell_length_c   7.05382095
+_cell_angle_alpha   116.89223487
+_cell_angle_beta   114.48923042
+_cell_angle_gamma   89.99999251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnS2
+_chemical_formula_sum   'Na4 Zn2 S4'
+_cell_volume   207.85864459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14176644  0.48938942  0.28353187  1
+  Na  Na1  1  0.85823356  0.51061058  0.71646813  1
+  Na  Na2  1  0.35823356  0.20585754  0.71646813  1
+  Na  Na3  1  0.64176644  0.79414246  0.28353187  1
+  Zn  Zn0  1  0.25000000  -0.00000000  0.00000000  1
+  Zn  Zn1  1  0.75000000  -0.00000000  0.00000000  1
+  S  S0  1  0.61166621  0.32567443  0.22333341  1
+  S  S1  1  0.38833379  0.67432557  0.77666659  1
+  S  S2  1  0.88833379  0.10234201  0.77666659  1
+  S  S3  1  0.11166621  0.89765799  0.22333341  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S1 2.774875 1_555
+Na0 S3 2.817287 1_555
+Na0 S2 2.949276 1_454
+Na0 S0 3.064134 1_555
+Na0 S0 3.064146 1_455
+Na1 S0 2.774875 1_555
+Na1 S2 2.817287 1_555
+Na1 S3 2.949276 1_656
+Na1 S1 3.064134 1_555
+Na1 S1 3.064146 1_655
+Na2 S3 2.774876 1_545
+Na2 S1 2.817293 1_555
+Na2 S0 2.949278 1_556
+Na2 S2 3.064133 1_455
+Na2 S2 3.064144 1_555
+Na3 S2 2.774876 1_565
+Na3 S0 2.817293 1_555
+Na3 S1 2.949278 1_554
+Na3 S3 3.064133 1_655
+Na3 S3 3.064144 1_555
+S0 Zn0 2.355806 1_555
+S0 Zn1 2.355809 1_555
+S1 Zn1 2.355806 1_566
+S1 Zn0 2.355809 1_566
+S2 Zn0 2.355809 1_656
+S2 Zn1 2.355813 1_556
+S3 Zn1 2.355809 1_465
+S3 Zn0 2.355813 1_565

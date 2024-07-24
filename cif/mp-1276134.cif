@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_V2FeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06343034
+_cell_length_b   6.07253382
+_cell_length_c   6.03949065
+_cell_angle_alpha   120.33267517
+_cell_angle_beta   90.47603378
+_cell_angle_gamma   119.25482085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2FeO4
+_chemical_formula_sum   'V4 Fe2 O8'
+_cell_volume   157.55211904
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.99764400  0.49556000  0.99314400  1
+  V  V1  1  0.99954500  0.50079800  0.49999500  1
+  V  V2  1  0.00187500  0.99709900  0.49881800  1
+  V  V3  1  0.49874800  0.00022600  0.49985100  1
+  Fe  Fe0  1  0.37893100  0.25232100  0.13157600  1
+  Fe  Fe1  1  0.62130500  0.75090000  0.87130900  1
+  O  O0  1  0.23422200  0.49359500  0.73995900  1
+  O  O1  1  0.24875200  0.51241800  0.26107400  1
+  O  O2  1  0.25049000  0.97870400  0.72989500  1
+  O  O3  1  0.25431900  0.99367700  0.25963700  1
+  O  O4  1  0.75128700  0.02258400  0.27350900  1
+  O  O5  1  0.74621400  0.00628200  0.73994400  1
+  O  O6  1  0.76602000  0.50595500  0.26020900  1
+  O  O7  1  0.75064800  0.48987900  0.74108100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O1 1.926258 1_555
+Fe0 O6 1.926777 1_555
+Fe0 O3 1.926839 1_545
+Fe0 O2 1.971053 1_544
+Fe1 O0 1.926685 1_555
+Fe1 O7 1.926691 1_555
+Fe1 O5 1.926869 1_565
+Fe1 O4 1.973076 1_566
+O0 V1 2.053690 1_455
+O0 V0 2.104942 1_455
+O0 V2 2.138993 1_545
+O1 V1 2.098868 1_455
+O1 V3 2.100583 1_565
+O1 V0 2.141626 1_454
+O2 V3 2.058920 1_565
+O2 V1 2.060162 1_455
+O2 V2 2.125949 1_555
+O3 V3 2.037464 1_565
+O3 V2 2.113666 1_555
+O3 V0 2.145250 1_454
+O4 V3 2.061765 1_555
+O4 V1 2.061840 1_555
+O4 V2 2.142992 1_645
+O5 V3 2.052193 1_555
+O5 V0 2.106032 1_555
+O5 V2 2.137031 1_645
+O6 V1 2.039177 1_555
+O6 V2 2.114928 1_655
+O6 V0 2.144631 1_554
+O7 V0 2.102426 1_555
+O7 V1 2.106716 1_555
+O7 V3 2.108416 1_555

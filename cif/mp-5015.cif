@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_UAlRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81965074
+_cell_length_b   6.81965074
+_cell_length_c   4.18177800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UAlRh
+_chemical_formula_sum   'U3 Al3 Rh3'
+_cell_volume   168.42860070
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.57411400  0.00000000  0.50000000  1
+  U  U1  1  0.42588600  0.42588600  0.50000000  1
+  U  U2  1  0.00000000  0.57411400  0.50000000  1
+  Al  Al0  1  0.23451900  0.00000000  0.00000000  1
+  Al  Al1  1  0.76548100  0.76548100  0.00000000  1
+  Al  Al2  1  0.00000000  0.23451900  0.00000000  1
+  Rh  Rh0  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh1  1  0.33333300  0.66666700  0.00000000  1
+  Rh  Rh2  1  0.66666700  0.33333300  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Rh0 2.632432 1_554
+Al0 Rh0 2.632432 1_555
+Al0 Rh1 2.674599 1_545
+Al0 Rh2 2.674604 1_555
+Al1 Rh0 2.632432 1_664
+Al1 Rh0 2.632432 1_665
+Al1 Rh1 2.674606 1_555
+Al1 Rh2 2.674606 1_555
+Al2 Rh0 2.632432 1_554
+Al2 Rh0 2.632432 1_555
+Al2 Rh2 2.674599 1_455
+Al2 Rh1 2.674604 1_555
+Rh0 U1 2.904393 1_555
+Rh0 U0 2.904394 1_455
+Rh0 U2 2.904394 1_545
+Rh1 U2 2.915974 1_555
+Rh1 U2 2.915974 1_554
+Rh1 U0 2.915975 1_564
+Rh1 U0 2.915975 1_565
+Rh1 U1 2.915978 1_554
+Rh1 U1 2.915978 1_555
+Rh2 U0 2.915974 1_555
+Rh2 U0 2.915974 1_554
+Rh2 U2 2.915975 1_655
+Rh2 U2 2.915975 1_654
+Rh2 U1 2.915978 1_554
+Rh2 U1 2.915978 1_555

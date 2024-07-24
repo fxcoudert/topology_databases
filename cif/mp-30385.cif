@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Ho2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92128578
+_cell_length_b   7.05105613
+_cell_length_c   8.82328982
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00017434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Au
+_chemical_formula_sum   'Ho8 Au4'
+_cell_volume   306.17047081
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.24999977  0.98798662  0.67521106  1
+  Ho  Ho1  1  0.75000023  0.01201338  0.32478894  1
+  Ho  Ho2  1  0.24999977  0.48798662  0.82478894  1
+  Ho  Ho3  1  0.75000023  0.51201338  0.17521106  1
+  Ho  Ho4  1  0.74999999  0.14765162  0.91690509  1
+  Ho  Ho5  1  0.25000001  0.85234838  0.08309491  1
+  Ho  Ho6  1  0.74999999  0.64765162  0.58309491  1
+  Ho  Ho7  1  0.25000001  0.35234838  0.41690509  1
+  Au  Au0  1  0.25000036  0.75772069  0.40412834  1
+  Au  Au1  1  0.74999964  0.24227931  0.59587166  1
+  Au  Au2  1  0.25000036  0.25772069  0.09587166  1
+  Au  Au3  1  0.74999964  0.74227931  0.90412834  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Ho7 2.860525 1_555
+Au0 Ho0 2.890855 1_555
+Au0 Ho5 2.910094 1_555
+Au0 Ho6 3.024991 1_455
+Au0 Ho6 3.024992 1_555
+Au0 Ho1 3.124059 1_565
+Au0 Ho1 3.124069 1_465
+Au1 Ho6 2.860525 1_555
+Au1 Ho1 2.890855 1_555
+Au1 Ho4 2.910094 1_555
+Au1 Ho7 3.024991 1_655
+Au1 Ho7 3.024992 1_555
+Au1 Ho0 3.124059 1_545
+Au1 Ho0 3.124069 1_645
+Au2 Ho5 2.860525 1_545
+Au2 Ho2 2.890855 1_554
+Au2 Ho7 2.910094 1_555
+Au2 Ho4 3.024991 1_454
+Au2 Ho4 3.024992 1_554
+Au2 Ho3 3.124059 1_555
+Au2 Ho3 3.124069 1_455
+Au3 Ho4 2.860525 1_565
+Au3 Ho3 2.890855 1_556
+Au3 Ho6 2.910094 1_555
+Au3 Ho5 3.024991 1_656
+Au3 Ho5 3.024992 1_556
+Au3 Ho2 3.124059 1_555
+Au3 Ho2 3.124069 1_655

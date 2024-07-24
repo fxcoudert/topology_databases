@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_FeNiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53734200
+_cell_length_b   5.47688500
+_cell_length_c   5.52387213
+_cell_angle_alpha   89.62528421
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNiS4
+_chemical_formula_sum   'Fe2 Ni2 S8'
+_cell_volume   167.52101608
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni0  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.89289700  0.88116100  0.60457400  1
+  S  S1  1  0.39289700  0.11883900  0.89542600  1
+  S  S2  1  0.11877100  0.60609300  0.11905300  1
+  S  S3  1  0.61877100  0.39390700  0.38094700  1
+  S  S4  1  0.10710300  0.11883900  0.39542600  1
+  S  S5  1  0.60710300  0.88116100  0.10457400  1
+  S  S6  1  0.88122900  0.39390700  0.88094700  1
+  S  S7  1  0.38122900  0.60609300  0.61905300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 S1 2.249256 1_554
+Fe0 S5 2.249256 1_555
+Fe0 S3 2.276458 1_555
+Fe0 S7 2.276458 1_554
+Fe0 S2 2.287228 1_555
+Fe0 S6 2.287228 1_554
+Fe1 S0 2.249256 1_455
+Fe1 S4 2.249256 1_555
+Fe1 S2 2.276458 1_555
+Fe1 S6 2.276458 1_455
+Fe1 S7 2.287228 1_555
+Fe1 S3 2.287228 1_455
+Ni0 S4 2.342147 1_555
+Ni0 S0 2.342147 1_545
+Ni0 S7 2.345371 1_545
+Ni0 S3 2.345371 1_555
+Ni0 S5 2.359034 1_545
+Ni0 S1 2.359034 1_555
+Ni1 S1 2.342147 1_554
+Ni1 S5 2.342147 1_445
+Ni1 S6 2.345371 1_454
+Ni1 S2 2.345371 1_545
+Ni1 S4 2.359034 1_555
+Ni1 S0 2.359034 1_444
+S0 S4 2.101544 1_665
+S1 S5 2.101544 1_546
+S2 S6 2.197860 1_454
+S3 S7 2.197860 1_555

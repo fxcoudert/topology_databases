@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CrNiPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29651140
+_cell_length_b   5.29651968
+_cell_length_c   7.09701921
+_cell_angle_alpha   68.35010804
+_cell_angle_beta   68.35013764
+_cell_angle_gamma   90.13740438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrNiPO5
+_chemical_formula_sum   'Cr2 Ni2 P2 O10'
+_cell_volume   169.76910704
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.49999759  0.49999944  0.00000437  1
+  Cr  Cr1  1  0.99999661  0.99999954  0.50000431  1
+  Ni  Ni0  1  0.50000584  0.00000356  0.49999517  1
+  Ni  Ni1  1  0.49999558  0.00000731  0.99998933  1
+  P  P0  1  0.87725380  0.62275897  0.24996532  1
+  P  P1  1  0.12273075  0.37724425  0.75003661  1
+  O  O0  1  0.63602843  0.86394447  0.75000943  1
+  O  O1  1  0.36396644  0.13605942  0.24998526  1
+  O  O2  1  0.31208304  0.32125595  0.87467828  1
+  O  O3  1  0.82125082  0.81206117  0.37470129  1
+  O  O4  1  0.68792871  0.67874866  0.12532190  1
+  O  O5  1  0.17875266  0.18792132  0.62530750  1
+  O  O6  1  0.80972498  0.31541523  0.39940542  1
+  O  O7  1  0.81543727  0.30972344  0.89938260  1
+  O  O8  1  0.19028237  0.68457923  0.60059342  1
+  O  O9  1  0.18456610  0.69027905  0.10062078  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 O1 1.977145 1_555
+Cr0 O0 1.977202 1_554
+Cr0 O2 1.986955 1_554
+Cr0 O4 1.986984 1_555
+Cr0 O9 1.993895 1_555
+Cr0 O7 1.993922 1_554
+Cr1 O0 1.977313 1_555
+Cr1 O1 1.977359 1_665
+Cr1 O5 1.986892 1_665
+Cr1 O3 1.986914 1_555
+Cr1 O6 1.993779 1_565
+Cr1 O8 1.993828 1_655
+Ni0 O0 2.046689 1_545
+Ni0 O1 2.046722 1_555
+Ni0 O5 2.054615 1_555
+Ni0 O3 2.054631 1_545
+Ni0 O6 2.057733 1_555
+Ni0 O8 2.057779 1_545
+Ni1 O0 2.046618 1_545
+Ni1 O1 2.046678 1_556
+Ni1 O2 2.054579 1_555
+Ni1 O4 2.054732 1_546
+Ni1 O9 2.057756 1_546
+Ni1 O7 2.057801 1_555
+O2 P1 1.529288 1_555
+O3 P0 1.529559 1_555
+O4 P0 1.529172 1_555
+O5 P1 1.529616 1_555
+O6 P0 1.531686 1_555
+O7 P1 1.531328 1_655
+O8 P1 1.531650 1_555
+O9 P0 1.531406 1_455

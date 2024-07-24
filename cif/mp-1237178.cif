@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Hf3NiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82183954
+_cell_length_b   4.95137311
+_cell_length_c   12.05836487
+_cell_angle_alpha   90.70131472
+_cell_angle_beta   86.46719308
+_cell_angle_gamma   133.25539138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3NiF6
+_chemical_formula_sum   'Hf3 Ni1 F6'
+_cell_volume   295.82432016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.50000000  1
+  Hf  Hf1  1  0.50000000  0.50000000  0.00000000  1
+  Hf  Hf2  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  F  F0  1  0.05876900  0.55964600  0.84017700  1
+  F  F1  1  0.94123100  0.44035400  0.15982300  1
+  F  F2  1  0.92430800  0.91528800  0.65667200  1
+  F  F3  1  0.07569200  0.08471200  0.34332800  1
+  F  F4  1  0.51847100  0.58130200  0.84247300  1
+  F  F5  1  0.48152900  0.41869800  0.15752700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf1 Ni0 2.488044 1_555
+Hf1 Ni0 2.488044 1_665
+Hf2 Ni0 2.475687 1_565
+Hf2 Ni0 2.475687 1_555
+F0 Hf2 1.928344 1_556
+F1 Hf2 1.928344 1_655
+F2 Hf0 1.901056 1_665
+F3 Hf0 1.901056 1_555
+F4 Hf1 1.925046 1_556
+F5 Hf1 1.925046 1_555

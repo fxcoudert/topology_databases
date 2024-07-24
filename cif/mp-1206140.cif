@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sm2(SiPt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.83584411
+_cell_length_b   2.83584411
+_cell_length_c   20.45220474
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2(SiPt)3
+_chemical_formula_sum   'Sm2 Si3 Pt3'
+_cell_volume   164.47687219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50000000  0.50000000  0.75292587  1
+  Sm  Sm1  1  0.50000000  0.50000000  0.24707413  1
+  Si  Si0  1  0.50000000  0.50000000  0.38680215  1
+  Si  Si1  1  0.50000000  0.50000000  0.61319785  1
+  Si  Si2  1  0.50000000  0.50000000  -0.00000000  1
+  Pt  Pt0  1  0.50000000  0.50000000  0.11142491  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.88857509  1
+  Pt  Pt2  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Sm1 2.857746 1_555
+Si1 Sm0 2.857746 1_555
+Pt0 Si2 2.278885 1_555
+Pt0 Sm1 2.774326 1_555
+Pt1 Si2 2.278885 1_556
+Pt1 Sm0 2.774326 1_555
+Pt2 Si0 2.315146 1_555
+Pt2 Si1 2.315146 1_555

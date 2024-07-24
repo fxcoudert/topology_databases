@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_LiNi3OF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13350226
+_cell_length_b   5.55190009
+_cell_length_c   5.18146456
+_cell_angle_alpha   118.67663424
+_cell_angle_beta   59.83312889
+_cell_angle_gamma   117.11125580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi3OF5
+_chemical_formula_sum   'Li1 Ni3 O1 F5'
+_cell_volume   107.43909100
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.15683500  0.43952600  0.16377400  1
+  Ni  Ni0  1  0.36430700  0.02756800  0.33090200  1
+  Ni  Ni1  1  0.65500900  0.95105000  0.62776900  1
+  Ni  Ni2  1  0.83509800  0.56437500  0.87362300  1
+  O  O0  1  0.54663400  0.75062100  0.25601700  1
+  F  F0  1  0.06083900  0.24805600  0.45182300  1
+  F  F1  1  0.25182900  0.76130200  0.93330000  1
+  F  F2  1  0.75236200  0.25180000  0.05313200  1
+  F  F3  1  0.44208600  0.25702700  0.74808400  1
+  F  F4  1  0.93500100  0.74867700  0.56157800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.057814 1_555
+Ni0 O0 1.940328 1_545
+Ni1 O0 1.927111 1_555
+Ni2 O0 1.915290 1_556
+F0 Li0 1.976482 1_555
+F0 Ni1 2.072010 1_445
+F0 Ni0 2.083028 1_555
+F0 Ni2 2.197601 1_455
+F1 Ni2 2.018937 1_455
+F1 Ni1 2.054251 1_555
+F1 Ni0 2.063416 1_566
+F1 Li0 2.350221 1_556
+F2 Ni0 2.041408 1_555
+F2 Li0 2.092056 1_655
+F2 Ni2 2.130110 1_554
+F2 Ni1 2.170244 1_544
+F3 Li0 1.974340 1_556
+F3 Ni0 2.053258 1_555
+F3 Ni1 2.111940 1_545
+F3 Ni2 2.126306 1_555
+F4 Ni1 2.013104 1_555
+F4 Ni2 2.049469 1_555
+F4 Li0 2.125650 1_655
+F4 Ni0 2.168311 1_665

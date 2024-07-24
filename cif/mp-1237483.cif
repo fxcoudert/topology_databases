@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Mg4Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89967685
+_cell_length_b   13.50626372
+_cell_length_c   14.92678783
+_cell_angle_alpha   144.23993774
+_cell_angle_beta   37.15117885
+_cell_angle_gamma   134.11819792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg4Si3
+_chemical_formula_sum   'Mg8 Si6'
+_cell_volume   556.55092560
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25951800  0.61629900  0.20723000  1
+  Mg  Mg1  1  0.64203700  0.09731800  0.92053000  1
+  Mg  Mg2  1  0.64203800  0.59731600  0.42052900  1
+  Mg  Mg3  1  0.03656000  0.50978400  0.65088300  1
+  Mg  Mg4  1  0.41906400  0.49083200  0.86419000  1
+  Mg  Mg5  1  0.41906400  0.99083200  0.36419000  1
+  Mg  Mg6  1  0.25951800  0.11629900  0.70723000  1
+  Mg  Mg7  1  0.03656100  0.00978300  0.15088200  1
+  Si  Si0  1  0.33939500  0.30363300  0.28565900  1
+  Si  Si1  1  0.93637200  0.37036400  0.06504100  1
+  Si  Si2  1  0.33939700  0.80363300  0.78565800  1
+  Si  Si3  1  0.74213400  0.23672500  0.50641500  1
+  Si  Si4  1  0.74213400  0.73672600  0.00641500  1
+  Si  Si5  1  0.93637200  0.87036400  0.56504100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Si4 2.688409 1_555
+Mg0 Si1 2.728384 1_455
+Mg0 Si5 2.745007 1_455
+Mg1 Si1 2.608781 1_556
+Mg1 Si5 2.610902 1_545
+Mg1 Si2 2.647964 1_545
+Mg1 Si0 2.653564 1_556
+Mg2 Si5 2.608785 1_555
+Mg2 Si1 2.610891 1_555
+Mg2 Si0 2.647960 1_555
+Mg2 Si2 2.653564 1_555
+Mg3 Si3 2.608959 1_455
+Mg3 Si4 2.611179 1_456
+Mg3 Si2 2.648867 1_555
+Mg3 Si0 2.654219 1_555
+Mg4 Si1 2.689019 1_456
+Mg4 Si4 2.728283 1_556
+Mg4 Si3 2.744936 1_555
+Mg5 Si5 2.689019 1_455
+Mg5 Si3 2.728284 1_565
+Mg5 Si4 2.744932 1_555
+Mg6 Si3 2.688402 1_555
+Mg6 Si5 2.728384 1_445
+Mg6 Si1 2.745007 1_456
+Mg7 Si4 2.608954 1_445
+Mg7 Si3 2.611185 1_455
+Mg7 Si0 2.648867 1_555
+Mg7 Si2 2.654219 1_544

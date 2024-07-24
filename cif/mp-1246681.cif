@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_GaMoN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.50312458
+_cell_length_b   5.88570007
+_cell_length_c   9.48343573
+_cell_angle_alpha   123.11594158
+_cell_angle_beta   108.05698496
+_cell_angle_gamma   117.09233012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaMoN3
+_chemical_formula_sum   'Ga4 Mo4 N12'
+_cell_volume   344.57439650
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.67929900  0.83281400  0.46179600  1
+  Ga  Ga1  1  0.32070100  0.16718600  0.53820400  1
+  Ga  Ga2  1  0.64062000  0.34116300  0.58243600  1
+  Ga  Ga3  1  0.35938000  0.65883700  0.41756400  1
+  Mo  Mo0  1  0.91033600  0.71568800  0.64150200  1
+  Mo  Mo1  1  0.08966400  0.28431200  0.35849800  1
+  Mo  Mo2  1  0.66886200  0.72493100  0.06081000  1
+  Mo  Mo3  1  0.33113800  0.27506900  0.93919000  1
+  N  N0  1  0.74333800  0.70028200  0.57948200  1
+  N  N1  1  0.25666200  0.29971800  0.42051800  1
+  N  N2  1  0.81549600  0.30313500  0.32483600  1
+  N  N3  1  0.18450400  0.69686500  0.67516400  1
+  N  N4  1  0.85312300  0.45348500  0.69926600  1
+  N  N5  1  0.14687700  0.54651500  0.30073400  1
+  N  N6  1  0.52978800  0.31271400  0.68153900  1
+  N  N7  1  0.47021200  0.68728600  0.31846100  1
+  N  N8  1  0.84286400  0.77437400  0.11925800  1
+  N  N9  1  0.15713600  0.22562600  0.88074200  1
+  N  N10  1  0.41037700  0.47484000  0.85826400  1
+  N  N11  1  0.58962300  0.52516000  0.14173600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 N0 1.860469 1_555
+Ga0 N11 1.945343 1_555
+Ga0 N4 1.971050 1_565
+Ga0 N7 1.975077 1_555
+Ga1 N1 1.860469 1_555
+Ga1 N10 1.945343 1_555
+Ga1 N5 1.971050 1_545
+Ga1 N6 1.975077 1_555
+Ga2 N6 1.897262 1_555
+Ga2 N0 1.931895 1_555
+Ga2 N7 2.077298 1_545
+Ga2 N4 2.121045 1_555
+Ga3 N7 1.897262 1_555
+Ga3 N1 1.931895 1_555
+Ga3 N6 2.077298 1_565
+Ga3 N5 2.121045 1_555
+Mo0 N4 1.831541 1_555
+Mo0 N9 1.860402 1_665
+Mo0 N2 1.876877 1_555
+Mo0 N0 1.929208 1_555
+Mo1 N5 1.831541 1_555
+Mo1 N8 1.860402 1_445
+Mo1 N3 1.876877 1_555
+Mo1 N1 1.929208 1_555
+Mo2 N11 1.830118 1_555
+Mo2 N2 1.836439 1_565
+Mo2 N8 1.903823 1_555
+Mo2 N6 2.142860 1_554
+Mo2 N10 2.242840 1_554
+Mo3 N10 1.830118 1_555
+Mo3 N3 1.836439 1_545
+Mo3 N9 1.903823 1_555
+Mo3 N7 2.142860 1_556
+Mo3 N11 2.242840 1_556

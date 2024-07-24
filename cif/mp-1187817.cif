@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_UTc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00123600
+_cell_length_b   6.00123751
+_cell_length_c   4.25286400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UTc3
+_chemical_formula_sum   'U2 Tc6'
+_cell_volume   132.64584051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.33333300  0.66666600  0.75000000  1
+  U  U1  1  0.66666500  0.33333100  0.25000100  1
+  Tc  Tc0  1  0.17143000  0.34286100  0.25000100  1
+  Tc  Tc1  1  0.65714000  0.82856900  0.25000100  1
+  Tc  Tc2  1  0.17142900  0.82856900  0.25000100  1
+  Tc  Tc3  1  0.82856900  0.65713900  0.75000000  1
+  Tc  Tc4  1  0.34286100  0.17143000  0.75000000  1
+  Tc  Tc5  1  0.82857000  0.17143000  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tc0 U0 2.711790 1_555
+Tc0 U0 2.711796 1_554
+Tc0 Tc5 2.774335 1_455
+Tc0 Tc5 2.774341 1_454
+Tc0 Tc4 2.774342 1_555
+Tc0 Tc4 2.774348 1_554
+Tc0 Tc2 2.914852 1_555
+Tc0 Tc1 2.914855 1_555
+Tc0 U1 3.001027 1_455
+Tc0 U1 3.001027 1_555
+Tc0 Tc1 3.086382 1_445
+Tc0 Tc2 3.086385 1_545
+Tc1 U0 2.711796 1_555
+Tc1 U0 2.711803 1_554
+Tc1 Tc3 2.774332 1_555
+Tc1 Tc3 2.774338 1_554
+Tc1 Tc5 2.774338 1_565
+Tc1 Tc5 2.774345 1_564
+Tc1 Tc2 2.914866 1_555
+Tc1 U1 3.001024 1_565
+Tc1 U1 3.001030 1_555
+Tc1 Tc2 3.086370 1_655
+Tc2 U0 2.711796 1_555
+Tc2 U0 2.711803 1_554
+Tc2 Tc3 2.774335 1_455
+Tc2 Tc4 2.774338 1_565
+Tc2 Tc3 2.774341 1_454
+Tc2 Tc4 2.774345 1_564
+Tc2 U1 3.001021 1_565
+Tc2 U1 3.001033 1_455
+Tc3 U1 2.711799 1_555
+Tc3 U1 2.711806 1_556
+Tc3 Tc4 2.914852 1_555
+Tc3 Tc5 2.914858 1_555
+Tc3 U0 3.001024 1_555
+Tc3 U0 3.001029 1_655
+Tc3 Tc5 3.086379 1_565
+Tc3 Tc4 3.086385 1_665
+Tc4 U1 2.711786 1_555
+Tc4 U1 2.711793 1_556
+Tc4 Tc5 2.914854 1_555
+Tc4 U0 3.001027 1_555
+Tc4 U0 3.001027 1_545
+Tc4 Tc5 3.086382 1_455
+Tc5 U1 2.711793 1_555
+Tc5 U1 2.711800 1_556
+Tc5 U0 3.001024 1_655
+Tc5 U0 3.001030 1_545

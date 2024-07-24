@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_MgV2(H2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99870927
+_cell_length_b   6.23476322
+_cell_length_c   6.32366468
+_cell_angle_alpha   63.73967914
+_cell_angle_beta   66.69431715
+_cell_angle_gamma   67.15178321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2(H2O3)2
+_chemical_formula_sum   'Mg1 V2 H4 O6'
+_cell_volume   125.42070335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.85712247  0.62296130  0.61874042  1
+  V  V0  1  0.51523296  0.22770160  0.74182563  1
+  V  V1  1  0.52933009  0.73883350  0.22970424  1
+  H  H0  1  0.52076590  0.17905131  0.16915448  1
+  H  H1  1  0.92961493  0.27099035  0.27701515  1
+  H  H2  1  0.33197999  0.85983140  0.89958990  1
+  H  H3  1  0.19078937  0.75559897  0.72279695  1
+  O  O0  1  -0.00174326  0.25772333  0.74982806  1
+  O  O1  1  0.60945244  0.83755377  0.84448280  1
+  O  O2  1  0.00885920  0.74928490  0.25438204  1
+  O  O3  1  0.36520036  0.12575882  0.12418121  1
+  O  O4  1  0.34072459  0.64300346  0.63000985  1
+  O  O5  1  0.67767596  0.35670627  0.36328628  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 1.973053 1_655
+Mg0 O2 1.989053 1_655
+Mg0 O4 1.993908 1_555
+Mg0 O4 2.016134 1_655
+Mg0 O1 2.085933 1_555
+H0 O3 0.980999 1_555
+H1 O5 1.001573 1_555
+H2 O1 0.994484 1_555
+H3 O4 0.977667 1_555
+O0 V0 1.983981 1_555
+O0 V0 2.033386 1_455
+O1 V0 2.136542 1_565
+O1 V1 2.150449 1_556
+O2 V1 2.001682 1_555
+O2 V1 2.012014 1_455
+O3 V1 2.094791 1_545
+O3 V0 2.097260 1_554
+O4 V1 2.198787 1_555
+O4 V0 2.249123 1_555
+O5 V1 2.063904 1_555
+O5 V0 2.066537 1_555

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_LiPrGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35369050
+_cell_length_b   7.35369002
+_cell_length_c   4.39756228
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrGe
+_chemical_formula_sum   'Li3 Pr3 Ge3'
+_cell_volume   205.94598480
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.76764682  0.76764682  0.50000000  1
+  Li  Li1  1  0.23235318  -0.00000000  0.50000000  1
+  Li  Li2  1  -0.00000000  0.23235318  0.50000000  1
+  Pr  Pr0  1  -0.00000000  0.58225638  0.00000000  1
+  Pr  Pr1  1  0.41774362  0.41774362  0.00000000  1
+  Pr  Pr2  1  0.58225638  -0.00000000  -0.00000000  1
+  Ge  Ge0  1  0.33333300  0.66666700  0.50000000  1
+  Ge  Ge1  1  0.66666700  0.33333300  0.50000000  1
+  Ge  Ge2  1  -0.00000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Li1 2.894849 1_565
+Ge0 Li2 2.894855 1_555
+Ge0 Li0 2.894857 1_555
+Ge0 Pr0 3.115592 1_556
+Ge0 Pr0 3.115592 1_555
+Ge0 Pr2 3.115593 1_565
+Ge0 Pr2 3.115593 1_566
+Ge0 Pr1 3.115597 1_555
+Ge0 Pr1 3.115597 1_556
+Ge1 Li2 2.894849 1_655
+Ge1 Li1 2.894855 1_555
+Ge1 Li0 2.894856 1_555
+Ge1 Pr2 3.115592 1_555
+Ge1 Pr2 3.115592 1_556
+Ge1 Pr0 3.115593 1_655
+Ge1 Pr0 3.115593 1_656
+Ge1 Pr1 3.115597 1_556
+Ge1 Pr1 3.115597 1_555
+Ge2 Li2 2.784625 1_554
+Ge2 Li2 2.784625 1_555
+Ge2 Li1 2.784625 1_554
+Ge2 Li1 2.784625 1_555
+Ge2 Li0 2.784625 1_444
+Ge2 Li0 2.784625 1_445
+Ge2 Pr0 3.071957 1_545
+Ge2 Pr2 3.071957 1_455
+Ge2 Pr1 3.071958 1_555

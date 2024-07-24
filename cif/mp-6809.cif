@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_CaSiSnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63706244
+_cell_length_b   5.63706244
+_cell_length_c   7.26657637
+_cell_angle_alpha   76.02259709
+_cell_angle_beta   76.02259709
+_cell_angle_gamma   105.86788517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiSnO5
+_chemical_formula_sum   'Ca2 Si2 Sn2 O10'
+_cell_volume   203.49316119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.83707600  0.16292400  0.75000000  1
+  Ca  Ca1  1  0.16292400  0.83707600  0.25000000  1
+  Si  Si0  1  0.81901800  0.18098200  0.25000000  1
+  Si  Si1  1  0.18098200  0.81901800  0.75000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn1  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.17718200  0.60496800  0.62802600  1
+  O  O1  1  0.39503200  0.82281800  0.87197400  1
+  O  O2  1  0.82281800  0.39503200  0.37197400  1
+  O  O3  1  0.60496800  0.17718200  0.12802600  1
+  O  O4  1  0.10888600  0.24005100  0.08909800  1
+  O  O5  1  0.75994900  0.89111400  0.41090200  1
+  O  O6  1  0.58861300  0.41138700  0.75000000  1
+  O  O7  1  0.41138700  0.58861300  0.25000000  1
+  O  O8  1  0.24005100  0.10888600  0.58909800  1
+  O  O9  1  0.89111400  0.75994900  0.91090200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O6 2.235195 1_555
+Ca0 O9 2.426394 1_545
+Ca0 O8 2.426394 1_655
+Ca0 O0 2.483990 1_655
+Ca0 O1 2.483990 1_545
+Ca0 O2 2.773457 1_555
+Ca0 O3 2.773457 1_556
+Ca1 O7 2.235195 1_555
+Ca1 O5 2.426394 1_455
+Ca1 O4 2.426394 1_565
+Ca1 O3 2.483990 1_565
+Ca1 O2 2.483990 1_455
+Ca1 O1 2.773457 1_554
+Ca1 O0 2.773457 1_555
+O0 Si1 1.659407 1_555
+O0 Sn0 2.136351 1_555
+O1 Si1 1.659407 1_555
+O1 Sn1 2.136351 1_556
+O2 Si0 1.659407 1_555
+O2 Sn0 2.136351 1_555
+O3 Si0 1.659407 1_555
+O3 Sn1 2.136351 1_555
+O4 Si0 1.655105 1_455
+O4 Sn1 2.124318 1_555
+O5 Si0 1.655105 1_565
+O5 Sn0 2.124318 1_555
+O6 Sn0 1.983854 1_555
+O6 Sn1 1.983854 1_556
+O7 Sn1 1.983854 1_555
+O7 Sn0 1.983854 1_555
+O8 Si1 1.655105 1_545
+O8 Sn0 2.124318 1_555
+O9 Si1 1.655105 1_655
+O9 Sn1 2.124318 1_556

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BiAsPbO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26666524
+_cell_length_b   7.26666524
+_cell_length_c   7.24256962
+_cell_angle_alpha   69.98597055
+_cell_angle_beta   69.98597055
+_cell_angle_gamma   45.53850979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiAsPbO5
+_chemical_formula_sum   'Bi2 As2 Pb2 O10'
+_cell_volume   253.45620589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.01348800  0.01348800  0.75011800  1
+  Bi  Bi1  1  0.98651200  0.98651200  0.24988200  1
+  As  As0  1  0.66485000  0.66485000  0.34829200  1
+  As  As1  1  0.33515000  0.33515000  0.65170800  1
+  Pb  Pb0  1  0.33785200  0.33785200  0.12014300  1
+  Pb  Pb1  1  0.66214800  0.66214800  0.87985700  1
+  O  O0  1  0.19830100  0.19830100  0.70490500  1
+  O  O1  1  0.88964800  0.39404800  0.22694600  1
+  O  O2  1  0.80169900  0.80169900  0.29509500  1
+  O  O3  1  0.59104100  0.59104100  0.59855200  1
+  O  O4  1  0.60595200  0.11035200  0.77305400  1
+  O  O5  1  0.39404800  0.88964800  0.22694600  1
+  O  O6  1  0.76389500  0.23610500  0.00000000  1
+  O  O7  1  0.23610500  0.76389500  0.00000000  1
+  O  O8  1  0.40895900  0.40895900  0.40144800  1
+  O  O9  1  0.11035200  0.60595200  0.77305400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 O7 2.197454 1_546
+Bi0 O6 2.197454 1_456
+Bi0 O0 2.374638 1_555
+Bi0 O9 2.473121 1_545
+Bi0 O4 2.473121 1_455
+Bi1 O6 2.197454 1_565
+Bi1 O7 2.197454 1_655
+Bi1 O2 2.374638 1_555
+Bi1 O1 2.473121 1_565
+Bi1 O5 2.473121 1_655
+As0 O3 1.712513 1_555
+As0 O2 1.728307 1_555
+As0 O5 1.735278 1_555
+As0 O1 1.735278 1_555
+As1 O8 1.712513 1_555
+As1 O0 1.728307 1_555
+As1 O4 1.735278 1_555
+As1 O9 1.735278 1_555
+O1 Pb1 2.797910 1_554
+O1 Pb0 2.828675 1_655
+O3 Pb1 2.549523 1_555
+O4 Pb0 2.797910 1_556
+O4 Pb1 2.828675 1_545
+O5 Pb1 2.797910 1_554
+O5 Pb0 2.828675 1_565
+O6 Pb1 2.505657 1_554
+O6 Pb0 2.505657 1_555
+O7 Pb1 2.505657 1_554
+O7 Pb0 2.505657 1_555
+O8 Pb0 2.549523 1_555
+O9 Pb0 2.797910 1_556
+O9 Pb1 2.828675 1_455

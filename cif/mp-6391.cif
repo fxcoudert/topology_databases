@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na2ZnSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22888939
+_cell_length_b   5.44494509
+_cell_length_c   6.95755264
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.21234888
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnSiO4
+_chemical_formula_sum   'Na4 Zn2 Si2 O8'
+_cell_volume   198.08722914
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.01285338  0.67591878  0.74726024  1
+  Na  Na1  1  0.50840477  0.81746025  0.99165738  1
+  Na  Na2  1  0.51285338  0.32408122  0.24726024  1
+  Na  Na3  1  0.00840477  0.18253975  0.49165738  1
+  Zn  Zn0  1  0.49951536  0.81229914  0.49795977  1
+  Zn  Zn1  1  0.99951536  0.18770086  0.99795977  1
+  Si  Si0  1  0.99556321  0.68714710  0.24527176  1
+  Si  Si1  1  0.49556321  0.31285290  0.74527176  1
+  O  O0  1  0.63340906  0.20895295  0.93987245  1
+  O  O1  1  0.13340906  0.79104705  0.43987245  1
+  O  O2  1  0.57763075  0.15836517  0.55279129  1
+  O  O3  1  0.07763075  0.84163483  0.05279229  1
+  O  O4  1  0.18611020  0.28957447  0.77171927  1
+  O  O5  1  0.07511229  0.39807199  0.21796582  1
+  O  O6  1  0.57511229  0.60192801  0.71796582  1
+  O  O7  1  0.68611020  0.71042553  0.27171927  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.296471 1_555
+Na0 O1 2.318236 1_555
+Na0 O6 2.332264 1_455
+Na0 O3 2.332895 1_556
+Na1 O7 2.233042 1_556
+Na1 O0 2.258928 1_565
+Na1 O6 2.264929 1_555
+Na1 O3 2.297601 1_556
+Na2 O7 2.296471 1_555
+Na2 O0 2.318236 1_554
+Na2 O5 2.332264 1_555
+Na2 O2 2.332888 1_555
+Na3 O4 2.233042 1_555
+Na3 O1 2.258928 1_545
+Na3 O5 2.264929 1_555
+Na3 O2 2.297600 1_455
+O0 Si1 1.632638 1_555
+O0 Zn1 1.958481 1_555
+O1 Si0 1.632638 1_455
+O1 Zn0 1.958481 1_555
+O2 Si1 1.639946 1_555
+O2 Zn0 1.965158 1_545
+O3 Si0 1.639940 1_455
+O3 Zn1 1.965159 1_464
+O4 Si1 1.634125 1_555
+O4 Zn1 1.936171 1_455
+O5 Si0 1.639258 1_455
+O5 Zn1 1.951127 1_454
+O6 Si1 1.639258 1_555
+O6 Zn0 1.951127 1_555
+O7 Si0 1.634125 1_555
+O7 Zn0 1.936171 1_555

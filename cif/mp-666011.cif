@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_K2Co(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58671000
+_cell_length_b   5.61024324
+_cell_length_c   7.05734133
+_cell_angle_alpha   112.95308072
+_cell_angle_beta   90.11577141
+_cell_angle_gamma   119.79314121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Co(SeO3)2
+_chemical_formula_sum   'K2 Co1 Se2 O6'
+_cell_volume   171.37414715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38895200  0.19491500  0.41671700  1
+  K  K1  1  0.61104800  0.80508500  0.58328300  1
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.73687100  0.36777500  0.89410400  1
+  Se  Se1  1  0.26312900  0.63222500  0.10589600  1
+  O  O0  1  0.02287100  0.27102800  0.22416800  1
+  O  O1  1  0.97712900  0.72897200  0.77583200  1
+  O  O2  1  0.97535600  0.24301400  0.78061500  1
+  O  O3  1  0.02464400  0.75698600  0.21938500  1
+  O  O4  1  0.51039000  0.75618400  0.22111100  1
+  O  O5  1  0.48961000  0.24381600  0.77888900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O3 2.113964 1_545
+K0 O5 2.493682 1_555
+K0 O4 2.727168 1_545
+K0 O0 2.742426 1_555
+K1 O2 2.113964 1_565
+K1 O4 2.493682 1_555
+K1 O5 2.727168 1_565
+K1 O1 2.742426 1_555
+Co0 O0 1.661649 1_555
+Co0 O1 1.661649 1_444
+Co0 O3 2.471221 1_545
+Co0 O2 2.471221 1_454
+O0 Se1 2.285932 1_555
+O1 Se0 2.285932 1_555
+O2 Se0 1.844002 1_555
+O2 Se1 2.282421 1_656
+O3 Se1 1.844002 1_555
+O3 Se0 2.282421 1_454
+O4 Se1 1.285595 1_555
+O5 Se0 1.285595 1_555

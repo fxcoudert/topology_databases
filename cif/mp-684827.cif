@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_CsNbNi(OF2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42994098
+_cell_length_b   7.38309790
+_cell_length_c   7.46356704
+_cell_angle_alpha   60.05599046
+_cell_angle_beta   59.84886255
+_cell_angle_gamma   60.50926002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNbNi(OF2)2
+_chemical_formula_sum   'Cs2 Nb2 Ni2 O4 F8'
+_cell_volume   290.38968676
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37400496  0.37599504  0.37400496  1
+  Cs  Cs1  1  0.63609563  0.61390437  0.63609563  1
+  Nb  Nb0  1  0.51615421  0.00871574  0.00059289  1
+  Nb  Nb1  1  0.00059289  0.97453716  0.51615421  1
+  Ni  Ni0  1  0.00107819  0.99829873  0.00001949  1
+  Ni  Ni1  1  0.00001949  0.50060359  0.00107819  1
+  O  O0  1  0.06526282  0.69104186  0.69260239  1
+  O  O1  1  0.69260239  0.05109293  0.06526282  1
+  O  O2  1  0.29262624  0.95737476  0.29262624  1
+  O  O3  1  0.68413294  0.06586706  0.68413294  1
+  F  F0  1  0.06978663  0.08167379  0.67042492  1
+  F  F1  1  0.07254417  0.67745583  0.07254417  1
+  F  F2  1  0.32625622  0.32838849  0.92148563  1
+  F  F3  1  0.67042492  0.67811567  0.06978663  1
+  F  F4  1  0.92072131  0.32093756  0.32136366  1
+  F  F5  1  0.32136366  0.93697748  0.92072131  1
+  F  F6  1  0.93484970  0.31515030  0.93484970  1
+  F  F7  1  0.92148563  0.92386866  0.32625622  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 F0 3.120676 1_555
+Cs0 F3 3.120681 1_555
+Cs0 F1 3.191867 1_555
+Cs0 O3 3.283635 1_555
+Cs0 O0 3.333982 1_555
+Cs0 O1 3.333982 1_555
+Cs1 F7 3.106402 1_555
+Cs1 F2 3.106407 1_555
+Cs1 F6 3.163208 1_555
+Cs1 F4 3.201111 1_555
+Cs1 F5 3.201111 1_555
+Nb0 O1 1.799959 1_555
+Nb0 O2 1.952240 1_545
+Nb0 O3 1.968923 1_554
+Nb1 O0 1.799959 1_555
+Nb1 O2 1.952241 1_555
+Nb1 O3 1.968923 1_465
+Ni0 O1 1.957258 1_465
+Ni1 O0 1.957258 1_554
+F0 Nb1 2.029774 1_545
+F0 Ni0 2.055979 1_546
+F1 Ni0 1.989098 1_555
+F1 Ni1 1.989098 1_555
+F2 Nb0 2.019112 1_556
+F2 Ni1 2.029307 1_556
+F3 Nb0 2.029768 1_565
+F3 Ni1 2.055981 1_655
+F4 Ni1 2.002531 1_655
+F4 Nb1 2.160359 1_645
+F5 Ni0 2.002531 1_556
+F5 Nb0 2.160359 1_566
+F6 Ni0 1.980506 1_646
+F6 Ni1 1.980506 1_656
+F7 Nb1 2.019117 1_655
+F7 Ni0 2.029306 1_655

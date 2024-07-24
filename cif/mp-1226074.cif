@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CoNi(SbS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88471000
+_cell_length_b   5.87592700
+_cell_length_c   5.88231825
+_cell_angle_alpha   89.84597582
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNi(SbS)2
+_chemical_formula_sum   'Co2 Ni2 Sb4 S4'
+_cell_volume   203.39880905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.52046200  0.48062700  0.77026700  1
+  Co  Co1  1  0.02046200  0.51937300  0.22973300  1
+  Ni  Ni0  1  0.47892600  0.02183100  0.27136800  1
+  Ni  Ni1  1  0.97892600  0.97816900  0.72863200  1
+  Sb  Sb0  1  0.87027500  0.13640300  0.11966200  1
+  Sb  Sb1  1  0.37027500  0.86359700  0.88033800  1
+  Sb  Sb2  1  0.13409800  0.37322800  0.61678100  1
+  Sb  Sb3  1  0.63409800  0.62677200  0.38321900  1
+  S  S0  1  0.11845800  0.87502700  0.36684600  1
+  S  S1  1  0.61845800  0.12497300  0.63315400  1
+  S  S2  1  0.87778100  0.61576700  0.87368200  1
+  S  S3  1  0.37778100  0.38423300  0.12631800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 S1 2.315034 1_555
+Co0 S3 2.325072 1_556
+Co0 S2 2.329083 1_555
+Co0 Sb1 2.504403 1_555
+Co0 Sb3 2.521436 1_555
+Co0 Sb2 2.527033 1_555
+Co1 S0 2.315034 1_555
+Co1 S2 2.325072 1_454
+Co1 S3 2.329083 1_555
+Co1 Sb0 2.504403 1_455
+Co1 Sb2 2.521436 1_555
+Co1 Sb3 2.527033 1_455
+Ni0 S0 2.357249 1_545
+Ni0 S1 2.361659 1_555
+Ni0 S3 2.367922 1_555
+Ni0 Sb0 2.559303 1_555
+Ni0 Sb1 2.564279 1_544
+Ni0 Sb3 2.578200 1_545
+Ni1 S1 2.357249 1_565
+Ni1 S0 2.361659 1_655
+Ni1 S2 2.367922 1_555
+Ni1 Sb1 2.559303 1_655
+Ni1 Sb0 2.564279 1_566
+Ni1 Sb2 2.578200 1_665
+S0 Sb0 2.567865 1_465
+S1 Sb1 2.567865 1_545
+S2 Sb2 2.569314 1_655
+S3 Sb3 2.569314 1_555

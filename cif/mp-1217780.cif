@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Ta2Co3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84974596
+_cell_length_b   4.84974659
+_cell_length_c   7.58092155
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Co3Ge
+_chemical_formula_sum   'Ta4 Co6 Ge2'
+_cell_volume   154.41541177
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33333511  0.66666855  0.93920689  1
+  Ta  Ta1  1  0.66666489  0.33333145  0.06079311  1
+  Ta  Ta2  1  0.66666489  0.33333145  0.43920689  1
+  Ta  Ta3  1  0.33333511  0.66666855  0.56079311  1
+  Co  Co0  1  0.82870160  0.17128959  0.75000000  1
+  Co  Co1  1  0.82870160  0.65741301  0.75000000  1
+  Co  Co2  1  0.34258178  0.17129089  0.75000000  1
+  Co  Co3  1  0.17129840  0.82871041  0.25000000  1
+  Co  Co4  1  0.17129840  0.34258699  0.25000000  1
+  Co  Co5  1  0.65741822  0.82870911  0.25000000  1
+  Ge  Ge0  1  0.00000000  -0.00000000  -0.00000000  1
+  Ge  Ge1  1  0.00000000  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ta3 2.868725 1_555
+Ta0 Ta1 2.947799 1_566
+Ta0 Ta1 2.947815 1_556
+Ta0 Ta1 2.947828 1_456
+Ta1 Ta2 2.868725 1_555
+Ta2 Ta3 2.947799 1_545
+Ta2 Ta3 2.947815 1_555
+Ta2 Ta3 2.947828 1_655
+Co0 Co2 2.357561 1_555
+Co0 Co1 2.357575 1_555
+Co0 Ge1 2.379548 1_655
+Co0 Ge0 2.379548 1_656
+Co0 Co1 2.492171 1_545
+Co0 Co2 2.492185 1_655
+Co0 Ta2 2.721007 1_555
+Co0 Ta1 2.721007 1_556
+Co0 Ta0 2.817582 1_545
+Co0 Ta3 2.817582 1_545
+Co0 Ta3 2.817634 1_655
+Co0 Ta0 2.817634 1_655
+Co1 Co2 2.357563 1_555
+Co1 Ge0 2.379545 1_666
+Co1 Ge1 2.379545 1_665
+Co1 Co2 2.492183 1_665
+Co1 Ta2 2.721013 1_555
+Co1 Ta1 2.721013 1_556
+Co1 Ta3 2.817584 1_555
+Co1 Ta0 2.817584 1_555
+Co1 Ta3 2.817632 1_655
+Co1 Ta0 2.817632 1_655
+Co2 Ge0 2.379532 1_556
+Co2 Ge1 2.379532 1_555
+Co2 Ta2 2.721016 1_555
+Co2 Ta1 2.721016 1_556
+Co2 Ta3 2.817604 1_545
+Co2 Ta0 2.817604 1_545
+Co2 Ta3 2.817612 1_555
+Co2 Ta0 2.817612 1_555
+Co3 Co5 2.357561 1_555
+Co3 Co4 2.357575 1_555
+Co3 Ge1 2.379548 1_565
+Co3 Ge0 2.379548 1_565
+Co3 Co4 2.492171 1_565
+Co3 Co5 2.492185 1_455
+Co3 Ta3 2.721007 1_555
+Co3 Ta0 2.721007 1_554
+Co3 Ta2 2.817582 1_565
+Co3 Ta1 2.817582 1_565
+Co3 Ta2 2.817634 1_455
+Co3 Ta1 2.817634 1_455
+Co4 Co5 2.357563 1_555
+Co4 Ge0 2.379545 1_555
+Co4 Ge1 2.379545 1_555
+Co4 Co5 2.492183 1_445
+Co4 Ta3 2.721013 1_555
+Co4 Ta0 2.721013 1_554
+Co4 Ta1 2.817584 1_555
+Co4 Ta2 2.817584 1_555
+Co4 Ta2 2.817632 1_455
+Co4 Ta1 2.817632 1_455
+Co5 Ge0 2.379532 1_665
+Co5 Ge1 2.379532 1_665
+Co5 Ta3 2.721016 1_555
+Co5 Ta0 2.721016 1_554
+Co5 Ta1 2.817604 1_565
+Co5 Ta2 2.817604 1_565
+Co5 Ta1 2.817612 1_555
+Co5 Ta2 2.817612 1_555
+Ge0 Ta1 2.837670 1_555
+Ge0 Ta0 2.837670 1_444
+Ge0 Ta0 2.837677 1_544
+Ge0 Ta1 2.837677 1_455
+Ge0 Ta1 2.837685 1_445
+Ge0 Ta0 2.837685 1_554
+Ge1 Ta2 2.837670 1_555
+Ge1 Ta3 2.837670 1_445
+Ge1 Ta2 2.837677 1_455
+Ge1 Ta3 2.837677 1_545
+Ge1 Ta2 2.837685 1_445
+Ge1 Ta3 2.837685 1_555

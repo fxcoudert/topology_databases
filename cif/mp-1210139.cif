@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Np4Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73460802
+_cell_length_b   6.73460802
+_cell_length_c   6.73460802
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np4Fe
+_chemical_formula_sum   'Np8 Fe2'
+_cell_volume   215.98419488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.60359600  0.60359600  0.60359600  1
+  Np  Np1  1  0.18921300  0.60359600  0.60359600  1
+  Np  Np2  1  0.60359600  0.18921300  0.60359600  1
+  Np  Np3  1  0.56078700  0.14640400  0.14640400  1
+  Np  Np4  1  0.14640400  0.14640400  0.14640400  1
+  Np  Np5  1  0.60359600  0.60359600  0.18921300  1
+  Np  Np6  1  0.14640400  0.56078700  0.14640400  1
+  Np  Np7  1  0.14640400  0.14640400  0.56078700  1
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.75000000  0.75000000  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Np4 2.415132 1_555
+Fe0 Np6 2.415138 1_545
+Fe0 Np3 2.415138 1_455
+Fe0 Np7 2.415138 1_554
+Fe1 Np0 2.415132 1_555
+Fe1 Np5 2.415138 1_556
+Fe1 Np1 2.415138 1_655
+Fe1 Np2 2.415138 1_565

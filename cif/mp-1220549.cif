@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_NbAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93317443
+_cell_length_b   4.93652268
+_cell_length_c   8.15953200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.78674540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlFe
+_chemical_formula_sum   'Nb4 Al4 Fe4'
+_cell_volume   173.43317338
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33507600  0.33502000  0.55401200  1
+  Nb  Nb1  1  0.66646500  0.66666800  0.43060800  1
+  Nb  Nb2  1  0.66646500  0.66666800  0.06939200  1
+  Nb  Nb3  1  0.33507600  0.33502000  0.94598800  1
+  Al  Al0  1  0.99350100  0.99295200  0.49169700  1
+  Al  Al1  1  0.99350100  0.99295200  0.00830300  1
+  Al  Al2  1  0.83370300  0.34659800  0.75000000  1
+  Al  Al3  1  0.34542000  0.83336300  0.75000000  1
+  Fe  Fe0  1  0.83501100  0.83645500  0.75000000  1
+  Fe  Fe1  1  0.17243300  0.65276900  0.25000000  1
+  Fe  Fe2  1  0.65231600  0.17195000  0.25000000  1
+  Fe  Fe3  1  0.17103400  0.16958700  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Nb1 2.996566 1_555
+Nb0 Nb1 3.049987 1_455
+Nb0 Nb1 3.050754 1_545
+Nb0 Nb3 3.198341 1_555
+Nb1 Nb2 2.947354 1_555
+Nb2 Nb3 2.996566 1_554
+Nb2 Nb3 3.049987 1_654
+Nb2 Nb3 3.050754 1_564
+Al0 Fe1 2.457977 1_655
+Al0 Fe2 2.459934 1_565
+Al0 Fe3 2.482356 1_665
+Al0 Fe0 2.497970 1_555
+Al0 Al3 2.596474 1_655
+Al0 Al2 2.601526 1_565
+Al0 Nb1 2.825281 1_555
+Al0 Nb0 2.881764 1_655
+Al0 Nb0 2.882083 1_565
+Al0 Nb1 2.940171 1_655
+Al0 Nb1 2.945304 1_565
+Al0 Nb0 2.954126 1_665
+Al1 Fe1 2.457977 1_655
+Al1 Fe2 2.459934 1_565
+Al1 Fe3 2.482356 1_665
+Al1 Fe0 2.497970 1_554
+Al1 Al3 2.596474 1_654
+Al1 Al2 2.601526 1_564
+Al1 Nb2 2.825281 1_555
+Al1 Nb3 2.881764 1_654
+Al1 Nb3 2.882083 1_564
+Al1 Nb2 2.940171 1_655
+Al1 Nb2 2.945304 1_565
+Al1 Nb3 2.954126 1_664
+Al2 Fe0 2.421346 1_555
+Al2 Al3 2.434414 1_555
+Al2 Fe0 2.515190 1_545
+Al2 Al3 2.559019 1_645
+Al2 Nb0 2.922351 1_655
+Al2 Nb3 2.922351 1_655
+Al2 Nb2 2.948971 1_556
+Al2 Nb1 2.948971 1_555
+Al2 Nb0 2.957792 1_555
+Al2 Nb3 2.957792 1_555
+Al3 Fe0 2.422724 1_555
+Al3 Fe0 2.510522 1_455
+Al3 Nb3 2.927347 1_565
+Al3 Nb0 2.927347 1_565
+Al3 Nb2 2.950429 1_556
+Al3 Nb1 2.950429 1_555
+Al3 Nb3 2.955417 1_555
+Al3 Nb0 2.955417 1_555
+Fe0 Nb3 2.961794 1_565
+Fe0 Nb0 2.961794 1_565
+Fe0 Nb3 2.968109 1_655
+Fe0 Nb0 2.968109 1_655
+Fe0 Nb2 2.977550 1_556
+Fe0 Nb1 2.977550 1_555
+Fe1 Fe3 2.388615 1_555
+Fe1 Fe2 2.398599 1_555
+Fe1 Fe3 2.547923 1_565
+Fe1 Fe2 2.594824 1_465
+Fe1 Nb3 2.833558 1_554
+Fe1 Nb0 2.833558 1_555
+Fe1 Nb1 2.870439 1_455
+Fe1 Nb2 2.870439 1_455
+Fe1 Nb1 2.877384 1_555
+Fe1 Nb2 2.877384 1_555
+Fe2 Fe3 2.379963 1_555
+Fe2 Fe3 2.553253 1_655
+Fe2 Nb0 2.832112 1_555
+Fe2 Nb3 2.832112 1_554
+Fe2 Nb2 2.868512 1_545
+Fe2 Nb1 2.868512 1_545
+Fe2 Nb1 2.882232 1_555
+Fe2 Nb2 2.882232 1_555
+Fe3 Nb3 2.849610 1_554
+Fe3 Nb0 2.849610 1_555
+Fe3 Nb1 2.895835 1_545
+Fe3 Nb2 2.895835 1_545
+Fe3 Nb2 2.902887 1_455
+Fe3 Nb1 2.902887 1_455

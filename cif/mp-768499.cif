@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_FeNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05591476
+_cell_length_b   5.45127958
+_cell_length_c   5.05590000
+_cell_angle_alpha   62.37169919
+_cell_angle_beta   59.99972519
+_cell_angle_gamma   89.99977642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNiO3
+_chemical_formula_sum   'Fe2 Ni2 O6'
+_cell_volume   101.91843448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.15151500  0.45454500  0.69697100  1
+  Fe  Fe1  1  0.84848400  0.54545000  0.30303300  1
+  Ni  Ni0  1  0.35513900  0.06541800  0.28972200  1
+  Ni  Ni1  1  0.64486300  0.93459000  0.71027300  1
+  O  O0  1  0.44155300  0.25792800  0.51005600  1
+  O  O1  1  0.23201100  0.74207100  0.20952900  1
+  O  O2  1  0.95159900  0.74207100  0.81639000  1
+  O  O3  1  0.04839200  0.25792800  0.18362400  1
+  O  O4  1  0.76798300  0.25792800  0.79046400  1
+  O  O5  1  0.55846100  0.74207100  0.48993900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O3 1.935406 1_556
+Fe0 O0 1.935411 1_555
+Fe0 O4 1.935426 1_455
+Fe0 O2 2.027383 1_455
+Fe0 O1 2.027391 1_555
+Fe0 O5 2.027393 1_555
+Fe1 O5 1.935372 1_555
+Fe1 O2 1.935376 1_554
+Fe1 O1 1.935384 1_655
+Fe1 O3 2.027329 1_655
+Fe1 O4 2.027334 1_555
+Fe1 O0 2.027340 1_555
+Ni0 O4 2.025856 1_554
+Ni0 O0 2.025860 1_555
+Ni0 O3 2.025861 1_555
+Ni0 O2 2.138717 1_445
+Ni0 O5 2.138718 1_545
+Ni0 O1 2.138719 1_545
+Ni1 O1 2.025864 1_556
+Ni1 O5 2.025868 1_555
+Ni1 O2 2.025869 1_555
+Ni1 O0 2.138645 1_565
+Ni1 O3 2.138649 1_665
+Ni1 O4 2.138651 1_565

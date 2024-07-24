@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrTaSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30298106
+_cell_length_b   5.30298106
+_cell_length_c   8.81599200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.12648924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTaSi
+_chemical_formula_sum   'Zr4 Ta4 Si4'
+_cell_volume   218.64276907
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66811000  0.33189000  0.31863700  1
+  Zr  Zr1  1  0.33322300  0.66677700  0.19785000  1
+  Zr  Zr2  1  0.33322300  0.66677700  0.80215000  1
+  Zr  Zr3  1  0.66811000  0.33189000  0.68136300  1
+  Ta  Ta0  1  0.16256100  0.83743900  0.50000000  1
+  Ta  Ta1  1  0.34211300  0.16977400  0.00000000  1
+  Ta  Ta2  1  0.83022600  0.65788700  0.00000000  1
+  Ta  Ta3  1  0.83280700  0.16719300  0.00000000  1
+  Si  Si0  1  0.00382200  0.99617800  0.24928700  1
+  Si  Si1  1  0.00382200  0.99617800  0.75071300  1
+  Si  Si2  1  0.64792400  0.82591200  0.50000000  1
+  Si  Si3  1  0.17408800  0.35207600  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 3.197790 1_555
+Zr0 Zr1 3.227244 1_555
+Zr0 Zr1 3.289733 1_545
+Zr0 Zr1 3.289733 1_655
+Zr1 Zr2 3.488488 1_554
+Zr2 Zr3 3.227244 1_555
+Zr2 Zr3 3.289733 1_565
+Zr2 Zr3 3.289733 1_455
+Ta0 Zr2 3.083168 1_555
+Ta0 Zr1 3.083168 1_555
+Ta0 Zr0 3.160898 1_565
+Ta0 Zr0 3.160898 1_455
+Ta0 Zr3 3.160898 1_565
+Ta0 Zr3 3.160898 1_455
+Ta1 Ta3 2.608621 1_555
+Ta1 Ta2 2.661405 1_555
+Ta1 Ta3 2.694415 1_455
+Ta1 Ta2 2.791031 1_445
+Ta1 Zr1 3.168751 1_545
+Ta1 Zr2 3.168751 1_544
+Ta1 Zr2 3.179329 1_554
+Ta1 Zr1 3.179329 1_555
+Ta1 Zr3 3.196478 1_554
+Ta1 Zr0 3.196478 1_555
+Ta2 Ta3 2.608621 1_555
+Ta2 Ta3 2.694415 1_565
+Ta2 Zr1 3.168751 1_655
+Ta2 Zr2 3.168751 1_654
+Ta2 Zr2 3.179329 1_554
+Ta2 Zr1 3.179329 1_555
+Ta2 Zr3 3.196478 1_554
+Ta2 Zr0 3.196478 1_555
+Ta3 Zr3 3.183685 1_554
+Ta3 Zr0 3.183685 1_555
+Ta3 Zr1 3.236459 1_545
+Ta3 Zr2 3.236459 1_654
+Ta3 Zr1 3.236459 1_655
+Ta3 Zr2 3.236459 1_544
+Si0 Ta0 2.640205 1_555
+Si0 Ta3 2.692633 1_465
+Si0 Ta2 2.708983 1_455
+Si0 Ta1 2.708983 1_565
+Si0 Si2 2.766931 1_455
+Si0 Si3 2.766931 1_565
+Si0 Zr1 3.030713 1_555
+Si0 Zr0 3.114605 1_465
+Si0 Zr0 3.168553 1_565
+Si0 Zr0 3.168553 1_455
+Si0 Zr1 3.169617 1_455
+Si0 Zr1 3.169617 1_565
+Si1 Ta0 2.640205 1_555
+Si1 Ta3 2.692633 1_466
+Si1 Ta2 2.708983 1_456
+Si1 Ta1 2.708983 1_566
+Si1 Si2 2.766931 1_455
+Si1 Si3 2.766931 1_565
+Si1 Zr2 3.030713 1_555
+Si1 Zr3 3.114605 1_465
+Si1 Zr3 3.168553 1_565
+Si1 Zr3 3.168553 1_455
+Si1 Zr2 3.169617 1_565
+Si1 Zr2 3.169617 1_455
+Si2 Si3 2.583560 1_555
+Si2 Ta0 2.603246 1_555
+Si2 Ta0 2.700832 1_655
+Si2 Si3 2.868876 1_665
+Si2 Zr2 3.043841 1_555
+Si2 Zr1 3.043841 1_555
+Si2 Zr3 3.081661 1_565
+Si2 Zr0 3.081661 1_565
+Si2 Zr3 3.113780 1_555
+Si2 Zr0 3.113780 1_555
+Si3 Ta0 2.603246 1_555
+Si3 Ta0 2.700832 1_545
+Si3 Zr2 3.043841 1_555
+Si3 Zr1 3.043841 1_555
+Si3 Zr3 3.081661 1_455
+Si3 Zr0 3.081661 1_455
+Si3 Zr3 3.113780 1_555
+Si3 Zr0 3.113780 1_555

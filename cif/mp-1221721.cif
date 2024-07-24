@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MnZn(InS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.77988975
+_cell_length_b   12.77988975
+_cell_length_c   6.77732695
+_cell_angle_alpha   85.00173889
+_cell_angle_beta   85.00173889
+_cell_angle_gamma   17.57552846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn(InS2)4
+_chemical_formula_sum   'Mn1 Zn1 In4 S8'
+_cell_volume   332.94438962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.23934700  0.23934700  0.92494500  1
+  Zn  Zn0  1  0.09119000  0.09119000  0.30884800  1
+  In  In0  1  0.89074500  0.89074500  0.03726200  1
+  In  In1  1  0.39173600  0.39173600  0.53550300  1
+  In  In2  1  0.73753800  0.73753800  0.41619900  1
+  In  In3  1  0.59110700  0.59110700  0.79699800  1
+  S  S0  1  0.55728600  0.55728600  0.46710400  1
+  S  S1  1  0.05543800  0.05543800  0.99455900  1
+  S  S2  1  0.69143100  0.69143100  0.77862000  1
+  S  S3  1  0.18674900  0.18674900  0.26376300  1
+  S  S4  1  0.93519800  0.93519800  0.35444800  1
+  S  S5  1  0.43477000  0.43477000  0.85534100  1
+  S  S6  1  0.79376900  0.79376900  0.06005900  1
+  S  S7  1  0.29469300  0.29469300  0.57601800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 S2 2.544026 1_545
+Mn0 S2 2.544026 1_455
+Mn0 S3 2.549545 1_556
+Mn0 S6 2.600439 1_456
+Mn0 S6 2.600439 1_546
+Mn0 S7 2.638900 1_555
+In0 S6 2.440824 1_555
+In0 S4 2.511481 1_555
+In0 S5 2.515373 1_654
+In0 S5 2.515373 1_564
+In1 S7 2.442436 1_555
+In1 S4 2.507083 1_455
+In1 S4 2.507083 1_545
+In1 S5 2.509140 1_555
+In2 S3 2.599793 1_565
+In2 S3 2.599793 1_655
+In2 S2 2.623958 1_555
+In2 S6 2.690507 1_555
+In2 S7 2.710221 1_565
+In2 S7 2.710221 1_655
+In3 S0 2.462809 1_555
+In3 S1 2.490756 1_655
+In3 S1 2.490756 1_565
+In3 S2 2.526225 1_555
+S0 Zn0 2.352421 1_565
+S0 Zn0 2.352421 1_655
+S1 Zn0 2.385750 1_556
+S3 Zn0 2.406185 1_555

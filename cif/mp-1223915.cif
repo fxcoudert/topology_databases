@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_HoGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66220087
+_cell_length_b   5.66220087
+_cell_length_c   7.00171628
+_cell_angle_alpha   51.80988898
+_cell_angle_beta   51.80988898
+_cell_angle_gamma   45.42118067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGePd
+_chemical_formula_sum   'Ho2 Ge2 Pd2'
+_cell_volume   118.66384089
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.45593600  0.45593600  0.30385300  1
+  Ho  Ho1  1  0.54406400  0.54406400  0.69614700  1
+  Ge  Ge0  1  0.15937700  0.15937700  0.89486900  1
+  Ge  Ge1  1  0.84062300  0.84062300  0.10513100  1
+  Pd  Pd0  1  0.82253300  0.82253300  0.72616400  1
+  Pd  Pd1  1  0.17746700  0.17746700  0.27383600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Pd1 3.053844 1_555
+Ho0 Pd1 3.086501 1_565
+Ho0 Pd1 3.086501 1_655
+Ho0 Pd0 3.152847 1_545
+Ho0 Pd0 3.152847 1_455
+Ho0 Pd0 3.203494 1_554
+Ho1 Pd0 3.053844 1_555
+Ho1 Pd0 3.086501 1_545
+Ho1 Pd0 3.086501 1_455
+Ho1 Pd1 3.152847 1_565
+Ho1 Pd1 3.152847 1_655
+Ho1 Pd1 3.203494 1_556
+Ge0 Pd0 2.525922 1_545
+Ge0 Pd0 2.525922 1_455
+Ge0 Ge1 2.585320 1_446
+Ge0 Pd1 2.783613 1_556
+Ge0 Ho0 3.055761 1_546
+Ge0 Ho0 3.055761 1_456
+Ge0 Ho0 3.088183 1_555
+Ge0 Ho1 3.226853 1_455
+Ge0 Ho1 3.226853 1_545
+Ge0 Ho1 3.254202 1_555
+Ge1 Pd1 2.525922 1_565
+Ge1 Pd1 2.525922 1_655
+Ge1 Pd0 2.783613 1_554
+Ge1 Ho1 3.055761 1_654
+Ge1 Ho1 3.055761 1_564
+Ge1 Ho1 3.088183 1_555
+Ge1 Ho0 3.226853 1_565
+Ge1 Ho0 3.226853 1_655
+Ge1 Ho0 3.254202 1_555
+Pd0 Pd1 2.834961 1_665

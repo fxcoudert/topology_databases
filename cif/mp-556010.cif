@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_LuMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93998100
+_cell_length_b   6.50067157
+_cell_length_c   6.94009223
+_cell_angle_alpha   73.47456232
+_cell_angle_beta   77.85245261
+_cell_angle_gamma   71.09817172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMoClO4
+_chemical_formula_sum   'Lu2 Mo2 Cl2 O8'
+_cell_volume   240.98437032
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75758300  0.80162300  0.13119400  1
+  Lu  Lu1  1  0.24241700  0.19837700  0.86880600  1
+  Mo  Mo0  1  0.62377000  0.64416400  0.73255100  1
+  Mo  Mo1  1  0.37623000  0.35583600  0.26744900  1
+  Cl  Cl0  1  0.01007000  0.02501500  0.22551200  1
+  Cl  Cl1  1  0.98993000  0.97498500  0.77448800  1
+  O  O0  1  0.09119400  0.52292100  0.19023000  1
+  O  O1  1  0.90880600  0.47707900  0.80977000  1
+  O  O2  1  0.34410100  0.25007100  0.53421100  1
+  O  O3  1  0.57673200  0.52558000  0.20171300  1
+  O  O4  1  0.65589900  0.74992900  0.46578900  1
+  O  O5  1  0.47766400  0.12969700  0.12938300  1
+  O  O6  1  0.52233600  0.87030300  0.87061700  1
+  O  O7  1  0.42326800  0.47442000  0.79828700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O4 2.228741 1_555
+Lu0 O0 2.229469 1_655
+Lu0 O5 2.238136 1_565
+Lu0 O3 2.267536 1_555
+Lu0 O6 2.371154 1_554
+Lu1 O2 2.228741 1_555
+Lu1 O1 2.229469 1_455
+Lu1 O6 2.238136 1_545
+Lu1 O7 2.267536 1_555
+Lu1 O5 2.371154 1_556
+Mo0 O4 1.774497 1_555
+Mo0 O7 1.783414 1_555
+Mo0 O1 1.786846 1_555
+Mo0 O6 1.851137 1_555
+Mo1 O2 1.774497 1_555
+Mo1 O3 1.783414 1_555
+Mo1 O0 1.786846 1_555
+Mo1 O5 1.851137 1_555
+Cl0 Lu0 2.674261 1_445
+Cl0 Lu1 2.699254 1_554
+Cl1 Lu1 2.674261 1_665
+Cl1 Lu0 2.699254 1_556

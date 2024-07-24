@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_K2Se4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30350997
+_cell_length_b   6.30350997
+_cell_length_c   11.26403790
+_cell_angle_alpha   88.06795490
+_cell_angle_beta   88.06795490
+_cell_angle_gamma   74.82712717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Se4N
+_chemical_formula_sum   'K4 Se8 N2'
+_cell_volume   431.57666026
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49070300  0.10808700  0.68843800  1
+  K  K1  1  0.10808700  0.49070300  0.18843800  1
+  K  K2  1  0.85959100  0.49916100  0.83670800  1
+  K  K3  1  0.49916100  0.85959100  0.33670800  1
+  Se  Se0  1  0.05003400  0.93657200  0.78883000  1
+  Se  Se1  1  0.93657200  0.05003400  0.28883000  1
+  Se  Se2  1  0.08128500  0.01317900  0.99134500  1
+  Se  Se3  1  0.01317900  0.08128500  0.49134500  1
+  Se  Se4  1  0.58258800  0.57115100  0.08981100  1
+  Se  Se5  1  0.57115100  0.58258800  0.58981100  1
+  Se  Se6  1  0.46444600  0.94415300  0.02701300  1
+  Se  Se7  1  0.94415300  0.46444600  0.52701300  1
+  N  N0  1  0.34777700  0.46329200  0.86735400  1
+  N  N1  1  0.46329200  0.34777700  0.36735400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N0 3.002060 1_555
+K0 Se5 3.312021 1_555
+K0 Se0 3.382514 1_545
+K0 Se5 3.434350 1_545
+K0 Se0 3.615185 1_645
+K0 Se3 3.841858 1_555
+K0 Se3 3.878780 1_655
+K1 N1 3.002060 1_555
+K1 Se4 3.312021 1_555
+K1 Se1 3.382514 1_455
+K1 Se4 3.434350 1_455
+K1 Se1 3.615185 1_465
+K1 Se2 3.841858 1_554
+K1 Se2 3.878780 1_564
+K2 N0 3.056488 1_655
+K2 Se4 3.274072 1_556
+K2 N0 3.298529 1_555
+K2 Se0 3.304989 1_655
+K2 Se5 3.325425 1_555
+K2 Se2 3.454657 1_655
+K2 Se0 3.487823 1_645
+K2 Se7 3.516546 1_555
+K3 N1 3.056488 1_565
+K3 Se5 3.274072 1_555
+K3 N1 3.298529 1_555
+K3 Se1 3.304989 1_565
+K3 Se4 3.325425 1_555
+K3 Se3 3.454657 1_565
+K3 Se1 3.487823 1_465
+K3 Se6 3.516546 1_555
+Se0 Se2 2.372751 1_565
+Se1 Se3 2.372751 1_655
+Se2 Se6 2.384900 1_546
+Se3 Se7 2.384900 1_455
+Se4 Se6 2.364317 1_555
+Se5 Se7 2.364317 1_555

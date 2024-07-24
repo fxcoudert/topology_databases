@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TbMn2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64781068
+_cell_length_b   5.64781068
+_cell_length_c   7.03679481
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.61350622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMn2SiC
+_chemical_formula_sum   'Tb2 Mn4 Si2 C2'
+_cell_volume   139.38013749
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.54262926  0.45737074  0.25000000  1
+  Tb  Tb1  1  0.45737074  0.54262926  0.75000000  1
+  Mn  Mn0  1  0.83213010  0.16786990  0.05950849  1
+  Mn  Mn1  1  0.16786990  0.83213010  0.94049151  1
+  Mn  Mn2  1  0.16786990  0.83213010  0.55950849  1
+  Mn  Mn3  1  0.83213010  0.16786990  0.44049151  1
+  Si  Si0  1  0.26539015  0.73460985  0.25000000  1
+  Si  Si1  1  0.73460985  0.26539015  0.75000000  1
+  C  C0  1  0.00000000  -0.00000000  -0.00000000  1
+  C  C1  1  0.00000000  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si0 2.398169 1_655
+Mn0 Si0 2.398169 1_545
+Mn0 Si1 2.413654 1_554
+Mn1 Si1 2.398169 1_455
+Mn1 Si1 2.398169 1_565
+Mn1 Si0 2.413654 1_556
+Mn2 Si1 2.398169 1_455
+Mn2 Si1 2.398169 1_565
+Mn2 Si0 2.413654 1_555
+Mn3 Si0 2.398169 1_655
+Mn3 Si0 2.398169 1_545
+Mn3 Si1 2.413654 1_555
+Si0 Tb0 2.957519 1_555
+Si0 Tb0 3.015724 1_455
+Si0 Tb0 3.015724 1_565
+Si1 Tb1 2.957519 1_555
+Si1 Tb1 3.015724 1_545
+Si1 Tb1 3.015724 1_655
+C0 Mn1 1.839102 1_544
+C0 Mn0 1.839102 1_455
+C0 Tb0 2.597903 1_555
+C0 Tb1 2.597903 1_554
+C0 Tb1 2.597903 1_444
+C0 Tb0 2.597903 1_445
+C1 Mn3 1.839102 1_455
+C1 Mn2 1.839102 1_545
+C1 Tb0 2.597903 1_555
+C1 Tb0 2.597903 1_445
+C1 Tb1 2.597903 1_555
+C1 Tb1 2.597903 1_445

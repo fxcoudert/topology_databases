@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_CeMgTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69402758
+_cell_length_b   5.82187830
+_cell_length_c   7.84461641
+_cell_angle_alpha   60.32676969
+_cell_angle_beta   76.38184550
+_cell_angle_gamma   71.50305037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgTi2O6
+_chemical_formula_sum   'Ce1 Mg1 Ti2 O6'
+_cell_volume   138.38088335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  0.50000000  0.50000000  1
+  Mg  Mg0  1  0.50000000  0.00000000  -0.00000000  1
+  Ti  Ti0  1  0.77709788  0.28031512  0.16549113  1
+  Ti  Ti1  1  0.22290212  0.71968488  0.83450887  1
+  O  O0  1  0.94457746  0.90964678  0.20119829  1
+  O  O1  1  0.05542254  0.09035322  0.79880171  1
+  O  O2  1  0.63947558  0.33624120  0.38480665  1
+  O  O3  1  0.36052442  0.66375880  0.61519335  1
+  O  O4  1  0.31071435  0.32281899  0.05575232  1
+  O  O5  1  0.68928565  0.67718101  0.94424768  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 O1 2.367546 1_555
+Ce0 O0 2.367546 1_455
+Ce0 O3 2.392595 1_455
+Ce0 O2 2.392595 1_555
+Ce0 O3 2.392598 1_555
+Ce0 O2 2.392598 1_455
+Mg0 O4 2.012062 1_555
+Mg0 O5 2.012062 1_544
+Mg0 O1 2.305499 1_654
+Mg0 O0 2.305499 1_445
+Mg0 O0 2.305500 1_545
+Mg0 O1 2.305500 1_554
+O0 Ti0 1.937553 1_565
+O1 Ti1 1.937553 1_545
+O2 Ti0 1.833610 1_555
+O3 Ti1 1.833610 1_555
+O4 Ti0 1.996853 1_455
+O4 Ti0 1.996860 1_555
+O4 Ti1 2.067619 1_554
+O5 Ti1 1.996853 1_655
+O5 Ti1 1.996860 1_555
+O5 Ti0 2.067619 1_556

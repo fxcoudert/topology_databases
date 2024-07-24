@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SrCa2I6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96062880
+_cell_length_b   7.96062880
+_cell_length_c   7.33017100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2I6
+_chemical_formula_sum   'Sr1 Ca2 I6'
+_cell_volume   402.29020226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca0  1  0.33333300  0.66666700  0.50000000  1
+  Ca  Ca1  1  0.66666700  0.33333300  0.50000000  1
+  I  I0  1  0.00000000  0.65341100  0.74346700  1
+  I  I1  1  0.00000000  0.34658900  0.25653300  1
+  I  I2  1  0.34658900  0.34658900  0.74346700  1
+  I  I3  1  0.65341100  0.65341100  0.25653300  1
+  I  I4  1  0.34658900  0.00000000  0.25653300  1
+  I  I5  1  0.65341100  0.00000000  0.74346700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 I0 3.155533 1_555
+Ca0 I4 3.155533 1_565
+Ca0 I5 3.155536 1_565
+Ca0 I1 3.155536 1_555
+Ca0 I3 3.155539 1_555
+Ca0 I2 3.155539 1_555
+Ca1 I5 3.155533 1_555
+Ca1 I1 3.155533 1_655
+Ca1 I0 3.155536 1_655
+Ca1 I4 3.155536 1_555
+Ca1 I3 3.155539 1_555
+Ca1 I2 3.155539 1_555
+I0 Sr0 3.338932 1_566
+I1 Sr0 3.338932 1_555
+I2 Sr0 3.338932 1_556
+I3 Sr0 3.338932 1_665
+I4 Sr0 3.338932 1_555
+I5 Sr0 3.338932 1_656

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_DyMgTl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50123004
+_cell_length_b   7.50123004
+_cell_length_c   4.62797338
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgTl
+_chemical_formula_sum   'Dy3 Mg3 Tl3'
+_cell_volume   225.52071176
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.57056920  0.00000000  0.00000000  1
+  Dy  Dy1  1  0.00000000  0.57056920  -0.00000000  1
+  Dy  Dy2  1  0.42943080  0.42943080  0.00000000  1
+  Mg  Mg0  1  0.24274002  -0.00000000  0.50000000  1
+  Mg  Mg1  1  -0.00000000  0.24274002  0.50000000  1
+  Mg  Mg2  1  0.75725998  0.75725998  0.50000000  1
+  Tl  Tl0  1  0.33333300  0.66666700  0.50000000  1
+  Tl  Tl1  1  0.66666700  0.33333300  0.50000000  1
+  Tl  Tl2  1  -0.00000000  -0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 Tl1 3.213063 1_555
+Dy0 Tl1 3.213063 1_554
+Dy0 Tl0 3.213065 1_545
+Dy0 Tl0 3.213065 1_544
+Dy0 Tl2 3.221259 1_655
+Dy1 Tl0 3.213063 1_555
+Dy1 Tl0 3.213063 1_554
+Dy1 Tl1 3.213065 1_454
+Dy1 Tl1 3.213065 1_455
+Dy1 Tl2 3.221259 1_565
+Dy2 Tl1 3.213068 1_555
+Dy2 Tl1 3.213068 1_554
+Dy2 Tl0 3.213068 1_555
+Dy2 Tl0 3.213068 1_554
+Dy2 Tl2 3.221259 1_555
+Mg0 Tl0 2.900519 1_545
+Mg0 Tl1 2.900524 1_555
+Mg0 Tl2 2.944491 1_556
+Mg0 Tl2 2.944491 1_555
+Mg1 Tl1 2.900519 1_455
+Mg1 Tl0 2.900524 1_555
+Mg1 Tl2 2.944491 1_555
+Mg1 Tl2 2.944491 1_556
+Mg2 Tl1 2.900527 1_555
+Mg2 Tl0 2.900527 1_555
+Mg2 Tl2 2.944490 1_665
+Mg2 Tl2 2.944490 1_666

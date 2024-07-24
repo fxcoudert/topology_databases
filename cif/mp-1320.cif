@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21209300
+_cell_length_b   8.33166700
+_cell_length_c   8.41749401
+_cell_angle_alpha   89.99733175
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSe2
+_chemical_formula_sum   'Ce4 Se8'
+_cell_volume   295.40148266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75430800  0.26974200  0.37489500  1
+  Ce  Ce1  1  0.25430800  0.73025800  0.12510500  1
+  Ce  Ce2  1  0.24569200  0.73025800  0.62510500  1
+  Ce  Ce3  1  0.74569200  0.26974200  0.87489500  1
+  Se  Se0  1  0.74127300  0.99996200  0.62490000  1
+  Se  Se1  1  0.24127300  0.00003800  0.87510000  1
+  Se  Se2  1  0.25872700  0.00003800  0.37510000  1
+  Se  Se3  1  0.75872700  0.99996200  0.12490000  1
+  Se  Se4  1  0.74907100  0.63570400  0.87504200  1
+  Se  Se5  1  0.24907100  0.36429600  0.62495800  1
+  Se  Se6  1  0.25092900  0.36429600  0.12495800  1
+  Se  Se7  1  0.75092900  0.63570400  0.37504200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Se7 3.049107 1_555
+Ce0 Se5 3.065028 1_655
+Ce0 Se2 3.067045 1_555
+Ce0 Se6 3.069577 1_655
+Ce0 Se3 3.079161 1_545
+Ce0 Se0 3.079508 1_545
+Ce0 Se6 3.089046 1_555
+Ce0 Se2 3.092502 1_655
+Ce0 Se5 3.095194 1_555
+Ce1 Se6 3.049107 1_555
+Ce1 Se4 3.065028 1_554
+Ce1 Se3 3.067045 1_455
+Ce1 Se7 3.069577 1_555
+Ce1 Se2 3.079161 1_565
+Ce1 Se1 3.079508 1_564
+Ce1 Se7 3.089046 1_455
+Ce1 Se3 3.092502 1_555
+Ce1 Se4 3.095194 1_454
+Ce2 Se5 3.049107 1_555
+Ce2 Se7 3.065028 1_455
+Ce2 Se0 3.067045 1_555
+Ce2 Se4 3.069577 1_455
+Ce2 Se1 3.079161 1_565
+Ce2 Se2 3.079508 1_565
+Ce2 Se4 3.089046 1_555
+Ce2 Se0 3.092502 1_455
+Ce2 Se7 3.095194 1_555
+Ce3 Se4 3.049107 1_555
+Ce3 Se6 3.065028 1_556
+Ce3 Se1 3.067045 1_655
+Ce3 Se5 3.069577 1_555
+Ce3 Se0 3.079161 1_545
+Ce3 Se3 3.079508 1_546
+Ce3 Se5 3.089046 1_655
+Ce3 Se1 3.092502 1_555
+Ce3 Se6 3.095194 1_656

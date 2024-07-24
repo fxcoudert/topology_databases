@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_TiNbCr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86268118
+_cell_length_b   4.86267974
+_cell_length_c   4.86267974
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000981
+_cell_angle_gamma   60.00000981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNbCr4
+_chemical_formula_sum   'Ti1 Nb1 Cr4'
+_cell_volume   81.30405351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.99999900  -0.00000000  0.00000000  1
+  Nb  Nb0  1  0.25000000  0.25000000  0.25000000  1
+  Cr  Cr0  1  0.62508852  0.62508852  0.12473545  1
+  Cr  Cr1  1  0.62508852  0.12473545  0.62508852  1
+  Cr  Cr2  1  0.12473545  0.62508852  0.62508852  1
+  Cr  Cr3  1  0.62508852  0.62508852  0.62508852  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Ti0 2.977768 1_555
+Nb0 Ti0 2.977771 1_465
+Nb0 Ti0 2.977771 1_456
+Nb0 Ti0 2.977775 1_455
+Cr0 Cr1 2.429623 1_564
+Cr0 Cr3 2.429623 1_554
+Cr0 Cr2 2.429624 1_654
+Cr0 Cr3 2.433057 1_555
+Cr0 Cr1 2.433057 1_555
+Cr0 Cr2 2.433057 1_555
+Cr0 Ti0 2.850809 1_565
+Cr0 Ti0 2.850818 1_555
+Cr0 Ti0 2.850823 1_465
+Cr0 Nb0 2.851181 1_565
+Cr0 Nb0 2.851181 1_655
+Cr0 Nb0 2.851185 1_555
+Cr1 Cr3 2.429623 1_545
+Cr1 Cr2 2.429624 1_645
+Cr1 Cr3 2.433057 1_555
+Cr1 Cr2 2.433057 1_555
+Cr1 Ti0 2.850809 1_556
+Cr1 Ti0 2.850818 1_555
+Cr1 Ti0 2.850823 1_456
+Cr1 Nb0 2.851181 1_556
+Cr1 Nb0 2.851181 1_655
+Cr1 Nb0 2.851185 1_555
+Cr2 Cr3 2.429624 1_455
+Cr2 Cr3 2.433057 1_555
+Cr2 Ti0 2.850811 1_466
+Cr2 Ti0 2.850820 1_465
+Cr2 Ti0 2.850820 1_456
+Cr2 Nb0 2.851180 1_565
+Cr2 Nb0 2.851180 1_556
+Cr2 Nb0 2.851185 1_555
+Cr3 Ti0 2.850814 1_565
+Cr3 Ti0 2.850814 1_556
+Cr3 Ti0 2.850818 1_466
+Cr3 Nb0 2.851183 1_565
+Cr3 Nb0 2.851183 1_556
+Cr3 Nb0 2.851183 1_655

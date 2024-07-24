@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_UTeSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64514100
+_cell_length_b   7.23248900
+_cell_length_c   13.05322600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UTeSe
+_chemical_formula_sum   'U4 Te4 Se4'
+_cell_volume   344.12796899
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.25000000  0.59189600  0.25218300  1
+  U  U1  1  0.75000000  0.40810400  0.74781700  1
+  U  U2  1  0.75000000  0.90810400  0.75218300  1
+  U  U3  1  0.25000000  0.09189600  0.24781700  1
+  Te  Te0  1  0.25000000  0.65922000  0.60492800  1
+  Te  Te1  1  0.75000000  0.34078000  0.39507200  1
+  Te  Te2  1  0.75000000  0.84078000  0.10492800  1
+  Te  Te3  1  0.25000000  0.15922000  0.89507200  1
+  Se  Se0  1  0.25000000  0.65507600  0.86156800  1
+  Se  Se1  1  0.75000000  0.34492400  0.13843200  1
+  Se  Se2  1  0.75000000  0.84492400  0.36156800  1
+  Se  Se3  1  0.25000000  0.15507600  0.63843200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 U1 3.177917 1_455
+Te0 U1 3.177917 1_555
+Te0 U2 3.202595 1_555
+Te0 U2 3.202595 1_455
+Te1 U0 3.177917 1_655
+Te1 U0 3.177917 1_555
+Te1 U3 3.202595 1_555
+Te1 U3 3.202595 1_655
+Te2 U3 3.177917 1_565
+Te2 U3 3.177917 1_665
+Te2 U0 3.202595 1_655
+Te2 U0 3.202595 1_555
+Te3 U2 3.177917 1_545
+Te3 U2 3.177917 1_445
+Te3 U1 3.202595 1_555
+Te3 U1 3.202595 1_455
+Se0 U2 2.951175 1_555
+Se0 U2 2.951175 1_455
+Se0 U1 2.952463 1_555
+Se0 U1 2.952463 1_455
+Se1 U3 2.951175 1_655
+Se1 U3 2.951175 1_555
+Se1 U0 2.952463 1_555
+Se1 U0 2.952463 1_655
+Se2 U0 2.951175 1_655
+Se2 U0 2.951175 1_555
+Se2 U3 2.952463 1_665
+Se2 U3 2.952463 1_565
+Se3 U1 2.951175 1_555
+Se3 U1 2.951175 1_455
+Se3 U2 2.952463 1_445
+Se3 U2 2.952463 1_545

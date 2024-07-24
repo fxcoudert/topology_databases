@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_TiNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44317758
+_cell_length_b   5.44317887
+_cell_length_c   5.44317851
+_cell_angle_alpha   54.71926988
+_cell_angle_beta   54.71928209
+_cell_angle_gamma   54.71897245
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNiO3
+_chemical_formula_sum   'Ti2 Ni2 O6'
+_cell_volume   100.00880325
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.85188309  0.85187734  0.85187891  1
+  Ti  Ti1  1  0.35187683  0.35188278  0.35187838  1
+  Ni  Ni0  1  0.64696143  0.64696093  0.64696832  1
+  Ni  Ni1  1  0.14696051  0.14696114  0.14696827  1
+  O  O0  1  0.94691633  0.22690383  0.56603385  1
+  O  O1  1  0.44691634  0.06602706  0.72689380  1
+  O  O2  1  0.72690157  0.44691912  0.06603051  1
+  O  O3  1  0.22690634  0.56603078  0.94691461  1
+  O  O4  1  0.56603036  0.94691369  0.22689605  1
+  O  O5  1  0.06602721  0.72690433  0.44691729  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 O3 2.026799 1_555
+Ni0 O0 2.026808 1_555
+Ni0 O4 2.026872 1_555
+Ni0 O1 2.075582 1_565
+Ni0 O2 2.075613 1_556
+Ni0 O5 2.075632 1_655
+Ni1 O5 2.026813 1_545
+Ni1 O2 2.026823 1_455
+Ni1 O1 2.026889 1_554
+Ni1 O4 2.075604 1_545
+Ni1 O0 2.075635 1_455
+Ni1 O3 2.075656 1_554
+O0 Ti0 1.864564 1_545
+O0 Ti1 2.128006 1_655
+O1 Ti1 1.864530 1_555
+O1 Ti0 2.128056 1_545
+O2 Ti1 1.864565 1_555
+O2 Ti0 2.128009 1_554
+O3 Ti0 1.864547 1_455
+O3 Ti1 2.128000 1_556
+O4 Ti0 1.864530 1_554
+O4 Ti1 2.128055 1_565
+O5 Ti1 1.864548 1_555
+O5 Ti0 2.128003 1_455

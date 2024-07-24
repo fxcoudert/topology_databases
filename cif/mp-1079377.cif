@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Si2W3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61584700
+_cell_length_b   6.61584700
+_cell_length_c   3.34350500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2W3
+_chemical_formula_sum   'Si4 W6'
+_cell_volume   146.34331316
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.13399800  0.63399800  0.00000000  1
+  Si  Si1  1  0.86600200  0.36600200  0.00000000  1
+  Si  Si2  1  0.63399800  0.86600200  0.00000000  1
+  Si  Si3  1  0.36600200  0.13399800  0.00000000  1
+  W  W0  1  0.50000000  0.50000000  0.00000000  1
+  W  W1  1  0.00000000  0.00000000  0.00000000  1
+  W  W2  1  0.65984100  0.15984100  0.50000000  1
+  W  W3  1  0.34015900  0.84015900  0.50000000  1
+  W  W4  1  0.15984100  0.34015900  0.50000000  1
+  W  W5  1  0.84015900  0.65984100  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.507430 1_455
+Si0 W3 2.552521 1_554
+Si0 W3 2.552521 1_555
+Si0 W5 2.569650 1_454
+Si0 W4 2.569650 1_554
+Si0 W5 2.569650 1_455
+Si0 W4 2.569650 1_555
+Si0 W0 2.578593 1_555
+Si0 W1 2.578593 1_565
+Si1 W2 2.552521 1_554
+Si1 W2 2.552521 1_555
+Si1 W5 2.569650 1_555
+Si1 W5 2.569650 1_554
+Si1 W4 2.569650 1_655
+Si1 W4 2.569650 1_654
+Si1 W0 2.578593 1_555
+Si1 W1 2.578593 1_655
+Si2 Si3 2.507430 1_565
+Si2 W5 2.552521 1_555
+Si2 W5 2.552521 1_554
+Si2 W3 2.569650 1_554
+Si2 W3 2.569650 1_555
+Si2 W2 2.569650 1_564
+Si2 W2 2.569650 1_565
+Si2 W1 2.578593 1_665
+Si2 W0 2.578593 1_555
+Si3 W4 2.552521 1_555
+Si3 W4 2.552521 1_554
+Si3 W2 2.569650 1_555
+Si3 W3 2.569650 1_544
+Si3 W2 2.569650 1_554
+Si3 W3 2.569650 1_545
+Si3 W1 2.578593 1_555
+Si3 W0 2.578593 1_555

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_MgCo4(AsS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79351126
+_cell_length_b   6.14807955
+_cell_length_c   5.80831590
+_cell_angle_alpha   89.58297636
+_cell_angle_beta   95.81337022
+_cell_angle_gamma   92.54522428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo4(AsS)4
+_chemical_formula_sum   'Mg1 Co4 As4 S4'
+_cell_volume   205.61837126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.92403450  0.14754618  0.36727451  1
+  Co  Co0  1  0.46477757  0.52000401  0.98246333  1
+  Co  Co1  1  0.98926801  0.56710516  0.49053146  1
+  Co  Co2  1  0.00960475  0.91952591  0.97634820  1
+  Co  Co3  1  0.49289626  0.98912179  0.48890742  1
+  As  As0  1  0.35440877  0.12323715  0.85236213  1
+  As  As1  1  0.59618858  0.88145994  0.11310161  1
+  As  As2  1  0.36578526  0.38291620  0.35138654  1
+  As  As3  1  0.60976177  0.63281071  0.61560546  1
+  S  S0  1  0.81462200  0.45744438  0.15065055  1
+  S  S1  1  0.12764332  0.62523103  0.84411549  1
+  S  S2  1  0.15699808  0.84902954  0.34013441  1
+  S  S3  1  0.79639214  0.11885398  0.73664289  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S2 2.341396 1_645
+Mg0 S3 2.342018 1_555
+Mg0 S0 2.350705 1_555
+Co0 S1 2.160075 1_555
+Co0 S0 2.207473 1_556
+Co1 S1 2.154044 1_655
+Co1 S2 2.170719 1_655
+Co1 S0 2.220288 1_555
+Co1 Mg0 2.682272 1_555
+Co2 S1 2.137248 1_555
+Co2 S3 2.174241 1_465
+Co2 S2 2.244052 1_556
+Co2 Mg0 2.775407 1_466
+Co3 S2 2.190179 1_555
+Co3 S3 2.275508 1_565
+Co3 Mg0 2.796107 1_565
+As0 Co2 2.476651 1_545
+As0 As1 2.487507 1_546
+As0 Co3 2.491466 1_545
+As0 Co0 2.592443 1_555
+As0 S3 2.713741 1_555
+As1 Co0 2.418900 1_554
+As1 Co3 2.425218 1_555
+As1 Co2 2.599087 1_654
+As1 Mg0 2.766681 1_565
+As2 Co0 2.410538 1_554
+As2 As3 2.472970 1_555
+As2 Co3 2.655749 1_545
+As2 Co1 2.698833 1_455
+As2 Mg0 2.893003 1_455
+As3 Co3 2.409595 1_555
+As3 Co1 2.435536 1_555
+As3 Co0 2.452814 1_555

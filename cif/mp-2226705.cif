@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_MgTiPbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49615017
+_cell_length_b   3.89174362
+_cell_length_c   7.45337353
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiPbO3
+_chemical_formula_sum   'Mg1 Ti1 Pb1 O3'
+_cell_volume   101.41149554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.23905372  1
+  Ti  Ti0  1  0.50000000  0.50000000  0.53162899  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.87650519  1
+  O  O0  1  0.50000000  0.50000000  0.28310222  1
+  O  O1  1  0.00000000  0.50000000  0.64934404  1
+  O  O2  1  0.50000000  0.00000000  0.51459784  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 1.973374 1_555
+Mg0 O0 1.973374 1_545
+Mg0 O2 2.053733 1_555
+Mg0 Pb0 3.218339 1_654
+Mg0 Pb0 3.218339 1_554
+O0 Ti0 1.852363 1_555
+O1 Ti0 1.955902 1_555
+O1 Ti0 1.955902 1_455
+O1 Pb0 2.579353 1_555
+O1 Pb0 2.579353 1_565
+O2 Ti0 1.950008 1_555
+O2 Ti0 1.950008 1_545

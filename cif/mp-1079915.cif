@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_PrAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85594237
+_cell_length_b   5.79895380
+_cell_length_c   7.56476146
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAu
+_chemical_formula_sum   'Pr4 Au4'
+_cell_volume   213.01903386
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.35647540  0.68675172  1
+  Pr  Pr1  1  0.25000000  0.14352460  0.18675172  1
+  Pr  Pr2  1  0.75000000  0.64352460  0.31324828  1
+  Pr  Pr3  1  0.75000000  0.85647540  0.81324828  1
+  Au  Au0  1  0.25000000  0.85152667  0.53988401  1
+  Au  Au1  1  0.25000000  0.64847333  0.03988401  1
+  Au  Au2  1  0.75000000  0.14847333  0.46011599  1
+  Au  Au3  1  0.75000000  0.35152667  0.96011599  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Pr0 3.078269 1_555
+Au0 Pr0 3.131863 1_565
+Au0 Pr1 3.162812 1_565
+Au0 Pr3 3.189393 1_555
+Au0 Pr3 3.189393 1_455
+Au0 Pr2 3.207689 1_455
+Au0 Pr2 3.207689 1_555
+Au1 Pr1 3.078269 1_565
+Au1 Pr1 3.131863 1_555
+Au1 Pr0 3.162812 1_554
+Au1 Pr2 3.189393 1_455
+Au1 Pr2 3.189393 1_555
+Au1 Pr3 3.207689 1_454
+Au1 Pr3 3.207689 1_554
+Au2 Pr2 3.078269 1_555
+Au2 Pr2 3.131863 1_545
+Au2 Pr3 3.162812 1_545
+Au2 Pr1 3.189393 1_655
+Au2 Pr1 3.189393 1_555
+Au2 Pr0 3.207689 1_555
+Au2 Pr0 3.207689 1_655
+Au3 Pr3 3.078269 1_545
+Au3 Pr3 3.131863 1_555
+Au3 Pr2 3.162812 1_556
+Au3 Pr0 3.189393 1_555
+Au3 Pr0 3.189393 1_655
+Au3 Pr1 3.207689 1_556
+Au3 Pr1 3.207689 1_656

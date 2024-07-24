@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Na2CaC2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06628034
+_cell_length_b   5.06628034
+_cell_length_c   10.43785900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.51940629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CaC2O3
+_chemical_formula_sum   'Na4 Ca2 C4 O6'
+_cell_volume   233.13279997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.81951600  0.18048400  0.57404000  1
+  Na  Na1  1  0.18048400  0.81951600  0.07404000  1
+  Na  Na2  1  0.81951600  0.18048400  0.92596000  1
+  Na  Na3  1  0.18048400  0.81951600  0.42596000  1
+  Ca  Ca0  1  0.51935000  0.48065000  0.25000000  1
+  Ca  Ca1  1  0.48065000  0.51935000  0.75000000  1
+  C  C0  1  0.85331300  0.14668700  0.25000000  1
+  C  C1  1  0.14668700  0.85331300  0.75000000  1
+  C  C2  1  0.50000000  0.50000000  0.50000000  1
+  C  C3  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.99962400  0.43968300  0.25000000  1
+  O  O1  1  0.00037600  0.56031700  0.75000000  1
+  O  O2  1  0.43968300  0.99962400  0.75000000  1
+  O  O3  1  0.56031700  0.00037600  0.25000000  1
+  O  O4  1  0.00166500  0.99833500  0.25000000  1
+  O  O5  1  0.99833500  0.00166500  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O5 2.413200 1_555
+Na0 O1 2.485632 1_655
+Na0 O2 2.485632 1_545
+Na1 O4 2.413200 1_555
+Na1 O3 2.485632 1_565
+Na1 O0 2.485632 1_455
+Na2 O5 2.413200 1_555
+Na2 O1 2.485632 1_655
+Na2 O2 2.485632 1_545
+Na3 O4 2.413200 1_555
+Na3 O3 2.485632 1_565
+Na3 O0 2.485632 1_455
+Ca0 O3 2.537250 1_565
+Ca0 O0 2.537250 1_455
+Ca0 O3 2.541891 1_555
+Ca0 O0 2.541891 1_555
+Ca0 O4 2.556211 1_655
+Ca0 O4 2.556211 1_545
+Ca1 O1 2.537250 1_655
+Ca1 O2 2.537250 1_545
+Ca1 O1 2.541891 1_555
+Ca1 O2 2.541891 1_555
+Ca1 O5 2.556211 1_565
+Ca1 O5 2.556211 1_455
+C0 O0 1.291746 1_555
+C0 O3 1.291746 1_555
+C0 O4 1.298633 1_645
+C1 O2 1.291746 1_555
+C1 O1 1.291746 1_555
+C1 O5 1.298633 1_465
+C2 Ca1 2.614956 1_555
+C2 Ca0 2.614956 1_555
+C2 Na3 2.901761 1_555
+C2 Na0 2.901761 1_555
+C2 Na0 3.098969 1_455
+C2 Na3 3.098969 1_545
+C2 Na0 3.098969 1_565
+C2 Na3 3.098969 1_655
+C3 Ca1 2.614956 1_554
+C3 Ca0 2.614956 1_555
+C3 Na1 2.901761 1_555
+C3 Na2 2.901761 1_554
+C3 Na1 3.098969 1_545
+C3 Na2 3.098969 1_454
+C3 Na1 3.098969 1_655
+C3 Na2 3.098969 1_564

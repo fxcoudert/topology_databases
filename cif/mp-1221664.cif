@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_MnCd2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60323295
+_cell_length_b   4.60323295
+_cell_length_c   11.18692720
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCd2Te3
+_chemical_formula_sum   'Mn1 Cd2 Te3'
+_cell_volume   205.28977457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333300  0.66666700  0.66410858  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.99686164  1
+  Cd  Cd1  1  0.66666700  0.33333300  0.33764196  1
+  Te  Te0  1  -0.00000000  0.00000000  0.25037032  1
+  Te  Te1  1  0.66666700  0.33333300  0.59208768  1
+  Te  Te2  1  0.33333300  0.66666700  0.90892982  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Te2 2.738797 1_555
+Mn0 Te1 2.777117 1_455
+Mn0 Te1 2.777117 1_565
+Mn0 Te1 2.777124 1_555
+Cd0 Te2 2.833880 1_545
+Cd0 Te2 2.833884 1_445
+Cd0 Te2 2.833884 1_555
+Cd0 Te0 2.835983 1_556
+Cd1 Te0 2.831325 1_655
+Cd1 Te0 2.831329 1_665
+Cd1 Te0 2.831329 1_555
+Cd1 Te1 2.846466 1_555

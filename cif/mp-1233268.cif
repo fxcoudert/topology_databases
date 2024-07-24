@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_MgTiH6(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99616500
+_cell_length_b   5.85074939
+_cell_length_c   5.85074989
+_cell_angle_alpha   120.00000720
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiH6(OF3)2
+_chemical_formula_sum   'Mg1 Ti1 H6 O2 F6'
+_cell_volume   177.75720130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.89839500  0.33333300  0.66666700  1
+  Ti  Ti0  1  0.04632300  0.00000000  0.00000000  1
+  H  H0  1  0.70102700  0.82330900  0.31578800  1
+  H  H1  1  0.70102700  0.49247900  0.17669100  1
+  H  H2  1  0.27216600  0.53159500  0.68186100  1
+  H  H3  1  0.70102700  0.68421200  0.50752100  1
+  H  H4  1  0.27216600  0.31813900  0.84973400  1
+  H  H5  1  0.27216600  0.15026600  0.46840500  1
+  O  O0  1  0.65122100  0.66666700  0.33333300  1
+  O  O1  1  0.23564700  0.33333300  0.66666700  1
+  F  F0  1  0.80540200  0.67800400  0.75006500  1
+  F  F1  1  0.80540200  0.07206100  0.32199600  1
+  F  F2  1  0.26712500  0.95183700  0.24641500  1
+  F  F3  1  0.80540200  0.24993500  0.92793900  1
+  F  F4  1  0.26712500  0.75358500  0.70542200  1
+  F  F5  1  0.26712500  0.29457800  0.04816300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 2.022219 1_655
+H0 O0 1.016723 1_555
+H1 O0 1.016726 1_555
+H2 O1 1.139426 1_555
+H3 O0 1.016729 1_555
+H4 O1 1.139420 1_555
+H5 O1 1.139423 1_555
+F0 H3 1.567894 1_555
+F0 Mg0 1.905687 1_555
+F0 Ti0 2.240423 1_666
+F1 H0 1.567894 1_545
+F1 Mg0 1.905685 1_555
+F1 Ti0 2.240424 1_655
+F2 H5 1.236033 1_565
+F2 Ti0 2.077759 1_565
+F3 H1 1.567894 1_556
+F3 Mg0 1.905681 1_555
+F3 Ti0 2.240424 1_656
+F4 H2 1.236033 1_555
+F4 Ti0 2.077759 1_566
+F5 H4 1.236033 1_554
+F5 Ti0 2.077759 1_555

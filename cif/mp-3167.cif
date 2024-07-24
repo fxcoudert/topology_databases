@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hg2GeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77009073
+_cell_length_b   5.77009095
+_cell_length_c   7.03095806
+_cell_angle_alpha   114.22585464
+_cell_angle_beta   114.22586447
+_cell_angle_gamma   89.99999815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2GeSe4
+_chemical_formula_sum   'Hg2 Ge1 Se4'
+_cell_volume   190.64207031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50000000  0.50000000  -0.00000000  1
+  Hg  Hg1  1  0.25000000  0.75000000  0.50000000  1
+  Ge  Ge0  1  0.75000000  0.25000000  0.50000000  1
+  Se  Se0  1  0.07328330  0.63733554  0.76042047  1
+  Se  Se1  1  0.87691507  0.92671670  0.23957953  1
+  Se  Se2  1  0.68713918  0.12308493  0.76042047  1
+  Se  Se3  1  0.36266446  0.31286082  0.23957953  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Se0 2.686921 1_554
+Hg0 Se1 2.686921 1_555
+Hg0 Se3 2.686929 1_555
+Hg0 Se2 2.686929 1_554
+Hg1 Se1 2.706285 1_455
+Hg1 Se0 2.706285 1_555
+Hg1 Se2 2.706292 1_565
+Hg1 Se3 2.706293 1_555
+Ge0 Se3 2.380306 1_555
+Ge0 Se2 2.380307 1_555
+Ge0 Se0 2.380312 1_655
+Ge0 Se1 2.380312 1_545

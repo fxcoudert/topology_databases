@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zn3CdSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78112559
+_cell_length_b   5.78112559
+_cell_length_c   5.78112559
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3CdSe4
+_chemical_formula_sum   'Zn3 Cd1 Se4'
+_cell_volume   193.21338645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  -0.00000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.50000000  0.50000000  -0.00000000  1
+  Zn  Zn2  1  0.50000000  -0.00000000  0.50000000  1
+  Cd  Cd0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Se  Se0  1  0.73849772  0.73849772  0.26150228  1
+  Se  Se1  1  0.73849772  0.26150228  0.73849772  1
+  Se  Se2  1  0.26150228  0.73849772  0.73849772  1
+  Se  Se3  1  0.26150228  0.26150228  0.26150228  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Se0 2.618475 1_445
+Cd0 Se2 2.618475 1_544
+Cd0 Se1 2.618475 1_454
+Cd0 Se3 2.618475 1_555
+Se0 Zn2 2.467300 1_565
+Se0 Zn0 2.467300 1_655
+Se0 Zn1 2.467300 1_555
+Se1 Zn2 2.467300 1_555
+Se1 Zn0 2.467300 1_655
+Se1 Zn1 2.467300 1_556
+Se2 Zn2 2.467300 1_565
+Se2 Zn0 2.467300 1_555
+Se2 Zn1 2.467300 1_556
+Se3 Zn2 2.467300 1_555
+Se3 Zn0 2.467300 1_555
+Se3 Zn1 2.467300 1_555

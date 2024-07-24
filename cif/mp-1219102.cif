@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_SmAlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48335607
+_cell_length_b   5.47187246
+_cell_length_c   8.71880500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.93555586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAlFe
+_chemical_formula_sum   'Sm4 Al4 Fe4'
+_cell_volume   226.70007702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66550100  0.33269300  0.56350100  1
+  Sm  Sm1  1  0.32495200  0.66251700  0.44956400  1
+  Sm  Sm2  1  0.32495200  0.66251700  0.05043600  1
+  Sm  Sm3  1  0.66550100  0.33269300  0.93649900  1
+  Al  Al0  1  0.67848100  0.83919600  0.75000000  1
+  Al  Al1  1  0.83677300  0.67479000  0.25000000  1
+  Al  Al2  1  0.83675900  0.16197000  0.25000000  1
+  Al  Al3  1  0.32544500  0.16272100  0.25000000  1
+  Fe  Fe0  1  0.01445200  0.00726100  0.51228000  1
+  Fe  Fe1  1  0.01445200  0.00726100  0.98772000  1
+  Fe  Fe2  1  0.15640100  0.31918700  0.75000000  1
+  Fe  Fe3  1  0.15633200  0.83719500  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sm0 Sm3 3.252097 1_555
+Sm0 Sm1 3.287275 1_655
+Sm0 Sm1 3.329735 1_545
+Sm0 Sm1 3.330843 1_555
+Sm2 Sm3 3.287275 1_454
+Sm2 Sm3 3.329735 1_564
+Sm2 Sm3 3.330843 1_554
+Al0 Fe0 2.616205 1_665
+Al0 Fe1 2.616205 1_665
+Al0 Fe3 2.625708 1_655
+Al0 Fe2 2.626087 1_665
+Al0 Fe2 2.856906 1_555
+Al0 Fe3 2.857681 1_555
+Al0 Sm2 3.111840 1_556
+Al0 Sm1 3.111840 1_555
+Al0 Sm0 3.183210 1_565
+Al0 Sm3 3.183210 1_565
+Al0 Sm3 3.183323 1_555
+Al0 Sm0 3.183323 1_555
+Al1 Al2 2.665825 1_565
+Al1 Al3 2.677347 1_665
+Al1 Fe0 2.778339 1_665
+Al1 Fe1 2.778339 1_664
+Al1 Al3 2.805615 1_555
+Al1 Al2 2.806047 1_555
+Al1 Sm3 3.178474 1_554
+Al1 Sm0 3.178474 1_555
+Al1 Sm1 3.221329 1_655
+Al1 Sm2 3.221329 1_655
+Al1 Sm2 3.274185 1_555
+Al1 Sm1 3.274185 1_555
+Al2 Al3 2.677591 1_655
+Al2 Fe0 2.778227 1_655
+Al2 Fe1 2.778227 1_654
+Al2 Al3 2.805770 1_555
+Al2 Sm3 3.178254 1_554
+Al2 Sm0 3.178254 1_555
+Al2 Sm2 3.221417 1_655
+Al2 Sm1 3.221417 1_655
+Al2 Sm1 3.273773 1_545
+Al2 Sm2 3.273773 1_545
+Al3 Fe1 2.722708 1_554
+Al3 Fe0 2.722708 1_555
+Al3 Sm3 3.175263 1_554
+Al3 Sm0 3.175263 1_555
+Al3 Sm1 3.242150 1_545
+Al3 Sm2 3.242150 1_545
+Al3 Sm2 3.242543 1_555
+Al3 Sm1 3.242543 1_555
+Fe0 Fe2 2.547344 1_555
+Fe0 Fe3 2.547470 1_545
+Fe0 Sm0 3.125726 1_555
+Fe0 Sm1 3.156067 1_555
+Fe0 Sm1 3.156225 1_545
+Fe0 Sm0 3.229897 1_455
+Fe0 Sm0 3.230518 1_445
+Fe0 Sm1 3.321687 1_445
+Fe1 Fe2 2.547344 1_555
+Fe1 Fe3 2.547470 1_545
+Fe1 Sm3 3.125726 1_555
+Fe1 Sm2 3.156067 1_556
+Fe1 Sm2 3.156225 1_546
+Fe1 Sm3 3.229897 1_455
+Fe1 Sm3 3.230518 1_445
+Fe1 Sm2 3.321687 1_446
+Fe2 Fe3 2.637210 1_545
+Fe2 Fe3 2.834663 1_555
+Fe2 Sm1 3.084171 1_555
+Fe2 Sm2 3.084171 1_556
+Fe2 Sm3 3.177061 1_455
+Fe2 Sm0 3.177061 1_455
+Fe2 Sm3 3.199452 1_555
+Fe2 Sm0 3.199452 1_555
+Fe3 Sm2 3.084151 1_556
+Fe3 Sm1 3.084151 1_555
+Fe3 Sm3 3.176964 1_455
+Fe3 Sm0 3.176964 1_455
+Fe3 Sm3 3.199238 1_565
+Fe3 Sm0 3.199238 1_565

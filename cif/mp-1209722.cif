@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_Sm5CuPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55570947
+_cell_length_b   9.55570947
+_cell_length_c   6.92072200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm5CuPb3
+_chemical_formula_sum   'Sm10 Cu2 Pb6'
+_cell_volume   547.27791928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.33333300  0.66666700  0.00000000  1
+  Sm  Sm1  1  0.66666700  0.33333300  0.00000000  1
+  Sm  Sm2  1  0.66666700  0.33333300  0.50000000  1
+  Sm  Sm3  1  0.33333300  0.66666700  0.50000000  1
+  Sm  Sm4  1  0.25300400  0.00000000  0.25000000  1
+  Sm  Sm5  1  0.74699600  0.00000000  0.75000000  1
+  Sm  Sm6  1  0.00000000  0.25300400  0.25000000  1
+  Sm  Sm7  1  0.00000000  0.74699600  0.75000000  1
+  Sm  Sm8  1  0.74699600  0.74699600  0.25000000  1
+  Sm  Sm9  1  0.25300400  0.25300400  0.75000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  Pb  Pb0  1  0.61181900  0.00000000  0.25000000  1
+  Pb  Pb1  1  0.38818100  0.00000000  0.75000000  1
+  Pb  Pb2  1  0.00000000  0.61181900  0.25000000  1
+  Pb  Pb3  1  0.00000000  0.38818100  0.75000000  1
+  Pb  Pb4  1  0.38818100  0.38818100  0.25000000  1
+  Pb  Pb5  1  0.61181900  0.61181900  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Sm6 2.972957 1_555
+Cu0 Sm5 2.972957 1_454
+Cu0 Sm4 2.972957 1_555
+Cu0 Sm7 2.972957 1_544
+Cu0 Sm9 2.972957 1_554
+Cu0 Sm8 2.972957 1_445
+Cu1 Sm6 2.972957 1_555
+Cu1 Sm7 2.972957 1_545
+Cu1 Sm4 2.972957 1_555
+Cu1 Sm5 2.972957 1_455
+Cu1 Sm9 2.972957 1_555
+Cu1 Sm8 2.972957 1_445
+Pb0 Sm8 3.261342 1_545
+Pb0 Sm6 3.261342 1_655
+Pb0 Sm2 3.427027 1_555
+Pb0 Sm1 3.427027 1_555
+Pb0 Sm3 3.427030 1_545
+Pb0 Sm0 3.427030 1_545
+Pb0 Sm4 3.428732 1_555
+Pb0 Sm5 3.693592 1_554
+Pb0 Sm5 3.693592 1_555
+Pb1 Sm9 3.261342 1_555
+Pb1 Sm7 3.261342 1_545
+Pb1 Sm0 3.427027 1_546
+Pb1 Sm3 3.427027 1_545
+Pb1 Sm2 3.427030 1_555
+Pb1 Sm1 3.427030 1_556
+Pb1 Sm5 3.428732 1_555
+Pb1 Sm4 3.693592 1_555
+Pb1 Sm4 3.693592 1_556
+Pb2 Sm8 3.261342 1_455
+Pb2 Sm4 3.261342 1_565
+Pb2 Sm0 3.427027 1_555
+Pb2 Sm3 3.427027 1_555
+Pb2 Sm2 3.427030 1_455
+Pb2 Sm1 3.427030 1_455
+Pb2 Sm6 3.428732 1_555
+Pb2 Sm7 3.693592 1_554
+Pb2 Sm7 3.693592 1_555
+Pb3 Sm9 3.261342 1_555
+Pb3 Sm5 3.261342 1_455
+Pb3 Sm2 3.427027 1_455
+Pb3 Sm1 3.427027 1_456
+Pb3 Sm0 3.427030 1_556
+Pb3 Sm3 3.427030 1_555
+Pb3 Sm7 3.428732 1_555
+Pb3 Sm6 3.693592 1_555
+Pb3 Sm6 3.693592 1_556
+Pb4 Sm6 3.261342 1_555
+Pb4 Sm4 3.261342 1_555
+Pb4 Sm2 3.427035 1_555
+Pb4 Sm1 3.427035 1_555
+Pb4 Sm3 3.427035 1_555
+Pb4 Sm0 3.427035 1_555
+Pb4 Sm8 3.428732 1_555
+Pb4 Sm9 3.693592 1_555
+Pb4 Sm9 3.693592 1_554
+Pb5 Sm7 3.261342 1_655
+Pb5 Sm5 3.261342 1_565
+Pb5 Sm3 3.427035 1_555
+Pb5 Sm0 3.427035 1_556
+Pb5 Sm1 3.427035 1_556
+Pb5 Sm2 3.427035 1_555
+Pb5 Sm9 3.428732 1_555
+Pb5 Sm8 3.693592 1_555
+Pb5 Sm8 3.693592 1_556

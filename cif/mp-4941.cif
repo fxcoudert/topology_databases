@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Sr2SnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72395786
+_cell_length_b   5.81373830
+_cell_length_c   6.90464677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.48785449
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2SnO4
+_chemical_formula_sum   'Sr4 Sn2 O8'
+_cell_volume   209.10201791
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14690198  0.48782758  0.29380497  1
+  Sr  Sr1  1  0.85309802  0.51217242  0.70619603  1
+  Sr  Sr2  1  0.35309802  0.98782758  0.70619603  1
+  Sr  Sr3  1  0.64690198  0.01217242  0.29380497  1
+  Sn  Sn0  1  0.50000000  0.50000000  -0.00000000  1
+  Sn  Sn1  1  -0.00000000  -0.00000000  -0.00000000  1
+  O  O0  1  0.33727366  0.54714000  0.67454932  1
+  O  O1  1  0.66272634  0.45286000  0.32545068  1
+  O  O2  1  0.16272634  0.04714000  0.32545068  1
+  O  O3  1  0.83727366  0.95286000  0.67454932  1
+  O  O4  1  0.23305084  0.25000000  0.96610368  1
+  O  O5  1  0.26694916  0.75000000  0.03389632  1
+  O  O6  1  0.73305084  0.25000000  0.96610368  1
+  O  O7  1  0.76694916  0.75000000  0.03389632  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Sn0 2.063274 1_556
+O0 Sr0 2.417156 1_555
+O0 Sr2 2.569748 1_555
+O0 Sr1 2.876067 1_455
+O0 Sr1 2.876078 1_555
+O1 Sn0 2.063274 1_555
+O1 Sr1 2.417162 1_555
+O1 Sr3 2.569747 1_555
+O1 Sr0 2.876064 1_655
+O1 Sr0 2.876081 1_555
+O2 Sn1 2.063274 1_555
+O2 Sr2 2.417162 1_545
+O2 Sr0 2.569747 1_555
+O2 Sr3 2.876064 1_555
+O2 Sr3 2.876081 1_455
+O3 Sn1 2.063274 1_666
+O3 Sr3 2.417156 1_565
+O3 Sr1 2.569748 1_555
+O3 Sr2 2.876067 1_555
+O3 Sr2 2.876078 1_655
+O4 Sn1 2.050744 1_556
+O4 Sn0 2.050752 1_556
+O4 Sr1 2.652937 1_455
+O4 Sr2 2.652943 1_545
+O4 Sr0 2.863481 1_556
+O4 Sr3 2.863484 1_556
+O5 Sn0 2.050744 1_555
+O5 Sn1 2.050752 1_565
+O5 Sr3 2.652940 1_565
+O5 Sr0 2.652949 1_555
+O5 Sr2 2.863475 1_554
+O5 Sr1 2.863481 1_454
+O6 Sn0 2.050744 1_556
+O6 Sn1 2.050752 1_656
+O6 Sr2 2.652937 1_545
+O6 Sr1 2.652943 1_555
+O6 Sr3 2.863481 1_556
+O6 Sr0 2.863484 1_656
+O7 Sn1 2.050744 1_665
+O7 Sn0 2.050752 1_555
+O7 Sr0 2.652940 1_655
+O7 Sr3 2.652949 1_565
+O7 Sr1 2.863475 1_554
+O7 Sr2 2.863481 1_554

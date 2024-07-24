@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Fe(ReO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80180685
+_cell_length_b   4.80184485
+_cell_length_c   8.50878000
+_cell_angle_alpha   89.99858856
+_cell_angle_beta   89.99906940
+_cell_angle_gamma   89.89943639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(ReO3)2
+_chemical_formula_sum   'Fe2 Re4 O12'
+_cell_volume   196.19116051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.99978700  0.00033500  0.66672500  1
+  Fe  Fe1  1  0.50009400  0.49996100  0.16665000  1
+  Re  Re0  1  0.49990300  0.49997900  0.51567600  1
+  Re  Re1  1  0.49989600  0.49995600  0.81753500  1
+  Re  Re2  1  0.00013100  0.00002300  0.01457200  1
+  Re  Re3  1  0.00010300  0.99999000  0.31879200  1
+  O  O0  1  0.21955100  0.78041200  0.16679800  1
+  O  O1  1  0.78051400  0.21943600  0.16680300  1
+  O  O2  1  0.27946800  0.27941000  0.66656000  1
+  O  O3  1  0.72047700  0.72041900  0.66653800  1
+  O  O4  1  0.20708400  0.79291700  0.49276400  1
+  O  O5  1  0.20708900  0.79291200  0.84047900  1
+  O  O6  1  0.79287800  0.20711100  0.49270700  1
+  O  O7  1  0.79286700  0.20711700  0.84051700  1
+  O  O8  1  0.29301900  0.29299800  0.34044600  1
+  O  O9  1  0.29312900  0.29309100  0.99298400  1
+  O  O10  1  0.70707500  0.70704800  0.34050200  1
+  O  O11  1  0.70693600  0.70688500  0.99295100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O2 1.898868 1_655
+Fe0 O3 1.900465 1_545
+Fe0 O7 2.038732 1_555
+Fe0 O6 2.040075 1_555
+Fe0 O5 2.040876 1_645
+Fe0 O4 2.042141 1_645
+Fe1 O1 1.902963 1_555
+Fe1 O0 1.903129 1_555
+Fe1 O11 2.039971 1_554
+Fe1 O9 2.039988 1_554
+Fe1 O8 2.041206 1_555
+Fe1 O10 2.041680 1_555
+O0 Re3 1.972512 1_555
+O0 Re2 1.973808 1_565
+O1 Re3 1.972496 1_645
+O1 Re2 1.973845 1_655
+O2 Re0 1.973381 1_555
+O2 Re1 1.973864 1_555
+O3 Re0 1.973341 1_555
+O3 Re1 1.974110 1_555
+O4 Re0 1.996674 1_555
+O4 Re3 2.040653 1_555
+O5 Re1 1.996724 1_555
+O5 Re2 2.041447 1_566
+O6 Re0 1.997015 1_555
+O6 Re3 2.040995 1_645
+O7 Re1 1.996912 1_555
+O7 Re2 2.041875 1_656
+O8 Re3 1.999705 1_545
+O8 Re0 2.049718 1_555
+O9 Re2 2.000124 1_556
+O9 Re1 2.050472 1_555
+O10 Re3 1.999894 1_655
+O10 Re0 2.050190 1_555
+O11 Re2 2.001063 1_666
+O11 Re1 2.051112 1_555

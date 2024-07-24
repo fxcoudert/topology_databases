@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CaCdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25175084
+_cell_length_b   7.47906528
+_cell_length_c   8.91821995
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCdAu
+_chemical_formula_sum   'Ca4 Cd4 Au4'
+_cell_volume   283.59156499
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.54585105  0.81884237  1
+  Ca  Ca1  1  0.75000000  0.95414895  0.31884237  1
+  Ca  Ca2  1  0.75000000  0.45414895  0.18115763  1
+  Ca  Ca3  1  0.25000000  0.04585105  0.68115763  1
+  Cd  Cd0  1  0.75000000  0.36218096  0.56196798  1
+  Cd  Cd1  1  0.25000000  0.63781904  0.43803202  1
+  Cd  Cd2  1  0.25000000  0.13781904  0.06196798  1
+  Cd  Cd3  1  0.75000000  0.86218096  0.93803202  1
+  Au  Au0  1  0.25000000  0.74766945  0.13045465  1
+  Au  Au1  1  0.25000000  0.24766945  0.36954535  1
+  Au  Au2  1  0.75000000  0.25233055  0.86954535  1
+  Au  Au3  1  0.75000000  0.75233055  0.63045465  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Cd3 2.863166 1_554
+Au0 Cd3 2.863166 1_454
+Au0 Cd1 2.863437 1_555
+Au0 Cd2 2.981192 1_565
+Au0 Ca2 3.089171 1_455
+Au0 Ca2 3.089171 1_555
+Au0 Ca1 3.118783 1_455
+Au0 Ca1 3.118783 1_555
+Au0 Ca0 3.162486 1_554
+Au1 Cd0 2.863166 1_455
+Au1 Cd0 2.863166 1_555
+Au1 Cd2 2.863437 1_555
+Au1 Cd1 2.981192 1_555
+Au1 Ca1 3.089171 1_545
+Au1 Ca1 3.089171 1_445
+Au1 Ca2 3.118783 1_455
+Au1 Ca2 3.118783 1_555
+Au1 Ca3 3.162486 1_555
+Au2 Cd2 2.863166 1_656
+Au2 Cd2 2.863166 1_556
+Au2 Cd0 2.863437 1_555
+Au2 Cd3 2.981192 1_545
+Au2 Ca0 3.089171 1_655
+Au2 Ca0 3.089171 1_555
+Au2 Ca3 3.118783 1_555
+Au2 Ca3 3.118783 1_655
+Au2 Ca2 3.162486 1_556
+Au3 Cd1 2.863166 1_555
+Au3 Cd1 2.863166 1_655
+Au3 Cd3 2.863437 1_555
+Au3 Cd0 2.981192 1_555
+Au3 Ca3 3.089171 1_565
+Au3 Ca3 3.089171 1_665
+Au3 Ca0 3.118783 1_655
+Au3 Ca0 3.118783 1_555
+Au3 Ca1 3.162486 1_555

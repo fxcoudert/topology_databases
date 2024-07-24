@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_V3Ag2TeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53697634
+_cell_length_b   5.53704612
+_cell_length_c   8.03313990
+_cell_angle_alpha   89.99999268
+_cell_angle_beta   89.99999875
+_cell_angle_gamma   119.99968122
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3Ag2TeS6
+_chemical_formula_sum   'V3 Ag2 Te1 S6'
+_cell_volume   213.28885652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.65925922  0.65925821  0.50000041  1
+  V  V1  1  0.34074084  0.99999962  0.50000000  1
+  V  V2  1  0.00000136  0.34074335  0.49999996  1
+  Ag  Ag0  1  0.66666536  0.33333395  0.99999955  1
+  Ag  Ag1  1  0.33333052  0.66666617  0.99999953  1
+  Te  Te0  1  0.00002195  0.00000330  0.99999935  1
+  S  S0  1  0.33333179  0.66666245  0.68264792  1
+  S  S1  1  0.33333145  0.66666236  0.31735246  1
+  S  S2  1  0.66667048  0.33333670  0.68264800  1
+  S  S3  1  0.66667058  0.33333667  0.31735239  1
+  S  S4  1  0.99998820  0.99999858  0.67238855  1
+  S  S5  1  0.99998825  0.99999864  0.32761188  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 S2 2.549329 1_555
+Ag0 S3 2.549340 1_556
+Ag0 Te0 3.196674 1_555
+Ag0 Te0 3.196838 1_665
+Ag0 Te0 3.196888 1_655
+Ag1 S0 2.549330 1_555
+Ag1 S1 2.549340 1_556
+Ag1 Te0 3.196689 1_565
+Ag1 Te0 3.196807 1_555
+Ag1 Te0 3.196904 1_665
+S0 V2 2.342050 1_555
+S0 V0 2.342052 1_555
+S0 V1 2.342086 1_555
+S1 V2 2.342047 1_555
+S1 V0 2.342056 1_555
+S1 V1 2.342084 1_555
+S2 V2 2.342047 1_655
+S2 V0 2.342060 1_555
+S2 V1 2.342088 1_545
+S3 V2 2.342044 1_655
+S3 V0 2.342063 1_555
+S3 V1 2.342086 1_545
+S4 V0 2.340344 1_555
+S4 V2 2.340364 1_665
+S4 V1 2.340407 1_655
+S4 Te0 2.631743 1_665
+S5 V0 2.340346 1_555
+S5 V2 2.340362 1_665
+S5 V1 2.340405 1_655
+S5 Te0 2.631757 1_664

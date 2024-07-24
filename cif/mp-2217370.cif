@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_BaHoMg(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70326001
+_cell_length_b   5.53122886
+_cell_length_c   7.83244871
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHoMg(CoO3)2
+_chemical_formula_sum   'Ba1 Ho1 Mg1 Co2 O6'
+_cell_volume   160.43657912
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.50000000  1
+  Ho  Ho0  1  0.50000000  0.50000000  -0.00000000  1
+  Mg  Mg0  1  0.50000000  -0.00000000  -0.00000000  1
+  Co  Co0  1  0.00000000  0.00000000  0.73439310  1
+  Co  Co1  1  -0.00000000  -0.00000000  0.26560690  1
+  O  O0  1  -0.00000000  -0.00000000  -0.00000000  1
+  O  O1  1  -0.00000000  -0.00000000  0.50000000  1
+  O  O2  1  0.50000000  -0.00000000  0.75755829  1
+  O  O3  1  0.00000000  0.50000000  0.81282795  1
+  O  O4  1  0.50000000  0.00000000  0.24244171  1
+  O  O5  1  0.00000000  0.50000000  0.18717205  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O5 3.071165 1_555
+Ba0 O3 3.071165 1_555
+Ba0 O5 3.071165 1_655
+Ba0 O3 3.071165 1_655
+Ba0 O1 3.328236 1_655
+Ba0 O1 3.328236 1_555
+Ba0 O1 3.328236 1_565
+Ba0 O1 3.328236 1_665
+Ba0 O4 3.423181 1_555
+Ba0 O4 3.423181 1_565
+Ba0 O2 3.423181 1_555
+Ba0 O2 3.423181 1_565
+Ho0 O3 2.361723 1_654
+Ho0 O5 2.361723 1_655
+Ho0 O3 2.361723 1_554
+Ho0 O5 2.361723 1_555
+Mg0 O0 1.851630 1_655
+Mg0 O0 1.851630 1_555
+Mg0 O4 1.898912 1_555
+Mg0 O2 1.898912 1_554
+Co0 O1 1.835872 1_555
+Co0 O2 1.860498 1_555
+Co0 O2 1.860498 1_455
+Co0 O0 2.080352 1_556
+Co1 O1 1.835872 1_555
+Co1 O4 1.860498 1_555
+Co1 O4 1.860498 1_455
+Co1 O0 2.080352 1_555

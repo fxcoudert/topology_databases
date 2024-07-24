@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_Tb2Cu(GeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99112500
+_cell_length_b   7.31600589
+_cell_length_c   8.04406403
+_cell_angle_alpha   113.73381837
+_cell_angle_beta   86.83751459
+_cell_angle_gamma   103.21467038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Cu(GeO3)4
+_chemical_formula_sum   'Tb2 Cu1 Ge4 O12'
+_cell_volume   261.54385222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.95352400  0.76952000  0.54837600  1
+  Tb  Tb1  1  0.04647600  0.23048000  0.45162400  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.46017100  0.83045800  0.22350900  1
+  Ge  Ge1  1  0.53982900  0.16954200  0.77649100  1
+  Ge  Ge2  1  0.41869000  0.61609100  0.79682800  1
+  Ge  Ge3  1  0.58131000  0.38390900  0.20317200  1
+  O  O0  1  0.22720100  0.93314100  0.38738600  1
+  O  O1  1  0.77279900  0.06685900  0.61261400  1
+  O  O2  1  0.20815300  0.57644600  0.61331100  1
+  O  O3  1  0.79184700  0.42355400  0.38668900  1
+  O  O4  1  0.58097800  0.65612300  0.29239000  1
+  O  O5  1  0.41902200  0.34387700  0.70761000  1
+  O  O6  1  0.26714500  0.68714800  0.01188900  1
+  O  O7  1  0.25669500  0.22339600  0.19214600  1
+  O  O8  1  0.74330500  0.77660400  0.80785400  1
+  O  O9  1  0.24736500  0.99509200  0.79756900  1
+  O  O10  1  0.75263500  0.00490800  0.20243100  1
+  O  O11  1  0.73285500  0.31285200  0.98811100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O10 1.982060 1_455
+Cu0 O9 1.982060 1_544
+Cu0 O7 1.982238 1_555
+Cu0 O8 1.982238 1_444
+Ge0 O10 1.756002 1_565
+Ge0 O0 1.757054 1_555
+Ge0 O6 1.790989 1_555
+Ge0 O4 1.804065 1_555
+Ge1 O9 1.756002 1_545
+Ge1 O1 1.757054 1_555
+Ge1 O11 1.790989 1_555
+Ge1 O5 1.804065 1_555
+Ge2 O2 1.747775 1_555
+Ge2 O8 1.753296 1_555
+Ge2 O6 1.773865 1_556
+Ge2 O5 1.825394 1_555
+Ge3 O3 1.747775 1_555
+Ge3 O7 1.753296 1_555
+Ge3 O11 1.773865 1_554
+Ge3 O4 1.825394 1_555
+O0 Tb0 2.298032 1_455
+O0 Tb1 2.398661 1_565
+O1 Tb1 2.298032 1_655
+O1 Tb0 2.398661 1_545
+O2 Tb1 2.298088 1_555
+O2 Tb0 2.317576 1_455
+O3 Tb0 2.298088 1_555
+O3 Tb1 2.317576 1_655
+O4 Tb0 2.593823 1_555
+O5 Tb1 2.593823 1_555
+O7 Tb1 2.270762 1_555
+O8 Tb0 2.270762 1_555
+O9 Tb0 2.333962 1_455
+O10 Tb1 2.333962 1_655

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2FeO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21167825
+_cell_length_b   5.21167825
+_cell_length_c   5.14627272
+_cell_angle_alpha   81.07450822
+_cell_angle_beta   81.07450822
+_cell_angle_gamma   120.69108414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2FeO2F
+_chemical_formula_sum   'Li4 Fe2 O4 F2'
+_cell_volume   114.13924881
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.50000000  1
+  Li  Li2  1  0.32665400  0.67334600  0.00000000  1
+  Li  Li3  1  0.67334600  0.32665400  0.00000000  1
+  Fe  Fe0  1  0.18939800  0.81060200  0.50000000  1
+  Fe  Fe1  1  0.81060200  0.18939800  0.50000000  1
+  O  O0  1  0.41381600  0.07028500  0.73266300  1
+  O  O1  1  0.92971500  0.58618400  0.26733700  1
+  O  O2  1  0.58618400  0.92971500  0.26733700  1
+  O  O3  1  0.07028500  0.41381600  0.73266300  1
+  F  F0  1  0.76215400  0.76215400  0.74578200  1
+  F  F1  1  0.23784600  0.23784600  0.25421800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.189681 1_445
+Li0 O2 2.189681 1_445
+Li0 O3 2.189681 1_554
+Li0 O0 2.189681 1_554
+Li1 O2 2.150605 1_555
+Li1 O3 2.150605 1_555
+Li1 O1 2.150605 1_555
+Li1 O0 2.150605 1_555
+Li2 O0 2.083834 1_564
+Li2 O1 2.083834 1_455
+Li2 O2 2.193280 1_555
+Li2 O3 2.193280 1_554
+Li3 O2 2.083834 1_545
+Li3 O3 2.083834 1_654
+Li3 O1 2.193280 1_555
+Li3 O0 2.193280 1_554
+Fe0 O3 1.945741 1_555
+Fe0 O2 1.945741 1_555
+Fe0 O0 1.988657 1_565
+Fe0 O1 1.988657 1_455
+Fe1 O0 1.945741 1_555
+Fe1 O1 1.945741 1_555
+Fe1 O3 1.988657 1_655
+Fe1 O2 1.988657 1_545
+F0 Li0 2.054891 1_666
+F0 Li1 2.121359 1_555
+F0 Li3 2.212605 1_556
+F0 Li2 2.212605 1_556
+F0 Fe0 2.252704 1_655
+F0 Fe1 2.252704 1_565
+F1 Li0 2.054891 1_555
+F1 Li1 2.121359 1_555
+F1 Li3 2.212605 1_555
+F1 Li2 2.212605 1_555
+F1 Fe1 2.252704 1_455
+F1 Fe0 2.252704 1_545

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiSbN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78413800
+_cell_length_b   6.96137100
+_cell_length_c   5.44758000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSbN2
+_chemical_formula_sum   'Li4 Sb4 N8'
+_cell_volume   219.34969882
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.58320100  0.37477700  0.00063600  1
+  Li  Li1  1  0.41679900  0.62522300  0.50063600  1
+  Li  Li2  1  0.91679900  0.87477700  0.50063600  1
+  Li  Li3  1  0.08320100  0.12522300  0.00063600  1
+  Sb  Sb0  1  0.58115600  0.87398700  0.00418000  1
+  Sb  Sb1  1  0.41884400  0.12601300  0.50418000  1
+  Sb  Sb2  1  0.91884400  0.37398700  0.50418000  1
+  Sb  Sb3  1  0.08115600  0.62601300  0.00418000  1
+  N  N0  1  0.58790900  0.36451300  0.39032100  1
+  N  N1  1  0.41209100  0.63548700  0.89032100  1
+  N  N2  1  0.91209100  0.86451300  0.89032100  1
+  N  N3  1  0.08790900  0.13548700  0.39032100  1
+  N  N4  1  0.56534600  0.88461300  0.37486300  1
+  N  N5  1  0.43465400  0.11538700  0.87486300  1
+  N  N6  1  0.93465400  0.38461300  0.87486300  1
+  N  N7  1  0.06534600  0.61538700  0.37486300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N5 2.113831 1_554
+Li0 N0 2.124217 1_555
+Li0 N6 2.146304 1_554
+Li0 N1 2.152801 1_554
+Li1 N4 2.113831 1_555
+Li1 N1 2.124217 1_555
+Li1 N7 2.146304 1_555
+Li1 N0 2.152801 1_555
+Li2 N7 2.113831 1_655
+Li2 N2 2.124217 1_555
+Li2 N4 2.146304 1_555
+Li2 N3 2.152801 1_665
+Li3 N6 2.113831 1_454
+Li3 N3 2.124217 1_555
+Li3 N5 2.146304 1_554
+Li3 N2 2.152801 1_444
+N0 Sb2 2.013238 1_555
+N0 Sb1 2.024240 1_555
+N1 Sb3 2.013238 1_556
+N1 Sb0 2.024240 1_556
+N2 Sb0 2.013238 1_556
+N2 Sb3 2.024240 1_656
+N3 Sb1 2.013238 1_555
+N3 Sb2 2.024240 1_455
+N4 Sb1 2.009560 1_565
+N4 Sb0 2.022748 1_555
+N5 Sb0 2.009560 1_546
+N5 Sb1 2.022748 1_555
+N6 Sb3 2.009560 1_656
+N6 Sb2 2.022748 1_555
+N7 Sb2 2.009560 1_455
+N7 Sb3 2.022748 1_555

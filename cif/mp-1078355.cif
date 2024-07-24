@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_ScNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59726312
+_cell_length_b   7.13621337
+_cell_length_c   7.13634627
+_cell_angle_alpha   119.99938701
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNiSn
+_chemical_formula_sum   'Sc3 Ni3 Sn3'
+_cell_volume   158.65335520
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.00000000  0.39870538  0.00000000  1
+  Sc  Sc1  1  -0.00000000  0.60127149  0.60124962  1
+  Sc  Sc2  1  -0.00000000  1.00002087  0.39875038  1
+  Ni  Ni0  1  -0.00000000  0.99929551  1.00000000  1
+  Ni  Ni1  1  0.50000000  0.33340008  0.66620246  1
+  Ni  Ni2  1  0.50000000  0.66719862  0.33379754  1
+  Sn  Sn0  1  0.50000000  0.73212007  1.00000000  1
+  Sn  Sn1  1  0.50000000  0.26782341  0.26775884  1
+  Sn  Sn2  1  0.50000000  0.00006557  0.73224116  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sn0 2.982655 1_454
+Sc0 Sn0 2.982655 1_554
+Sc0 Sn2 3.089226 1_554
+Sc0 Sn2 3.089226 1_454
+Sc0 Sn1 3.089230 1_555
+Sc0 Sn1 3.089230 1_455
+Sc1 Sn1 2.983002 1_455
+Sc1 Sn1 2.983002 1_555
+Sc1 Sn0 3.089896 1_555
+Sc1 Sn0 3.089896 1_455
+Sc1 Sn2 3.089932 1_565
+Sc1 Sn2 3.089932 1_465
+Sc2 Sn2 2.982996 1_565
+Sc2 Sn2 2.982996 1_465
+Sc2 Sn0 3.089895 1_454
+Sc2 Sn0 3.089895 1_554
+Sc2 Sn1 3.089932 1_465
+Sc2 Sn1 3.089932 1_565
+Ni0 Sn0 2.621122 1_455
+Ni0 Sn0 2.621122 1_555
+Ni0 Sn1 2.626181 1_566
+Ni0 Sn1 2.626181 1_466
+Ni0 Sn2 2.626183 1_565
+Ni0 Sn2 2.626183 1_465
+Ni0 Sc1 2.843033 1_555
+Ni0 Sc2 2.843036 1_556
+Ni0 Sc0 2.850274 1_566
+Ni1 Sn1 2.640736 1_555
+Ni1 Sn0 2.644358 1_555
+Ni1 Sn2 2.646045 1_555
+Ni1 Sc1 2.826686 1_555
+Ni1 Sc1 2.826686 1_655
+Ni1 Sc2 2.827937 1_645
+Ni1 Sc2 2.827937 1_545
+Ni1 Sc0 2.831347 1_556
+Ni1 Sc0 2.831347 1_656
+Ni2 Sn2 2.640736 1_565
+Ni2 Sn0 2.644353 1_554
+Ni2 Sn1 2.646060 1_555
+Ni2 Sc2 2.826675 1_655
+Ni2 Sc2 2.826675 1_555
+Ni2 Sc1 2.827937 1_655
+Ni2 Sc1 2.827937 1_555
+Ni2 Sc0 2.831349 1_555
+Ni2 Sc0 2.831349 1_655

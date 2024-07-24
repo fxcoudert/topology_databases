@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_PrNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59256408
+_cell_length_b   7.62777150
+_cell_length_c   7.54124086
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiSn
+_chemical_formula_sum   'Pr4 Ni4 Sn4'
+_cell_volume   264.17743029
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.80396018  0.47871964  1
+  Pr  Pr1  1  0.75000000  0.19603982  0.52128036  1
+  Pr  Pr2  1  0.75000000  0.30396018  0.02128036  1
+  Pr  Pr3  1  0.25000000  0.69603982  0.97871964  1
+  Ni  Ni0  1  0.75000000  0.58311214  0.31311515  1
+  Ni  Ni1  1  0.75000000  0.91688786  0.81311515  1
+  Ni  Ni2  1  0.25000000  0.08311214  0.18688485  1
+  Ni  Ni3  1  0.25000000  0.41688686  0.68688485  1
+  Sn  Sn0  1  0.75000000  0.59015762  0.68364466  1
+  Sn  Sn1  1  0.75000000  0.90984238  0.18364466  1
+  Sn  Sn2  1  0.25000000  0.09015762  0.81635534  1
+  Sn  Sn3  1  0.25000000  0.40984238  0.31635534  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Sn0 3.212595 1_455
+Pr0 Sn0 3.212595 1_555
+Pr0 Sn3 3.246029 1_555
+Pr0 Sn1 3.298008 1_555
+Pr0 Sn1 3.298008 1_455
+Pr0 Sn2 3.353922 1_565
+Pr1 Sn3 3.212595 1_655
+Pr1 Sn3 3.212595 1_555
+Pr1 Sn0 3.246029 1_555
+Pr1 Sn2 3.298008 1_555
+Pr1 Sn2 3.298008 1_655
+Pr1 Sn1 3.353922 1_545
+Pr2 Sn2 3.212595 1_654
+Pr2 Sn2 3.212595 1_554
+Pr2 Sn1 3.246029 1_545
+Pr2 Sn3 3.298008 1_555
+Pr2 Sn3 3.298008 1_655
+Pr2 Sn0 3.353922 1_554
+Pr3 Sn1 3.212595 1_456
+Pr3 Sn1 3.212595 1_556
+Pr3 Sn2 3.246029 1_565
+Pr3 Sn0 3.298008 1_455
+Pr3 Sn0 3.298008 1_555
+Pr3 Sn3 3.353922 1_556
+Ni0 Sn3 2.649585 1_555
+Ni0 Sn3 2.649585 1_655
+Ni0 Sn1 2.676653 1_555
+Ni0 Sn0 2.794769 1_555
+Ni0 Pr2 3.062263 1_555
+Ni0 Pr0 3.109723 1_555
+Ni0 Pr0 3.109723 1_655
+Ni0 Pr1 3.343890 1_555
+Ni0 Pr3 3.517692 1_554
+Ni0 Pr3 3.517692 1_654
+Ni1 Sn2 2.649585 1_665
+Ni1 Sn2 2.649585 1_565
+Ni1 Sn0 2.676653 1_555
+Ni1 Sn1 2.794769 1_556
+Ni1 Pr1 3.062263 1_565
+Ni1 Pr3 3.109723 1_655
+Ni1 Pr3 3.109723 1_555
+Ni1 Pr2 3.343890 1_566
+Ni1 Pr0 3.517692 1_555
+Ni1 Pr0 3.517692 1_655
+Ni2 Sn1 2.649585 1_545
+Ni2 Sn1 2.649585 1_445
+Ni2 Sn3 2.676653 1_555
+Ni2 Sn2 2.794769 1_554
+Ni2 Pr0 3.062263 1_545
+Ni2 Pr2 3.109723 1_555
+Ni2 Pr2 3.109723 1_455
+Ni2 Pr3 3.343890 1_544
+Ni2 Pr1 3.517692 1_555
+Ni2 Pr1 3.517692 1_455
+Ni3 Sn0 2.649589 1_455
+Ni3 Sn0 2.649589 1_555
+Ni3 Sn2 2.676646 1_555
+Ni3 Sn3 2.794769 1_555
+Ni3 Pr3 3.062268 1_555
+Ni3 Pr1 3.109719 1_555
+Ni3 Pr1 3.109719 1_455
+Ni3 Pr0 3.343897 1_555
+Ni3 Pr2 3.517690 1_556
+Ni3 Pr2 3.517690 1_456

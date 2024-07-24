@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_NaH2(SO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21140476
+_cell_length_b   8.21140476
+_cell_length_c   5.47208302
+_cell_angle_alpha   75.78771026
+_cell_angle_beta   75.78771026
+_cell_angle_gamma   46.54433042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaH2(SO2)2
+_chemical_formula_sum   'Na2 H4 S4 O8'
+_cell_volume   258.09300831
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68851600  0.85032700  0.98216800  1
+  Na  Na1  1  0.14967300  0.31148400  0.01783200  1
+  H  H0  1  0.66255100  0.51962300  0.24122300  1
+  H  H1  1  0.48037700  0.33744900  0.75877700  1
+  H  H2  1  0.68426800  0.52291900  0.94639200  1
+  H  H3  1  0.47708100  0.31573200  0.05360800  1
+  S  S0  1  0.02548000  0.02265400  0.65446700  1
+  S  S1  1  0.97734600  0.97452000  0.34553300  1
+  S  S2  1  0.36484300  0.90337700  0.58210400  1
+  S  S3  1  0.09662300  0.63515700  0.41789600  1
+  O  O0  1  0.52777600  0.65536500  0.61415100  1
+  O  O1  1  0.34463500  0.47222400  0.38584900  1
+  O  O2  1  0.35871500  0.99950000  0.78143200  1
+  O  O3  1  0.00050000  0.64128500  0.21856800  1
+  O  O4  1  0.38312300  0.99964300  0.32376100  1
+  O  O5  1  0.00035700  0.61687700  0.67623900  1
+  O  O6  1  0.75886900  0.49967600  0.08291200  1
+  O  O7  1  0.50032400  0.24113100  0.91708800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O3 2.381321 1_656
+Na0 O7 2.387543 1_565
+Na0 O5 2.398489 1_655
+Na0 O4 2.424888 1_556
+Na0 O6 2.452969 1_556
+Na0 O2 2.505558 1_555
+Na1 O2 2.381321 1_544
+Na1 O6 2.387543 1_455
+Na1 O4 2.398489 1_545
+Na1 O5 2.424888 1_554
+Na1 O7 2.452969 1_554
+Na1 O3 2.505558 1_555
+H0 O6 0.978704 1_555
+H1 O7 0.978704 1_555
+H2 O6 0.981647 1_556
+H3 O7 0.981647 1_554
+S0 S1 2.010312 1_445
+S0 S2 2.185330 1_545
+S1 S3 2.185330 1_655
+O0 S2 1.469692 1_555
+O1 S3 1.469692 1_555
+O2 S2 1.468469 1_555
+O3 S3 1.468469 1_555
+O4 S2 1.468390 1_555
+O5 S3 1.468390 1_555

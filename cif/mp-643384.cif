@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_BaHIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55922100
+_cell_length_b   8.13528700
+_cell_length_c   11.22344500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHIO
+_chemical_formula_sum   'Ba4 H4 I4 O4'
+_cell_volume   416.28398736
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.68928000  0.41895800  1
+  Ba  Ba1  1  0.25000000  0.18928000  0.08104200  1
+  Ba  Ba2  1  0.75000000  0.31072000  0.58104200  1
+  Ba  Ba3  1  0.75000000  0.81072000  0.91895800  1
+  H  H0  1  0.25000000  0.78974500  0.09983600  1
+  H  H1  1  0.25000000  0.28974500  0.40016400  1
+  H  H2  1  0.75000000  0.21025500  0.90016400  1
+  H  H3  1  0.75000000  0.71025500  0.59983600  1
+  I  I0  1  0.75000000  0.52885500  0.18122700  1
+  I  I1  1  0.75000000  0.02885500  0.31877300  1
+  I  I2  1  0.25000000  0.47114500  0.81877300  1
+  I  I3  1  0.25000000  0.97114500  0.68122700  1
+  O  O0  1  0.25000000  0.86906600  0.03430000  1
+  O  O1  1  0.25000000  0.36906600  0.46570000  1
+  O  O2  1  0.75000000  0.13093400  0.96570000  1
+  O  O3  1  0.75000000  0.63093400  0.53430000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O1 2.657331 1_555
+Ba0 O3 2.664160 1_455
+Ba0 O3 2.664160 1_555
+Ba0 I3 3.731306 1_555
+Ba0 I0 3.744196 1_555
+Ba0 I0 3.744196 1_455
+Ba0 I1 3.754008 1_465
+Ba0 I1 3.754008 1_565
+Ba1 O0 2.657331 1_545
+Ba1 O2 2.664160 1_554
+Ba1 O2 2.664160 1_454
+Ba1 I2 3.731306 1_554
+Ba1 I1 3.744196 1_455
+Ba1 I1 3.744196 1_555
+Ba1 I0 3.754008 1_455
+Ba1 I0 3.754008 1_555
+Ba2 O3 2.657331 1_555
+Ba2 O1 2.664160 1_655
+Ba2 O1 2.664160 1_555
+Ba2 I1 3.731306 1_555
+Ba2 I2 3.744196 1_555
+Ba2 I2 3.744196 1_655
+Ba2 I3 3.754008 1_645
+Ba2 I3 3.754008 1_545
+Ba3 O2 2.657331 1_565
+Ba3 O0 2.664160 1_656
+Ba3 O0 2.664160 1_556
+Ba3 I0 3.731306 1_556
+Ba3 I3 3.744196 1_555
+Ba3 I3 3.744196 1_655
+Ba3 I2 3.754008 1_555
+Ba3 I2 3.754008 1_655
+H0 O0 0.978483 1_555
+H1 O1 0.978483 1_555
+H2 O2 0.978483 1_555
+H3 O3 0.978483 1_555

@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_HoAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39932688
+_cell_length_b   5.29257030
+_cell_length_c   8.63799600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.33067732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlNi
+_chemical_formula_sum   'Ho4 Al4 Ni4'
+_cell_volume   212.31519648
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33988100  0.32027300  0.54152700  1
+  Ho  Ho1  1  0.67033200  0.65914100  0.43232300  1
+  Ho  Ho2  1  0.67033200  0.65914100  0.06767700  1
+  Ho  Ho3  1  0.33988100  0.32027300  0.95847300  1
+  Al  Al0  1  0.83649200  0.32685900  0.75000000  1
+  Al  Al1  1  0.33414500  0.82736400  0.75000000  1
+  Al  Al2  1  0.83835900  0.82746300  0.75000000  1
+  Al  Al3  1  0.14328000  0.71332000  0.25000000  1
+  Ni  Ni0  1  0.66201800  0.18634000  0.25000000  1
+  Ni  Ni1  1  0.15166700  0.18625100  0.25000000  1
+  Ni  Ni2  1  0.00680700  0.98678800  0.51057700  1
+  Ni  Ni3  1  0.00680700  0.98678800  0.98942300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Ni0 2.934503 1_555
+Ho0 Ni1 2.934724 1_555
+Ho0 Ni2 3.045915 1_555
+Ho0 Ni2 3.107886 1_545
+Ho0 Ni2 3.109616 1_645
+Ho0 Ho1 3.154020 1_545
+Ho0 Ho1 3.248738 1_555
+Ho0 Ho1 3.249779 1_455
+Ho1 Ni0 2.976341 1_555
+Ho1 Ni1 2.977061 1_655
+Ho1 Ni2 3.134489 1_645
+Ho1 Ho2 3.149811 1_555
+Ho1 Ni2 3.156124 1_555
+Ho1 Ni2 3.158871 1_655
+Ho1 Ni1 3.183627 1_565
+Ho1 Ni0 3.184335 1_565
+Ho2 Ni0 2.976341 1_555
+Ho2 Ni1 2.977061 1_655
+Ho2 Ni3 3.134489 1_644
+Ho2 Ho3 3.154020 1_564
+Ho2 Ni3 3.156124 1_554
+Ho2 Ni3 3.158871 1_654
+Ho2 Ni1 3.183627 1_565
+Ho2 Ni0 3.184335 1_565
+Ho2 Ho3 3.248738 1_554
+Ho2 Ho3 3.249779 1_654
+Ho3 Ni0 2.934503 1_556
+Ho3 Ni1 2.934724 1_556
+Ho3 Ni3 3.045915 1_555
+Ho3 Ni3 3.107886 1_545
+Ho3 Ni3 3.109616 1_645
+Al0 Ni3 2.583367 1_645
+Al0 Ni2 2.583367 1_645
+Al0 Al2 2.637961 1_545
+Al0 Al1 2.638561 1_645
+Al0 Al1 2.654053 1_555
+Al0 Al2 2.654638 1_555
+Al0 Ho1 3.133388 1_555
+Al0 Ho2 3.133388 1_556
+Al0 Ho0 3.244861 1_555
+Al0 Ho3 3.244861 1_555
+Al0 Ho0 3.245724 1_655
+Al0 Ho3 3.245724 1_655
+Al1 Ni2 2.567391 1_555
+Al1 Ni3 2.567391 1_555
+Al1 Al2 2.676643 1_455
+Al1 Al2 2.722684 1_555
+Al1 Ho1 3.157360 1_555
+Al1 Ho2 3.157360 1_556
+Al1 Ho3 3.183053 1_565
+Al1 Ho0 3.183053 1_565
+Al1 Ho3 3.218985 1_555
+Al1 Ho0 3.218985 1_555
+Al2 Ni2 2.568624 1_655
+Al2 Ni3 2.568624 1_655
+Al2 Ho1 3.157729 1_555
+Al2 Ho2 3.157729 1_556
+Al2 Ho3 3.182471 1_565
+Al2 Ho0 3.182471 1_565
+Al2 Ho0 3.219579 1_655
+Al2 Ho3 3.219579 1_655
+Al3 Ni1 2.526419 1_565
+Al3 Ni0 2.526489 1_465
+Al3 Ni2 2.572191 1_555
+Al3 Ni3 2.572191 1_554
+Al3 Ni0 2.766653 1_555
+Al3 Ni1 2.766725 1_555
+Al3 Ho3 3.089146 1_554
+Al3 Ho0 3.089146 1_555
+Al3 Ho2 3.135004 1_555
+Al3 Ho1 3.135004 1_555
+Al3 Ho2 3.135351 1_455
+Al3 Ho1 3.135351 1_455
+Ni0 Ni1 2.643535 1_655
+Ni0 Ni1 2.755792 1_555
+Ni0 Ni3 2.764361 1_644
+Ni0 Ni2 2.764361 1_645
+Ni1 Ni2 2.763136 1_545
+Ni1 Ni3 2.763136 1_544

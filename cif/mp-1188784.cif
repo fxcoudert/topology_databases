@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2CdSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57568400
+_cell_length_b   7.04438600
+_cell_length_c   8.07699300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CdSnS4
+_chemical_formula_sum   'Li4 Cd2 Sn2 S8'
+_cell_volume   374.13969376
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19534800  0.33207300  0.74663900  1
+  Li  Li1  1  0.19534800  0.33207300  0.25336100  1
+  Li  Li2  1  0.69534800  0.66792700  0.75336100  1
+  Li  Li3  1  0.69534800  0.66792700  0.24663900  1
+  Cd  Cd0  1  0.19514700  0.84256400  0.00000000  1
+  Cd  Cd1  1  0.69514700  0.15743600  0.50000000  1
+  Sn  Sn0  1  0.69160600  0.17096000  0.00000000  1
+  Sn  Sn1  1  0.19160600  0.82904000  0.50000000  1
+  S  S0  1  0.32331400  0.18697900  0.00000000  1
+  S  S1  1  0.82331400  0.81302100  0.50000000  1
+  S  S2  1  0.80248400  0.84206000  0.00000000  1
+  S  S3  1  0.30248400  0.15794000  0.50000000  1
+  S  S4  1  0.82114700  0.33849000  0.75917400  1
+  S  S5  1  0.82114700  0.33849000  0.24082600  1
+  S  S6  1  0.32114700  0.66151000  0.74082600  1
+  S  S7  1  0.32114700  0.66151000  0.25917400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S0 2.437310 1_556
+Li0 S3 2.443250 1_555
+Li0 S4 2.463124 1_455
+Li0 S6 2.464153 1_555
+Li1 S0 2.437310 1_555
+Li1 S3 2.443250 1_555
+Li1 S5 2.463124 1_455
+Li1 S7 2.464153 1_555
+Li2 S1 2.437310 1_555
+Li2 S2 2.443250 1_556
+Li2 S6 2.463124 1_555
+Li2 S4 2.464153 1_555
+Li3 S1 2.437310 1_555
+Li3 S2 2.443250 1_555
+Li3 S7 2.463124 1_555
+Li3 S5 2.464153 1_555
+Cd0 S0 2.568403 1_565
+Cd0 S2 2.582030 1_455
+Cd0 S6 2.587519 1_554
+Cd0 S7 2.587519 1_555
+Cd1 S1 2.568403 1_545
+Cd1 S3 2.582030 1_555
+Cd1 S4 2.587519 1_555
+Cd1 S5 2.587519 1_555
+S0 Sn0 2.424399 1_555
+S1 Sn1 2.424399 1_655
+S2 Sn0 2.428910 1_565
+S3 Sn1 2.428910 1_545
+S4 Sn0 2.429393 1_556
+S5 Sn0 2.429393 1_555
+S6 Sn1 2.429393 1_555
+S7 Sn1 2.429393 1_555

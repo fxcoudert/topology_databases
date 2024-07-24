@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_NaIn2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64754181
+_cell_length_b   5.64754181
+_cell_length_c   7.94442948
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.90632200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIn2Au
+_chemical_formula_sum   'Na2 In4 Au2'
+_cell_volume   185.59665778
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.42994037  0.57005963  0.25000000  1
+  Na  Na1  1  0.57005963  0.42994037  0.75000000  1
+  In  In0  1  0.85959904  0.14040096  0.94723516  1
+  In  In1  1  0.14040096  0.85959904  0.05276484  1
+  In  In2  1  0.14040096  0.85959904  0.44723516  1
+  In  In3  1  0.85959904  0.14040096  0.55276484  1
+  Au  Au0  1  0.71566879  0.28433121  0.25000000  1
+  Au  Au1  1  0.28433121  0.71566879  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Na0 3.377323 1_546
+In0 Na0 3.377323 1_656
+In0 Na1 3.382840 1_555
+In0 Na1 3.506375 1_655
+In0 Na1 3.506375 1_545
+In1 Na1 3.377323 1_564
+In1 Na1 3.377323 1_454
+In1 Na0 3.382840 1_555
+In1 Na0 3.506375 1_565
+In1 Na0 3.506375 1_455
+In2 Na1 3.377323 1_455
+In2 Na1 3.377323 1_565
+In2 Na0 3.382840 1_555
+In2 Na0 3.506375 1_565
+In2 Na0 3.506375 1_455
+In3 Na0 3.377323 1_655
+In3 Na0 3.377323 1_545
+In3 Na1 3.382840 1_555
+In3 Na1 3.506375 1_655
+In3 Na1 3.506375 1_545
+Au0 In0 2.829584 1_554
+Au0 In3 2.829584 1_555
+Au0 In1 2.855350 1_545
+Au0 In1 2.855350 1_655
+Au0 In2 2.855350 1_545
+Au0 In2 2.855350 1_655
+Au0 Na0 2.958599 1_555
+Au0 Na0 3.164328 1_655
+Au0 Na0 3.164328 1_545
+Au1 In1 2.829584 1_556
+Au1 In2 2.829584 1_555
+Au1 In3 2.855350 1_455
+Au1 In0 2.855350 1_455
+Au1 In3 2.855350 1_565
+Au1 In0 2.855350 1_565
+Au1 Na1 2.958599 1_555
+Au1 Na1 3.164328 1_565
+Au1 Na1 3.164328 1_455

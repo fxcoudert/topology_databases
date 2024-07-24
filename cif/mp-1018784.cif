@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiCe(CuP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01390501
+_cell_length_b   4.01390501
+_cell_length_c   6.73929900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCe(CuP)2
+_chemical_formula_sum   'Li1 Ce1 Cu2 P2'
+_cell_volume   94.03282099
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Ce  Ce0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.66060100  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.33939900  1
+  P  P0  1  0.66666700  0.33333300  0.26884400  1
+  P  P1  1  0.33333300  0.66666700  0.73115600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 P1 2.792365 1_545
+Li0 P0 2.792365 1_455
+Li0 P0 2.792367 1_555
+Li0 P1 2.792367 1_555
+Li0 P1 2.792367 1_445
+Li0 P0 2.792367 1_445
+Ce0 P1 2.941625 1_544
+Ce0 P0 2.941625 1_455
+Ce0 P1 2.941628 1_444
+Ce0 P1 2.941628 1_554
+Ce0 P0 2.941628 1_445
+Ce0 P0 2.941628 1_555
+Cu0 P1 2.365704 1_545
+Cu0 P1 2.365704 1_655
+Cu0 P1 2.365712 1_555
+Cu0 Li0 2.557718 1_655
+Cu0 Li0 2.557721 1_555
+Cu0 Li0 2.557721 1_665
+Cu0 P0 2.640168 1_555
+Cu1 P0 2.365704 1_455
+Cu1 P0 2.365704 1_565
+Cu1 P0 2.365712 1_555
+Cu1 Li0 2.557718 1_565
+Cu1 Li0 2.557721 1_555
+Cu1 Li0 2.557721 1_665
+Cu1 P1 2.640168 1_555

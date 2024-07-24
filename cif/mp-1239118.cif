@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_CsLi2(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26042200
+_cell_length_b   6.76580344
+_cell_length_c   6.30550699
+_cell_angle_alpha   114.09223669
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2(HO)3
+_chemical_formula_sum   'Cs2 Li4 H6 O6'
+_cell_volume   243.81544133
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.22127100  0.18994500  1
+  Cs  Cs1  1  0.75000000  0.77872900  0.81005500  1
+  Li  Li0  1  0.54829500  0.25497900  0.69895400  1
+  Li  Li1  1  0.04829500  0.74502100  0.30104600  1
+  Li  Li2  1  0.45170500  0.74502100  0.30104600  1
+  Li  Li3  1  0.95170500  0.25497900  0.69895400  1
+  H  H0  1  0.25000000  0.05586000  0.63840200  1
+  H  H1  1  0.75000000  0.94414000  0.36159800  1
+  H  H2  1  0.25000000  0.58759200  0.93668800  1
+  H  H3  1  0.75000000  0.41240800  0.06331200  1
+  H  H4  1  0.25000000  0.72822300  0.67026500  1
+  H  H5  1  0.75000000  0.27177700  0.32973500  1
+  O  O0  1  0.25000000  0.73983300  0.52152400  1
+  O  O1  1  0.75000000  0.26016700  0.47847600  1
+  O  O2  1  0.25000000  0.73338800  0.05954200  1
+  O  O3  1  0.75000000  0.26661200  0.94045800  1
+  O  O4  1  0.25000000  0.21442100  0.68405600  1
+  O  O5  1  0.75000000  0.78557900  0.31594400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 O2 3.058802 1_545
+Cs0 O4 3.134825 1_555
+Cs0 O4 3.171250 1_554
+Cs0 H0 3.188999 1_554
+Cs0 H5 3.232032 1_555
+Cs0 H5 3.232032 1_455
+Cs0 O0 3.269872 1_555
+Cs1 O3 3.058802 1_565
+Cs1 O5 3.134825 1_555
+Cs1 O5 3.171250 1_556
+Cs1 H1 3.188999 1_556
+Cs1 H4 3.232032 1_555
+Cs1 H4 3.232032 1_655
+Cs1 O1 3.269872 1_555
+Li0 O4 1.884266 1_555
+Li0 O1 1.889010 1_555
+Li0 O3 1.954952 1_555
+Li1 O5 1.884266 1_455
+Li1 O0 1.889010 1_555
+Li1 O2 1.954952 1_555
+Li2 O5 1.884266 1_555
+Li2 O0 1.889010 1_555
+Li2 O2 1.954952 1_555
+Li3 O4 1.884266 1_655
+Li3 O1 1.889010 1_555
+Li3 O3 1.954952 1_555
+H0 O4 0.990769 1_555
+H1 O5 0.990769 1_555
+H2 O2 0.974308 1_556
+H3 O3 0.974308 1_554
+H4 O0 0.972600 1_555
+H5 O1 0.972600 1_555

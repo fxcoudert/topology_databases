@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_HfAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09007941
+_cell_length_b   5.09007941
+_cell_length_c   8.09300800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.15330029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAlCo
+_chemical_formula_sum   'Hf4 Al4 Co4'
+_cell_volume   183.11849248
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33396400  0.66603600  0.20652100  1
+  Hf  Hf1  1  0.67009800  0.32990200  0.32556000  1
+  Hf  Hf2  1  0.67009800  0.32990200  0.67444000  1
+  Hf  Hf3  1  0.33396400  0.66603600  0.79347900  1
+  Al  Al0  1  0.99414600  0.00585400  0.26533500  1
+  Al  Al1  1  0.99414600  0.00585400  0.73466500  1
+  Al  Al2  1  0.83171400  0.65635300  0.00000000  1
+  Al  Al3  1  0.34364700  0.16828600  0.00000000  1
+  Co  Co0  1  0.83158800  0.16841200  0.00000000  1
+  Co  Co1  1  0.17335800  0.34722400  0.50000000  1
+  Co  Co2  1  0.65277600  0.82664200  0.50000000  1
+  Co  Co3  1  0.17051800  0.82948200  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Hf1 3.104014 1_555
+Hf0 Hf1 3.105007 1_565
+Hf0 Hf1 3.105007 1_455
+Hf1 Hf2 2.823489 1_555
+Hf2 Hf3 3.104014 1_555
+Hf2 Hf3 3.105007 1_655
+Hf2 Hf3 3.105007 1_545
+Al0 Co2 2.431835 1_545
+Al0 Co1 2.431835 1_655
+Al0 Co3 2.450284 1_645
+Al0 Co0 2.578272 1_555
+Al0 Al2 2.650752 1_545
+Al0 Al3 2.650752 1_655
+Al0 Hf1 2.886085 1_555
+Al0 Hf0 2.974479 1_655
+Al0 Hf0 2.974479 1_545
+Al0 Hf0 3.020803 1_645
+Al0 Hf1 3.044176 1_655
+Al0 Hf1 3.044176 1_545
+Al1 Co2 2.431835 1_545
+Al1 Co1 2.431835 1_655
+Al1 Co3 2.450284 1_645
+Al1 Co0 2.578272 1_556
+Al1 Al3 2.650752 1_656
+Al1 Al2 2.650752 1_546
+Al1 Hf2 2.886085 1_555
+Al1 Hf3 2.974479 1_655
+Al1 Hf3 2.974479 1_545
+Al1 Hf3 3.020803 1_645
+Al1 Hf2 3.044176 1_655
+Al1 Hf2 3.044176 1_545
+Al2 Co0 2.483346 1_555
+Al2 Al3 2.516025 1_555
+Al2 Co0 2.606733 1_565
+Al2 Al3 2.639057 1_665
+Al2 Hf2 3.007990 1_554
+Al2 Hf1 3.007990 1_555
+Al2 Hf3 3.034603 1_654
+Al2 Hf0 3.034603 1_655
+Al2 Hf3 3.055594 1_554
+Al2 Hf0 3.055594 1_555
+Al3 Co0 2.483346 1_555
+Al3 Co0 2.606733 1_455
+Al3 Hf2 3.007990 1_554
+Al3 Hf1 3.007990 1_555
+Al3 Hf3 3.034603 1_544
+Al3 Hf0 3.034603 1_545
+Al3 Hf3 3.055594 1_554
+Al3 Hf0 3.055594 1_555
+Co0 Hf2 2.991927 1_554
+Co0 Hf1 2.991927 1_555
+Co0 Hf3 3.072076 1_654
+Co0 Hf0 3.072076 1_655
+Co0 Hf3 3.072076 1_544
+Co0 Hf0 3.072076 1_545
+Co1 Co3 2.461806 1_555
+Co1 Co2 2.471439 1_555
+Co1 Co3 2.628336 1_545
+Co1 Co2 2.683643 1_445
+Co1 Hf0 2.765940 1_555
+Co1 Hf3 2.765940 1_555
+Co1 Hf2 2.888374 1_455
+Co1 Hf1 2.888374 1_455
+Co1 Hf1 2.934457 1_555
+Co1 Hf2 2.934457 1_555
+Co2 Co3 2.461806 1_555
+Co2 Co3 2.628336 1_655
+Co2 Hf0 2.765940 1_555
+Co2 Hf3 2.765940 1_555
+Co2 Hf2 2.888374 1_565
+Co2 Hf1 2.888374 1_565
+Co2 Hf1 2.934457 1_555
+Co2 Hf2 2.934457 1_555
+Co3 Hf0 2.774866 1_555
+Co3 Hf3 2.774866 1_555
+Co3 Hf1 2.938835 1_565
+Co3 Hf2 2.938835 1_565
+Co3 Hf1 2.938835 1_455
+Co3 Hf2 2.938835 1_455

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_KPtNCl3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.09847578
+_cell_length_b   10.09847578
+_cell_length_c   8.30677300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   154.87236685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPtNCl3O
+_chemical_formula_sum   'K2 Pt2 N2 Cl6 O2'
+_cell_volume   359.71697400
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.04186900  0.95813100  0.04769000  1
+  K  K1  1  0.95813100  0.04186900  0.54769000  1
+  Pt  Pt0  1  0.33681100  0.66318900  0.23597400  1
+  Pt  Pt1  1  0.66318900  0.33681100  0.73597400  1
+  N  N0  1  0.24717100  0.75282900  0.22961900  1
+  N  N1  1  0.75282900  0.24717100  0.72961900  1
+  Cl  Cl0  1  0.46004200  0.53995800  0.25221200  1
+  Cl  Cl1  1  0.53995800  0.46004200  0.75221200  1
+  Cl  Cl2  1  0.35023800  0.64976200  0.95855900  1
+  Cl  Cl3  1  0.64976200  0.35023800  0.45855900  1
+  Cl  Cl4  1  0.33930600  0.66069400  0.51704000  1
+  Cl  Cl5  1  0.66069400  0.33930600  0.01704000  1
+  O  O0  1  0.07978000  0.92022000  0.37540600  1
+  O  O1  1  0.92022000  0.07978000  0.87540600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O1 2.792674 1_464
+K0 O0 2.822986 1_555
+K1 O0 2.792674 1_645
+K1 O1 2.822986 1_555
+N0 Pt0 1.767891 1_555
+N1 Pt1 1.767891 1_555
+Cl0 Pt0 2.433034 1_555
+Cl0 K0 3.211511 1_655
+Cl0 K0 3.211511 1_545
+Cl0 K1 3.294129 1_565
+Cl0 K1 3.294129 1_455
+Cl1 Pt1 2.433034 1_555
+Cl1 K1 3.211511 1_565
+Cl1 K1 3.211511 1_455
+Cl1 K0 3.294129 1_656
+Cl1 K0 3.294129 1_546
+Cl2 Pt0 2.319575 1_556
+Cl3 Pt1 2.319575 1_555
+Cl4 Pt0 2.335269 1_555
+Cl4 K1 3.221378 1_455
+Cl4 K1 3.221378 1_565
+Cl5 Pt1 2.335269 1_554
+Cl5 K0 3.221378 1_545
+Cl5 K0 3.221378 1_655

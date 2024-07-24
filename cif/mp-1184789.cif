@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_InHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77764623
+_cell_length_b   6.77764623
+_cell_length_c   5.19328810
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InHg3
+_chemical_formula_sum   'In2 Hg6'
+_cell_volume   206.60026628
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.33333300  0.66666700  0.75000000  1
+  In  In1  1  0.66666700  0.33333300  0.25000000  1
+  Hg  Hg0  1  0.16591811  0.33183621  0.25000000  1
+  Hg  Hg1  1  0.66816379  0.83408189  0.25000000  1
+  Hg  Hg2  1  0.16591811  0.83408189  0.25000000  1
+  Hg  Hg3  1  0.83408189  0.66816379  0.75000000  1
+  Hg  Hg4  1  0.33183621  0.16591811  0.75000000  1
+  Hg  Hg5  1  0.83408189  0.16591811  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Hg4 3.245965 1_554
+Hg0 Hg4 3.245965 1_555
+Hg0 Hg5 3.245966 1_455
+Hg0 Hg5 3.245966 1_454
+Hg0 In0 3.256543 1_554
+Hg0 In0 3.256543 1_555
+Hg0 In1 3.388831 1_455
+Hg0 In1 3.388838 1_555
+Hg1 Hg3 3.245965 1_555
+Hg1 Hg3 3.245965 1_554
+Hg1 Hg5 3.245966 1_565
+Hg1 Hg5 3.245966 1_564
+Hg1 In0 3.256543 1_554
+Hg1 In0 3.256543 1_555
+Hg1 In1 3.388831 1_565
+Hg1 In1 3.388838 1_555
+Hg2 Hg4 3.245966 1_564
+Hg2 Hg4 3.245966 1_565
+Hg2 Hg3 3.245966 1_454
+Hg2 Hg3 3.245966 1_455
+Hg2 In0 3.256539 1_555
+Hg2 In0 3.256539 1_554
+Hg2 In1 3.388835 1_455
+Hg2 In1 3.388835 1_565
+Hg3 In1 3.256543 1_556
+Hg3 In1 3.256543 1_555
+Hg3 In0 3.388831 1_655
+Hg3 In0 3.388838 1_555
+Hg4 In1 3.256543 1_555
+Hg4 In1 3.256543 1_556
+Hg4 In0 3.388831 1_545
+Hg4 In0 3.388838 1_555
+Hg5 In1 3.256539 1_556
+Hg5 In1 3.256539 1_555
+Hg5 In0 3.388835 1_545
+Hg5 In0 3.388835 1_655

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Mg(CoS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79100042
+_cell_length_b   5.80090573
+_cell_length_c   5.81723507
+_cell_angle_alpha   91.79315795
+_cell_angle_beta   88.12797278
+_cell_angle_gamma   91.78163756
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CoS2)4
+_chemical_formula_sum   'Mg1 Co4 S8'
+_cell_volume   195.13026213
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.79773900  0.70227100  0.29730000  1
+  Co  Co0  1  0.03279300  0.46769300  0.53427500  1
+  Co  Co1  1  0.99399300  0.99908100  0.97832100  1
+  Co  Co2  1  0.47969100  0.50496100  0.00083500  1
+  Co  Co3  1  0.50134700  0.02104700  0.49528000  1
+  S  S0  1  0.39614900  0.39068000  0.39785200  1
+  S  S1  1  0.37459100  0.12489500  0.87520500  1
+  S  S2  1  0.89700300  0.10413600  0.60897800  1
+  S  S3  1  0.10933700  0.60298700  0.89655100  1
+  S  S4  1  0.57976400  0.92061600  0.07819200  1
+  S  S5  1  0.13836600  0.90306400  0.40189700  1
+  S  S6  1  0.89945400  0.36205600  0.09509300  1
+  S  S7  1  0.59739100  0.59889400  0.63784100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S4 2.264473 1_555
+Mg0 S6 2.346755 1_555
+Mg0 S5 2.347164 1_655
+Mg0 S7 2.347557 1_555
+Mg0 S3 2.954367 1_654
+Mg0 S0 2.955267 1_555
+Mg0 S2 2.961831 1_565
+Co0 S0 2.276881 1_555
+Co0 S2 2.277461 1_455
+Co0 S3 2.278081 1_555
+Co0 Mg0 2.441328 1_455
+Co0 S7 2.700208 1_455
+Co0 S5 2.709265 1_555
+Co0 S6 2.738681 1_455
+Co1 S6 2.269916 1_566
+Co1 S2 2.342054 1_565
+Co1 S1 2.364589 1_665
+Co1 S3 2.440932 1_655
+Co1 S4 2.481241 1_556
+Co1 S5 2.707430 1_656
+Co1 Mg0 2.764015 1_556
+Co2 S7 2.274932 1_554
+Co2 S3 2.339577 1_554
+Co2 S1 2.368573 1_554
+Co2 S0 2.451610 1_555
+Co2 S4 2.492863 1_555
+Co2 S6 2.671650 1_555
+Co2 Mg0 2.762159 1_555
+Co3 S5 2.268016 1_545
+Co3 S0 2.338761 1_555
+Co3 S1 2.371603 1_555
+Co3 S2 2.435152 1_555
+Co3 S4 2.507700 1_545
+Co3 S7 2.689980 1_545
+Co3 Mg0 2.761681 1_545
+S0 S7 2.163158 1_555
+S1 S4 2.115910 1_546
+S2 S5 2.160725 1_645
+S3 S6 2.160610 1_456

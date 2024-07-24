@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_KHgC2IN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50518169
+_cell_length_b   8.50518169
+_cell_length_c   9.87948100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.35555404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHgC2IN2
+_chemical_formula_sum   'K2 Hg2 C4 I2 N4'
+_cell_volume   364.27015746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.23664500  0.76335500  0.75000000  1
+  K  K1  1  0.76335500  0.23664500  0.25000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.50000000  1
+  C  C0  1  0.12126900  0.87873100  0.05398100  1
+  C  C1  1  0.87873100  0.12126900  0.94601900  1
+  C  C2  1  0.87873100  0.12126900  0.55398100  1
+  C  C3  1  0.12126900  0.87873100  0.44601900  1
+  I  I0  1  0.44811000  0.55189000  0.25000000  1
+  I  I1  1  0.55189000  0.44811000  0.75000000  1
+  N  N0  1  0.19007700  0.80992300  0.08510500  1
+  N  N1  1  0.80992300  0.19007700  0.58510500  1
+  N  N2  1  0.19007700  0.80992300  0.41489500  1
+  N  N3  1  0.80992300  0.19007700  0.91489500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N3 3.024938 1_455
+K0 N1 3.024938 1_565
+K0 N1 3.024938 1_455
+K0 N3 3.024938 1_565
+K1 N0 3.024938 1_545
+K1 N2 3.024938 1_545
+K1 N2 3.024938 1_655
+K1 N0 3.024938 1_655
+Hg0 I0 3.446169 1_445
+Hg0 I1 3.446169 1_554
+Hg0 I1 3.446169 1_444
+Hg0 I0 3.446169 1_555
+Hg1 I0 3.446169 1_445
+Hg1 I1 3.446169 1_445
+Hg1 I1 3.446169 1_555
+Hg1 I0 3.446169 1_555
+C0 N0 1.169975 1_555
+C0 Hg0 2.059745 1_565
+C1 N3 1.169975 1_555
+C1 Hg0 2.059745 1_656
+C2 N1 1.169975 1_555
+C2 Hg1 2.059745 1_655
+C3 N2 1.169975 1_555
+C3 Hg1 2.059745 1_565
+I0 K1 3.773371 1_565
+I0 K1 3.773371 1_455
+I1 K0 3.773371 1_655
+I1 K0 3.773371 1_545

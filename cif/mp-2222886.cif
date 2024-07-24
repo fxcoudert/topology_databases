@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CsMgBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64353700
+_cell_length_b   4.51456000
+_cell_length_c   4.51450600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgBiO3
+_chemical_formula_sum   'Cs1 Mg1 Bi1 O3'
+_cell_volume   115.02097392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg0  1  0.50000000  0.00000000  0.00000000  1
+  Bi  Bi0  1  0.50000000  0.50000000  0.50000000  1
+  O  O0  1  0.50000000  0.50000000  0.00000000  1
+  O  O1  1  0.50000000  0.00000000  0.50000000  1
+  O  O2  1  0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Mg0 2.821769 1_455
+Cs0 Mg0 2.821769 1_555
+Cs0 O2 3.192257 1_544
+Cs0 O2 3.192257 1_545
+Cs0 O2 3.192257 1_555
+Cs0 O2 3.192257 1_554
+Mg0 O1 2.257253 1_555
+Mg0 O1 2.257253 1_554
+Mg0 O0 2.257280 1_555
+Mg0 O0 2.257280 1_545
+Bi0 O0 2.257253 1_555
+Bi0 O0 2.257253 1_556
+Bi0 O1 2.257280 1_565
+Bi0 O1 2.257280 1_555
+Bi0 O2 2.821769 1_555
+Bi0 O2 2.821769 1_655

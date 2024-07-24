@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_Sc(FeGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05311943
+_cell_length_b   5.05299103
+_cell_length_c   8.13761773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99836001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(FeGe)6
+_chemical_formula_sum   'Sc1 Fe6 Ge6'
+_cell_volume   179.94640864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.00000000  0.00000000  -0.00000000  1
+  Fe  Fe0  1  0.50000000  -0.00000000  0.24885555  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.24885460  1
+  Fe  Fe2  1  -0.00000000  0.50000000  0.24885616  1
+  Fe  Fe3  1  0.50000000  0.00000000  0.75114445  1
+  Fe  Fe4  1  0.50000000  0.50000000  0.75114540  1
+  Fe  Fe5  1  -0.00000000  0.50000000  0.75114384  1
+  Ge  Ge0  1  0.33339924  0.66671966  0.50000000  1
+  Ge  Ge1  1  0.66660076  0.33328034  0.50000000  1
+  Ge  Ge2  1  0.33340635  0.66672262  -0.00000000  1
+  Ge  Ge3  1  0.66659365  0.33327738  -0.00000000  1
+  Ge  Ge4  1  -0.00000000  -0.00000000  0.65696342  1
+  Ge  Ge5  1  -0.00000000  -0.00000000  0.34303658  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Ge2 2.495612 1_545
+Fe0 Ge3 2.495612 1_555
+Fe0 Ge0 2.510757 1_545
+Fe0 Ge1 2.510757 1_555
+Fe0 Fe1 2.526496 1_545
+Fe0 Fe1 2.526496 1_555
+Fe0 Fe2 2.526590 1_655
+Fe0 Fe2 2.526590 1_545
+Fe0 Ge5 2.640244 1_555
+Fe0 Ge5 2.640244 1_655
+Fe0 Sc0 3.237978 1_555
+Fe0 Sc0 3.237978 1_655
+Fe1 Ge3 2.495695 1_555
+Fe1 Ge2 2.495695 1_555
+Fe1 Ge1 2.510855 1_555
+Fe1 Ge0 2.510855 1_555
+Fe1 Fe2 2.526560 1_655
+Fe1 Fe2 2.526560 1_555
+Fe1 Ge5 2.640275 1_555
+Fe1 Ge5 2.640275 1_665
+Fe1 Sc0 3.237997 1_665
+Fe1 Sc0 3.237997 1_555
+Fe2 Ge3 2.495967 1_455
+Fe2 Ge2 2.495967 1_555
+Fe2 Ge0 2.511077 1_555
+Fe2 Ge1 2.511077 1_455
+Fe2 Ge5 2.640181 1_565
+Fe2 Ge5 2.640181 1_555
+Fe2 Sc0 3.237931 1_565
+Fe2 Sc0 3.237931 1_555
+Fe3 Ge2 2.495612 1_546
+Fe3 Ge3 2.495612 1_556
+Fe3 Ge0 2.510757 1_545
+Fe3 Ge1 2.510757 1_555
+Fe3 Fe4 2.526496 1_545
+Fe3 Fe4 2.526496 1_555
+Fe3 Fe5 2.526590 1_655
+Fe3 Fe5 2.526590 1_545
+Fe3 Ge4 2.640244 1_655
+Fe3 Ge4 2.640244 1_555
+Fe3 Sc0 3.237978 1_556
+Fe3 Sc0 3.237978 1_656
+Fe4 Ge3 2.495695 1_556
+Fe4 Ge2 2.495695 1_556
+Fe4 Ge1 2.510855 1_555
+Fe4 Ge0 2.510855 1_555
+Fe4 Fe5 2.526560 1_655
+Fe4 Fe5 2.526560 1_555
+Fe4 Ge4 2.640275 1_665
+Fe4 Ge4 2.640275 1_555
+Fe4 Sc0 3.237997 1_556
+Fe4 Sc0 3.237997 1_666
+Fe5 Ge3 2.495967 1_456
+Fe5 Ge2 2.495967 1_556
+Fe5 Ge0 2.511077 1_555
+Fe5 Ge1 2.511077 1_455
+Fe5 Ge4 2.640181 1_555
+Fe5 Ge4 2.640181 1_565
+Fe5 Sc0 3.237931 1_566
+Fe5 Sc0 3.237931 1_556
+Ge2 Sc0 2.917149 1_665
+Ge2 Sc0 2.917433 1_565
+Ge2 Sc0 2.917639 1_555
+Ge3 Sc0 2.917149 1_555
+Ge3 Sc0 2.917433 1_655
+Ge3 Sc0 2.917639 1_665
+Ge4 Ge5 2.554617 1_555
+Ge4 Sc0 2.791501 1_556
+Ge5 Sc0 2.791501 1_555

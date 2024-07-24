@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_InSb2S4Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.45006632
+_cell_length_b   10.45006632
+_cell_length_c   12.00426175
+_cell_angle_alpha   60.44428721
+_cell_angle_beta   60.44428721
+_cell_angle_gamma   21.39565440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSb2S4Br
+_chemical_formula_sum   'In2 Sb4 S8 Br2'
+_cell_volume   413.60615889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.33558615  0.33558615  0.43326670  1
+  In  In1  1  0.66441385  0.66441385  0.56673330  1
+  Sb  Sb0  1  0.70702129  0.70702129  0.90478599  1
+  Sb  Sb1  1  0.04684852  0.04684852  0.21572058  1
+  Sb  Sb2  1  0.95315148  0.95315148  0.78427942  1
+  Sb  Sb3  1  0.29297871  0.29297871  0.09521401  1
+  S  S0  1  0.31867192  0.31867192  0.87061561  1
+  S  S1  1  0.89602839  0.89602839  0.02259770  1
+  S  S2  1  0.78812916  0.78812916  0.35031643  1
+  S  S3  1  0.46457706  0.46457706  0.21373366  1
+  S  S4  1  0.21187084  0.21187084  0.64968357  1
+  S  S5  1  0.53542294  0.53542294  0.78626634  1
+  S  S6  1  0.68132808  0.68132808  0.12938439  1
+  S  S7  1  0.10397161  0.10397161  0.97740230  1
+  Br  Br0  1  0.10388988  0.10388988  0.47197109  1
+  Br  Br1  1  0.89611012  0.89611012  0.52802891  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 S4 2.564676 1_555
+In0 S2 2.584326 1_545
+In0 S2 2.584326 1_455
+In0 S3 2.636954 1_555
+In1 S2 2.564676 1_555
+In1 S4 2.584326 1_655
+In1 S4 2.584326 1_565
+In1 S5 2.636954 1_555
+S0 Sb3 2.473716 1_556
+S0 Sb0 2.871338 1_455
+S0 Sb0 2.871338 1_545
+S0 Sb2 3.096910 1_455
+S0 Sb2 3.096910 1_545
+S1 Sb2 2.488191 1_554
+S1 Sb3 2.673853 1_565
+S1 Sb3 2.673853 1_655
+S3 Sb1 2.580456 1_565
+S3 Sb1 2.580456 1_655
+S5 Sb2 2.580456 1_455
+S5 Sb2 2.580456 1_545
+S6 Sb0 2.473716 1_554
+S6 Sb3 2.871338 1_655
+S6 Sb3 2.871338 1_565
+S6 Sb1 3.096910 1_565
+S6 Sb1 3.096910 1_655
+S7 Sb1 2.488191 1_556
+S7 Sb0 2.673853 1_455
+S7 Sb0 2.673853 1_545
+Br0 In1 2.832237 1_545
+Br0 In1 2.832237 1_455
+Br1 In0 2.832237 1_565
+Br1 In0 2.832237 1_655

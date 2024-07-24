@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Li2Nd2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41748466
+_cell_length_b   6.81205187
+_cell_length_c   9.51248899
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.42629087
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Nd2Si3
+_chemical_formula_sum   'Li4 Nd4 Si6'
+_cell_volume   278.42769555
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.18878097  0.05958941  0.37756195  1
+  Li  Li1  1  0.18878097  0.44041059  0.37756195  1
+  Li  Li2  1  0.81121903  0.94041059  0.62243805  1
+  Li  Li3  1  0.81121903  0.55958941  0.62243805  1
+  Nd  Nd0  1  0.34146876  0.25000000  0.68293851  1
+  Nd  Nd1  1  0.65853124  0.75000000  0.31706149  1
+  Nd  Nd2  1  0.55226788  0.25000000  0.10453676  1
+  Nd  Nd3  1  0.44773212  0.75000000  0.89546324  1
+  Si  Si0  1  0.71965984  0.25000000  0.43931968  1
+  Si  Si1  1  0.28034016  0.75000000  0.56068032  1
+  Si  Si2  1  0.05745241  0.92423868  0.11490481  1
+  Si  Si3  1  0.94254759  0.07576132  0.88509519  1
+  Si  Si4  1  0.94254759  0.42423868  0.88509519  1
+  Si  Si5  1  0.05745241  0.57576132  0.11490481  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si2 2.599263 1_545
+Li0 Si0 2.624403 1_555
+Li0 Si0 2.624403 1_455
+Li0 Si1 2.705234 1_545
+Li0 Nd1 3.104756 1_445
+Li0 Nd1 3.104760 1_545
+Li0 Nd0 3.109000 1_555
+Li1 Si5 2.599263 1_555
+Li1 Si0 2.624403 1_555
+Li1 Si0 2.624403 1_455
+Li1 Si1 2.705234 1_555
+Li1 Nd1 3.104756 1_455
+Li1 Nd1 3.104760 1_555
+Li1 Nd0 3.109000 1_555
+Li2 Si3 2.599263 1_565
+Li2 Si1 2.624403 1_555
+Li2 Si1 2.624403 1_655
+Li2 Si0 2.705234 1_565
+Li2 Nd0 3.104756 1_665
+Li2 Nd0 3.104760 1_565
+Li2 Nd1 3.109000 1_555
+Li3 Si4 2.599263 1_555
+Li3 Si1 2.624403 1_555
+Li3 Si1 2.624403 1_655
+Li3 Si0 2.705234 1_555
+Li3 Nd0 3.104756 1_655
+Li3 Nd0 3.104760 1_555
+Li3 Nd1 3.109000 1_555
+Nd0 Si3 3.128247 1_455
+Nd0 Si4 3.128247 1_455
+Nd0 Si3 3.128249 1_555
+Nd0 Si4 3.128249 1_555
+Nd0 Si0 3.155856 1_455
+Nd0 Si0 3.155860 1_555
+Nd1 Si5 3.128247 1_655
+Nd1 Si2 3.128247 1_655
+Nd1 Si5 3.128249 1_555
+Nd1 Si2 3.128249 1_555
+Nd1 Si1 3.155856 1_655
+Nd1 Si1 3.155860 1_555
+Nd2 Si0 3.097581 1_555
+Nd2 Si5 3.132436 1_555
+Nd2 Si2 3.132436 1_545
+Nd2 Si5 3.132439 1_655
+Nd2 Si2 3.132439 1_645
+Nd2 Si3 3.226419 1_454
+Nd2 Si4 3.226419 1_454
+Nd2 Si3 3.226423 1_554
+Nd2 Si4 3.226423 1_554
+Nd3 Si1 3.097581 1_555
+Nd3 Si3 3.132436 1_565
+Nd3 Si4 3.132436 1_555
+Nd3 Si4 3.132439 1_455
+Nd3 Si3 3.132439 1_465
+Nd3 Si5 3.226419 1_656
+Nd3 Si2 3.226419 1_656
+Nd3 Si2 3.226423 1_556
+Nd3 Si5 3.226423 1_556
+Si2 Si3 2.363601 1_464
+Si2 Si5 2.373846 1_555
+Si3 Si4 2.373846 1_555
+Si4 Si5 2.363601 1_656

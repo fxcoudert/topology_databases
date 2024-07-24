@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_MgTi2(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06260797
+_cell_length_b   6.48636174
+_cell_length_c   7.89647661
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.71028874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(FeO3)2
+_chemical_formula_sum   'Mg1 Ti2 Fe2 O6'
+_cell_volume   152.39533431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.35581366  0.71242214  0.25000000  1
+  Ti  Ti0  1  0.00025377  0.00066181  0.99714400  1
+  Ti  Ti1  1  0.00025377  0.00066181  0.50285600  1
+  Fe  Fe0  1  0.65685753  0.31376483  0.25000000  1
+  Fe  Fe1  1  0.36401231  0.72858057  0.75000000  1
+  O  O0  1  0.38473475  0.76989794  0.50728634  1
+  O  O1  1  0.38473475  0.76989794  0.99271266  1
+  O  O2  1  0.98808206  0.97670100  0.75000000  1
+  O  O3  1  0.59384456  0.18799162  0.01594876  1
+  O  O4  1  0.59384456  0.18799162  0.48405024  1
+  O  O5  1  0.96923029  0.93892573  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.063687 1_555
+Mg0 O1 2.063695 1_554
+Mg0 O5 2.092724 1_555
+Mg0 O5 2.093989 1_455
+Fe0 O4 2.010945 1_555
+Fe0 O3 2.010952 1_555
+Fe1 O1 1.934179 1_555
+Fe1 O0 1.934187 1_555
+Fe1 O2 2.187476 1_555
+Fe1 O2 2.189534 1_455
+O0 Ti1 2.111335 1_665
+O0 Ti1 2.112749 1_565
+O1 Ti0 2.111335 1_665
+O1 Ti0 2.112749 1_565
+O2 Ti1 1.957399 1_665
+O2 Ti0 1.957399 1_665
+O3 Ti0 1.938113 1_554
+O3 Ti0 1.940260 1_654
+O4 Ti1 1.938114 1_555
+O4 Ti1 1.940261 1_655
+O5 Ti1 2.034218 1_665
+O5 Ti0 2.034218 1_664

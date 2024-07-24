@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_ErAsPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24473300
+_cell_length_b   4.24473300
+_cell_length_c   15.14121408
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAsPt
+_chemical_formula_sum   'Er4 As4 Pt4'
+_cell_volume   236.26102514
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  -0.00000000  -0.00000000  0.50000000  1
+  Er  Er1  1  -0.00000000  -0.00000000  -0.00000000  1
+  Er  Er2  1  -0.00000000  -0.00000000  0.25000000  1
+  Er  Er3  1  -0.00000000  -0.00000000  0.75000000  1
+  As  As0  1  0.33333300  0.66666700  0.88473892  1
+  As  As1  1  0.66666700  0.33333300  0.11526108  1
+  As  As2  1  0.66666700  0.33333300  0.38473892  1
+  As  As3  1  0.33333300  0.66666700  0.61526108  1
+  Pt  Pt0  1  0.33333300  0.66666700  0.36336736  1
+  Pt  Pt1  1  0.66666700  0.33333300  0.63663264  1
+  Pt  Pt2  1  0.66666700  0.33333300  0.86336736  1
+  Pt  Pt3  1  0.33333300  0.66666700  0.13663264  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Pt1 3.207144 1_455
+Er0 Pt0 3.207144 1_545
+Er0 Pt1 3.207147 1_555
+Er0 Pt1 3.207147 1_445
+Er0 Pt0 3.207147 1_445
+Er0 Pt0 3.207147 1_555
+Er1 Pt2 3.207144 1_454
+Er1 Pt3 3.207144 1_545
+Er1 Pt2 3.207147 1_554
+Er1 Pt2 3.207147 1_444
+Er1 Pt3 3.207147 1_445
+Er1 Pt3 3.207147 1_555
+Er2 Pt0 2.992047 1_545
+Er2 Pt3 2.992047 1_545
+Er2 Pt0 2.992050 1_445
+Er2 Pt0 2.992050 1_555
+Er2 Pt3 2.992050 1_555
+Er2 Pt3 2.992050 1_445
+Er3 Pt2 2.992047 1_455
+Er3 Pt1 2.992047 1_455
+Er3 Pt2 2.992050 1_555
+Er3 Pt2 2.992050 1_445
+Er3 Pt1 2.992050 1_555
+Er3 Pt1 2.992050 1_445
+As0 Pt2 2.471967 1_455
+As0 Pt2 2.471967 1_565
+As0 Pt2 2.471974 1_555
+As0 Er1 3.008589 1_566
+As0 Er1 3.008592 1_666
+As0 Er1 3.008592 1_556
+As0 Er3 3.188724 1_565
+As0 Er3 3.188727 1_665
+As0 Er3 3.188727 1_555
+As1 Pt3 2.471967 1_545
+As1 Pt3 2.471967 1_655
+As1 Pt3 2.471974 1_555
+As1 Er1 3.008589 1_655
+As1 Er1 3.008592 1_665
+As1 Er1 3.008592 1_555
+As1 Er2 3.188724 1_655
+As1 Er2 3.188727 1_665
+As1 Er2 3.188727 1_555
+As2 Pt0 2.471967 1_545
+As2 Pt0 2.471967 1_655
+As2 Pt0 2.471974 1_555
+As2 Er0 3.008589 1_655
+As2 Er0 3.008592 1_555
+As2 Er0 3.008592 1_665
+As2 Er2 3.188724 1_655
+As2 Er2 3.188727 1_665
+As2 Er2 3.188727 1_555
+As3 Pt1 2.471967 1_455
+As3 Pt1 2.471967 1_565
+As3 Pt1 2.471974 1_555
+As3 Er0 3.008589 1_565
+As3 Er0 3.008592 1_555
+As3 Er0 3.008592 1_665
+As3 Er3 3.188724 1_565
+As3 Er3 3.188727 1_665
+As3 Er3 3.188727 1_555

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_FeAsRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69031500
+_cell_length_b   6.34938256
+_cell_length_c   6.34938243
+_cell_angle_alpha   60.17683235
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAsRh
+_chemical_formula_sum   'Fe3 As3 Rh3'
+_cell_volume   129.07084601
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.60359500  0.39640500  1
+  Fe  Fe1  1  0.50000000  0.39628300  0.00057300  1
+  Fe  Fe2  1  0.50000000  0.99942700  0.60371700  1
+  As  As0  1  0.00000000  0.33407900  0.33310000  1
+  As  As1  1  0.00000000  0.66690000  0.66592100  1
+  As  As2  1  0.50000000  0.99998400  0.00001600  1
+  Rh  Rh0  1  0.00000000  0.26316500  0.73683500  1
+  Rh  Rh1  1  0.00000000  0.73642000  0.99995400  1
+  Rh  Rh2  1  0.00000000  0.00004600  0.26358000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Rh0 2.846362 1_655
+Fe0 Rh0 2.846362 1_555
+Fe0 Rh1 2.888026 1_654
+Fe0 Rh1 2.888026 1_554
+Fe0 Rh2 2.888026 1_565
+Fe0 Rh2 2.888026 1_665
+Fe1 Rh1 2.839069 1_554
+Fe1 Rh1 2.839069 1_654
+Fe1 Rh0 2.886347 1_554
+Fe1 Rh0 2.886347 1_654
+Fe1 Rh2 2.888597 1_655
+Fe1 Rh2 2.888597 1_555
+Fe2 Rh2 2.839068 1_565
+Fe2 Rh2 2.839068 1_665
+Fe2 Rh0 2.886347 1_665
+Fe2 Rh0 2.886347 1_565
+Fe2 Rh1 2.888597 1_655
+Fe2 Rh1 2.888597 1_555
+As0 Rh2 2.371550 1_555
+As0 Rh1 2.371844 1_554
+As0 Rh0 2.371930 1_555
+As0 Fe0 2.679316 1_455
+As0 Fe0 2.679316 1_555
+As0 Fe1 2.681218 1_555
+As0 Fe1 2.681218 1_455
+As0 Fe2 2.690808 1_445
+As0 Fe2 2.690808 1_545
+As1 Rh1 2.371550 1_555
+As1 Rh2 2.371844 1_565
+As1 Rh0 2.371930 1_555
+As1 Fe0 2.679316 1_455
+As1 Fe0 2.679316 1_555
+As1 Fe2 2.681218 1_555
+As1 Fe2 2.681218 1_455
+As1 Fe1 2.690808 1_456
+As1 Fe1 2.690808 1_556
+As2 Rh2 2.491136 1_565
+As2 Rh2 2.491136 1_665
+As2 Rh1 2.491136 1_654
+As2 Rh1 2.491136 1_554
+As2 Rh0 2.492370 1_664
+As2 Rh0 2.492370 1_564
+As2 Fe2 2.518015 1_554
+As2 Fe1 2.518015 1_565
+As2 Fe0 2.523549 1_555

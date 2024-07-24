@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaMgRuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39302806
+_cell_length_b   3.93599367
+_cell_length_c   3.93599367
+_cell_angle_alpha   90.14891379
+_cell_angle_beta   74.38625115
+_cell_angle_gamma   105.61374885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgRuO3
+_chemical_formula_sum   'Na1 Mg1 Ru1 O3'
+_cell_volume   77.27655459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.06793620  0.87706851  0.12293149  1
+  Mg  Mg0  1  0.67728687  0.18846739  0.81153261  1
+  Ru  Ru0  1  0.42461574  0.57720229  0.42279771  1
+  O  O0  1  0.53275861  0.63340212  0.89414053  1
+  O  O1  1  0.53275861  0.10585947  0.36659788  1
+  O  O2  1  0.06464397  0.30133322  0.69866678  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O2 2.371473 1_564
+Na0 O2 2.810461 1_554
+Na0 O2 2.810461 1_565
+Mg0 O2 1.939237 1_655
+Mg0 O0 2.091787 1_555
+Mg0 O1 2.091787 1_555
+Mg0 O1 2.106400 1_556
+Mg0 O0 2.106400 1_545
+O0 Ru0 1.999613 1_556
+O0 Ru0 2.083676 1_555
+O1 Ru0 1.999613 1_545
+O1 Ru0 2.083676 1_555
+O2 Ru0 1.965581 1_555

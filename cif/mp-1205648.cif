@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Rb2NiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92808499
+_cell_length_b   7.92808499
+_cell_length_c   5.91275697
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   128.45740772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NiAs2
+_chemical_formula_sum   'Rb4 Ni2 As4'
+_cell_volume   291.02319163
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.79172075  0.20827925  0.25000000  1
+  Rb  Rb1  1  0.20827925  0.79172075  0.75000000  1
+  Rb  Rb2  1  0.40862853  0.59137147  0.25000000  1
+  Rb  Rb3  1  0.59137147  0.40862853  0.75000000  1
+  Ni  Ni0  1  0.00000000  -0.00000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  -0.00000000  0.50000000  1
+  As  As0  1  0.92042778  0.72898322  0.25000000  1
+  As  As1  1  0.07957222  0.27101678  0.75000000  1
+  As  As2  1  0.27101678  0.07957222  0.25000000  1
+  As  As3  1  0.72898322  0.92042778  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Rb1 3.321131 1_544
+Ni0 Rb0 3.321131 1_455
+Ni1 Rb1 3.321131 1_545
+Ni1 Rb0 3.321131 1_455
+As0 Ni0 2.348117 1_665
+As0 Ni1 2.348117 1_665
+As0 As2 2.416942 1_665
+As0 Rb2 3.485388 1_555
+As0 Rb1 3.575429 1_655
+As0 Rb1 3.575429 1_654
+As0 Rb0 3.583779 1_555
+As0 Rb3 3.708763 1_555
+As0 Rb3 3.708763 1_554
+As1 Ni0 2.348117 1_556
+As1 Ni1 2.348117 1_555
+As1 As3 2.416942 1_445
+As1 Rb3 3.485388 1_555
+As1 Rb0 3.575429 1_456
+As1 Rb0 3.575429 1_455
+As1 Rb1 3.583779 1_555
+As1 Rb2 3.708763 1_555
+As1 Rb2 3.708763 1_556
+As2 Ni0 2.348117 1_555
+As2 Ni1 2.348117 1_555
+As2 Rb2 3.485388 1_555
+As2 Rb1 3.575429 1_544
+As2 Rb1 3.575429 1_545
+As2 Rb0 3.583779 1_555
+As2 Rb3 3.708763 1_555
+As2 Rb3 3.708763 1_554
+As3 Ni1 2.348117 1_665
+As3 Ni0 2.348117 1_666
+As3 Rb3 3.485388 1_555
+As3 Rb0 3.575429 1_566
+As3 Rb0 3.575429 1_565
+As3 Rb1 3.583779 1_555
+As3 Rb2 3.708763 1_555
+As3 Rb2 3.708763 1_556

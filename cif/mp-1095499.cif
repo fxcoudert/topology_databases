@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CsAuCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25519770
+_cell_length_b   7.23697635
+_cell_length_c   9.89278127
+_cell_angle_alpha   103.35717294
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.60531137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAuCl4
+_chemical_formula_sum   'Cs2 Au2 Cl8'
+_cell_volume   390.37601915
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.29617286  0.00000000  0.25000000  1
+  Cs  Cs1  1  0.70382714  -0.00000000  0.75000000  1
+  Au  Au0  1  -0.00000000  0.50000000  0.50000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.00000000  1
+  Cl  Cl0  1  0.13454101  0.86056017  0.56955886  1
+  Cl  Cl1  1  0.27398084  0.13943983  0.93044114  1
+  Cl  Cl2  1  0.86545899  0.13943983  0.43044114  1
+  Cl  Cl3  1  0.72601916  0.86056017  0.06955886  1
+  Cl  Cl4  1  0.30982293  0.54672540  0.36405768  1
+  Cl  Cl5  1  0.76309853  0.45327460  0.13594232  1
+  Cl  Cl6  1  0.69017707  0.45327460  0.63594232  1
+  Cl  Cl7  1  0.23690147  0.54672540  0.86405768  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Cl0 2.294091 1_555
+Au0 Cl2 2.294091 1_455
+Au0 Cl6 2.307055 1_455
+Au0 Cl4 2.307055 1_555
+Au1 Cl1 2.294091 1_554
+Au1 Cl3 2.294091 1_555
+Au1 Cl7 2.307060 1_554
+Au1 Cl5 2.307060 1_555
+Cl0 Cs0 3.553399 1_565
+Cl0 Cs1 3.598222 1_565
+Cl0 Cs1 3.602936 1_465
+Cl1 Cs0 3.553399 1_556
+Cl1 Cs1 3.598222 1_555
+Cl1 Cs1 3.602936 1_455
+Cl2 Cs1 3.553399 1_555
+Cl2 Cs0 3.598222 1_555
+Cl2 Cs0 3.602936 1_655
+Cl3 Cs1 3.553399 1_564
+Cl3 Cs0 3.598222 1_565
+Cl3 Cs0 3.602936 1_665
+Cl4 Cs0 3.740768 1_565
+Cl4 Cs0 3.818466 1_555
+Cl5 Cs0 3.740771 1_555
+Cl5 Cs0 3.818463 1_665
+Cl6 Cs1 3.740768 1_555
+Cl6 Cs1 3.818466 1_565
+Cl7 Cs1 3.740771 1_565
+Cl7 Cs1 3.818463 1_455

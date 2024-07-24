@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba2PtAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41653676
+_cell_length_b   6.41653676
+_cell_length_c   4.77787820
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   139.35350201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PtAu
+_chemical_formula_sum   'Ba2 Pt1 Au1'
+_cell_volume   128.13791623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.13821547  0.86178453  0.50000000  1
+  Ba  Ba1  1  0.86288245  0.13711755  0.00000000  1
+  Pt  Pt0  1  0.42497669  0.57502331  0.50000000  1
+  Au  Au0  1  0.57392638  0.42607362  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pt0 3.398774 1_455
+Ba0 Pt0 3.398774 1_565
+Ba0 Pt0 3.450939 1_555
+Ba1 Pt0 3.351407 1_544
+Ba1 Pt0 3.351407 1_655
+Ba1 Pt0 3.351407 1_654
+Ba1 Pt0 3.351407 1_545
+Au0 Pt0 2.986645 1_555
+Au0 Pt0 2.986645 1_554
+Au0 Ba0 3.357395 1_545
+Au0 Ba0 3.357395 1_655
+Au0 Ba0 3.357395 1_654
+Au0 Ba0 3.357395 1_544
+Au0 Ba1 3.378876 1_455
+Au0 Ba1 3.378876 1_565
+Au0 Ba1 3.477352 1_555

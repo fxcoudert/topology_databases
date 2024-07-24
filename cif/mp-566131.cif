@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_KCrF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09361000
+_cell_length_b   4.09361000
+_cell_length_c   4.60063700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCrF3
+_chemical_formula_sum   'K1 Cr1 F3'
+_cell_volume   77.09583165
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1
+  F  F0  1  0.00000000  0.00000000  0.50000000  1
+  F  F1  1  0.00000000  0.50000000  0.00000000  1
+  F  F2  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 F1 2.046805 1_555
+Cr0 F2 2.046805 1_455
+Cr0 F1 2.046805 1_545
+Cr0 F2 2.046805 1_555
+Cr0 F0 2.300318 1_554
+Cr0 F0 2.300318 1_555
+F0 K0 2.894619 1_455
+F0 K0 2.894619 1_555
+F0 K0 2.894619 1_445
+F0 K0 2.894619 1_545
+F1 K0 3.079103 1_554
+F1 K0 3.079103 1_455
+F1 K0 3.079103 1_555
+F1 K0 3.079103 1_454
+F2 K0 3.079103 1_554
+F2 K0 3.079103 1_555
+F2 K0 3.079103 1_545
+F2 K0 3.079103 1_544

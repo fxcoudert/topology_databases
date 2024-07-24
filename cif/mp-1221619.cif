@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_MnFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44307307
+_cell_length_b   4.46167307
+_cell_length_c   4.48158811
+_cell_angle_alpha   89.62373614
+_cell_angle_beta   90.00111901
+_cell_angle_gamma   89.99966589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeSi2
+_chemical_formula_sum   'Mn2 Fe2 Si4'
+_cell_volume   88.83902291
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.63739886  0.13064468  0.39340134  1
+  Mn  Mn1  1  0.13734333  0.86933762  0.60657946  1
+  Fe  Fe0  1  0.36144993  0.36029414  0.88524745  1
+  Fe  Fe1  1  0.86144472  0.63972865  0.11478185  1
+  Si  Si0  1  0.65801069  0.64897595  0.59834469  1
+  Si  Si1  1  0.15800584  0.35101645  0.40163199  1
+  Si  Si2  1  0.34317834  0.83695949  0.08995504  1
+  Si  Si3  1  0.84316928  0.16304200  0.91005819  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si2 2.301865 1_545
+Mn0 Si0 2.333336 1_545
+Mn0 Si1 2.346350 1_555
+Mn0 Si3 2.354762 1_554
+Mn0 Si3 2.494463 1_555
+Mn0 Si0 2.495618 1_555
+Mn0 Si1 2.513763 1_655
+Mn1 Si3 2.301905 1_465
+Mn1 Si1 2.333396 1_565
+Mn1 Si0 2.346097 1_455
+Mn1 Si2 2.354968 1_556
+Mn1 Si2 2.494460 1_555
+Mn1 Si1 2.495591 1_555
+Mn1 Si0 2.513983 1_555
+Fe0 Si0 2.242030 1_555
+Fe0 Si3 2.316576 1_555
+Fe0 Si2 2.323107 1_556
+Fe0 Si1 2.348905 1_555
+Fe0 Si3 2.467456 1_455
+Fe0 Si1 2.484599 1_556
+Fe0 Si2 2.504415 1_546
+Fe0 Mn1 2.717590 1_545
+Fe0 Mn0 2.727921 1_555
+Fe0 Fe1 2.750357 1_556
+Fe0 Fe1 2.750415 1_456
+Fe0 Mn1 2.769857 1_555
+Fe0 Mn0 2.776430 1_556
+Fe1 Si1 2.241935 1_655
+Fe1 Si2 2.316615 1_655
+Fe1 Si3 2.323223 1_554
+Fe1 Si0 2.348699 1_555
+Fe1 Si2 2.467353 1_555
+Fe1 Si0 2.484768 1_554
+Fe1 Si3 2.504351 1_564
+Fe1 Mn0 2.717252 1_565
+Fe1 Mn1 2.727542 1_655
+Fe1 Mn0 2.769838 1_555
+Fe1 Mn1 2.776488 1_654

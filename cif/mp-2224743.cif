@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_MgZn2(NiO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.91820374
+_cell_length_b   5.19976570
+_cell_length_c   11.01847709
+_cell_angle_alpha   82.41327014
+_cell_angle_beta   87.74401438
+_cell_angle_gamma   106.87337466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(NiO2)4
+_chemical_formula_sum   'Mg1 Zn2 Ni4 O8'
+_cell_volume   158.06280952
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.64788899  0.31527384  0.37910343  1
+  Zn  Zn0  1  0.35152664  0.78462237  0.73788557  1
+  Zn  Zn1  1  0.56550737  0.10002253  0.16905726  1
+  Ni  Ni0  1  0.85128134  0.65278384  0.02189316  1
+  Ni  Ni1  1  0.16250764  0.21818803  0.91872786  1
+  Ni  Ni2  1  0.88413035  0.81402805  0.47355724  1
+  Ni  Ni3  1  0.11145070  0.30775215  0.60787452  1
+  O  O0  1  0.26147261  0.55660475  0.42731889  1
+  O  O1  1  0.73080471  0.58424235  0.63878977  1
+  O  O2  1  0.85343661  0.49058544  0.86836802  1
+  O  O3  1  0.21512063  0.37804583  0.07709901  1
+  O  O4  1  0.04221495  0.08294803  0.30416941  1
+  O  O5  1  0.00106310  0.05208412  0.76868580  1
+  O  O6  1  0.48367770  0.93742228  0.01314139  1
+  O  O7  1  0.50458367  0.06289639  0.53877267  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 2.001515 1_555
+Mg0 O0 2.002397 1_655
+Mg0 O0 2.019609 1_555
+Mg0 O4 2.098527 1_555
+Mg0 O4 2.112060 1_655
+Ni0 O2 1.987932 1_554
+Ni0 O6 1.992054 1_655
+Ni0 O3 1.999824 1_555
+Ni0 O3 2.059144 1_655
+Ni0 O6 2.059802 1_555
+Ni1 O2 1.923813 1_455
+Ni1 O5 1.975670 1_555
+Ni1 O3 2.022270 1_556
+Ni1 O2 2.103799 1_555
+Ni1 O6 2.135891 1_546
+Ni1 O6 2.212609 1_446
+Ni2 O1 1.998390 1_555
+Ni2 O0 2.047910 1_555
+Ni2 O0 2.062855 1_655
+Ni2 O7 2.105380 1_565
+Ni2 O7 2.111171 1_665
+Ni2 O4 2.126066 1_665
+Ni3 O5 2.023656 1_555
+Ni3 O1 2.029533 1_555
+Ni3 O7 2.095293 1_455
+Ni3 O1 2.107950 1_455
+Ni3 O7 2.133553 1_555
+Ni3 O0 2.178706 1_555
+O1 Zn0 2.092267 1_555
+O1 Zn0 2.217985 1_655
+O2 Zn0 2.117151 1_655
+O3 Zn1 2.140407 1_455
+O3 Zn1 2.171398 1_555
+O4 Zn1 2.064841 1_555
+O4 Zn1 2.087891 1_455
+O5 Zn0 2.004566 1_545
+O5 Zn0 2.070540 1_445
+O6 Zn1 2.005459 1_565
+O7 Zn0 2.411620 1_545

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_KMnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78753800
+_cell_length_b   4.78753800
+_cell_length_c   8.46537500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnBi
+_chemical_formula_sum   'K2 Mn2 Bi2'
+_cell_volume   194.03079785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.50000000  0.34534100  1
+  K  K1  1  0.50000000  0.00000000  0.65465900  1
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.00000000  0.50000000  0.80539700  1
+  Bi  Bi1  1  0.50000000  0.00000000  0.19460300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Mn0 3.778444 1_565
+K0 Mn0 3.778444 1_555
+K0 Mn1 3.778444 1_455
+K0 Mn1 3.778444 1_555
+K1 Mn1 3.778444 1_546
+K1 Mn0 3.778444 1_556
+K1 Mn0 3.778444 1_656
+K1 Mn1 3.778444 1_556
+Bi0 Mn1 2.905859 1_456
+Bi0 Mn0 2.905859 1_556
+Bi0 Mn1 2.905859 1_556
+Bi0 Mn0 2.905859 1_566
+Bi0 K1 3.617813 1_455
+Bi0 K1 3.617813 1_555
+Bi0 K1 3.617813 1_465
+Bi0 K1 3.617813 1_565
+Bi0 K0 3.894547 1_555
+Bi1 Mn0 2.905859 1_555
+Bi1 Mn1 2.905859 1_555
+Bi1 Mn0 2.905859 1_655
+Bi1 Mn1 2.905859 1_545
+Bi1 K0 3.617813 1_555
+Bi1 K0 3.617813 1_655
+Bi1 K0 3.617813 1_545
+Bi1 K0 3.617813 1_645
+Bi1 K1 3.894547 1_555

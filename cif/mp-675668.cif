@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Yb(PrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43830865
+_cell_length_b   7.43830865
+_cell_length_c   7.43830865
+_cell_angle_alpha   109.56020571
+_cell_angle_beta   109.56020571
+_cell_angle_gamma   109.29339669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(PrS2)2
+_chemical_formula_sum   'Yb2 Pr4 S8'
+_cell_volume   316.80903573
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.50000000  0.50000000  0.00000000  1
+  Yb  Yb1  1  0.25000000  0.75000000  0.50000000  1
+  Pr  Pr0  1  0.00404400  0.62500000  0.87904400  1
+  Pr  Pr1  1  0.87500000  0.99595600  0.62095600  1
+  Pr  Pr2  1  0.74595600  0.12500000  0.12095600  1
+  Pr  Pr3  1  0.37500000  0.25404400  0.37904400  1
+  S  S0  1  0.12519700  0.37720400  0.10518800  1
+  S  S1  1  0.77001000  0.52201600  0.39481200  1
+  S  S2  1  0.62279600  0.72798400  0.74799400  1
+  S  S3  1  0.27201600  0.02001000  0.89481200  1
+  S  S4  1  0.47798400  0.87279600  0.24799400  1
+  S  S5  1  0.97999000  0.87480300  0.25200600  1
+  S  S6  1  0.62480300  0.22999000  0.75200600  1
+  S  S7  1  0.12720400  0.37519700  0.60518800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 S5 2.877716 1_456
+Pr0 S7 2.877718 1_555
+Pr0 S6 2.891793 1_455
+Pr0 S3 2.891797 1_565
+Pr0 S0 3.032762 1_556
+Pr0 S4 3.032765 1_556
+Pr0 S2 3.108618 1_455
+Pr0 S1 3.108618 1_455
+Pr1 S4 2.877714 1_555
+Pr1 S3 2.877714 1_665
+Pr1 S7 2.891791 1_665
+Pr1 S2 2.891797 1_555
+Pr1 S5 3.032764 1_555
+Pr1 S1 3.032765 1_555
+Pr1 S6 3.108612 1_565
+Pr1 S0 3.108619 1_666
+Pr2 S1 2.877714 1_555
+Pr2 S2 2.877714 1_544
+Pr2 S0 2.891791 1_655
+Pr2 S4 2.891797 1_545
+Pr2 S6 3.032764 1_554
+Pr2 S3 3.032765 1_554
+Pr2 S5 3.108612 1_545
+Pr2 S7 3.108619 1_655
+Pr3 S6 2.877716 1_555
+Pr3 S0 2.877718 1_555
+Pr3 S5 2.891793 1_445
+Pr3 S1 2.891797 1_555
+Pr3 S7 3.032762 1_555
+Pr3 S2 3.032765 1_555
+Pr3 S3 3.108618 1_554
+Pr3 S4 3.108618 1_545
+S0 Yb1 2.862899 1_555
+S0 Yb0 3.078191 1_555
+S1 Yb0 2.862901 1_555
+S1 Yb1 3.078185 1_655
+S2 Yb1 2.862901 1_555
+S2 Yb0 3.078185 1_556
+S3 Yb1 2.862901 1_545
+S3 Yb0 3.078185 1_556
+S4 Yb0 2.862901 1_555
+S4 Yb1 3.078185 1_555
+S5 Yb1 2.862907 1_655
+S5 Yb0 3.078187 1_555
+S6 Yb0 2.862907 1_556
+S6 Yb1 3.078187 1_545
+S7 Yb0 2.862899 1_556
+S7 Yb1 3.078191 1_555

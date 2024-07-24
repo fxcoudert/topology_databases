@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Ca3(GeIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57431186
+_cell_length_b   6.57431186
+_cell_length_c   6.57431186
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(GeIr)4
+_chemical_formula_sum   'Ca3 Ge4 Ir4'
+_cell_volume   218.74040556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.00000000  0.50000000  0.50000000  1
+  Ca  Ca1  1  0.50000000  0.00000000  0.50000000  1
+  Ca  Ca2  1  0.50000000  0.50000000  0.00000000  1
+  Ge  Ge0  1  0.62665930  0.00000000  0.00000000  1
+  Ge  Ge1  1  -0.00000000  0.62665930  -0.00000000  1
+  Ge  Ge2  1  -0.00000000  0.00000000  0.62665930  1
+  Ge  Ge3  1  0.37334070  0.37334070  0.37334070  1
+  Ir  Ir0  1  0.26986110  -0.00000000  -0.00000000  1
+  Ir  Ir1  1  0.00000000  0.26986110  0.00000000  1
+  Ir  Ir2  1  0.00000000  -0.00000000  0.26986110  1
+  Ir  Ir3  1  0.73013890  0.73013890  0.73013890  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ge2 3.110301 1_565
+Ca0 Ge1 3.110301 1_556
+Ca0 Ge3 3.110301 1_555
+Ca0 Ge0 3.110301 1_455
+Ca0 Ir3 3.127127 1_455
+Ca0 Ir0 3.127127 1_566
+Ca0 Ir2 3.127127 1_555
+Ca0 Ir1 3.127127 1_555
+Ca1 Ge2 3.110301 1_655
+Ca1 Ge1 3.110301 1_545
+Ca1 Ge0 3.110301 1_556
+Ca1 Ge3 3.110301 1_555
+Ca1 Ir1 3.127127 1_656
+Ca1 Ir2 3.127127 1_555
+Ca1 Ir3 3.127127 1_545
+Ca1 Ir0 3.127127 1_555
+Ca2 Ge1 3.110301 1_655
+Ca2 Ge2 3.110301 1_554
+Ca2 Ge0 3.110301 1_565
+Ca2 Ge3 3.110301 1_555
+Ca2 Ir3 3.127127 1_554
+Ca2 Ir2 3.127127 1_665
+Ca2 Ir0 3.127127 1_555
+Ca2 Ir1 3.127127 1_555
+Ge0 Ir0 2.345703 1_555
+Ge0 Ir2 2.503782 1_655
+Ge0 Ir3 2.503782 1_544
+Ge0 Ir1 2.503782 1_655
+Ge1 Ir1 2.345703 1_555
+Ge1 Ir3 2.503782 1_454
+Ge1 Ir2 2.503782 1_565
+Ge1 Ir0 2.503782 1_565
+Ge2 Ir2 2.345703 1_555
+Ge2 Ir3 2.503782 1_445
+Ge2 Ir0 2.503782 1_556
+Ge2 Ir1 2.503782 1_556
+Ge3 Ir3 2.345703 1_555
+Ge3 Ir0 2.503782 1_555
+Ge3 Ir1 2.503782 1_555
+Ge3 Ir2 2.503782 1_555

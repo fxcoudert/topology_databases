@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ta2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86775326
+_cell_length_b   5.53778915
+_cell_length_c   6.86812387
+_cell_angle_alpha   102.89363580
+_cell_angle_beta   110.75501430
+_cell_angle_gamma   89.99999772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2O5
+_chemical_formula_sum   'Ta4 O10'
+_cell_volume   168.12489371
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.61379877  0.23343806  0.71976109  1
+  Ta  Ta1  1  0.89403667  0.26656194  0.28023891  1
+  Ta  Ta2  1  0.38620123  0.76656194  0.28023891  1
+  Ta  Ta3  1  0.10596333  0.73343806  0.71976109  1
+  O  O0  1  0.27578807  0.12759778  0.41021110  1
+  O  O1  1  0.86557798  0.37240222  0.58978890  1
+  O  O2  1  0.72421193  0.87240222  0.58978890  1
+  O  O3  1  0.13442202  0.62759778  0.41021110  1
+  O  O4  1  0.10131746  0.75000000  0.00000000  1
+  O  O5  1  0.89868254  0.25000000  -0.00000000  1
+  O  O6  1  0.66441949  0.97495560  0.21965457  1
+  O  O7  1  0.44476392  0.52504440  0.78034543  1
+  O  O8  1  0.33558051  0.02504440  0.78034543  1
+  O  O9  1  0.55523608  0.47495560  0.21965457  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Ta1 1.993273 1_455
+O0 Ta0 2.129638 1_555
+O0 Ta2 2.150957 1_545
+O1 Ta0 1.993273 1_555
+O1 Ta1 2.129634 1_555
+O1 Ta3 2.150958 1_655
+O2 Ta3 1.993273 1_655
+O2 Ta2 2.129638 1_555
+O2 Ta0 2.150957 1_565
+O3 Ta2 1.993273 1_555
+O3 Ta3 2.129634 1_555
+O3 Ta1 2.150958 1_455
+O4 Ta2 1.914553 1_555
+O4 Ta3 1.914555 1_554
+O5 Ta0 1.914553 1_554
+O5 Ta1 1.914555 1_555
+O6 Ta1 1.844096 1_565
+O6 Ta2 1.988158 1_555
+O7 Ta0 1.844101 1_555
+O7 Ta3 1.988150 1_555
+O8 Ta3 1.844096 1_545
+O8 Ta0 1.988158 1_555
+O9 Ta2 1.844101 1_555
+O9 Ta1 1.988150 1_555

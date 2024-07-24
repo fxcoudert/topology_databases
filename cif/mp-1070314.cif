@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Eu(CdAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47036984
+_cell_length_b   4.47036984
+_cell_length_c   7.27756699
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(CdAs)2
+_chemical_formula_sum   'Eu1 Cd2 As2'
+_cell_volume   125.95160878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  -0.00000000  1
+  Cd  Cd0  1  0.66666700  0.33333300  0.36524250  1
+  Cd  Cd1  1  0.33333300  0.66666700  0.63475750  1
+  As  As0  1  0.66666700  0.33333300  0.75573795  1
+  As  As1  1  0.33333300  0.66666700  0.24426205  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cd1 2.727007 1_655
+As0 Cd1 2.727007 1_545
+As0 Cd1 2.727015 1_555
+As0 Cd0 2.841857 1_555
+As0 Eu0 3.133907 1_656
+As0 Eu0 3.133909 1_556
+As0 Eu0 3.133909 1_666
+As1 Cd0 2.727007 1_455
+As1 Cd0 2.727007 1_565
+As1 Cd0 2.727015 1_555
+As1 Cd1 2.841857 1_555
+As1 Eu0 3.133907 1_565
+As1 Eu0 3.133909 1_555
+As1 Eu0 3.133909 1_665

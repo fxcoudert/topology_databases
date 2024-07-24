@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_LiMgSO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22065760
+_cell_length_b   5.47003567
+_cell_length_c   7.20803390
+_cell_angle_alpha   106.76299794
+_cell_angle_beta   107.48067981
+_cell_angle_gamma   97.29292566
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMgSO4F
+_chemical_formula_sum   'Li2 Mg2 S2 O8 F2'
+_cell_volume   182.77922541
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.72524300  0.35925900  0.21130800  1
+  Li  Li1  1  0.25351800  0.61977700  0.71464400  1
+  Mg  Mg0  1  0.99698700  0.00022900  0.49843300  1
+  Mg  Mg1  1  0.00299700  0.99689600  0.99946700  1
+  S  S0  1  0.66928500  0.36580900  0.74902500  1
+  S  S1  1  0.33142600  0.63620400  0.25127800  1
+  O  O0  1  0.87278200  0.34061900  0.64031400  1
+  O  O1  1  0.12811000  0.65713400  0.36170000  1
+  O  O2  1  0.68280700  0.64724500  0.85398700  1
+  O  O3  1  0.31588200  0.35339600  0.14475700  1
+  O  O4  1  0.72951100  0.22981900  0.90369300  1
+  O  O5  1  0.26966300  0.77190500  0.09854500  1
+  O  O6  1  0.38340100  0.25453800  0.59730800  1
+  O  O7  1  0.61664300  0.74653200  0.40302600  1
+  F  F0  1  0.89183900  0.08245100  0.24334600  1
+  F  F1  1  0.10790600  0.91818700  0.75416700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.038702 1_555
+Li0 O4 2.132214 1_554
+Li0 O1 2.234941 1_655
+Li0 O7 2.409509 1_555
+Li1 O2 2.128226 1_555
+Li1 O0 2.165044 1_455
+Li1 O6 2.209158 1_555
+Li1 O1 2.505134 1_555
+Li1 O5 2.621188 1_556
+Mg0 O7 2.066658 1_545
+Mg0 O6 2.089158 1_655
+Mg0 O0 2.130662 1_555
+Mg0 O1 2.150972 1_645
+Mg1 O5 2.075448 1_556
+Mg1 O4 2.124970 1_465
+Mg1 O2 2.128441 1_455
+Mg1 O3 2.133843 1_566
+O0 S0 1.495555 1_555
+O1 S1 1.503031 1_555
+O2 S0 1.488562 1_555
+O3 S1 1.494919 1_555
+O4 S0 1.490723 1_555
+O5 S1 1.478458 1_555
+O6 S0 1.482838 1_555
+O7 S1 1.480005 1_555
+F0 Li0 1.875581 1_555
+F0 Mg0 1.953886 1_555
+F0 Mg1 1.962964 1_644
+F1 Li1 1.870936 1_555
+F1 Mg1 1.952987 1_555
+F1 Mg0 1.958698 1_465

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Eu(InS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13753160
+_cell_length_b   6.13756215
+_cell_length_c   10.51040116
+_cell_angle_alpha   89.99975934
+_cell_angle_beta   90.00014743
+_cell_angle_gamma   115.21579191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(InS2)2
+_chemical_formula_sum   'Eu2 In4 S8'
+_cell_volume   358.19388350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000103  0.50000345  0.25000009  1
+  Eu  Eu1  1  0.50000078  0.50000217  0.75000006  1
+  In  In0  1  0.77521278  0.21774933  0.50002596  1
+  In  In1  1  0.22478536  0.78223538  0.50002482  1
+  In  In2  1  0.78224981  0.22478619  0.99997441  1
+  In  In3  1  0.21775640  0.77522057  0.99997415  1
+  S  S0  1  0.78873845  0.64192195  0.50000560  1
+  S  S1  1  0.21125789  0.35807054  0.50000734  1
+  S  S2  1  0.35807698  0.21126239  0.99999462  1
+  S  S3  1  0.64192651  0.78874270  0.99999309  1
+  S  S4  1  0.00000047  0.50000248  0.17776377  1
+  S  S5  1  0.49999748  0.99999919  0.32223573  1
+  S  S6  1  0.00000051  0.50000376  0.82218224  1
+  S  S7  1  0.49999555  0.99999790  0.67781712  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 S0 3.080344 1_555
+Eu0 S2 3.080364 1_554
+Eu0 S3 3.080364 1_554
+Eu0 S1 3.080380 1_555
+Eu0 S4 3.161290 1_555
+Eu0 S5 3.161290 1_555
+Eu0 S4 3.161292 1_655
+Eu0 S5 3.161317 1_545
+Eu1 S0 3.080247 1_555
+Eu1 S1 3.080248 1_555
+Eu1 S3 3.080251 1_555
+Eu1 S2 3.080254 1_555
+Eu1 S6 3.161146 1_655
+Eu1 S7 3.161155 1_555
+Eu1 S6 3.161161 1_555
+Eu1 S7 3.161186 1_545
+In0 S1 2.437234 1_655
+In0 S5 2.491520 1_545
+In0 S7 2.491533 1_545
+In0 S0 2.569117 1_555
+In1 S0 2.437250 1_455
+In1 S5 2.491521 1_555
+In1 S7 2.491541 1_555
+In1 S1 2.569065 1_555
+In2 S3 2.437236 1_545
+In2 S4 2.491521 1_656
+In2 S6 2.491541 1_655
+In2 S2 2.569110 1_555
+In3 S2 2.437228 1_565
+In3 S4 2.491530 1_556
+In3 S6 2.491550 1_555
+In3 S3 2.569098 1_555

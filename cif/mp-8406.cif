@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Li3NdAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29356601
+_cell_length_b   4.29356713
+_cell_length_c   6.94020215
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999132
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3NdAs2
+_chemical_formula_sum   'Li3 Nd1 As2'
+_cell_volume   110.79985488
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.66666700  0.33333300  0.35545514  1
+  Li  Li2  1  0.33333300  0.66666700  0.64454486  1
+  Nd  Nd0  1  -0.00000000  0.00000000  0.00000000  1
+  As  As0  1  0.33333300  0.66666700  0.25817425  1
+  As  As1  1  0.66666700  0.33333300  0.74182575  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Li1 2.674181 1_455
+Li0 Li2 2.674181 1_545
+Li0 Li2 2.674184 1_445
+Li0 Li1 2.674184 1_555
+Li0 Li1 2.674185 1_445
+Li0 Li2 2.674185 1_555
+Li0 Nd0 3.470101 1_556
+Li0 Nd0 3.470101 1_555
+As0 Li1 2.569186 1_455
+As0 Li1 2.569187 1_565
+As0 Li1 2.569193 1_555
+As0 Li2 2.681490 1_555
+As0 Li0 2.993601 1_565
+As0 Li0 2.993604 1_665
+As0 Li0 2.993605 1_555
+As0 Nd0 3.058655 1_565
+As0 Nd0 3.058658 1_665
+As0 Nd0 3.058659 1_555
+As1 Li2 2.569186 1_655
+As1 Li2 2.569187 1_545
+As1 Li2 2.569193 1_555
+As1 Li1 2.681490 1_555
+As1 Li0 2.993601 1_655
+As1 Li0 2.993604 1_555
+As1 Li0 2.993605 1_665
+As1 Nd0 3.058655 1_656
+As1 Nd0 3.058658 1_556
+As1 Nd0 3.058659 1_666

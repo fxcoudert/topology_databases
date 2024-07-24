@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Li2ZnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31773371
+_cell_length_b   4.31773371
+_cell_length_c   7.65048700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnSi
+_chemical_formula_sum   'Li4 Zn2 Si2'
+_cell_volume   123.51833869
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.73591100  1
+  Li  Li1  1  0.00000000  0.00000000  0.26408900  1
+  Li  Li2  1  0.66666700  0.33333300  0.42133300  1
+  Li  Li3  1  0.33333300  0.66666700  0.57866700  1
+  Zn  Zn0  1  0.66666700  0.33333300  0.09456100  1
+  Zn  Zn1  1  0.33333300  0.66666700  0.90543900  1
+  Si  Si0  1  0.66666700  0.33333300  0.76302300  1
+  Si  Si1  1  0.33333300  0.66666700  0.23697700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si0 2.501457 1_455
+Li0 Si0 2.501460 1_555
+Li0 Si0 2.501460 1_445
+Li0 Zn1 2.810053 1_545
+Li0 Zn1 2.810056 1_555
+Li0 Zn1 2.810056 1_445
+Li1 Si1 2.501457 1_545
+Li1 Si1 2.501460 1_555
+Li1 Si1 2.501460 1_445
+Li1 Zn0 2.810053 1_455
+Li1 Zn0 2.810056 1_445
+Li1 Zn0 2.810056 1_555
+Li2 Zn0 2.499965 1_555
+Li2 Si0 2.614095 1_555
+Li2 Si1 2.864180 1_545
+Li2 Si1 2.864180 1_655
+Li2 Si1 2.864187 1_555
+Li3 Zn1 2.499965 1_555
+Li3 Si1 2.614095 1_555
+Li3 Si0 2.864180 1_455
+Li3 Si0 2.864180 1_565
+Li3 Si0 2.864187 1_555
+Zn0 Zn1 2.882310 1_544
+Zn0 Zn1 2.882310 1_654
+Zn0 Zn1 2.882316 1_554
+Si0 Zn0 2.536427 1_556
+Si0 Zn1 2.720549 1_545
+Si0 Zn1 2.720549 1_655
+Si0 Zn1 2.720556 1_555
+Si1 Zn1 2.536427 1_554
+Si1 Zn0 2.720549 1_455
+Si1 Zn0 2.720549 1_565
+Si1 Zn0 2.720556 1_555

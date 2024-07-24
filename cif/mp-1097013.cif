@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_KGaTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41976541
+_cell_length_b   7.41976541
+_cell_length_c   7.41976541
+_cell_angle_alpha   115.39356980
+_cell_angle_beta   115.39356980
+_cell_angle_gamma   98.18284041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGaTe2
+_chemical_formula_sum   'K2 Ga2 Te4'
+_cell_volume   305.56776305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.25000000  0.50000000  1
+  K  K1  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga0  1  0.25000000  0.75000000  0.50000000  1
+  Ga  Ga1  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te0  1  0.37500000  0.46180500  0.58680500  1
+  Te  Te1  1  0.53819500  0.12500000  0.91319500  1
+  Te  Te2  1  0.21180500  0.62500000  0.08680500  1
+  Te  Te3  1  0.87500000  0.78819500  0.41319500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te3 3.541190 1_545
+K0 Te0 3.541190 1_555
+K0 Te1 3.541190 1_554
+K0 Te2 3.541190 1_656
+K1 Te2 3.541190 1_545
+K1 Te1 3.541190 1_454
+K1 Te0 3.541190 1_555
+K1 Te3 3.541190 1_444
+Ga0 Te1 2.661010 1_565
+Ga0 Te0 2.661010 1_555
+Ga0 Te2 2.661010 1_555
+Ga0 Te3 2.661010 1_455
+Ga1 Te2 2.661010 1_555
+Ga1 Te1 2.661010 1_554
+Ga1 Te0 2.661010 1_554
+Ga1 Te3 2.661010 1_555

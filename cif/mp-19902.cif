@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_UCuAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95294600
+_cell_length_b   3.95294600
+_cell_length_c   9.53997600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCuAs2
+_chemical_formula_sum   'U2 Cu2 As4'
+_cell_volume   149.06958601
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.50000000  0.00000000  0.23444800  1
+  U  U1  1  0.00000000  0.50000000  0.76555200  1
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  As  As0  1  0.50000000  0.00000000  0.66513900  1
+  As  As1  1  0.00000000  0.50000000  0.33486100  1
+  As  As2  1  0.00000000  0.00000000  0.00000000  1
+  As  As3  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 U0 3.213154 1_555
+Cu0 U1 3.213154 1_655
+Cu0 U1 3.213154 1_555
+Cu0 U0 3.213154 1_565
+Cu1 U0 3.213154 1_555
+Cu1 U1 3.213154 1_555
+Cu1 U1 3.213154 1_545
+Cu1 U0 3.213154 1_455
+As0 Cu1 2.527528 1_555
+As0 Cu1 2.527528 1_655
+As0 Cu0 2.527528 1_545
+As0 Cu0 2.527528 1_555
+As0 U1 2.954748 1_545
+As0 U1 2.954748 1_555
+As0 U1 2.954748 1_655
+As0 U1 2.954748 1_645
+As1 Cu1 2.527528 1_565
+As1 Cu0 2.527528 1_555
+As1 Cu1 2.527528 1_555
+As1 Cu0 2.527528 1_455
+As1 U0 2.954748 1_465
+As1 U0 2.954748 1_565
+As1 U0 2.954748 1_555
+As1 U0 2.954748 1_455
+As2 As3 2.795155 1_545
+As2 As3 2.795155 1_555
+As2 As3 2.795155 1_445
+As2 As3 2.795155 1_455
+As2 U0 2.984787 1_555
+As2 U0 2.984787 1_455
+As2 U1 2.984787 1_554
+As2 U1 2.984787 1_544
+As3 U0 2.984787 1_555
+As3 U0 2.984787 1_565
+As3 U1 2.984787 1_654
+As3 U1 2.984787 1_554

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_RbCa(FeAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93908100
+_cell_length_b   3.93908100
+_cell_length_c   12.25637600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCa(FeAs)4
+_chemical_formula_sum   'Rb1 Ca1 Fe4 As4'
+_cell_volume   190.17433158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.50000000  0.50000000  1
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.50000000  0.00000000  0.77998800  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.77998800  1
+  Fe  Fe2  1  0.50000000  0.00000000  0.22001200  1
+  Fe  Fe3  1  0.00000000  0.50000000  0.22001200  1
+  As  As0  1  0.00000000  0.00000000  0.67853700  1
+  As  As1  1  0.00000000  0.00000000  0.32146300  1
+  As  As2  1  0.50000000  0.50000000  0.87629400  1
+  As  As3  1  0.50000000  0.50000000  0.12370600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Fe0 3.339232 1_454
+Ca0 Fe1 3.339232 1_544
+Ca0 Fe0 3.339232 1_554
+Ca0 Fe1 3.339232 1_554
+Ca0 Fe3 3.339232 1_555
+Ca0 Fe2 3.339232 1_555
+Ca0 Fe3 3.339232 1_545
+Ca0 Fe2 3.339232 1_455
+As0 Fe1 2.329203 1_555
+As0 Fe1 2.329203 1_545
+As0 Fe0 2.329203 1_555
+As0 Fe0 2.329203 1_455
+As0 Rb0 3.542100 1_555
+As0 Rb0 3.542100 1_545
+As0 Rb0 3.542100 1_445
+As0 Rb0 3.542100 1_455
+As1 Fe3 2.329203 1_555
+As1 Fe2 2.329203 1_555
+As1 Fe3 2.329203 1_545
+As1 Fe2 2.329203 1_455
+As1 Rb0 3.542100 1_445
+As1 Rb0 3.542100 1_455
+As1 Rb0 3.542100 1_555
+As1 Rb0 3.542100 1_545
+As2 Fe0 2.296159 1_555
+As2 Fe0 2.296159 1_565
+As2 Fe1 2.296159 1_555
+As2 Fe1 2.296159 1_655
+As2 Ca0 3.171278 1_566
+As2 Ca0 3.171278 1_656
+As2 Ca0 3.171278 1_666
+As2 Ca0 3.171278 1_556
+As3 Fe2 2.296159 1_565
+As3 Fe3 2.296159 1_555
+As3 Fe2 2.296159 1_555
+As3 Fe3 2.296159 1_655
+As3 Ca0 3.171278 1_655
+As3 Ca0 3.171278 1_665
+As3 Ca0 3.171278 1_565
+As3 Ca0 3.171278 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_RbGa(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14955436
+_cell_length_b   5.14955436
+_cell_length_c   9.07224100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGa(SeO4)2
+_chemical_formula_sum   'Rb1 Ga1 Se2 O8'
+_cell_volume   208.34567250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.66666700  0.33333300  0.80013100  1
+  Se  Se1  1  0.33333300  0.66666700  0.19986900  1
+  O  O0  1  0.93175600  0.25807400  0.85835500  1
+  O  O1  1  0.32631700  0.06824400  0.85835500  1
+  O  O2  1  0.67368300  0.74192600  0.14164500  1
+  O  O3  1  0.74192600  0.67368300  0.85835500  1
+  O  O4  1  0.25807400  0.93175600  0.14164500  1
+  O  O5  1  0.06824400  0.32631700  0.14164500  1
+  O  O6  1  0.66666700  0.33333300  0.61891300  1
+  O  O7  1  0.33333300  0.66666700  0.38108700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 O1 2.001997 1_554
+Ga0 O5 2.001997 1_555
+Ga0 O2 2.001998 1_445
+Ga0 O3 2.001998 1_444
+Ga0 O4 2.002001 1_545
+Ga0 O0 2.002001 1_454
+O0 Se0 1.679800 1_555
+O1 Se0 1.679806 1_555
+O2 Se1 1.679809 1_555
+O3 Se0 1.679809 1_555
+O4 Se1 1.679800 1_555
+O5 Se1 1.679806 1_555
+O6 Se0 1.644053 1_555
+O6 Rb0 3.162770 1_655
+O6 Rb0 3.162774 1_555
+O6 Rb0 3.162774 1_665
+O7 Se1 1.644053 1_555
+O7 Rb0 3.162770 1_565
+O7 Rb0 3.162774 1_555
+O7 Rb0 3.162774 1_665

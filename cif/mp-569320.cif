@@ -1,0 +1,119 @@
+# generated using pymatgen
+data_Sm3Ge5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99359150
+_cell_length_b   6.99359084
+_cell_length_c   8.50431358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Ge5
+_chemical_formula_sum   'Sm6 Ge10'
+_cell_volume   360.22216304
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.33287190  -0.00000000  0.00000000  1
+  Sm  Sm1  1  0.33287190  -0.00000000  0.50000000  1
+  Sm  Sm2  1  -0.00000000  0.33287190  0.50000000  1
+  Sm  Sm3  1  -0.00000000  0.33287190  0.00000000  1
+  Sm  Sm4  1  0.66712810  0.66712810  -0.00000000  1
+  Sm  Sm5  1  0.66712810  0.66712810  0.50000000  1
+  Ge  Ge0  1  0.38867844  0.32973054  0.25000000  1
+  Ge  Ge1  1  0.67026946  0.05894790  0.25000000  1
+  Ge  Ge2  1  0.94105210  0.61132156  0.25000000  1
+  Ge  Ge3  1  0.61132156  0.94105210  0.75000000  1
+  Ge  Ge4  1  0.00000000  0.00000000  0.25000000  1
+  Ge  Ge5  1  0.66666700  0.33333300  0.75000000  1
+  Ge  Ge6  1  0.05894790  0.67026946  0.75000000  1
+  Ge  Ge7  1  0.32973054  0.38867844  0.75000000  1
+  Ge  Ge8  1  0.33333300  0.66666700  0.25000000  1
+  Ge  Ge9  1  0.00000000  0.00000000  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ge4 2.537373 1_555
+Ge0 Ge8 2.571866 1_555
+Ge0 Sm1 3.014991 1_555
+Ge0 Sm0 3.014991 1_555
+Ge0 Sm4 3.047163 1_555
+Ge0 Sm5 3.047163 1_555
+Ge0 Sm3 3.459673 1_555
+Ge0 Sm2 3.459673 1_555
+Ge1 Ge4 2.537373 1_655
+Ge1 Ge8 2.571862 1_545
+Ge1 Sm3 3.014991 1_655
+Ge1 Sm2 3.014991 1_655
+Ge1 Sm1 3.047163 1_555
+Ge1 Sm0 3.047163 1_555
+Ge1 Sm4 3.459673 1_545
+Ge1 Sm5 3.459673 1_545
+Ge2 Ge4 2.537373 1_665
+Ge2 Ge8 2.571859 1_655
+Ge2 Sm5 3.014991 1_555
+Ge2 Sm4 3.014991 1_555
+Ge2 Sm3 3.047163 1_655
+Ge2 Sm2 3.047163 1_655
+Ge2 Sm0 3.459673 1_665
+Ge2 Sm1 3.459673 1_665
+Ge3 Ge9 2.537373 1_665
+Ge3 Ge5 2.571859 1_565
+Ge3 Sm4 3.014990 1_556
+Ge3 Sm5 3.014990 1_555
+Ge3 Sm1 3.047163 1_565
+Ge3 Sm0 3.047163 1_566
+Ge3 Sm3 3.459673 1_666
+Ge3 Sm2 3.459673 1_665
+Ge4 Sm2 3.152722 1_555
+Ge4 Sm3 3.152722 1_555
+Ge4 Sm0 3.152722 1_555
+Ge4 Sm1 3.152722 1_555
+Ge4 Sm4 3.152722 1_445
+Ge4 Sm5 3.152722 1_445
+Ge5 Ge6 2.571862 1_655
+Ge5 Ge7 2.571866 1_555
+Ge5 Sm2 3.156296 1_655
+Ge5 Sm3 3.156296 1_656
+Ge5 Sm1 3.156299 1_555
+Ge5 Sm0 3.156299 1_556
+Ge5 Sm4 3.156301 1_556
+Ge5 Sm5 3.156301 1_555
+Ge6 Ge9 2.537373 1_565
+Ge6 Sm1 3.014991 1_565
+Ge6 Sm0 3.014991 1_566
+Ge6 Sm2 3.047163 1_555
+Ge6 Sm3 3.047163 1_556
+Ge6 Sm5 3.459673 1_455
+Ge6 Sm4 3.459673 1_456
+Ge7 Ge9 2.537373 1_555
+Ge7 Sm2 3.014991 1_555
+Ge7 Sm3 3.014991 1_556
+Ge7 Sm5 3.047164 1_555
+Ge7 Sm4 3.047164 1_556
+Ge7 Sm1 3.459673 1_555
+Ge7 Sm0 3.459673 1_556
+Ge8 Sm0 3.156296 1_565
+Ge8 Sm1 3.156296 1_565
+Ge8 Sm3 3.156299 1_555
+Ge8 Sm2 3.156299 1_555
+Ge8 Sm5 3.156302 1_555
+Ge8 Sm4 3.156302 1_555
+Ge9 Sm3 3.152722 1_556
+Ge9 Sm2 3.152722 1_555
+Ge9 Sm0 3.152722 1_556
+Ge9 Sm1 3.152722 1_555
+Ge9 Sm5 3.152722 1_445
+Ge9 Sm4 3.152722 1_446

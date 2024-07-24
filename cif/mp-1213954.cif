@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_CeBiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06519672
+_cell_length_b   8.12726731
+_cell_length_c   7.32571465
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeBiRh
+_chemical_formula_sum   'Ce4 Bi4 Rh4'
+_cell_volume   301.57189099
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.99662679  0.29686097  1
+  Ce  Ce1  1  0.25000000  0.00337321  0.70313903  1
+  Ce  Ce2  1  0.25000000  0.50337321  0.79686097  1
+  Ce  Ce3  1  0.75000000  0.49662679  0.20313903  1
+  Bi  Bi0  1  0.75000000  0.81616991  0.89341699  1
+  Bi  Bi1  1  0.25000000  0.18383009  0.10658301  1
+  Bi  Bi2  1  0.25000000  0.68383009  0.39341699  1
+  Bi  Bi3  1  0.75000000  0.31616991  0.60658301  1
+  Rh  Rh0  1  0.75000000  0.78522416  0.51204024  1
+  Rh  Rh1  1  0.25000000  0.21477584  0.48795976  1
+  Rh  Rh2  1  0.25000000  0.71477584  0.01204024  1
+  Rh  Rh3  1  0.75000000  0.28522416  0.98795976  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Rh0 2.331697 1_555
+Ce1 Rh1 2.331697 1_555
+Ce2 Rh2 2.331697 1_556
+Ce3 Rh3 2.331697 1_554
+Bi0 Rh2 2.801479 1_556
+Bi0 Rh2 2.801479 1_656
+Bi0 Rh0 2.805155 1_555
+Bi0 Ce1 3.266785 1_665
+Bi0 Ce1 3.266785 1_565
+Bi0 Ce0 3.299401 1_556
+Bi0 Ce3 3.448556 1_556
+Bi0 Ce2 3.657469 1_555
+Bi0 Ce2 3.657469 1_655
+Bi1 Rh3 2.801479 1_454
+Bi1 Rh3 2.801479 1_554
+Bi1 Rh1 2.805155 1_555
+Bi1 Ce0 3.266785 1_445
+Bi1 Ce0 3.266785 1_545
+Bi1 Ce1 3.299401 1_554
+Bi1 Ce2 3.448556 1_554
+Bi1 Ce3 3.657469 1_555
+Bi1 Ce3 3.657469 1_455
+Bi2 Rh0 2.801479 1_455
+Bi2 Rh0 2.801479 1_555
+Bi2 Rh2 2.805155 1_555
+Bi2 Ce3 3.266785 1_455
+Bi2 Ce3 3.266785 1_555
+Bi2 Ce2 3.299401 1_555
+Bi2 Ce1 3.448556 1_565
+Bi2 Ce0 3.657469 1_455
+Bi2 Ce0 3.657469 1_555
+Bi3 Rh1 2.801479 1_555
+Bi3 Rh1 2.801479 1_655
+Bi3 Rh3 2.805155 1_555
+Bi3 Ce2 3.266785 1_555
+Bi3 Ce2 3.266785 1_655
+Bi3 Ce3 3.299401 1_555
+Bi3 Ce0 3.448556 1_545
+Bi3 Ce1 3.657469 1_555
+Bi3 Ce1 3.657469 1_655

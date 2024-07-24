@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_PbCN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90475200
+_cell_length_b   5.60095400
+_cell_length_c   12.10643900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbCN2
+_chemical_formula_sum   'Pb4 C4 N8'
+_cell_volume   264.77189273
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.49439100  0.38685700  0.63412900  1
+  Pb  Pb1  1  0.99439100  0.11314300  0.13412900  1
+  Pb  Pb2  1  0.99439100  0.61314300  0.36587100  1
+  Pb  Pb3  1  0.49439100  0.88685700  0.86587100  1
+  C  C0  1  0.96247700  0.37942600  0.89882100  1
+  C  C1  1  0.46247700  0.62057400  0.10117900  1
+  C  C2  1  0.96247700  0.87942600  0.60117900  1
+  C  C3  1  0.46247700  0.12057400  0.39882100  1
+  N  N0  1  0.45894600  0.82638000  0.06084200  1
+  N  N1  1  0.95894600  0.67362000  0.56084200  1
+  N  N2  1  0.46918700  0.92382000  0.35473800  1
+  N  N3  1  0.96918700  0.57618000  0.85473800  1
+  N  N4  1  0.46918700  0.42382000  0.14526200  1
+  N  N5  1  0.45894600  0.32638000  0.43915800  1
+  N  N6  1  0.95894600  0.17362000  0.93915800  1
+  N  N7  1  0.96918700  0.07618000  0.64526200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 N3 1.224719 1_555
+C0 N6 1.251960 1_555
+C1 N4 1.224719 1_555
+C1 N0 1.251960 1_555
+C2 N7 1.224719 1_565
+C2 N1 1.251960 1_555
+C3 N2 1.224719 1_545
+C3 N5 1.251960 1_555
+N0 Pb3 2.388598 1_554
+N0 Pb1 2.580195 1_465
+N0 Pb1 2.781775 1_565
+N1 Pb2 2.388598 1_555
+N1 Pb0 2.580195 1_555
+N1 Pb0 2.781775 1_655
+N2 Pb2 2.546221 1_455
+N2 Pb2 2.692920 1_555
+N3 Pb3 2.546221 1_555
+N3 Pb3 2.692920 1_655
+N4 Pb1 2.546221 1_455
+N4 Pb1 2.692920 1_555
+N5 Pb0 2.388598 1_555
+N5 Pb2 2.580195 1_455
+N5 Pb2 2.781775 1_555
+N6 Pb1 2.388598 1_556
+N6 Pb3 2.580195 1_545
+N6 Pb3 2.781775 1_645
+N7 Pb0 2.546221 1_555
+N7 Pb0 2.692920 1_655

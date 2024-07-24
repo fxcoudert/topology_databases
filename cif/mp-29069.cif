@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Na(CuS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79288398
+_cell_length_b   3.79288295
+_cell_length_c   12.04669812
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CuS)4
+_chemical_formula_sum   'Na1 Cu4 S4'
+_cell_volume   150.08512690
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.85182584  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.14817416  1
+  Cu  Cu2  1  0.33333300  0.66666700  0.68787611  1
+  Cu  Cu3  1  0.66666700  0.33333300  0.31212389  1
+  S  S0  1  0.00000000  0.00000000  0.91292467  1
+  S  S1  1  0.00000000  0.00000000  0.08707533  1
+  S  S2  1  0.66666700  0.33333300  0.65851913  1
+  S  S3  1  0.33333300  0.66666700  0.34148087  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S2 2.905513 1_455
+Na0 S3 2.905513 1_545
+Na0 S2 2.905515 1_445
+Na0 S3 2.905515 1_555
+Na0 S2 2.905516 1_555
+Na0 S3 2.905516 1_445
+Cu0 S0 2.310209 1_655
+Cu0 S0 2.310212 1_665
+Cu0 S0 2.310212 1_555
+Cu0 S2 2.328708 1_555
+Cu1 S1 2.310209 1_565
+Cu1 S1 2.310212 1_555
+Cu1 S1 2.310212 1_665
+Cu1 S3 2.328708 1_555
+Cu2 S2 2.218193 1_565
+Cu2 S2 2.218194 1_455
+Cu2 S2 2.218200 1_555
+Cu2 Na0 3.149251 1_565
+Cu2 Na0 3.149253 1_555
+Cu2 Na0 3.149253 1_665
+Cu3 S3 2.218193 1_545
+Cu3 S3 2.218194 1_655
+Cu3 S3 2.218200 1_555
+Cu3 Na0 3.149251 1_655
+Cu3 Na0 3.149253 1_665
+Cu3 Na0 3.149253 1_555
+S0 S1 2.097940 1_556

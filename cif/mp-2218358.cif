@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgCr2(SbO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56075000
+_cell_length_b   6.26700860
+_cell_length_c   6.26701640
+_cell_angle_alpha   58.07094079
+_cell_angle_beta   58.43704923
+_cell_angle_gamma   58.43700541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCr2(SbO4)2
+_chemical_formula_sum   'Mg1 Cr2 Sb2 O8'
+_cell_volume   175.16922842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.11845000  0.13154800  0.13155300  1
+  Cr  Cr0  1  0.50197700  0.99405400  0.50199300  1
+  Cr  Cr1  1  0.50196600  0.50201400  0.99405400  1
+  Sb  Sb0  1  0.99024200  0.50342800  0.50344600  1
+  Sb  Sb1  1  0.50288300  0.50342800  0.50344600  1
+  O  O0  1  0.27368200  0.25501700  0.25500200  1
+  O  O1  1  0.26341300  0.24770600  0.72546700  1
+  O  O2  1  0.26340200  0.72546500  0.24773000  1
+  O  O3  1  0.71629900  0.25501700  0.25500200  1
+  O  O4  1  0.30743900  0.74098600  0.74096400  1
+  O  O5  1  0.73211800  0.74516300  0.29060200  1
+  O  O6  1  0.73210200  0.29060400  0.74519300  1
+  O  O7  1  0.71061100  0.74098600  0.74096400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.035301 1_545
+Mg0 O1 2.035327 1_554
+Mg0 O0 2.125451 1_555
+Mg0 O3 2.125456 1_455
+Cr0 O7 1.998221 1_555
+Cr0 O4 1.998226 1_555
+Cr0 O5 2.023359 1_555
+Cr0 O1 2.096079 1_565
+Cr0 O3 2.121101 1_565
+Cr0 O0 2.121106 1_565
+Cr1 O7 1.998279 1_555
+Cr1 O4 1.998279 1_555
+Cr1 O6 2.023303 1_555
+Cr1 O2 2.096090 1_556
+Cr1 O0 2.121081 1_556
+Cr1 O3 2.121081 1_556
+O0 Sb0 2.192723 1_455
+O1 Sb0 2.227440 1_455
+O1 Sb1 2.227440 1_555
+O2 Sb0 2.227454 1_455
+O2 Sb1 2.227454 1_555
+O3 Sb1 2.192722 1_555
+O4 Sb1 2.103281 1_555
+O5 Sb0 2.117499 1_555
+O5 Sb1 2.117509 1_555
+O6 Sb0 2.117492 1_555
+O6 Sb1 2.117502 1_555
+O7 Sb0 2.103280 1_555

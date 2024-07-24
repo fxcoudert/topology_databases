@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_MgCu4(AsS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73000211
+_cell_length_b   5.67169249
+_cell_length_c   12.26193552
+_cell_angle_alpha   84.27767625
+_cell_angle_beta   89.12159979
+_cell_angle_gamma   89.41678607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu4(AsS)4
+_chemical_formula_sum   'Mg1 Cu4 As4 S4'
+_cell_volume   258.07369329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.79711896  0.17387801  0.64181455  1
+  Cu  Cu0  1  0.27562512  0.37480436  0.30929632  1
+  Cu  Cu1  1  0.78048528  0.89735352  0.17362565  1
+  Cu  Cu2  1  0.78758806  0.65922631  0.69415236  1
+  Cu  Cu3  1  0.27986660  0.10138979  0.84870584  1
+  As  As0  1  0.77877965  0.64810648  0.01856666  1
+  As  As1  1  0.26395528  0.07661578  0.46467537  1
+  As  As2  1  0.77017278  0.78194254  0.48720115  1
+  As  As3  1  0.28230272  0.34807900  0.99864556  1
+  S  S0  1  0.78354542  0.87209830  0.84269368  1
+  S  S1  1  0.77232838  0.60279867  0.31171465  1
+  S  S2  1  0.27752332  0.13814280  0.16913366  1
+  S  S3  1  0.29074242  0.40889744  0.71199654  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S3 2.492493 1_555
+Mg0 S3 2.496943 1_655
+Mg0 S0 2.855967 1_545
+Cu0 S1 2.270196 1_455
+Cu0 S1 2.272364 1_555
+Cu0 S2 2.283642 1_555
+Cu1 S1 2.257061 1_555
+Cu1 S2 2.307313 1_565
+Cu1 S2 2.310558 1_665
+Cu2 S0 2.283141 1_555
+Cu2 S3 2.340371 1_555
+Cu2 S3 2.341436 1_655
+Cu2 Mg0 2.887963 1_555
+Cu2 Mg0 2.925957 1_565
+Cu3 S0 2.278463 1_545
+Cu3 S0 2.279519 1_445
+Cu3 S3 2.295621 1_555
+As0 S0 2.391211 1_554
+As0 Cu1 2.479925 1_555
+As0 As3 2.546862 1_654
+As0 As3 2.558442 1_554
+As1 Cu0 2.418374 1_555
+As1 As2 2.493351 1_445
+As1 As2 2.508881 1_545
+As1 Mg0 2.856176 1_455
+As1 Mg0 3.061183 1_555
+As2 S1 2.469407 1_555
+As2 Cu2 2.565171 1_555
+As2 Mg0 3.065393 1_565
+As3 S2 2.300268 1_556
+As3 Cu3 2.419030 1_555

@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Li3Ti(NiO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89733158
+_cell_length_b   5.89733157
+_cell_length_c   5.92262929
+_cell_angle_alpha   89.60204527
+_cell_angle_beta   59.83293034
+_cell_angle_gamma   59.84795396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Ti(NiO2)4
+_chemical_formula_sum   'Li3 Ti1 Ni4 O8'
+_cell_volume   145.44992526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.50000000  1
+  Li  Li2  1  0.50000000  0.50000000  0.50000000  1
+  Ti  Ti0  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni0  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.00000000  0.50000000  0.00000000  1
+  O  O0  1  0.48922000  0.26218900  0.77296800  1
+  O  O1  1  0.97626600  0.26022200  0.76046500  1
+  O  O2  1  0.49975700  0.73673100  0.76046500  1
+  O  O3  1  0.98126800  0.74983600  0.76856900  1
+  O  O4  1  0.01873200  0.25016400  0.23143100  1
+  O  O5  1  0.50024300  0.26326900  0.23953500  1
+  O  O6  1  0.02373400  0.73977800  0.23953500  1
+  O  O7  1  0.51078000  0.73781100  0.22703200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.086734 1_455
+Li0 O6 2.086734 1_545
+Li0 O0 2.130583 1_455
+Li0 O7 2.130583 1_545
+Li0 O4 2.161794 1_555
+Li0 O3 2.161794 1_445
+Li1 O2 2.181054 1_545
+Li1 O5 2.181054 1_555
+Li1 O6 2.181054 1_645
+Li1 O1 2.181054 1_455
+Li1 O0 2.200269 1_555
+Li1 O7 2.200269 1_545
+Li2 O5 2.086734 1_555
+Li2 O2 2.086734 1_555
+Li2 O0 2.130579 1_555
+Li2 O7 2.130579 1_555
+Li2 O3 2.161791 1_455
+Li2 O4 2.161791 1_655
+Ni0 O1 2.085756 1_455
+Ni0 O6 2.085756 1_555
+Ni0 O2 2.085757 1_455
+Ni0 O5 2.085757 1_555
+Ni0 O4 2.098946 1_555
+Ni0 O3 2.098946 1_455
+Ni1 O6 2.083465 1_545
+Ni1 O1 2.083465 1_454
+Ni1 O2 2.083465 1_544
+Ni1 O5 2.083465 1_455
+Ni1 O4 2.100350 1_555
+Ni1 O3 2.100350 1_444
+Ni2 O4 2.005595 1_555
+Ni2 O3 2.005595 1_544
+Ni2 O7 2.039884 1_545
+Ni2 O0 2.039884 1_554
+Ni2 O5 2.111407 1_555
+Ni2 O2 2.111407 1_544
+Ni3 O3 2.005591 1_454
+Ni3 O4 2.005591 1_555
+Ni3 O0 2.039880 1_554
+Ni3 O7 2.039880 1_455
+Ni3 O6 2.111407 1_555
+Ni3 O1 2.111407 1_454
+O0 Ti0 1.995145 1_556
+O1 Ti0 1.983485 1_556
+O2 Ti0 1.983484 1_556
+O5 Ti0 1.983484 1_555
+O6 Ti0 1.983485 1_555
+O7 Ti0 1.995145 1_555

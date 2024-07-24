@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Li2Ta2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87491000
+_cell_length_b   4.97264797
+_cell_length_c   8.55775950
+_cell_angle_alpha   83.22735271
+_cell_angle_beta   83.24845461
+_cell_angle_gamma   67.12545666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ta2O3
+_chemical_formula_sum   'Li4 Ta4 O6'
+_cell_volume   189.21832072
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.58897600  0.65911400  0.12117700  1
+  Li  Li1  1  0.11966100  0.12226100  0.62572000  1
+  Li  Li2  1  0.83757600  0.85348300  0.38524500  1
+  Li  Li3  1  0.37425300  0.39886700  0.86259100  1
+  Ta  Ta0  1  0.96107700  0.98170900  0.98468000  1
+  Ta  Ta1  1  0.26495900  0.28701600  0.25033200  1
+  Ta  Ta2  1  0.48107400  0.45340300  0.48033400  1
+  Ta  Ta3  1  0.77174000  0.76563100  0.76524600  1
+  O  O0  1  0.84938000  0.43984800  0.34066300  1
+  O  O1  1  0.22930100  0.57882900  0.07209600  1
+  O  O2  1  0.67199900  0.01159900  0.17295900  1
+  O  O3  1  0.72639500  0.09940800  0.60633400  1
+  O  O4  1  0.80649900  0.39238700  0.89571100  1
+  O  O5  1  0.12796000  0.52389500  0.62606100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.041341 1_555
+Li0 O2 2.051660 1_565
+Li0 O0 2.308660 1_555
+Li0 O4 2.373951 1_554
+Li1 O3 1.991093 1_455
+Li1 O5 2.013606 1_555
+Li2 O2 2.021039 1_565
+Li2 O0 2.113636 1_555
+Li2 O3 2.271194 1_565
+Li3 O1 2.025720 1_556
+Li3 O4 2.146389 1_555
+Li3 O5 2.370580 1_555
+O0 Ta1 1.962860 1_655
+O0 Ta2 2.019209 1_555
+O1 Ta1 1.951053 1_555
+O1 Ta0 2.030491 1_454
+O2 Ta0 1.990953 1_544
+O2 Ta1 2.010899 1_555
+O3 Ta3 1.976396 1_545
+O3 Ta2 1.977483 1_555
+O4 Ta0 1.972245 1_545
+O4 Ta3 2.007802 1_555
+O5 Ta2 1.941797 1_555
+O5 Ta3 2.026774 1_455

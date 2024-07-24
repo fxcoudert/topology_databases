@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_TlB(CN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00991385
+_cell_length_b   9.00991385
+_cell_length_c   9.00991385
+_cell_angle_alpha   132.47750252
+_cell_angle_beta   132.47750252
+_cell_angle_gamma   69.47590109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlB(CN)4
+_chemical_formula_sum   'Tl2 B2 C8 N8'
+_cell_volume   390.32098813
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25000000  0.75000000  0.50000000  1
+  Tl  Tl1  1  0.50000000  0.50000000  0.00000000  1
+  B  B0  1  0.75000000  0.25000000  0.50000000  1
+  B  B1  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.59096100  0.34003300  0.55270900  1
+  C  C1  1  0.09003300  0.03732400  0.24907200  1
+  C  C2  1  0.78825200  0.84096100  0.75092800  1
+  C  C3  1  0.78732400  0.03825200  0.44729100  1
+  C  C4  1  0.15903900  0.90996700  0.94729100  1
+  C  C5  1  0.65996700  0.21267600  0.25092800  1
+  C  C6  1  0.96174800  0.40903900  0.74907200  1
+  C  C7  1  0.96267600  0.21174800  0.05270900  1
+  N  N0  1  0.93249700  0.36769200  0.09239900  1
+  N  N1  1  0.11769200  0.52529300  0.93519500  1
+  N  N2  1  0.59009800  0.18249700  0.06480500  1
+  N  N3  1  0.27529300  0.84009800  0.90760100  1
+  N  N4  1  0.81750300  0.88230800  0.40760100  1
+  N  N5  1  0.63230800  0.72470700  0.56480500  1
+  N  N6  1  0.15990200  0.06750300  0.43519500  1
+  N  N7  1  0.47470700  0.40990200  0.59239900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 C3 1.587630 1_555
+B0 C5 1.587630 1_555
+B0 C6 1.587630 1_555
+B0 C0 1.587630 1_555
+B1 C1 1.587630 1_555
+B1 C7 1.587630 1_455
+B1 C4 1.587630 1_544
+B1 C2 1.587630 1_444
+C0 N7 1.166528 1_555
+C1 N6 1.166528 1_555
+C2 N5 1.166528 1_555
+C3 N4 1.166528 1_545
+C4 N3 1.166528 1_555
+C5 N2 1.166528 1_555
+C6 N1 1.166528 1_655
+C7 N0 1.166528 1_555

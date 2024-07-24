@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Mn2Os(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08500619
+_cell_length_b   6.08500619
+_cell_length_c   6.75369400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Os(CN)6
+_chemical_formula_sum   'Mn2 Os1 C6 N6'
+_cell_volume   216.56788292
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333300  0.66666700  0.50000000  1
+  Mn  Mn1  1  0.66666700  0.33333300  0.50000000  1
+  Os  Os0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.74294800  0.74294800  0.18705600  1
+  C  C1  1  0.25705200  0.25705200  0.81294400  1
+  C  C2  1  0.25705200  0.00000000  0.18705600  1
+  C  C3  1  0.00000000  0.25705200  0.18705600  1
+  C  C4  1  0.00000000  0.74294800  0.81294400  1
+  C  C5  1  0.74294800  0.00000000  0.81294400  1
+  N  N0  1  0.60980300  0.00000000  0.68429600  1
+  N  N1  1  0.00000000  0.60980300  0.68429600  1
+  N  N2  1  0.39019700  0.00000000  0.31570400  1
+  N  N3  1  0.00000000  0.39019700  0.31570400  1
+  N  N4  1  0.39019700  0.39019700  0.68429600  1
+  N  N5  1  0.60980300  0.60980300  0.31570400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N2 2.254163 1_565
+Mn0 N1 2.254163 1_555
+Mn0 N0 2.254165 1_565
+Mn0 N3 2.254165 1_555
+Mn0 N4 2.254168 1_555
+Mn0 N5 2.254168 1_555
+Mn1 N3 2.254163 1_655
+Mn1 N0 2.254163 1_555
+Mn1 N2 2.254165 1_555
+Mn1 N1 2.254165 1_655
+Mn1 N5 2.254168 1_555
+Mn1 N4 2.254168 1_555
+C0 N5 1.187983 1_555
+C0 Os0 2.010617 1_665
+C1 N4 1.187983 1_555
+C1 Os0 2.010617 1_556
+C2 N2 1.187983 1_555
+C2 Os0 2.010617 1_555
+C3 N3 1.187983 1_555
+C3 Os0 2.010617 1_555
+C4 N1 1.187983 1_555
+C4 Os0 2.010617 1_566
+C5 N0 1.187983 1_555
+C5 Os0 2.010617 1_656

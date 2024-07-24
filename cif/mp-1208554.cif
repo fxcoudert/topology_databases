@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_TaSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80419057
+_cell_length_b   6.43827642
+_cell_length_c   7.39832176
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSiPt
+_chemical_formula_sum   'Ta4 Si4 Pt4'
+_cell_volume   181.20288111
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.52549866  0.16175292  1
+  Ta  Ta1  1  0.75000000  0.47450134  0.83824708  1
+  Ta  Ta2  1  0.75000000  0.97450134  0.66175292  1
+  Ta  Ta3  1  0.25000000  0.02549866  0.33824708  1
+  Si  Si0  1  0.25000000  0.77053322  0.87410305  1
+  Si  Si1  1  0.75000000  0.22946678  0.12589695  1
+  Si  Si2  1  0.75000000  0.72946678  0.37410305  1
+  Si  Si3  1  0.25000000  0.27053322  0.62589695  1
+  Pt  Pt0  1  0.25000000  0.65256324  0.56901365  1
+  Pt  Pt1  1  0.75000000  0.34743676  0.43098635  1
+  Pt  Pt2  1  0.75000000  0.84743676  0.06901365  1
+  Pt  Pt3  1  0.25000000  0.15256324  0.93098635  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Ta0 2.649102 1_556
+Si0 Ta1 2.705721 1_555
+Si0 Ta1 2.705721 1_455
+Si0 Ta2 2.794748 1_555
+Si0 Ta2 2.794748 1_455
+Si1 Ta1 2.649102 1_554
+Si1 Ta0 2.705721 1_555
+Si1 Ta0 2.705721 1_655
+Si1 Ta3 2.794748 1_555
+Si1 Ta3 2.794748 1_655
+Si2 Ta2 2.649102 1_555
+Si2 Ta3 2.705721 1_565
+Si2 Ta3 2.705721 1_665
+Si2 Ta0 2.794748 1_555
+Si2 Ta0 2.794748 1_655
+Si3 Ta3 2.649102 1_555
+Si3 Ta2 2.705721 1_445
+Si3 Ta2 2.705721 1_545
+Si3 Ta1 2.794748 1_455
+Si3 Ta1 2.794748 1_555
+Pt0 Si0 2.381512 1_555
+Pt0 Si2 2.437727 1_555
+Pt0 Si2 2.437727 1_455
+Pt0 Si3 2.495358 1_555
+Pt0 Ta2 2.895672 1_455
+Pt0 Ta2 2.895672 1_555
+Pt0 Ta3 2.946170 1_565
+Pt0 Ta1 2.983252 1_455
+Pt0 Ta1 2.983252 1_555
+Pt0 Ta0 3.122130 1_555
+Pt1 Si1 2.381512 1_555
+Pt1 Si3 2.437727 1_555
+Pt1 Si3 2.437727 1_655
+Pt1 Si2 2.495358 1_555
+Pt1 Ta3 2.895672 1_655
+Pt1 Ta3 2.895672 1_555
+Pt1 Ta2 2.946170 1_545
+Pt1 Ta0 2.983252 1_655
+Pt1 Ta0 2.983252 1_555
+Pt1 Ta1 3.122130 1_555
+Pt2 Si2 2.381512 1_555
+Pt2 Si0 2.437727 1_654
+Pt2 Si0 2.437727 1_554
+Pt2 Si1 2.495358 1_565
+Pt2 Ta0 2.895672 1_655
+Pt2 Ta0 2.895672 1_555
+Pt2 Ta1 2.946170 1_554
+Pt2 Ta3 2.983252 1_565
+Pt2 Ta3 2.983252 1_665
+Pt2 Ta2 3.122130 1_554
+Pt3 Si3 2.381512 1_555
+Pt3 Si1 2.437727 1_556
+Pt3 Si1 2.437727 1_456
+Pt3 Si0 2.495358 1_545
+Pt3 Ta1 2.895672 1_555
+Pt3 Ta1 2.895672 1_455
+Pt3 Ta0 2.946170 1_556
+Pt3 Ta2 2.983252 1_545
+Pt3 Ta2 2.983252 1_445
+Pt3 Ta3 3.122130 1_556

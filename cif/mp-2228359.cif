@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_MgTl2Cu2H2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.38492325
+_cell_length_b   5.78052255
+_cell_length_c   5.60396774
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.69052457
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTl2Cu2H2(SeO5)2
+_chemical_formula_sum   'Mg1 Tl2 Cu2 H2 Se2 O10'
+_cell_volume   333.38189737
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.44203038  0.75000000  0.58915406  1
+  Tl  Tl0  1  0.62891694  0.25000000  0.02762452  1
+  Tl  Tl1  1  0.30295623  0.75000000  0.07787392  1
+  Cu  Cu0  1  0.97243441  0.47774550  0.96729175  1
+  Cu  Cu1  1  0.97243441  0.02225450  0.96729175  1
+  H  H0  1  0.83267355  0.25000000  0.64709417  1
+  H  H1  1  0.06117844  0.75000000  0.28273102  1
+  Se  Se0  1  0.28604087  0.25000000  0.53841459  1
+  Se  Se1  1  0.76519735  0.75000000  0.52133152  1
+  O  O0  1  0.84511056  0.25000000  0.82450624  1
+  O  O1  1  0.06248429  0.75000000  0.10812827  1
+  O  O2  1  0.34738126  0.49430216  0.71333790  1
+  O  O3  1  0.77183436  0.98991863  0.36166975  1
+  O  O4  1  0.77183436  0.51008137  0.36166975  1
+  O  O5  1  0.34738126  0.00569784  0.71333790  1
+  O  O6  1  0.38720519  0.25000000  0.32783130  1
+  O  O7  1  0.62750364  0.75000000  0.65615345  1
+  O  O8  1  0.06972379  0.25000000  0.13914842  1
+  O  O9  1  0.89139270  0.75000000  0.75874272  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 1.912426 1_555
+Mg0 O2 1.954024 1_555
+Mg0 O5 1.954024 1_565
+Cu0 O8 1.849602 1_656
+Cu0 O1 1.943361 1_656
+Cu0 O0 1.959228 1_555
+Cu0 O9 2.070672 1_555
+Cu1 O8 1.849602 1_656
+Cu1 O1 1.943361 1_646
+Cu1 O0 1.959228 1_555
+Cu1 O9 2.070672 1_545
+H0 O0 0.985277 1_555
+H1 O1 0.980375 1_555
+O0 Tl0 2.649596 1_556
+O1 Tl1 2.525567 1_555
+O2 Se0 1.787140 1_555
+O2 Tl1 2.612088 1_556
+O3 Se1 1.656859 1_555
+O3 Tl0 2.687700 1_565
+O4 Se1 1.656859 1_555
+O4 Tl0 2.687700 1_555
+O5 Se0 1.787140 1_555
+O5 Tl1 2.612088 1_546
+O6 Se0 1.681723 1_555
+O7 Se1 1.704323 1_555
+O9 Se1 1.738076 1_555

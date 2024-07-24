@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_LiSmO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99641927
+_cell_length_b   5.67190956
+_cell_length_c   5.68487923
+_cell_angle_alpha   77.33178257
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSmO2
+_chemical_formula_sum   'Li4 Sm4 O8'
+_cell_volume   188.64243983
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.36109801  0.67700262  0.33650480  1
+  Li  Li1  1  0.63890199  0.32299738  0.66349520  1
+  Li  Li2  1  0.13890199  0.17700262  0.33650480  1
+  Li  Li3  1  0.86109801  0.82299738  0.66349520  1
+  Sm  Sm0  1  0.56979205  0.19596626  0.20166810  1
+  Sm  Sm1  1  0.06979205  0.30403374  0.79833190  1
+  Sm  Sm2  1  0.43020795  0.80403374  0.79833190  1
+  Sm  Sm3  1  0.93020795  0.69596626  0.20166810  1
+  O  O0  1  0.86654710  0.29535138  0.42827100  1
+  O  O1  1  0.63345290  0.79535138  0.42827100  1
+  O  O2  1  0.36654710  0.20464862  0.57172900  1
+  O  O3  1  0.13345290  0.70464862  0.57172900  1
+  O  O4  1  0.73874839  0.51691839  0.91367468  1
+  O  O5  1  0.23874839  0.98308161  0.08632532  1
+  O  O6  1  0.26125161  0.48308161  0.08632532  1
+  O  O7  1  0.76125161  0.01691839  0.91367468  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 1.882427 1_555
+Li0 O3 1.941158 1_555
+Li0 O6 2.068127 1_555
+Li0 O5 2.119419 1_555
+Li1 O2 1.882427 1_555
+Li1 O0 1.941158 1_555
+Li1 O4 2.068127 1_555
+Li1 O7 2.119419 1_555
+Li2 O0 1.882427 1_455
+Li2 O2 1.941158 1_555
+Li2 O5 2.068127 1_545
+Li2 O6 2.119419 1_555
+Li3 O3 1.882427 1_655
+Li3 O1 1.941158 1_555
+Li3 O7 2.068127 1_565
+Li3 O4 2.119419 1_555
+O0 Sm0 2.337147 1_555
+O0 Sm3 2.384211 1_555
+O0 Sm1 2.441100 1_655
+O1 Sm3 2.337147 1_555
+O1 Sm0 2.384211 1_565
+O1 Sm2 2.441100 1_555
+O2 Sm1 2.337147 1_555
+O2 Sm2 2.384211 1_545
+O2 Sm0 2.441100 1_555
+O3 Sm2 2.337147 1_555
+O3 Sm1 2.384211 1_555
+O3 Sm3 2.441100 1_455
+O4 Sm0 2.390305 1_556
+O4 Sm3 2.399813 1_556
+O4 Sm2 2.456949 1_555
+O4 Sm1 2.485099 1_655
+O5 Sm1 2.390305 1_564
+O5 Sm2 2.399813 1_554
+O5 Sm3 2.456949 1_455
+O5 Sm0 2.485099 1_565
+O6 Sm2 2.390305 1_554
+O6 Sm1 2.399813 1_554
+O6 Sm0 2.456949 1_555
+O6 Sm3 2.485099 1_455
+O7 Sm3 2.390305 1_546
+O7 Sm0 2.399813 1_556
+O7 Sm1 2.456949 1_655
+O7 Sm2 2.485099 1_545

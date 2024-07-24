@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiVGeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53080459
+_cell_length_b   6.53080459
+_cell_length_c   4.64482700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.14793824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVGeO5
+_chemical_formula_sum   'Li2 V2 Ge2 O10'
+_cell_volume   198.06865392
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.00000000  1
+  V  V0  1  0.75000000  0.25000000  0.61454600  1
+  V  V1  1  0.25000000  0.75000000  0.38545400  1
+  Ge  Ge0  1  0.25000000  0.25000000  0.50000000  1
+  Ge  Ge1  1  0.75000000  0.75000000  0.50000000  1
+  O  O0  1  0.25721800  0.03147800  0.27395800  1
+  O  O1  1  0.75000000  0.25000000  0.26335300  1
+  O  O2  1  0.46852200  0.24278200  0.72604200  1
+  O  O3  1  0.03147800  0.25721800  0.72604200  1
+  O  O4  1  0.24278200  0.46852200  0.27395800  1
+  O  O5  1  0.75721800  0.53147800  0.72604200  1
+  O  O6  1  0.96852200  0.74278200  0.27395800  1
+  O  O7  1  0.53147800  0.75721800  0.27395800  1
+  O  O8  1  0.25000000  0.75000000  0.73664700  1
+  O  O9  1  0.74278200  0.96852200  0.72604200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O7 2.046595 1_545
+Li0 O9 2.046595 1_544
+Li0 O0 2.046595 1_555
+Li0 O2 2.046595 1_554
+Li0 O8 2.592471 1_544
+Li0 O1 2.592471 1_555
+Li1 O6 2.046595 1_455
+Li1 O5 2.046595 1_454
+Li1 O3 2.046595 1_554
+Li1 O4 2.046595 1_555
+Li1 O8 2.592471 1_554
+Li1 O1 2.592471 1_455
+Ge0 O3 1.773118 1_555
+Ge0 O2 1.773118 1_555
+Ge0 O4 1.773118 1_555
+Ge0 O0 1.773118 1_555
+Ge1 O6 1.773118 1_555
+Ge1 O7 1.773118 1_555
+Ge1 O9 1.773118 1_555
+Ge1 O5 1.773118 1_555
+O0 V1 1.909506 1_545
+O1 V0 1.631231 1_555
+O2 V0 1.909506 1_555
+O3 V0 1.909506 1_455
+O4 V1 1.909506 1_555
+O5 V0 1.909506 1_555
+O6 V1 1.909506 1_655
+O7 V1 1.909506 1_555
+O8 V1 1.631231 1_555
+O9 V0 1.909506 1_565

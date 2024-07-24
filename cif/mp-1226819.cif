@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CeNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24135500
+_cell_length_b   6.09463994
+_cell_length_c   5.71588786
+_cell_angle_alpha   90.69575878
+_cell_angle_beta   111.77819473
+_cell_angle_gamma   69.63754927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNiSn
+_chemical_formula_sum   'Ce2 Ni2 Sn2'
+_cell_volume   127.46740859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.77598100  0.66299500  0.21495800  1
+  Ce  Ce1  1  0.22401900  0.33700500  0.78504200  1
+  Ni  Ni0  1  0.53894900  0.31125400  0.38915200  1
+  Ni  Ni1  1  0.46105100  0.68874600  0.61084800  1
+  Sn  Sn0  1  0.08130000  0.08950700  0.25210600  1
+  Sn  Sn1  1  0.91870000  0.91049300  0.74789400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ni0 2.981960 1_555
+Ce0 Ni0 2.981963 1_655
+Ce0 Ni1 3.002945 1_555
+Ce0 Ni1 3.002948 1_655
+Ce0 Ni1 3.190140 1_554
+Ce0 Sn0 3.256167 1_655
+Ce0 Sn0 3.256410 1_565
+Ce0 Sn0 3.256415 1_665
+Ce0 Sn1 3.328160 1_555
+Ce0 Sn1 3.420715 1_554
+Ce0 Sn1 3.420716 1_454
+Ce1 Ni1 2.981960 1_555
+Ce1 Ni1 2.981963 1_455
+Ce1 Ni0 3.002945 1_555
+Ce1 Ni0 3.002948 1_455
+Ce1 Ni0 3.190140 1_556
+Ce1 Sn1 3.256167 1_455
+Ce1 Sn1 3.256410 1_545
+Ce1 Sn1 3.256415 1_445
+Ce1 Sn0 3.328160 1_555
+Ce1 Sn0 3.420715 1_556
+Ce1 Sn0 3.420716 1_656
+Ni0 Ni1 2.592089 1_555
+Ni0 Sn0 2.622856 1_555
+Ni0 Sn0 2.622860 1_655
+Ni0 Sn1 2.774500 1_545
+Ni1 Sn1 2.622856 1_555
+Ni1 Sn1 2.622860 1_455
+Ni1 Sn0 2.774500 1_565
+Sn0 Sn1 2.990720 1_444

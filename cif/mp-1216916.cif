@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_TiCu2NiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00288900
+_cell_length_b   5.14344200
+_cell_length_c   5.55690039
+_cell_angle_alpha   72.15767860
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCu2NiO4
+_chemical_formula_sum   'Ti1 Cu2 Ni1 O4'
+_cell_volume   81.69934696
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni0  1  0.00000000  0.50000000  0.50000000  1
+  O  O0  1  0.50000000  0.75095200  0.28756300  1
+  O  O1  1  0.00000000  0.22420400  0.29578300  1
+  O  O2  1  0.50000000  0.24904800  0.71243700  1
+  O  O3  1  0.00000000  0.77579600  0.70421700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O3 2.278786 1_544
+Cu0 O1 2.278786 1_555
+Cu0 O2 2.279106 1_454
+Cu0 O2 2.279106 1_554
+Cu0 O0 2.279106 1_445
+Cu0 O0 2.279106 1_545
+Cu1 O2 2.341680 1_554
+Cu1 O0 2.341680 1_555
+Cu1 O1 2.353584 1_655
+Cu1 O3 2.353584 1_654
+Cu1 O3 2.353584 1_554
+Cu1 O1 2.353584 1_555
+Ni0 O3 2.070393 1_555
+Ni0 O1 2.070393 1_555
+Ni0 O0 2.092896 1_455
+Ni0 O0 2.092896 1_555
+Ni0 O2 2.092896 1_555
+Ni0 O2 2.092896 1_455
+O0 Ti0 1.990246 1_565
+O1 Ti0 2.017431 1_555
+O1 Ti0 2.017431 1_455
+O2 Ti0 1.990246 1_555
+O3 Ti0 2.017431 1_465
+O3 Ti0 2.017431 1_565

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Ti(FeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00078534
+_cell_length_b   5.21926641
+_cell_length_c   10.11756100
+_cell_angle_alpha   90.12565853
+_cell_angle_beta   89.62148092
+_cell_angle_gamma   106.18862271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(FeO2)2
+_chemical_formula_sum   'Ti2 Fe4 O8'
+_cell_volume   152.17378325
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.87504400  0.75195000  0.57137400  1
+  Ti  Ti1  1  0.12559400  0.24806200  0.07168700  1
+  Fe  Fe0  1  0.59545700  0.20575400  0.78515600  1
+  Fe  Fe1  1  0.86409900  0.72049600  0.92254900  1
+  Fe  Fe2  1  0.39997200  0.79270000  0.28476100  1
+  Fe  Fe3  1  0.14183300  0.27958200  0.42225500  1
+  O  O0  1  0.21905100  0.42324200  0.88411800  1
+  O  O1  1  0.79120200  0.57738600  0.38375500  1
+  O  O2  1  0.74334000  0.49079000  0.10565100  1
+  O  O3  1  0.25640600  0.51005300  0.60512800  1
+  O  O4  1  0.49311700  0.98897400  0.49440100  1
+  O  O5  1  0.50839100  0.01171400  0.99435900  1
+  O  O6  1  0.03855500  0.07259300  0.23730100  1
+  O  O7  1  0.94793800  0.92670500  0.73750800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O0 2.064418 1_555
+Fe0 O7 2.078829 1_545
+Fe0 O7 2.135513 1_445
+Fe0 O0 2.151287 1_655
+Fe0 O5 2.329929 1_555
+Fe1 O7 2.139687 1_555
+Fe1 O0 2.146161 1_655
+Fe1 O0 2.153534 1_555
+Fe1 O2 2.181563 1_556
+Fe1 O5 2.206128 1_565
+Fe1 O5 2.225127 1_665
+Fe2 O1 2.097722 1_555
+Fe2 O6 2.105756 1_565
+Fe2 O1 2.106954 1_455
+Fe2 O6 2.113443 1_665
+Fe2 O4 2.337736 1_555
+Fe3 O6 2.139385 1_555
+Fe3 O1 2.143518 1_455
+Fe3 O1 2.160677 1_555
+Fe3 O3 2.180948 1_555
+Fe3 O4 2.202524 1_545
+Fe3 O4 2.227679 1_445
+O0 Ti1 2.091324 1_556
+O1 Ti0 2.089891 1_555
+O2 Ti1 1.960088 1_655
+O2 Ti1 1.963757 1_555
+O3 Ti0 1.957779 1_455
+O3 Ti0 1.960473 1_555
+O4 Ti0 2.063246 1_555
+O4 Ti0 2.069440 1_455
+O5 Ti1 2.056035 1_556
+O5 Ti1 2.074852 1_656
+O6 Ti1 1.892665 1_555
+O7 Ti0 1.895250 1_555

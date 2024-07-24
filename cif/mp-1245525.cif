@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_GePbN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11371892
+_cell_length_b   10.73525746
+_cell_length_c   9.03627300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   28.60219750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GePbN2
+_chemical_formula_sum   'Ge4 Pb4 N8'
+_cell_volume   283.91861337
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.46570900  0.64312700  1
+  Ge  Ge1  1  0.00000000  0.53429100  0.35687300  1
+  Ge  Ge2  1  0.00000000  0.03429100  0.14312700  1
+  Ge  Ge3  1  0.00000000  0.96570900  0.85687300  1
+  Pb  Pb0  1  0.00000000  0.16403100  0.46081600  1
+  Pb  Pb1  1  0.00000000  0.83596900  0.53918400  1
+  Pb  Pb2  1  0.00000000  0.33596900  0.96081600  1
+  Pb  Pb3  1  0.00000000  0.66403100  0.03918400  1
+  N  N0  1  0.00000000  0.11937400  0.95659500  1
+  N  N1  1  0.00000000  0.88062600  0.04340500  1
+  N  N2  1  0.00000000  0.38062600  0.45659500  1
+  N  N3  1  0.00000000  0.61937400  0.54340500  1
+  N  N4  1  0.50000000  0.65441200  0.75000000  1
+  N  N5  1  0.50000000  0.84558800  0.25000000  1
+  N  N6  1  0.50000000  0.34558800  0.25000000  1
+  N  N7  1  0.50000000  0.15441200  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 N7 1.872748 1_555
+Ge0 N4 1.872748 1_455
+Ge0 N3 1.879707 1_555
+Ge0 N2 1.917125 1_555
+Ge1 N5 1.872748 1_455
+Ge1 N6 1.872748 1_555
+Ge1 N2 1.879707 1_555
+Ge1 N3 1.917125 1_555
+Ge2 N6 1.872748 1_455
+Ge2 N5 1.872748 1_545
+Ge2 N1 1.879707 1_545
+Ge2 N0 1.917125 1_554
+Ge3 N4 1.872748 1_555
+Ge3 N7 1.872748 1_465
+Ge3 N0 1.879707 1_565
+Ge3 N1 1.917125 1_556
+N0 Pb2 2.325516 1_555
+N1 Pb3 2.325516 1_555
+N2 Pb0 2.325516 1_555
+N3 Pb1 2.325516 1_555
+N4 Pb2 2.512047 1_655
+N4 Pb1 2.512048 1_555
+N5 Pb0 2.512047 1_565
+N5 Pb3 2.512048 1_655
+N6 Pb3 2.512047 1_555
+N6 Pb0 2.512048 1_655
+N7 Pb1 2.512047 1_645
+N7 Pb2 2.512048 1_555

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Y2PdO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81739200
+_cell_length_b   6.81739200
+_cell_length_c   6.77001723
+_cell_angle_alpha   120.23175436
+_cell_angle_beta   120.23175436
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2PdO4
+_chemical_formula_sum   'Y4 Pd2 O8'
+_cell_volume   220.92251645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.62500000  0.87500000  0.25000000  1
+  Y  Y1  1  0.62500000  0.37500000  0.25000000  1
+  Y  Y2  1  0.62500000  0.37500000  0.75000000  1
+  Y  Y3  1  0.12500000  0.37500000  0.75000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd1  1  0.25000000  0.75000000  0.50000000  1
+  O  O0  1  0.40987800  0.13436300  0.26880200  1
+  O  O1  1  0.85892400  0.13443900  0.26880200  1
+  O  O2  1  0.38443900  0.15987800  0.76880200  1
+  O  O3  1  0.84012200  0.61563700  0.23119800  1
+  O  O4  1  0.38436300  0.60892400  0.76880200  1
+  O  O5  1  0.39107600  0.61556100  0.23119800  1
+  O  O6  1  0.86556100  0.59012200  0.73119800  1
+  O  O7  1  0.86563700  0.14107600  0.73119800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Pd0 2.271472 1_555
+O0 Y0 2.292342 1_545
+O0 Y1 2.292727 1_555
+O0 Y2 2.293907 1_555
+O1 Pd0 2.271472 1_655
+O1 Y1 2.292342 1_555
+O1 Y0 2.292727 1_545
+O1 Y3 2.293907 1_655
+O2 Pd1 2.271472 1_545
+O2 Y2 2.292342 1_555
+O2 Y3 2.292727 1_555
+O2 Y1 2.293907 1_556
+O3 Pd1 2.271472 1_655
+O3 Y0 2.292342 1_555
+O3 Y1 2.292727 1_555
+O3 Y2 2.293907 1_554
+O4 Pd1 2.271472 1_555
+O4 Y3 2.292342 1_555
+O4 Y2 2.292727 1_555
+O4 Y0 2.293907 1_556
+O5 Pd1 2.271472 1_555
+O5 Y1 2.292342 1_555
+O5 Y0 2.292727 1_555
+O5 Y3 2.293907 1_554
+O6 Pd0 2.271472 1_666
+O6 Y2 2.292342 1_555
+O6 Y3 2.292727 1_655
+O6 Y1 2.293907 1_555
+O7 Pd0 2.271472 1_656
+O7 Y3 2.292342 1_655
+O7 Y2 2.292727 1_555
+O7 Y0 2.293907 1_545

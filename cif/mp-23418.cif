@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Hg3(SCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85482318
+_cell_length_b   7.85482208
+_cell_length_c   7.85482303
+_cell_angle_alpha   109.47123112
+_cell_angle_beta   109.47122826
+_cell_angle_gamma   109.47121210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3(SCl)2
+_chemical_formula_sum   'Hg6 S4 Cl4'
+_cell_volume   373.06733780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.75000000  0.94863991  0.19863991  1
+  Hg  Hg1  1  0.30136009  0.25000000  0.55136009  1
+  Hg  Hg2  1  0.55136009  0.30136009  0.25000000  1
+  Hg  Hg3  1  0.19863991  0.75000000  0.94863991  1
+  Hg  Hg4  1  0.94863991  0.19863991  0.75000000  1
+  Hg  Hg5  1  0.25000000  0.55136009  0.30136009  1
+  S  S0  1  0.00000000  0.97069366  0.50000000  1
+  S  S1  1  0.50000000  0.00000000  0.97069366  1
+  S  S2  1  0.97069366  0.50000000  0.00000000  1
+  S  S3  1  0.52930634  0.52930634  0.52930634  1
+  Cl  Cl0  1  -0.00000000  0.48061771  0.50000000  1
+  Cl  Cl1  1  0.50000000  -0.00000000  0.48061771  1
+  Cl  Cl2  1  0.01938229  0.01938229  0.01938229  1
+  Cl  Cl3  1  0.48061771  0.50000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S0 2.427016 1_655
+Hg0 S1 2.427016 1_564
+Hg1 S0 2.427016 1_545
+Hg1 S3 2.427016 1_555
+Hg2 S1 2.427015 1_554
+Hg2 S3 2.427016 1_555
+Hg3 S1 2.427016 1_565
+Hg3 S2 2.427016 1_456
+Hg4 S2 2.427015 1_556
+Hg4 S0 2.427016 1_645
+Hg5 S2 2.427016 1_455
+Hg5 S3 2.427016 1_555
+Cl0 Hg3 2.914199 1_555
+Cl0 Hg2 2.914200 1_455
+Cl0 Hg5 2.914200 1_555
+Cl1 Hg5 2.914200 1_545
+Cl1 Hg1 2.914200 1_555
+Cl1 Hg4 2.914200 1_555
+Cl2 Hg3 2.914200 1_544
+Cl2 Hg4 2.914200 1_454
+Cl2 Hg0 2.914200 1_445
+Cl3 Hg1 2.914199 1_554
+Cl3 Hg0 2.914200 1_555
+Cl3 Hg2 2.914200 1_555

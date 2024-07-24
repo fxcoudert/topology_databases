@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Ho(MnSn)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67650011
+_cell_length_b   5.67658083
+_cell_length_c   9.16878258
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99949721
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(MnSn)6
+_chemical_formula_sum   'Ho1 Mn6 Sn6'
+_cell_volume   255.86564844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.00000000  -0.00000000  0.00000000  1
+  Mn  Mn0  1  -0.00000000  0.50000000  0.75341435  1
+  Mn  Mn1  1  -0.00000000  0.50000000  0.24658565  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.24658565  1
+  Mn  Mn3  1  0.50000000  -0.00000000  0.24658565  1
+  Mn  Mn4  1  0.50000000  0.50000000  0.75341435  1
+  Mn  Mn5  1  0.50000000  -0.00000000  0.75341435  1
+  Sn  Sn0  1  -0.00000000  -0.00000000  0.66519684  1
+  Sn  Sn1  1  0.33333419  0.66666737  0.50000000  1
+  Sn  Sn2  1  0.66666605  0.33333310  0.00000000  1
+  Sn  Sn3  1  0.33333395  0.66666690  0.00000000  1
+  Sn  Sn4  1  -0.00000000  -0.00000000  0.33480316  1
+  Sn  Sn5  1  0.66666581  0.33333263  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Sn0 3.069737 1_554
+Ho0 Sn4 3.069737 1_555
+Ho0 Sn2 3.277342 1_555
+Ho0 Sn3 3.277342 1_445
+Ho0 Sn2 3.277346 1_455
+Ho0 Sn3 3.277346 1_545
+Ho0 Sn3 3.277393 1_555
+Ho0 Sn2 3.277393 1_445
+Mn0 Sn3 2.792290 1_556
+Mn0 Sn2 2.792290 1_456
+Mn0 Sn1 2.843223 1_555
+Mn0 Sn5 2.843223 1_455
+Mn0 Sn0 2.951292 1_565
+Mn0 Sn0 2.951292 1_555
+Mn1 Sn2 2.792290 1_455
+Mn1 Sn3 2.792290 1_555
+Mn1 Sn1 2.843223 1_555
+Mn1 Sn5 2.843223 1_455
+Mn1 Sn4 2.951292 1_565
+Mn1 Sn4 2.951292 1_555
+Mn2 Sn2 2.792287 1_555
+Mn2 Sn3 2.792287 1_555
+Mn2 Sn1 2.843220 1_555
+Mn2 Sn5 2.843220 1_555
+Mn2 Sn4 2.951294 1_555
+Mn2 Sn4 2.951294 1_665
+Mn3 Sn2 2.792301 1_555
+Mn3 Sn3 2.792301 1_545
+Mn3 Sn5 2.843232 1_555
+Mn3 Sn1 2.843232 1_545
+Mn3 Sn4 2.951253 1_555
+Mn3 Sn4 2.951253 1_655
+Mn4 Sn3 2.792287 1_556
+Mn4 Sn2 2.792287 1_556
+Mn4 Sn1 2.843220 1_555
+Mn4 Sn5 2.843220 1_555
+Mn4 Sn0 2.951294 1_555
+Mn4 Sn0 2.951294 1_665
+Mn5 Sn2 2.792301 1_556
+Mn5 Sn3 2.792301 1_546
+Mn5 Sn5 2.843232 1_555
+Mn5 Sn1 2.843232 1_545
+Mn5 Sn0 2.951253 1_655
+Mn5 Sn0 2.951253 1_555
+Sn0 Sn4 3.029308 1_555

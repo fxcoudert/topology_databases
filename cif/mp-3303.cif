@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Ce(AlGa)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18242204
+_cell_length_b   4.18242111
+_cell_length_c   6.33472680
+_cell_angle_alpha   109.27597751
+_cell_angle_beta   109.27596837
+_cell_angle_gamma   90.00001135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(AlGa)2
+_chemical_formula_sum   'Ce1 Al2 Ga2'
+_cell_volume   97.99387478
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  0.00000000  0.00000000  1
+  Al  Al0  1  0.25000000  0.75000000  0.50000000  1
+  Al  Al1  1  0.75000000  0.25000000  0.50000000  1
+  Ga  Ga0  1  0.61216074  0.61216074  0.22431949  1
+  Ga  Ga1  1  0.38783926  0.38783926  0.77568051  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ga1 3.213321 1_554
+Ce0 Ga0 3.213321 1_445
+Ce0 Ga1 3.213326 1_544
+Ce0 Ga0 3.213326 1_455
+Ce0 Ga1 3.213327 1_454
+Ce0 Ga0 3.213327 1_545
+Ce0 Ga1 3.213331 1_444
+Ce0 Ga0 3.213331 1_555
+Al0 Ga1 2.599654 1_565
+Al0 Ga0 2.599654 1_455
+Al0 Ga1 2.599661 1_555
+Al0 Ga0 2.599661 1_555
+Al0 Ce0 3.495535 1_555
+Al0 Ce0 3.495536 1_566
+Al0 Ce0 3.495536 1_666
+Al0 Ce0 3.495536 1_565
+Al1 Ga0 2.599654 1_545
+Al1 Ga1 2.599654 1_655
+Al1 Ga0 2.599661 1_555
+Al1 Ga1 2.599661 1_555
+Al1 Ce0 3.495535 1_666
+Al1 Ce0 3.495536 1_655
+Al1 Ce0 3.495536 1_555
+Al1 Ce0 3.495536 1_656
+Ga0 Ga1 2.513277 1_554

@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_NaMgCoO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30233852
+_cell_length_b   3.30019341
+_cell_length_c   7.59399156
+_cell_angle_alpha   88.59604987
+_cell_angle_beta   89.98753572
+_cell_angle_gamma   120.01518625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgCoO2
+_chemical_formula_sum   'Na1 Mg1 Co1 O2'
+_cell_volume   71.63409167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.98817194  0.97674418  0.52333104  1
+  Mg  Mg0  1  0.66678297  0.33359736  0.21579385  1
+  Co  Co0  1  0.00908501  0.01773866  0.90110265  1
+  O  O0  1  0.32940508  0.65896847  0.32188743  1
+  O  O1  1  0.67312199  0.34628433  0.95455203  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O0 2.443357 1_655
+Na0 O0 2.443402 1_555
+Na0 O0 2.443630 1_665
+Mg0 O1 1.983169 1_554
+Mg0 O0 2.068175 1_545
+Mg0 O0 2.069378 1_555
+Mg0 O0 2.069487 1_655
+Co0 O1 1.947379 1_555
+Co0 O1 1.948374 1_455
+Co0 O1 1.949900 1_445
+Co0 Na0 2.874511 1_445

@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MnSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20806400
+_cell_length_b   6.18738900
+_cell_length_c   8.01677100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99993841
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSeO3
+_chemical_formula_sum   'Mn4 Se4 O12'
+_cell_volume   258.33497727
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.00000100  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.50000200  0.50000000  1
+  Se  Se0  1  0.98250000  0.02679600  0.25000000  1
+  Se  Se1  1  0.48250000  0.47320400  0.75000000  1
+  Se  Se2  1  0.51750000  0.52679600  0.25000000  1
+  Se  Se3  1  0.01750000  0.97320300  0.75000000  1
+  O  O0  1  0.31173800  0.07799900  0.24999700  1
+  O  O1  1  0.81173800  0.42200000  0.74999700  1
+  O  O2  1  0.18826200  0.57799900  0.25000300  1
+  O  O3  1  0.68826200  0.92200000  0.75000300  1
+  O  O4  1  0.86527100  0.18125600  0.41700000  1
+  O  O5  1  0.36526300  0.31875100  0.58300000  1
+  O  O6  1  0.63472900  0.68125700  0.08300000  1
+  O  O7  1  0.13473700  0.81875100  0.91700000  1
+  O  O8  1  0.13472900  0.81874300  0.58300000  1
+  O  O9  1  0.63473700  0.68124900  0.41700000  1
+  O  O10  1  0.36527100  0.31874300  0.91700000  1
+  O  O11  1  0.86526300  0.18124900  0.08300000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O7 2.196559 1_554
+Mn0 O11 2.196559 1_455
+Mn0 O2 2.282793 1_555
+Mn0 O1 2.282794 1_454
+Mn0 O10 2.306399 1_554
+Mn0 O6 2.306399 1_455
+Mn1 O5 2.196559 1_555
+Mn1 O9 2.196559 1_545
+Mn1 O0 2.282793 1_555
+Mn1 O3 2.282794 1_545
+Mn1 O4 2.306396 1_555
+Mn1 O8 2.306399 1_545
+Mn2 O10 2.196496 1_554
+Mn2 O6 2.196507 1_545
+Mn2 O0 2.282748 1_555
+Mn2 O3 2.282752 1_544
+Mn2 O11 2.306339 1_555
+Mn2 O7 2.306345 1_544
+Mn3 O8 2.196491 1_555
+Mn3 O4 2.196518 1_455
+Mn3 O2 2.282746 1_555
+Mn3 O1 2.282753 1_455
+Mn3 O9 2.306336 1_455
+Mn3 O5 2.306348 1_555
+O0 Se0 1.743715 1_455
+O1 Se1 1.743716 1_555
+O2 Se2 1.743715 1_555
+O3 Se3 1.743715 1_655
+O4 Se0 1.754568 1_555
+O5 Se1 1.754560 1_555
+O6 Se2 1.754572 1_555
+O7 Se3 1.754557 1_555
+O8 Se3 1.754568 1_555
+O9 Se2 1.754560 1_555
+O10 Se1 1.754572 1_555
+O11 Se0 1.754560 1_555

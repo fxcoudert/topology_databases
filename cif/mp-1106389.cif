@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_KBiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45127000
+_cell_length_b   5.45127000
+_cell_length_c   10.12635900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBiF6
+_chemical_formula_sum   'K2 Bi2 F12'
+_cell_volume   300.91837372
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  K  K1  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.25000000  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.75000000  1
+  F  F0  1  0.73333700  0.26666300  0.25000000  1
+  F  F1  1  0.26666300  0.73333700  0.25000000  1
+  F  F2  1  0.73333700  0.73333700  0.75000000  1
+  F  F3  1  0.26666300  0.26666300  0.75000000  1
+  F  F4  1  0.17852900  0.20160900  0.39135900  1
+  F  F5  1  0.82147100  0.79839100  0.39135900  1
+  F  F6  1  0.17852900  0.79839100  0.89135900  1
+  F  F7  1  0.82147100  0.20160900  0.89135900  1
+  F  F8  1  0.20160900  0.82147100  0.60864100  1
+  F  F9  1  0.79839100  0.17852900  0.60864100  1
+  F  F10  1  0.79839100  0.82147100  0.10864100  1
+  F  F11  1  0.20160900  0.17852900  0.10864100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 F4 2.050378 1_555
+Bi0 F11 2.050378 1_555
+Bi0 F5 2.050378 1_445
+Bi0 F10 2.050378 1_445
+Bi0 F1 2.055774 1_545
+Bi0 F0 2.055774 1_455
+Bi1 F6 2.050378 1_545
+Bi1 F9 2.050378 1_455
+Bi1 F8 2.050378 1_545
+Bi1 F7 2.050378 1_455
+Bi1 F2 2.055774 1_445
+Bi1 F3 2.055774 1_555
+F0 K0 3.105612 1_555
+F0 K1 3.105612 1_555
+F1 K0 3.105612 1_555
+F1 K1 3.105612 1_555
+F2 K0 3.105612 1_555
+F2 K1 3.105612 1_556
+F3 K0 3.105612 1_555
+F3 K1 3.105612 1_556
+F4 K0 2.631949 1_555
+F5 K0 2.631949 1_555
+F6 K1 2.631949 1_556
+F7 K1 2.631949 1_556
+F8 K0 2.631949 1_555
+F9 K0 2.631949 1_555
+F10 K1 2.631949 1_555
+F11 K1 2.631949 1_555

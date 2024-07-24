@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Li2Sm2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41098160
+_cell_length_b   9.41098160
+_cell_length_c   6.76634769
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.26594682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Sm2Si3
+_chemical_formula_sum   'Li4 Sm4 Si6'
+_cell_volume   269.58254750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.81092135  0.18907865  0.55915411  1
+  Li  Li1  1  0.18907865  0.81092135  0.44084589  1
+  Li  Li2  1  0.18907865  0.81092135  0.05915411  1
+  Li  Li3  1  0.81092135  0.18907865  0.94084589  1
+  Sm  Sm0  1  0.55238496  0.44761504  0.25000000  1
+  Sm  Sm1  1  0.44761504  0.55238496  0.75000000  1
+  Sm  Sm2  1  0.34203180  0.65796820  0.25000000  1
+  Sm  Sm3  1  0.65796820  0.34203180  0.75000000  1
+  Si  Si0  1  0.94209254  0.05790746  0.07502536  1
+  Si  Si1  1  0.05790746  0.94209254  0.92497464  1
+  Si  Si2  1  0.05790746  0.94209254  0.57502536  1
+  Si  Si3  1  0.94209254  0.05790746  0.42497464  1
+  Si  Si4  1  0.71968355  0.28031645  0.25000000  1
+  Si  Si5  1  0.28031645  0.71968355  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si3 2.567872 1_555
+Li0 Si5 2.591394 1_655
+Li0 Si5 2.591394 1_545
+Li0 Si4 2.677167 1_555
+Li0 Sm2 3.071492 1_545
+Li0 Sm2 3.071492 1_655
+Li0 Sm3 3.084234 1_555
+Li1 Si2 2.567872 1_555
+Li1 Si4 2.591394 1_455
+Li1 Si4 2.591394 1_565
+Li1 Si5 2.677167 1_555
+Li1 Sm3 3.071492 1_565
+Li1 Sm3 3.071492 1_455
+Li1 Sm2 3.084234 1_555
+Li2 Si1 2.567872 1_554
+Li2 Si4 2.591394 1_455
+Li2 Si4 2.591394 1_565
+Li2 Si5 2.677167 1_554
+Li2 Sm3 3.071492 1_454
+Li2 Sm3 3.071492 1_564
+Li2 Sm2 3.084234 1_555
+Li3 Si0 2.567872 1_556
+Li3 Si5 2.591394 1_655
+Li3 Si5 2.591394 1_545
+Li3 Si4 2.677167 1_556
+Li3 Sm2 3.071492 1_546
+Li3 Sm2 3.071492 1_656
+Li3 Sm3 3.084234 1_555
+Si0 Si1 2.351310 1_644
+Si0 Si3 2.367879 1_555
+Si0 Sm2 3.081039 1_545
+Si0 Sm2 3.081039 1_655
+Si0 Sm1 3.095248 1_544
+Si0 Sm1 3.095248 1_654
+Si0 Sm0 3.196017 1_655
+Si0 Sm0 3.196017 1_545
+Si1 Si2 2.367879 1_555
+Si1 Sm3 3.081039 1_565
+Si1 Sm3 3.081039 1_455
+Si1 Sm0 3.095248 1_456
+Si1 Sm0 3.095248 1_566
+Si1 Sm1 3.196017 1_455
+Si1 Sm1 3.196017 1_565
+Si2 Si3 2.351310 1_465
+Si2 Sm3 3.081039 1_565
+Si2 Sm3 3.081039 1_455
+Si2 Sm0 3.095248 1_455
+Si2 Sm0 3.095248 1_565
+Si2 Sm1 3.196017 1_455
+Si2 Sm1 3.196017 1_565
+Si3 Sm2 3.081039 1_545
+Si3 Sm2 3.081039 1_655
+Si3 Sm1 3.095248 1_545
+Si3 Sm1 3.095248 1_655
+Si3 Sm0 3.196017 1_655
+Si3 Sm0 3.196017 1_545
+Si4 Sm0 3.063582 1_555
+Si4 Sm2 3.123029 1_545
+Si4 Sm2 3.123029 1_655
+Si5 Sm1 3.063582 1_555
+Si5 Sm3 3.123029 1_455
+Si5 Sm3 3.123029 1_565

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_PRhS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66279438
+_cell_length_b   5.66279438
+_cell_length_c   5.66279438
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PRhS
+_chemical_formula_sum   'P4 Rh4 S4'
+_cell_volume   181.59018753
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.10953739  0.89046261  0.39046261  1
+  P  P1  1  0.89046261  0.39046261  0.10953739  1
+  P  P2  1  0.39046261  0.10953739  0.89046261  1
+  P  P3  1  0.60953739  0.60953739  0.60953739  1
+  Rh  Rh0  1  0.50648810  0.49351190  0.99351190  1
+  Rh  Rh1  1  0.49351190  0.99351190  0.50648810  1
+  Rh  Rh2  1  0.99351190  0.50648810  0.49351190  1
+  Rh  Rh3  1  0.00648810  0.00648810  0.00648810  1
+  S  S0  1  0.89045856  0.10954144  0.60954144  1
+  S  S1  1  0.10954144  0.60954144  0.89045856  1
+  S  S2  1  0.60954144  0.89045856  0.10954144  1
+  S  S3  1  0.39045856  0.39045856  0.39045856  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 S0 2.148779 1_465
+P0 Rh3 2.345228 1_565
+P0 Rh1 2.345228 1_555
+P0 Rh2 2.345228 1_455
+P1 S1 2.148779 1_654
+P1 Rh2 2.345228 1_555
+P1 Rh3 2.345228 1_655
+P1 Rh0 2.345228 1_554
+P2 S2 2.148779 1_546
+P2 Rh0 2.345228 1_555
+P2 Rh3 2.345228 1_556
+P2 Rh1 2.345228 1_545
+P3 S3 2.148779 1_555
+P3 Rh2 2.345228 1_555
+P3 Rh1 2.345228 1_555
+P3 Rh0 2.345228 1_555
+Rh0 S3 2.413503 1_556
+Rh0 S2 2.413503 1_556
+Rh0 S1 2.413503 1_555
+Rh1 S3 2.413503 1_565
+Rh1 S2 2.413503 1_555
+Rh1 S0 2.413503 1_565
+Rh2 S3 2.413503 1_655
+Rh2 S1 2.413503 1_655
+Rh2 S0 2.413503 1_555
+Rh3 S1 2.413503 1_544
+Rh3 S2 2.413503 1_445
+Rh3 S0 2.413503 1_454

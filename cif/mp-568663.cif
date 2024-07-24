@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_FeAg3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01145822
+_cell_length_b   7.01145822
+_cell_length_c   7.27486600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAg3(CN)6
+_chemical_formula_sum   'Fe1 Ag3 C6 N6'
+_cell_volume   309.72219029
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag0  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag1  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag2  1  0.50000000  0.50000000  0.50000000  1
+  C  C0  1  0.78473600  0.78473600  0.15800700  1
+  C  C1  1  0.00000000  0.78473600  0.84199300  1
+  C  C2  1  0.21526400  0.21526400  0.84199300  1
+  C  C3  1  0.00000000  0.21526400  0.15800700  1
+  C  C4  1  0.78473600  0.00000000  0.84199300  1
+  C  C5  1  0.21526400  0.00000000  0.15800700  1
+  N  N0  1  0.00000000  0.33898500  0.26653500  1
+  N  N1  1  0.66101500  0.00000000  0.73346500  1
+  N  N2  1  0.33898500  0.33898500  0.73346500  1
+  N  N3  1  0.66101500  0.66101500  0.26653500  1
+  N  N4  1  0.00000000  0.66101500  0.73346500  1
+  N  N5  1  0.33898500  0.00000000  0.26653500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 N0 2.039407 1_555
+Ag0 N4 2.039407 1_555
+Ag1 N5 2.039407 1_555
+Ag1 N1 2.039407 1_555
+Ag2 N3 2.039407 1_555
+Ag2 N2 2.039407 1_555
+C0 N3 1.172965 1_555
+C0 Fe0 1.897191 1_665
+C1 N4 1.172965 1_555
+C1 Fe0 1.897191 1_566
+C2 N2 1.172965 1_555
+C2 Fe0 1.897191 1_556
+C3 N0 1.172965 1_555
+C3 Fe0 1.897191 1_555
+C4 N1 1.172965 1_555
+C4 Fe0 1.897191 1_656
+C5 N5 1.172965 1_555
+C5 Fe0 1.897191 1_555

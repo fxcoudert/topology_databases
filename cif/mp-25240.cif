@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Fe(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55880936
+_cell_length_b   6.55880936
+_cell_length_c   5.36254406
+_cell_angle_alpha   75.88587277
+_cell_angle_beta   75.88587277
+_cell_angle_gamma   84.02428623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(SiO3)2
+_chemical_formula_sum   'Fe2 Si4 O12'
+_cell_volume   216.72357935
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.10055400  0.89944600  0.25000000  1
+  Fe  Fe1  1  0.89944600  0.10055400  0.75000000  1
+  Si  Si0  1  0.78940700  0.61792500  0.74138000  1
+  Si  Si1  1  0.61792500  0.78940700  0.24138000  1
+  Si  Si2  1  0.21059300  0.38207500  0.25862000  1
+  Si  Si3  1  0.38207500  0.21059300  0.75862000  1
+  O  O0  1  0.04311200  0.18904800  0.36485300  1
+  O  O1  1  0.61565700  0.09627800  0.71767500  1
+  O  O2  1  0.18904800  0.04311200  0.86485300  1
+  O  O3  1  0.64315900  0.64448400  0.52753400  1
+  O  O4  1  0.90372200  0.38434300  0.78232500  1
+  O  O5  1  0.81095200  0.95688800  0.13514700  1
+  O  O6  1  0.38434300  0.90372200  0.28232500  1
+  O  O7  1  0.09627800  0.61565700  0.21767500  1
+  O  O8  1  0.64448400  0.64315900  0.02753400  1
+  O  O9  1  0.35551600  0.35684100  0.97246600  1
+  O  O10  1  0.95688800  0.81095200  0.63514700  1
+  O  O11  1  0.35684100  0.35551600  0.47246600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O7 1.914664 1_555
+Fe0 O6 1.914664 1_555
+Fe0 O10 2.017569 1_455
+Fe0 O2 2.017569 1_564
+Fe0 O5 2.106551 1_455
+Fe0 O0 2.106551 1_565
+Fe1 O1 1.914664 1_555
+Fe1 O4 1.914664 1_555
+Fe1 O5 2.017569 1_546
+Fe1 O0 2.017569 1_655
+Fe1 O10 2.106551 1_545
+Fe1 O2 2.106551 1_655
+O0 Si2 1.663317 1_555
+O1 Si3 1.623119 1_555
+O2 Si3 1.663317 1_555
+O3 Si1 1.632592 1_555
+O3 Si0 1.633936 1_555
+O4 Si0 1.623119 1_555
+O5 Si1 1.663317 1_555
+O6 Si1 1.623119 1_555
+O7 Si2 1.623119 1_555
+O8 Si0 1.632592 1_554
+O8 Si1 1.633936 1_555
+O9 Si2 1.632592 1_556
+O9 Si3 1.633936 1_555
+O10 Si0 1.663317 1_555
+O11 Si3 1.632592 1_555
+O11 Si2 1.633936 1_555

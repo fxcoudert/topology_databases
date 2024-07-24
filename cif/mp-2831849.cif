@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_RhN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91550137
+_cell_length_b   4.93480003
+_cell_length_c   4.94788451
+_cell_angle_alpha   71.57819211
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhN2
+_chemical_formula_sum   'Rh4 N8'
+_cell_volume   113.87053960
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00062717  0.75838571  0.23422374  1
+  Rh  Rh1  1  0.49937283  0.75838571  0.73422374  1
+  Rh  Rh2  1  0.50062717  0.24161429  0.26577626  1
+  Rh  Rh3  1  0.99937283  0.24161429  0.76577626  1
+  N  N0  1  0.41385012  0.80852841  0.30361170  1
+  N  N1  1  0.91562685  0.68631621  0.67513658  1
+  N  N2  1  0.08437315  0.31368379  0.32486342  1
+  N  N3  1  0.08614988  0.80852841  0.80361170  1
+  N  N4  1  0.91385012  0.19147159  0.19638830  1
+  N  N5  1  0.58614988  0.19147159  0.69638830  1
+  N  N6  1  0.41562685  0.31368379  0.82486342  1
+  N  N7  1  0.58437315  0.68631621  0.17513658  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+N0 N7 1.308702 1_555
+N0 Rh0 2.087716 1_555
+N0 Rh1 2.108147 1_555
+N0 Rh2 2.128783 1_565
+N1 N3 1.308702 1_655
+N1 Rh1 2.112862 1_555
+N1 Rh3 2.136460 1_555
+N1 Rh0 2.137757 1_655
+N2 N4 1.308702 1_455
+N2 Rh2 2.112862 1_555
+N2 Rh0 2.136460 1_555
+N2 Rh3 2.137757 1_455
+N3 Rh1 2.087716 1_555
+N3 Rh0 2.108147 1_556
+N3 Rh3 2.128783 1_465
+N4 Rh2 2.087716 1_555
+N4 Rh3 2.108147 1_554
+N4 Rh0 2.128783 1_645
+N5 N6 1.308702 1_555
+N5 Rh3 2.087716 1_555
+N5 Rh2 2.108147 1_555
+N5 Rh1 2.128783 1_545
+N6 Rh3 2.112862 1_455
+N6 Rh1 2.136460 1_555
+N6 Rh2 2.137757 1_556
+N7 Rh0 2.112862 1_655
+N7 Rh2 2.136460 1_555
+N7 Rh1 2.137757 1_554

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_ErClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11839098
+_cell_length_b   8.58400486
+_cell_length_c   3.71307733
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErClO
+_chemical_formula_sum   'Er2 Cl2 O2'
+_cell_volume   131.26577983
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  0.12068889  0.50000000  1
+  Er  Er1  1  0.50000000  0.87931111  0.00000000  1
+  Cl  Cl0  1  0.00000000  0.33973482  0.00000000  1
+  Cl  Cl1  1  0.50000000  0.66026518  0.50000000  1
+  O  O0  1  0.00000000  0.96903582  -0.00000000  1
+  O  O1  1  0.50000000  0.03096418  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 O1 2.198520 1_555
+Er0 O1 2.198520 1_455
+Er0 O0 2.267464 1_546
+Er0 O0 2.267464 1_545
+Er1 O0 2.198520 1_655
+Er1 O0 2.198520 1_555
+Er1 O1 2.267464 1_565
+Er1 O1 2.267464 1_564
+Cl0 Er0 2.642391 1_555
+Cl0 Er0 2.642391 1_554
+Cl1 Er1 2.642391 1_556
+Cl1 Er1 2.642391 1_555

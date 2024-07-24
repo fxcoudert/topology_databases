@@ -1,0 +1,119 @@
+# generated using pymatgen
+data_HoMnNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10036404
+_cell_length_b   5.10036404
+_cell_length_c   8.59143380
+_cell_angle_alpha   72.73278804
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMnNi2
+_chemical_formula_sum   'Ho3 Mn3 Ni6'
+_cell_volume   181.82845543
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.31935200  0.13870400  0.04194400  1
+  Ho  Ho1  1  0.80318400  0.10636700  0.59044900  1
+  Ho  Ho2  1  0.19027300  0.88054600  0.42918100  1
+  Mn  Mn0  1  0.67913600  0.85827200  0.96259200  1
+  Mn  Mn1  1  0.00088700  0.50177400  0.99734000  1
+  Mn  Mn2  1  0.50111500  0.50222900  0.49665600  1
+  Ni  Ni0  1  0.75083100  0.00166200  0.24475200  1
+  Ni  Ni1  1  0.24886700  0.99773500  0.74919400  1
+  Ni  Ni2  1  0.75083100  0.50441700  0.24475200  1
+  Ni  Ni3  1  0.24886700  0.50193900  0.74919400  1
+  Ni  Ni4  1  0.25358600  0.50441700  0.24475200  1
+  Ni  Ni5  1  0.75307100  0.50193900  0.74919400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Ni1 2.790556 1_544
+Ho0 Ni5 2.790556 1_554
+Ho0 Ni3 2.790559 1_554
+Ho0 Mn1 2.966618 1_544
+Ho0 Mn1 2.966622 1_654
+Ho0 Mn1 2.966622 1_554
+Ho0 Mn0 3.013539 1_544
+Ho0 Mn0 3.013539 1_554
+Ho0 Mn0 3.013539 1_444
+Ho0 Ni0 3.030319 1_455
+Ho0 Ni2 3.030319 1_445
+Ho0 Ni0 3.030319 1_555
+Ho0 Ni2 3.030319 1_555
+Ho0 Ni4 3.030319 1_545
+Ho0 Ni4 3.030319 1_555
+Ho1 Ni1 2.853966 1_645
+Ho1 Ni5 2.853966 1_545
+Ho1 Ni3 2.853970 1_545
+Ho1 Ni3 2.853970 1_655
+Ho1 Ni5 2.853975 1_555
+Ho1 Ni1 2.853975 1_545
+Ho1 Mn0 3.003577 1_545
+Ho1 Mn2 3.040443 1_655
+Ho1 Mn2 3.040443 1_545
+Ho1 Mn2 3.040443 1_555
+Ho1 Ni4 3.158574 1_655
+Ho1 Ni0 3.158574 1_555
+Ho1 Ni2 3.158576 1_555
+Ho2 Ni4 2.952833 1_555
+Ho2 Ni0 2.952833 1_465
+Ho2 Ni2 2.952833 1_455
+Ho2 Ni2 2.952833 1_565
+Ho2 Ni0 2.952833 1_565
+Ho2 Ni4 2.952833 1_565
+Ho2 Ni3 2.966906 1_555
+Ho2 Ni1 2.966908 1_555
+Ho2 Ni5 2.966908 1_455
+Ho2 Mn2 2.994630 1_565
+Ho2 Mn2 2.994630 1_455
+Ho2 Mn2 2.994635 1_555
+Mn0 Ni0 2.707430 1_566
+Mn0 Ni4 2.707430 1_556
+Mn0 Ni2 2.707430 1_556
+Mn0 Mn1 2.958020 1_555
+Mn0 Mn1 2.958020 1_655
+Mn0 Mn1 2.958024 1_665
+Mn0 Ni1 3.077341 1_655
+Mn0 Ni5 3.077341 1_555
+Mn0 Ni3 3.077343 1_665
+Mn0 Ni3 3.077343 1_555
+Mn0 Ni1 3.077345 1_555
+Mn0 Ni5 3.077345 1_565
+Mn1 Ni3 2.478444 1_555
+Mn1 Ni1 2.478444 1_555
+Mn1 Ni5 2.478447 1_455
+Mn1 Ni4 2.485809 1_556
+Mn1 Ni2 2.485809 1_456
+Mn1 Ni0 2.485812 1_456
+Mn2 Ni2 2.505508 1_555
+Mn2 Ni0 2.505511 1_565
+Mn2 Ni4 2.505511 1_555
+Mn2 Ni1 2.521673 1_545
+Mn2 Ni5 2.521673 1_555
+Mn2 Ni3 2.521678 1_555
+Ni0 Ni2 2.536131 1_545
+Ni0 Ni4 2.536131 1_545
+Ni0 Ni4 2.564234 1_655
+Ni0 Ni2 2.564234 1_555
+Ni1 Ni3 2.528740 1_555
+Ni1 Ni5 2.528740 1_455
+Ni1 Ni5 2.571624 1_565
+Ni1 Ni3 2.571624 1_565
+Ni2 Ni4 2.536131 1_555
+Ni2 Ni4 2.564234 1_655
+Ni3 Ni5 2.528740 1_455
+Ni3 Ni5 2.571624 1_555

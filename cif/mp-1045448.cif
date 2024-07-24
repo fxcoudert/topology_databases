@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Zn(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02047463
+_cell_length_b   7.02047463
+_cell_length_c   7.02047463
+_cell_angle_alpha   119.19735442
+_cell_angle_beta   118.09324167
+_cell_angle_gamma   92.36543034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(CrS2)2
+_chemical_formula_sum   'Zn2 Cr4 S8'
+_cell_volume   249.42454667
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.00000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr0  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr2  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.00000000  0.50000000  0.50000000  1
+  S  S0  1  0.72593700  0.25022400  0.47571300  1
+  S  S1  1  0.74418200  0.72810400  0.48392300  1
+  S  S2  1  0.27451000  0.25022400  0.02428700  1
+  S  S3  1  0.25581800  0.73974100  0.98392300  1
+  S  S4  1  0.72549000  0.74977600  0.97571300  1
+  S  S5  1  0.25581800  0.27189600  0.51607700  1
+  S  S6  1  0.74418200  0.26025900  0.01607700  1
+  S  S7  1  0.27406300  0.74977600  0.52428700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S5 2.376534 1_555
+Cr0 S1 2.376534 1_555
+Cr0 S2 2.410931 1_555
+Cr0 S4 2.410931 1_555
+Cr0 S7 2.410931 1_555
+Cr0 S0 2.410931 1_555
+Cr1 S4 2.434505 1_554
+Cr1 S2 2.434505 1_555
+Cr1 S6 2.454702 1_555
+Cr1 S3 2.454702 1_554
+Cr1 S5 2.454703 1_554
+Cr1 S1 2.454703 1_555
+Cr2 S3 2.376539 1_544
+Cr2 S6 2.376539 1_555
+Cr2 S0 2.410931 1_555
+Cr2 S7 2.410931 1_544
+Cr2 S2 2.410936 1_555
+Cr2 S4 2.410936 1_544
+Cr3 S0 2.434500 1_455
+Cr3 S7 2.434500 1_555
+Cr3 S5 2.454697 1_555
+Cr3 S1 2.454697 1_455
+Cr3 S6 2.454702 1_455
+Cr3 S3 2.454702 1_555
+S0 Zn0 2.438844 1_555
+S1 Zn1 2.614815 1_666
+S1 Zn0 2.614820 1_565
+S2 Zn1 2.438839 1_555
+S3 Zn0 2.614814 1_566
+S3 Zn1 2.614814 1_566
+S4 Zn1 2.438839 1_666
+S5 Zn1 2.614815 1_555
+S5 Zn0 2.614820 1_555
+S6 Zn1 2.614814 1_655
+S6 Zn0 2.614814 1_554
+S7 Zn0 2.438844 1_565

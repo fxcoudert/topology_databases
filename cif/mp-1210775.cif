@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LuOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33905263
+_cell_length_b   5.40197695
+_cell_length_c   5.42703762
+_cell_angle_alpha   80.18592479
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuOF
+_chemical_formula_sum   'Lu4 O4 F4'
+_cell_volume   154.23301844
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.47415551  0.69366133  0.71281008  1
+  Lu  Lu1  1  0.52584449  0.30633867  0.28718992  1
+  Lu  Lu2  1  0.97415551  0.30633867  0.78718992  1
+  Lu  Lu3  1  0.02584449  0.69366133  0.21281008  1
+  O  O0  1  0.24682108  0.45962979  0.51054859  1
+  O  O1  1  0.75317892  0.54037021  0.48945141  1
+  O  O2  1  0.74682108  0.54037021  0.98945141  1
+  O  O3  1  0.25317892  0.45962979  0.01054859  1
+  F  F0  1  0.17464494  0.94296783  0.84451636  1
+  F  F1  1  0.82535506  0.05703217  0.15548364  1
+  F  F2  1  0.67464494  0.05703217  0.65548364  1
+  F  F3  1  0.32535506  0.94296783  0.34451636  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O2 2.152952 1_555
+Lu0 O1 2.171759 1_555
+Lu0 O0 2.179325 1_555
+Lu0 O3 2.214670 1_556
+Lu1 O3 2.152952 1_555
+Lu1 O0 2.171759 1_555
+Lu1 O1 2.179325 1_555
+Lu1 O2 2.214670 1_554
+Lu2 O0 2.152952 1_655
+Lu2 O3 2.171759 1_656
+Lu2 O2 2.179325 1_555
+Lu2 O1 2.214670 1_555
+Lu3 O1 2.152952 1_455
+Lu3 O2 2.171759 1_454
+Lu3 O3 2.179325 1_555
+Lu3 O0 2.214670 1_555
+F0 Lu2 2.210762 1_465
+F0 Lu0 2.282526 1_555
+F0 Lu3 2.349940 1_556
+F1 Lu3 2.210762 1_645
+F1 Lu1 2.282526 1_555
+F1 Lu2 2.349940 1_554
+F2 Lu0 2.210762 1_545
+F2 Lu2 2.282526 1_555
+F2 Lu1 2.349940 1_555
+F3 Lu1 2.210762 1_565
+F3 Lu3 2.282526 1_555
+F3 Lu0 2.349940 1_555

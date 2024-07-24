@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Ce(Mn2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77380900
+_cell_length_b   6.36487886
+_cell_length_c   6.36487886
+_cell_angle_alpha   98.08452145
+_cell_angle_beta   112.02503557
+_cell_angle_gamma   67.97496443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(Mn2Fe)4
+_chemical_formula_sum   'Ce1 Mn8 Fe4'
+_cell_volume   166.19716319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn4  1  0.73327400  0.76672600  0.23327400  1
+  Mn  Mn5  1  0.26672600  0.23327400  0.76672600  1
+  Mn  Mn6  1  0.50000000  0.76672600  0.76672600  1
+  Mn  Mn7  1  0.50000000  0.23327400  0.23327400  1
+  Fe  Fe0  1  0.63788400  0.36211600  0.63788400  1
+  Fe  Fe1  1  0.36211600  0.63788400  0.36211600  1
+  Fe  Fe2  1  0.00000000  0.36211600  0.36211600  1
+  Fe  Fe3  1  0.00000000  0.63788400  0.63788400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Fe3 3.021635 1_544
+Ce0 Fe2 3.021635 1_555
+Ce0 Fe1 3.021635 1_545
+Ce0 Fe0 3.021635 1_454
+Ce0 Mn4 3.079981 1_445
+Ce0 Mn5 3.079981 1_554
+Ce0 Mn6 3.079981 1_544
+Ce0 Mn6 3.079981 1_444
+Ce0 Mn7 3.079981 1_555
+Ce0 Mn7 3.079981 1_455
+Ce0 Mn5 3.079981 1_454
+Ce0 Mn4 3.079981 1_545
+Ce0 Mn1 3.182439 1_554
+Ce0 Mn3 3.182439 1_545
+Ce0 Mn1 3.182439 1_555
+Ce0 Mn3 3.182439 1_555
+Ce0 Mn0 3.182440 1_555
+Ce0 Mn2 3.182440 1_455
+Ce0 Mn0 3.182440 1_454
+Ce0 Mn2 3.182440 1_545
+Mn0 Mn1 2.386904 1_555
+Mn0 Mn1 2.386904 1_655
+Mn0 Mn7 2.407406 1_555
+Mn0 Mn6 2.407406 1_545
+Mn0 Mn4 2.407406 1_545
+Mn0 Mn5 2.407406 1_555
+Mn1 Mn5 2.407406 1_555
+Mn1 Mn4 2.407406 1_445
+Mn1 Mn7 2.407406 1_455
+Mn1 Mn6 2.407406 1_545
+Mn2 Mn3 2.386904 1_555
+Mn2 Mn3 2.386904 1_655
+Mn2 Mn6 2.407406 1_554
+Mn2 Mn7 2.407406 1_555
+Mn2 Mn5 2.407406 1_554
+Mn2 Mn4 2.407406 1_555
+Mn3 Mn4 2.407406 1_455
+Mn3 Mn5 2.407406 1_554
+Mn3 Mn7 2.407406 1_555
+Mn3 Mn6 2.407406 1_454
+Mn4 Mn7 2.752806 1_565
+Mn4 Mn6 2.752806 1_554
+Mn5 Mn7 2.752806 1_556
+Mn5 Mn6 2.752806 1_545
+Fe0 Fe1 2.301114 1_555
+Fe0 Mn6 2.505467 1_555
+Fe0 Mn7 2.505467 1_555
+Fe0 Mn0 2.579023 1_555
+Fe0 Mn2 2.579023 1_556
+Fe0 Mn3 2.579023 1_656
+Fe0 Mn1 2.579023 1_655
+Fe0 Mn5 2.617856 1_555
+Fe0 Mn5 2.617856 1_655
+Fe1 Mn6 2.505467 1_555
+Fe1 Mn7 2.505467 1_555
+Fe1 Mn0 2.579023 1_565
+Fe1 Mn2 2.579023 1_555
+Fe1 Mn1 2.579023 1_565
+Fe1 Mn3 2.579023 1_555
+Fe1 Mn4 2.617856 1_555
+Fe1 Mn4 2.617856 1_455
+Fe2 Fe3 2.301114 1_555
+Fe2 Mn4 2.505467 1_455
+Fe2 Mn5 2.505467 1_555
+Fe2 Mn3 2.579023 1_555
+Fe2 Mn1 2.579023 1_555
+Fe2 Mn0 2.579023 1_555
+Fe2 Mn2 2.579023 1_455
+Fe2 Mn7 2.617856 1_455
+Fe2 Mn7 2.617856 1_555
+Fe3 Mn4 2.505467 1_455
+Fe3 Mn5 2.505467 1_555
+Fe3 Mn1 2.579023 1_565
+Fe3 Mn3 2.579023 1_556
+Fe3 Mn0 2.579023 1_465
+Fe3 Mn2 2.579023 1_556
+Fe3 Mn6 2.617856 1_455
+Fe3 Mn6 2.617856 1_555

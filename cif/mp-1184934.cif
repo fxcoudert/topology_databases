@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_In3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52205671
+_cell_length_b   6.52205671
+_cell_length_c   5.29063100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Si
+_chemical_formula_sum   'In6 Si2'
+_cell_volume   194.89792433
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.17128400  0.34256800  0.25000000  1
+  In  In1  1  0.65743200  0.82871600  0.25000000  1
+  In  In2  1  0.17128400  0.82871600  0.25000000  1
+  In  In3  1  0.82871600  0.65743200  0.75000000  1
+  In  In4  1  0.34256800  0.17128400  0.75000000  1
+  In  In5  1  0.82871600  0.17128400  0.75000000  1
+  Si  Si0  1  0.33333300  0.66666700  0.75000000  1
+  Si  Si1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In1 3.170684 1_555
+In0 In2 3.170685 1_555
+In0 Si0 3.216952 1_555
+In0 Si0 3.216952 1_554
+In0 Si1 3.261442 1_455
+In0 Si1 3.261449 1_555
+In0 In5 3.277437 1_455
+In0 In5 3.277437 1_454
+In0 In4 3.277437 1_555
+In0 In4 3.277437 1_554
+In0 In1 3.351372 1_445
+In0 In2 3.351372 1_545
+In1 In2 3.170685 1_555
+In1 Si0 3.216952 1_555
+In1 Si0 3.216952 1_554
+In1 Si1 3.261442 1_565
+In1 Si1 3.261449 1_555
+In1 In5 3.277437 1_564
+In1 In5 3.277437 1_565
+In1 In3 3.277437 1_554
+In1 In3 3.277437 1_555
+In1 In2 3.351372 1_655
+In2 Si0 3.216949 1_554
+In2 Si0 3.216949 1_555
+In2 Si1 3.261445 1_455
+In2 Si1 3.261445 1_565
+In2 In3 3.277437 1_455
+In2 In4 3.277437 1_565
+In2 In3 3.277437 1_454
+In2 In4 3.277437 1_564
+In3 In4 3.170684 1_555
+In3 In5 3.170685 1_555
+In3 Si1 3.216952 1_555
+In3 Si1 3.216952 1_556
+In3 Si0 3.261442 1_655
+In3 Si0 3.261449 1_555
+In3 In4 3.351372 1_665
+In3 In5 3.351372 1_565
+In4 In5 3.170685 1_555
+In4 Si1 3.216952 1_555
+In4 Si1 3.216952 1_556
+In4 Si0 3.261442 1_545
+In4 Si0 3.261449 1_555
+In4 In5 3.351372 1_455
+In5 Si1 3.216949 1_555
+In5 Si1 3.216949 1_556
+In5 Si0 3.261445 1_545
+In5 Si0 3.261445 1_655

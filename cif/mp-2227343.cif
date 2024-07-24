@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Na2Mg(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62252342
+_cell_length_b   6.62252344
+_cell_length_c   6.62252285
+_cell_angle_alpha   51.04276915
+_cell_angle_beta   51.04277121
+_cell_angle_gamma   51.04277473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mg(BiO3)2
+_chemical_formula_sum   'Na2 Mg1 Bi2 O6'
+_cell_volume   162.01697495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16808600  0.16808600  0.16808600  1
+  Na  Na1  1  0.83191400  0.83191400  0.83191400  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi0  1  0.35228300  0.35228300  0.35228300  1
+  Bi  Bi1  1  0.64771700  0.64771700  0.64771700  1
+  O  O0  1  0.03042100  0.76921800  0.40030900  1
+  O  O1  1  0.76921800  0.40030900  0.03042100  1
+  O  O2  1  0.40030900  0.03042100  0.76921800  1
+  O  O3  1  0.96957900  0.23078200  0.59969100  1
+  O  O4  1  0.59969100  0.96957900  0.23078200  1
+  O  O5  1  0.23078200  0.59969100  0.96957900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O3 2.480214 1_455
+Na0 O5 2.480215 1_554
+Na0 O4 2.480215 1_545
+Na0 O2 2.516098 1_554
+Na0 O0 2.516099 1_545
+Na0 O1 2.516099 1_455
+Na1 O0 2.480214 1_655
+Na1 O1 2.480215 1_556
+Na1 O2 2.480215 1_565
+Na1 O4 2.516098 1_556
+Na1 O3 2.516099 1_565
+Na1 O5 2.516099 1_655
+Mg0 O0 2.143355 1_545
+Mg0 O3 2.143355 1_454
+Mg0 O2 2.143355 1_554
+Mg0 O4 2.143355 1_445
+Mg0 O1 2.143355 1_455
+Mg0 O5 2.143355 1_544
+Bi0 O2 2.262635 1_555
+Bi0 O1 2.262635 1_555
+Bi0 O0 2.262635 1_555
+Bi0 O5 2.332440 1_554
+Bi0 O3 2.332440 1_455
+Bi0 O4 2.332440 1_545
+Bi1 O4 2.262635 1_555
+Bi1 O5 2.262635 1_555
+Bi1 O3 2.262635 1_555
+Bi1 O1 2.332440 1_556
+Bi1 O0 2.332440 1_655
+Bi1 O2 2.332440 1_565

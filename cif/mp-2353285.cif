@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_TlCoCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04917236
+_cell_length_b   7.04907742
+_cell_length_c   5.91445928
+_cell_angle_alpha   89.87543292
+_cell_angle_beta   90.12633530
+_cell_angle_gamma   120.11882825
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCoCl3
+_chemical_formula_sum   'Tl2 Co2 Cl6'
+_cell_volume   254.21047016
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.67104401  0.32896502  0.74148417  1
+  Tl  Tl1  1  0.32895599  0.67103498  0.25851583  1
+  Co  Co0  1  -0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  -0.00000000  0.00000000  0.50000000  1
+  Cl  Cl0  1  0.16009242  0.83990910  0.75280101  1
+  Cl  Cl1  1  0.68455749  0.84125982  0.74779926  1
+  Cl  Cl2  1  0.84125624  0.68455851  0.25219712  1
+  Cl  Cl3  1  0.83990758  0.16009090  0.24719899  1
+  Cl  Cl4  1  0.15874376  0.31544149  0.74780288  1
+  Cl  Cl5  1  0.31544251  0.15874018  0.25220074  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Co0 2.444828 1_566
+Cl0 Co1 2.458849 1_565
+Cl1 Co1 2.419642 1_665
+Cl1 Co0 2.432496 1_666
+Cl2 Co1 2.419567 1_665
+Cl2 Co0 2.432521 1_665
+Cl3 Co0 2.444828 1_655
+Cl3 Co1 2.458849 1_655
+Cl4 Co1 2.419567 1_555
+Cl4 Co0 2.432521 1_556
+Cl5 Co1 2.419642 1_555
+Cl5 Co0 2.432496 1_555

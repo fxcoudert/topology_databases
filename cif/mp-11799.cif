@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_PrNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83817927
+_cell_length_b   4.32396267
+_cell_length_c   5.66675243
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.79510015
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNi
+_chemical_formula_sum   'Pr2 Ni2'
+_cell_volume   88.48902135
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.36304167  0.25000000  0.72608333  1
+  Pr  Pr1  1  0.63695833  0.75000000  0.27391667  1
+  Ni  Ni0  1  0.06930209  0.25000000  0.13860618  1
+  Ni  Ni1  1  0.93069791  0.75000000  0.86139382  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Ni1 2.618941 1_444
+Ni0 Ni1 2.618941 1_454
+Ni0 Pr0 2.919046 1_454
+Ni0 Pr0 2.919051 1_554
+Ni0 Pr1 2.979524 1_455
+Ni0 Pr1 2.979524 1_445
+Ni0 Pr1 2.979529 1_555
+Ni0 Pr1 2.979529 1_545
+Ni0 Pr0 3.132371 1_555
+Ni1 Pr1 2.919046 1_656
+Ni1 Pr1 2.919051 1_556
+Ni1 Pr0 2.979524 1_655
+Ni1 Pr0 2.979524 1_665
+Ni1 Pr0 2.979529 1_555
+Ni1 Pr0 2.979529 1_565
+Ni1 Pr1 3.132371 1_555

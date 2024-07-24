@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_ReMoN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32923065
+_cell_length_b   5.60379126
+_cell_length_c   8.55934789
+_cell_angle_alpha   109.22202066
+_cell_angle_beta   90.60848190
+_cell_angle_gamma   122.61525483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReMoN3
+_chemical_formula_sum   'Re4 Mo4 N12'
+_cell_volume   345.80568942
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.35139000  0.34514300  0.04677600  1
+  Re  Re1  1  0.64861000  0.65485700  0.95322400  1
+  Re  Re2  1  0.65625900  0.63430100  0.56772300  1
+  Re  Re3  1  0.34374100  0.36569900  0.43227700  1
+  Mo  Mo0  1  0.07048200  0.33107000  0.56527500  1
+  Mo  Mo1  1  0.92951800  0.66893000  0.43472500  1
+  Mo  Mo2  1  0.74007500  0.04535800  0.30254600  1
+  Mo  Mo3  1  0.25992500  0.95464200  0.69745300  1
+  N  N0  1  0.81792700  0.92154200  0.46291400  1
+  N  N1  1  0.18207300  0.07845800  0.53708600  1
+  N  N2  1  0.91161500  0.38661400  0.24228800  1
+  N  N3  1  0.08838500  0.61338600  0.75771200  1
+  N  N4  1  0.70718100  0.33140100  0.47804600  1
+  N  N5  1  0.29281900  0.66859900  0.52195400  1
+  N  N6  1  0.70795600  0.84295900  0.79532500  1
+  N  N7  1  0.29204400  0.15704100  0.20467500  1
+  N  N8  1  0.82734300  0.78344100  0.10468700  1
+  N  N9  1  0.17265700  0.21655900  0.89531300  1
+  N  N10  1  0.47256900  0.20767400  0.89049600  1
+  N  N11  1  0.52743100  0.79232600  0.10950400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 N3 1.799245 1_555
+Mo0 N5 2.065517 1_555
+Mo0 N0 2.094999 1_445
+Mo0 N1 2.124847 1_555
+Mo1 N2 1.799245 1_555
+Mo1 N4 2.065517 1_555
+Mo1 N1 2.094999 1_665
+Mo1 N0 2.124847 1_555
+Mo2 N2 1.962658 1_555
+Mo2 N4 1.968405 1_555
+Mo2 N11 2.007877 1_545
+Mo2 N0 2.010536 1_545
+Mo2 N8 2.316432 1_545
+Mo3 N3 1.962663 1_555
+Mo3 N5 1.968401 1_555
+Mo3 N10 2.007881 1_565
+Mo3 N1 2.010529 1_565
+Mo3 N9 2.316437 1_565
+N0 Re2 2.008233 1_555
+N1 Re3 2.008233 1_555
+N4 Re2 1.927458 1_555
+N5 Re3 1.927458 1_555
+N6 Re2 1.807548 1_555
+N6 Re1 1.889190 1_555
+N7 Re3 1.807548 1_555
+N7 Re0 1.889190 1_555
+N8 Re1 1.738987 1_554
+N9 Re0 1.738987 1_556
+N10 Re1 1.980904 1_555
+N10 Re0 1.988268 1_556
+N11 Re0 1.980904 1_555
+N11 Re1 1.988268 1_554

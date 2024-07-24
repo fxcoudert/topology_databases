@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiVN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43008986
+_cell_length_b   6.59235818
+_cell_length_c   5.02186339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVN2
+_chemical_formula_sum   'Li4 V4 N8'
+_cell_volume   179.76813243
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.58354857  0.87826080  0.99220528  1
+  Li  Li1  1  0.41645143  0.12173920  0.49220528  1
+  Li  Li2  1  0.91645143  0.37826080  0.49220528  1
+  Li  Li3  1  0.08354857  0.62173920  0.99220528  1
+  V  V0  1  0.57482101  0.37454198  0.00393642  1
+  V  V1  1  0.42517899  0.62545802  0.50393642  1
+  V  V2  1  0.92517899  0.87454198  0.50393642  1
+  V  V3  1  0.07482101  0.12545802  0.00393642  1
+  N  N0  1  0.55484348  0.39926900  0.35955147  1
+  N  N1  1  0.44515552  0.60073100  0.85955147  1
+  N  N2  1  0.94515652  0.89926900  0.85955147  1
+  N  N3  1  0.05484448  0.10073100  0.35955147  1
+  N  N4  1  0.60392477  0.84682504  0.41430582  1
+  N  N5  1  0.39607523  0.15317496  0.91430582  1
+  N  N6  1  0.89607523  0.34682504  0.91430582  1
+  N  N7  1  0.10392477  0.65317496  0.41430582  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N2 2.078111 1_555
+Li0 N1 2.087070 1_555
+Li0 N5 2.115161 1_565
+Li0 N4 2.132709 1_556
+Li1 N3 2.078106 1_555
+Li1 N0 2.087068 1_555
+Li1 N4 2.115161 1_545
+Li1 N5 2.132709 1_555
+Li2 N0 2.078111 1_555
+Li2 N3 2.087070 1_655
+Li2 N7 2.115161 1_655
+Li2 N6 2.132709 1_555
+Li3 N1 2.078106 1_555
+Li3 N2 2.087068 1_455
+Li3 N6 2.115161 1_455
+Li3 N7 2.132709 1_556
+N0 V0 1.796552 1_555
+N0 V1 1.801367 1_555
+N1 V1 1.796552 1_555
+N1 V0 1.801369 1_556
+N2 V2 1.796552 1_555
+N2 V3 1.801367 1_666
+N3 V3 1.796552 1_555
+N3 V2 1.801369 1_445
+N4 V1 1.809509 1_555
+N4 V2 1.810816 1_555
+N5 V0 1.809509 1_556
+N5 V3 1.810816 1_556
+N6 V3 1.809509 1_656
+N6 V0 1.810816 1_556
+N7 V2 1.809509 1_455
+N7 V1 1.810816 1_555

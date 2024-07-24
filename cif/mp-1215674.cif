@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_ZnCu(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98004100
+_cell_length_b   5.28981900
+_cell_length_c   9.16967095
+_cell_angle_alpha   56.10341106
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu(SeO3)2
+_chemical_formula_sum   'Zn2 Cu2 Se4 O12'
+_cell_volume   240.76902743
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu0  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  Se  Se0  1  0.53548600  0.74326800  0.75203200  1
+  Se  Se1  1  0.03548600  0.25673200  0.74796800  1
+  Se  Se2  1  0.46451400  0.25673200  0.24796800  1
+  Se  Se3  1  0.96451400  0.74326800  0.25203200  1
+  O  O0  1  0.57620200  0.07041000  0.75487500  1
+  O  O1  1  0.07620200  0.92959000  0.74512500  1
+  O  O2  1  0.42379800  0.92959000  0.24512500  1
+  O  O3  1  0.92379800  0.07041000  0.25487500  1
+  O  O4  1  0.69759900  0.46145700  0.92423300  1
+  O  O5  1  0.19759900  0.53854300  0.57576700  1
+  O  O6  1  0.30217400  0.18974800  0.42585400  1
+  O  O7  1  0.80217400  0.81025200  0.07414600  1
+  O  O8  1  0.30240100  0.53854300  0.07576700  1
+  O  O9  1  0.80240100  0.46145700  0.42423300  1
+  O  O10  1  0.69782600  0.81025200  0.57414600  1
+  O  O11  1  0.19782600  0.18974800  0.92585400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O11 1.993452 1_554
+Cu0 O7 1.993452 1_545
+Cu0 O2 2.113013 1_545
+Cu0 O0 2.113013 1_554
+Cu0 O4 2.438435 1_554
+Cu0 O8 2.438435 1_545
+Cu1 O6 1.993452 1_555
+Cu1 O10 1.993452 1_445
+Cu1 O3 2.113013 1_455
+Cu1 O1 2.113013 1_545
+Cu1 O5 2.438435 1_545
+Cu1 O9 2.438435 1_455
+O0 Se0 1.762098 1_545
+O0 Zn0 2.215849 1_555
+O1 Se1 1.762098 1_565
+O1 Zn1 2.215849 1_556
+O2 Se2 1.762098 1_565
+O2 Zn0 2.215849 1_555
+O3 Se3 1.762098 1_545
+O3 Zn1 2.215849 1_655
+O4 Se0 1.740660 1_555
+O4 Zn1 1.988079 1_656
+O5 Se1 1.740660 1_555
+O5 Zn0 1.988079 1_555
+O6 Se2 1.756135 1_555
+O6 Zn0 2.408279 1_555
+O7 Se3 1.756135 1_555
+O7 Zn1 2.408279 1_655
+O8 Se2 1.740660 1_555
+O8 Zn1 1.988079 1_555
+O9 Se3 1.740660 1_555
+O9 Zn0 1.988079 1_555
+O10 Se0 1.756135 1_555
+O10 Zn0 2.408279 1_555
+O11 Se1 1.756135 1_555
+O11 Zn1 2.408279 1_556

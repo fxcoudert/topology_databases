@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_CoGeMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93634756
+_cell_length_b   4.93634756
+_cell_length_c   7.52810400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.97013966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoGeMo
+_chemical_formula_sum   'Co4 Ge4 Mo4'
+_cell_volume   160.48768482
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.99953300  0.00046700  0.25789500  1
+  Co  Co1  1  0.99953300  0.00046700  0.74210500  1
+  Co  Co2  1  0.83685600  0.64802400  0.00000000  1
+  Co  Co3  1  0.35197600  0.16314400  0.00000000  1
+  Ge  Ge0  1  0.83828500  0.16171500  0.00000000  1
+  Ge  Ge1  1  0.16545700  0.34080500  0.50000000  1
+  Ge  Ge2  1  0.65919500  0.83454300  0.50000000  1
+  Ge  Ge3  1  0.16838300  0.83161700  0.50000000  1
+  Mo  Mo0  1  0.33030400  0.66969600  0.17650600  1
+  Mo  Mo1  1  0.65964100  0.34035900  0.30948400  1
+  Mo  Mo2  1  0.65964100  0.34035900  0.69051600  1
+  Mo  Mo3  1  0.33030400  0.66969600  0.82349400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Ge3 2.320405 1_645
+Co0 Ge1 2.341411 1_655
+Co0 Ge2 2.341411 1_545
+Co0 Ge0 2.377010 1_555
+Co0 Co2 2.467303 1_545
+Co0 Co3 2.467303 1_655
+Co0 Mo1 2.878845 1_545
+Co0 Mo1 2.878845 1_655
+Co0 Mo0 2.879252 1_645
+Co0 Mo1 2.916852 1_555
+Co0 Mo0 2.954594 1_655
+Co0 Mo0 2.954594 1_545
+Co1 Ge3 2.320405 1_645
+Co1 Ge1 2.341411 1_655
+Co1 Ge2 2.341411 1_545
+Co1 Ge0 2.377010 1_556
+Co1 Co2 2.467303 1_546
+Co1 Co3 2.467303 1_656
+Co1 Mo2 2.878845 1_545
+Co1 Mo2 2.878845 1_655
+Co1 Mo3 2.879252 1_645
+Co1 Mo2 2.916852 1_555
+Co1 Mo3 2.954594 1_655
+Co1 Mo3 2.954594 1_545
+Co2 Ge0 2.404015 1_555
+Co2 Co3 2.430698 1_555
+Co2 Ge0 2.532348 1_565
+Co2 Co3 2.582290 1_665
+Co2 Mo1 2.685689 1_555
+Co2 Mo2 2.685689 1_554
+Co2 Mo0 2.730911 1_655
+Co2 Mo3 2.730911 1_654
+Co2 Mo0 2.879020 1_555
+Co2 Mo3 2.879020 1_554
+Co3 Ge0 2.404015 1_555
+Co3 Ge0 2.532348 1_455
+Co3 Mo2 2.685689 1_554
+Co3 Mo1 2.685689 1_555
+Co3 Mo0 2.730911 1_545
+Co3 Mo3 2.730911 1_544
+Co3 Mo0 2.879020 1_555
+Co3 Mo3 2.879020 1_554
+Ge0 Mo1 2.781499 1_555
+Ge0 Mo2 2.781499 1_554
+Ge0 Mo0 2.837730 1_655
+Ge0 Mo0 2.837730 1_545
+Ge0 Mo3 2.837730 1_654
+Ge0 Mo3 2.837730 1_544
+Ge1 Ge3 2.415856 1_555
+Ge1 Ge2 2.475103 1_555
+Ge1 Ge3 2.520557 1_545
+Ge1 Ge2 2.537885 1_445
+Ge1 Mo3 2.819375 1_555
+Ge1 Mo0 2.819375 1_555
+Ge1 Mo1 2.830758 1_555
+Ge1 Mo2 2.830758 1_555
+Ge1 Mo1 2.878560 1_455
+Ge1 Mo2 2.878560 1_455
+Ge2 Ge3 2.415856 1_555
+Ge2 Ge3 2.520557 1_655
+Ge2 Mo3 2.819375 1_555
+Ge2 Mo0 2.819375 1_555
+Ge2 Mo1 2.830758 1_555
+Ge2 Mo2 2.830758 1_555
+Ge2 Mo1 2.878560 1_565
+Ge2 Mo2 2.878560 1_565
+Ge3 Mo3 2.797733 1_555
+Ge3 Mo0 2.797733 1_555
+Ge3 Mo1 2.888778 1_455
+Ge3 Mo2 2.888778 1_565
+Ge3 Mo2 2.888778 1_455
+Ge3 Mo1 2.888778 1_565
+Mo0 Mo3 2.657511 1_554
+Mo0 Mo1 2.974619 1_555
+Mo0 Mo1 3.064576 1_565
+Mo0 Mo1 3.064576 1_455
+Mo1 Mo2 2.868449 1_555
+Mo2 Mo3 2.974619 1_555
+Mo2 Mo3 3.064576 1_545
+Mo2 Mo3 3.064576 1_655

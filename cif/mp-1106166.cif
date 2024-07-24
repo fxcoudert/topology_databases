@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LiGaPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19655532
+_cell_length_b   4.54610136
+_cell_length_c   6.99726167
+_cell_angle_alpha   92.72684665
+_cell_angle_beta   102.27068225
+_cell_angle_gamma   88.92440804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaPO5
+_chemical_formula_sum   'Li2 Ga2 P2 O10'
+_cell_volume   192.38519403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.84232000  0.47876500  0.31304500  1
+  Li  Li1  1  0.15768000  0.52123500  0.68695500  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.50000000  0.00000000  0.50000000  1
+  P  P0  1  0.33167300  0.56098700  0.25817100  1
+  P  P1  1  0.66832700  0.43901300  0.74182900  1
+  O  O0  1  0.56647100  0.70488100  0.30935600  1
+  O  O1  1  0.43352900  0.29511900  0.69064400  1
+  O  O2  1  0.21755700  0.70322000  0.42210900  1
+  O  O3  1  0.78244300  0.29678000  0.57789100  1
+  O  O4  1  0.20007500  0.63324200  0.05399000  1
+  O  O5  1  0.79992500  0.36675800  0.94601000  1
+  O  O6  1  0.35592400  0.22299600  0.26792800  1
+  O  O7  1  0.64407600  0.77700400  0.73207200  1
+  O  O8  1  0.91252000  0.03705400  0.23191200  1
+  O  O9  1  0.08748000  0.96294600  0.76808800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 1.974056 1_555
+Li0 O8 2.123097 1_555
+Li0 O3 2.169364 1_555
+Li0 O2 2.508143 1_655
+Li0 O5 2.553029 1_554
+Li1 O1 1.974056 1_555
+Li1 O9 2.123097 1_555
+Li1 O2 2.169364 1_555
+Li1 O3 2.508143 1_455
+Li1 O4 2.553029 1_556
+Ga0 O8 1.816591 1_455
+Ga0 O9 1.816591 1_544
+Ga0 O4 2.059845 1_545
+Ga0 O5 2.059845 1_454
+Ga1 O0 1.947226 1_545
+Ga1 O1 1.947226 1_555
+Ga1 O7 1.992018 1_545
+Ga1 O6 1.992018 1_555
+Ga1 O3 2.189452 1_555
+Ga1 O2 2.189452 1_545
+O0 P0 1.570027 1_555
+O1 P1 1.570027 1_555
+O2 P0 1.578307 1_555
+O3 P1 1.578307 1_555
+O4 P0 1.534096 1_555
+O5 P1 1.534096 1_555
+O6 P0 1.544394 1_555
+O7 P1 1.544394 1_555

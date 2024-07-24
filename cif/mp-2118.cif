@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_RhN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72250188
+_cell_length_b   5.72250188
+_cell_length_c   5.72250188
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhN3
+_chemical_formula_sum   'Rh4 N12'
+_cell_volume   144.25668269
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh1  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh2  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh3  1  0.50000000  0.50000000  0.50000000  1
+  N  N0  1  0.88911600  0.61687400  0.50598900  1
+  N  N1  1  0.88911600  0.38312600  0.27224200  1
+  N  N2  1  0.11088400  0.61687400  0.72775800  1
+  N  N3  1  0.38312600  0.49401100  0.11088400  1
+  N  N4  1  0.11088400  0.38312600  0.49401100  1
+  N  N5  1  0.61687400  0.72775800  0.11088400  1
+  N  N6  1  0.27224200  0.88911600  0.38312600  1
+  N  N7  1  0.61687400  0.50598900  0.88911600  1
+  N  N8  1  0.72775800  0.11088400  0.61687400  1
+  N  N9  1  0.38312600  0.27224200  0.88911600  1
+  N  N10  1  0.50598900  0.88911600  0.61687400  1
+  N  N11  1  0.49401100  0.11088400  0.38312600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+N0 N2 1.465397 1_655
+N0 N1 1.544551 1_555
+N0 Rh0 2.085123 1_665
+N0 Rh3 2.085128 1_555
+N1 N4 1.465397 1_655
+N1 Rh1 2.085126 1_655
+N1 Rh2 2.085126 1_555
+N2 N4 1.544551 1_555
+N2 Rh1 2.085126 1_556
+N2 Rh2 2.085126 1_566
+N3 N9 1.465397 1_554
+N3 N5 1.544551 1_555
+N3 Rh1 2.085123 1_555
+N3 Rh3 2.085128 1_555
+N4 Rh0 2.085123 1_555
+N4 Rh3 2.085128 1_555
+N5 N7 1.465397 1_554
+N5 Rh0 2.085126 1_665
+N5 Rh2 2.085126 1_565
+N6 Rh1 2.085126 1_555
+N6 Rh0 2.085126 1_565
+N7 N9 1.544551 1_555
+N7 Rh1 2.085123 1_656
+N7 Rh3 2.085128 1_555
+N8 Rh1 2.085126 1_656
+N8 Rh0 2.085126 1_655
+N9 Rh2 2.085126 1_556
+N9 Rh0 2.085126 1_555
+N10 N8 1.465397 1_565
+N10 N6 1.544551 1_555
+N10 Rh2 2.085123 1_566
+N10 Rh3 2.085128 1_555
+N11 N6 1.465397 1_545
+N11 N8 1.544551 1_555
+N11 Rh2 2.085123 1_555
+N11 Rh3 2.085128 1_555

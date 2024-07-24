@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_SnPHO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30509400
+_cell_length_b   5.35843608
+_cell_length_c   7.55384499
+_cell_angle_alpha   109.52440213
+_cell_angle_beta   105.66034271
+_cell_angle_gamma   96.94018081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPHO5
+_chemical_formula_sum   'Sn2 P2 H2 O10'
+_cell_volume   189.53025803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.00000000  1
+  P  P0  1  0.33180000  0.64632300  0.22729900  1
+  P  P1  1  0.66820000  0.35367700  0.77270100  1
+  H  H0  1  0.63981000  0.96639900  0.33695300  1
+  H  H1  1  0.36019000  0.03360100  0.66304700  1
+  O  O0  1  0.15704700  0.95452800  0.72112300  1
+  O  O1  1  0.29515500  0.80547300  0.37479000  1
+  O  O2  1  0.69669200  0.65255000  0.66038000  1
+  O  O3  1  0.62706100  0.75858000  0.06407100  1
+  O  O4  1  0.11532800  0.66830700  0.13472100  1
+  O  O5  1  0.88467200  0.33169300  0.86527900  1
+  O  O6  1  0.37293900  0.24142000  0.93592900  1
+  O  O7  1  0.30330800  0.34745000  0.33962000  1
+  O  O8  1  0.70484500  0.19452700  0.62521000  1
+  O  O9  1  0.84295300  0.04547200  0.27887700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O9 1.342586 1_565
+H0 Sn0 1.923208 1_665
+H1 O0 1.342586 1_545
+H1 Sn0 1.923208 1_555
+O0 Sn0 1.764456 1_565
+O0 O6 1.792146 1_565
+O0 Sn1 2.417589 1_566
+O1 P0 1.236222 1_555
+O1 Sn0 2.228875 1_565
+O2 P1 2.055840 1_555
+O2 Sn1 2.547892 1_666
+O3 O9 1.792146 1_565
+O3 P0 2.376217 1_555
+O3 Sn1 2.477703 1_665
+O4 P0 1.214885 1_555
+O4 Sn1 2.388433 1_565
+O5 P1 1.214885 1_555
+O5 Sn1 2.388433 1_656
+O6 P1 2.376217 1_555
+O6 Sn1 2.477703 1_556
+O7 P0 2.055840 1_555
+O7 Sn1 2.547892 1_555
+O8 P1 1.236222 1_555
+O8 Sn0 2.228875 1_655
+O9 Sn0 1.764456 1_655
+O9 Sn1 2.417589 1_655

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ba2Ni3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30228946
+_cell_length_b   6.30228946
+_cell_length_c   7.43252555
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.94874341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ni3N2
+_chemical_formula_sum   'Ba4 Ni6 N4'
+_cell_volume   273.81405290
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66936308  0.33370843  0.40914443  1
+  Ba  Ba1  1  0.33370843  0.66936308  0.59085557  1
+  Ba  Ba2  1  0.83370843  0.16936308  0.90914443  1
+  Ba  Ba3  1  0.16936308  0.83370843  0.09085557  1
+  Ni  Ni0  1  0.17190241  0.32487725  0.25779608  1
+  Ni  Ni1  1  0.32487725  0.17190241  0.74220392  1
+  Ni  Ni2  1  0.82487725  0.67190241  0.75779608  1
+  Ni  Ni3  1  0.67190241  0.82487725  0.24220392  1
+  Ni  Ni4  1  0.02809560  0.02809560  0.50000000  1
+  Ni  Ni5  1  0.52809560  0.52809560  0.00000000  1
+  N  N0  1  0.92232338  0.07022986  0.27737801  1
+  N  N1  1  0.07022986  0.92232338  0.72262199  1
+  N  N2  1  0.57022986  0.42232338  0.77737801  1
+  N  N3  1  0.42232338  0.57022986  0.22262199  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 N0 2.870015 1_555
+Ba0 N3 2.881455 1_555
+Ba0 N2 2.907527 1_555
+Ba1 N1 2.870015 1_555
+Ba1 N2 2.881455 1_555
+Ba1 N3 2.907527 1_555
+Ba2 N2 2.870015 1_555
+Ba2 N1 2.881455 1_645
+Ba2 N0 2.907527 1_556
+Ba3 N3 2.870015 1_555
+Ba3 N0 2.881455 1_465
+Ba3 N1 2.907527 1_554
+N0 Ni3 1.767998 1_545
+N0 Ni0 1.784314 1_655
+N0 Ni4 1.839850 1_655
+N1 Ni2 1.767998 1_455
+N1 Ni1 1.784314 1_565
+N1 Ni4 1.839850 1_565
+N2 Ni1 1.767998 1_555
+N2 Ni2 1.784314 1_555
+N2 Ni5 1.839850 1_556
+N3 Ni0 1.767998 1_555
+N3 Ni3 1.784314 1_555
+N3 Ni5 1.839850 1_555

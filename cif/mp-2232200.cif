@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_Cs2MgMo2(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76829329
+_cell_length_b   7.32620895
+_cell_length_c   8.76671239
+_cell_angle_alpha   118.29354854
+_cell_angle_beta   109.22915403
+_cell_angle_gamma   89.96221662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2MgMo2(O2F3)2
+_chemical_formula_sum   'Cs2 Mg1 Mo2 O4 F6'
+_cell_volume   302.58625155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.38656300  0.20295200  0.73993300  1
+  Cs  Cs1  1  0.64665200  0.79597500  0.26121100  1
+  Mg  Mg0  1  0.13859500  0.99967800  0.00066900  1
+  Mo  Mo0  1  0.84182400  0.58571800  0.72414000  1
+  Mo  Mo1  1  0.11802300  0.41367000  0.27690300  1
+  O  O0  1  0.66928700  0.62856300  0.86334900  1
+  O  O1  1  0.80593500  0.36963800  0.13770200  1
+  O  O2  1  0.27079100  0.29564800  0.10174000  1
+  O  O3  1  0.16990000  0.70364900  0.89908900  1
+  F  F0  1  0.47279700  0.46919800  0.49141200  1
+  F  F1  1  0.98183700  0.53149600  0.50975800  1
+  F  F2  1  0.85038600  0.89585600  0.76468400  1
+  F  F3  1  0.08820600  0.10389200  0.23733300  1
+  F  F4  1  0.20676200  0.71538600  0.34958500  1
+  F  F5  1  0.85839300  0.28368300  0.65030500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 F5 3.018371 1_455
+Cs0 O0 3.033016 1_555
+Cs0 O1 3.148610 1_556
+Cs0 F5 3.197798 1_555
+Cs0 O2 3.212553 1_556
+Cs0 F4 3.409513 1_545
+Cs0 F2 3.512760 1_545
+Cs1 F4 3.019569 1_555
+Cs1 O1 3.036098 1_555
+Cs1 O0 3.151419 1_554
+Cs1 F4 3.189000 1_655
+Cs1 O3 3.211650 1_554
+Cs1 F5 3.406095 1_565
+Cs1 F3 3.525117 1_665
+Mg0 O3 1.950319 1_554
+Mg0 O2 1.950401 1_565
+Mo0 O0 1.736352 1_555
+Mo0 O3 1.874630 1_655
+Mo1 O1 1.736252 1_455
+Mo1 O2 1.874534 1_555
+F0 Mo1 2.151926 1_555
+F0 Mo0 2.216567 1_555
+F1 Mo0 2.152666 1_555
+F1 Mo1 2.216839 1_655
+F2 Mg0 1.966422 1_656
+F2 Mo0 2.124705 1_555
+F3 Mg0 1.966551 1_545
+F3 Mo1 2.124954 1_555
+F4 Mo1 2.001377 1_555
+F5 Mo0 2.001788 1_555

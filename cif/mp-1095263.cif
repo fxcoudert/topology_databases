@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_HoSeF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06821935
+_cell_length_b   6.27223606
+_cell_length_c   9.88727884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSeF
+_chemical_formula_sum   'Ho4 Se4 F4'
+_cell_volume   252.29203416
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.26655378  0.92163655  1
+  Ho  Ho1  1  0.25000000  0.23344622  0.42163655  1
+  Ho  Ho2  1  0.75000000  0.73344622  0.07836345  1
+  Ho  Ho3  1  0.75000000  0.76655378  0.57836345  1
+  Se  Se0  1  0.25000000  0.46480452  0.66605433  1
+  Se  Se1  1  0.25000000  0.03519548  0.16605433  1
+  Se  Se2  1  0.75000000  0.53519548  0.33394567  1
+  Se  Se3  1  0.75000000  0.96480452  0.83394567  1
+  F  F0  1  0.25000000  0.90906342  0.53338215  1
+  F  F1  1  0.25000000  0.59093658  0.03338215  1
+  F  F2  1  0.75000000  0.09093658  0.46661785  1
+  F  F3  1  0.75000000  0.40906342  0.96661785  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Se0 2.816385 1_555
+Ho0 Se1 2.818843 1_556
+Ho0 Se3 2.910572 1_445
+Ho0 Se3 2.910572 1_545
+Ho1 Se1 2.816385 1_555
+Ho1 Se0 2.818843 1_555
+Ho1 Se2 2.910572 1_455
+Ho1 Se2 2.910572 1_555
+Ho2 Se2 2.816385 1_555
+Ho2 Se3 2.818843 1_554
+Ho2 Se1 2.910572 1_665
+Ho2 Se1 2.910572 1_565
+Ho3 Se3 2.816385 1_555
+Ho3 Se2 2.818843 1_555
+Ho3 Se0 2.910572 1_555
+Ho3 Se0 2.910572 1_655
+F0 Ho3 2.265916 1_455
+F0 Ho3 2.265916 1_555
+F0 Ho1 2.315240 1_565
+F1 Ho2 2.265916 1_555
+F1 Ho2 2.265916 1_455
+F1 Ho0 2.315240 1_554
+F2 Ho1 2.265916 1_555
+F2 Ho1 2.265916 1_655
+F2 Ho3 2.315240 1_545
+F3 Ho0 2.265916 1_655
+F3 Ho0 2.265916 1_555
+F3 Ho2 2.315240 1_556

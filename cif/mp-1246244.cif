@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MgFeN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66883600
+_cell_length_b   3.52211000
+_cell_length_c   5.58735600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFeN
+_chemical_formula_sum   'Mg4 Fe4 N4'
+_cell_volume   150.91718964
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.67931700  0.25000000  0.41549400  1
+  Mg  Mg1  1  0.17931700  0.25000000  0.08450600  1
+  Mg  Mg2  1  0.32068300  0.75000000  0.58450600  1
+  Mg  Mg3  1  0.82068300  0.75000000  0.91549400  1
+  Fe  Fe0  1  0.53859700  0.25000000  0.86085900  1
+  Fe  Fe1  1  0.03859700  0.25000000  0.63914100  1
+  Fe  Fe2  1  0.46140300  0.75000000  0.13914100  1
+  Fe  Fe3  1  0.96140300  0.75000000  0.36085900  1
+  N  N0  1  0.94942400  0.25000000  0.30323500  1
+  N  N1  1  0.44942400  0.25000000  0.19676500  1
+  N  N2  1  0.05057600  0.75000000  0.69676500  1
+  N  N3  1  0.55057600  0.75000000  0.80323500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N1 2.145176 1_555
+Mg0 N0 2.164288 1_555
+Mg1 N0 2.145176 1_455
+Mg1 N1 2.164288 1_555
+Mg2 N3 2.145176 1_555
+Mg2 N2 2.164288 1_555
+Mg3 N2 2.145176 1_655
+Mg3 N3 2.164288 1_555
+Fe0 N3 1.792600 1_545
+Fe0 N3 1.792600 1_555
+Fe0 N1 1.997532 1_556
+Fe1 N2 1.792600 1_555
+Fe1 N2 1.792600 1_545
+Fe1 N0 1.997532 1_455
+Fe2 N1 1.792600 1_565
+Fe2 N1 1.792600 1_555
+Fe2 N3 1.997532 1_554
+Fe3 N0 1.792600 1_565
+Fe3 N0 1.792600 1_555
+Fe3 N2 1.997532 1_655

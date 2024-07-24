@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Mg(SnO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86321962
+_cell_length_b   6.86321962
+_cell_length_c   10.75958895
+_cell_angle_alpha   62.28503074
+_cell_angle_beta   62.28503074
+_cell_angle_gamma   27.31979887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(SnO2)2
+_chemical_formula_sum   'Mg2 Sn4 O8'
+_cell_volume   204.23537925
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.69692300  0.69692300  0.76106900  1
+  Mg  Mg1  1  0.30307700  0.30307700  0.23893100  1
+  Sn  Sn0  1  0.36171200  0.36171200  0.87513400  1
+  Sn  Sn1  1  0.90042900  0.90042900  0.41608200  1
+  Sn  Sn2  1  0.09957100  0.09957100  0.58391800  1
+  Sn  Sn3  1  0.63828800  0.63828800  0.12486600  1
+  O  O0  1  0.15276000  0.15276000  0.23445700  1
+  O  O1  1  0.53561300  0.53561300  0.76842100  1
+  O  O2  1  0.46438700  0.46438700  0.23157900  1
+  O  O3  1  0.84724000  0.84724000  0.76554300  1
+  O  O4  1  0.82874000  0.82874000  0.02863500  1
+  O  O5  1  0.23074800  0.23074800  0.63737800  1
+  O  O6  1  0.17126000  0.17126000  0.97136500  1
+  O  O7  1  0.76925200  0.76925200  0.36262200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 2.006740 1_655
+Mg0 O5 2.006740 1_565
+Mg0 O3 2.028435 1_555
+Mg0 O1 2.114863 1_555
+Mg0 O6 2.668819 1_565
+Mg0 O6 2.668819 1_655
+Mg1 O7 2.006740 1_455
+Mg1 O7 2.006740 1_545
+Mg1 O0 2.028435 1_555
+Mg1 O2 2.114863 1_555
+Mg1 O4 2.668819 1_455
+Mg1 O4 2.668819 1_545
+O0 Sn3 2.067015 1_545
+O0 Sn3 2.067015 1_455
+O1 Sn0 2.036959 1_555
+O1 Sn2 2.382144 1_565
+O1 Sn2 2.382144 1_655
+O2 Sn3 2.036959 1_555
+O2 Sn1 2.382144 1_545
+O2 Sn1 2.382144 1_455
+O3 Sn0 2.067015 1_565
+O3 Sn0 2.067015 1_655
+O4 Sn0 2.202940 1_654
+O4 Sn0 2.202940 1_564
+O4 Sn3 2.237721 1_555
+O5 Sn2 2.086995 1_555
+O6 Sn3 2.202940 1_546
+O6 Sn3 2.202940 1_456
+O6 Sn0 2.237721 1_555
+O7 Sn1 2.086995 1_555

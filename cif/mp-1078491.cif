@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LaFe2AsN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86269647
+_cell_length_b   5.86269647
+_cell_length_c   7.11287700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   142.29350336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe2AsN
+_chemical_formula_sum   'La2 Fe4 As2 N2'
+_cell_volume   149.52695535
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.54044300  0.45955700  0.25000000  1
+  La  La1  1  0.45955700  0.54044300  0.75000000  1
+  Fe  Fe0  1  0.83117400  0.16882600  0.44451300  1
+  Fe  Fe1  1  0.16882600  0.83117400  0.55548700  1
+  Fe  Fe2  1  0.83117400  0.16882600  0.05548700  1
+  Fe  Fe3  1  0.16882600  0.83117400  0.94451300  1
+  As  As0  1  0.26738100  0.73261900  0.25000000  1
+  As  As1  1  0.73261900  0.26738100  0.75000000  1
+  N  N0  1  0.00000000  0.00000000  0.50000000  1
+  N  N1  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 N0 2.636778 1_665
+La0 N0 2.636778 1_555
+La0 N1 2.636778 1_555
+La0 N1 2.636778 1_665
+La1 N1 2.636778 1_666
+La1 N1 2.636778 1_556
+La1 N0 2.636778 1_665
+La1 N0 2.636778 1_555
+Fe0 N0 1.914470 1_655
+Fe1 N0 1.914470 1_565
+Fe2 N1 1.914470 1_655
+Fe3 N1 1.914470 1_566
+As0 Fe1 2.432573 1_555
+As0 Fe3 2.432573 1_554
+As0 Fe0 2.450392 1_565
+As0 Fe2 2.450392 1_455
+As0 Fe0 2.450392 1_455
+As0 Fe2 2.450392 1_565
+As0 La0 3.029983 1_555
+As0 La0 3.151246 1_455
+As0 La0 3.151246 1_565
+As1 Fe2 2.432573 1_556
+As1 Fe0 2.432573 1_555
+As1 Fe3 2.450392 1_655
+As1 Fe3 2.450392 1_545
+As1 Fe1 2.450392 1_655
+As1 Fe1 2.450392 1_545
+As1 La1 3.029983 1_555
+As1 La1 3.151246 1_655
+As1 La1 3.151246 1_545

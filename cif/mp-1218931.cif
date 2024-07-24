@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SnPtS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16529509
+_cell_length_b   6.16529509
+_cell_length_c   6.16529509
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPtS
+_chemical_formula_sum   'Sn4 Pt4 S4'
+_cell_volume   234.34819039
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.11913194  0.61913194  0.88086806  1
+  Sn  Sn1  1  0.61913194  0.88086806  0.11913194  1
+  Sn  Sn2  1  0.88086806  0.11913194  0.61913194  1
+  Sn  Sn3  1  0.38086806  0.38086806  0.38086806  1
+  Pt  Pt0  1  0.48957214  0.98957214  0.51042786  1
+  Pt  Pt1  1  0.98957214  0.51042786  0.48957214  1
+  Pt  Pt2  1  0.51042786  0.48957214  0.98957214  1
+  Pt  Pt3  1  0.01042786  0.01042786  0.01042786  1
+  S  S0  1  0.88141054  0.38141054  0.11858946  1
+  S  S1  1  0.38141054  0.11858946  0.88141054  1
+  S  S2  1  0.11858946  0.88141054  0.38141054  1
+  S  S3  1  0.61858946  0.61858946  0.61858946  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pt0 S1 2.511724 1_565
+Pt0 S2 2.511724 1_555
+Pt0 S3 2.511724 1_555
+Pt0 Sn1 2.628143 1_555
+Pt0 Sn2 2.628143 1_565
+Pt0 Sn3 2.628143 1_565
+Pt1 S0 2.511724 1_555
+Pt1 S2 2.511724 1_655
+Pt1 S3 2.511724 1_555
+Pt1 Sn2 2.628143 1_555
+Pt1 Sn0 2.628143 1_655
+Pt1 Sn3 2.628143 1_655
+Pt2 S0 2.511724 1_556
+Pt2 S1 2.511724 1_555
+Pt2 S3 2.511724 1_555
+Pt2 Sn1 2.628143 1_556
+Pt2 Sn3 2.628143 1_556
+Pt2 Sn0 2.628143 1_555
+Pt3 S2 2.511724 1_545
+Pt3 S1 2.511724 1_554
+Pt3 S0 2.511724 1_455
+Pt3 Sn2 2.628143 1_454
+Pt3 Sn1 2.628143 1_445
+Pt3 Sn0 2.628143 1_544
+S0 Sn0 2.538533 1_654
+S1 Sn1 2.538533 1_546
+S2 Sn2 2.538533 1_465
+S3 Sn3 2.538533 1_555

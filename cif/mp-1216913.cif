@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_TiMnAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92398664
+_cell_length_b   4.97308728
+_cell_length_c   8.13530500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.32437668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnAl
+_chemical_formula_sum   'Ti4 Mn4 Al4'
+_cell_volume   171.95648890
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66868300  0.33430800  0.55337000  1
+  Ti  Ti1  1  0.34327900  0.67165200  0.42503700  1
+  Ti  Ti2  1  0.34327900  0.67165200  0.07496300  1
+  Ti  Ti3  1  0.66868300  0.33430800  0.94663000  1
+  Mn  Mn0  1  0.66566800  0.83278200  0.75000000  1
+  Mn  Mn1  1  0.81651800  0.64040200  0.25000000  1
+  Mn  Mn2  1  0.81662600  0.17615800  0.25000000  1
+  Mn  Mn3  1  0.35010800  0.17513300  0.25000000  1
+  Al  Al0  1  0.98640800  0.99322100  0.48992700  1
+  Al  Al1  1  0.98640800  0.99322100  0.01007300  1
+  Al  Al2  1  0.17718900  0.34470900  0.75000000  1
+  Al  Al3  1  0.17715200  0.83245500  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti1 3.030733 1_545
+Ti0 Ti1 3.030869 1_555
+Ti0 Ti1 3.051393 1_655
+Ti0 Ti3 3.199290 1_555
+Ti1 Ti2 2.847959 1_555
+Ti2 Ti3 3.030733 1_564
+Ti2 Ti3 3.030869 1_554
+Ti2 Ti3 3.051393 1_454
+Mn0 Ti0 2.956597 1_555
+Mn0 Ti3 2.956597 1_555
+Mn0 Ti0 2.956754 1_565
+Mn0 Ti3 2.956754 1_565
+Mn0 Ti2 2.977681 1_556
+Mn0 Ti1 2.977681 1_555
+Mn1 Mn3 2.293947 1_555
+Mn1 Mn2 2.308994 1_555
+Mn1 Mn3 2.630502 1_665
+Mn1 Mn2 2.664093 1_565
+Mn1 Ti0 2.796284 1_555
+Mn1 Ti3 2.796284 1_554
+Mn1 Ti1 2.801337 1_555
+Mn1 Ti2 2.801337 1_555
+Mn1 Ti1 2.893517 1_655
+Mn1 Ti2 2.893517 1_655
+Mn2 Mn3 2.294559 1_555
+Mn2 Mn3 2.629436 1_655
+Mn2 Ti0 2.796220 1_555
+Mn2 Ti3 2.796220 1_554
+Mn2 Ti1 2.801781 1_545
+Mn2 Ti2 2.801781 1_545
+Mn2 Ti1 2.893424 1_655
+Mn2 Ti2 2.893424 1_655
+Mn3 Ti3 2.815045 1_554
+Mn3 Ti0 2.815045 1_555
+Mn3 Ti2 2.865275 1_555
+Mn3 Ti1 2.865275 1_555
+Mn3 Ti2 2.865854 1_545
+Mn3 Ti1 2.865854 1_545
+Al0 Mn2 2.470711 1_565
+Al0 Mn1 2.471050 1_555
+Al0 Mn3 2.489865 1_665
+Al0 Mn0 2.516926 1_555
+Al0 Al3 2.599250 1_655
+Al0 Al2 2.599284 1_665
+Al0 Ti1 2.783994 1_555
+Al0 Ti0 2.875930 1_565
+Al0 Ti0 2.876611 1_555
+Al0 Ti0 2.945440 1_665
+Al0 Ti1 2.959999 1_655
+Al0 Ti1 2.960230 1_665
+Al1 Mn2 2.470711 1_565
+Al1 Mn1 2.471050 1_555
+Al1 Mn3 2.489865 1_665
+Al1 Mn0 2.516926 1_554
+Al1 Al3 2.599250 1_654
+Al1 Al2 2.599284 1_664
+Al1 Ti2 2.783994 1_555
+Al1 Ti3 2.875930 1_564
+Al1 Ti3 2.876611 1_554
+Al1 Ti3 2.945440 1_664
+Al1 Ti2 2.959999 1_655
+Al1 Ti2 2.960230 1_665
+Al2 Mn0 2.404466 1_555
+Al2 Al3 2.425695 1_555
+Al2 Mn0 2.519974 1_445
+Al2 Al3 2.547392 1_545
+Al2 Ti0 2.923162 1_555
+Al2 Ti3 2.923162 1_555
+Al2 Ti3 2.949603 1_455
+Al2 Ti0 2.949603 1_455
+Al2 Ti2 2.993111 1_556
+Al2 Ti1 2.993111 1_555
+Al3 Mn0 2.404626 1_555
+Al3 Mn0 2.519362 1_455
+Al3 Ti0 2.923335 1_565
+Al3 Ti3 2.923335 1_565
+Al3 Ti3 2.949799 1_455
+Al3 Ti0 2.949799 1_455
+Al3 Ti2 2.993025 1_556
+Al3 Ti1 2.993025 1_555

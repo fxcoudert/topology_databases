@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_VFeAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34988100
+_cell_length_b   5.59832500
+_cell_length_c   6.19221600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFeAs2
+_chemical_formula_sum   'V2 Fe2 As4'
+_cell_volume   116.12710083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.25000000  0.50330600  0.29945500  1
+  V  V1  1  0.25000000  0.00330600  0.20054500  1
+  Fe  Fe0  1  0.75000000  0.49308200  0.68754900  1
+  Fe  Fe1  1  0.75000000  0.99308200  0.81245100  1
+  As  As0  1  0.75000000  0.30689300  0.06261700  1
+  As  As1  1  0.75000000  0.80689300  0.43738300  1
+  As  As2  1  0.25000000  0.69671900  0.91376700  1
+  As  As3  1  0.25000000  0.19671900  0.58623300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Fe1 2.342233 1_544
+As0 V0 2.482999 1_655
+As0 V0 2.482999 1_555
+As0 V1 2.534452 1_655
+As0 V1 2.534452 1_555
+As0 Fe0 2.545683 1_554
+As1 Fe0 2.342233 1_555
+As1 V1 2.482999 1_565
+As1 V1 2.482999 1_665
+As1 V0 2.534452 1_655
+As1 V0 2.534452 1_555
+As1 Fe1 2.545683 1_555
+As2 Fe1 2.439621 1_555
+As2 Fe1 2.439621 1_455
+As2 Fe0 2.463189 1_455
+As2 Fe0 2.463189 1_555
+As2 V1 2.469691 1_566
+As2 V0 2.622257 1_556
+As3 Fe0 2.439621 1_455
+As3 Fe0 2.439621 1_555
+As3 Fe1 2.463189 1_545
+As3 Fe1 2.463189 1_445
+As3 V0 2.469691 1_555
+As3 V1 2.622257 1_555

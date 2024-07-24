@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_SrHIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29308400
+_cell_length_b   7.80026100
+_cell_length_c   10.89046400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHIO
+_chemical_formula_sum   'Sr4 H4 I4 O4'
+_cell_volume   364.69088137
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.67847600  0.42199400  1
+  Sr  Sr1  1  0.25000000  0.17847600  0.07800600  1
+  Sr  Sr2  1  0.75000000  0.32152400  0.57800600  1
+  Sr  Sr3  1  0.75000000  0.82152400  0.92199400  1
+  H  H0  1  0.25000000  0.78210900  0.09750000  1
+  H  H1  1  0.25000000  0.28210900  0.40250000  1
+  H  H2  1  0.75000000  0.21789100  0.90250000  1
+  H  H3  1  0.75000000  0.71789100  0.59750000  1
+  I  I0  1  0.75000000  0.52280400  0.18025600  1
+  I  I1  1  0.75000000  0.02280400  0.31974400  1
+  I  I2  1  0.25000000  0.47719600  0.81974400  1
+  I  I3  1  0.25000000  0.97719600  0.68025600  1
+  O  O0  1  0.25000000  0.86695300  0.03186100  1
+  O  O1  1  0.25000000  0.36695300  0.46813900  1
+  O  O2  1  0.75000000  0.13304700  0.96813900  1
+  O  O3  1  0.75000000  0.63304700  0.53186100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O0 0.974157 1_555
+H1 O1 0.974157 1_555
+H2 O2 0.974157 1_555
+H3 O3 0.974157 1_555
+I0 Sr0 3.607341 1_655
+I0 Sr0 3.607341 1_555
+I0 Sr1 3.614058 1_655
+I0 Sr1 3.614058 1_555
+I0 Sr3 3.652399 1_554
+I1 Sr1 3.607341 1_555
+I1 Sr1 3.607341 1_655
+I1 Sr0 3.614058 1_645
+I1 Sr0 3.614058 1_545
+I1 Sr2 3.652399 1_555
+I2 Sr2 3.607341 1_455
+I2 Sr2 3.607341 1_555
+I2 Sr3 3.614058 1_455
+I2 Sr3 3.614058 1_555
+I2 Sr1 3.652399 1_556
+I3 Sr3 3.607341 1_455
+I3 Sr3 3.607341 1_555
+I3 Sr2 3.614058 1_565
+I3 Sr2 3.614058 1_465
+I3 Sr0 3.652399 1_555
+O0 Sr1 2.481382 1_565
+O0 Sr3 2.482908 1_454
+O0 Sr3 2.482908 1_554
+O1 Sr0 2.481382 1_555
+O1 Sr2 2.482908 1_555
+O1 Sr2 2.482908 1_455
+O2 Sr3 2.481382 1_545
+O2 Sr1 2.482908 1_656
+O2 Sr1 2.482908 1_556
+O3 Sr2 2.481382 1_555
+O3 Sr0 2.482908 1_555
+O3 Sr0 2.482908 1_655

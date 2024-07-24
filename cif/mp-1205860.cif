@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Sr(InAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25938254
+_cell_length_b   4.25938316
+_cell_length_c   18.20531607
+_cell_angle_alpha   90.00000053
+_cell_angle_beta   89.99998533
+_cell_angle_gamma   120.00013762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(InAs)2
+_chemical_formula_sum   'Sr2 In4 As4'
+_cell_volume   286.03660094
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000015  0.00000009  0.00000001  1
+  Sr  Sr1  1  0.00000002  -0.00000007  0.50000005  1
+  In  In0  1  0.66666616  0.33333363  0.82685264  1
+  In  In1  1  0.33333382  0.66666644  0.17314739  1
+  In  In2  1  0.33333362  0.66666607  0.32689576  1
+  In  In3  1  0.66666638  0.33333387  0.67310423  1
+  As  As0  1  0.66666696  0.33333259  0.39118841  1
+  As  As1  1  0.33333305  0.66666724  0.60881159  1
+  As  As2  1  0.33333277  0.66666688  0.89117004  1
+  As  As3  1  0.66666707  0.33333325  0.10882989  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In3 2.799038 1_555
+In1 In2 2.799038 1_555
+As0 In2 2.723495 1_655
+As0 In2 2.723495 1_545
+As0 In2 2.723500 1_555
+As0 Sr1 3.157783 1_555
+As0 Sr1 3.157785 1_655
+As0 Sr1 3.157785 1_665
+As1 In3 2.723495 1_455
+As1 In3 2.723495 1_565
+As1 In3 2.723500 1_555
+As1 Sr1 3.157782 1_665
+As1 Sr1 3.157784 1_565
+As1 Sr1 3.157784 1_555
+As2 In0 2.723689 1_455
+As2 In0 2.723689 1_565
+As2 In0 2.723693 1_555
+As2 Sr0 3.157993 1_556
+As2 Sr0 3.157994 1_566
+As2 Sr0 3.157995 1_666
+As3 In1 2.723690 1_655
+As3 In1 2.723690 1_545
+As3 In1 2.723693 1_555
+As3 Sr0 3.157992 1_665
+As3 Sr0 3.157993 1_555
+As3 Sr0 3.157994 1_655

@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_LiCoOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02560300
+_cell_length_b   3.02560300
+_cell_length_c   16.52685700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoOF
+_chemical_formula_sum   'Li4 Co4 O4 F4'
+_cell_volume   151.29136930
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.31799700  1
+  Li  Li1  1  0.50000000  0.00000000  0.44059900  1
+  Li  Li2  1  0.00000000  0.50000000  0.55940100  1
+  Li  Li3  1  0.50000000  0.00000000  0.68200300  1
+  Co  Co0  1  0.00000000  0.50000000  0.81169600  1
+  Co  Co1  1  0.50000000  0.00000000  0.93353800  1
+  Co  Co2  1  0.00000000  0.50000000  0.06646200  1
+  Co  Co3  1  0.50000000  0.00000000  0.18830400  1
+  O  O0  1  0.50000000  0.00000000  0.80629300  1
+  O  O1  1  0.00000000  0.50000000  0.93724400  1
+  O  O2  1  0.50000000  0.00000000  0.06275600  1
+  O  O3  1  0.00000000  0.50000000  0.19370700  1
+  F  F0  1  0.50000000  0.00000000  0.32065900  1
+  F  F1  1  0.00000000  0.50000000  0.43975500  1
+  F  F2  1  0.50000000  0.00000000  0.56024500  1
+  F  F3  1  0.00000000  0.50000000  0.67934100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.054123 1_555
+Li3 O0 2.054123 1_555
+Co0 O1 2.074914 1_555
+Co0 O0 2.141287 1_455
+Co0 O0 2.141287 1_465
+Co0 O0 2.141287 1_555
+Co0 O0 2.141287 1_565
+Co0 F3 2.187412 1_555
+Co1 O0 2.102960 1_555
+Co1 O2 2.135567 1_556
+Co1 O1 2.140301 1_655
+Co1 O1 2.140301 1_545
+Co1 O1 2.140301 1_645
+Co1 O1 2.140301 1_555
+Co2 O3 2.102960 1_555
+Co2 O1 2.135567 1_554
+Co2 O2 2.140301 1_455
+Co2 O2 2.140301 1_555
+Co2 O2 2.140301 1_465
+Co2 O2 2.140301 1_565
+Co3 O2 2.074914 1_555
+Co3 O3 2.141287 1_555
+Co3 O3 2.141287 1_645
+Co3 O3 2.141287 1_655
+Co3 O3 2.141287 1_545
+Co3 F0 2.187412 1_555
+F0 Li1 1.982231 1_555
+F0 Li0 2.139877 1_545
+F0 Li0 2.139877 1_645
+F0 Li0 2.139877 1_555
+F0 Li0 2.139877 1_655
+F1 Li2 1.977372 1_555
+F1 Li0 2.012277 1_555
+F1 Li1 2.139470 1_455
+F1 Li1 2.139470 1_555
+F1 Li1 2.139470 1_565
+F1 Li1 2.139470 1_465
+F2 Li1 1.977372 1_555
+F2 Li3 2.012277 1_555
+F2 Li2 2.139470 1_655
+F2 Li2 2.139470 1_555
+F2 Li2 2.139470 1_545
+F2 Li2 2.139470 1_645
+F3 Li2 1.982231 1_555
+F3 Li3 2.139877 1_455
+F3 Li3 2.139877 1_465
+F3 Li3 2.139877 1_555
+F3 Li3 2.139877 1_565

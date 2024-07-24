@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_SmFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00258686
+_cell_length_b   4.29575615
+_cell_length_c   7.99764689
+_cell_angle_alpha   76.17215861
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFeSi2
+_chemical_formula_sum   'Sm2 Fe2 Si4'
+_cell_volume   133.52728133
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.25000000  0.60692837  0.79275484  1
+  Sm  Sm1  1  0.75000000  0.39307163  0.20724516  1
+  Fe  Fe0  1  0.25000000  0.88393262  0.39202960  1
+  Fe  Fe1  1  0.75000000  0.11606738  0.60797040  1
+  Si  Si0  1  0.25000000  0.95484707  0.09877655  1
+  Si  Si1  1  0.75000000  0.04515293  0.90122345  1
+  Si  Si2  1  0.25000000  0.32613629  0.49655805  1
+  Si  Si3  1  0.75000000  0.67386371  0.50344195  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Si2 2.250875 1_565
+Fe0 Si3 2.286722 1_455
+Fe0 Si3 2.286722 1_555
+Fe0 Si0 2.291697 1_555
+Fe0 Si2 2.341561 1_555
+Fe0 Sm1 3.070458 1_565
+Fe0 Sm1 3.070458 1_465
+Fe0 Sm0 3.140723 1_555
+Fe1 Si3 2.250875 1_545
+Fe1 Si2 2.286722 1_555
+Fe1 Si2 2.286722 1_655
+Fe1 Si1 2.291697 1_555
+Fe1 Si3 2.341561 1_555
+Fe1 Sm0 3.070458 1_545
+Fe1 Sm0 3.070458 1_645
+Fe1 Sm1 3.140723 1_555
+Si0 Si1 2.521698 1_564
+Si0 Si1 2.521698 1_464
+Si0 Sm1 3.013664 1_465
+Si0 Sm1 3.013664 1_565
+Si0 Sm1 3.095285 1_555
+Si0 Sm1 3.095285 1_455
+Si0 Sm0 3.157894 1_554
+Si0 Sm0 3.249542 1_564
+Si1 Sm0 3.013664 1_645
+Si1 Sm0 3.013664 1_545
+Si1 Sm0 3.095285 1_655
+Si1 Sm0 3.095285 1_555
+Si1 Sm1 3.157894 1_556
+Si1 Sm1 3.249542 1_546
+Si2 Si3 2.505756 1_555
+Si2 Si3 2.505756 1_455
+Si2 Sm0 2.903857 1_555
+Si2 Sm1 3.020530 1_555
+Si2 Sm1 3.020530 1_455
+Si3 Sm1 2.903857 1_555
+Si3 Sm0 3.020530 1_655
+Si3 Sm0 3.020530 1_555

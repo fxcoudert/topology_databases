@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_LiCaGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90896593
+_cell_length_b   8.02107805
+_cell_length_c   10.70206246
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaGe2
+_chemical_formula_sum   'Li4 Ca4 Ge8'
+_cell_volume   335.55375939
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000000  0.49356196  0.88900391  1
+  Li  Li1  1  0.25000000  0.99356196  0.61099609  1
+  Li  Li2  1  0.75000000  0.50643804  0.11099609  1
+  Li  Li3  1  0.75000000  0.00643804  0.38900391  1
+  Ca  Ca0  1  0.75000000  0.36757310  0.63533307  1
+  Ca  Ca1  1  0.25000000  0.13242690  0.13533307  1
+  Ca  Ca2  1  0.25000000  0.63242690  0.36466693  1
+  Ca  Ca3  1  0.75000000  0.86757310  0.86466693  1
+  Ge  Ge0  1  0.25000000  0.72683987  0.06426884  1
+  Ge  Ge1  1  0.25000000  0.66288357  0.67924235  1
+  Ge  Ge2  1  0.75000000  0.83711643  0.17924235  1
+  Ge  Ge3  1  0.25000000  0.16288357  0.82075765  1
+  Ge  Ge4  1  0.75000000  0.27316013  0.93573116  1
+  Ge  Ge5  1  0.25000000  0.22683987  0.43573116  1
+  Ge  Ge6  1  0.75000000  0.77316013  0.56426884  1
+  Ge  Ge7  1  0.75000000  0.33711643  0.32075765  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ge1 3.106704 1_555
+Ca0 Ge1 3.106704 1_655
+Ca0 Ge5 3.107638 1_655
+Ca0 Ge5 3.107638 1_555
+Ca0 Ge3 3.233196 1_655
+Ca0 Ge3 3.233196 1_555
+Ca0 Ge4 3.302869 1_555
+Ca0 Ge6 3.340960 1_555
+Ca0 Ge7 3.375458 1_555
+Ca1 Ge2 3.106704 1_545
+Ca1 Ge2 3.106704 1_445
+Ca1 Ge4 3.107638 1_554
+Ca1 Ge4 3.107638 1_454
+Ca1 Ge7 3.233196 1_555
+Ca1 Ge7 3.233196 1_455
+Ca1 Ge5 3.302869 1_555
+Ca1 Ge0 3.340960 1_545
+Ca1 Ge3 3.375458 1_554
+Ca2 Ge7 3.106704 1_555
+Ca2 Ge7 3.106704 1_455
+Ca2 Ge6 3.107638 1_555
+Ca2 Ge6 3.107638 1_455
+Ca2 Ge2 3.233196 1_555
+Ca2 Ge2 3.233196 1_455
+Ca2 Ge0 3.302869 1_555
+Ca2 Ge5 3.340960 1_555
+Ca2 Ge1 3.375458 1_555
+Ca3 Ge3 3.106704 1_565
+Ca3 Ge3 3.106704 1_665
+Ca3 Ge0 3.107638 1_556
+Ca3 Ge0 3.107638 1_656
+Ca3 Ge1 3.233196 1_555
+Ca3 Ge1 3.233196 1_655
+Ca3 Ge6 3.302869 1_555
+Ca3 Ge4 3.340960 1_565
+Ca3 Ge2 3.375458 1_556
+Ge0 Ge2 2.473141 1_455
+Ge0 Ge2 2.473141 1_555
+Ge0 Li0 2.649415 1_554
+Ge0 Li2 2.682426 1_455
+Ge0 Li2 2.682426 1_555
+Ge1 Ge6 2.473141 1_455
+Ge1 Ge6 2.473141 1_555
+Ge1 Li0 2.623746 1_555
+Ge1 Li1 2.751120 1_555
+Ge2 Li3 2.623746 1_565
+Ge2 Li2 2.751120 1_555
+Ge3 Ge4 2.473141 1_455
+Ge3 Ge4 2.473141 1_555
+Ge3 Li1 2.623746 1_545
+Ge3 Li0 2.751120 1_555
+Ge4 Li2 2.649415 1_556
+Ge4 Li0 2.682426 1_555
+Ge4 Li0 2.682426 1_655
+Ge5 Ge7 2.473141 1_555
+Ge5 Ge7 2.473141 1_455
+Ge5 Li1 2.649415 1_545
+Ge5 Li3 2.682426 1_455
+Ge5 Li3 2.682426 1_555
+Ge6 Li3 2.649415 1_565
+Ge6 Li1 2.682426 1_555
+Ge6 Li1 2.682426 1_655
+Ge7 Li2 2.623746 1_555
+Ge7 Li3 2.751120 1_555

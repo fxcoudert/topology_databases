@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Li2CuSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01707900
+_cell_length_b   5.41784100
+_cell_length_c   5.54141949
+_cell_angle_alpha   65.85842787
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CuSnO4
+_chemical_formula_sum   'Li2 Cu1 Sn1 O4'
+_cell_volume   82.65797550
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.50000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.00000000  0.23584700  0.22100500  1
+  O  O1  1  0.50000000  0.29747000  0.74575100  1
+  O  O2  1  0.00000000  0.76415300  0.77899500  1
+  O  O3  1  0.50000000  0.70253000  0.25424900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 2.100623 1_544
+Li0 O0 2.100623 1_555
+Li0 O1 2.236232 1_454
+Li0 O1 2.236232 1_554
+Li0 O3 2.236232 1_445
+Li0 O3 2.236232 1_545
+Li1 O2 2.163955 1_545
+Li1 O2 2.163955 1_645
+Li1 O0 2.163955 1_555
+Li1 O0 2.163955 1_655
+Li1 O1 2.499440 1_555
+Li1 O3 2.499440 1_545
+Cu0 O1 2.027790 1_455
+Cu0 O3 2.027790 1_555
+Cu0 O3 2.027790 1_455
+Cu0 O1 2.027790 1_555
+Cu0 O2 2.499644 1_555
+Cu0 O0 2.499644 1_555
+O0 Sn0 2.095238 1_455
+O0 Sn0 2.095238 1_555
+O1 Sn0 2.110350 1_556
+O2 Sn0 2.095238 1_556
+O2 Sn0 2.095238 1_456
+O3 Sn0 2.110350 1_555

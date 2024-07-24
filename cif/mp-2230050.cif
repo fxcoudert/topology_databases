@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_MgFe6(OF)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29770932
+_cell_length_b   5.34074208
+_cell_length_c   8.85921455
+_cell_angle_alpha   87.20145085
+_cell_angle_beta   92.13875070
+_cell_angle_gamma   89.35857335
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFe6(OF)6
+_chemical_formula_sum   'Mg1 Fe6 O6 F6'
+_cell_volume   250.16532404
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.45308700  0.99087600  0.00702300  1
+  Fe  Fe0  1  0.93992800  0.93544900  0.97845800  1
+  Fe  Fe1  1  0.94807400  0.92592300  0.32864100  1
+  Fe  Fe2  1  0.15155800  0.05388200  0.64039200  1
+  Fe  Fe3  1  0.60646800  0.44454500  0.17412500  1
+  Fe  Fe4  1  0.46579400  0.52510900  0.82674100  1
+  Fe  Fe5  1  0.46868800  0.57557100  0.49073700  1
+  O  O0  1  0.23394600  0.85494000  0.47332100  1
+  O  O1  1  0.21226200  0.88398200  0.83161900  1
+  O  O2  1  0.30791500  0.36566500  0.64332900  1
+  O  O3  1  0.65965800  0.67184200  0.00595800  1
+  O  O4  1  0.73225000  0.64266300  0.33829900  1
+  O  O5  1  0.76582600  0.12117100  0.16247100  1
+  F  F0  1  0.20307600  0.85305200  0.16249600  1
+  F  F1  1  0.30317600  0.32473600  0.02616500  1
+  F  F2  1  0.33906700  0.36734600  0.32335500  1
+  F  F3  1  0.68928800  0.68863800  0.65285900  1
+  F  F4  1  0.68624300  0.16674900  0.85606600  1
+  F  F5  1  0.84758700  0.13564300  0.49937800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.015314 1_555
+Mg0 O1 2.079262 1_554
+Mg0 O5 2.252743 1_565
+Fe0 O1 2.003866 1_655
+Fe0 O3 2.070344 1_556
+Fe0 O5 2.177567 1_566
+Fe1 O4 1.906996 1_555
+Fe1 O0 1.968508 1_655
+Fe1 O5 1.976918 1_565
+Fe2 O2 1.868971 1_555
+Fe2 O1 1.897240 1_545
+Fe2 O0 1.923943 1_545
+Fe3 O3 1.906572 1_555
+Fe3 O5 1.922859 1_555
+Fe3 O4 1.942359 1_555
+Fe4 O2 2.028441 1_555
+Fe4 O3 2.051243 1_556
+Fe4 O1 2.331140 1_555
+Fe5 O0 1.928255 1_555
+Fe5 O2 1.941397 1_555
+Fe5 O4 2.001616 1_555
+F0 Mg0 2.062090 1_555
+F0 Fe1 2.082206 1_455
+F0 Fe0 2.131191 1_454
+F1 Mg0 1.961292 1_545
+F1 Fe3 2.158015 1_555
+F1 Fe4 2.226743 1_554
+F2 Fe5 2.002323 1_555
+F2 Fe3 2.006057 1_555
+F3 Fe5 1.941273 1_555
+F3 Fe4 2.136718 1_555
+F4 Mg0 2.055021 1_546
+F4 Fe0 2.056980 1_545
+F4 Fe4 2.230073 1_555
+F5 Fe1 2.009494 1_545
+F5 Fe2 2.031112 1_655

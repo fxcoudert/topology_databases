@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_KAu(CN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59630356
+_cell_length_b   8.59630371
+_cell_length_c   8.59630327
+_cell_angle_alpha   74.29807418
+_cell_angle_beta   74.29807296
+_cell_angle_gamma   74.29807941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAu(CN)2
+_chemical_formula_sum   'K3 Au3 C6 N6'
+_cell_volume   575.20175219
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.77369400  0.77369400  0.77369400  1
+  K  K1  1  0.22630600  0.22630600  0.22630600  1
+  K  K2  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au0  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au2  1  0.00000000  0.00000000  0.50000000  1
+  C  C0  1  0.52737400  0.43173700  0.05644700  1
+  C  C1  1  0.56826300  0.94355300  0.47262600  1
+  C  C2  1  0.43173700  0.05644700  0.52737400  1
+  C  C3  1  0.47262600  0.56826300  0.94355300  1
+  C  C4  1  0.94355300  0.47262600  0.56826300  1
+  C  C5  1  0.05644700  0.52737400  0.43173700  1
+  N  N0  1  0.57063800  0.31141900  0.15134400  1
+  N  N1  1  0.84865600  0.42936200  0.68858100  1
+  N  N2  1  0.42936200  0.68858100  0.84865600  1
+  N  N3  1  0.68858100  0.84865600  0.42936200  1
+  N  N4  1  0.15134400  0.57063800  0.31141900  1
+  N  N5  1  0.31141900  0.15134400  0.57063800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N3 3.097850 1_555
+K0 N2 3.097850 1_555
+K0 N1 3.097850 1_555
+K1 N5 3.097850 1_555
+K1 N0 3.097850 1_555
+K1 N4 3.097850 1_555
+Au0 K0 3.193470 1_454
+Au0 K1 3.193470 1_555
+Au1 K0 3.193470 1_544
+Au1 K1 3.193470 1_555
+Au2 K0 3.193470 1_445
+Au2 K1 3.193470 1_555
+C0 N0 1.171695 1_555
+C1 N3 1.171695 1_555
+C2 N5 1.171695 1_555
+C3 N2 1.171695 1_555
+C4 N1 1.171694 1_555
+C5 N4 1.171694 1_555

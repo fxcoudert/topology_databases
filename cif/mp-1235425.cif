@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_LiNb2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87179943
+_cell_length_b   6.46343400
+_cell_length_c   6.57587650
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.95702626
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNb2(PO5)2
+_chemical_formula_sum   'Li1 Nb2 P2 O10'
+_cell_volume   206.78913763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.09398900  0.25000000  0.92961000  1
+  Nb  Nb0  1  0.23244100  0.75000000  0.74295200  1
+  Nb  Nb1  1  0.77364700  0.25000000  0.26684300  1
+  P  P0  1  0.48915200  0.75000000  0.25469800  1
+  P  P1  1  0.52528100  0.25000000  0.75045800  1
+  O  O0  1  0.67147100  0.55473400  0.26239300  1
+  O  O1  1  0.67147100  0.94526600  0.26239300  1
+  O  O2  1  0.13487600  0.25000000  0.23690600  1
+  O  O3  1  0.87277100  0.75000000  0.73604900  1
+  O  O4  1  0.71006200  0.25000000  0.94830100  1
+  O  O5  1  0.71288300  0.25000000  0.57353800  1
+  O  O6  1  0.30595800  0.75000000  0.43944000  1
+  O  O7  1  0.32595500  0.06382600  0.75562600  1
+  O  O8  1  0.32595500  0.43617400  0.75562600  1
+  O  O9  1  0.31033800  0.75000000  0.05391600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 1.880766 1_455
+Li0 O2 2.020282 1_556
+Li0 O7 2.041433 1_555
+Li0 O8 2.041433 1_555
+Nb0 O3 1.750485 1_455
+Nb0 O6 2.045844 1_555
+Nb0 O9 2.060439 1_556
+Nb0 O7 2.079655 1_565
+Nb0 O8 2.079655 1_555
+Nb1 O2 1.780876 1_655
+Nb1 O1 2.031397 1_545
+Nb1 O0 2.031397 1_555
+Nb1 O5 2.053453 1_555
+Nb1 O4 2.101607 1_554
+O0 P0 1.542637 1_555
+O1 P0 1.542637 1_555
+O4 P1 1.543416 1_555
+O5 P1 1.516092 1_555
+O6 P0 1.544095 1_555
+O7 P1 1.547752 1_555
+O8 P1 1.547752 1_555
+O9 P0 1.543847 1_555

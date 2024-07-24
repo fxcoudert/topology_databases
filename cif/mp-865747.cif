@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Y2MgGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26007530
+_cell_length_b   7.26003598
+_cell_length_c   4.23863442
+_cell_angle_alpha   89.99998641
+_cell_angle_beta   90.00000448
+_cell_angle_gamma   89.99998556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2MgGe2
+_chemical_formula_sum   'Y4 Mg2 Ge4'
+_cell_volume   223.41167194
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.32221235  0.17779780  0.50000193  1
+  Y  Y1  1  0.82222603  0.32218755  0.50000927  1
+  Y  Y2  1  0.17777237  0.67780483  0.50000549  1
+  Y  Y3  1  0.67779033  0.82221214  0.50001085  1
+  Mg  Mg0  1  0.00000397  0.99998028  0.00000890  1
+  Mg  Mg1  1  0.50000120  0.50002049  0.99992083  1
+  Ge  Ge0  1  0.62266353  0.12269208  0.00001202  1
+  Ge  Ge1  1  0.12268598  0.37732813  0.00000610  1
+  Ge  Ge2  1  0.87730929  0.62266373  0.00001496  1
+  Ge  Ge3  1  0.37733296  0.87731197  0.00000565  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ge3 2.519130 1_545
+Ge0 Mg1 2.880532 1_554
+Ge0 Mg0 2.880739 1_645
+Ge0 Y1 2.947591 1_555
+Ge0 Y1 2.947607 1_554
+Ge0 Y0 3.067481 1_555
+Ge0 Y0 3.067540 1_554
+Ge0 Y3 3.067667 1_545
+Ge0 Y3 3.067675 1_544
+Ge1 Ge2 2.519137 1_455
+Ge1 Mg1 2.880522 1_554
+Ge1 Mg0 2.880711 1_545
+Ge1 Y0 2.947581 1_555
+Ge1 Y0 2.947607 1_554
+Ge1 Y1 3.067580 1_454
+Ge1 Y1 3.067599 1_455
+Ge1 Y2 3.067615 1_555
+Ge1 Y2 3.067618 1_554
+Ge2 Mg1 2.880362 1_554
+Ge2 Mg0 2.880523 1_655
+Ge2 Y3 2.947620 1_555
+Ge2 Y3 2.947645 1_554
+Ge2 Y2 3.067578 1_655
+Ge2 Y1 3.067594 1_555
+Ge2 Y1 3.067628 1_554
+Ge2 Y2 3.067634 1_654
+Ge3 Mg1 2.880291 1_554
+Ge3 Mg0 2.880562 1_555
+Ge3 Y2 2.947633 1_555
+Ge3 Y2 2.947635 1_554
+Ge3 Y3 3.067522 1_554
+Ge3 Y3 3.067552 1_555
+Ge3 Y0 3.067685 1_565
+Ge3 Y0 3.067706 1_564

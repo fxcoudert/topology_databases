@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_Sr2FeSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00480800
+_cell_length_b   4.00512000
+_cell_length_c   14.50075100
+_cell_angle_alpha   89.99982329
+_cell_angle_beta   90.00005232
+_cell_angle_gamma   90.00291846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2FeSO3
+_chemical_formula_sum   'Sr4 Fe2 S2 O6'
+_cell_volume   232.58822664
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.75000100  0.16169000  1
+  Sr  Sr1  1  0.25000100  0.24999900  0.83832300  1
+  Sr  Sr2  1  0.75000200  0.75000100  0.40726300  1
+  Sr  Sr3  1  0.25000000  0.25000000  0.59272500  1
+  Fe  Fe0  1  0.24999700  0.25000600  0.29197600  1
+  Fe  Fe1  1  0.75000200  0.74999700  0.70799600  1
+  S  S0  1  0.25000100  0.25000000  0.11054000  1
+  S  S1  1  0.75000000  0.75000000  0.88949100  1
+  O  O0  1  0.75000100  0.25000300  0.28408100  1
+  O  O1  1  0.25000000  0.75000200  0.28408800  1
+  O  O2  1  0.24999900  0.74999600  0.71592000  1
+  O  O3  1  0.74999800  0.24999900  0.71591300  1
+  O  O4  1  0.25000000  0.25000100  0.42455700  1
+  O  O5  1  0.75000000  0.74999900  0.57543800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O4 1.922524 1_555
+Fe0 O0 2.005658 1_455
+Fe0 O0 2.005690 1_555
+Fe0 O1 2.005808 1_555
+Fe0 O1 2.005840 1_545
+Fe0 S0 2.630958 1_555
+Fe1 O5 1.922191 1_555
+Fe1 O2 2.005686 1_655
+Fe1 O2 2.005710 1_555
+Fe1 O3 2.005840 1_555
+Fe1 O3 2.005856 1_565
+Fe1 S1 2.631814 1_555
+S0 Sr0 2.927387 1_445
+S0 Sr0 2.927389 1_555
+S0 Sr0 2.927520 1_545
+S0 Sr0 2.927535 1_455
+S1 Sr1 2.927453 1_665
+S1 Sr1 2.927455 1_555
+S1 Sr1 2.927586 1_565
+S1 Sr1 2.927601 1_655
+O0 Sr0 2.675812 1_555
+O0 Sr0 2.675832 1_545
+O0 Sr2 2.683442 1_555
+O0 Sr2 2.683445 1_545
+O1 Sr0 2.675772 1_455
+O1 Sr0 2.675774 1_555
+O1 Sr2 2.683255 1_455
+O1 Sr2 2.683264 1_555
+O2 Sr1 2.675925 1_555
+O2 Sr1 2.675951 1_565
+O2 Sr3 2.683561 1_555
+O2 Sr3 2.683577 1_565
+O3 Sr1 2.675880 1_555
+O3 Sr1 2.675896 1_655
+O3 Sr3 2.683378 1_555
+O3 Sr3 2.683392 1_655
+O4 Sr3 2.438562 1_555
+O4 Sr2 2.842942 1_445
+O4 Sr2 2.842952 1_555
+O4 Sr2 2.843084 1_455
+O4 Sr2 2.843097 1_545
+O5 Sr2 2.438664 1_555
+O5 Sr3 2.842935 1_555
+O5 Sr3 2.842941 1_665
+O5 Sr3 2.843078 1_655
+O5 Sr3 2.843085 1_565

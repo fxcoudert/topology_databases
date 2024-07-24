@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba(Cu2As)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22776420
+_cell_length_b   4.22776420
+_cell_length_c   8.60432523
+_cell_angle_alpha   75.77816710
+_cell_angle_beta   75.77816710
+_cell_angle_gamma   59.99999694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(Cu2As)2
+_chemical_formula_sum   'Ba1 Cu4 As2'
+_cell_volume   127.71751468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.44341700  0.44341700  0.66974900  1
+  Cu  Cu1  1  0.14443100  0.14443100  0.56670700  1
+  Cu  Cu2  1  0.55658300  0.55658300  0.33025100  1
+  Cu  Cu3  1  0.85556900  0.85556900  0.43329300  1
+  As  As0  1  0.24364400  0.24364400  0.26906800  1
+  As  As1  1  0.75635600  0.75635600  0.73093200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cu1 2.455773 1_555
+As0 Cu2 2.492555 1_455
+As0 Cu2 2.492555 1_545
+As0 Cu2 2.492555 1_555
+As0 Cu3 2.791775 1_445
+As0 Cu3 2.791775 1_455
+As0 Cu3 2.791775 1_545
+As0 Ba0 3.299479 1_655
+As0 Ba0 3.299479 1_565
+As0 Ba0 3.299480 1_555
+As1 Cu3 2.455773 1_555
+As1 Cu0 2.492555 1_655
+As1 Cu0 2.492555 1_565
+As1 Cu0 2.492555 1_555
+As1 Cu1 2.791775 1_665
+As1 Cu1 2.791775 1_565
+As1 Cu1 2.791775 1_655
+As1 Ba0 3.299479 1_656
+As1 Ba0 3.299479 1_566
+As1 Ba0 3.299480 1_666

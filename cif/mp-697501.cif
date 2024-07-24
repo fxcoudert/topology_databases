@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_VH2SeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14342500
+_cell_length_b   6.28762334
+_cell_length_c   6.44461629
+_cell_angle_alpha   92.10613347
+_cell_angle_beta   101.25823747
+_cell_angle_gamma   117.87799429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VH2SeO5
+_chemical_formula_sum   'V2 H4 Se2 O10'
+_cell_volume   213.44797468
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.72234800  0.70820500  0.68920600  1
+  V  V1  1  0.27765200  0.29179500  0.31079400  1
+  H  H0  1  0.79506900  0.28949300  0.57755700  1
+  H  H1  1  0.20493100  0.71050700  0.42244300  1
+  H  H2  1  0.99033300  0.42320600  0.79767200  1
+  H  H3  1  0.00966700  0.57679400  0.20232800  1
+  Se  Se0  1  0.66195200  0.80821700  0.15789900  1
+  Se  Se1  1  0.33804800  0.19178300  0.84210100  1
+  O  O0  1  0.61188800  0.89999600  0.70684200  1
+  O  O1  1  0.38811200  0.10000400  0.29315800  1
+  O  O2  1  0.85959700  0.43020400  0.68677100  1
+  O  O3  1  0.14040300  0.56979600  0.31322900  1
+  O  O4  1  0.79472700  0.68282000  0.01024500  1
+  O  O5  1  0.20527300  0.31718000  0.98975500  1
+  O  O6  1  0.90774400  0.07282300  0.29812000  1
+  O  O7  1  0.09225600  0.92717700  0.70188000  1
+  O  O8  1  0.62490700  0.61301200  0.36105500  1
+  O  O9  1  0.37509300  0.38698800  0.63894500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O2 0.976009 1_555
+H1 O3 0.976009 1_555
+H2 O2 0.984404 1_555
+H3 O3 0.984404 1_555
+O0 V0 1.647109 1_555
+O1 V1 1.647109 1_555
+O2 V0 2.268930 1_555
+O3 V1 2.268930 1_555
+O4 Se0 1.744097 1_555
+O4 V0 2.057977 1_554
+O5 Se1 1.744097 1_555
+O5 V1 2.057977 1_556
+O6 Se0 1.694711 1_545
+O6 V1 2.014896 1_655
+O7 Se1 1.694711 1_565
+O7 V0 2.014896 1_455
+O8 Se0 1.801568 1_555
+O8 V0 2.065570 1_555
+O8 V1 2.094731 1_555
+O9 Se1 1.801568 1_555
+O9 V1 2.065570 1_555
+O9 V0 2.094731 1_555

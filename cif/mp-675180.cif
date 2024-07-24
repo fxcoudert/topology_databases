@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ErCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05189061
+_cell_length_b   4.05189039
+_cell_length_c   6.36567710
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCuSe2
+_chemical_formula_sum   'Er1 Cu1 Se2'
+_cell_volume   90.50877072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  -0.00000000  0.48775732  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.87188527  1
+  Se  Se0  1  0.33333300  0.66666700  0.75902894  1
+  Se  Se1  1  0.66666700  0.33333300  0.25332848  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Se1 2.774806 1_455
+Er0 Se1 2.774809 1_445
+Er0 Se1 2.774809 1_555
+Er0 Se0 2.907667 1_545
+Er0 Se0 2.907670 1_555
+Er0 Se0 2.907670 1_445
+Cu0 Se1 2.428144 1_556
+Cu0 Se0 2.447183 1_545
+Cu0 Se0 2.447183 1_655
+Cu0 Se0 2.447189 1_555

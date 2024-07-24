@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_YFe2Bi2(SeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.91988335
+_cell_length_b   12.91988335
+_cell_length_c   12.91988335
+_cell_angle_alpha   162.36270020
+_cell_angle_beta   162.36270020
+_cell_angle_gamma   25.04342190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YFe2Bi2(SeO2)2
+_chemical_formula_sum   'Y1 Fe2 Bi2 Se2 O4'
+_cell_volume   197.92814843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.75000000  0.25000000  0.50000000  1
+  Fe  Fe1  1  0.25000000  0.75000000  0.50000000  1
+  Bi  Bi0  1  0.40154500  0.40154500  0.00000000  1
+  Bi  Bi1  1  0.59845500  0.59845500  0.00000000  1
+  Se  Se0  1  0.81524500  0.81524500  0.00000000  1
+  Se  Se1  1  0.18475500  0.18475500  0.00000000  1
+  O  O0  1  0.05475700  0.55475700  0.50000000  1
+  O  O1  1  0.44524300  0.94524300  0.50000000  1
+  O  O2  1  0.55475700  0.05475700  0.50000000  1
+  O  O3  1  0.94524300  0.44524300  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Se0 2.575255 1_545
+Fe0 Se1 2.575255 1_555
+Fe0 Se1 2.575255 1_656
+Fe0 Se0 2.575255 1_556
+Fe1 Se1 2.575255 1_555
+Fe1 Se0 2.575255 1_556
+Fe1 Se1 2.575255 1_566
+Fe1 Se0 2.575255 1_455
+Bi0 O1 2.266775 1_555
+Bi0 O3 2.266775 1_555
+Bi0 O1 2.266775 1_544
+Bi0 O3 2.266775 1_454
+Bi1 O2 2.266775 1_565
+Bi1 O2 2.266775 1_554
+Bi1 O0 2.266775 1_554
+Bi1 O0 2.266775 1_655
+O0 Y0 2.414765 1_555
+O0 Y0 2.414765 1_566
+O1 Y0 2.414765 1_666
+O1 Y0 2.414765 1_565
+O2 Y0 2.414765 1_656
+O2 Y0 2.414765 1_555
+O3 Y0 2.414765 1_666
+O3 Y0 2.414765 1_655

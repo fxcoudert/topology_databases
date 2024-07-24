@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_ZrSiMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52482768
+_cell_length_b   6.98762046
+_cell_length_c   8.21927915
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSiMo
+_chemical_formula_sum   'Zr4 Si4 Mo4'
+_cell_volume   202.44214423
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.25000000  0.04300909  0.33204892  1
+  Zr  Zr1  1  0.25000000  0.54300909  0.16795108  1
+  Zr  Zr2  1  0.75000000  0.95699091  0.66795008  1
+  Zr  Zr3  1  0.75000000  0.45699091  0.83204992  1
+  Si  Si0  1  0.25000000  0.25705752  0.63692935  1
+  Si  Si1  1  0.25000000  0.75705752  0.86307065  1
+  Si  Si2  1  0.75000000  0.74294248  0.36307065  1
+  Si  Si3  1  0.75000000  0.24294248  0.13692935  1
+  Mo  Mo0  1  0.25000000  0.13119411  0.93899838  1
+  Mo  Mo1  1  0.25000000  0.63119411  0.56100162  1
+  Mo  Mo2  1  0.75000000  0.86880589  0.06100162  1
+  Mo  Mo3  1  0.75000000  0.36880589  0.43899838  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Zr2 2.750905 1_445
+Si0 Zr2 2.750905 1_545
+Si0 Zr3 2.762226 1_455
+Si0 Zr3 2.762226 1_555
+Si0 Zr0 2.918323 1_555
+Si1 Zr3 2.750905 1_455
+Si1 Zr3 2.750905 1_555
+Si1 Zr2 2.762226 1_555
+Si1 Zr2 2.762226 1_455
+Si1 Zr1 2.918323 1_556
+Si2 Zr0 2.750906 1_565
+Si2 Zr0 2.750906 1_665
+Si2 Zr1 2.762221 1_655
+Si2 Zr1 2.762221 1_555
+Si2 Zr2 2.918316 1_555
+Si3 Zr1 2.750906 1_555
+Si3 Zr1 2.750906 1_655
+Si3 Zr0 2.762221 1_655
+Si3 Zr0 2.762221 1_555
+Si3 Zr3 2.918316 1_554
+Mo0 Si3 2.522395 1_456
+Mo0 Si3 2.522395 1_556
+Mo0 Si0 2.633959 1_555
+Mo0 Si1 2.687779 1_545
+Mo0 Zr3 3.010227 1_455
+Mo0 Zr3 3.010227 1_555
+Mo0 Zr2 3.090474 1_545
+Mo0 Zr2 3.090474 1_445
+Mo1 Si2 2.522395 1_555
+Mo1 Si2 2.522395 1_455
+Mo1 Si1 2.633959 1_555
+Mo1 Si0 2.687779 1_555
+Mo1 Zr2 3.010227 1_455
+Mo1 Zr2 3.010227 1_555
+Mo1 Zr3 3.090474 1_455
+Mo1 Zr3 3.090474 1_555
+Mo2 Si1 2.522395 1_554
+Mo2 Si1 2.522395 1_654
+Mo2 Si2 2.633959 1_555
+Mo2 Si3 2.687779 1_565
+Mo2 Zr1 3.010229 1_655
+Mo2 Zr1 3.010229 1_555
+Mo2 Zr0 3.090468 1_665
+Mo2 Zr0 3.090468 1_565
+Mo3 Si0 2.522395 1_555
+Mo3 Si0 2.522395 1_655
+Mo3 Si3 2.633959 1_555
+Mo3 Si2 2.687779 1_555
+Mo3 Zr0 3.010229 1_655
+Mo3 Zr0 3.010229 1_555
+Mo3 Zr1 3.090468 1_655
+Mo3 Zr1 3.090468 1_555

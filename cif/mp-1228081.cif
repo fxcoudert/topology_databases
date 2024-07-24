@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_BaHgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69375337
+_cell_length_b   6.69375337
+_cell_length_c   8.58518631
+_cell_angle_alpha   50.49590975
+_cell_angle_beta   50.49590975
+_cell_angle_gamma   46.98268195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHgPb
+_chemical_formula_sum   'Ba2 Hg2 Pb2'
+_cell_volume   202.59660132
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.45743874  0.45743874  0.29703461  1
+  Ba  Ba1  1  0.54256126  0.54256126  0.70296539  1
+  Hg  Hg0  1  0.83942437  0.83942437  0.70897011  1
+  Hg  Hg1  1  0.16057563  0.16057563  0.29102989  1
+  Pb  Pb0  1  0.16242884  0.16242884  0.90703815  1
+  Pb  Pb1  1  0.83757116  0.83757116  0.09296185  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pb0 3.601956 1_654
+Ba0 Pb0 3.601956 1_564
+Ba0 Hg1 3.628243 1_655
+Ba0 Hg1 3.628243 1_565
+Ba0 Pb1 3.675488 1_555
+Ba0 Hg1 3.680816 1_555
+Ba0 Pb0 3.772435 1_555
+Ba0 Hg0 3.823249 1_545
+Ba0 Hg0 3.823249 1_455
+Ba0 Hg0 3.825916 1_554
+Ba0 Pb1 3.991460 1_455
+Ba0 Pb1 3.991460 1_545
+Ba1 Pb1 3.601956 1_546
+Ba1 Pb1 3.601956 1_456
+Ba1 Hg0 3.628243 1_455
+Ba1 Hg0 3.628243 1_545
+Ba1 Pb0 3.675488 1_555
+Ba1 Hg0 3.680816 1_555
+Ba1 Pb1 3.772435 1_555
+Ba1 Hg1 3.823249 1_655
+Ba1 Hg1 3.823249 1_565
+Ba1 Hg1 3.825916 1_556
+Ba1 Pb0 3.991460 1_655
+Ba1 Pb0 3.991460 1_565
+Hg0 Hg1 2.965708 1_665
+Hg0 Pb0 3.099528 1_655
+Hg0 Pb0 3.099528 1_565
+Hg0 Pb1 3.280899 1_556
+Hg1 Pb1 3.099528 1_545
+Hg1 Pb1 3.099528 1_455
+Hg1 Pb0 3.280899 1_554
+Pb0 Pb1 3.102375 1_446

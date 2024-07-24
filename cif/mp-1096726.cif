@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaNa2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.78888756
+_cell_length_b   14.15047192
+_cell_length_c   14.15047167
+_cell_angle_alpha   61.51983193
+_cell_angle_beta   60.83875433
+_cell_angle_gamma   60.83875065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2Sn
+_chemical_formula_sum   'Ba1 Na2 Sn1'
+_cell_volume   1999.00762646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  -0.00000000  -0.00000000  1
+  Na  Na0  1  0.78397841  0.99999992  -0.00000008  1
+  Na  Na1  1  0.21602159  0.00000008  0.00000008  1
+  Sn  Sn0  1  -0.00000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Na1 3.915745 1_555
+Ba0 Na0 3.915745 1_545
+Na0 Sn0 2.978699 1_665
+Na1 Sn0 2.978699 1_555

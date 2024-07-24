@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_V2Te2O7F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95646300
+_cell_length_b   5.34098235
+_cell_length_c   7.31902056
+_cell_angle_alpha   108.82306376
+_cell_angle_beta   91.38055953
+_cell_angle_gamma   89.83058992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2Te2O7F2
+_chemical_formula_sum   'V2 Te2 O7 F2'
+_cell_volume   183.33433769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.76122500  0.34562800  0.36357000  1
+  V  V1  1  0.23877500  0.65437200  0.63643000  1
+  Te  Te0  1  0.72234100  0.31488700  0.82514300  1
+  Te  Te1  1  0.27765900  0.68511300  0.17485700  1
+  O  O0  1  0.13185300  0.94971400  0.76525900  1
+  O  O1  1  0.07545000  0.59120800  0.37241800  1
+  O  O2  1  0.86814700  0.05028600  0.23474100  1
+  O  O3  1  0.47713800  0.60585500  0.85922800  1
+  O  O4  1  0.52286200  0.39414500  0.14077200  1
+  O  O5  1  0.92455000  0.40879200  0.62758200  1
+  O  O6  1  0.00000000  0.50000000  0.00000000  1
+  F  F0  1  0.43880100  0.26290600  0.49023600  1
+  F  F1  1  0.56119900  0.73709400  0.50976400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 V1 1.648489 1_555
+O1 Te1 1.971698 1_555
+O1 V1 2.002131 1_555
+O1 V0 2.025495 1_455
+O2 V0 1.648489 1_555
+O3 Te0 1.925523 1_555
+O3 V1 2.073652 1_555
+O3 Te1 2.443324 1_556
+O4 Te1 1.925523 1_555
+O4 V0 2.073652 1_555
+O4 Te0 2.443324 1_554
+O5 Te0 1.971698 1_555
+O5 V0 2.002131 1_555
+O5 V1 2.025495 1_655
+O6 Te1 1.901571 1_555
+O6 Te0 1.901571 1_454
+F0 V0 1.987059 1_555
+F0 V1 2.257109 1_555
+F1 V1 1.987059 1_555
+F1 V0 2.257109 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Fe4Te3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64211000
+_cell_length_b   7.38833815
+_cell_length_c   7.38833815
+_cell_angle_alpha   59.25641896
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Te3Se
+_chemical_formula_sum   'Fe4 Te3 Se1'
+_cell_volume   170.87326532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.25338600  0.75338600  1
+  Fe  Fe1  1  0.50000000  0.75129400  0.25129400  1
+  Fe  Fe2  1  0.00000000  0.00613900  0.99882700  1
+  Fe  Fe3  1  0.00000000  0.49882700  0.50613900  1
+  Te  Te0  1  0.00000000  0.89279800  0.39279800  1
+  Te  Te1  1  0.50000000  0.35902200  0.36100400  1
+  Te  Te2  1  0.50000000  0.86100400  0.85902200  1
+  Se  Se0  1  0.00000000  0.37752900  0.87752900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Se0 2.420518 1_655
+Fe0 Se0 2.420518 1_555
+Fe0 Fe2 2.560246 1_555
+Fe0 Fe2 2.560246 1_655
+Fe0 Fe3 2.560246 1_555
+Fe0 Fe3 2.560246 1_655
+Fe0 Te1 2.588500 1_555
+Fe0 Te2 2.588500 1_545
+Fe1 Te0 2.572897 1_655
+Fe1 Te0 2.572897 1_555
+Fe1 Te2 2.579723 1_554
+Fe1 Te1 2.579723 1_555
+Fe1 Fe3 2.598088 1_655
+Fe1 Fe3 2.598088 1_555
+Fe1 Fe2 2.598088 1_564
+Fe1 Fe2 2.598088 1_664
+Fe2 Se0 2.412109 1_555
+Fe2 Te2 2.581751 1_445
+Fe2 Te2 2.581751 1_545
+Fe2 Te0 2.584929 1_546
+Fe3 Se0 2.412109 1_555
+Fe3 Te1 2.581751 1_555
+Fe3 Te1 2.581751 1_455
+Fe3 Te0 2.584929 1_555

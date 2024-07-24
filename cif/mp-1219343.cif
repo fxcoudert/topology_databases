@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_ScCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40689718
+_cell_length_b   7.40689718
+_cell_length_c   6.72292949
+_cell_angle_alpha   63.74875007
+_cell_angle_beta   63.74875007
+_cell_angle_gamma   30.53803810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuSe2
+_chemical_formula_sum   'Sc2 Cu2 Se4'
+_cell_volume   166.54951051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.24275521  0.24275521  0.76535064  1
+  Sc  Sc1  1  0.75724479  0.75724479  0.23464936  1
+  Cu  Cu0  1  0.56088664  0.56088664  0.10340295  1
+  Cu  Cu1  1  0.43911336  0.43911336  0.89659705  1
+  Se  Se0  1  0.62976088  0.62976088  0.69525814  1
+  Se  Se1  1  0.12693757  0.12693757  0.21279014  1
+  Se  Se2  1  0.37023912  0.37023912  0.30474186  1
+  Se  Se3  1  0.87306243  0.87306243  0.78720986  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Se1 2.687500 1_556
+Sc0 Se0 2.707815 1_545
+Sc0 Se0 2.707815 1_455
+Sc0 Se3 2.746862 1_545
+Sc0 Se3 2.746862 1_455
+Sc0 Se2 2.781194 1_555
+Sc1 Se3 2.687500 1_554
+Sc1 Se2 2.707815 1_565
+Sc1 Se2 2.707815 1_655
+Sc1 Se1 2.746862 1_565
+Sc1 Se1 2.746862 1_655
+Sc1 Se0 2.781194 1_555
+Cu0 Se1 2.423481 1_565
+Cu0 Se1 2.423481 1_655
+Cu0 Se2 2.423524 1_555
+Cu0 Se0 2.453847 1_554
+Cu1 Se3 2.423481 1_545
+Cu1 Se3 2.423481 1_455
+Cu1 Se0 2.423524 1_555
+Cu1 Se2 2.453847 1_556

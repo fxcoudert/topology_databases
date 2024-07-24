@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CsFeNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31134108
+_cell_length_b   7.31134108
+_cell_length_c   7.31134108
+_cell_angle_alpha   120.47862274
+_cell_angle_beta   119.43393104
+_cell_angle_gamma   90.07812521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeNiF6
+_chemical_formula_sum   'Cs2 Fe2 Ni2 F12'
+_cell_volume   276.51428425
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.86860249  0.61860249  0.25000000  1
+  Cs  Cs1  1  0.13139751  0.38139751  0.75000000  1
+  Fe  Fe0  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  -0.00000000  0.00000000  0.00000000  1
+  Ni  Ni0  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.50000000  1
+  F  F0  1  0.81709695  0.06709695  0.75000000  1
+  F  F1  1  0.42602321  0.67602321  0.75000000  1
+  F  F2  1  0.82367124  0.68659273  0.75608752  1
+  F  F3  1  0.43050421  0.06758272  0.74391248  1
+  F  F4  1  0.82367124  0.06758272  0.13707851  1
+  F  F5  1  0.43050421  0.68659273  0.36292149  1
+  F  F6  1  0.18290305  0.93290305  0.25000000  1
+  F  F7  1  0.57397679  0.32397679  0.25000000  1
+  F  F8  1  0.17632876  0.31340727  0.24391248  1
+  F  F9  1  0.56949579  0.93241728  0.25608752  1
+  F  F10  1  0.17632876  0.93241728  0.86292149  1
+  F  F11  1  0.56949579  0.31340727  0.63707851  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 F7 3.044293 1_555
+Cs0 F8 3.170874 1_655
+Cs0 F11 3.170874 1_554
+Cs0 F10 3.170874 1_655
+Cs0 F9 3.170874 1_555
+Cs0 F6 3.247588 1_655
+Cs1 F1 3.044293 1_555
+Cs1 F2 3.170874 1_455
+Cs1 F5 3.170874 1_556
+Cs1 F4 3.170874 1_455
+Cs1 F3 3.170874 1_555
+Cs1 F0 3.247588 1_455
+F0 Fe1 1.969511 1_656
+F0 Fe0 1.969511 1_555
+F1 Ni0 1.969020 1_566
+F1 Ni1 1.969020 1_555
+F2 Fe1 1.918311 1_666
+F2 Ni1 2.003048 1_555
+F3 Fe0 1.918318 1_555
+F3 Ni0 2.003041 1_556
+F4 Fe1 1.918311 1_655
+F4 Ni0 2.003048 1_555
+F5 Fe0 1.918311 1_565
+F5 Ni1 2.003048 1_555
+F6 Fe0 1.969511 1_565
+F6 Fe1 1.969511 1_565
+F7 Ni1 1.969020 1_555
+F7 Ni0 1.969020 1_555
+F8 Fe1 1.918311 1_555
+F8 Ni1 2.003048 1_555
+F9 Fe0 1.918318 1_565
+F9 Ni0 2.003041 1_565
+F10 Fe1 1.918311 1_566
+F10 Ni0 2.003048 1_566
+F11 Fe0 1.918311 1_555
+F11 Ni1 2.003048 1_555

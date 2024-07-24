@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BiTePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72155484
+_cell_length_b   6.72175682
+_cell_length_c   6.72144940
+_cell_angle_alpha   90.02579530
+_cell_angle_beta   90.00662758
+_cell_angle_gamma   89.97864556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiTePt
+_chemical_formula_sum   'Bi4 Te4 Pt4'
+_cell_volume   303.67944642
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.36897828  0.36889245  0.36895353  1
+  Bi  Bi1  1  0.13108649  0.63108504  0.86892621  1
+  Bi  Bi2  1  0.86892099  0.13104466  0.63101812  1
+  Bi  Bi3  1  0.63107777  0.86897836  0.13109929  1
+  Te  Te0  1  0.62650291  0.62646125  0.62643564  1
+  Te  Te1  1  0.87343825  0.37342534  0.12655943  1
+  Te  Te2  1  0.12641946  0.87360176  0.37355871  1
+  Te  Te3  1  0.37351120  0.12652886  0.87345997  1
+  Pt  Pt0  1  0.00451839  0.00449383  0.00445370  1
+  Pt  Pt1  1  0.49549189  0.99547012  0.50453618  1
+  Pt  Pt2  1  0.50449815  0.49553920  0.99551381  1
+  Pt  Pt3  1  0.99555421  0.50447811  0.49548541  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Pt3 2.802152 1_455
+Bi0 Pt1 2.802548 1_545
+Bi0 Pt2 2.803186 1_554
+Bi0 Te0 2.997949 1_555
+Bi1 Pt0 2.801786 1_566
+Bi1 Pt2 2.802177 1_555
+Bi1 Pt3 2.802263 1_455
+Bi1 Te1 3.000499 1_456
+Bi2 Pt1 2.802489 1_545
+Bi2 Pt0 2.802740 1_656
+Bi2 Pt3 2.803382 1_555
+Bi2 Te2 2.996757 1_645
+Bi3 Pt1 2.802105 1_555
+Bi3 Pt2 2.802623 1_554
+Bi3 Pt0 2.803188 1_665
+Bi3 Te3 2.998805 1_564
+Pt0 Te1 2.756141 1_455
+Pt0 Te2 2.757059 1_545
+Pt0 Te3 2.757207 1_554
+Pt1 Te3 2.755937 1_565
+Pt1 Te0 2.756652 1_555
+Pt1 Te2 2.756901 1_555
+Pt2 Te1 2.756424 1_556
+Pt2 Te3 2.756844 1_555
+Pt2 Te0 2.757534 1_555
+Pt3 Te1 2.756233 1_555
+Pt3 Te0 2.756578 1_555
+Pt3 Te2 2.757739 1_655

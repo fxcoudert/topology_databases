@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_CaH2F4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55549198
+_cell_length_b   5.75326697
+_cell_length_c   5.95351829
+_cell_angle_alpha   76.98143369
+_cell_angle_beta   62.18797092
+_cell_angle_gamma   61.13077273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH2F4
+_chemical_formula_sum   'Ca2 H4 F8'
+_cell_volume   147.38981985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12500000  0.25000000  0.75000000  1
+  Ca  Ca1  1  0.87500000  0.75000000  0.25000000  1
+  H  H0  1  0.25569262  0.75000000  0.48861475  1
+  H  H1  1  0.49430738  0.75000000  0.01138525  1
+  H  H2  1  0.74430738  0.25000000  0.51138525  1
+  H  H3  1  0.50569262  0.25000000  0.98861475  1
+  F  F0  1  0.16458705  0.61149592  0.48595370  1
+  F  F1  1  0.26203567  0.88850408  0.01404630  1
+  F  F2  1  0.72391803  0.61149592  0.01404630  1
+  F  F3  1  0.34945825  0.88850408  0.48595370  1
+  F  F4  1  0.83541295  0.38850408  0.51404630  1
+  F  F5  1  0.73796433  0.11149592  0.98595370  1
+  F  F6  1  0.27608197  0.38850408  0.98595370  1
+  F  F7  1  0.65054175  0.11149592  0.51404630  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F2 2.343316 1_456
+Ca0 F1 2.343316 1_546
+Ca0 F0 2.343318 1_555
+Ca0 F3 2.343319 1_545
+Ca0 F5 2.358638 1_455
+Ca0 F6 2.358638 1_555
+Ca0 F4 2.358642 1_455
+Ca0 F7 2.358646 1_555
+Ca1 F6 2.343316 1_654
+Ca1 F5 2.343316 1_564
+Ca1 F4 2.343318 1_555
+Ca1 F7 2.343319 1_565
+Ca1 F1 2.358638 1_655
+Ca1 F2 2.358638 1_555
+Ca1 F0 2.358642 1_655
+Ca1 F3 2.358646 1_555
+F0 H0 1.137549 1_555
+F1 H1 1.137553 1_555
+F2 H1 1.137553 1_555
+F3 H0 1.137544 1_555
+F4 H2 1.137549 1_555
+F5 H3 1.137553 1_555
+F6 H3 1.137553 1_555
+F7 H2 1.137544 1_555

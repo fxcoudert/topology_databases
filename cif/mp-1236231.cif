@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_LiZn2(FeO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23670289
+_cell_length_b   6.23670270
+_cell_length_c   6.26232910
+_cell_angle_alpha   57.45591347
+_cell_angle_beta   57.45591305
+_cell_angle_gamma   56.77849243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZn2(FeO2)4
+_chemical_formula_sum   'Li1 Zn2 Fe4 O8'
+_cell_volume   161.23470003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12500000  0.12500000  0.12500000  1
+  Zn  Zn0  1  0.12500000  0.62500000  0.62500000  1
+  Zn  Zn1  1  0.62500000  0.12500000  0.62500000  1
+  Fe  Fe0  1  0.97511000  0.97510900  0.98863800  1
+  Fe  Fe1  1  0.27489000  0.27489100  0.26136200  1
+  Fe  Fe2  1  0.62500000  0.62500000  0.12500000  1
+  Fe  Fe3  1  0.62500000  0.62500000  0.62500000  1
+  O  O0  1  0.39411400  0.39411400  0.38877600  1
+  O  O1  1  0.37887900  0.37887900  0.87940600  1
+  O  O2  1  0.37960400  0.88247900  0.35541100  1
+  O  O3  1  0.88247800  0.37960700  0.35541000  1
+  O  O4  1  0.36752200  0.87039300  0.89459000  1
+  O  O5  1  0.87039600  0.36752100  0.89458900  1
+  O  O6  1  0.87112100  0.87112100  0.37059400  1
+  O  O7  1  0.85588600  0.85588600  0.86122400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 2.091987 1_545
+Li0 O5 2.091987 1_454
+Li0 O4 2.091996 1_544
+Li0 O3 2.091996 1_455
+Li0 O6 2.210561 1_445
+Li0 O1 2.210561 1_554
+Fe0 O7 1.903916 1_555
+Fe0 O6 1.919747 1_556
+Fe0 O4 1.968404 1_655
+Fe0 O5 1.968405 1_565
+Fe1 O0 1.903916 1_555
+Fe1 O1 1.919747 1_554
+Fe1 O3 1.968404 1_455
+Fe1 O2 1.968405 1_545
+Fe2 O0 2.007336 1_555
+Fe2 O7 2.007336 1_554
+Fe2 O4 2.104029 1_554
+Fe2 O3 2.104029 1_555
+Fe2 O2 2.104036 1_555
+Fe2 O5 2.104036 1_554
+Fe3 O1 2.137788 1_555
+Fe3 O6 2.137788 1_555
+Fe3 O3 2.222900 1_555
+Fe3 O4 2.222900 1_555
+Fe3 O5 2.222908 1_555
+Fe3 O2 2.222908 1_555
+O0 Zn0 2.012745 1_555
+O0 Zn1 2.012745 1_555
+O1 Zn1 2.195722 1_555
+O1 Zn0 2.195723 1_555
+O2 Zn0 2.223346 1_555
+O3 Zn1 2.223354 1_555
+O4 Zn1 2.223354 1_565
+O5 Zn0 2.223346 1_655
+O6 Zn1 2.195722 1_565
+O6 Zn0 2.195723 1_655
+O7 Zn0 2.012745 1_655
+O7 Zn1 2.012745 1_565

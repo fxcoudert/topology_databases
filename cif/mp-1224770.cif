@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Fe3NiAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43333355
+_cell_length_b   5.22539320
+_cell_length_c   5.88029652
+_cell_angle_alpha   89.64379290
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3NiAs4
+_chemical_formula_sum   'Fe3 Ni1 As4'
+_cell_volume   105.49352559
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.99761883  0.20008962  1
+  Fe  Fe1  1  0.00000000  0.50017430  0.70952895  1
+  Fe  Fe2  1  0.00000000  0.99986268  0.79717271  1
+  Ni  Ni0  1  0.50000000  0.49992659  0.29899384  1
+  As  As0  1  0.50000000  0.70822691  0.90887931  1
+  As  As1  1  0.50000000  0.19513339  0.58610191  1
+  As  As2  1  -0.00000000  0.29130470  0.07889124  1
+  As  As3  1  0.00000000  0.80775260  0.42034243  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Fe0 2.291556 1_556
+As0 Fe1 2.349222 1_555
+As0 Fe1 2.349222 1_655
+As0 Fe2 2.385012 1_555
+As0 Fe2 2.385012 1_655
+As0 Ni0 2.532995 1_556
+As1 Ni0 2.313750 1_555
+As1 Fe2 2.347940 1_545
+As1 Fe2 2.347940 1_645
+As1 Fe1 2.455362 1_555
+As1 Fe1 2.455362 1_655
+As1 Fe0 2.499327 1_545
+As2 Fe2 2.257183 1_544
+As2 Fe0 2.407558 1_545
+As2 Fe0 2.407558 1_445
+As2 Ni0 2.414126 1_455
+As2 Ni0 2.414126 1_555
+As2 Fe1 2.424695 1_554
+As3 Fe1 2.332568 1_555
+As3 Fe0 2.364889 1_555
+As3 Fe0 2.364889 1_455
+As3 Fe2 2.438334 1_555
+As3 Ni0 2.461240 1_455
+As3 Ni0 2.461240 1_555

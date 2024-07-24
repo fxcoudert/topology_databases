@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CdI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28880449
+_cell_length_b   4.28880441
+_cell_length_c   43.28772522
+_cell_angle_alpha   90.01644171
+_cell_angle_beta   89.98357514
+_cell_angle_gamma   119.99921802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdI2
+_chemical_formula_sum   'Cd6 I12'
+_cell_volume   689.55876664
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00008886  -0.00008886  0.54184717  1
+  Cd  Cd1  1  0.33349117  0.66650883  0.70815232  1
+  Cd  Cd2  1  -0.00002921  0.00002921  0.87501850  1
+  Cd  Cd3  1  0.66699119  0.33300881  0.04173463  1
+  Cd  Cd4  1  0.66662444  0.33337656  0.37486667  1
+  Cd  Cd5  1  -0.00002061  0.00002061  0.20833945  1
+  I  I0  1  0.33358370  0.66641630  0.08152381  1
+  I  I1  1  0.66639114  0.33360886  0.83527967  1
+  I  I2  1  -0.00040125  0.00040125  0.33517954  1
+  I  I3  1  0.33278538  0.66721462  0.91484374  1
+  I  I4  1  0.33338813  0.66661187  0.58153970  1
+  I  I5  1  0.00064836  -0.00064836  0.00196624  1
+  I  I6  1  0.66672195  0.33327805  0.66842503  1
+  I  I7  1  0.66723093  0.33276907  0.50208303  1
+  I  I8  1  0.33324715  0.66675285  0.41463756  1
+  I  I9  1  0.33269130  0.66730870  0.24810019  1
+  I  I10  1  0.00027874  -0.00027874  0.74787416  1
+  I  I11  1  0.66628664  0.33371336  0.16858960  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 I7 3.013212 1_455
+Cd0 I4 3.013769 1_555
+Cd0 I4 3.013769 1_445
+Cd0 I4 3.014134 1_545
+Cd0 I7 3.016884 1_445
+Cd0 I7 3.016885 1_555
+Cd1 I10 3.013393 1_565
+Cd1 I6 3.013640 1_555
+Cd1 I10 3.015225 1_665
+Cd1 I10 3.015226 1_555
+Cd1 I6 3.015304 1_455
+Cd1 I6 3.015304 1_565
+Cd2 I1 3.014057 1_445
+Cd2 I1 3.014058 1_555
+Cd2 I3 3.014460 1_545
+Cd2 I1 3.016989 1_455
+Cd2 I3 3.018526 1_555
+Cd2 I3 3.018526 1_445
+Cd3 I5 3.015019 1_555
+Cd3 I5 3.015019 1_665
+Cd3 I0 3.016246 1_555
+Cd3 I0 3.016294 1_655
+Cd3 I0 3.016294 1_545
+Cd3 I5 3.017255 1_655
+Cd4 I2 3.011087 1_655
+Cd4 I2 3.015094 1_665
+Cd4 I2 3.015096 1_555
+Cd4 I8 3.015607 1_555
+Cd4 I8 3.015934 1_655
+Cd4 I8 3.015937 1_545
+Cd5 I9 3.012238 1_545
+Cd5 I11 3.013985 1_445
+Cd5 I11 3.013986 1_555
+Cd5 I9 3.017246 1_555
+Cd5 I9 3.017247 1_445
+Cd5 I11 3.017951 1_455

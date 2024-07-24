@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_K2LiH2(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58483209
+_cell_length_b   5.00552133
+_cell_length_c   8.23961582
+_cell_angle_alpha   115.60542294
+_cell_angle_beta   97.66226135
+_cell_angle_gamma   93.87581435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2LiH2(SeO3)2
+_chemical_formula_sum   'K2 Li1 H2 Se2 O6'
+_cell_volume   203.83212610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49061100  0.64481000  0.27232600  1
+  K  K1  1  0.50938900  0.35519000  0.72767400  1
+  Li  Li0  1  0.00000000  0.50000000  0.00000000  1
+  H  H0  1  0.23308300  0.07174800  0.00204700  1
+  H  H1  1  0.76691700  0.92825200  0.99795300  1
+  Se  Se0  1  0.97171300  0.22207100  0.32744000  1
+  Se  Se1  1  0.02828700  0.77792900  0.67256000  1
+  O  O0  1  0.21870200  0.17865700  0.92681700  1
+  O  O1  1  0.78129800  0.82134300  0.07318300  1
+  O  O2  1  0.93170600  0.44399100  0.22007900  1
+  O  O3  1  0.06829400  0.55600900  0.77992100  1
+  O  O4  1  0.26880500  0.16020700  0.33511800  1
+  O  O5  1  0.73119500  0.83979300  0.66488200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O2 2.740043 1_555
+K0 O1 2.806859 1_555
+K0 O4 2.811932 1_565
+K0 O0 2.912339 1_554
+K0 O4 2.921576 1_555
+K0 O5 3.025745 1_555
+K0 O2 3.127668 1_455
+K1 O3 2.740043 1_555
+K1 O0 2.806859 1_555
+K1 O5 2.811932 1_545
+K1 O1 2.912339 1_556
+K1 O5 2.921576 1_555
+K1 O4 3.025745 1_555
+K1 O3 3.127668 1_655
+Li0 O1 2.016521 1_455
+Li0 O0 2.016521 1_554
+Li0 O2 2.030214 1_455
+Li0 O3 2.030214 1_554
+H0 O0 0.977907 1_554
+H0 K0 2.884939 1_555
+H1 O1 0.977907 1_556
+H1 K1 2.884939 1_555
+O0 Se1 2.242466 1_545
+O1 Se0 2.242466 1_565
+O2 Se0 1.701937 1_555
+O3 Se1 1.701937 1_555
+O4 Se0 1.706244 1_455
+O5 Se1 1.706244 1_655

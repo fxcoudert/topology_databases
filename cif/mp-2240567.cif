@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Sr2Mg(TiS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86191535
+_cell_length_b   6.99522880
+_cell_length_c   7.36760889
+_cell_angle_alpha   118.33526848
+_cell_angle_beta   75.42520057
+_cell_angle_gamma   89.99805210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Mg(TiS3)2
+_chemical_formula_sum   'Sr2 Mg1 Ti2 S6'
+_cell_volume   254.81383552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.34006166  0.72651089  0.45304143  1
+  Sr  Sr1  1  0.65993834  0.27348911  0.54695857  1
+  Mg  Mg0  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.83285015  0.83893420  0.67790529  1
+  S  S1  1  0.70299097  0.83254060  0.16419264  1
+  S  S2  1  0.70294243  0.33162223  0.16411372  1
+  S  S3  1  0.16714985  0.16106580  0.32209471  1
+  S  S4  1  0.29700903  0.16745940  0.83580736  1
+  S  S5  1  0.29705757  0.66837777  0.83588628  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S5 2.484730 1_554
+Mg0 S2 2.484730 1_455
+Mg0 S1 2.484815 1_455
+Mg0 S4 2.484815 1_554
+S0 Ti0 2.416467 1_566
+S0 Ti1 2.548173 1_666
+S0 Sr0 2.913287 1_655
+S1 Ti1 2.480352 1_665
+S1 Ti0 2.514168 1_565
+S1 Sr0 2.970681 1_555
+S1 Sr1 2.985860 1_565
+S2 Ti1 2.480531 1_655
+S2 Ti0 2.513981 1_555
+S2 Sr0 2.970787 1_555
+S2 Sr1 2.985961 1_555
+S3 Ti0 2.416467 1_555
+S3 Ti1 2.548173 1_555
+S3 Sr1 2.913287 1_455
+S4 Ti1 2.480352 1_556
+S4 Ti0 2.514168 1_556
+S4 Sr1 2.970681 1_555
+S4 Sr0 2.985860 1_545
+S5 Ti1 2.480531 1_566
+S5 Ti0 2.513981 1_566
+S5 Sr1 2.970787 1_555
+S5 Sr0 2.985961 1_555

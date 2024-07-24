@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ti5Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75797452
+_cell_length_b   7.45175910
+_cell_length_c   7.45175888
+_cell_angle_alpha   86.35459082
+_cell_angle_beta   75.39501865
+_cell_angle_gamma   75.39500727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Te4
+_chemical_formula_sum   'Ti5 Te4'
+_cell_volume   195.40759910
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  -0.00000000  0.00000000  1
+  Ti  Ti1  1  0.31386779  0.06516694  0.30709849  1
+  Ti  Ti2  1  0.62096627  0.69290151  0.06516694  1
+  Ti  Ti3  1  0.37903373  0.30709849  0.93483306  1
+  Ti  Ti4  1  0.68613221  0.93483306  0.69290151  1
+  Te  Te0  1  0.06007710  0.21776415  0.66207965  1
+  Te  Te1  1  0.72215775  0.33792035  0.21776415  1
+  Te  Te2  1  0.27784225  0.66207965  0.78223585  1
+  Te  Te3  1  0.93992290  0.78223585  0.33792035  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti1 2.941993 1_455
+Ti0 Ti4 2.941993 1_544
+Ti0 Ti3 2.941993 1_554
+Ti0 Ti2 2.941993 1_445
+Ti0 Ti3 2.941995 1_454
+Ti0 Ti2 2.941995 1_545
+Ti0 Ti4 2.941996 1_444
+Ti0 Ti1 2.941996 1_555
+Te0 Ti4 2.782523 1_445
+Te0 Ti4 2.782525 1_545
+Te0 Ti1 2.786250 1_555
+Te0 Ti3 2.795341 1_455
+Te0 Ti3 2.795344 1_555
+Te0 Ti0 2.898877 1_556
+Te1 Ti3 2.782523 1_654
+Te1 Ti3 2.782525 1_554
+Te1 Ti2 2.786250 1_555
+Te1 Ti1 2.795342 1_555
+Te1 Ti1 2.795344 1_655
+Te1 Ti0 2.898877 1_655
+Te2 Ti2 2.782523 1_456
+Te2 Ti2 2.782525 1_556
+Te2 Ti3 2.786250 1_555
+Te2 Ti4 2.795342 1_555
+Te2 Ti4 2.795344 1_455
+Te2 Ti0 2.898877 1_566
+Te3 Ti1 2.782523 1_665
+Te3 Ti1 2.782525 1_565
+Te3 Ti4 2.786250 1_555
+Te3 Ti2 2.795341 1_655
+Te3 Ti2 2.795344 1_555
+Te3 Ti0 2.898877 1_665

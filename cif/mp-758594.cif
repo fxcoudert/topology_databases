@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li(Fe3P2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70236667
+_cell_length_b   6.70236667
+_cell_length_c   3.23213800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(Fe3P2)2
+_chemical_formula_sum   'Li1 Fe6 P4'
+_cell_volume   125.74098700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.00000000  1
+  Fe  Fe0  1  0.53291000  0.46709000  0.50000000  1
+  Fe  Fe1  1  0.53291000  0.06582100  0.50000000  1
+  Fe  Fe2  1  0.93417900  0.46709000  0.50000000  1
+  Fe  Fe3  1  0.87277800  0.12722200  0.00000000  1
+  Fe  Fe4  1  0.87277800  0.74555600  0.00000000  1
+  Fe  Fe5  1  0.25444400  0.12722200  0.00000000  1
+  P  P0  1  0.66666700  0.33333300  0.00000000  1
+  P  P1  1  0.69323100  0.84661600  0.50000000  1
+  P  P2  1  0.15338400  0.30676900  0.50000000  1
+  P  P3  1  0.15338400  0.84661600  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 P2 2.641135 1_554
+Li0 P2 2.641135 1_555
+Li0 P1 2.641135 1_555
+Li0 P1 2.641135 1_554
+Li0 P3 2.641135 1_555
+Li0 P3 2.641135 1_554
+Fe0 P1 2.211749 1_555
+Fe0 P2 2.211749 1_555
+Fe0 P0 2.241150 1_556
+Fe0 P0 2.241150 1_555
+Fe0 Li0 2.824802 1_556
+Fe0 Li0 2.824802 1_555
+Fe1 P3 2.211749 1_545
+Fe1 P1 2.211749 1_545
+Fe1 P0 2.241142 1_556
+Fe1 P0 2.241142 1_555
+Fe1 Li0 2.824802 1_545
+Fe1 Li0 2.824802 1_546
+Fe2 P3 2.211749 1_655
+Fe2 P2 2.211749 1_655
+Fe2 P0 2.241142 1_556
+Fe2 P0 2.241142 1_555
+Fe2 Li0 2.824802 1_656
+Fe2 Li0 2.824802 1_655
+Fe3 P2 2.309482 1_655
+Fe3 P2 2.309482 1_654
+Fe3 P1 2.309482 1_544
+Fe3 P1 2.309482 1_545
+Fe3 P0 2.392710 1_555
+Fe4 P3 2.309481 1_654
+Fe4 P3 2.309481 1_655
+Fe4 P1 2.309485 1_555
+Fe4 P1 2.309485 1_554
+Fe4 P0 2.392715 1_555
+Fe5 P3 2.309481 1_544
+Fe5 P3 2.309481 1_545
+Fe5 P2 2.309485 1_554
+Fe5 P2 2.309485 1_555
+Fe5 P0 2.392715 1_555

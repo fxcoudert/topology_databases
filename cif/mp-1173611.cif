@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Nb(Br3O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.23544900
+_cell_length_b   9.67356400
+_cell_length_c   10.09896200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb(Br3O)2
+_chemical_formula_sum   'Nb2 Br12 O4'
+_cell_volume   902.23830578
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.86813600  0.61983400  1
+  Nb  Nb1  1  0.50000000  0.36813600  0.38016600  1
+  Br  Br0  1  0.00000000  0.35468400  0.93611100  1
+  Br  Br1  1  0.00000000  0.17816500  0.08991300  1
+  Br  Br2  1  0.00000000  0.86087900  0.86427500  1
+  Br  Br3  1  0.00000000  0.12297700  0.62130500  1
+  Br  Br4  1  0.50000000  0.36087900  0.13572500  1
+  Br  Br5  1  0.50000000  0.67816500  0.91008700  1
+  Br  Br6  1  0.50000000  0.85468400  0.06388900  1
+  Br  Br7  1  0.50000000  0.11069800  0.38421800  1
+  Br  Br8  1  0.50000000  0.37055400  0.62747200  1
+  Br  Br9  1  0.50000000  0.62297700  0.37869500  1
+  Br  Br10  1  0.00000000  0.87055400  0.37252800  1
+  Br  Br11  1  0.00000000  0.61069800  0.61578200  1
+  O  O0  1  0.00000000  0.54610700  0.20785500  1
+  O  O1  1  0.00000000  0.46270000  0.30038600  1
+  O  O2  1  0.50000000  0.04610700  0.79214500  1
+  O  O3  1  0.50000000  0.96270000  0.69961400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Br0 Br1 2.308321 1_556
+Br2 Nb0 2.469598 1_555
+Br3 Nb0 2.465265 1_545
+Br4 Nb1 2.469598 1_555
+Br5 Br6 2.308321 1_556
+Br7 Nb1 2.490679 1_555
+Br8 Nb1 2.497643 1_555
+Br9 Nb1 2.465265 1_555
+Br10 Nb0 2.497643 1_555
+Br11 Nb0 2.490679 1_555
+O0 O1 1.234595 1_555
+O2 O3 1.234595 1_545

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_KPt2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60895310
+_cell_length_b   7.60895477
+_cell_length_c   7.60895312
+_cell_angle_alpha   55.51466393
+_cell_angle_beta   55.51466044
+_cell_angle_gamma   55.51466319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPt2S3
+_chemical_formula_sum   'K2 Pt4 S6'
+_cell_volume   279.06311476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.69387022  0.69387022  0.69387022  1
+  K  K1  1  0.30612978  0.30612978  0.30612978  1
+  Pt  Pt0  1  0.50000000  0.50000000  0.50000000  1
+  Pt  Pt1  1  -0.00000000  0.00000000  0.50000000  1
+  Pt  Pt2  1  0.50000000  0.00000000  0.00000000  1
+  Pt  Pt3  1  -0.00000000  0.50000000  0.00000000  1
+  S  S0  1  0.73162813  0.22009532  0.73162813  1
+  S  S1  1  0.73162813  0.73162813  0.22009532  1
+  S  S2  1  0.22009532  0.73162813  0.73162813  1
+  S  S3  1  0.77990468  0.26837187  0.26837187  1
+  S  S4  1  0.26837187  0.77990468  0.26837187  1
+  S  S5  1  0.26837187  0.26837187  0.77990468  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S2 3.302796 1_555
+K0 S1 3.302796 1_555
+K0 S0 3.302797 1_555
+K0 Pt3 3.374856 1_656
+K0 Pt2 3.374856 1_566
+K0 Pt1 3.374856 1_665
+K1 S3 3.302796 1_555
+K1 S5 3.302796 1_555
+K1 S4 3.302797 1_555
+K1 Pt3 3.374856 1_555
+K1 Pt2 3.374856 1_555
+K1 Pt1 3.374856 1_555
+Pt0 S4 2.400984 1_555
+Pt0 S0 2.400984 1_555
+Pt0 S3 2.400984 1_555
+Pt0 S2 2.400984 1_555
+Pt0 S5 2.400984 1_555
+Pt0 S1 2.400984 1_555
+Pt1 S3 2.339886 1_455
+Pt1 S2 2.339886 1_545
+Pt1 S4 2.339886 1_545
+Pt1 S0 2.339886 1_455
+Pt2 S5 2.339886 1_554
+Pt2 S1 2.339886 1_545
+Pt2 S4 2.339886 1_545
+Pt2 S0 2.339886 1_554
+Pt3 S1 2.339886 1_455
+Pt3 S5 2.339886 1_554
+Pt3 S3 2.339886 1_455
+Pt3 S2 2.339886 1_554

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_InAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32301021
+_cell_length_b   3.32301019
+_cell_length_c   12.38329333
+_cell_angle_alpha   90.00000075
+_cell_angle_beta   89.99999925
+_cell_angle_gamma   120.00026194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAuO2
+_chemical_formula_sum   'In2 Au2 O4'
+_cell_volume   118.42107347
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.00000001  -0.00000001  0.00001256  1
+  In  In1  1  0.00000000  0.00000002  0.49998743  1
+  Au  Au0  1  0.66666669  0.33333330  0.74999998  1
+  Au  Au1  1  0.33333331  0.66666670  0.25000006  1
+  O  O0  1  0.33333343  0.66666653  0.41569121  1
+  O  O1  1  0.66666655  0.33333345  0.91567755  1
+  O  O2  1  0.33333347  0.66666655  0.08430872  1
+  O  O3  1  0.66666656  0.33333345  0.58432248  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 O2 2.184131 1_445
+In0 O2 2.184132 1_555
+In0 O2 2.184139 1_545
+In0 O1 2.184361 1_444
+In0 O1 2.184361 1_554
+In0 O1 2.184369 1_454
+In1 O0 2.184132 1_555
+In1 O0 2.184132 1_445
+In1 O0 2.184139 1_545
+In1 O3 2.184362 1_555
+In1 O3 2.184362 1_445
+In1 O3 2.184369 1_455
+Au0 O3 2.051633 1_555
+Au0 O1 2.051634 1_555
+Au1 O0 2.051802 1_555
+Au1 O2 2.051804 1_555

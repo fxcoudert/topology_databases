@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_LuAgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40058549
+_cell_length_b   7.40058545
+_cell_length_c   4.46262500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAgPb
+_chemical_formula_sum   'Lu3 Ag3 Pb3'
+_cell_volume   211.66700347
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.57113598  0.00000000  0.50000000  1
+  Lu  Lu1  1  0.42886402  0.42886402  0.50000000  1
+  Lu  Lu2  1  0.00000000  0.57113598  0.50000000  1
+  Ag  Ag0  1  0.75255592  0.75255592  0.00000000  1
+  Ag  Ag1  1  0.00000000  0.24744408  -0.00000000  1
+  Ag  Ag2  1  0.24744408  0.00000000  -0.00000000  1
+  Pb  Pb0  1  0.00000000  -0.00000000  0.50000000  1
+  Pb  Pb1  1  0.33333300  0.66666700  0.00000000  1
+  Pb  Pb2  1  0.66666700  0.33333300  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pb2 3.133679 1_556
+Lu0 Pb2 3.133679 1_555
+Lu0 Pb1 3.133680 1_546
+Lu0 Pb1 3.133680 1_545
+Lu0 Pb0 3.173845 1_655
+Lu1 Pb1 3.133684 1_555
+Lu1 Pb1 3.133684 1_556
+Lu1 Pb2 3.133684 1_556
+Lu1 Pb2 3.133684 1_555
+Lu1 Pb0 3.173845 1_555
+Lu2 Pb1 3.133679 1_556
+Lu2 Pb1 3.133679 1_555
+Lu2 Pb2 3.133680 1_455
+Lu2 Pb2 3.133680 1_456
+Lu2 Pb0 3.173845 1_565
+Ag0 Pb2 2.838567 1_555
+Ag0 Pb1 2.838567 1_555
+Ag0 Pb0 2.886548 1_664
+Ag0 Pb0 2.886548 1_665
+Ag0 Ag1 3.171785 1_665
+Ag0 Ag2 3.171785 1_665
+Ag0 Lu1 3.273717 1_555
+Ag0 Lu1 3.273717 1_554
+Ag0 Lu0 3.548720 1_565
+Ag0 Lu0 3.548720 1_564
+Ag0 Lu2 3.548720 1_655
+Ag0 Lu2 3.548720 1_654
+Ag1 Pb2 2.838560 1_455
+Ag1 Pb1 2.838565 1_555
+Ag1 Pb0 2.886549 1_555
+Ag1 Pb0 2.886549 1_554
+Ag1 Ag2 3.171785 1_555
+Ag1 Lu2 3.273717 1_555
+Ag1 Lu2 3.273717 1_554
+Ag1 Lu0 3.548719 1_455
+Ag1 Lu0 3.548719 1_454
+Ag1 Lu1 3.548719 1_555
+Ag1 Lu1 3.548719 1_554
+Ag2 Pb1 2.838560 1_545
+Ag2 Pb2 2.838565 1_555
+Ag2 Pb0 2.886549 1_554
+Ag2 Pb0 2.886549 1_555
+Ag2 Lu0 3.273717 1_554
+Ag2 Lu0 3.273717 1_555
+Ag2 Lu2 3.548719 1_545
+Ag2 Lu2 3.548719 1_544
+Ag2 Lu1 3.548719 1_555
+Ag2 Lu1 3.548719 1_554

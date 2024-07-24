@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_MgNi4(AsS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93915369
+_cell_length_b   5.93915369
+_cell_length_c   5.93915369
+_cell_angle_alpha   89.10853892
+_cell_angle_beta   89.10853892
+_cell_angle_gamma   89.10853892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi4(AsS)4
+_chemical_formula_sum   'Mg1 Ni4 As4 S4'
+_cell_volume   209.41972417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.20816300  0.20816300  0.20816300  1
+  Ni  Ni0  1  0.48401200  0.52362900  0.00325500  1
+  Ni  Ni1  1  0.52362900  0.00325500  0.48401200  1
+  Ni  Ni2  1  0.97293800  0.97293800  0.97293800  1
+  Ni  Ni3  1  0.00325500  0.48401200  0.52362900  1
+  As  As0  1  0.39144300  0.10611100  0.84071700  1
+  As  As1  1  0.84071700  0.39144300  0.10611100  1
+  As  As2  1  0.64185200  0.64185200  0.64185200  1
+  As  As3  1  0.10611100  0.84071700  0.39144300  1
+  S  S0  1  0.60616300  0.89476800  0.10626500  1
+  S  S1  1  0.10626500  0.60616300  0.89476800  1
+  S  S2  1  0.89476800  0.10626500  0.60616300  1
+  S  S3  1  0.42306500  0.42306500  0.42306500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S3 2.244810 1_555
+Mg0 Ni2 2.457098 1_444
+Mg0 Ni3 2.763694 1_555
+Mg0 Ni0 2.763694 1_555
+Mg0 Ni1 2.763694 1_555
+Mg0 S2 3.044963 1_455
+Mg0 S1 3.044963 1_554
+Mg0 S0 3.044963 1_545
+Ni0 S1 2.385297 1_554
+Ni0 S0 2.421747 1_555
+Ni0 S3 2.576176 1_555
+Ni1 S0 2.385297 1_545
+Ni1 S2 2.421747 1_555
+Ni1 S3 2.576176 1_555
+Ni2 S1 2.356705 1_655
+Ni2 S2 2.356705 1_565
+Ni2 S0 2.356705 1_556
+Ni3 S2 2.385297 1_455
+Ni3 S1 2.421747 1_555
+Ni3 S3 2.576176 1_555
+As0 Ni1 2.334793 1_555
+As0 S0 2.374935 1_546
+As0 Mg0 2.502294 1_556
+As0 Ni2 2.720550 1_445
+As0 Ni0 2.741621 1_556
+As1 Ni0 2.334793 1_555
+As1 S1 2.374935 1_654
+As1 Mg0 2.502294 1_655
+As1 Ni2 2.720550 1_544
+As1 Ni3 2.741621 1_655
+As2 S3 2.285391 1_555
+As2 Ni1 2.426916 1_565
+As2 Ni0 2.426916 1_556
+As2 Ni3 2.426916 1_655
+As3 Ni3 2.334793 1_555
+As3 S2 2.374935 1_465
+As3 Mg0 2.502294 1_565
+As3 Ni2 2.720550 1_454
+As3 Ni1 2.741621 1_565

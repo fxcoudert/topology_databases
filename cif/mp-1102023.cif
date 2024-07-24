@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_HgPt2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42359928
+_cell_length_b   7.42359928
+_cell_length_c   5.44465702
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgPt2Se3
+_chemical_formula_sum   'Hg2 Pt4 Se6'
+_cell_volume   259.85444852
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.33333300  0.66666700  0.65331746  1
+  Hg  Hg1  1  0.66666700  0.33333300  0.34668254  1
+  Pt  Pt0  1  -0.00000000  -0.00000000  0.00000000  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.00000000  1
+  Pt  Pt2  1  -0.00000000  0.50000000  0.00000000  1
+  Pt  Pt3  1  0.50000000  -0.00000000  0.00000000  1
+  Se  Se0  1  0.82789106  0.65578111  0.76524993  1
+  Se  Se1  1  0.82789106  0.17210894  0.76524993  1
+  Se  Se2  1  0.34421889  0.17210894  0.76524993  1
+  Se  Se3  1  0.17210894  0.34421889  0.23475007  1
+  Se  Se4  1  0.17210894  0.82789106  0.23475007  1
+  Se  Se5  1  0.65578111  0.82789106  0.23475007  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Pt2 2.855764 1_556
+Hg0 Pt3 2.855764 1_566
+Hg0 Pt1 2.855769 1_556
+Hg0 Se5 3.080760 1_555
+Hg0 Se3 3.080760 1_555
+Hg0 Se4 3.080760 1_555
+Hg1 Pt2 2.855764 1_655
+Hg1 Pt3 2.855764 1_555
+Hg1 Pt1 2.855769 1_555
+Hg1 Se0 3.080760 1_555
+Hg1 Se2 3.080760 1_555
+Hg1 Se1 3.080760 1_555
+Pt0 Se4 2.555569 1_545
+Pt0 Se1 2.555569 1_454
+Pt0 Se0 2.555574 1_444
+Pt0 Se5 2.555574 1_445
+Pt0 Se3 2.555574 1_555
+Pt0 Se2 2.555574 1_554
+Pt1 Se3 2.465978 1_555
+Pt1 Se5 2.465978 1_555
+Pt1 Se2 2.465978 1_554
+Pt1 Se0 2.465978 1_554
+Pt2 Se0 2.465972 1_454
+Pt2 Se3 2.465972 1_555
+Pt2 Se1 2.465978 1_454
+Pt2 Se4 2.465978 1_555
+Pt3 Se5 2.465972 1_545
+Pt3 Se2 2.465972 1_554
+Pt3 Se4 2.465978 1_545
+Pt3 Se1 2.465978 1_554

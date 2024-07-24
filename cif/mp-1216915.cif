@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_UGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71118094
+_cell_length_b   5.71118094
+_cell_length_c   6.82093263
+_cell_angle_alpha   54.80325991
+_cell_angle_beta   54.80325991
+_cell_angle_gamma   46.18127905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGeAu
+_chemical_formula_sum   'U2 Ge2 Au2'
+_cell_volume   125.10855756
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.45444900  0.45444900  0.79746000  1
+  U  U1  1  0.54555100  0.54555100  0.20254000  1
+  Ge  Ge0  1  0.15890900  0.15890900  0.81218700  1
+  Ge  Ge1  1  0.84109100  0.84109100  0.18781300  1
+  Au  Au0  1  0.83406300  0.83406300  0.60387800  1
+  Au  Au1  1  0.16593700  0.16593700  0.39612200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ge1 2.644618 1_446
+Ge0 U0 3.043383 1_555
+Ge0 U1 3.090415 1_546
+Ge0 U1 3.090415 1_456
+Ge0 U0 3.148446 1_455
+Ge0 U0 3.148446 1_545
+Ge1 U1 3.043383 1_555
+Ge1 U0 3.090415 1_654
+Ge1 U0 3.090415 1_564
+Ge1 U1 3.148446 1_565
+Ge1 U1 3.148446 1_655
+Au0 Ge0 2.673172 1_565
+Au0 Ge0 2.673172 1_655
+Au0 Ge1 2.792274 1_555
+Au0 Au1 2.824071 1_665
+Au0 U1 3.134581 1_565
+Au0 U1 3.134581 1_655
+Au0 U1 3.217376 1_556
+Au0 U0 3.233191 1_655
+Au0 U0 3.233191 1_565
+Au0 U0 3.324629 1_555
+Au1 Ge1 2.673172 1_545
+Au1 Ge1 2.673172 1_455
+Au1 Ge0 2.792274 1_555
+Au1 U0 3.134581 1_545
+Au1 U0 3.134581 1_455
+Au1 U0 3.217376 1_554
+Au1 U1 3.233191 1_545
+Au1 U1 3.233191 1_455
+Au1 U1 3.324629 1_555

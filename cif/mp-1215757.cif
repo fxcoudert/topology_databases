@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Zr2Cr3Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03259510
+_cell_length_b   5.03259510
+_cell_length_c   8.14199300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.27171519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Cr3Fe
+_chemical_formula_sum   'Zr4 Cr6 Fe2'
+_cell_volume   179.88126495
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66593000  0.33407000  0.68624500  1
+  Zr  Zr1  1  0.33318500  0.66681500  0.80824100  1
+  Zr  Zr2  1  0.33318500  0.66681500  0.19175900  1
+  Zr  Zr3  1  0.66593000  0.33407000  0.31375500  1
+  Cr  Cr0  1  0.17031900  0.82968100  0.50000000  1
+  Cr  Cr1  1  0.33760800  0.16790900  0.00000000  1
+  Cr  Cr2  1  0.83209100  0.66239200  0.00000000  1
+  Cr  Cr3  1  0.83210200  0.16789800  0.00000000  1
+  Cr  Cr4  1  0.99978400  0.00021600  0.25293600  1
+  Cr  Cr5  1  0.99978400  0.00021600  0.74706400  1
+  Fe  Fe0  1  0.66276100  0.83273100  0.50000000  1
+  Fe  Fe1  1  0.16726900  0.33723900  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 3.032811 1_555
+Zr0 Zr1 3.055688 1_555
+Zr0 Zr1 3.093242 1_545
+Zr0 Zr1 3.093242 1_655
+Zr1 Zr2 3.122601 1_556
+Zr2 Zr3 3.055688 1_555
+Zr2 Zr3 3.093242 1_455
+Zr2 Zr3 3.093242 1_565
+Cr0 Fe0 2.470792 1_555
+Cr0 Fe1 2.470792 1_555
+Cr0 Cr4 2.497985 1_465
+Cr0 Cr5 2.497985 1_465
+Cr0 Fe0 2.561874 1_455
+Cr0 Fe1 2.561874 1_565
+Cr0 Zr2 2.880825 1_555
+Cr0 Zr1 2.880825 1_555
+Cr0 Zr0 2.961857 1_455
+Cr0 Zr3 2.961857 1_455
+Cr0 Zr3 2.961857 1_565
+Cr0 Zr0 2.961857 1_565
+Cr1 Cr3 2.488615 1_555
+Cr1 Cr2 2.515876 1_555
+Cr1 Cr4 2.537857 1_455
+Cr1 Cr5 2.537857 1_454
+Cr1 Cr3 2.543980 1_455
+Cr1 Cr2 2.572016 1_445
+Cr1 Zr3 2.933286 1_555
+Cr1 Zr0 2.933286 1_554
+Cr1 Zr1 2.956815 1_544
+Cr1 Zr2 2.956815 1_545
+Cr1 Zr1 2.965954 1_554
+Cr1 Zr2 2.965954 1_555
+Cr2 Cr3 2.488615 1_555
+Cr2 Cr4 2.537857 1_565
+Cr2 Cr5 2.537857 1_564
+Cr2 Cr3 2.543980 1_565
+Cr2 Zr3 2.933286 1_555
+Cr2 Zr0 2.933286 1_554
+Cr2 Zr1 2.956815 1_654
+Cr2 Zr2 2.956815 1_655
+Cr2 Zr1 2.965954 1_554
+Cr2 Zr2 2.965954 1_555
+Cr3 Cr4 2.522258 1_555
+Cr3 Cr5 2.522258 1_554
+Cr3 Zr3 2.934034 1_555
+Cr3 Zr0 2.934034 1_554
+Cr3 Zr2 2.984863 1_545
+Cr3 Zr2 2.984863 1_655
+Cr3 Zr1 2.984863 1_654
+Cr3 Zr1 2.984863 1_544
+Cr4 Fe0 2.497137 1_545
+Cr4 Fe1 2.497137 1_655
+Cr4 Zr2 2.937970 1_645
+Cr4 Zr3 2.941355 1_555
+Cr4 Zr3 2.966284 1_655
+Cr4 Zr3 2.966284 1_545
+Cr4 Zr2 2.968688 1_545
+Cr4 Zr2 2.968688 1_655
+Cr5 Fe0 2.497137 1_545
+Cr5 Fe1 2.497137 1_655
+Cr5 Zr1 2.937970 1_645
+Cr5 Zr0 2.941355 1_555
+Cr5 Zr0 2.966284 1_655
+Cr5 Zr0 2.966284 1_545
+Cr5 Zr1 2.968688 1_545
+Cr5 Zr1 2.968688 1_655
+Fe0 Fe1 2.521010 1_555
+Fe0 Fe1 2.566882 1_665
+Fe0 Zr2 2.896978 1_555
+Fe0 Zr1 2.896978 1_555
+Fe0 Zr3 2.937023 1_565
+Fe0 Zr0 2.937023 1_565
+Fe0 Zr0 2.938837 1_555
+Fe0 Zr3 2.938837 1_555
+Fe1 Zr2 2.896978 1_555
+Fe1 Zr1 2.896978 1_555
+Fe1 Zr3 2.937023 1_455
+Fe1 Zr0 2.937023 1_455
+Fe1 Zr3 2.938837 1_555
+Fe1 Zr0 2.938837 1_555

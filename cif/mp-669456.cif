@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_La2Al3Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20548179
+_cell_length_b   8.20548179
+_cell_length_c   8.07113439
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   136.52806827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Al3Ge4
+_chemical_formula_sum   'La4 Al6 Ge8'
+_cell_volume   373.87863469
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.11460198  0.88539802  0.58177090  1
+  La  La1  1  0.38539802  0.61460198  0.08177090  1
+  La  La2  1  0.61460198  0.38539802  0.91822910  1
+  La  La3  1  0.88539802  0.11460198  0.41822910  1
+  Al  Al0  1  0.03429805  0.46570195  0.75000000  1
+  Al  Al1  1  -0.00000000  0.00000000  -0.00000000  1
+  Al  Al2  1  0.53429805  0.96570195  0.75000000  1
+  Al  Al3  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al4  1  0.96570195  0.53429805  0.25000000  1
+  Al  Al5  1  0.46570195  0.03429805  0.25000000  1
+  Ge  Ge0  1  0.70063845  0.79936155  0.75000000  1
+  Ge  Ge1  1  0.20063845  0.29936155  0.75000000  1
+  Ge  Ge2  1  0.29936155  0.20063845  0.25000000  1
+  Ge  Ge3  1  0.68710135  0.31289865  0.55398947  1
+  Ge  Ge4  1  0.79936155  0.70063845  0.25000000  1
+  Ge  Ge5  1  0.81289865  0.18710135  0.05398947  1
+  Ge  Ge6  1  0.18710135  0.81289865  0.94601053  1
+  Ge  Ge7  1  0.31289865  0.68710135  0.44601053  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Ge1 2.535718 1_555
+Al0 Ge3 2.647011 1_455
+Al0 Ge6 2.647011 1_555
+Al0 Ge7 2.918634 1_555
+Al0 Ge5 2.918634 1_456
+Al1 Ge2 2.635554 1_555
+Al1 Ge0 2.635554 1_444
+Al1 Ge1 2.635554 1_554
+Al1 Ge4 2.635554 1_445
+Al1 Ge5 2.885296 1_455
+Al1 Ge6 2.885296 1_544
+Al2 Ge0 2.535718 1_555
+Al2 Ge3 2.647011 1_565
+Al2 Ge6 2.647011 1_555
+Al2 Ge7 2.918634 1_555
+Al2 Ge5 2.918634 1_566
+Al3 Ge2 2.635554 1_555
+Al3 Ge0 2.635554 1_555
+Al3 Ge4 2.635554 1_555
+Al3 Ge1 2.635554 1_555
+Al3 Ge7 2.885296 1_555
+Al3 Ge3 2.885296 1_555
+Al4 Ge4 2.535718 1_555
+Al4 Ge7 2.647011 1_655
+Al4 Ge5 2.647011 1_555
+Al4 Ge6 2.918634 1_654
+Al4 Ge3 2.918634 1_555
+Al5 Ge2 2.535718 1_555
+Al5 Ge7 2.647011 1_545
+Al5 Ge5 2.647011 1_555
+Al5 Ge6 2.918634 1_544
+Al5 Ge3 2.918634 1_555
+Ge0 La0 3.224829 1_655
+Ge0 La2 3.224829 1_555
+Ge0 La3 3.235431 1_565
+Ge0 La1 3.235431 1_556
+Ge1 La2 3.224829 1_555
+Ge1 La0 3.224829 1_545
+Ge1 La1 3.235431 1_556
+Ge1 La3 3.235431 1_455
+Ge2 La1 3.224829 1_555
+Ge2 La3 3.224829 1_455
+Ge2 La2 3.235431 1_554
+Ge2 La0 3.235431 1_545
+Ge3 La2 3.140705 1_555
+Ge3 La3 3.215331 1_555
+Ge3 La0 3.241240 1_655
+Ge3 La0 3.241240 1_545
+Ge4 La1 3.224829 1_555
+Ge4 La3 3.224829 1_565
+Ge4 La2 3.235431 1_554
+Ge4 La0 3.235431 1_655
+Ge5 La3 3.140705 1_555
+Ge5 La2 3.215331 1_554
+Ge5 La1 3.241240 1_545
+Ge5 La1 3.241240 1_655
+Ge6 La0 3.140705 1_555
+Ge6 La1 3.215331 1_556
+Ge6 La2 3.241240 1_565
+Ge6 La2 3.241240 1_455
+Ge7 La1 3.140705 1_555
+Ge7 La0 3.215331 1_555
+Ge7 La3 3.241240 1_455
+Ge7 La3 3.241240 1_565

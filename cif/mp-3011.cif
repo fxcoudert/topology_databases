@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Th(GeRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17582307
+_cell_length_b   4.17582288
+_cell_length_c   5.97910051
+_cell_angle_alpha   110.43849340
+_cell_angle_beta   110.43848904
+_cell_angle_gamma   89.99998832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(GeRh)2
+_chemical_formula_sum   'Th1 Ge2 Rh2'
+_cell_volume   90.65971862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  -0.00000000  0.00000000  -0.00000000  1
+  Ge  Ge0  1  0.62207581  0.62207581  0.24415061  1
+  Ge  Ge1  1  0.37792419  0.37792419  0.75584939  1
+  Rh  Rh0  1  0.75000000  0.25000000  0.50000000  1
+  Rh  Rh1  1  0.25000000  0.75000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Rh0 2.475637 1_565
+Ge0 Rh1 2.475637 1_655
+Ge0 Rh1 2.475640 1_555
+Ge0 Rh0 2.475641 1_555
+Ge0 Ge1 2.538739 1_554
+Ge0 Th0 3.214037 1_665
+Ge0 Th0 3.214039 1_655
+Ge0 Th0 3.214039 1_565
+Ge0 Th0 3.214042 1_555
+Ge1 Rh1 2.475637 1_545
+Ge1 Rh0 2.475637 1_455
+Ge1 Rh0 2.475640 1_555
+Ge1 Rh1 2.475641 1_555
+Ge1 Th0 3.214037 1_556
+Ge1 Th0 3.214039 1_566
+Ge1 Th0 3.214039 1_656
+Ge1 Th0 3.214042 1_666
+Rh0 Th0 3.334231 1_655
+Rh0 Th0 3.334231 1_666
+Rh0 Th0 3.334231 1_656
+Rh0 Th0 3.334231 1_555
+Rh1 Th0 3.334231 1_566
+Rh1 Th0 3.334231 1_555
+Rh1 Th0 3.334231 1_565
+Rh1 Th0 3.334231 1_666

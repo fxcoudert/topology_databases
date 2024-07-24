@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_AgPb4ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27379027
+_cell_length_b   8.27379027
+_cell_length_c   6.39149714
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPb4ClO4
+_chemical_formula_sum   'Ag2 Pb8 Cl2 O8'
+_cell_volume   437.53380634
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.00000000  0.90374284  1
+  Ag  Ag1  1  -0.00000000  0.50000000  0.09625716  1
+  Pb  Pb0  1  0.19227072  0.14472841  0.22936126  1
+  Pb  Pb1  1  0.35527159  0.69227072  0.22936126  1
+  Pb  Pb2  1  0.64472841  0.30772928  0.22936126  1
+  Pb  Pb3  1  0.30772928  0.35527159  0.77063874  1
+  Pb  Pb4  1  0.14472841  0.80772928  0.77063874  1
+  Pb  Pb5  1  0.85527159  0.19227072  0.77063874  1
+  Pb  Pb6  1  0.80772928  0.85527159  0.22936126  1
+  Pb  Pb7  1  0.69227072  0.64472841  0.77063874  1
+  Cl  Cl0  1  -0.00000000  0.50000000  0.49412770  1
+  Cl  Cl1  1  0.50000000  0.00000000  0.50587230  1
+  O  O0  1  0.75345865  0.09002093  0.07430231  1
+  O  O1  1  0.40997907  0.25345865  0.07430231  1
+  O  O2  1  0.24654135  0.90997907  0.07430231  1
+  O  O3  1  0.59002093  0.74654135  0.07430231  1
+  O  O4  1  0.90997907  0.75345865  0.92569769  1
+  O  O5  1  0.25345865  0.59002093  0.92569769  1
+  O  O6  1  0.09002093  0.24654135  0.92569769  1
+  O  O7  1  0.74654135  0.40997907  0.92569769  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O3 2.478066 1_546
+Ag0 O2 2.478066 1_546
+Ag0 O1 2.478066 1_556
+Ag0 O0 2.478066 1_556
+Ag0 Cl1 2.542988 1_555
+Ag1 O4 2.478066 1_454
+Ag1 O6 2.478066 1_554
+Ag1 O7 2.478066 1_454
+Ag1 O5 2.478066 1_554
+Ag1 Cl0 2.542988 1_555
+O0 Pb6 2.226257 1_545
+O0 Pb2 2.244122 1_555
+O0 Pb5 2.278654 1_554
+O1 Pb2 2.226257 1_555
+O1 Pb0 2.244122 1_555
+O1 Pb3 2.278654 1_554
+O2 Pb0 2.226257 1_565
+O2 Pb1 2.244122 1_555
+O2 Pb4 2.278654 1_554
+O3 Pb1 2.226257 1_555
+O3 Pb6 2.244122 1_555
+O3 Pb7 2.278654 1_554
+O4 Pb4 2.226257 1_655
+O4 Pb7 2.244122 1_555
+O4 Pb6 2.278654 1_556
+O5 Pb3 2.226257 1_555
+O5 Pb4 2.244122 1_555
+O5 Pb1 2.278654 1_556
+O6 Pb5 2.226257 1_455
+O6 Pb3 2.244122 1_555
+O6 Pb0 2.278654 1_556
+O7 Pb7 2.226257 1_555
+O7 Pb5 2.244122 1_555
+O7 Pb2 2.278654 1_556

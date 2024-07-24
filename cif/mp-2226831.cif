@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_MgTi2(HgO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87283695
+_cell_length_b   8.45518098
+_cell_length_c   7.22564818
+_cell_angle_alpha   42.37396230
+_cell_angle_beta   53.59560759
+_cell_angle_gamma   45.87303054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(HgO3)2
+_chemical_formula_sum   'Mg1 Ti2 Hg2 O6'
+_cell_volume   171.23866962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75659254  0.89501850  0.91138527  1
+  Ti  Ti0  1  0.41880425  0.50599771  0.59001811  1
+  Ti  Ti1  1  0.01191112  0.10672373  1.00077294  1
+  Hg  Hg0  1  0.54310064  0.81377703  0.64822876  1
+  Hg  Hg1  1  0.24694281  0.39294263  0.29965441  1
+  O  O0  1  0.21647023  0.75124218  0.27070096  1
+  O  O1  1  0.74161411  0.28419714  0.16003292  1
+  O  O2  1  0.33394548  0.21991494  0.76609417  1
+  O  O3  1  0.77732333  0.16909381  0.84010607  1
+  O  O4  1  0.74379498  0.62252543  0.32120111  1
+  O  O5  1  0.13807150  0.66713790  0.76323429  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 1.994776 1_556
+Mg0 O5 2.016805 1_655
+Mg0 O2 2.036298 1_565
+Mg0 O3 2.050660 1_565
+Hg1 O4 2.106412 1_455
+Hg1 O1 2.115446 1_555
+O0 Ti1 1.836510 1_564
+O0 Ti0 1.946653 1_555
+O1 Ti1 1.778196 1_654
+O2 Ti1 1.919438 1_555
+O2 Ti0 2.024114 1_555
+O3 Ti1 1.872447 1_655
+O3 Ti0 2.090868 1_555
+O4 Ti0 1.943450 1_555
+O5 Ti0 1.755937 1_555

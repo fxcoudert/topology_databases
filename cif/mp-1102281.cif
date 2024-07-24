@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_PrMgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62021030
+_cell_length_b   7.73205616
+_cell_length_c   9.07196342
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMgSn
+_chemical_formula_sum   'Pr4 Mg4 Sn4'
+_cell_volume   324.08433106
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000000  0.48084183  0.18164405  1
+  Pr  Pr1  1  0.75000000  0.98084183  0.31835595  1
+  Pr  Pr2  1  0.25000000  0.51915817  0.81835595  1
+  Pr  Pr3  1  0.25000000  0.01915817  0.68164405  1
+  Mg  Mg0  1  0.75000000  0.34511835  0.56761738  1
+  Mg  Mg1  1  0.75000000  0.84511835  0.93238262  1
+  Mg  Mg2  1  0.25000000  0.65488165  0.43238262  1
+  Mg  Mg3  1  0.25000000  0.15488165  0.06761738  1
+  Sn  Sn0  1  0.75000000  0.22852034  0.88652969  1
+  Sn  Sn1  1  0.75000000  0.72852034  0.61347031  1
+  Sn  Sn2  1  0.25000000  0.77147966  0.11347031  1
+  Sn  Sn3  1  0.25000000  0.27147966  0.38652969  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Sn2 3.281634 1_555
+Pr0 Sn2 3.281634 1_655
+Pr0 Sn0 3.312705 1_554
+Pr0 Sn3 3.378153 1_555
+Pr0 Sn3 3.378153 1_655
+Pr1 Sn3 3.281634 1_565
+Pr1 Sn3 3.281634 1_665
+Pr1 Sn1 3.312705 1_555
+Pr1 Sn2 3.378153 1_655
+Pr1 Sn2 3.378153 1_555
+Pr2 Sn0 3.281634 1_455
+Pr2 Sn0 3.281634 1_555
+Pr2 Sn2 3.312705 1_556
+Pr2 Sn1 3.378153 1_555
+Pr2 Sn1 3.378153 1_455
+Pr3 Sn1 3.281634 1_445
+Pr3 Sn1 3.281634 1_545
+Pr3 Sn3 3.312705 1_555
+Pr3 Sn0 3.378153 1_555
+Pr3 Sn0 3.378153 1_455
+Mg0 Sn3 2.891304 1_555
+Mg0 Sn3 2.891304 1_655
+Mg0 Sn1 2.993528 1_555
+Mg0 Sn0 3.030373 1_555
+Mg1 Sn2 2.891304 1_656
+Mg1 Sn2 2.891304 1_556
+Mg1 Sn0 2.993528 1_565
+Mg1 Sn1 3.030373 1_555
+Mg2 Sn1 2.891304 1_455
+Mg2 Sn1 2.891304 1_555
+Mg2 Sn3 2.993528 1_555
+Mg2 Sn2 3.030373 1_555
+Mg3 Sn0 2.891304 1_454
+Mg3 Sn0 2.891304 1_554
+Mg3 Sn2 2.993528 1_545
+Mg3 Sn3 3.030373 1_555

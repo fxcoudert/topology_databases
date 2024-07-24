@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_NdCuSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58305824
+_cell_length_b   4.58305824
+_cell_length_c   7.65689952
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCuSn
+_chemical_formula_sum   'Nd2 Cu2 Sn2'
+_cell_volume   139.28176786
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  -0.00000000  0.00000000  0.49206103  1
+  Nd  Nd1  1  -0.00000000  0.00000000  0.99206103  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.29975727  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.79975727  1
+  Sn  Sn0  1  0.33333300  0.66666700  0.22418170  1
+  Sn  Sn1  1  0.66666700  0.33333300  0.72418170  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 Sn1 3.187529 1_455
+Nd0 Sn1 3.187532 1_555
+Nd0 Sn1 3.187532 1_445
+Nd0 Sn0 3.347921 1_545
+Nd0 Sn0 3.347924 1_555
+Nd0 Sn0 3.347924 1_445
+Nd1 Sn0 3.187529 1_546
+Nd1 Sn0 3.187532 1_446
+Nd1 Sn0 3.187532 1_556
+Nd1 Sn1 3.347921 1_455
+Nd1 Sn1 3.347924 1_445
+Nd1 Sn1 3.347924 1_555
+Cu0 Sn0 2.708565 1_655
+Cu0 Sn0 2.708565 1_545
+Cu0 Sn0 2.708573 1_555
+Cu0 Nd0 3.028130 1_655
+Cu0 Nd0 3.028133 1_555
+Cu0 Nd0 3.028133 1_665
+Cu0 Sn1 3.249775 1_555
+Cu0 Nd1 3.542907 1_654
+Cu0 Nd1 3.542910 1_554
+Cu0 Nd1 3.542910 1_664
+Cu1 Sn1 2.708565 1_455
+Cu1 Sn1 2.708565 1_565
+Cu1 Sn1 2.708573 1_555
+Cu1 Nd1 3.028130 1_565
+Cu1 Nd1 3.028133 1_555
+Cu1 Nd1 3.028133 1_665
+Cu1 Sn0 3.249775 1_556
+Cu1 Nd0 3.542907 1_565
+Cu1 Nd0 3.542910 1_665
+Cu1 Nd0 3.542910 1_555

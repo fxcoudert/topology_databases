@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_LiLa(FeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25865836
+_cell_length_b   5.25865836
+_cell_length_c   7.74007929
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.18608768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa(FeO3)4
+_chemical_formula_sum   'Li1 La1 Fe4 O12'
+_cell_volume   213.99432769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00081606  0.99918394  -0.00000000  1
+  La  La0  1  0.51215441  0.48784559  0.50000000  1
+  Fe  Fe0  1  0.50201675  0.00158649  0.23228926  1
+  Fe  Fe1  1  0.50201675  0.00158649  0.76771074  1
+  Fe  Fe2  1  0.99841351  0.49798325  0.76771074  1
+  Fe  Fe3  1  0.99841351  0.49798325  0.23228926  1
+  O  O0  1  0.28909686  0.29248252  0.24950037  1
+  O  O1  1  0.70751748  0.71090314  0.24950037  1
+  O  O2  1  0.70751748  0.71090314  0.75049963  1
+  O  O3  1  0.28909686  0.29248252  0.75049963  1
+  O  O4  1  0.20160413  0.79839587  0.18299542  1
+  O  O5  1  0.77942324  0.22057676  0.30460463  1
+  O  O6  1  0.77942324  0.22057676  0.69539537  1
+  O  O7  1  0.20160413  0.79839587  0.81700458  1
+  O  O8  1  0.60989280  0.06014938  -0.00000000  1
+  O  O9  1  0.45847854  0.97323635  0.50000000  1
+  O  O10  1  0.93985062  0.39010720  -0.00000000  1
+  O  O11  1  0.02676365  0.54152146  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 2.069321 1_555
+Li0 O7 2.069321 1_554
+Li0 O8 2.087127 1_465
+Li0 O10 2.087127 1_465
+La0 O0 2.478049 1_555
+La0 O3 2.478049 1_555
+La0 O2 2.478049 1_555
+La0 O1 2.478049 1_555
+La0 O6 2.513918 1_555
+La0 O5 2.513918 1_555
+La0 O11 2.573864 1_555
+La0 O9 2.573864 1_555
+La0 O11 2.715018 1_655
+La0 O9 2.715018 1_545
+Fe0 O1 1.894885 1_545
+Fe0 O8 1.908402 1_555
+Fe0 O0 1.918951 1_555
+Fe0 O5 1.923012 1_555
+Fe0 O4 1.926932 1_545
+Fe0 O9 2.089699 1_545
+Fe1 O2 1.894885 1_545
+Fe1 O8 1.908402 1_556
+Fe1 O3 1.918951 1_555
+Fe1 O6 1.923012 1_555
+Fe1 O7 1.926932 1_545
+Fe1 O9 2.089699 1_545
+Fe2 O3 1.894885 1_655
+Fe2 O10 1.908402 1_556
+Fe2 O2 1.918951 1_555
+Fe2 O6 1.923012 1_555
+Fe2 O7 1.926932 1_655
+Fe2 O11 2.089699 1_655
+Fe3 O0 1.894885 1_655
+Fe3 O10 1.908402 1_555
+Fe3 O1 1.918951 1_555
+Fe3 O5 1.923012 1_555
+Fe3 O4 1.926932 1_655
+Fe3 O11 2.089699 1_655

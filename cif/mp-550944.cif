@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Sr2Fe2Se2OF2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16460481
+_cell_length_b   4.16457989
+_cell_length_c   9.90532549
+_cell_angle_alpha   102.13126545
+_cell_angle_beta   102.13526104
+_cell_angle_gamma   90.00000155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Fe2Se2OF2
+_chemical_formula_sum   'Sr2 Fe2 Se2 O1 F2'
+_cell_volume   164.03112865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.67553700  0.67548400  0.35107500  1
+  Sr  Sr1  1  0.32446300  0.32451600  0.64892400  1
+  Fe  Fe0  1  0.99999900  0.50000000  0.99999800  1
+  Fe  Fe1  1  0.50000100  0.00000200  0.00000300  1
+  Se  Se0  1  0.90243500  0.90246500  0.80486900  1
+  Se  Se1  1  0.09756600  0.09753500  0.19513100  1
+  O  O0  1  0.50000000  0.50000000  0.00000000  1
+  F  F0  1  0.75000100  0.24999200  0.50000200  1
+  F  F1  1  0.24999900  0.75000800  0.49999800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O0 2.082302 1_556
+Fe0 O0 2.082302 1_656
+Fe0 Se0 2.782373 1_555
+Fe0 Se0 2.782384 1_545
+Fe0 Se1 2.782402 1_666
+Fe0 Se1 2.782405 1_656
+Fe1 O0 2.082288 1_555
+Fe1 O0 2.082292 1_545
+Fe1 Se1 2.782378 1_555
+Fe1 Se1 2.782385 1_655
+Fe1 Se0 2.782416 1_444
+Fe1 Se0 2.782422 1_544
+Se0 Sr1 3.293496 1_565
+Se0 Sr1 3.293498 1_665
+Se0 Sr1 3.293503 1_555
+Se0 Sr1 3.293505 1_655
+Se1 Sr0 3.293489 1_545
+Se1 Sr0 3.293494 1_445
+Se1 Sr0 3.293499 1_555
+Se1 Sr0 3.293504 1_455
+F0 Sr0 2.513683 1_555
+F0 Sr1 2.513898 1_555
+F0 Sr1 2.513906 1_655
+F0 Sr0 2.514154 1_545
+F1 Sr1 2.513676 1_555
+F1 Sr0 2.513905 1_555
+F1 Sr0 2.513909 1_455
+F1 Sr1 2.514150 1_565

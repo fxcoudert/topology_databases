@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Ba2CaN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67197000
+_cell_length_b   6.02714500
+_cell_length_c   11.43354800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaN2
+_chemical_formula_sum   'Ba4 Ca2 N4'
+_cell_volume   253.04151755
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.22809000  0.25000000  0.93584000  1
+  Ba  Ba1  1  0.22809000  0.25000000  0.56416000  1
+  Ba  Ba2  1  0.77191000  0.75000000  0.06416000  1
+  Ba  Ba3  1  0.77191000  0.75000000  0.43584000  1
+  Ca  Ca0  1  0.22892700  0.25000000  0.25000000  1
+  Ca  Ca1  1  0.77107300  0.75000000  0.75000000  1
+  N  N0  1  0.70910500  0.25000000  0.40318600  1
+  N  N1  1  0.70910500  0.25000000  0.09681400  1
+  N  N2  1  0.29089500  0.75000000  0.59681400  1
+  N  N3  1  0.29089500  0.75000000  0.90318600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 N1 2.550916 1_556
+Ba0 N1 2.649365 1_456
+Ba0 N3 3.045356 1_545
+Ba0 N3 3.045356 1_555
+Ba1 N0 2.550916 1_555
+Ba1 N0 2.649365 1_455
+Ba1 N2 3.045356 1_555
+Ba1 N2 3.045356 1_545
+Ba2 N3 2.550916 1_554
+Ba2 N3 2.649365 1_654
+Ba2 N1 3.045356 1_565
+Ba2 N1 3.045356 1_555
+Ba3 N2 2.550916 1_555
+Ba3 N2 2.649365 1_655
+Ba3 N0 3.045356 1_565
+Ba3 N0 3.045356 1_555
+Ca0 N1 2.485253 1_555
+Ca0 N0 2.485253 1_555
+Ca0 N0 2.590563 1_455
+Ca0 N1 2.590563 1_455
+Ca1 N2 2.485253 1_555
+Ca1 N3 2.485253 1_555
+Ca1 N2 2.590563 1_655
+Ca1 N3 2.590563 1_655

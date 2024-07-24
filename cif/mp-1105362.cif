@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_MnTeMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30361100
+_cell_length_b   5.30361100
+_cell_length_c   9.28707800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTeMoO6
+_chemical_formula_sum   'Mn2 Te2 Mo2 O12'
+_cell_volume   261.22961989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te0  1  0.00000000  0.50000000  0.75583700  1
+  Te  Te1  1  0.50000000  0.00000000  0.24416300  1
+  Mo  Mo0  1  0.50000000  0.00000000  0.69139200  1
+  Mo  Mo1  1  0.00000000  0.50000000  0.30860800  1
+  O  O0  1  0.31419300  0.81419300  0.57910000  1
+  O  O1  1  0.18580700  0.31419300  0.42090000  1
+  O  O2  1  0.68580700  0.18580700  0.57910000  1
+  O  O3  1  0.81419300  0.68580700  0.42090000  1
+  O  O4  1  0.28148800  0.21851200  0.79378500  1
+  O  O5  1  0.21851200  0.71851200  0.20621500  1
+  O  O6  1  0.71851200  0.78148800  0.79378500  1
+  O  O7  1  0.78148800  0.28148800  0.20621500  1
+  O  O8  1  0.80812300  0.30812300  0.89296300  1
+  O  O9  1  0.69187700  0.80812300  0.10703700  1
+  O  O10  1  0.19187700  0.69187700  0.89296300  1
+  O  O11  1  0.30812300  0.19187700  0.10703700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O8 2.166620 1_454
+Mn0 O11 2.166620 1_555
+Mn0 O10 2.166620 1_544
+Mn0 O9 2.166620 1_445
+Mn0 O5 2.690642 1_545
+Mn0 O7 2.690642 1_455
+Mn0 O4 2.690642 1_554
+Mn0 O6 2.690642 1_444
+Mn1 O11 2.166620 1_555
+Mn1 O9 2.166620 1_555
+Mn1 O10 2.166620 1_554
+Mn1 O8 2.166620 1_554
+Mn1 O4 2.690642 1_554
+Mn1 O7 2.690642 1_555
+Mn1 O5 2.690642 1_555
+Mn1 O6 2.690642 1_554
+Mo0 O2 1.740627 1_555
+Mo0 O0 1.740627 1_545
+Mo0 O4 1.894830 1_555
+Mo0 O6 1.894830 1_545
+Mo1 O1 1.740627 1_555
+Mo1 O3 1.740627 1_455
+Mo1 O7 1.894830 1_455
+Mo1 O5 1.894830 1_555
+O4 Te0 2.140496 1_555
+O5 Te1 2.140496 1_565
+O6 Te0 2.140496 1_655
+O7 Te1 2.140496 1_555
+O8 Te0 1.921715 1_655
+O9 Te1 1.921715 1_565
+O10 Te0 1.921715 1_555
+O11 Te1 1.921715 1_555

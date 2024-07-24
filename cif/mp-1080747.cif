@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_ScAlCO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24090781
+_cell_length_b   3.24090781
+_cell_length_c   10.17230395
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00008072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlCO
+_chemical_formula_sum   'Sc2 Al2 C2 O2'
+_cell_volume   92.53008537
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66667965  0.33332035  0.80386436  1
+  Sc  Sc1  1  0.33332035  0.66667965  0.30386436  1
+  Al  Al0  1  0.00000912  0.99999088  0.52044164  1
+  Al  Al1  1  0.99999088  0.00000912  0.02044164  1
+  C  C0  1  0.33332570  0.66667430  0.94225338  1
+  C  C1  1  0.66667430  0.33332570  0.44225338  1
+  O  O0  1  0.00000503  0.99999497  0.69675963  1
+  O  O1  1  0.99999497  0.00000503  0.19675963  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 O0 1.793560 1_555
+Al0 C1 2.033157 1_455
+Al0 C1 2.033157 1_565
+Al0 C1 2.033171 1_465
+Al1 O1 1.793560 1_555
+Al1 C0 2.033157 1_544
+Al1 C0 2.033157 1_654
+Al1 C0 2.033171 1_644
+C0 Sc0 2.341507 1_455
+C0 Sc0 2.341507 1_565
+C0 Sc0 2.341648 1_555
+C1 Sc1 2.341507 1_655
+C1 Sc1 2.341507 1_545
+C1 Sc1 2.341648 1_555
+O0 Sc0 2.165182 1_465
+O0 Sc0 2.165237 1_455
+O0 Sc0 2.165237 1_565
+O1 Sc1 2.165182 1_645
+O1 Sc1 2.165237 1_655
+O1 Sc1 2.165237 1_545

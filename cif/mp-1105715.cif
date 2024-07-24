@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_TiGeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47928158
+_cell_length_b   9.11405508
+_cell_length_c   13.69769828
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiGeS3
+_chemical_formula_sum   'Ti4 Ge4 S12'
+_cell_volume   434.35899786
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.75000000  0.35122002  0.95144813  1
+  Ti  Ti1  1  0.75000000  0.85122002  0.54855187  1
+  Ti  Ti2  1  0.25000000  0.64877998  0.04855187  1
+  Ti  Ti3  1  0.25000000  0.14877998  0.45144813  1
+  Ge  Ge0  1  0.25000000  0.07898437  0.84359660  1
+  Ge  Ge1  1  0.25000000  0.57898437  0.65640340  1
+  Ge  Ge2  1  0.75000000  0.92101563  0.15640340  1
+  Ge  Ge3  1  0.75000000  0.42101563  0.34359660  1
+  S  S0  1  0.25000000  0.51816015  0.89481443  1
+  S  S1  1  0.25000000  0.01816015  0.60518557  1
+  S  S2  1  0.75000000  0.48183985  0.10518557  1
+  S  S3  1  0.75000000  0.98183985  0.39481443  1
+  S  S4  1  0.75000000  0.23932789  0.79031409  1
+  S  S5  1  0.75000000  0.73932789  0.70968591  1
+  S  S6  1  0.25000000  0.76067211  0.20968591  1
+  S  S7  1  0.25000000  0.26067211  0.29031409  1
+  S  S8  1  0.25000000  0.18276394  0.00600699  1
+  S  S9  1  0.25000000  0.68276394  0.49399301  1
+  S  S10  1  0.75000000  0.81723606  0.99399301  1
+  S  S11  1  0.75000000  0.31723606  0.50600699  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 S4 2.386348 1_455
+Ge0 S4 2.386348 1_555
+Ge0 S8 2.417374 1_556
+Ge1 S5 2.386348 1_455
+Ge1 S5 2.386348 1_555
+Ge1 S9 2.417374 1_555
+Ge2 S6 2.386348 1_555
+Ge2 S6 2.386348 1_655
+Ge2 S10 2.417374 1_554
+Ge3 S7 2.386348 1_655
+Ge3 S7 2.386348 1_555
+Ge3 S11 2.417374 1_555
+S0 Ti2 2.419056 1_556
+S0 Ti0 2.437849 1_555
+S0 Ti0 2.437849 1_455
+S1 Ti3 2.419056 1_555
+S1 Ti1 2.437849 1_445
+S1 Ti1 2.437849 1_545
+S2 Ti0 2.419056 1_554
+S2 Ti2 2.437849 1_655
+S2 Ti2 2.437849 1_555
+S3 Ti1 2.419056 1_555
+S3 Ti3 2.437849 1_565
+S3 Ti3 2.437849 1_665
+S4 Ti0 2.431369 1_555
+S5 Ti1 2.431369 1_555
+S6 Ti2 2.431369 1_555
+S7 Ti3 2.431369 1_555
+S8 Ti0 2.437633 1_554
+S8 Ti0 2.437633 1_454
+S9 Ti1 2.437633 1_455
+S9 Ti1 2.437633 1_555
+S10 Ti2 2.437633 1_656
+S10 Ti2 2.437633 1_556
+S11 Ti3 2.437633 1_655
+S11 Ti3 2.437633 1_555

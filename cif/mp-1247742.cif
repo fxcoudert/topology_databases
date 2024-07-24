@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_AlVN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55625700
+_cell_length_b   6.46962100
+_cell_length_c   5.01384600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlVN2
+_chemical_formula_sum   'Al4 V4 N8'
+_cell_volume   180.23210530
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.58247100  0.37517700  0.00106800  1
+  Al  Al1  1  0.41752900  0.62482300  0.50106800  1
+  Al  Al2  1  0.91752900  0.87517700  0.50106800  1
+  Al  Al3  1  0.08247100  0.12482300  0.00106800  1
+  V  V0  1  0.58011300  0.87707000  0.99255300  1
+  V  V1  1  0.41988700  0.12293000  0.49255300  1
+  V  V2  1  0.91988700  0.37707000  0.49255300  1
+  V  V3  1  0.08011300  0.62293000  0.99255300  1
+  N  N0  1  0.57781400  0.38209200  0.38301100  1
+  N  N1  1  0.42218600  0.61790800  0.88301100  1
+  N  N2  1  0.92218600  0.88209200  0.88301100  1
+  N  N3  1  0.07781400  0.11790800  0.38301100  1
+  N  N4  1  0.59069700  0.86399000  0.39336900  1
+  N  N5  1  0.40930300  0.13601000  0.89336900  1
+  N  N6  1  0.90930300  0.36399000  0.89336900  1
+  N  N7  1  0.09069700  0.63601000  0.39336900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 N6 1.895928 1_554
+Al0 N1 1.899894 1_554
+Al0 N5 1.900407 1_554
+Al0 N0 1.915701 1_555
+Al1 N7 1.895928 1_555
+Al1 N0 1.899894 1_555
+Al1 N4 1.900407 1_555
+Al1 N1 1.915701 1_555
+Al2 N4 1.895928 1_555
+Al2 N3 1.899894 1_665
+Al2 N7 1.900407 1_655
+Al2 N2 1.915701 1_555
+Al3 N5 1.895928 1_554
+Al3 N2 1.899894 1_444
+Al3 N6 1.900407 1_454
+Al3 N3 1.915701 1_555
+N0 V1 1.970503 1_555
+N0 V2 1.978676 1_555
+N1 V0 1.970503 1_555
+N1 V3 1.978676 1_555
+N2 V3 1.970503 1_655
+N2 V0 1.978676 1_555
+N3 V2 1.970503 1_455
+N3 V1 1.978676 1_555
+N4 V1 1.988584 1_565
+N4 V0 2.012270 1_554
+N5 V0 1.988584 1_545
+N5 V1 2.012270 1_555
+N6 V3 1.988584 1_655
+N6 V2 2.012270 1_555
+N7 V2 1.988584 1_455
+N7 V3 2.012270 1_554

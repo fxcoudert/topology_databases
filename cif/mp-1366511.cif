@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_CaV2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23592700
+_cell_length_b   5.95370300
+_cell_length_c   14.24657300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaV2S5
+_chemical_formula_sum   'Ca2 V4 S10'
+_cell_volume   359.29075379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.62568000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.37432000  0.50000000  1
+  V  V0  1  0.00000000  0.10629100  0.84748000  1
+  V  V1  1  0.50000000  0.89370900  0.65252000  1
+  V  V2  1  0.50000000  0.89370900  0.34748000  1
+  V  V3  1  0.00000000  0.10629100  0.15252000  1
+  S  S0  1  0.50000000  0.03911300  0.50000000  1
+  S  S1  1  0.00000000  0.96088700  0.00000000  1
+  S  S2  1  0.50000000  0.94444400  0.81981600  1
+  S  S3  1  0.00000000  0.05555600  0.68018400  1
+  S  S4  1  0.50000000  0.94444400  0.18018400  1
+  S  S5  1  0.00000000  0.05555600  0.31981600  1
+  S  S6  1  0.00000000  0.45996400  0.12852000  1
+  S  S7  1  0.50000000  0.54003600  0.37148000  1
+  S  S8  1  0.50000000  0.54003600  0.62852000  1
+  S  S9  1  0.00000000  0.45996400  0.87148000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 S1 2.910100 1_655
+Ca0 S1 2.910100 1_555
+Ca0 S9 2.968442 1_654
+Ca0 S6 2.968442 1_555
+Ca0 S9 2.968442 1_554
+Ca0 S6 2.968442 1_655
+Ca0 S2 3.192375 1_554
+Ca0 S4 3.192375 1_555
+Ca1 S0 2.910100 1_455
+Ca1 S0 2.910100 1_555
+Ca1 S8 2.968442 1_455
+Ca1 S8 2.968442 1_555
+Ca1 S7 2.968442 1_555
+Ca1 S7 2.968442 1_455
+Ca1 S3 3.192375 1_555
+Ca1 S5 3.192375 1_555
+S0 V2 2.338987 1_545
+S0 V1 2.338987 1_545
+S1 V0 2.338987 1_564
+S1 V3 2.338987 1_565
+S2 V0 2.360000 1_665
+S2 V0 2.360000 1_565
+S2 V1 2.402459 1_555
+S3 V1 2.360000 1_445
+S3 V1 2.360000 1_545
+S3 V0 2.402459 1_555
+S4 V3 2.360000 1_565
+S4 V3 2.360000 1_665
+S4 V2 2.402459 1_555
+S5 V2 2.360000 1_545
+S5 V2 2.360000 1_445
+S5 V3 2.402459 1_555
+S6 V3 2.133244 1_555
+S7 V2 2.133244 1_555
+S8 V1 2.133244 1_555
+S9 V0 2.133244 1_555

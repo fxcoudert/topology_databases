@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Tl2SiHgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73303666
+_cell_length_b   6.73303564
+_cell_length_c   6.73303615
+_cell_angle_alpha   105.08067242
+_cell_angle_beta   105.08067907
+_cell_angle_gamma   118.66204045
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2SiHgSe4
+_chemical_formula_sum   'Tl2 Si1 Hg1 Se4'
+_cell_volume   230.36981652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.50000000  0.00000000  0.50000000  1
+  Tl  Tl1  1  0.00000000  0.50000000  0.50000000  1
+  Si  Si0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg0  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.95525200  0.63631300  0.00000000  1
+  Se  Se1  1  0.63631300  0.95525200  0.00000000  1
+  Se  Se2  1  0.04474800  0.04474800  0.68106100  1
+  Se  Se3  1  0.36368700  0.36368700  0.31893900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tl0 Tl1 3.434369 1_655
+Tl0 Tl1 3.434369 1_545
+Hg0 Se1 2.745771 1_555
+Hg0 Se3 2.745771 1_555
+Hg0 Se2 2.745771 1_554
+Hg0 Se0 2.745771 1_555
+Se0 Si0 2.319323 1_665
+Se0 Tl1 3.384057 1_654
+Se0 Tl0 3.384057 1_665
+Se1 Si0 2.319323 1_665
+Se1 Tl1 3.384057 1_665
+Se1 Tl0 3.384057 1_564
+Se2 Si0 2.319323 1_556
+Se2 Tl1 3.384057 1_545
+Se2 Tl0 3.384057 1_455
+Se3 Si0 2.319323 1_555
+Se3 Tl0 3.384057 1_555
+Se3 Tl1 3.384057 1_555

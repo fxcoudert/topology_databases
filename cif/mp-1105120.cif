@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SmPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30039632
+_cell_length_b   7.02099534
+_cell_length_c   7.02099534
+_cell_angle_alpha   119.99617947
+_cell_angle_beta   90.03720618
+_cell_angle_gamma   89.96279382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPO4
+_chemical_formula_sum   'Sm3 P3 O12'
+_cell_volume   268.97534106
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66660204  0.40682627  0.90179181  1
+  Sm  Sm1  1  0.33339796  0.90179181  0.40682627  1
+  Sm  Sm2  1  -0.00000000  0.39713898  0.39713898  1
+  P  P0  1  0.16660772  0.41041980  0.90204772  1
+  P  P1  1  0.83339228  0.90204772  0.41041980  1
+  P  P2  1  0.50000000  0.39269266  0.39269266  1
+  O  O0  1  0.35079671  0.58609565  0.44750954  1
+  O  O1  1  0.64920329  0.44750954  0.58609565  1
+  O  O2  1  0.65023943  0.33838537  0.20043772  1
+  O  O3  1  0.34976057  0.20043772  0.33838537  1
+  O  O4  1  0.01748279  0.35582719  0.04065907  1
+  O  O5  1  0.98251721  0.04065907  0.35582719  1
+  O  O6  1  0.31553670  0.21700589  0.76329700  1
+  O  O7  1  0.68446330  0.76329700  0.21700589  1
+  O  O8  1  0.31706126  0.60249086  0.03993231  1
+  O  O9  1  0.68293874  0.03993231  0.60249086  1
+  O  O10  1  0.01627962  0.46516293  0.76431124  1
+  O  O11  1  0.98372038  0.76431124  0.46516293  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 P2 1.533593 1_555
+O0 Sm1 2.374693 1_555
+O0 Sm2 2.510692 1_555
+O1 P2 1.533593 1_555
+O1 Sm0 2.374693 1_555
+O1 Sm2 2.510692 1_655
+O2 P2 1.532960 1_555
+O2 Sm0 2.376100 1_554
+O2 Sm2 2.522106 1_655
+O3 P2 1.532960 1_555
+O3 Sm1 2.376100 1_545
+O3 Sm2 2.522106 1_555
+O4 P0 1.533424 1_554
+O4 Sm2 2.373803 1_555
+O4 Sm0 2.512208 1_454
+O5 P1 1.533424 1_545
+O5 Sm2 2.373803 1_655
+O5 Sm1 2.512208 1_645
+O6 P0 1.533065 1_555
+O6 Sm1 2.374067 1_545
+O6 Sm0 2.513808 1_555
+O7 P1 1.533065 1_555
+O7 Sm0 2.374067 1_554
+O7 Sm1 2.513808 1_555
+O8 P0 1.532774 1_554
+O8 Sm1 2.376862 1_555
+O8 Sm0 2.518807 1_554
+O9 P1 1.532774 1_545
+O9 Sm0 2.376862 1_555
+O9 Sm1 2.518807 1_545
+O10 P0 1.532950 1_555
+O10 Sm2 2.377588 1_555
+O10 Sm0 2.520394 1_455
+O11 P1 1.532950 1_555
+O11 Sm2 2.377588 1_655
+O11 Sm1 2.520394 1_655

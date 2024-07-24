@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_CeGaPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77256203
+_cell_length_b   7.01606225
+_cell_length_c   7.63589042
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00147108
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGaPd2
+_chemical_formula_sum   'Ce4 Ga4 Pd8'
+_cell_volume   309.25855999
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.84603454  0.25000000  0.46203399  1
+  Ce  Ce1  1  0.15396103  0.75000000  0.53778575  1
+  Ce  Ce2  1  0.34603731  0.75000000  0.03800961  1
+  Ce  Ce3  1  0.65391454  0.25000000  0.96217629  1
+  Ga  Ga0  1  0.65595497  0.75000000  0.38130717  1
+  Ga  Ga1  1  0.34405589  0.25000000  0.61868113  1
+  Ga  Ga2  1  0.84405130  0.75000000  0.88120516  1
+  Ga  Ga3  1  0.15586345  0.25000000  0.11883124  1
+  Pd  Pd0  1  0.91305371  0.55192550  0.17712370  1
+  Pd  Pd1  1  0.58693043  0.94809164  0.67692985  1
+  Pd  Pd2  1  0.58693043  0.55190836  0.67692985  1
+  Pd  Pd3  1  0.41319554  0.44801440  0.32290660  1
+  Pd  Pd4  1  0.41319554  0.05198560  0.32290660  1
+  Pd  Pd5  1  0.91305371  0.94807450  0.17712370  1
+  Pd  Pd6  1  0.08688380  0.05198638  0.82302468  1
+  Pd  Pd7  1  0.08688380  0.44801362  0.82302468  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Pd3 3.049841 1_555
+Ce0 Pd4 3.049841 1_555
+Ce0 Pd0 3.061049 1_555
+Ce0 Pd5 3.061049 1_545
+Ce0 Pd1 3.068657 1_545
+Ce0 Pd2 3.068657 1_555
+Ce0 Ga1 3.113742 1_655
+Ce0 Ga1 3.134902 1_555
+Ce0 Ga3 3.172830 1_655
+Ce0 Pd7 3.385422 1_655
+Ce0 Pd6 3.385422 1_655
+Ce1 Pd1 3.050749 1_555
+Ce1 Pd2 3.050749 1_555
+Ce1 Pd6 3.063170 1_565
+Ce1 Pd7 3.063170 1_555
+Ce1 Pd3 3.069330 1_555
+Ce1 Pd4 3.069330 1_565
+Ce1 Ga0 3.113166 1_455
+Ce1 Ga0 3.134493 1_555
+Ce1 Ga2 3.174459 1_455
+Ce1 Pd5 3.383693 1_455
+Ce1 Pd0 3.383693 1_455
+Ce2 Pd5 3.050726 1_455
+Ce2 Pd0 3.050726 1_455
+Ce2 Pd3 3.061356 1_555
+Ce2 Pd4 3.061356 1_565
+Ce2 Pd7 3.069496 1_554
+Ce2 Pd6 3.069496 1_564
+Ce2 Ga2 3.114221 1_554
+Ce2 Ga2 3.135343 1_454
+Ce2 Ga0 3.173641 1_555
+Ce2 Pd2 3.386363 1_554
+Ce2 Pd1 3.386363 1_554
+Ce3 Pd7 3.050564 1_655
+Ce3 Pd6 3.050564 1_655
+Ce3 Pd1 3.062750 1_545
+Ce3 Pd2 3.062750 1_555
+Ce3 Pd5 3.069008 1_546
+Ce3 Pd0 3.069008 1_556
+Ce3 Ga3 3.113980 1_556
+Ce3 Ga3 3.134710 1_656
+Ce3 Ga1 3.174695 1_555
+Ce3 Pd4 3.383555 1_556
+Ce3 Pd3 3.383555 1_556
+Ga0 Pd5 2.562199 1_555
+Ga0 Pd0 2.562199 1_555
+Ga0 Pd3 2.579088 1_555
+Ga0 Pd4 2.579088 1_565
+Ga0 Pd1 2.680674 1_555
+Ga0 Pd2 2.680674 1_555
+Ga1 Pd7 2.562957 1_555
+Ga1 Pd6 2.562957 1_555
+Ga1 Pd2 2.578804 1_555
+Ga1 Pd1 2.578804 1_545
+Ga1 Pd4 2.681468 1_555
+Ga1 Pd3 2.681468 1_555
+Ga2 Pd1 2.562719 1_555
+Ga2 Pd2 2.562719 1_555
+Ga2 Pd7 2.579044 1_655
+Ga2 Pd6 2.579044 1_665
+Ga2 Pd5 2.682478 1_556
+Ga2 Pd0 2.682478 1_556
+Ga3 Pd3 2.562202 1_555
+Ga3 Pd4 2.562202 1_555
+Ga3 Pd0 2.578769 1_455
+Ga3 Pd5 2.578769 1_445
+Ga3 Pd6 2.681517 1_554
+Ga3 Pd7 2.681517 1_554

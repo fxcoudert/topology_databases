@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Li10BrN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36187994
+_cell_length_b   7.36187898
+_cell_length_c   3.85096339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li10BrN3
+_chemical_formula_sum   'Li10 Br1 N3'
+_cell_volume   180.74963419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.77909564  0.55819228  0.00000000  1
+  Li  Li1  1  0.44180772  0.22090436  -0.00000000  1
+  Li  Li2  1  0.77909564  0.22090436  0.00000000  1
+  Li  Li3  1  0.16745476  0.33490852  -0.00000000  1
+  Li  Li4  1  0.49220103  0.50779897  0.50000000  1
+  Li  Li5  1  0.01559893  0.50779897  0.50000000  1
+  Li  Li6  1  0.49220103  0.98440107  0.50000000  1
+  Li  Li7  1  0.33333300  0.66666700  0.00000000  1
+  Li  Li8  1  0.16745476  0.83254524  0.00000000  1
+  Li  Li9  1  0.66509148  0.83254524  -0.00000000  1
+  Br  Br0  1  0.00000000  -0.00000000  0.50000000  1
+  N  N0  1  0.49138263  0.50861737  -0.00000000  1
+  N  N1  1  0.49138263  0.98276325  -0.00000000  1
+  N  N2  1  0.01723675  0.50861737  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N0 1.961262 1_555
+Li0 N2 1.961284 1_655
+Li1 N0 1.961262 1_555
+Li1 N1 1.961284 1_545
+Li2 N2 1.961270 1_655
+Li2 N1 1.961270 1_545
+Li3 N2 2.067029 1_555
+Li3 N0 2.067036 1_555
+Li4 N0 1.925510 1_556
+Li4 N0 1.925510 1_555
+Li5 N2 1.925510 1_556
+Li5 N2 1.925510 1_555
+Li6 N1 1.925510 1_556
+Li6 N1 1.925510 1_555
+Li7 N1 2.015295 1_555
+Li7 N2 2.015295 1_555
+Li7 N0 2.015314 1_555
+Li8 N2 2.067036 1_555
+Li8 N1 2.067036 1_555
+Li9 N1 2.067029 1_555
+Li9 N0 2.067035 1_555
+Br0 Li3 2.875188 1_555
+Br0 Li3 2.875188 1_556
+Br0 Li9 2.875188 1_446
+Br0 Li9 2.875188 1_445
+Br0 Li8 2.875193 1_546
+Br0 Li8 2.875193 1_545

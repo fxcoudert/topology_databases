@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiInSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98141804
+_cell_length_b   5.98141853
+_cell_length_c   7.24401613
+_cell_angle_alpha   114.38414331
+_cell_angle_beta   114.38414736
+_cell_angle_gamma   90.00000879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiInSe2
+_chemical_formula_sum   'Li2 In2 Se4'
+_cell_volume   210.40947671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li1  1  0.75000000  0.25000000  0.50000000  1
+  In  In0  1  0.25000000  0.75000000  0.50000000  1
+  In  In1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.86759225  0.87500000  0.25000000  1
+  Se  Se1  1  0.62500000  0.13240775  0.75000000  1
+  Se  Se2  1  0.38240775  0.37500000  0.25000000  1
+  Se  Se3  1  0.12500000  0.61759225  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se0 2.550159 1_555
+Li0 Se3 2.550159 1_554
+Li0 Se2 2.550159 1_555
+Li0 Se1 2.550159 1_554
+Li1 Se3 2.550159 1_655
+Li1 Se2 2.550159 1_555
+Li1 Se1 2.550159 1_555
+Li1 Se0 2.550159 1_545
+In0 Se1 2.601603 1_565
+In0 Se0 2.601604 1_455
+In0 Se3 2.601604 1_555
+In0 Se2 2.601604 1_555
+In1 Se2 2.601603 1_555
+In1 Se1 2.601604 1_454
+In1 Se0 2.601604 1_445
+In1 Se3 2.601604 1_544

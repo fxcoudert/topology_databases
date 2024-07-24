@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Li(CoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68885129
+_cell_length_b   6.68885155
+_cell_length_c   6.72423244
+_cell_angle_alpha   120.79214886
+_cell_angle_beta   118.69413201
+_cell_angle_gamma   90.15433939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(CoS2)2
+_chemical_formula_sum   'Li2 Co4 S8'
+_cell_volume   214.01900162
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000100  0.00000100  1
+  Li  Li1  1  0.00000100  0.00000000  0.50000000  1
+  Co  Co0  1  0.37385700  0.62385700  0.75000000  1
+  Co  Co1  1  0.62614400  0.37614500  0.25000000  1
+  Co  Co2  1  0.50000100  0.00000000  0.50000000  1
+  Co  Co3  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.74684500  0.76733500  0.52615600  1
+  S  S1  1  0.74118100  0.22069100  0.97384600  1
+  S  S2  1  0.24659100  0.23735900  0.00388400  1
+  S  S3  1  0.25315500  0.23266400  0.47384500  1
+  S  S4  1  0.26652500  0.75729300  0.50388300  1
+  S  S5  1  0.25881900  0.77931000  0.02615600  1
+  S  S6  1  0.73347500  0.24270600  0.49611600  1
+  S  S7  1  0.75340900  0.76264100  0.99611600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S7 2.414263 1_454
+Li0 S2 2.414272 1_555
+Li0 S4 2.415159 1_555
+Li0 S6 2.415172 1_454
+Li0 S5 2.423255 1_555
+Li0 S1 2.423260 1_454
+Li1 S4 2.414262 1_545
+Li1 S6 2.414268 1_455
+Li1 S2 2.415168 1_556
+Li1 S7 2.415168 1_444
+Li1 S3 2.423255 1_555
+Li1 S0 2.423274 1_445
+Co0 S7 2.103739 1_555
+Co0 S4 2.103745 1_555
+Co0 S3 2.126257 1_555
+Co0 S5 2.126262 1_556
+Co1 S2 2.103745 1_555
+Co1 S6 2.103756 1_555
+Co1 S0 2.126242 1_555
+Co1 S1 2.126247 1_554
+Co2 S6 2.268023 1_555
+Co2 S4 2.268032 1_545
+Co2 S5 2.273623 1_545
+Co2 S1 2.273632 1_555
+Co2 S0 2.279090 1_545
+Co2 S3 2.279094 1_555
+Co3 S7 2.268032 1_444
+Co3 S2 2.268032 1_555
+Co3 S0 2.273623 1_444
+Co3 S3 2.273628 1_555
+Co3 S5 2.279090 1_545
+Co3 S1 2.279094 1_454

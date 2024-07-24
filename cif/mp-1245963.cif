@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Ba(FeN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38476229
+_cell_length_b   6.08600831
+_cell_length_c   9.43301402
+_cell_angle_alpha   89.99999545
+_cell_angle_beta   42.37809272
+_cell_angle_gamma   61.53615224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(FeN)2
+_chemical_formula_sum   'Ba2 Fe4 N4'
+_cell_volume   174.69703686
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.25000000  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.75000000  1
+  Fe  Fe0  1  0.73120700  0.50000000  0.63439700  1
+  Fe  Fe1  1  0.26879300  0.50000000  0.36560300  1
+  Fe  Fe2  1  0.26879300  0.23120700  0.86560300  1
+  Fe  Fe3  1  0.73120700  0.76879300  0.13439700  1
+  N  N0  1  0.68115200  0.50000000  0.15942400  1
+  N  N1  1  0.31884800  0.50000000  0.84057600  1
+  N  N2  1  0.31884800  0.18115200  0.34057600  1
+  N  N3  1  0.68115200  0.81884800  0.65942400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 N3 3.286189 1_544
+Ba0 N3 3.286189 1_445
+Ba0 N1 3.286189 1_455
+Ba0 N0 3.286190 1_455
+Ba0 N2 3.286190 1_455
+Ba0 N1 3.286190 1_544
+Ba0 N0 3.286190 1_545
+Ba0 N2 3.286190 1_555
+Ba0 Fe2 3.343842 1_455
+Ba0 Fe0 3.343842 1_544
+Ba0 Fe1 3.343842 1_545
+Ba0 Fe3 3.343842 1_445
+Ba0 Fe2 3.343848 1_554
+Ba0 Fe3 3.343849 1_545
+Ba0 Fe1 3.343849 1_455
+Ba0 Fe0 3.343849 1_455
+Ba1 N2 3.286189 1_456
+Ba1 N2 3.286189 1_555
+Ba1 N0 3.286189 1_545
+Ba1 N1 3.286190 1_545
+Ba1 N3 3.286190 1_545
+Ba1 N0 3.286190 1_456
+Ba1 N1 3.286190 1_455
+Ba1 N3 3.286190 1_445
+Ba1 Fe3 3.343842 1_545
+Ba1 Fe1 3.343842 1_456
+Ba1 Fe0 3.343842 1_455
+Ba1 Fe2 3.343842 1_555
+Ba1 Fe3 3.343848 1_446
+Ba1 Fe2 3.343849 1_455
+Ba1 Fe0 3.343849 1_545
+Ba1 Fe1 3.343849 1_545
+Fe0 N1 1.774569 1_555
+Fe0 N2 1.794669 1_655
+Fe0 N3 1.794669 1_555
+Fe1 N0 1.774569 1_555
+Fe1 N3 1.794669 1_455
+Fe1 N2 1.794669 1_555
+Fe2 N3 1.774570 1_545
+Fe2 N0 1.794669 1_456
+Fe2 N1 1.794669 1_555
+Fe3 N2 1.774570 1_565
+Fe3 N1 1.794669 1_654
+Fe3 N0 1.794669 1_555

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_TbMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34860614
+_cell_length_b   6.34860614
+_cell_length_c   6.93922215
+_cell_angle_alpha   76.09722537
+_cell_angle_beta   76.09722537
+_cell_angle_gamma   70.85277669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMoClO4
+_chemical_formula_sum   'Tb2 Mo2 Cl2 O8'
+_cell_volume   252.46429714
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.22167000  0.22167000  0.88765200  1
+  Tb  Tb1  1  0.77833000  0.77833000  0.11234800  1
+  Mo  Mo0  1  0.36248000  0.36248000  0.26887700  1
+  Mo  Mo1  1  0.63752000  0.63752000  0.73112300  1
+  Cl  Cl0  1  0.01037700  0.01037700  0.23352500  1
+  Cl  Cl1  1  0.98962300  0.98962300  0.76647500  1
+  O  O0  1  0.29351200  0.29351200  0.53465200  1
+  O  O1  1  0.88864200  0.50902300  0.84755300  1
+  O  O2  1  0.70648800  0.70648800  0.46534800  1
+  O  O3  1  0.45778000  0.45778000  0.79670400  1
+  O  O4  1  0.49097700  0.11135800  0.15244700  1
+  O  O5  1  0.50902300  0.88864200  0.84755300  1
+  O  O6  1  0.11135800  0.49097700  0.15244700  1
+  O  O7  1  0.54222000  0.54222000  0.20329600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O0 1.770430 1_555
+Mo0 O7 1.779436 1_555
+Mo0 O4 1.819079 1_555
+Mo0 O6 1.819079 1_555
+Mo1 O2 1.770430 1_555
+Mo1 O3 1.779436 1_555
+Mo1 O5 1.819079 1_555
+Mo1 O1 1.819079 1_555
+Cl0 Tb0 2.728614 1_554
+Cl0 Tb1 2.767994 1_445
+Cl1 Tb1 2.728614 1_556
+Cl1 Tb0 2.767994 1_665
+O0 Tb0 2.340729 1_555
+O1 Tb0 2.320380 1_655
+O1 Tb1 2.625975 1_556
+O2 Tb1 2.340729 1_555
+O3 Tb0 2.335993 1_555
+O4 Tb1 2.320380 1_545
+O4 Tb0 2.625975 1_554
+O5 Tb0 2.320380 1_565
+O5 Tb1 2.625975 1_556
+O6 Tb1 2.320380 1_455
+O6 Tb0 2.625975 1_554
+O7 Tb1 2.335993 1_555

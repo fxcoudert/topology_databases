@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_NaCaSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42326529
+_cell_length_b   5.42326529
+_cell_length_c   7.20702100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.54021741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaSiO4
+_chemical_formula_sum   'Na2 Ca2 Si2 O8'
+_cell_volume   189.63414901
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68181500  0.31818500  0.75000000  1
+  Na  Na1  1  0.31818500  0.68181500  0.25000000  1
+  Ca  Ca0  1  0.99627300  0.99627300  0.00000000  1
+  Ca  Ca1  1  0.00372700  0.00372700  0.50000000  1
+  Si  Si0  1  0.35555200  0.64444800  0.75000000  1
+  Si  Si1  1  0.64444800  0.35555200  0.25000000  1
+  O  O0  1  0.69288300  0.77981200  0.74431800  1
+  O  O1  1  0.77981200  0.69288300  0.25568200  1
+  O  O2  1  0.30711700  0.22018800  0.24431800  1
+  O  O3  1  0.22018800  0.30711700  0.75568200  1
+  O  O4  1  0.27396300  0.76996000  0.93742800  1
+  O  O5  1  0.76996000  0.27396300  0.06257200  1
+  O  O6  1  0.72603700  0.23004000  0.43742800  1
+  O  O7  1  0.23004000  0.72603700  0.56257200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O6 2.337349 1_555
+Na0 O5 2.337349 1_556
+Na0 O3 2.477626 1_555
+Na0 O0 2.477626 1_555
+Na1 O4 2.337349 1_554
+Na1 O7 2.337349 1_555
+Na1 O1 2.477626 1_555
+Na1 O2 2.477626 1_555
+Ca0 O3 2.363797 1_664
+Ca0 O2 2.363797 1_665
+Ca0 O5 2.372671 1_565
+Ca0 O4 2.372671 1_654
+Ca0 O0 2.398910 1_554
+Ca0 O1 2.398910 1_555
+Ca1 O0 2.363797 1_445
+Ca1 O1 2.363797 1_445
+Ca1 O7 2.372671 1_545
+Ca1 O6 2.372671 1_455
+Ca1 O3 2.398910 1_555
+Ca1 O2 2.398910 1_555
+O0 Si0 1.639283 1_555
+O1 Si1 1.639283 1_555
+O2 Si1 1.639283 1_555
+O3 Si0 1.639283 1_555
+O4 Si0 1.659196 1_555
+O5 Si1 1.659196 1_555
+O6 Si1 1.659196 1_555
+O7 Si0 1.659196 1_555

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Sr(GaTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79793975
+_cell_length_b   6.79793907
+_cell_length_c   11.85161566
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.25875230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(GaTe2)2
+_chemical_formula_sum   'Sr2 Ga4 Te8'
+_cell_volume   473.06900271
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.50000000  0.25000000  1
+  Sr  Sr1  1  0.50000000  0.50000000  0.75000000  1
+  Ga  Ga0  1  0.24252014  0.75986947  0.50000000  1
+  Ga  Ga1  1  0.75747986  0.24013053  0.50000000  1
+  Ga  Ga2  1  0.24013053  0.75747986  0.00000000  1
+  Ga  Ga3  1  0.75986947  0.24252014  0.00000000  1
+  Te  Te0  1  0.65712515  0.81433139  0.00000000  1
+  Te  Te1  1  0.34287485  0.18566861  0.00000000  1
+  Te  Te2  1  0.81433139  0.65712515  0.50000000  1
+  Te  Te3  1  0.18566861  0.34287485  0.50000000  1
+  Te  Te4  1  0.50000000  -0.00000000  0.67183092  1
+  Te  Te5  1  -0.00000000  0.50000000  0.82816908  1
+  Te  Te6  1  0.50000000  -0.00000000  0.32816908  1
+  Te  Te7  1  -0.00000000  0.50000000  0.17183092  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Te1 3.490763 1_555
+Sr0 Te0 3.490763 1_555
+Sr0 Te3 3.490763 1_555
+Sr0 Te2 3.490763 1_555
+Sr0 Te6 3.522963 1_565
+Sr0 Te6 3.522963 1_555
+Sr0 Te7 3.522963 1_555
+Sr0 Te7 3.522963 1_655
+Sr1 Te1 3.490763 1_556
+Sr1 Te0 3.490763 1_556
+Sr1 Te3 3.490763 1_555
+Sr1 Te2 3.490763 1_555
+Sr1 Te4 3.522963 1_555
+Sr1 Te4 3.522963 1_565
+Sr1 Te5 3.522963 1_655
+Sr1 Te5 3.522963 1_555
+Ga0 Te2 2.629005 1_455
+Ga0 Te6 2.645004 1_565
+Ga0 Te4 2.645004 1_565
+Ga0 Te3 2.660980 1_555
+Ga1 Te3 2.629005 1_655
+Ga1 Te4 2.645004 1_555
+Ga1 Te6 2.645004 1_555
+Ga1 Te2 2.660980 1_555
+Ga2 Te1 2.629004 1_565
+Ga2 Te5 2.645004 1_554
+Ga2 Te7 2.645004 1_555
+Ga2 Te0 2.660980 1_555
+Ga3 Te0 2.629004 1_545
+Ga3 Te7 2.645004 1_655
+Ga3 Te5 2.645004 1_654
+Ga3 Te1 2.660980 1_555

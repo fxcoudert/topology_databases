@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_DyB3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15925114
+_cell_length_b   5.43090775
+_cell_length_c   6.84033652
+_cell_angle_alpha   77.83532261
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyB3Mo
+_chemical_formula_sum   'Dy2 B6 Mo2'
+_cell_volume   114.72848072
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.25000000  0.32492804  0.70971323  1
+  Dy  Dy1  1  0.75000000  0.67507196  0.29028677  1
+  B  B0  1  0.25000000  0.91878198  0.52505462  1
+  B  B1  1  0.75000000  0.08121802  0.47494538  1
+  B  B2  1  0.25000000  0.91241948  0.00420672  1
+  B  B3  1  0.75000000  0.08758052  0.99579328  1
+  B  B4  1  0.25000000  0.58346073  0.00669995  1
+  B  B5  1  0.75000000  0.41653927  0.99330005  1
+  Mo  Mo0  1  0.25000000  0.18774567  0.21942682  1
+  Mo  Mo1  1  0.75000000  0.81225433  0.78057318  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 B1 1.806516 1_465
+B0 B1 1.806516 1_565
+B0 Mo0 2.284140 1_565
+B0 Mo1 2.336383 1_455
+B0 Mo1 2.336383 1_555
+B0 Dy0 2.763148 1_565
+B0 Dy1 2.778797 1_555
+B0 Dy1 2.778797 1_455
+B0 Dy0 3.206292 1_555
+B1 Mo1 2.284140 1_545
+B1 Mo0 2.336383 1_655
+B1 Mo0 2.336383 1_555
+B1 Dy1 2.763148 1_545
+B1 Dy0 2.778797 1_655
+B1 Dy0 2.778797 1_555
+B1 Dy1 3.206292 1_555
+B2 B4 1.783029 1_555
+B2 B3 1.838585 1_564
+B2 B3 1.838585 1_464
+B2 Mo0 2.308868 1_565
+B2 Mo1 2.341349 1_554
+B2 Mo1 2.341349 1_454
+B2 Dy1 2.631177 1_455
+B2 Dy1 2.631177 1_555
+B2 Dy0 2.678605 1_564
+B3 B5 1.783029 1_555
+B3 Mo1 2.308868 1_545
+B3 Mo0 2.341349 1_556
+B3 Mo0 2.341349 1_656
+B3 Dy0 2.631177 1_655
+B3 Dy0 2.631177 1_555
+B3 Dy1 2.678605 1_546
+B4 B5 1.833151 1_454
+B4 B5 1.833151 1_554
+B4 Mo0 2.327669 1_555
+B4 Mo1 2.371013 1_554
+B4 Mo1 2.371013 1_454
+B4 Dy1 2.629152 1_455
+B4 Dy1 2.629152 1_555
+B4 Dy0 2.701936 1_554
+B5 Mo1 2.327669 1_555
+B5 Mo0 2.371013 1_556
+B5 Mo0 2.371013 1_656
+B5 Dy0 2.629152 1_555
+B5 Dy0 2.629152 1_655
+B5 Dy1 2.701936 1_556

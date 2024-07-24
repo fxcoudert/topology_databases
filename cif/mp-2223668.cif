@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Sr2MgNiRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00567784
+_cell_length_b   6.00567784
+_cell_length_c   6.16475678
+_cell_angle_alpha   66.82849004
+_cell_angle_beta   66.82849004
+_cell_angle_gamma   60.02477484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgNiRuO6
+_chemical_formula_sum   'Sr2 Mg1 Ni1 Ru1 O6'
+_cell_volume   171.57526287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.17868482  0.17868482  0.46225582  1
+  Sr  Sr1  1  0.80493431  0.80493431  0.69843328  1
+  Mg  Mg0  1  0.41278025  0.41278025  0.78619704  1
+  Ni  Ni0  1  0.00935981  0.00935981  -0.00288645  1
+  Ru  Ru0  1  0.56713377  0.56713377  0.26666055  1
+  O  O0  1  0.74215607  0.21726542  0.27403106  1
+  O  O1  1  0.77322482  0.20588504  0.77273523  1
+  O  O2  1  0.73187535  0.73187535  0.29311477  1
+  O  O3  1  0.20588504  0.77322482  0.77273523  1
+  O  O4  1  0.21726542  0.74215607  0.27403106  1
+  O  O5  1  0.22574834  0.22574834  0.80745441  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 1.867840 1_555
+Mg0 O3 1.867840 1_555
+Mg0 O5 1.889349 1_555
+Ni0 O1 1.975838 1_454
+Ni0 O3 1.975838 1_544
+Ni0 O5 2.010178 1_554
+Ni0 O0 2.137259 1_455
+Ni0 O4 2.137259 1_545
+Ru0 Sr1 3.242550 1_554
+O0 Ru0 1.810370 1_555
+O0 Sr1 2.804320 1_545
+O1 Sr0 2.408403 1_655
+O1 Sr1 2.526973 1_545
+O2 Ru0 1.793452 1_555
+O2 Sr1 2.923430 1_555
+O3 Sr0 2.408403 1_565
+O3 Sr1 2.526973 1_455
+O4 Ru0 1.810370 1_555
+O4 Sr1 2.804320 1_455
+O5 Sr0 2.390604 1_555
+O5 Sr1 3.106566 1_455
+O5 Sr1 3.106566 1_545

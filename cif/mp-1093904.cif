@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbNa2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.83802046
+_cell_length_b   14.27301433
+_cell_length_c   14.27301509
+_cell_angle_alpha   60.82299983
+_cell_angle_beta   61.00314284
+_cell_angle_gamma   61.00314093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNa2Bi
+_chemical_formula_sum   'Rb1 Na2 Bi1'
+_cell_volume   2035.73020433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na0  1  0.72368918  1.00000000  1.00000000  1
+  Na  Na1  1  0.27631082  0.00000000  0.00000000  1
+  Bi  Bi0  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Rb0 3.823595 1_666
+Na1 Rb0 3.823595 1_555
+Bi0 Na1 3.095415 1_555
+Bi0 Na0 3.095415 1_544

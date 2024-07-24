@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_RbTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.98960824
+_cell_length_b   9.98961191
+_cell_length_c   6.72769179
+_cell_angle_alpha   90.00002091
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00005163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTe
+_chemical_formula_sum   'Rb6 Te6'
+_cell_volume   581.42481935
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.65231318  0.00000000  0.00000000  1
+  Rb  Rb1  1  0.34768682  0.34768682  0.00000000  1
+  Rb  Rb2  1  0.00000000  0.65231318  -0.00000000  1
+  Rb  Rb3  1  0.31734236  0.00000000  0.50000000  1
+  Rb  Rb4  1  0.68265764  0.68265764  0.50000000  1
+  Rb  Rb5  1  0.00000000  0.31734236  0.50000000  1
+  Te  Te0  1  -0.00000000  -0.00000000  0.20779507  1
+  Te  Te1  1  0.00000000  0.00000000  0.79220493  1
+  Te  Te2  1  0.33333300  0.66666700  0.29136052  1
+  Te  Te3  1  0.33333300  0.66666700  0.70863948  1
+  Te  Te4  1  0.66666700  0.33333300  0.70863948  1
+  Te  Te5  1  0.66666700  0.33333300  0.29136052  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Te1 3.744042 1_654
+Rb0 Te0 3.744042 1_655
+Rb0 Te5 3.804396 1_555
+Rb0 Te4 3.804397 1_554
+Rb0 Te3 3.804397 1_544
+Rb0 Te2 3.804398 1_545
+Rb1 Te1 3.744040 1_554
+Rb1 Te0 3.744041 1_555
+Rb1 Te4 3.804404 1_554
+Rb1 Te5 3.804404 1_555
+Rb1 Te2 3.804404 1_555
+Rb1 Te3 3.804405 1_554
+Rb2 Te0 3.744043 1_565
+Rb2 Te1 3.744044 1_564
+Rb2 Te2 3.804395 1_555
+Rb2 Te3 3.804395 1_554
+Rb2 Te4 3.804397 1_454
+Rb2 Te5 3.804398 1_455
+Rb3 Te2 3.689947 1_545
+Rb3 Te3 3.689948 1_545
+Rb3 Te4 3.689949 1_555
+Rb3 Te5 3.689950 1_555
+Rb3 Te1 3.730191 1_555
+Rb3 Te0 3.730191 1_555
+Rb4 Te2 3.689956 1_555
+Rb4 Te3 3.689956 1_555
+Rb4 Te5 3.689956 1_555
+Rb4 Te4 3.689957 1_555
+Rb4 Te1 3.730188 1_665
+Rb4 Te0 3.730190 1_665
+Rb5 Te4 3.689947 1_455
+Rb5 Te5 3.689947 1_455
+Rb5 Te3 3.689949 1_555
+Rb5 Te2 3.689950 1_555
+Rb5 Te0 3.730191 1_555
+Rb5 Te1 3.730192 1_555
+Te0 Te1 2.795962 1_554
+Te2 Te3 2.807324 1_555
+Te4 Te5 2.807324 1_555

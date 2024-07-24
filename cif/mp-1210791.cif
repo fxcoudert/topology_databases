@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_LuPPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92080203
+_cell_length_b   6.79564662
+_cell_length_c   7.65533270
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuPPd
+_chemical_formula_sum   'Lu4 P4 Pd4'
+_cell_volume   203.97163224
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.25000000  0.53443283  0.18733890  1
+  Lu  Lu1  1  0.75000000  0.46556717  0.81266110  1
+  Lu  Lu2  1  0.75000000  0.96556717  0.68733890  1
+  Lu  Lu3  1  0.25000000  0.03443283  0.31266110  1
+  P  P0  1  0.25000000  0.74423935  0.87603954  1
+  P  P1  1  0.75000000  0.25576065  0.12396046  1
+  P  P2  1  0.75000000  0.75576065  0.37603954  1
+  P  P3  1  0.25000000  0.24423935  0.62396046  1
+  Pd  Pd0  1  0.25000000  0.64757167  0.56160229  1
+  Pd  Pd1  1  0.75000000  0.35242833  0.43839771  1
+  Pd  Pd2  1  0.75000000  0.85242833  0.06160229  1
+  Pd  Pd3  1  0.25000000  0.14757167  0.93839771  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 P1 2.768554 1_455
+Lu0 P1 2.768554 1_555
+Lu0 P0 2.777047 1_554
+Lu0 P2 2.862194 1_455
+Lu0 P2 2.862194 1_555
+Lu0 Pd0 2.966478 1_555
+Lu0 Pd1 3.011111 1_455
+Lu0 Pd1 3.011111 1_555
+Lu0 Pd2 3.072384 1_555
+Lu0 Pd2 3.072384 1_455
+Lu0 Pd3 3.247043 1_554
+Lu1 P0 2.768554 1_655
+Lu1 P0 2.768554 1_555
+Lu1 P1 2.777047 1_556
+Lu1 P3 2.862194 1_655
+Lu1 P3 2.862194 1_555
+Lu1 Pd1 2.966478 1_555
+Lu1 Pd0 3.011111 1_555
+Lu1 Pd0 3.011111 1_655
+Lu1 Pd3 3.072384 1_555
+Lu1 Pd3 3.072384 1_655
+Lu1 Pd2 3.247043 1_556
+Lu2 P3 2.768554 1_565
+Lu2 P3 2.768554 1_665
+Lu2 P2 2.777047 1_555
+Lu2 P0 2.862194 1_555
+Lu2 P0 2.862194 1_655
+Lu2 Pd2 2.966478 1_556
+Lu2 Pd3 3.011111 1_565
+Lu2 Pd3 3.011111 1_665
+Lu2 Pd0 3.072384 1_555
+Lu2 Pd0 3.072384 1_655
+Lu2 Pd1 3.247043 1_565
+Lu3 P2 2.768554 1_445
+Lu3 P2 2.768554 1_545
+Lu3 P3 2.777047 1_555
+Lu3 P1 2.862194 1_555
+Lu3 P1 2.862194 1_455
+Lu3 Pd3 2.966478 1_554
+Lu3 Pd2 3.011111 1_545
+Lu3 Pd2 3.011111 1_445
+Lu3 Pd1 3.072384 1_455
+Lu3 Pd1 3.072384 1_555
+Lu3 Pd0 3.247043 1_545
+P0 Pd0 2.495151 1_555
+P0 Pd2 2.530150 1_456
+P0 Pd2 2.530150 1_556
+P0 Pd3 2.782164 1_565
+P1 Pd1 2.495151 1_555
+P1 Pd3 2.530150 1_654
+P1 Pd3 2.530150 1_554
+P1 Pd2 2.782164 1_545
+P2 Pd2 2.495151 1_555
+P2 Pd0 2.530150 1_555
+P2 Pd0 2.530150 1_655
+P2 Pd1 2.782164 1_555
+P3 Pd3 2.495151 1_555
+P3 Pd1 2.530150 1_555
+P3 Pd1 2.530150 1_455
+P3 Pd0 2.782164 1_555
+Pd0 Pd1 2.958976 1_455
+Pd0 Pd1 2.958976 1_555
+Pd2 Pd3 2.958976 1_664
+Pd2 Pd3 2.958976 1_564

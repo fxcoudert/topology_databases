@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgV2(RhO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07676398
+_cell_length_b   5.94706764
+_cell_length_c   6.07676398
+_cell_angle_alpha   86.94679111
+_cell_angle_beta   115.84036352
+_cell_angle_gamma   58.45457887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2(RhO4)2
+_chemical_formula_sum   'Mg1 V2 Rh2 O8'
+_cell_volume   156.70538270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.77171481  0.02249655  0.20578863  1
+  V  V0  1  0.27505520  0.22329772  0.50164708  1
+  V  V1  1  0.00169913  0.08935082  0.90895005  1
+  Rh  Rh0  1  0.73707184  0.73446121  0.52846695  1
+  Rh  Rh1  1  0.48238916  0.56336462  0.95424621  1
+  O  O0  1  0.58633383  0.22738928  0.81697612  1
+  O  O1  1  0.03540461  0.77280461  0.81339570  1
+  O  O2  1  0.00989406  0.29486169  0.69524324  1
+  O  O3  1  0.47203414  0.84488158  0.68308528  1
+  O  O4  1  0.00549751  0.61882923  0.37567427  1
+  O  O5  1  0.50347141  0.15568778  0.34083981  1
+  O  O6  1  0.95563560  0.22738928  0.18627588  1
+  O  O7  1  0.41379869  0.77280461  0.19179177  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 1.932881 1_645
+Mg0 O5 1.960201 1_555
+Mg0 O0 2.067134 1_554
+Mg0 O6 2.067140 1_555
+O0 V1 1.977498 1_655
+O0 V0 2.035640 1_555
+O0 Rh1 2.098419 1_555
+O1 V1 1.933825 1_565
+O1 Rh1 1.995401 1_555
+O1 Rh0 2.018616 1_455
+O2 V1 1.770221 1_555
+O2 Rh0 2.080464 1_455
+O2 V0 2.269305 1_555
+O3 V0 1.865365 1_565
+O3 Rh0 2.046023 1_555
+O3 Rh1 2.242230 1_555
+O4 V0 1.867000 1_555
+O4 Rh0 2.051883 1_455
+O5 V0 1.919237 1_555
+O5 Rh0 2.038234 1_545
+O6 V1 1.977491 1_654
+O6 V0 2.035640 1_655
+O6 Rh1 2.098422 1_554
+O7 V1 1.933824 1_564
+O7 Rh1 1.995408 1_554
+O7 Rh0 2.018615 1_555

@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_La2Fe2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81798141
+_cell_length_b   5.81798141
+_cell_length_c   7.10728539
+_cell_angle_alpha   55.60711335
+_cell_angle_beta   55.60711335
+_cell_angle_gamma   40.16763380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Fe2Si2C
+_chemical_formula_sum   'La2 Fe2 Si2 C1'
+_cell_volume   123.97355549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.44545774  0.44545774  0.30262375  1
+  La  La1  1  0.55454226  0.55454226  0.69737625  1
+  Fe  Fe0  1  0.81143634  0.81143634  0.07770187  1
+  Fe  Fe1  1  0.18856366  0.18856366  0.92229813  1
+  Si  Si0  1  0.80670891  0.80670891  0.76204462  1
+  Si  Si1  1  0.19329109  0.19329109  0.23795538  1
+  C  C0  1  0.00000000  0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Si1 3.054360 1_555
+La0 Si1 3.168732 1_655
+La0 Si1 3.168732 1_565
+La0 Si0 3.316151 1_455
+La0 Si0 3.316151 1_545
+La1 Si0 3.054360 1_555
+La1 Si0 3.168732 1_545
+La1 Si0 3.168732 1_455
+La1 Si1 3.316151 1_565
+La1 Si1 3.316151 1_655
+Fe0 Si0 2.274913 1_554
+Fe0 Si1 2.277462 1_655
+Fe0 Si1 2.277462 1_565
+Fe1 Si1 2.274913 1_556
+Fe1 Si0 2.277462 1_455
+Fe1 Si0 2.277462 1_545
+C0 Fe0 1.783974 1_445
+C0 Fe1 1.783974 1_554
+C0 La0 2.725933 1_545
+C0 La1 2.725933 1_454
+C0 La1 2.725933 1_544
+C0 La0 2.725933 1_455

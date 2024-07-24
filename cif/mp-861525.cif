@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_LiVCrP2(O4F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16152100
+_cell_length_b   5.34133217
+_cell_length_c   7.32677816
+_cell_angle_alpha   109.59474294
+_cell_angle_beta   106.04766362
+_cell_angle_gamma   97.96970579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVCrP2(O4F)2
+_chemical_formula_sum   'Li1 V1 Cr1 P2 O8 F2'
+_cell_volume   176.80973289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56060300  0.20328500  0.18262000  1
+  V  V0  1  0.01090300  0.00960100  0.99374600  1
+  Cr  Cr0  1  0.49867100  0.49599500  0.50243700  1
+  P  P0  1  0.92167500  0.60389600  0.75677400  1
+  P  P1  1  0.07560600  0.40154900  0.24250100  1
+  O  O0  1  0.44679900  0.31065900  0.91025300  1
+  O  O1  1  0.15209700  0.62223700  0.59967300  1
+  O  O2  1  0.03176200  0.99633900  0.66293000  1
+  O  O3  1  0.99355400  0.54589500  0.12331400  1
+  O  O4  1  0.94755900  0.41183800  0.90053200  1
+  O  O5  1  0.97873300  0.00676800  0.33641400  1
+  O  O6  1  0.86742700  0.39771400  0.39358500  1
+  O  O7  1  0.55284900  0.68106200  0.08590800  1
+  F  F0  1  0.62055500  0.80338100  0.26121600  1
+  F  F1  1  0.38138900  0.20536200  0.73704000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O6 1.757728 1_555
+Li0 O0 2.206641 1_554
+Li0 V0 2.662802 1_554
+Cr0 O1 2.208864 1_555
+Cr0 P0 2.291935 1_555
+Cr0 O6 2.317294 1_555
+Cr0 P1 2.323962 1_555
+Cr0 Li0 2.476445 1_555
+P0 V0 2.163360 1_665
+P1 V0 2.174054 1_554
+O1 P0 1.883930 1_455
+O2 V0 2.433664 1_565
+O3 P1 1.368958 1_655
+O3 O4 1.479216 1_554
+O4 P0 1.692497 1_555
+O4 V0 2.498963 1_655
+O5 V0 2.566407 1_654
+O6 P1 1.745592 1_655
+F0 O7 1.150840 1_555
+F0 O5 1.838491 1_565
+F0 Li0 2.428938 1_565
+F1 O0 1.128102 1_555
+F1 O2 1.814076 1_545

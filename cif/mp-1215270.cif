@@ -1,0 +1,117 @@
+# generated using pymatgen
+data_ZrTiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47275510
+_cell_length_b   5.47275510
+_cell_length_c   8.76411200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.48891026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiAu
+_chemical_formula_sum   'Zr4 Ti4 Au4'
+_cell_volume   230.70875845
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.67702600  0.32297400  0.31230400  1
+  Zr  Zr1  1  0.33746400  0.66253600  0.18303600  1
+  Zr  Zr2  1  0.33746400  0.66253600  0.81696400  1
+  Zr  Zr3  1  0.67702600  0.32297400  0.68769600  1
+  Ti  Ti0  1  0.15908200  0.84091800  0.50000000  1
+  Ti  Ti1  1  0.34647700  0.17305000  0.00000000  1
+  Ti  Ti2  1  0.82695000  0.65352300  0.00000000  1
+  Ti  Ti3  1  0.81969500  0.18030500  0.00000000  1
+  Au  Au0  1  0.00616700  0.99383300  0.24300200  1
+  Au  Au1  1  0.00616700  0.99383300  0.75699800  1
+  Au  Au2  1  0.64571400  0.83920900  0.50000000  1
+  Au  Au3  1  0.16079100  0.35428600  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 3.289978 1_555
+Zr0 Zr1 3.375388 1_545
+Zr0 Zr1 3.375388 1_655
+Zr0 Zr1 3.388930 1_555
+Zr1 Zr2 3.208296 1_554
+Zr2 Zr3 3.375388 1_565
+Zr2 Zr3 3.375388 1_455
+Zr2 Zr3 3.388930 1_555
+Ti0 Zr2 3.245312 1_555
+Ti0 Zr1 3.245312 1_555
+Ti0 Zr3 3.250668 1_565
+Ti0 Zr0 3.250668 1_565
+Ti0 Zr0 3.250668 1_455
+Ti0 Zr3 3.250668 1_455
+Ti1 Zr1 3.142920 1_555
+Ti1 Zr2 3.142920 1_554
+Ti1 Zr3 3.165644 1_554
+Ti1 Zr0 3.165644 1_555
+Ti1 Zr2 3.201598 1_544
+Ti1 Zr1 3.201598 1_545
+Ti2 Zr2 3.142920 1_554
+Ti2 Zr1 3.142920 1_555
+Ti2 Zr0 3.165644 1_555
+Ti2 Zr3 3.165644 1_554
+Ti2 Zr2 3.201598 1_654
+Ti2 Zr1 3.201598 1_655
+Ti3 Zr3 3.048342 1_554
+Ti3 Zr0 3.048342 1_555
+Ti3 Zr2 3.230108 1_544
+Ti3 Zr1 3.230108 1_545
+Ti3 Zr1 3.230108 1_655
+Ti3 Zr2 3.230108 1_654
+Au0 Ti0 2.672438 1_555
+Au0 Ti2 2.687681 1_455
+Au0 Ti1 2.687681 1_565
+Au0 Ti3 2.758991 1_465
+Au0 Au2 2.843968 1_455
+Au0 Au3 2.843968 1_565
+Au0 Zr0 3.154949 1_465
+Au0 Zr1 3.160219 1_555
+Au0 Zr1 3.259850 1_565
+Au0 Zr1 3.259850 1_455
+Au0 Zr0 3.283914 1_565
+Au0 Zr0 3.283914 1_455
+Au1 Ti0 2.672438 1_555
+Au1 Ti2 2.687681 1_456
+Au1 Ti1 2.687681 1_566
+Au1 Ti3 2.758991 1_466
+Au1 Au2 2.843968 1_455
+Au1 Au3 2.843968 1_565
+Au1 Zr3 3.154949 1_465
+Au1 Zr2 3.160219 1_555
+Au1 Zr2 3.259850 1_565
+Au1 Zr2 3.259850 1_455
+Au1 Zr3 3.283914 1_565
+Au1 Zr3 3.283914 1_455
+Au2 Ti0 2.667692 1_555
+Au2 Au3 2.714247 1_555
+Au2 Ti0 2.805088 1_655
+Au2 Au3 2.883027 1_665
+Au2 Zr3 3.051548 1_565
+Au2 Zr0 3.051548 1_565
+Au2 Zr2 3.153012 1_555
+Au2 Zr1 3.153012 1_555
+Au2 Zr3 3.343520 1_555
+Au2 Zr0 3.343520 1_555
+Au3 Ti0 2.667692 1_555
+Au3 Ti0 2.805088 1_545
+Au3 Zr3 3.051548 1_455
+Au3 Zr0 3.051548 1_455
+Au3 Zr2 3.153012 1_555
+Au3 Zr1 3.153012 1_555
+Au3 Zr3 3.343520 1_555
+Au3 Zr0 3.343520 1_555

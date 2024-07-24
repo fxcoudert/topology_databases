@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_TaAgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39027577
+_cell_length_b   7.24814296
+_cell_length_c   7.78929486
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.52514615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAgS3
+_chemical_formula_sum   'Ta2 Ag2 S6'
+_cell_volume   186.09968232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.26270931  0.52541963  0.75000000  1
+  Ta  Ta1  1  0.73729069  0.47458037  0.25000000  1
+  Ag  Ag0  1  -0.00000000  -0.00000000  0.50000000  1
+  Ag  Ag1  1  -0.00000000  -0.00000000  -0.00000000  1
+  S  S0  1  0.67315422  0.34630744  0.92916361  1
+  S  S1  1  0.32684578  0.65369256  0.07083639  1
+  S  S2  1  0.32684578  0.65369256  0.42916361  1
+  S  S3  1  0.67315422  0.34630744  0.57083639  1
+  S  S4  1  0.89669095  0.79338189  0.75000000  1
+  S  S5  1  0.10330905  0.20661811  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 S4 2.431501 1_445
+Ag0 S5 2.431501 1_555
+Ag0 S3 3.022226 1_455
+Ag0 S2 3.022226 1_545
+Ag0 S2 3.022227 1_445
+Ag0 S3 3.022227 1_555
+Ag1 S4 2.431501 1_444
+Ag1 S5 2.431501 1_555
+Ag1 S0 3.022226 1_454
+Ag1 S1 3.022226 1_545
+Ag1 S0 3.022227 1_554
+Ag1 S1 3.022227 1_445
+S0 Ta0 2.532643 1_655
+S0 Ta0 2.532648 1_555
+S0 Ta1 2.657552 1_556
+S1 Ta1 2.532643 1_455
+S1 Ta1 2.532648 1_555
+S1 Ta0 2.657552 1_554
+S2 Ta1 2.532643 1_455
+S2 Ta1 2.532648 1_555
+S2 Ta0 2.657552 1_555
+S3 Ta0 2.532643 1_655
+S3 Ta0 2.532648 1_555
+S3 Ta1 2.657552 1_555
+S4 Ta0 2.537600 1_655
+S4 Ta0 2.537602 1_555
+S5 Ta1 2.537600 1_455
+S5 Ta1 2.537602 1_555

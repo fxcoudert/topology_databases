@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CrHg3F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83558017
+_cell_length_b   6.39298369
+_cell_length_c   8.03842750
+_cell_angle_alpha   73.05114588
+_cell_angle_beta   121.48802699
+_cell_angle_gamma   116.99702373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHg3F6
+_chemical_formula_sum   'Cr1 Hg3 F6'
+_cell_volume   227.27726911
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg2  1  0.00000000  0.50000000  0.00000000  1
+  F  F0  1  0.08166600  0.23227200  0.78742700  1
+  F  F1  1  0.91833400  0.76772800  0.21257300  1
+  F  F2  1  0.81203800  0.76249900  0.66273300  1
+  F  F3  1  0.18796200  0.23750100  0.33726700  1
+  F  F4  1  0.57139200  0.88864400  0.85430500  1
+  F  F5  1  0.42860800  0.11135600  0.14569500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 F5 1.985897 1_555
+Cr0 F4 1.985897 1_444
+Cr0 F1 2.020090 1_445
+Cr0 F0 2.020090 1_554
+F0 Hg1 2.315806 1_556
+F1 Hg1 2.315806 1_555
+F2 Hg0 2.012091 1_665
+F3 Hg0 2.012091 1_555
+F4 Hg1 2.364693 1_556
+F5 Hg1 2.364693 1_555

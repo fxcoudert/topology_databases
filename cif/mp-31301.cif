@@ -1,0 +1,105 @@
+# generated using pymatgen
+data_LiSn4Au3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52840099
+_cell_length_b   4.52840253
+_cell_length_c   20.70527622
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSn4Au3
+_chemical_formula_sum   'Li2 Sn8 Au6'
+_cell_volume   367.70675756
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66666700  0.33333300  0.71234172  1
+  Li  Li1  1  0.33333300  0.66666700  0.21234172  1
+  Sn  Sn0  1  0.00000000  -0.00000000  0.79518957  1
+  Sn  Sn1  1  -0.00000000  0.00000000  0.29518957  1
+  Sn  Sn2  1  -0.00000000  0.00000000  0.52994569  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.02994569  1
+  Sn  Sn4  1  0.66666700  0.33333300  0.12580941  1
+  Sn  Sn5  1  0.33333300  0.66666700  0.62580941  1
+  Sn  Sn6  1  0.66666700  0.33333300  0.40644290  1
+  Sn  Sn7  1  0.33333300  0.66666700  0.90644290  1
+  Au  Au0  1  0.66666700  0.33333300  0.84507841  1
+  Au  Au1  1  0.33333300  0.66666700  0.34507841  1
+  Au  Au2  1  0.66666700  0.33333300  0.98476816  1
+  Au  Au3  1  0.33333300  0.66666700  0.48476816  1
+  Au  Au4  1  -0.00000000  0.00000000  0.66465416  1
+  Au  Au5  1  0.00000000  -0.00000000  0.16465416  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn0 3.126982 1_655
+Li0 Sn0 3.126985 1_555
+Li0 Sn0 3.126986 1_665
+Li0 Sn5 3.169473 1_655
+Li0 Sn5 3.169474 1_545
+Li0 Sn5 3.169480 1_555
+Li1 Sn1 3.126982 1_565
+Li1 Sn1 3.126985 1_665
+Li1 Sn1 3.126986 1_555
+Li1 Sn4 3.169473 1_455
+Li1 Sn4 3.169474 1_565
+Li1 Sn4 3.169480 1_555
+Au0 Li0 2.748350 1_555
+Au0 Sn0 2.811133 1_655
+Au0 Sn0 2.811137 1_555
+Au0 Sn0 2.811138 1_665
+Au0 Au2 2.892315 1_555
+Au0 Sn7 2.906855 1_655
+Au0 Sn7 2.906856 1_545
+Au0 Sn7 2.906862 1_555
+Au1 Li1 2.748350 1_555
+Au1 Sn1 2.811133 1_565
+Au1 Sn1 2.811137 1_665
+Au1 Sn1 2.811138 1_555
+Au1 Au3 2.892315 1_555
+Au1 Sn6 2.906855 1_455
+Au1 Sn6 2.906856 1_565
+Au1 Sn6 2.906862 1_555
+Au2 Sn3 2.776771 1_656
+Au2 Sn3 2.776775 1_556
+Au2 Sn3 2.776776 1_666
+Au2 Sn4 2.920298 1_556
+Au2 Sn7 3.076609 1_655
+Au2 Sn7 3.076609 1_545
+Au2 Sn7 3.076615 1_555
+Au3 Sn2 2.776771 1_565
+Au3 Sn2 2.776775 1_665
+Au3 Sn2 2.776776 1_555
+Au3 Sn5 2.920298 1_555
+Au3 Sn6 3.076609 1_455
+Au3 Sn6 3.076609 1_565
+Au3 Sn6 3.076615 1_555
+Au4 Sn0 2.702772 1_555
+Au4 Sn5 2.735387 1_545
+Au4 Sn5 2.735391 1_445
+Au4 Sn5 2.735392 1_555
+Au4 Sn2 2.789176 1_555
+Au4 Li0 2.794707 1_455
+Au4 Li0 2.794711 1_555
+Au4 Li0 2.794711 1_445
+Au5 Sn1 2.702772 1_555
+Au5 Sn4 2.735387 1_455
+Au5 Sn4 2.735391 1_555
+Au5 Sn4 2.735392 1_445
+Au5 Sn3 2.789176 1_555
+Au5 Li1 2.794707 1_545
+Au5 Li1 2.794711 1_445
+Au5 Li1 2.794711 1_555

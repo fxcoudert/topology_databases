@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_Tb(InCu)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05837531
+_cell_length_b   7.05837531
+_cell_length_c   7.05837531
+_cell_angle_alpha   133.65940959
+_cell_angle_beta   99.22154076
+_cell_angle_gamma   98.59086168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(InCu)6
+_chemical_formula_sum   'Tb1 In6 Cu6'
+_cell_volume   233.88023497
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  In  In0  1  0.33706600  0.00000000  0.33706600  1
+  In  In1  1  0.66293400  0.00000000  0.66293400  1
+  In  In2  1  0.34255800  0.34255800  0.00000000  1
+  In  In3  1  0.65744200  0.65744200  0.00000000  1
+  In  In4  1  0.81425300  0.31425300  0.50000000  1
+  In  In5  1  0.18574700  0.68574700  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu4  1  0.76710800  0.50000000  0.26710800  1
+  Cu  Cu5  1  0.23289200  0.50000000  0.73289200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In1 2.980821 1_555
+In0 Tb0 3.083253 1_555
+In1 Tb0 3.083253 1_656
+In2 Tb0 3.153714 1_555
+In3 Tb0 3.153714 1_665
+In4 Tb0 3.261483 1_666
+In4 Tb0 3.261483 1_655
+In5 Tb0 3.261483 1_555
+In5 Tb0 3.261483 1_566
+Cu0 Cu4 2.692593 1_455
+Cu0 Cu5 2.692593 1_554
+Cu0 In4 2.740029 1_454
+Cu0 In5 2.740029 1_555
+Cu0 Cu1 2.777226 1_565
+Cu0 Cu1 2.777226 1_554
+Cu0 In0 2.803543 1_565
+Cu0 In1 2.803543 1_454
+Cu0 In2 2.807839 1_555
+Cu0 In3 2.807839 1_455
+Cu0 Tb0 3.529188 1_565
+Cu0 Tb0 3.529188 1_555
+Cu1 Cu4 2.692593 1_445
+Cu1 Cu5 2.692593 1_555
+Cu1 In5 2.740029 1_545
+Cu1 In4 2.740029 1_455
+Cu1 In1 2.803543 1_455
+Cu1 In0 2.803543 1_555
+Cu1 In3 2.807839 1_445
+Cu1 In2 2.807839 1_556
+Cu1 Tb0 3.529188 1_555
+Cu1 Tb0 3.529188 1_556
+Cu2 Cu4 2.692593 1_555
+Cu2 Cu5 2.692593 1_544
+Cu2 In4 2.740029 1_555
+Cu2 In5 2.740029 1_544
+Cu2 Cu3 2.777226 1_544
+Cu2 Cu3 2.777226 1_555
+Cu2 In1 2.803543 1_554
+Cu2 In0 2.803543 1_555
+Cu2 In3 2.807839 1_545
+Cu2 In2 2.807839 1_555
+Cu2 Tb0 3.529188 1_555
+Cu2 Tb0 3.529188 1_655
+Cu3 Cu4 2.692593 1_555
+Cu3 Cu5 2.692593 1_555
+Cu3 In4 2.740029 1_555
+Cu3 In5 2.740029 1_555
+Cu3 In1 2.803543 1_565
+Cu3 In0 2.803543 1_555
+Cu3 In2 2.807839 1_555
+Cu3 In3 2.807839 1_556
+Cu3 Tb0 3.529188 1_555
+Cu3 Tb0 3.529188 1_666
+Cu4 In4 2.731782 1_555
+Cu4 In5 2.731782 1_655
+Cu4 In3 2.840914 1_555
+Cu4 In2 2.840914 1_555
+Cu4 In1 2.936159 1_554
+Cu4 In1 2.936159 1_565
+Cu4 Tb0 3.500190 1_666
+Cu4 Tb0 3.500190 1_655
+Cu5 In5 2.731782 1_555
+Cu5 In4 2.731782 1_455
+Cu5 In3 2.840914 1_556
+Cu5 In2 2.840914 1_556
+Cu5 In0 2.936159 1_555
+Cu5 In0 2.936159 1_566
+Cu5 Tb0 3.500190 1_566
+Cu5 Tb0 3.500190 1_555

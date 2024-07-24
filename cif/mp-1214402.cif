@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaNdCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84356563
+_cell_length_b   7.84356563
+_cell_length_c   11.74642434
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.64415729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNdCuTe3
+_chemical_formula_sum   'Ba2 Nd2 Cu2 Te6'
+_cell_volume   397.34417312
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25195670  0.74804330  0.25000000  1
+  Ba  Ba1  1  0.74804330  0.25195670  0.75000000  1
+  Nd  Nd0  1  -0.00000000  0.00000000  -0.00000000  1
+  Nd  Nd1  1  -0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.53363303  0.46636697  0.25000000  1
+  Cu  Cu1  1  0.46636697  0.53363303  0.75000000  1
+  Te  Te0  1  0.63871596  0.36128404  0.06843972  1
+  Te  Te1  1  0.36128404  0.63871596  0.93156028  1
+  Te  Te2  1  0.36128404  0.63871596  0.56843972  1
+  Te  Te3  1  0.63871596  0.36128404  0.43156028  1
+  Te  Te4  1  0.93059451  0.06940549  0.25000000  1
+  Te  Te5  1  0.06940549  0.93059451  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Te4 3.503331 1_455
+Ba0 Te4 3.503331 1_565
+Ba0 Te3 3.537127 1_565
+Ba0 Te0 3.537127 1_565
+Ba0 Te0 3.537127 1_455
+Ba0 Te3 3.537127 1_455
+Ba0 Te2 4.085416 1_555
+Ba0 Te1 4.085416 1_554
+Ba1 Te5 3.503331 1_655
+Ba1 Te5 3.503331 1_545
+Ba1 Te2 3.537127 1_655
+Ba1 Te1 3.537127 1_545
+Ba1 Te2 3.537127 1_545
+Ba1 Te1 3.537127 1_655
+Ba1 Te3 4.085416 1_555
+Ba1 Te0 4.085416 1_556
+Nd0 Te5 3.116319 1_544
+Nd0 Te4 3.116319 1_455
+Nd0 Te0 3.171539 1_555
+Nd0 Te1 3.171539 1_554
+Nd0 Te0 3.171539 1_445
+Nd0 Te1 3.171539 1_444
+Nd1 Te5 3.116319 1_545
+Nd1 Te4 3.116319 1_455
+Nd1 Te3 3.171539 1_555
+Nd1 Te3 3.171539 1_445
+Nd1 Te2 3.171539 1_445
+Nd1 Te2 3.171539 1_555
+Cu0 Te3 2.653660 1_555
+Cu0 Te0 2.653660 1_555
+Cu0 Te4 2.732152 1_455
+Cu0 Te4 2.732152 1_565
+Cu1 Te2 2.653660 1_555
+Cu1 Te1 2.653660 1_555
+Cu1 Te5 2.732152 1_545
+Cu1 Te5 2.732152 1_655

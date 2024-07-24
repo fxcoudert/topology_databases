@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_KGeCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53183696
+_cell_length_b   7.53183688
+_cell_length_c   7.53183649
+_cell_angle_alpha   61.68388527
+_cell_angle_beta   61.68387771
+_cell_angle_gamma   61.68388726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGeCl3
+_chemical_formula_sum   'K2 Ge2 Cl6'
+_cell_volume   313.53093198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.27708039  0.27708039  0.27708039  1
+  K  K1  1  0.77708039  0.77708039  0.77708039  1
+  Ge  Ge0  1  0.99111077  0.99111077  0.99111077  1
+  Ge  Ge1  1  0.49111077  0.49111077  0.49111077  1
+  Cl  Cl0  1  0.19758656  0.87603436  0.68668791  1
+  Cl  Cl1  1  0.87603436  0.68668791  0.19758656  1
+  Cl  Cl2  1  0.68668791  0.19758656  0.87603436  1
+  Cl  Cl3  1  0.18668791  0.37603436  0.69758656  1
+  Cl  Cl4  1  0.69758656  0.18668791  0.37603436  1
+  Cl  Cl5  1  0.37603436  0.69758656  0.18668791  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Ge0 2.377142 1_455
+Cl0 K0 3.181701 1_565
+Cl0 K1 3.280614 1_455
+Cl1 Ge0 2.377142 1_554
+Cl1 K0 3.181701 1_655
+Cl1 K1 3.280614 1_554
+Cl2 Ge0 2.377143 1_545
+Cl2 K0 3.181701 1_556
+Cl2 K1 3.280614 1_545
+Cl3 Ge1 2.377142 1_555
+Cl3 K1 3.181701 1_455
+Cl3 K0 3.280613 1_555
+Cl4 Ge1 2.377142 1_555
+Cl4 K1 3.181701 1_545
+Cl4 K0 3.280614 1_555
+Cl5 Ge1 2.377143 1_555
+Cl5 K1 3.181701 1_554
+Cl5 K0 3.280614 1_555

@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_In3BiTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98120517
+_cell_length_b   6.98120517
+_cell_length_c   6.98120517
+_cell_angle_alpha   105.85717535
+_cell_angle_beta   105.85717535
+_cell_angle_gamma   116.96970934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3BiTe4
+_chemical_formula_sum   'In3 Bi1 Te4'
+_cell_volume   258.51420685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000000  0.00000000  0.50000000  1
+  In  In1  1  0.00000000  0.50000000  0.50000000  1
+  In  In2  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.93989200  0.43989200  0.87978400  1
+  Te  Te1  1  0.56010800  0.06010800  0.12021600  1
+  Te  Te2  1  0.06010800  0.93989200  0.50000000  1
+  Te  Te3  1  0.43989200  0.56010800  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Te3 2.904843 1_545
+In0 Te2 2.904843 1_545
+In0 Te0 2.904843 1_555
+In0 Te1 2.904843 1_555
+In1 Te2 2.904843 1_555
+In1 Te3 2.904843 1_555
+In1 Te1 2.904843 1_455
+In1 Te0 2.904843 1_455
+In2 Te0 3.563172 1_554
+In2 Te3 3.563172 1_555
+In2 Te2 3.563172 1_655
+In2 Te1 3.563172 1_565
+In2 Te3 3.563172 1_554
+In2 Te2 3.563172 1_544
+In2 Te1 3.563172 1_555
+In2 Te0 3.563172 1_454
+Bi0 Te2 3.563172 1_544
+Bi0 Te1 3.563172 1_455
+Bi0 Te3 3.563172 1_444
+Bi0 Te3 3.563172 1_555
+Bi0 Te2 3.563172 1_545
+Bi0 Te0 3.563172 1_444
+Bi0 Te0 3.563172 1_454
+Bi0 Te1 3.563172 1_555
+Bi0 In2 3.649243 1_555
+Bi0 In2 3.649243 1_445

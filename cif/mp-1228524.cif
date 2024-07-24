@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Al2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39783951
+_cell_length_b   7.39783951
+_cell_length_c   8.05855018
+_cell_angle_alpha   63.80960769
+_cell_angle_beta   63.80960769
+_cell_angle_gamma   59.59637346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Te3
+_chemical_formula_sum   'Al4 Te6'
+_cell_volume   327.50698421
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.17824044  0.98612463  0.49589362  1
+  Al  Al1  1  0.80893535  0.67803628  0.50507537  1
+  Al  Al2  1  0.98612463  0.17824044  0.99589362  1
+  Al  Al3  1  0.67803628  0.80893535  0.00507537  1
+  Te  Te0  1  0.29932794  0.13234635  0.11192118  1
+  Te  Te1  1  0.97787546  0.78197316  0.12102738  1
+  Te  Te2  1  0.62270567  0.45103072  0.14103245  1
+  Te  Te3  1  0.13234635  0.29932794  0.61192118  1
+  Te  Te4  1  0.78197316  0.97787546  0.62102738  1
+  Te  Te5  1  0.45103072  0.62270567  0.64103245  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Te5 2.546530 1_555
+Al0 Te0 2.669561 1_565
+Al0 Te4 2.670534 1_455
+Al0 Te3 2.682168 1_565
+Al1 Te5 2.553198 1_555
+Al1 Te4 2.655251 1_555
+Al1 Te1 2.681280 1_555
+Al1 Te3 2.686852 1_655
+Al2 Te2 2.546530 1_556
+Al2 Te3 2.669561 1_655
+Al2 Te1 2.670534 1_546
+Al2 Te0 2.682168 1_656
+Al3 Te2 2.553198 1_555
+Al3 Te1 2.655251 1_555
+Al3 Te4 2.681280 1_554
+Al3 Te0 2.686852 1_565

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MnMoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.92494548
+_cell_length_b   2.92494517
+_cell_length_c   11.11290431
+_cell_angle_alpha   90.00000759
+_cell_angle_beta   89.99998471
+_cell_angle_gamma   119.99935405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnMoN2
+_chemical_formula_sum   'Mn2 Mo2 N4'
+_cell_volume   82.33728402
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000058  0.00000024  0.49999699  1
+  Mn  Mn1  1  -0.00000048  -0.00000020  0.00000229  1
+  Mo  Mo0  1  -0.00000164  0.00000186  0.25008358  1
+  Mo  Mo1  1  0.00000158  -0.00000188  0.74991649  1
+  N  N0  1  0.33333193  0.66666849  0.36657287  1
+  N  N1  1  0.66666786  0.33333161  0.86640805  1
+  N  N2  1  0.33333187  0.66666827  0.13360162  1
+  N  N3  1  0.66666830  0.33333162  0.63341811  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N3 2.247245 1_455
+Mn0 N3 2.247266 1_555
+Mn0 N0 2.247266 1_545
+Mn0 N3 2.247267 1_445
+Mn0 N0 2.247288 1_555
+Mn0 N0 2.247290 1_445
+Mn1 N1 2.248515 1_454
+Mn1 N1 2.248536 1_444
+Mn1 N1 2.248536 1_554
+Mn1 N2 2.248553 1_545
+Mn1 N2 2.248572 1_445
+Mn1 N2 2.248574 1_555
+Mo0 N2 2.127760 1_545
+Mo0 N2 2.127771 1_555
+Mo0 N2 2.127772 1_445
+Mo0 N0 2.127809 1_545
+Mo0 N0 2.127821 1_445
+Mo0 N0 2.127821 1_555
+Mo1 N1 2.127825 1_455
+Mo1 N1 2.127836 1_555
+Mo1 N1 2.127837 1_445
+Mo1 N3 2.127870 1_455
+Mo1 N3 2.127883 1_445
+Mo1 N3 2.127883 1_555

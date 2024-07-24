@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_MgTiSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31419145
+_cell_length_b   5.31419145
+_cell_length_c   7.16059738
+_cell_angle_alpha   75.05135345
+_cell_angle_beta   75.05135345
+_cell_angle_gamma   104.07586004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiSiO5
+_chemical_formula_sum   'Mg2 Ti2 Si2 O10'
+_cell_volume   178.06886250
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.83326900  0.17623200  0.74551400  1
+  Mg  Mg1  1  0.17623200  0.83326900  0.24551400  1
+  Ti  Ti0  1  0.49469600  0.50864600  0.49361400  1
+  Ti  Ti1  1  0.50864600  0.49469600  0.99361400  1
+  Si  Si0  1  0.17340000  0.82709500  0.76014400  1
+  Si  Si1  1  0.82709500  0.17340000  0.26014400  1
+  O  O0  1  0.39549900  0.82729200  0.88351400  1
+  O  O1  1  0.17346800  0.60556900  0.63744600  1
+  O  O2  1  0.60556900  0.17346800  0.13744600  1
+  O  O3  1  0.82729200  0.39549900  0.38351400  1
+  O  O4  1  0.77419600  0.87041200  0.42197700  1
+  O  O5  1  0.12926400  0.22886700  0.10010400  1
+  O  O6  1  0.22886700  0.12926400  0.60010400  1
+  O  O7  1  0.87041200  0.77419600  0.92197700  1
+  O  O8  1  0.41254400  0.59187900  0.26145600  1
+  O  O9  1  0.59187900  0.41254400  0.76145600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O9 2.004403 1_555
+Mg0 O6 2.196829 1_655
+Mg0 O7 2.267433 1_545
+Mg0 O1 2.331067 1_655
+Mg0 O0 2.365894 1_545
+Mg0 O3 2.565181 1_555
+Mg0 O2 2.749322 1_556
+Mg1 O8 2.004403 1_555
+Mg1 O5 2.196829 1_565
+Mg1 O4 2.267433 1_455
+Mg1 O2 2.331067 1_565
+Mg1 O3 2.365894 1_455
+Mg1 O0 2.565181 1_554
+Mg1 O1 2.749322 1_555
+O0 Si0 1.646586 1_555
+O0 Ti1 2.037077 1_555
+O1 Si0 1.640562 1_555
+O1 Ti0 2.008590 1_555
+O2 Si1 1.640562 1_555
+O2 Ti1 2.008590 1_554
+O3 Si1 1.646586 1_555
+O3 Ti0 2.037077 1_555
+O4 Si1 1.632051 1_565
+O4 Ti0 1.968369 1_555
+O5 Si1 1.620133 1_455
+O5 Ti1 1.976756 1_554
+O6 Si0 1.620133 1_545
+O6 Ti0 1.976756 1_555
+O7 Si0 1.632051 1_655
+O7 Ti1 1.968369 1_555
+O8 Ti0 1.799661 1_555
+O8 Ti1 2.083240 1_554
+O9 Ti1 1.799661 1_555
+O9 Ti0 2.083240 1_555

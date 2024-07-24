@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_TaAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91900195
+_cell_length_b   5.01238196
+_cell_length_c   7.98924300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.62896794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlNi
+_chemical_formula_sum   'Ta4 Al4 Ni4'
+_cell_volume   169.50006220
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.66641200  0.33318800  0.55072700  1
+  Ta  Ta1  1  0.32650500  0.66327500  0.42984900  1
+  Ta  Ta2  1  0.32650500  0.66327500  0.07015100  1
+  Ta  Ta3  1  0.66641200  0.33318800  0.94927300  1
+  Al  Al0  1  0.98576500  0.99292900  0.48812300  1
+  Al  Al1  1  0.98576500  0.99292900  0.01187700  1
+  Al  Al2  1  0.18474100  0.35009000  0.75000000  1
+  Al  Al3  1  0.18477900  0.83467700  0.75000000  1
+  Ni  Ni0  1  0.67568900  0.83786200  0.75000000  1
+  Ni  Ni1  1  0.82777600  0.65442100  0.25000000  1
+  Ni  Ni2  1  0.82777300  0.17325800  0.25000000  1
+  Ni  Ni3  1  0.34187900  0.17090800  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ta1 2.956183 1_655
+Ta0 Ta1 3.046749 1_545
+Ta0 Ta1 3.047041 1_555
+Ta0 Ta3 3.184081 1_555
+Ta1 Ta2 2.873715 1_555
+Ta2 Ta3 2.956183 1_454
+Ta2 Ta3 3.046749 1_564
+Ta2 Ta3 3.047041 1_554
+Al0 Ni2 2.399159 1_565
+Al0 Ni1 2.399680 1_555
+Al0 Ni3 2.427192 1_665
+Al0 Ni0 2.469790 1_555
+Al0 Al2 2.598994 1_665
+Al0 Al3 2.599246 1_655
+Al0 Ta1 2.829038 1_555
+Al0 Ta0 2.890778 1_565
+Al0 Ta0 2.891380 1_555
+Al0 Ta0 2.924085 1_665
+Al0 Ta1 2.928716 1_665
+Al0 Ta1 2.928879 1_655
+Al1 Ni2 2.399159 1_565
+Al1 Ni1 2.399680 1_555
+Al1 Ni3 2.427192 1_665
+Al1 Ni0 2.469790 1_554
+Al1 Al2 2.598994 1_664
+Al1 Al3 2.599246 1_654
+Al1 Ta2 2.829038 1_555
+Al1 Ta3 2.890778 1_564
+Al1 Ta3 2.891380 1_554
+Al1 Ta3 2.924085 1_664
+Al1 Ta2 2.928716 1_665
+Al1 Ta2 2.928879 1_655
+Al2 Ni0 2.406940 1_555
+Al2 Al3 2.428840 1_555
+Al2 Ni0 2.512215 1_445
+Al2 Al3 2.583542 1_545
+Al2 Ta3 2.891380 1_555
+Al2 Ta0 2.891380 1_555
+Al2 Ta1 2.894355 1_555
+Al2 Ta2 2.894355 1_556
+Al2 Ta0 2.970260 1_455
+Al2 Ta3 2.970260 1_455
+Al3 Ni0 2.406693 1_555
+Al3 Ni0 2.512386 1_455
+Al3 Ta3 2.891203 1_565
+Al3 Ta0 2.891203 1_565
+Al3 Ta1 2.894232 1_555
+Al3 Ta2 2.894232 1_556
+Al3 Ta0 2.970499 1_455
+Al3 Ta3 2.970499 1_455
+Ni0 Ta1 2.954089 1_555
+Ni0 Ta2 2.954089 1_556
+Ni0 Ta0 2.969214 1_565
+Ni0 Ta3 2.969214 1_565
+Ni0 Ta3 2.969516 1_555
+Ni0 Ta0 2.969516 1_555
+Ni1 Ni3 2.384099 1_555
+Ni1 Ni2 2.411765 1_555
+Ni1 Ni3 2.535022 1_665
+Ni1 Ni2 2.600617 1_565
+Ni1 Ta0 2.773575 1_555
+Ni1 Ta3 2.773575 1_554
+Ni1 Ta1 2.823831 1_655
+Ni1 Ta2 2.823831 1_655
+Ni1 Ta2 2.873668 1_555
+Ni1 Ta1 2.873668 1_555
+Ni2 Ni3 2.384134 1_555
+Ni2 Ni3 2.534910 1_655
+Ni2 Ta0 2.773691 1_555
+Ni2 Ta3 2.773691 1_554
+Ni2 Ta1 2.824173 1_655
+Ni2 Ta2 2.824173 1_655
+Ni2 Ta2 2.873374 1_545
+Ni2 Ta1 2.873374 1_545
+Ni3 Ta3 2.767550 1_554
+Ni3 Ta0 2.767550 1_555
+Ni3 Ta2 2.889366 1_545
+Ni3 Ta1 2.889366 1_545
+Ni3 Ta1 2.889834 1_555
+Ni3 Ta2 2.889834 1_555

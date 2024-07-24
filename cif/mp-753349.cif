@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_LiTiSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06650852
+_cell_length_b   5.06650852
+_cell_length_c   5.97964700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.00465447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiSiO4
+_chemical_formula_sum   'Li2 Ti2 Si2 O8'
+_cell_volume   142.31304345
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66292500  0.33707500  0.25000000  1
+  Li  Li1  1  0.33707500  0.66292500  0.75000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si0  1  0.65150100  0.34849900  0.75000000  1
+  Si  Si1  1  0.34849900  0.65150100  0.25000000  1
+  O  O0  1  0.24085100  0.29593600  0.25000000  1
+  O  O1  1  0.29593600  0.24085100  0.75000000  1
+  O  O2  1  0.76567600  0.23432400  0.53040300  1
+  O  O3  1  0.23432400  0.76567600  0.03040300  1
+  O  O4  1  0.76567600  0.23432400  0.96959700  1
+  O  O5  1  0.23432400  0.76567600  0.46959700  1
+  O  O6  1  0.75914900  0.70406400  0.75000000  1
+  O  O7  1  0.70406400  0.75914900  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 1.885861 1_555
+Li0 O4 1.885861 1_554
+Li0 O7 2.069389 1_555
+Li0 O0 2.069389 1_555
+Li1 O3 1.885861 1_556
+Li1 O5 1.885861 1_555
+Li1 O6 2.069389 1_555
+Li1 O1 2.069389 1_555
+O0 Si1 1.675261 1_555
+O0 Ti1 2.144961 1_555
+O0 Ti0 2.144961 1_555
+O1 Si0 1.675261 1_555
+O1 Ti0 2.144961 1_556
+O1 Ti1 2.144961 1_555
+O2 Si0 1.626122 1_555
+O2 Ti1 1.976905 1_655
+O3 Si1 1.626122 1_555
+O3 Ti0 1.976905 1_565
+O4 Si0 1.626122 1_555
+O4 Ti0 1.976905 1_656
+O5 Si1 1.626122 1_555
+O5 Ti1 1.976905 1_565
+O6 Si0 1.675261 1_555
+O6 Ti0 2.144961 1_666
+O6 Ti1 2.144961 1_665
+O7 Si1 1.675261 1_555
+O7 Ti1 2.144961 1_665
+O7 Ti0 2.144961 1_665

@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_Lu(FeSn)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41246732
+_cell_length_b   5.41246732
+_cell_length_c   8.93780600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(FeSn)6
+_chemical_formula_sum   'Lu1 Fe6 Sn6'
+_cell_volume   226.75254293
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.50000000  0.50000000  0.75526800  1
+  Fe  Fe1  1  0.50000000  0.00000000  0.75526800  1
+  Fe  Fe2  1  0.00000000  0.50000000  0.75526800  1
+  Fe  Fe3  1  0.50000000  0.50000000  0.24473200  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.24473200  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.24473200  1
+  Sn  Sn0  1  0.66666700  0.33333300  0.00000000  1
+  Sn  Sn1  1  0.33333300  0.66666700  0.00000000  1
+  Sn  Sn2  1  0.66666700  0.33333300  0.50000000  1
+  Sn  Sn3  1  0.33333300  0.66666700  0.50000000  1
+  Sn  Sn4  1  0.00000000  0.00000000  0.66361300  1
+  Sn  Sn5  1  0.00000000  0.00000000  0.33638700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Sn5 3.006562 1_555
+Lu0 Sn4 3.006562 1_554
+Lu0 Sn1 3.124886 1_545
+Lu0 Sn0 3.124886 1_455
+Lu0 Sn0 3.124891 1_445
+Lu0 Sn1 3.124891 1_445
+Lu0 Sn1 3.124891 1_555
+Lu0 Sn0 3.124891 1_555
+Fe0 Sn0 2.688088 1_556
+Fe0 Sn1 2.688088 1_556
+Fe0 Fe2 2.706234 1_555
+Fe0 Fe2 2.706234 1_655
+Fe0 Fe1 2.706234 1_555
+Fe0 Fe1 2.706234 1_565
+Fe0 Sn2 2.765257 1_555
+Fe0 Sn3 2.765257 1_555
+Fe0 Sn4 2.827505 1_665
+Fe0 Sn4 2.827505 1_555
+Fe0 Lu0 3.479695 1_666
+Fe0 Lu0 3.479695 1_556
+Fe1 Sn0 2.688086 1_556
+Fe1 Sn1 2.688086 1_546
+Fe1 Fe2 2.706234 1_545
+Fe1 Fe2 2.706234 1_655
+Fe1 Sn3 2.765255 1_545
+Fe1 Sn2 2.765255 1_555
+Fe1 Sn4 2.827504 1_555
+Fe1 Sn4 2.827504 1_655
+Fe1 Lu0 3.479695 1_556
+Fe1 Lu0 3.479695 1_656
+Fe2 Sn1 2.688086 1_556
+Fe2 Sn0 2.688086 1_456
+Fe2 Sn3 2.765255 1_555
+Fe2 Sn2 2.765255 1_455
+Fe2 Sn4 2.827504 1_565
+Fe2 Sn4 2.827504 1_555
+Fe2 Lu0 3.479695 1_556
+Fe2 Lu0 3.479695 1_566
+Fe3 Sn0 2.688088 1_555
+Fe3 Sn1 2.688088 1_555
+Fe3 Fe5 2.706234 1_655
+Fe3 Fe4 2.706234 1_555
+Fe3 Fe5 2.706234 1_555
+Fe3 Fe4 2.706234 1_565
+Fe3 Sn2 2.765257 1_555
+Fe3 Sn3 2.765257 1_555
+Fe3 Sn5 2.827505 1_665
+Fe3 Sn5 2.827505 1_555
+Fe3 Lu0 3.479695 1_665
+Fe3 Lu0 3.479695 1_555
+Fe4 Sn0 2.688086 1_555
+Fe4 Sn1 2.688086 1_545
+Fe4 Fe5 2.706234 1_545
+Fe4 Fe5 2.706234 1_655
+Fe4 Sn2 2.765255 1_555
+Fe4 Sn3 2.765255 1_545
+Fe4 Sn5 2.827504 1_555
+Fe4 Sn5 2.827504 1_655
+Fe4 Lu0 3.479695 1_555
+Fe4 Lu0 3.479695 1_655
+Fe5 Sn1 2.688086 1_555
+Fe5 Sn0 2.688086 1_455
+Fe5 Sn2 2.765255 1_455
+Fe5 Sn3 2.765255 1_555
+Fe5 Sn5 2.827504 1_555
+Fe5 Sn5 2.827504 1_565
+Fe5 Lu0 3.479695 1_555
+Fe5 Lu0 3.479695 1_565
+Sn4 Sn5 2.924683 1_555

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Mo3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84761400
+_cell_length_b   7.37999131
+_cell_length_c   7.37999131
+_cell_angle_alpha   83.80768854
+_cell_angle_beta   70.82651859
+_cell_angle_gamma   70.82651859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo3P
+_chemical_formula_sum   'Mo12 P4'
+_cell_volume   235.54280778
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.13867100  0.00304400  0.18460400  1
+  Mo  Mo1  1  0.32631900  0.99695600  0.81539600  1
+  Mo  Mo2  1  0.67672500  0.18460400  0.99695600  1
+  Mo  Mo3  1  0.85828500  0.81539600  0.00304400  1
+  Mo  Mo4  1  0.99729500  0.64522900  0.35689500  1
+  Mo  Mo5  1  0.99942000  0.35477100  0.64310500  1
+  Mo  Mo6  1  0.64580900  0.35689500  0.35477100  1
+  Mo  Mo7  1  0.35747500  0.64310500  0.64522900  1
+  Mo  Mo8  1  0.52919700  0.00333300  0.40397600  1
+  Mo  Mo9  1  0.93650600  0.99666700  0.59602400  1
+  Mo  Mo10  1  0.06682700  0.40397600  0.99666700  1
+  Mo  Mo11  1  0.46747000  0.59602400  0.00333300  1
+  P  P0  1  0.49484100  0.71204600  0.29457700  1
+  P  P1  1  0.50146400  0.28795400  0.70542300  1
+  P  P2  1  0.21058100  0.29457700  0.28795400  1
+  P  P3  1  0.79311300  0.70542300  0.71204600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 P2 2.520628 1_555
+Mo0 P0 2.522029 1_545
+Mo0 Mo1 2.573956 1_544
+Mo1 P3 2.520631 1_555
+Mo1 P1 2.522029 1_565
+Mo2 P1 2.520631 1_555
+Mo2 P2 2.522031 1_556
+Mo2 Mo3 2.573956 1_546
+Mo3 P0 2.520631 1_555
+Mo3 P3 2.522029 1_554
+Mo4 P2 2.491110 1_655
+Mo4 P0 2.505127 1_655
+Mo4 P0 2.507045 1_555
+Mo4 P3 2.510983 1_555
+Mo5 P3 2.491110 1_555
+Mo5 P1 2.505123 1_655
+Mo5 P1 2.507050 1_555
+Mo5 P2 2.510983 1_655
+Mo6 P1 2.491110 1_555
+Mo6 P2 2.505127 1_555
+Mo6 P2 2.507045 1_655
+Mo6 P0 2.510983 1_555
+Mo7 P0 2.491110 1_555
+Mo7 P3 2.505123 1_455
+Mo7 P3 2.507050 1_555
+Mo7 P1 2.510983 1_555
+Mo8 P0 2.449220 1_545
+Mo8 P2 2.455519 1_555
+Mo9 P1 2.449220 1_565
+Mo9 P3 2.455517 1_555
+Mo10 P2 2.449217 1_556
+Mo10 P1 2.455517 1_555
+Mo11 P3 2.449220 1_554
+Mo11 P0 2.455517 1_555

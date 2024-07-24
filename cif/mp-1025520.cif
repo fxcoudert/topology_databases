@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_BaIn2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58564993
+_cell_length_b   6.38611718
+_cell_length_c   8.10205857
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.04081905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaIn2Pd
+_chemical_formula_sum   'Ba2 In4 Pd2'
+_cell_volume   221.44506272
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.45312624  0.90625348  0.25000000  1
+  Ba  Ba1  1  0.54687376  0.09374652  0.75000000  1
+  In  In0  1  0.17022273  0.34044545  0.05736678  1
+  In  In1  1  0.82977727  0.65955455  0.94263322  1
+  In  In2  1  0.82977727  0.65955455  0.55736678  1
+  In  In3  1  0.17022273  0.34044545  0.44263322  1
+  Pd  Pd0  1  0.72301704  0.44603409  0.25000000  1
+  Pd  Pd1  1  0.27698296  0.55396591  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pd0 3.217266 1_565
+Ba0 Pd0 3.575107 1_455
+Ba0 Pd0 3.575111 1_555
+Ba0 In2 3.690628 1_455
+Ba0 In1 3.690628 1_454
+Ba0 In2 3.690632 1_555
+Ba0 In1 3.690632 1_554
+Ba0 In3 3.716037 1_555
+Ba0 In0 3.716037 1_555
+Ba0 In3 3.793449 1_565
+Ba0 In0 3.793449 1_565
+Ba0 In3 3.793451 1_665
+Ba0 In0 3.793451 1_665
+Ba1 Pd1 3.217266 1_545
+Ba1 Pd1 3.575107 1_655
+Ba1 Pd1 3.575111 1_555
+Ba1 In3 3.690628 1_655
+Ba1 In0 3.690628 1_656
+Ba1 In0 3.690632 1_556
+Ba1 In3 3.690632 1_555
+Ba1 In1 3.716037 1_555
+Ba1 In2 3.716037 1_555
+Ba1 In1 3.793449 1_545
+Ba1 In2 3.793449 1_545
+Ba1 In1 3.793451 1_445
+Ba1 In2 3.793451 1_445
+In0 Pd1 2.796650 1_554
+In0 Pd0 2.844113 1_555
+In0 Pd0 2.844114 1_455
+In0 In1 3.120695 1_554
+In0 In1 3.120696 1_454
+In0 In3 3.121451 1_555
+In1 Pd0 2.796650 1_556
+In1 Pd1 2.844113 1_555
+In1 Pd1 2.844114 1_655
+In1 In2 3.121451 1_555
+In2 Pd0 2.796650 1_555
+In2 Pd1 2.844113 1_555
+In2 Pd1 2.844114 1_655
+In2 In3 3.120695 1_555
+In2 In3 3.120696 1_655
+In3 Pd1 2.796650 1_555
+In3 Pd0 2.844113 1_555
+In3 Pd0 2.844114 1_455

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SmBiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61077220
+_cell_length_b   5.29772273
+_cell_length_c   6.71107530
+_cell_angle_alpha   69.52270331
+_cell_angle_beta   67.93365972
+_cell_angle_gamma   96.15862465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmBiO4
+_chemical_formula_sum   'Sm2 Bi2 O8'
+_cell_volume   166.51329734
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.36549539  0.11714660  0.77083035  1
+  Sm  Sm1  1  0.63790388  0.88948058  0.22617578  1
+  Bi  Bi0  1  0.10135123  0.35290187  0.29926974  1
+  Bi  Bi1  1  0.90198693  0.65366845  0.69781373  1
+  O  O0  1  0.61411855  0.28412431  0.93379869  1
+  O  O1  1  0.26883559  0.03730591  0.44401847  1
+  O  O2  1  0.78908367  0.52377590  0.44402791  1
+  O  O3  1  0.04941051  0.21958799  0.06319093  1
+  O  O4  1  0.95399090  0.78724052  0.93375000  1
+  O  O5  1  0.21434916  0.48290411  0.55296445  1
+  O  O6  1  0.73457094  0.96927172  0.55291023  1
+  O  O7  1  0.38932525  0.72245004  0.06322872  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 O3 2.044391 1_555
+Bi0 O7 2.044785 1_555
+Bi0 O1 2.123376 1_555
+Bi0 O2 2.123604 1_455
+Bi0 O5 2.304951 1_555
+Bi0 O6 2.305020 1_445
+Bi1 O4 2.044447 1_555
+Bi1 O0 2.044483 1_555
+Bi1 O6 2.123496 1_555
+Bi1 O5 2.123765 1_655
+Bi1 O2 2.304946 1_555
+Bi1 O1 2.305339 1_665
+O0 Sm0 2.341601 1_555
+O0 Sm1 2.371775 1_546
+O1 Sm1 2.431676 1_545
+O1 Sm0 2.603269 1_555
+O2 Sm1 2.431686 1_555
+O2 Sm0 2.603572 1_555
+O3 Sm1 2.341664 1_445
+O3 Sm0 2.372019 1_554
+O4 Sm0 2.341218 1_665
+O4 Sm1 2.371661 1_556
+O5 Sm0 2.431778 1_555
+O5 Sm1 2.603335 1_555
+O6 Sm0 2.432071 1_565
+O6 Sm1 2.602668 1_555
+O7 Sm1 2.341435 1_555
+O7 Sm0 2.372135 1_564

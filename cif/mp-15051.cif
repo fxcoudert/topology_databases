@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Nd(PdO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86980224
+_cell_length_b   5.86928393
+_cell_length_c   6.57412934
+_cell_angle_alpha   116.52541149
+_cell_angle_beta   116.52472220
+_cell_angle_gamma   89.99167439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd(PdO2)2
+_chemical_formula_sum   'Nd2 Pd4 O8'
+_cell_volume   175.60905351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.87500622  0.62499101  0.74999805  1
+  Nd  Nd1  1  0.12499378  0.37500899  0.25000195  1
+  Pd  Pd0  1  0.50000000  -0.00000000  0.00000000  1
+  Pd  Pd1  1  0.00000000  -0.00000000  0.50000000  1
+  Pd  Pd2  1  0.50000000  -0.00000000  0.50000000  1
+  Pd  Pd3  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.82524954  0.62617018  0.35136806  1
+  O  O1  1  0.72519167  0.32528015  0.85137415  1
+  O  O2  1  0.12615552  0.02608408  0.85135442  1
+  O  O3  1  0.52608193  0.22515493  0.35135528  1
+  O  O4  1  0.17475046  0.37382982  0.64863194  1
+  O  O5  1  0.27480833  0.67471985  0.14862585  1
+  O  O6  1  0.47391807  0.77484507  0.64864472  1
+  O  O7  1  0.87384448  0.97391592  0.14864558  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 O2 2.425231 1_665
+Nd0 O4 2.425247 1_655
+Nd0 O6 2.425295 1_555
+Nd0 O1 2.425474 1_555
+Nd0 O5 2.506832 1_656
+Nd0 O3 2.506834 1_555
+Nd0 O7 2.506902 1_556
+Nd0 O0 2.507131 1_555
+Nd1 O7 2.425231 1_445
+Nd1 O0 2.425247 1_455
+Nd1 O3 2.425295 1_555
+Nd1 O5 2.425474 1_555
+Nd1 O1 2.506832 1_454
+Nd1 O6 2.506834 1_555
+Nd1 O2 2.506902 1_554
+Nd1 O4 2.507131 1_555
+O0 Pd1 2.002894 1_665
+O0 Pd3 2.015617 1_555
+O1 Pd3 2.002936 1_556
+O1 Pd2 2.015588 1_555
+O2 Pd0 2.002991 1_556
+O2 Pd1 2.015848 1_555
+O3 Pd2 2.002964 1_555
+O3 Pd0 2.015689 1_555
+O4 Pd1 2.002894 1_555
+O4 Pd3 2.015617 1_556
+O5 Pd3 2.002936 1_555
+O5 Pd2 2.015588 1_565
+O6 Pd2 2.002964 1_565
+O6 Pd0 2.015689 1_566
+O7 Pd0 2.002991 1_565
+O7 Pd1 2.015848 1_665

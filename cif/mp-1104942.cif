@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_RbNiC2BrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88239340
+_cell_length_b   7.88239340
+_cell_length_c   7.88239340
+_cell_angle_alpha   126.50237657
+_cell_angle_beta   126.50237657
+_cell_angle_gamma   79.06400758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNiC2BrN2
+_chemical_formula_sum   'Rb2 Ni2 C4 Br2 N4'
+_cell_volume   306.06915025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000000  0.25000000  0.50000000  1
+  Rb  Rb1  1  0.25000000  0.75000000  0.50000000  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.00000000  1
+  C  C0  1  0.18359200  0.18359200  0.36718500  1
+  C  C1  1  0.81640800  0.81640800  0.63281500  1
+  C  C2  1  0.18359200  0.81640800  0.00000000  1
+  C  C3  1  0.81640800  0.18359200  0.00000000  1
+  Br  Br0  1  0.72330900  0.72330900  0.00000000  1
+  Br  Br1  1  0.27669100  0.27669100  0.00000000  1
+  N  N0  1  0.69957500  0.69957500  0.39915000  1
+  N  N1  1  0.30042500  0.30042500  0.60085000  1
+  N  N2  1  0.69957500  0.30042500  0.00000000  1
+  N  N3  1  0.30042500  0.69957500  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 N1 1.172348 1_555
+C0 Ni0 1.842246 1_555
+C1 N0 1.172348 1_555
+C1 Ni0 1.842246 1_666
+C2 N3 1.172353 1_555
+C2 Ni0 1.842241 1_565
+C3 N2 1.172353 1_555
+C3 Ni0 1.842241 1_655
+Br0 Ni1 2.715190 1_555
+Br0 Rb1 3.562520 1_554
+Br0 Rb1 3.562520 1_655
+Br0 Rb0 3.562520 1_565
+Br0 Rb0 3.562520 1_554
+Br1 Ni1 2.715190 1_555
+Br1 Rb1 3.562520 1_544
+Br1 Rb0 3.562520 1_555
+Br1 Rb1 3.562520 1_555
+Br1 Rb0 3.562520 1_454
+N0 Ni1 2.002622 1_555
+N1 Ni1 2.002622 1_556
+N2 Ni1 2.002622 1_555
+N3 Ni1 2.002622 1_555

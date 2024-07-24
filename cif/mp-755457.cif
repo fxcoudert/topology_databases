@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Li2Fe2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56180100
+_cell_length_b   6.40880400
+_cell_length_c   6.60361713
+_cell_angle_alpha   64.39452419
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Fe2S3
+_chemical_formula_sum   'Li4 Fe4 S6'
+_cell_volume   250.43091311
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33905200  0.12731000  0.06952000  1
+  Li  Li1  1  0.16094800  0.62731000  0.06952000  1
+  Li  Li2  1  0.83905200  0.37269000  0.93048000  1
+  Li  Li3  1  0.66094800  0.87269000  0.93048000  1
+  Fe  Fe0  1  0.61385300  0.44277700  0.35150300  1
+  Fe  Fe1  1  0.11385300  0.05722300  0.64849700  1
+  Fe  Fe2  1  0.88614700  0.94277700  0.35150300  1
+  Fe  Fe3  1  0.38614700  0.55722300  0.64849700  1
+  S  S0  1  0.50000000  0.50000000  0.00000000  1
+  S  S1  1  0.00000000  0.00000000  0.00000000  1
+  S  S2  1  0.94276400  0.31471600  0.33428800  1
+  S  S3  1  0.44276400  0.18528400  0.66571200  1
+  S  S4  1  0.55723600  0.81471600  0.33428800  1
+  S  S5  1  0.05723600  0.68528400  0.66571200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S0 2.466429 1_555
+Li0 S4 2.468315 1_545
+Li0 S1 2.479902 1_555
+Li0 S3 2.618309 1_554
+Li1 S1 2.466429 1_565
+Li1 S2 2.468315 1_455
+Li1 S0 2.479902 1_555
+Li1 S5 2.618309 1_554
+Li2 S1 2.466429 1_656
+Li2 S5 2.468315 1_655
+Li2 S0 2.479902 1_556
+Li2 S2 2.618309 1_556
+Li3 S0 2.466429 1_556
+Li3 S3 2.468315 1_565
+Li3 S1 2.479902 1_666
+Li3 S4 2.618309 1_556
+Fe0 S3 2.308524 1_555
+Fe0 S0 2.311877 1_555
+Fe0 S2 2.329202 1_555
+Fe0 S4 2.366151 1_555
+Fe1 S2 2.308524 1_455
+Fe1 S1 2.311877 1_556
+Fe1 S3 2.329202 1_555
+Fe1 S5 2.366151 1_545
+Fe2 S5 2.308524 1_655
+Fe2 S1 2.311877 1_665
+Fe2 S4 2.329202 1_555
+Fe2 S2 2.366151 1_565
+Fe3 S4 2.308524 1_555
+Fe3 S0 2.311877 1_556
+Fe3 S5 2.329202 1_555
+Fe3 S3 2.366151 1_555

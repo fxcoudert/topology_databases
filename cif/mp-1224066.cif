@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Ho(MnAl)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63627792
+_cell_length_b   6.63627792
+_cell_length_c   6.63627792
+_cell_angle_alpha   136.35622141
+_cell_angle_beta   99.14363743
+_cell_angle_gamma   96.74468193
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(MnAl)6
+_chemical_formula_sum   'Ho1 Mn6 Al6'
+_cell_volume   187.20378676
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn4  1  0.23555900  0.50000000  0.73555900  1
+  Mn  Mn5  1  0.76444100  0.50000000  0.26444100  1
+  Al  Al0  1  0.34632600  0.34632600  0.00000000  1
+  Al  Al1  1  0.65367400  0.65367400  0.00000000  1
+  Al  Al2  1  0.66135400  0.00000000  0.66135400  1
+  Al  Al3  1  0.33864600  0.00000000  0.33864600  1
+  Al  Al4  1  0.80288300  0.30288300  0.50000000  1
+  Al  Al5  1  0.19711700  0.69711700  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Mn4 3.193136 1_544
+Ho0 Mn4 3.193136 1_555
+Ho0 Mn5 3.193136 1_455
+Ho0 Mn5 3.193136 1_444
+Ho0 Mn1 3.318139 1_555
+Ho0 Mn2 3.318139 1_555
+Ho0 Mn3 3.318139 1_555
+Ho0 Mn1 3.318139 1_444
+Ho0 Mn0 3.318139 1_555
+Ho0 Mn0 3.318139 1_455
+Ho0 Mn2 3.318139 1_554
+Ho0 Mn3 3.318139 1_545
+Mn0 Mn1 2.466854 1_555
+Mn0 Mn1 2.466854 1_544
+Mn0 Mn4 2.528888 1_544
+Mn0 Mn5 2.528888 1_555
+Mn1 Mn5 2.528888 1_555
+Mn1 Mn4 2.528888 1_555
+Mn2 Mn3 2.466854 1_556
+Mn2 Mn3 2.466854 1_545
+Mn2 Mn5 2.528888 1_445
+Mn2 Mn4 2.528888 1_555
+Mn3 Mn5 2.528888 1_455
+Mn3 Mn4 2.528888 1_554
+Al0 Mn3 2.621612 1_555
+Al0 Mn0 2.621612 1_555
+Al0 Mn1 2.621612 1_555
+Al0 Mn2 2.621612 1_554
+Al0 Mn5 2.648844 1_555
+Al0 Mn4 2.648844 1_554
+Al0 Al1 2.709822 1_555
+Al0 Al5 2.795715 1_544
+Al0 Al5 2.795715 1_555
+Al0 Ho0 3.053483 1_555
+Al1 Mn1 2.621612 1_554
+Al1 Mn2 2.621612 1_665
+Al1 Mn3 2.621612 1_655
+Al1 Mn0 2.621612 1_565
+Al1 Mn5 2.648844 1_555
+Al1 Mn4 2.648844 1_554
+Al1 Al4 2.795715 1_554
+Al1 Al4 2.795715 1_565
+Al1 Ho0 3.053483 1_665
+Al2 Mn5 2.621574 1_556
+Al2 Mn5 2.621574 1_545
+Al2 Mn0 2.638557 1_556
+Al2 Mn2 2.638557 1_655
+Al2 Mn3 2.638557 1_656
+Al2 Mn1 2.638557 1_545
+Al2 Al3 2.777605 1_555
+Al2 Ho0 2.914786 1_656
+Al2 Al4 3.010001 1_555
+Al2 Al5 3.010001 1_545
+Al3 Mn4 2.621574 1_544
+Al3 Mn4 2.621574 1_555
+Al3 Mn0 2.638557 1_555
+Al3 Mn1 2.638557 1_555
+Al3 Mn3 2.638557 1_545
+Al3 Mn2 2.638557 1_555
+Al3 Ho0 2.914786 1_555
+Al3 Al4 3.010001 1_555
+Al3 Al5 3.010001 1_545
+Al4 Mn2 2.523680 1_655
+Al4 Mn1 2.523680 1_555
+Al4 Mn0 2.523680 1_555
+Al4 Mn3 2.523680 1_656
+Al4 Mn4 2.670427 1_655
+Al4 Mn5 2.670427 1_555
+Al4 Ho0 3.017582 1_655
+Al4 Ho0 3.017582 1_666
+Al5 Mn3 2.523680 1_555
+Al5 Mn0 2.523680 1_566
+Al5 Mn1 2.523680 1_555
+Al5 Mn2 2.523680 1_565
+Al5 Mn5 2.670427 1_455
+Al5 Mn4 2.670427 1_555
+Al5 Ho0 3.017582 1_566
+Al5 Ho0 3.017582 1_555

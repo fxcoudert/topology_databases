@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Cu4SnP10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.42942582
+_cell_length_b   5.68069749
+_cell_length_c   7.36674197
+_cell_angle_alpha   115.51035763
+_cell_angle_beta   140.87262137
+_cell_angle_gamma   56.27723174
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu4SnP10
+_chemical_formula_sum   'Cu4 Sn1 P10'
+_cell_volume   251.04245574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.07109100  0.78468100  0.00000000  1
+  Cu  Cu1  1  0.23649600  0.96787300  0.00000000  1
+  Cu  Cu2  1  0.72888700  0.84635100  0.49924900  1
+  Cu  Cu3  1  0.22963800  0.84635100  0.50075100  1
+  Sn  Sn0  1  0.88081200  0.33360300  0.00000000  1
+  P  P0  1  0.67589800  0.01257400  0.00000000  1
+  P  P1  1  0.31577500  0.31187200  0.00000000  1
+  P  P2  1  0.79338100  0.38663400  0.53929600  1
+  P  P3  1  0.25408500  0.38663400  0.46070400  1
+  P  P4  1  0.47101900  0.46624000  0.00000000  1
+  P  P5  1  0.01003000  0.64788700  0.59007900  1
+  P  P6  1  0.41995100  0.64788700  0.40992100  1
+  P  P7  1  0.52216200  0.87674900  0.00000000  1
+  P  P8  1  0.97868300  0.01468300  0.47719000  1
+  P  P9  1  0.50149300  0.01468300  0.52281000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 P5 2.349716 1_554
+Cu0 P6 2.349716 1_555
+Cu0 Cu3 2.496997 1_555
+Cu0 Cu2 2.496998 1_454
+Cu0 P1 2.587416 1_555
+Cu0 Cu1 2.615597 1_555
+Cu0 Sn0 2.631224 1_465
+Cu1 P9 2.447742 1_565
+Cu1 P8 2.447742 1_464
+Cu1 P1 2.570183 1_565
+Cu1 P4 2.612287 1_555
+Cu1 P5 2.737171 1_554
+Cu1 P6 2.737171 1_555
+Cu1 P7 3.008579 1_555
+Cu2 P5 2.309881 1_655
+Cu2 P9 2.344493 1_565
+Cu2 P2 2.374693 1_555
+Cu2 P7 2.398074 1_555
+Cu3 P6 2.309881 1_555
+Cu3 P8 2.344493 1_465
+Cu3 P3 2.374693 1_555
+Cu3 P7 2.398074 1_556
+P0 P7 2.277751 1_545
+P0 P4 2.329008 1_555
+P0 P9 2.338629 1_554
+P0 P8 2.338629 1_555
+P1 P7 2.280357 1_545
+P1 P4 2.375913 1_555
+P1 P6 2.482018 1_555
+P1 P5 2.482018 1_554
+P2 P8 2.204814 1_555
+P2 P4 2.559356 1_555
+P2 Sn0 2.809337 1_556
+P3 P9 2.204814 1_555
+P3 P4 2.559356 1_556
+P3 Sn0 2.809337 1_455
+P4 P7 2.700619 1_555
+P5 P8 2.315809 1_465
+P6 P9 2.315809 1_565

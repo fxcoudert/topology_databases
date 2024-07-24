@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ta5Sb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56297819
+_cell_length_b   7.51709463
+_cell_length_c   7.51495702
+_cell_angle_alpha   86.76674429
+_cell_angle_beta   76.30244285
+_cell_angle_gamma   76.27651528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5Sb4
+_chemical_formula_sum   'Ta5 Sb4'
+_cell_volume   189.96792349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.62628281  0.06072238  0.68540967  1
+  Ta  Ta1  1  0.31354270  0.31468856  0.06041001  1
+  Ta  Ta2  1  0.68645730  0.68531144  0.93958999  1
+  Ta  Ta3  1  0.37371719  0.93927762  0.31459033  1
+  Ta  Ta4  1  0.00000000  -0.00000000  0.00000000  1
+  Sb  Sb0  1  0.70635504  0.24061945  0.34760355  1
+  Sb  Sb1  1  0.05377100  0.65217517  0.24087138  1
+  Sb  Sb2  1  0.94622900  0.34782483  0.75912862  1
+  Sb  Sb3  1  0.29364496  0.75938055  0.65239645  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ta4 2.939373 1_556
+Ta0 Ta4 2.941298 1_656
+Ta1 Ta4 2.938384 1_655
+Ta1 Ta4 2.943655 1_555
+Ta2 Ta4 2.938384 1_566
+Ta2 Ta4 2.943655 1_666
+Ta3 Ta4 2.939373 1_665
+Ta3 Ta4 2.941298 1_565
+Sb0 Ta0 2.794174 1_555
+Sb0 Ta1 2.802166 1_555
+Sb0 Ta1 2.805890 1_655
+Sb0 Ta3 2.841454 1_545
+Sb0 Ta3 2.841666 1_645
+Sb0 Ta4 3.087183 1_655
+Sb1 Ta1 2.794875 1_555
+Sb1 Ta3 2.802433 1_455
+Sb1 Ta3 2.804536 1_555
+Sb1 Ta2 2.838228 1_554
+Sb1 Ta2 2.843602 1_454
+Sb1 Ta4 3.089061 1_565
+Sb2 Ta2 2.794875 1_555
+Sb2 Ta0 2.802433 1_655
+Sb2 Ta0 2.804536 1_555
+Sb2 Ta1 2.838228 1_556
+Sb2 Ta1 2.843602 1_656
+Sb2 Ta4 3.089061 1_656
+Sb3 Ta3 2.794174 1_555
+Sb3 Ta2 2.802166 1_555
+Sb3 Ta2 2.805890 1_455
+Sb3 Ta0 2.841454 1_565
+Sb3 Ta0 2.841666 1_465
+Sb3 Ta4 3.087183 1_566

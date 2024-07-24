@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CsVI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23111885
+_cell_length_b   8.23111858
+_cell_length_c   6.95105790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98621892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsVI3
+_chemical_formula_sum   'Cs2 V2 I6'
+_cell_volume   407.90549991
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.66664750  0.33331480  0.75000000  1
+  Cs  Cs1  1  0.33331480  0.66664750  0.25000000  1
+  V  V0  1  -0.00001727  -0.00001727  0.50000000  1
+  V  V1  1  -0.00001727  -0.00001727  -0.00000000  1
+  I  I0  1  0.67985268  0.83999435  0.74999800  1
+  I  I1  1  0.83983486  0.16007285  0.25000200  1
+  I  I2  1  0.16007285  0.83983486  0.74999800  1
+  I  I3  1  0.32017067  0.16014683  0.25000200  1
+  I  I4  1  0.83999435  0.67985268  0.25000200  1
+  I  I5  1  0.16014583  0.32017067  0.74999800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 I0 4.115980 1_545
+Cs0 I5 4.116069 1_555
+Cs0 I5 4.117183 1_655
+Cs0 I2 4.117250 1_655
+Cs0 I0 4.117292 1_555
+Cs0 I2 4.117699 1_545
+Cs0 I1 4.263408 1_555
+Cs0 I1 4.263431 1_556
+Cs0 I3 4.263903 1_555
+Cs0 I3 4.263925 1_556
+Cs0 I4 4.264155 1_555
+Cs0 I4 4.264177 1_556
+Cs1 I4 4.115980 1_455
+Cs1 I3 4.116061 1_555
+Cs1 I3 4.117191 1_565
+Cs1 I1 4.117250 1_565
+Cs1 I4 4.117292 1_555
+Cs1 I1 4.117699 1_455
+Cs1 I2 4.263408 1_555
+Cs1 I2 4.263431 1_554
+Cs1 I5 4.263902 1_555
+Cs1 I5 4.263925 1_554
+Cs1 I0 4.264155 1_555
+Cs1 I0 4.264178 1_554
+I0 V0 2.868581 1_665
+I0 V1 2.868597 1_666
+I1 V0 2.868815 1_655
+I1 V1 2.868831 1_655
+I2 V0 2.868815 1_565
+I2 V1 2.868831 1_566
+I3 V0 2.868909 1_555
+I3 V1 2.868926 1_555
+I4 V0 2.868581 1_665
+I4 V1 2.868597 1_665
+I5 V0 2.868909 1_555
+I5 V1 2.868926 1_556

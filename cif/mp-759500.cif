@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_LiCoF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12277417
+_cell_length_b   5.11978216
+_cell_length_c   7.56879515
+_cell_angle_alpha   89.54726029
+_cell_angle_beta   90.24117511
+_cell_angle_gamma   120.17231525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoF3
+_chemical_formula_sum   'Li3 Co3 F9'
+_cell_volume   171.61047271
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00357500  0.00514500  0.34542400  1
+  Li  Li1  1  0.33699200  0.67121100  0.26294600  1
+  Li  Li2  1  0.99770500  0.99364900  0.65777600  1
+  Co  Co0  1  0.32985800  0.66408400  0.67751300  1
+  Co  Co1  1  0.66706500  0.33640700  0.34465700  1
+  Co  Co2  1  0.99649200  0.00023200  0.99529900  1
+  F  F0  1  0.03551200  0.71832800  0.81798200  1
+  F  F1  1  0.27797100  0.30734700  0.81558100  1
+  F  F2  1  0.68149200  0.95632600  0.81599100  1
+  F  F3  1  0.31899300  0.30577600  0.19000400  1
+  F  F4  1  0.66038000  0.67880800  0.48868100  1
+  F  F5  1  0.32210000  0.98253500  0.48952600  1
+  F  F6  1  0.98869400  0.69087100  0.19016600  1
+  F  F7  1  0.70313800  0.02185000  0.19043400  1
+  F  F8  1  0.01753100  0.34029400  0.49042000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 F2 1.970202 1_555
+Co0 F0 1.979962 1_555
+Co0 F1 1.995662 1_555
+Co0 F8 2.159895 1_555
+Co0 F5 2.170769 1_555
+Co0 F4 2.192177 1_555
+Co1 F3 2.068434 1_555
+Co1 F7 2.078693 1_555
+Co1 F6 2.086249 1_555
+Co1 F4 2.086480 1_555
+Co1 F5 2.091458 1_545
+Co1 F8 2.094905 1_655
+Co2 F1 2.026195 1_655
+Co2 F2 2.029305 1_545
+Co2 F0 2.060843 1_645
+Co2 F6 2.141388 1_546
+Co2 F7 2.154164 1_556
+Co2 F3 2.183195 1_656
+F0 Li2 1.933957 1_455
+F1 Li2 1.940453 1_445
+F2 Li2 1.948362 1_555
+F3 Li1 1.912127 1_555
+F3 Li0 1.962424 1_555
+F4 Li0 2.023075 1_665
+F4 Li2 2.106284 1_555
+F4 Li1 2.361683 1_555
+F5 Li0 2.009582 1_565
+F5 Li2 2.121441 1_455
+F5 Li1 2.377796 1_555
+F6 Li1 1.915335 1_655
+F6 Li0 1.970144 1_665
+F7 Li1 1.910623 1_545
+F7 Li0 1.966652 1_655
+F8 Li0 2.014835 1_555
+F8 Li2 2.132814 1_445
+F8 Li1 2.388185 1_555

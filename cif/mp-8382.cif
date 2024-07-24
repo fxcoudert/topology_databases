@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CePO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14398330
+_cell_length_b   7.14392567
+_cell_length_c   6.43877692
+_cell_angle_alpha   90.00317673
+_cell_angle_beta   89.99796020
+_cell_angle_gamma   120.00074238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePO4
+_chemical_formula_sum   'Ce3 P3 O12'
+_cell_volume   284.58245308
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00001730  0.49999484  0.66663876  1
+  Ce  Ce1  1  0.49999406  0.49998419  0.33336129  1
+  Ce  Ce2  1  0.49999692  -0.00003325  0.99999851  1
+  P  P0  1  0.00000713  0.50001088  0.16666281  1
+  P  P1  1  0.49999751  0.49999745  0.83334195  1
+  P  P2  1  0.49998946  0.99998853  0.49999175  1
+  O  O0  1  0.44672433  0.30968987  0.97916605  1
+  O  O1  1  0.69021637  0.13703271  0.64588938  1
+  O  O2  1  0.86296996  0.55326949  0.31249338  1
+  O  O3  1  0.13705064  0.44678351  0.31251875  1
+  O  O4  1  0.55332409  0.86299324  0.35417601  1
+  O  O5  1  0.55327034  0.69028653  0.97922293  1
+  O  O6  1  0.44674655  0.13699178  0.35410749  1
+  O  O7  1  0.30971519  0.44675533  0.68749355  1
+  O  O8  1  0.13704723  0.69030543  0.02081366  1
+  O  O9  1  0.86299278  0.30969959  0.02082559  1
+  O  O10  1  0.69028910  0.55328615  0.68748874  1
+  O  O11  1  0.30968462  0.86296575  0.64580643  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 O11 2.428949 1_555
+Ce0 O10 2.429026 1_455
+Ce0 O1 2.429048 1_455
+Ce0 O7 2.429088 1_555
+Ce0 O3 2.583448 1_555
+Ce0 O2 2.583665 1_455
+Ce0 O8 2.583836 1_556
+Ce0 O9 2.583876 1_456
+Ce1 O3 2.428979 1_555
+Ce1 O2 2.428982 1_555
+Ce1 O4 2.429051 1_555
+Ce1 O6 2.429146 1_555
+Ce1 O7 2.583524 1_555
+Ce1 O10 2.583537 1_555
+Ce1 O5 2.583669 1_554
+Ce1 O0 2.583863 1_554
+Ce2 O8 2.428745 1_546
+Ce2 O5 2.428809 1_545
+Ce2 O9 2.429140 1_556
+Ce2 O0 2.429144 1_555
+Ce2 O1 2.583288 1_555
+Ce2 O6 2.583327 1_556
+Ce2 O4 2.583855 1_546
+Ce2 O11 2.583918 1_545
+O0 P1 1.535407 1_555
+O1 P2 1.535343 1_545
+O2 P0 1.535329 1_655
+O3 P0 1.535406 1_555
+O4 P2 1.535340 1_555
+O5 P1 1.535455 1_555
+O6 P2 1.535364 1_545
+O7 P1 1.535396 1_555
+O8 P0 1.535444 1_555
+O9 P0 1.535379 1_655
+O10 P1 1.535367 1_555
+O11 P2 1.535309 1_555

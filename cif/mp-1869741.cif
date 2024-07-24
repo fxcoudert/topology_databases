@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Li(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80829402
+_cell_length_b   6.80829432
+_cell_length_c   6.84212373
+_cell_angle_alpha   124.01605432
+_cell_angle_beta   117.19460768
+_cell_angle_gamma   88.76863243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(NiS2)2
+_chemical_formula_sum   'Li2 Ni4 S8'
+_cell_volume   221.71357685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000100  0.00000100  1
+  Li  Li1  1  0.00000100  0.00000000  0.50000000  1
+  Ni  Ni0  1  0.38461300  0.63461300  0.75000000  1
+  Ni  Ni1  1  0.61538700  0.36538800  0.25000000  1
+  Ni  Ni2  1  0.50000100  0.00000000  0.50000000  1
+  Ni  Ni3  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.75349500  0.76956000  0.51921000  1
+  S  S1  1  0.75035100  0.23428700  0.98079200  1
+  S  S2  1  0.24010400  0.23373700  0.00284700  1
+  S  S3  1  0.24650500  0.23044000  0.48079100  1
+  S  S4  1  0.26911000  0.76274300  0.50284600  1
+  S  S5  1  0.24964900  0.76571400  0.01921000  1
+  S  S6  1  0.73088900  0.23725600  0.49715300  1
+  S  S7  1  0.75989600  0.76626400  0.99715300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S5 2.416778 1_555
+Li0 S1 2.416783 1_454
+Li0 S7 2.417001 1_454
+Li0 S2 2.417005 1_555
+Li0 S4 2.426350 1_555
+Li0 S6 2.426364 1_454
+Li1 S3 2.416778 1_555
+Li1 S0 2.416793 1_445
+Li1 S4 2.416995 1_545
+Li1 S6 2.417006 1_455
+Li1 S2 2.426359 1_556
+Li1 S7 2.426360 1_444
+Ni0 S7 2.155128 1_555
+Ni0 S4 2.155134 1_555
+Ni0 S3 2.169360 1_555
+Ni0 S5 2.169366 1_556
+Ni1 S2 2.155128 1_555
+Ni1 S6 2.155140 1_555
+Ni1 S0 2.169354 1_555
+Ni1 S1 2.169355 1_554
+Ni2 S6 2.291935 1_555
+Ni2 S4 2.291949 1_545
+Ni2 S0 2.316104 1_545
+Ni2 S3 2.316113 1_555
+Ni2 S5 2.322092 1_545
+Ni2 S1 2.322099 1_555
+Ni3 S7 2.291945 1_444
+Ni3 S2 2.291949 1_555
+Ni3 S5 2.316109 1_545
+Ni3 S1 2.316112 1_454
+Ni3 S0 2.322091 1_444
+Ni3 S3 2.322096 1_555

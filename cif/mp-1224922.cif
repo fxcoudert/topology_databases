@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_GaCuSnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93546874
+_cell_length_b   6.93546874
+_cell_length_c   6.93546874
+_cell_angle_alpha   131.66215004
+_cell_angle_beta   131.66215004
+_cell_angle_gamma   70.76315042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCuSnSe4
+_chemical_formula_sum   'Ga1 Cu1 Sn1 Se4'
+_cell_volume   182.37614342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu0  1  0.25000000  0.75000000  0.50000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.64061600  0.64489600  0.53836000  1
+  Se  Se1  1  0.10653600  0.10225600  0.46164000  1
+  Se  Se2  1  0.89774400  0.35938400  0.00428000  1
+  Se  Se3  1  0.35510400  0.89346400  0.99572000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Se1 2.465313 1_655
+Ga0 Se3 2.465313 1_544
+Ga0 Se0 2.465313 1_555
+Ga0 Se2 2.465313 1_556
+Cu0 Se1 2.437155 1_565
+Cu0 Se0 2.437155 1_555
+Cu0 Se3 2.437155 1_555
+Cu0 Se2 2.437155 1_455
+Se0 Sn0 2.591991 1_555
+Se1 Sn0 2.591991 1_556
+Se2 Sn0 2.591991 1_555
+Se3 Sn0 2.591991 1_556

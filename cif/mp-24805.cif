@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LaNiSnH2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44627466
+_cell_length_b   4.44627466
+_cell_length_c   8.67895500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000984
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNiSnH2
+_chemical_formula_sum   'La2 Ni2 Sn2 H4'
+_cell_volume   148.59034781
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.50000000  1
+  La  La1  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni0  1  0.33333300  0.66666700  0.75000000  1
+  Ni  Ni1  1  0.66666700  0.33333300  0.25000000  1
+  Sn  Sn0  1  0.66666700  0.33333300  0.75000000  1
+  Sn  Sn1  1  0.33333300  0.66666700  0.25000000  1
+  H  H0  1  0.66666700  0.33333300  0.06536900  1
+  H  H1  1  0.33333300  0.66666700  0.93463100  1
+  H  H2  1  0.66666700  0.33333300  0.43463100  1
+  H  H3  1  0.33333300  0.66666700  0.56536900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Sn0 3.361181 1_455
+La0 Sn1 3.361181 1_545
+La0 Sn0 3.361184 1_445
+La0 Sn0 3.361184 1_555
+La0 Sn1 3.361184 1_445
+La0 Sn1 3.361184 1_555
+La1 Sn0 3.361181 1_454
+La1 Sn1 3.361181 1_545
+La1 Sn1 3.361184 1_445
+La1 Sn1 3.361184 1_555
+La1 Sn0 3.361184 1_444
+La1 Sn0 3.361184 1_554
+Ni0 Sn0 2.567055 1_455
+Ni0 Sn0 2.567055 1_565
+Ni0 Sn0 2.567063 1_555
+Ni1 Sn1 2.567055 1_545
+Ni1 Sn1 2.567055 1_655
+Ni1 Sn1 2.567063 1_555
+H0 Ni1 1.602404 1_555
+H0 La1 2.629000 1_655
+H0 La1 2.629004 1_665
+H0 La1 2.629004 1_555
+H1 Ni0 1.602404 1_555
+H1 La1 2.629000 1_566
+H1 La1 2.629004 1_556
+H1 La1 2.629004 1_666
+H2 Ni1 1.602404 1_555
+H2 La0 2.629000 1_655
+H2 La0 2.629004 1_555
+H2 La0 2.629004 1_665
+H3 Ni0 1.602404 1_555
+H3 La0 2.629000 1_565
+H3 La0 2.629004 1_555
+H3 La0 2.629004 1_665

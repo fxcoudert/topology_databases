@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_ErCuPbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82824448
+_cell_length_b   6.82824448
+_cell_length_c   10.15246100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.64586517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCuPbS3
+_chemical_formula_sum   'Er2 Cu2 Pb2 S6'
+_cell_volume   260.25787673
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.99672100  0.00327900  0.49824700  1
+  Er  Er1  1  0.00327900  0.99672100  0.99824700  1
+  Cu  Cu0  1  0.46693300  0.53306700  0.24952200  1
+  Cu  Cu1  1  0.53306700  0.46693300  0.74952200  1
+  Pb  Pb0  1  0.74819700  0.25180300  0.22624100  1
+  Pb  Pb1  1  0.25180300  0.74819700  0.72624100  1
+  S  S0  1  0.36224300  0.63775700  0.43507600  1
+  S  S1  1  0.63559200  0.36440800  0.56347300  1
+  S  S2  1  0.36440800  0.63559200  0.06347300  1
+  S  S3  1  0.63775700  0.36224300  0.93507600  1
+  S  S4  1  0.07290300  0.92709700  0.25004100  1
+  S  S5  1  0.92709700  0.07290300  0.75004100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 S4 2.709825 1_645
+Er0 S0 2.710371 1_545
+Er0 S0 2.710371 1_655
+Er0 S5 2.713746 1_555
+Er0 S1 2.752965 1_655
+Er0 S1 2.752965 1_545
+Er1 S5 2.709825 1_465
+Er1 S3 2.710371 1_455
+Er1 S3 2.710371 1_565
+Er1 S4 2.713746 1_556
+Er1 S2 2.752965 1_566
+Er1 S2 2.752965 1_456
+Cu0 S2 2.316613 1_555
+Cu0 S0 2.329058 1_555
+Cu0 S4 2.400356 1_655
+Cu0 S4 2.400356 1_545
+Cu1 S1 2.316613 1_555
+Cu1 S3 2.329058 1_555
+Cu1 S5 2.400356 1_565
+Cu1 S5 2.400356 1_455
+Pb0 S2 2.980240 1_545
+Pb0 S2 2.980240 1_655
+Pb0 S4 3.026057 1_655
+Pb0 S4 3.026057 1_545
+Pb1 S1 2.980240 1_455
+Pb1 S1 2.980240 1_565
+Pb1 S5 3.026057 1_565
+Pb1 S5 3.026057 1_455

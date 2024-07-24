@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MgAg2(BrO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69021662
+_cell_length_b   4.03122358
+_cell_length_c   12.42317990
+_cell_angle_alpha   80.61922083
+_cell_angle_beta   89.97698136
+_cell_angle_gamma   89.73693189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAg2(BrO2)2
+_chemical_formula_sum   'Mg1 Ag2 Br2 O4'
+_cell_volume   182.33492656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24994992  0.52551264  0.94781785  1
+  Ag  Ag0  1  0.00034321  0.50138234  0.49832925  1
+  Ag  Ag1  1  0.50006876  0.00116572  0.49849677  1
+  Br  Br0  1  0.25080143  0.66153990  0.67483833  1
+  Br  Br1  1  0.74880398  0.33982798  0.32397743  1
+  O  O0  1  0.74988677  0.86587047  0.91800322  1
+  O  O1  1  0.25079551  0.11711530  0.08351880  1
+  O  O2  1  0.74980667  0.21451339  0.91790777  1
+  O  O3  1  0.24954374  0.79807227  0.08353958  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 2.155848 1_556
+Mg0 O3 2.157332 1_556
+Mg0 O0 2.288373 1_455
+Mg0 O2 2.289630 1_555
+Mg0 O0 2.297896 1_555
+Mg0 O2 2.299976 1_455
+Ag0 Br1 2.538573 1_455
+Ag0 Br0 2.558922 1_555
+Ag1 Br1 2.540068 1_555
+Ag1 Br0 2.559695 1_545
+O0 O2 1.405263 1_565
+O1 O3 1.286121 1_545

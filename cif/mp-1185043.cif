@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_In3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54358625
+_cell_length_b   6.54358625
+_cell_length_c   4.86016600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Pd
+_chemical_formula_sum   'In6 Pd2'
+_cell_volume   180.22431609
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.82535900  0.17464100  0.75000000  1
+  In  In1  1  0.34928200  0.17464100  0.75000000  1
+  In  In2  1  0.82535900  0.65071800  0.75000000  1
+  In  In3  1  0.17464100  0.82535900  0.25000000  1
+  In  In4  1  0.65071800  0.82535900  0.25000000  1
+  In  In5  1  0.17464100  0.34928200  0.25000000  1
+  Pd  Pd0  1  0.66666700  0.33333300  0.25000000  1
+  Pd  Pd1  1  0.33333300  0.66666700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Pd0 3.023280 1_555
+In0 Pd0 3.023280 1_556
+In0 In1 3.115251 1_555
+In0 In2 3.115251 1_555
+In0 In4 3.134187 1_545
+In0 In4 3.134187 1_546
+In0 In5 3.134187 1_656
+In0 In5 3.134187 1_655
+In0 Pd1 3.273041 1_545
+In0 Pd1 3.273041 1_655
+In0 In2 3.428335 1_545
+In0 In1 3.428335 1_655
+In1 Pd0 3.023283 1_555
+In1 Pd0 3.023283 1_556
+In1 In2 3.115251 1_555
+In1 In3 3.134187 1_545
+In1 In3 3.134187 1_546
+In1 In5 3.134187 1_556
+In1 In5 3.134187 1_555
+In1 Pd1 3.273038 1_545
+In1 Pd1 3.273045 1_555
+In1 In2 3.428335 1_445
+In2 Pd0 3.023283 1_555
+In2 Pd0 3.023283 1_556
+In2 In3 3.134187 1_655
+In2 In3 3.134187 1_656
+In2 In4 3.134187 1_555
+In2 In4 3.134187 1_556
+In2 Pd1 3.273038 1_655
+In2 Pd1 3.273045 1_555
+In3 Pd1 3.023280 1_555
+In3 Pd1 3.023280 1_554
+In3 In5 3.115251 1_555
+In3 In4 3.115251 1_555
+In3 Pd0 3.273041 1_455
+In3 Pd0 3.273041 1_565
+In3 In4 3.428335 1_455
+In3 In5 3.428335 1_565
+In4 Pd1 3.023283 1_554
+In4 Pd1 3.023283 1_555
+In4 In5 3.115251 1_555
+In4 Pd0 3.273038 1_565
+In4 Pd0 3.273045 1_555
+In4 In5 3.428335 1_665
+In5 Pd1 3.023283 1_554
+In5 Pd1 3.023283 1_555
+In5 Pd0 3.273038 1_455
+In5 Pd0 3.273045 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MnCoP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25093933
+_cell_length_b   5.06580620
+_cell_length_c   5.68653263
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoP2
+_chemical_formula_sum   'Mn2 Co2 P4'
+_cell_volume   93.64939398
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000000  0.49960795  0.29353670  1
+  Mn  Mn1  1  0.25000000  -0.00039205  0.20646330  1
+  Co  Co0  1  0.75000000  0.49901419  0.69860808  1
+  Co  Co1  1  0.75000000  -0.00098581  0.80139192  1
+  P  P0  1  0.75000000  0.31028450  0.06948253  1
+  P  P1  1  0.75000000  0.81028450  0.43051747  1
+  P  P2  1  0.25000000  0.69109336  0.91710254  1
+  P  P3  1  0.25000000  0.19109336  0.58289746  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 P3 2.269387 1_555
+Mn0 P0 2.277123 1_555
+Mn0 P0 2.277123 1_455
+Mn0 P2 2.350137 1_554
+Mn0 P1 2.392873 1_555
+Mn0 P1 2.392873 1_455
+Mn1 P2 2.269387 1_544
+Mn1 P1 2.277123 1_445
+Mn1 P1 2.277123 1_545
+Mn1 P3 2.350137 1_555
+Mn1 P0 2.392873 1_455
+Mn1 P0 2.392873 1_555
+Co0 P1 2.193291 1_555
+Co0 P2 2.265546 1_655
+Co0 P2 2.265546 1_555
+Co0 P0 2.315578 1_556
+Co0 P3 2.346975 1_555
+Co0 P3 2.346975 1_655
+Co1 P0 2.193291 1_556
+Co1 P3 2.265546 1_655
+Co1 P3 2.265546 1_555
+Co1 P1 2.315578 1_545
+Co1 P2 2.346975 1_545
+Co1 P2 2.346975 1_645

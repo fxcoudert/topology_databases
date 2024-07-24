@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_MoBr3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92433848
+_cell_length_b   11.74337872
+_cell_length_c   11.73906185
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.49903344
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoBr3O
+_chemical_formula_sum   'Mo4 Br12 O4'
+_cell_volume   540.97406298
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.41361056  0.38329970  0.61670420  1
+  Mo  Mo1  1  0.91361056  0.11670030  0.11670420  1
+  Mo  Mo2  1  0.58638944  0.61670030  0.38329580  1
+  Mo  Mo3  1  0.08638944  0.88329970  0.88329580  1
+  Br  Br0  1  0.50449206  0.39314281  0.82189653  1
+  Br  Br1  1  0.49550794  0.60685719  0.17810347  1
+  Br  Br2  1  0.00449206  0.10685719  0.32189653  1
+  Br  Br3  1  0.99550794  0.89314281  0.67810347  1
+  Br  Br4  1  0.49944352  0.82174727  0.39314339  1
+  Br  Br5  1  0.50055648  0.17825273  0.60685661  1
+  Br  Br6  1  0.00055648  0.32174727  0.10685661  1
+  Br  Br7  1  -0.00055648  0.67825273  0.89314339  1
+  Br  Br8  1  0.50345607  0.60527103  0.60545836  1
+  Br  Br9  1  0.49654393  0.39472897  0.39454164  1
+  Br  Br10  1  0.00345607  0.89472897  0.10545836  1
+  Br  Br11  1  0.99654393  0.10527103  0.89454164  1
+  O  O0  1  0.98032535  0.38991795  0.60992797  1
+  O  O1  1  0.01967465  0.61008205  0.39007203  1
+  O  O2  1  0.48032535  0.11008205  0.10992797  1
+  O  O3  1  0.51967465  0.88991795  0.89007203  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O0 1.703299 1_455
+Mo0 O0 2.227451 1_555
+Mo1 O2 1.703299 1_555
+Mo1 O2 2.227451 1_655
+Mo2 O1 1.703299 1_655
+Mo2 O1 2.227451 1_555
+Mo3 O3 1.703299 1_555
+Mo3 O3 2.227451 1_455
+Br0 Mo0 2.434696 1_555
+Br1 Mo2 2.434696 1_555
+Br2 Mo1 2.434696 1_455
+Br3 Mo3 2.434696 1_655
+Br4 Mo2 2.434885 1_555
+Br5 Mo0 2.434885 1_555
+Br6 Mo1 2.434885 1_455
+Br7 Mo3 2.434885 1_555
+Br8 Mo0 2.633895 1_555
+Br8 Mo2 2.634442 1_555
+Br9 Mo2 2.633895 1_555
+Br9 Mo0 2.634442 1_555
+Br10 Mo1 2.633895 1_465
+Br10 Mo3 2.634442 1_554
+Br11 Mo3 2.633895 1_645
+Br11 Mo1 2.634442 1_556

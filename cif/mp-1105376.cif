@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_ZrPCN(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47428100
+_cell_length_b   6.50465292
+_cell_length_c   10.90258141
+_cell_angle_alpha   89.24860444
+_cell_angle_beta   76.41900449
+_cell_angle_gamma   86.96777138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrPCN(OF)3
+_chemical_formula_sum   'Zr2 P2 C2 N2 O6 F6'
+_cell_volume   376.83882485
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50000000  0.50000000  0.50000000  1
+  Zr  Zr1  1  0.00000000  0.50000000  0.00000000  1
+  P  P0  1  0.41146400  0.67174500  0.19345900  1
+  P  P1  1  0.58853600  0.32825500  0.80654100  1
+  C  C0  1  0.32330700  0.92579200  0.24557400  1
+  C  C1  1  0.67669300  0.07420800  0.75442600  1
+  N  N0  1  0.26105600  0.09165900  0.28403500  1
+  N  N1  1  0.73894400  0.90834100  0.71596500  1
+  O  O0  1  0.66798600  0.67544500  0.09972300  1
+  O  O1  1  0.33201400  0.32455500  0.90027700  1
+  O  O2  1  0.43287400  0.54044000  0.30773700  1
+  O  O3  1  0.56712600  0.45956000  0.69226300  1
+  O  O4  1  0.21006200  0.60246800  0.12975000  1
+  O  O5  1  0.78993800  0.39753200  0.87025000  1
+  F  F0  1  0.81023000  0.65792700  0.43544500  1
+  F  F1  1  0.18977000  0.34207300  0.56455500  1
+  F  F2  1  0.70026400  0.23702300  0.44904000  1
+  F  F3  1  0.29973600  0.76297700  0.55096000  1
+  F  F4  1  0.10551000  0.73977500  0.89197900  1
+  F  F5  1  0.89449000  0.26022500  0.10802100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 N0 1.166989 1_565
+C0 P0 1.760094 1_555
+C1 N1 1.166989 1_545
+C1 P1 1.760094 1_555
+O0 P0 1.531639 1_555
+O0 Zr1 2.161698 1_655
+O1 P1 1.531639 1_555
+O1 Zr1 2.161698 1_556
+O2 P0 1.524999 1_555
+O2 Zr0 2.221528 1_555
+O3 P1 1.524999 1_555
+O3 Zr0 2.221528 1_555
+O4 P0 1.523654 1_555
+O4 Zr1 2.153489 1_555
+O5 P1 1.523654 1_555
+O5 Zr1 2.153489 1_656
+F0 Zr0 2.009739 1_555
+F1 Zr0 2.009739 1_555
+F2 Zr0 1.994266 1_555
+F3 Zr0 1.994266 1_555
+F4 Zr1 1.969972 1_556
+F5 Zr1 1.969972 1_655

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_HoGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22579264
+_cell_length_b   6.22579275
+_cell_length_c   4.47946745
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGa3
+_chemical_formula_sum   'Ho2 Ga6'
+_cell_volume   150.36486831
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33333300  0.66666600  0.75000100  1
+  Ho  Ho1  1  0.66666800  0.33333400  0.24999900  1
+  Ga  Ga0  1  0.14602411  0.29204823  0.24999900  1
+  Ga  Ga1  1  0.70795377  0.85397689  0.24999900  1
+  Ga  Ga2  1  0.14602411  0.85397689  0.24999900  1
+  Ga  Ga3  1  0.85397689  0.70795177  0.75000100  1
+  Ga  Ga4  1  0.29204823  0.14602311  0.75000100  1
+  Ga  Ga5  1  0.85397489  0.14602311  0.75000100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga1 2.727339 1_445
+Ga0 Ga2 2.727341 1_545
+Ga0 Ga4 2.737857 1_554
+Ga0 Ga5 2.737857 1_454
+Ga0 Ga4 2.737871 1_555
+Ga0 Ga5 2.737871 1_455
+Ga0 Ho0 3.015967 1_554
+Ga0 Ho0 3.015981 1_555
+Ga0 Ho1 3.120839 1_455
+Ga0 Ho1 3.120851 1_555
+Ga1 Ga2 2.727335 1_655
+Ga1 Ga5 2.737847 1_564
+Ga1 Ga3 2.737854 1_554
+Ga1 Ga5 2.737862 1_565
+Ga1 Ga3 2.737868 1_555
+Ga1 Ho0 3.015978 1_554
+Ga1 Ho0 3.015992 1_555
+Ga1 Ho1 3.120845 1_565
+Ga1 Ho1 3.120845 1_555
+Ga2 Ga4 2.737847 1_564
+Ga2 Ga3 2.737851 1_454
+Ga2 Ga4 2.737862 1_565
+Ga2 Ga3 2.737865 1_455
+Ga2 Ho0 3.015974 1_554
+Ga2 Ho0 3.015988 1_555
+Ga2 Ho1 3.120843 1_455
+Ga2 Ho1 3.120849 1_565
+Ga3 Ga4 2.727342 1_665
+Ga3 Ga5 2.727348 1_565
+Ga3 Ho1 3.015967 1_556
+Ga3 Ho1 3.015981 1_555
+Ga3 Ho0 3.120839 1_655
+Ga3 Ho0 3.120851 1_555
+Ga4 Ga5 2.727354 1_455
+Ga4 Ho1 3.015975 1_556
+Ga4 Ho1 3.015988 1_555
+Ga4 Ho0 3.120842 1_545
+Ga4 Ho0 3.120848 1_555
+Ga5 Ho1 3.015967 1_556
+Ga5 Ho1 3.015981 1_555
+Ga5 Ho0 3.120842 1_545
+Ga5 Ho0 3.120848 1_655

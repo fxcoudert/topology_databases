@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_UAlPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06198643
+_cell_length_b   7.06195969
+_cell_length_c   4.12997763
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99960034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UAlPt
+_chemical_formula_sum   'U3 Al3 Pt3'
+_cell_volume   178.37426348
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.43135680  0.43136690  0.50000000  1
+  U  U1  1  0.56864296  0.00000634  0.50000000  1
+  U  U2  1  -0.00000678  0.56863543  0.50000000  1
+  Al  Al0  1  0.76796901  0.76796181  0.00000000  1
+  Al  Al1  1  0.23203581  -0.00001364  0.00000000  1
+  Al  Al2  1  0.00001081  0.23204453  -0.00000000  1
+  Pt  Pt0  1  0.66666544  0.33333821  0.00000000  1
+  Pt  Pt1  1  0.33332896  0.66666467  0.00000000  1
+  Pt  Pt2  1  -0.00000399  0.99999576  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Pt2 2.636133 1_655
+Al0 Pt2 2.636133 1_654
+Al0 Pt0 2.781476 1_555
+Al0 Pt1 2.781615 1_555
+Al1 Pt2 2.636191 1_545
+Al1 Pt2 2.636191 1_544
+Al1 Pt1 2.781432 1_545
+Al1 Pt0 2.781591 1_555
+Al2 Pt2 2.636173 1_544
+Al2 Pt2 2.636173 1_545
+Al2 Pt1 2.781470 1_555
+Al2 Pt0 2.781604 1_455
+Pt0 U2 2.941934 1_655
+Pt0 U2 2.941934 1_654
+Pt0 U1 2.941953 1_554
+Pt0 U1 2.941953 1_555
+Pt0 U0 2.941971 1_555
+Pt0 U0 2.941971 1_554
+Pt1 U0 2.941913 1_555
+Pt1 U0 2.941913 1_554
+Pt1 U2 2.941971 1_555
+Pt1 U2 2.941971 1_554
+Pt1 U1 2.942001 1_564
+Pt1 U1 2.942001 1_565
+Pt2 U2 3.046239 1_555
+Pt2 U1 3.046247 1_465
+Pt2 U0 3.046313 1_565

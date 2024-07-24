@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li3Ti(FeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70235443
+_cell_length_b   6.70235443
+_cell_length_c   6.02432570
+_cell_angle_alpha   76.82643041
+_cell_angle_beta   76.82643041
+_cell_angle_gamma   25.74372810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Ti(FeO3)2
+_chemical_formula_sum   'Li3 Ti1 Fe2 O6'
+_cell_volume   114.28670297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.66791700  0.66791700  0.66885500  1
+  Li  Li2  1  0.33208300  0.33208300  0.33114500  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe0  1  0.67132000  0.67132000  0.15702100  1
+  Fe  Fe1  1  0.32868000  0.32868000  0.84297900  1
+  O  O0  1  0.15502700  0.15502700  0.41368200  1
+  O  O1  1  0.83359000  0.83359000  0.07408200  1
+  O  O2  1  0.84497300  0.84497300  0.58631800  1
+  O  O3  1  0.49996100  0.49996100  0.72278100  1
+  O  O4  1  0.50003900  0.50003900  0.27721900  1
+  O  O5  1  0.16641000  0.16641000  0.92591800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.115276 1_445
+Li0 O5 2.115276 1_554
+Li0 O4 2.240272 1_455
+Li0 O3 2.240272 1_454
+Li0 O3 2.240272 1_544
+Li0 O4 2.240272 1_545
+Li1 O3 2.142293 1_555
+Li1 O5 2.147956 1_655
+Li1 O5 2.147956 1_565
+Li1 O0 2.177589 1_655
+Li1 O0 2.177589 1_565
+Li1 O2 2.250054 1_555
+Li2 O4 2.142293 1_555
+Li2 O1 2.147956 1_545
+Li2 O1 2.147956 1_455
+Li2 O2 2.177589 1_545
+Li2 O2 2.177589 1_455
+Li2 O0 2.250054 1_555
+Fe0 O5 2.052691 1_654
+Fe0 O5 2.052691 1_564
+Fe0 O1 2.061766 1_555
+Fe0 O0 2.124029 1_565
+Fe0 O0 2.124029 1_655
+Fe0 O4 2.185503 1_555
+Fe1 O1 2.052691 1_546
+Fe1 O1 2.052691 1_456
+Fe1 O5 2.061766 1_555
+Fe1 O2 2.124029 1_545
+Fe1 O2 2.124029 1_455
+Fe1 O3 2.185503 1_555
+O0 Ti0 1.970281 1_555
+O2 Ti0 1.970281 1_665
+O3 Ti0 2.007549 1_655
+O3 Ti0 2.007549 1_565
+O4 Ti0 2.007549 1_655
+O4 Ti0 2.007549 1_565

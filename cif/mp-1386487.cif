@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Ca2TiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00565278
+_cell_length_b   6.00565278
+_cell_length_c   6.77315546
+_cell_angle_alpha   67.56507170
+_cell_angle_beta   67.56507170
+_cell_angle_gamma   50.19499702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TiN2
+_chemical_formula_sum   'Ca4 Ti2 N4'
+_cell_volume   170.19390446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.32516200  0.32516200  0.59978100  1
+  Ca  Ca1  1  0.67483800  0.67483800  0.40021900  1
+  Ca  Ca2  1  0.98158300  0.98158300  0.75180600  1
+  Ca  Ca3  1  0.01841700  0.01841700  0.24819400  1
+  Ti  Ti0  1  0.64244300  0.64244300  0.88257200  1
+  Ti  Ti1  1  0.35755700  0.35755700  0.11742800  1
+  N  N0  1  0.80980100  0.80980100  0.62472000  1
+  N  N1  1  0.19019900  0.19019900  0.37528000  1
+  N  N2  1  0.50165500  0.50165500  0.21141900  1
+  N  N3  1  0.49834500  0.49834500  0.78858100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 N2 2.519621 1_555
+Ca0 N1 2.519667 1_555
+Ca0 N0 2.553760 1_455
+Ca0 N0 2.553760 1_545
+Ca0 N3 2.685915 1_555
+Ca1 N3 2.519621 1_555
+Ca1 N0 2.519667 1_555
+Ca1 N1 2.553760 1_565
+Ca1 N1 2.553760 1_655
+Ca1 N2 2.685915 1_555
+Ca2 N0 2.363876 1_555
+Ca2 N3 2.573439 1_655
+Ca2 N3 2.573439 1_565
+Ca2 N1 2.602978 1_665
+Ca3 N1 2.363876 1_555
+Ca3 N2 2.573439 1_545
+Ca3 N2 2.573439 1_455
+Ca3 N0 2.602978 1_445
+N0 Ti0 1.919477 1_555
+N1 Ti1 1.919477 1_555
+N2 Ti1 1.924323 1_555
+N2 Ti0 2.105065 1_554
+N3 Ti0 1.924323 1_555
+N3 Ti1 2.105065 1_556

@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_In2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35698724
+_cell_length_b   5.64326830
+_cell_length_c   9.42997209
+_cell_angle_alpha   82.25204492
+_cell_angle_beta   73.49850248
+_cell_angle_gamma   61.66440705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Ir
+_chemical_formula_sum   'In8 Ir4'
+_cell_volume   240.58477160
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.02945576  0.94108947  0.25000000  1
+  In  In1  1  0.72054424  0.55891053  0.25000000  1
+  In  In2  1  0.97054424  0.05891053  0.75000000  1
+  In  In3  1  0.27945576  0.44108947  0.75000000  1
+  In  In4  1  0.53930570  0.75000000  0.92138760  1
+  In  In5  1  0.71069430  0.75000000  0.57861240  1
+  In  In6  1  0.46069430  0.25000000  0.07861240  1
+  In  In7  1  0.28930570  0.25000000  0.42138760  1
+  Ir  Ir0  1  0.00583763  0.25000000  0.98832273  1
+  Ir  Ir1  1  0.74416237  0.25000000  0.51167727  1
+  Ir  Ir2  1  0.99416237  0.75000000  0.01167727  1
+  Ir  Ir3  1  0.25583763  0.75000000  0.48832273  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Ir3 2.708816 1_555
+In0 Ir2 2.708819 1_455
+In0 Ir0 2.819963 1_564
+In0 Ir1 2.819963 1_465
+In1 Ir3 2.708822 1_555
+In1 Ir2 2.708824 1_555
+In1 Ir1 2.819963 1_555
+In1 Ir0 2.819963 1_654
+In2 Ir1 2.708816 1_555
+In2 Ir0 2.708819 1_655
+In2 Ir2 2.819963 1_546
+In2 Ir3 2.819963 1_645
+In3 Ir1 2.708822 1_555
+In3 Ir0 2.708824 1_555
+In3 Ir3 2.819963 1_555
+In3 Ir2 2.819963 1_456
+In4 Ir2 2.800130 1_456
+In4 Ir2 2.800146 1_556
+In4 Ir0 2.885806 1_655
+In4 Ir0 2.885809 1_565
+In5 Ir3 2.800130 1_655
+In5 Ir3 2.800146 1_555
+In5 Ir1 2.885806 1_555
+In5 Ir1 2.885809 1_565
+In6 Ir0 2.800130 1_654
+In6 Ir0 2.800146 1_554
+In6 Ir2 2.885806 1_455
+In6 Ir2 2.885809 1_545
+In7 Ir1 2.800130 1_455
+In7 Ir1 2.800146 1_555
+In7 Ir3 2.885806 1_555
+In7 Ir3 2.885809 1_545

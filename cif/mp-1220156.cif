@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_NdGa3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29808956
+_cell_length_b   4.29808993
+_cell_length_c   6.18597648
+_cell_angle_alpha   69.75298233
+_cell_angle_beta   69.75296865
+_cell_angle_gamma   90.12888273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdGa3Au
+_chemical_formula_sum   'Nd1 Ga3 Au1'
+_cell_volume   99.61985184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.98592444  0.98592360  0.02765471  1
+  Ga  Ga0  1  0.75050984  0.25013598  0.49935019  1
+  Ga  Ga1  1  0.25013598  0.75051011  0.49935035  1
+  Ga  Ga2  1  0.39147632  0.39147611  0.21731120  1
+  Au  Au0  1  0.62195342  0.62195320  0.75633355  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Nd0 3.329066 1_545
+Ga0 Nd0 3.330833 1_555
+Ga0 Nd0 3.566364 1_546
+Ga0 Nd0 3.570794 1_446
+Ga1 Nd0 3.329065 1_455
+Ga1 Nd0 3.330835 1_555
+Ga1 Nd0 3.566360 1_456
+Ga1 Nd0 3.570797 1_446
+Ga2 Nd0 3.202122 1_555
+Ga2 Nd0 3.204749 1_445
+Ga2 Nd0 3.209914 1_455
+Ga2 Nd0 3.209917 1_545
+Au0 Ga2 2.485857 1_556
+Au0 Ga1 2.556741 1_655
+Au0 Ga0 2.556743 1_565
+Au0 Ga0 2.557489 1_555
+Au0 Ga1 2.557489 1_555
+Au0 Nd0 3.366768 1_556
+Au0 Nd0 3.373182 1_446
+Au0 Nd0 3.376134 1_456
+Au0 Nd0 3.376138 1_546

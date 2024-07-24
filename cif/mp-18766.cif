@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Si(NiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67658411
+_cell_length_b   5.67664738
+_cell_length_c   5.67705392
+_cell_angle_alpha   59.99771299
+_cell_angle_beta   59.99717404
+_cell_angle_gamma   59.99982600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si(NiO2)2
+_chemical_formula_sum   'Si2 Ni4 O8'
+_cell_volume   129.35096202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.12501003  0.12499831  0.12499561  1
+  Si  Si1  1  0.87498914  0.87498933  0.87501096  1
+  Ni  Ni0  1  0.50001129  0.49999146  0.49999875  1
+  Ni  Ni1  1  0.50001117  0.49999154  -0.00000136  1
+  Ni  Ni2  1  0.00000639  0.49999787  0.49999771  1
+  Ni  Ni3  1  0.50000589  -0.00001532  0.50000474  1
+  O  O0  1  0.75599789  0.75603045  0.75603221  1
+  O  O1  1  0.24399963  0.24398399  0.76804991  1
+  O  O2  1  0.24395531  0.76805703  0.24399350  1
+  O  O3  1  0.76804917  0.24400776  0.24397147  1
+  O  O4  1  0.75604015  0.23194334  0.75600911  1
+  O  O5  1  0.23192551  0.75601389  0.75603041  1
+  O  O6  1  0.24400012  0.24398342  0.24396607  1
+  O  O7  1  0.75599830  0.75602993  0.23193991  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 O1 2.056291 1_555
+Ni0 O7 2.056317 1_555
+Ni0 O3 2.056403 1_555
+Ni0 O4 2.056522 1_555
+Ni0 O5 2.056581 1_555
+Ni0 O2 2.056611 1_555
+Ni1 O6 2.056291 1_555
+Ni1 O0 2.056318 1_554
+Ni1 O3 2.056407 1_555
+Ni1 O4 2.056511 1_554
+Ni1 O5 2.056585 1_554
+Ni1 O2 2.056603 1_555
+Ni2 O2 2.056250 1_555
+Ni2 O4 2.056299 1_455
+Ni2 O6 2.056552 1_555
+Ni2 O1 2.056555 1_555
+Ni2 O0 2.056635 1_455
+Ni2 O7 2.056636 1_455
+Ni3 O5 2.056421 1_545
+Ni3 O7 2.056449 1_545
+Ni3 O0 2.056454 1_545
+Ni3 O3 2.056473 1_555
+Ni3 O1 2.056543 1_555
+Ni3 O6 2.056548 1_555
+O0 Si1 1.654408 1_555
+O1 Si0 1.654485 1_556
+O2 Si0 1.654391 1_565
+O3 Si0 1.654454 1_655
+O4 Si1 1.654450 1_545
+O5 Si1 1.654341 1_455
+O6 Si0 1.654485 1_555
+O7 Si1 1.654408 1_554

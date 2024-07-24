@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_MoPRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92297144
+_cell_length_b   5.94788035
+_cell_length_c   6.98015954
+_cell_angle_alpha   89.99550179
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoPRh
+_chemical_formula_sum   'Mo4 P4 Rh4'
+_cell_volume   162.87060802
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.25000000  0.03314761  0.16359109  1
+  Mo  Mo1  1  0.25000000  0.53312658  0.33640713  1
+  Mo  Mo2  1  0.75000000  0.96684533  0.83640086  1
+  Mo  Mo3  1  0.75000000  0.46686326  0.66360108  1
+  P  P0  1  0.25000000  0.74820296  0.61460063  1
+  P  P1  1  0.25000000  0.24819290  0.88541376  1
+  P  P2  1  0.75000000  0.25180215  0.38539923  1
+  P  P3  1  0.75000000  0.75181663  0.11458634  1
+  Rh  Rh0  1  0.25000000  0.13667537  0.57304609  1
+  Rh  Rh1  1  0.25000000  0.63668943  0.92694576  1
+  Rh  Rh2  1  0.75000000  0.86332480  0.42697641  1
+  Rh  Rh3  1  0.75000000  0.36331298  0.07303162  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 P1 2.325059 1_554
+Mo0 P3 2.600871 1_445
+Mo0 P3 2.600871 1_545
+Mo0 P2 2.817130 1_455
+Mo0 P2 2.817130 1_555
+Mo0 Rh3 2.846622 1_455
+Mo0 Rh3 2.846622 1_555
+Mo0 Rh2 2.871826 1_445
+Mo0 Rh2 2.871826 1_545
+Mo0 Rh1 2.879183 1_544
+Mo0 Rh0 2.923690 1_555
+Mo1 P0 2.325423 1_555
+Mo1 P2 2.600800 1_455
+Mo1 P2 2.600800 1_555
+Mo1 P3 2.817164 1_455
+Mo1 P3 2.817164 1_555
+Mo1 Rh2 2.846840 1_455
+Mo1 Rh2 2.846840 1_555
+Mo1 Rh3 2.871865 1_455
+Mo1 Rh3 2.871865 1_555
+Mo1 Rh0 2.878911 1_555
+Mo1 Rh1 2.923683 1_554
+Mo2 P3 2.325052 1_556
+Mo2 P1 2.600942 1_565
+Mo2 P1 2.600942 1_665
+Mo2 P0 2.817066 1_655
+Mo2 P0 2.817066 1_555
+Mo2 Rh1 2.846560 1_655
+Mo2 Rh1 2.846560 1_555
+Mo2 Rh0 2.871705 1_565
+Mo2 Rh0 2.871705 1_665
+Mo2 Rh3 2.879171 1_566
+Mo2 Rh2 2.923473 1_555
+Mo3 P2 2.325421 1_555
+Mo3 P0 2.600866 1_555
+Mo3 P0 2.600866 1_655
+Mo3 P1 2.817078 1_555
+Mo3 P1 2.817078 1_655
+Mo3 Rh0 2.846776 1_655
+Mo3 Rh0 2.846776 1_555
+Mo3 Rh1 2.871753 1_655
+Mo3 Rh1 2.871753 1_555
+Mo3 Rh2 2.878905 1_555
+Mo3 Rh3 2.923457 1_556
+P0 Rh1 2.278827 1_555
+P0 Rh0 2.328700 1_565
+P0 Rh2 2.455874 1_455
+P0 Rh2 2.455874 1_555
+P1 Rh0 2.279084 1_555
+P1 Rh1 2.328868 1_555
+P1 Rh3 2.455905 1_556
+P1 Rh3 2.455905 1_456
+P2 Rh3 2.278973 1_555
+P2 Rh2 2.328749 1_545
+P2 Rh0 2.455966 1_555
+P2 Rh0 2.455966 1_655
+P3 Rh2 2.279218 1_555
+P3 Rh3 2.328929 1_555
+P3 Rh1 2.456001 1_554
+P3 Rh1 2.456001 1_654

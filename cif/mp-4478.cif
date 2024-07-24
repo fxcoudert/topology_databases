@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_CaSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35157214
+_cell_length_b   6.35157214
+_cell_length_c   6.35157214
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiPt
+_chemical_formula_sum   'Ca4 Si4 Pt4'
+_cell_volume   256.23809993
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.62736942  0.37263058  0.87263058  1
+  Ca  Ca1  1  0.37263058  0.87263058  0.62736942  1
+  Ca  Ca2  1  0.12736942  0.12736942  0.12736942  1
+  Ca  Ca3  1  0.87263058  0.62736942  0.37263058  1
+  Si  Si0  1  0.16660987  0.33339013  0.66660987  1
+  Si  Si1  1  0.66660987  0.16660987  0.33339013  1
+  Si  Si2  1  0.33339013  0.66660987  0.16660987  1
+  Si  Si3  1  0.83339013  0.83339013  0.83339013  1
+  Pt  Pt0  1  0.58027813  0.91972187  0.08027913  1
+  Pt  Pt1  1  0.08027913  0.58027813  0.91972187  1
+  Pt  Pt2  1  0.41972087  0.41972087  0.41972087  1
+  Pt  Pt3  1  0.91972187  0.08027913  0.58027813  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Pt0 3.178718 1_546
+Ca0 Pt1 3.178721 1_655
+Ca0 Pt2 3.178723 1_555
+Ca0 Si1 3.215450 1_556
+Ca0 Si0 3.215450 1_555
+Ca0 Si3 3.215450 1_555
+Ca0 Pt3 3.216237 1_555
+Ca0 Si2 3.234138 1_556
+Ca1 Pt3 3.178718 1_465
+Ca1 Pt0 3.178721 1_556
+Ca1 Pt2 3.178723 1_555
+Ca1 Si2 3.215450 1_555
+Ca1 Si0 3.215450 1_565
+Ca1 Si3 3.215450 1_555
+Ca1 Pt1 3.216237 1_555
+Ca1 Si1 3.234138 1_565
+Ca2 Pt1 3.178715 1_554
+Ca2 Pt0 3.178715 1_545
+Ca2 Pt3 3.178715 1_455
+Ca2 Si0 3.215450 1_554
+Ca2 Si2 3.215450 1_545
+Ca2 Si1 3.215450 1_455
+Ca2 Pt2 3.216230 1_555
+Ca2 Si3 3.234138 1_444
+Ca3 Pt1 3.178718 1_654
+Ca3 Pt3 3.178721 1_565
+Ca3 Pt2 3.178723 1_555
+Ca3 Si1 3.215450 1_555
+Ca3 Si2 3.215450 1_655
+Ca3 Si3 3.215450 1_555
+Ca3 Pt0 3.216237 1_555
+Ca3 Si0 3.234138 1_655
+Pt0 Si1 2.311763 1_565
+Pt0 Si2 2.311766 1_555
+Pt0 Si3 2.311772 1_554
+Pt1 Si2 2.311763 1_556
+Pt1 Si0 2.311766 1_555
+Pt1 Si3 2.311772 1_455
+Pt2 Si2 2.311766 1_555
+Pt2 Si0 2.311766 1_555
+Pt2 Si1 2.311766 1_555
+Pt3 Si0 2.311763 1_655
+Pt3 Si1 2.311766 1_555
+Pt3 Si3 2.311772 1_545

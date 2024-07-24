@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_GaAgSnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92515491
+_cell_length_b   6.92515491
+_cell_length_c   6.92515491
+_cell_angle_alpha   128.26632307
+_cell_angle_beta   128.26632307
+_cell_angle_gamma   76.19399085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaAgSnSe4
+_chemical_formula_sum   'Ga1 Ag1 Sn1 Se4'
+_cell_volume   198.99306443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag0  1  0.25000000  0.75000000  0.50000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.65991500  0.62585900  0.52290000  1
+  Se  Se1  1  0.10295900  0.13701500  0.47710000  1
+  Se  Se2  1  0.37414100  0.89704100  0.03405600  1
+  Se  Se3  1  0.86298500  0.34008500  0.96594400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Se3 2.454709 1_555
+Ga0 Se0 2.454709 1_555
+Ga0 Se2 2.454709 1_545
+Ga0 Se1 2.454709 1_655
+Ag0 Se1 2.696126 1_565
+Ag0 Se3 2.696126 1_454
+Ag0 Se0 2.696126 1_555
+Ag0 Se2 2.696126 1_556
+Se0 Sn0 2.585160 1_555
+Se1 Sn0 2.585160 1_556
+Se2 Sn0 2.585160 1_555
+Se3 Sn0 2.585160 1_556

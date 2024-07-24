@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_MgNb4(NO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94609974
+_cell_length_b   7.21771092
+_cell_length_c   6.70388167
+_cell_angle_alpha   70.15179408
+_cell_angle_beta   90.30240387
+_cell_angle_gamma   66.96001622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNb4(NO)4
+_chemical_formula_sum   'Mg1 Nb4 N4 O4'
+_cell_volume   163.15103823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.42864434  0.91848052  0.97575870  1
+  Nb  Nb0  1  0.05641608  0.78237725  0.69973621  1
+  Nb  Nb1  1  0.16524312  0.61793648  0.33756458  1
+  Nb  Nb2  1  0.86623833  0.37961522  0.67133480  1
+  Nb  Nb3  1  0.91678297  0.21748043  0.28349420  1
+  N  N0  1  0.95368481  0.90773533  0.37745649  1
+  N  N1  1  0.30127410  0.47718286  0.69295161  1
+  N  N2  1  0.71205569  0.54944968  0.31641522  1
+  N  N3  1  0.06140008  0.10870623  0.62617080  1
+  O  O0  1  0.62322102  0.70892757  0.77177380  1
+  O  O1  1  0.00090953  0.81954973  0.99879850  1
+  O  O2  1  0.04991977  0.19353579  0.01138670  1
+  O  O3  1  0.37657216  0.31731691  0.25678839  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.057963 1_566
+Mg0 O1 2.062508 1_555
+Mg0 O1 2.071840 1_655
+Mg0 O0 2.292114 1_555
+Mg0 N3 2.387331 1_565
+Mg0 N2 2.659218 1_556
+Nb0 O0 1.995154 1_455
+Nb0 O0 2.098467 1_555
+Nb0 O1 2.112677 1_555
+Nb1 O1 2.167350 1_554
+Nb1 O3 2.254539 1_555
+Nb2 O2 2.160450 1_656
+Nb2 O0 2.516347 1_555
+Nb3 O2 1.945927 1_655
+Nb3 O3 1.949755 1_555
+Nb3 O3 2.186884 1_655
+N0 Nb0 2.006755 1_655
+N0 Nb1 2.039358 1_655
+N0 Nb3 2.050376 1_565
+N1 Nb0 2.047073 1_555
+N1 Nb2 2.081101 1_555
+N1 Nb2 2.115872 1_455
+N1 Nb1 2.216407 1_555
+N2 Nb1 2.033808 1_555
+N2 Nb1 2.049247 1_655
+N2 Nb2 2.225854 1_555
+N2 Nb3 2.299622 1_555
+N3 Nb2 1.932332 1_455
+N3 Nb3 2.151789 1_455
+N3 Nb0 2.244737 1_545

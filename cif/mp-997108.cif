@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_RbAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74276362
+_cell_length_b   5.74276363
+_cell_length_c   5.81317998
+_cell_angle_alpha   100.99405952
+_cell_angle_beta   100.99406986
+_cell_angle_gamma   105.54881117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAgO2
+_chemical_formula_sum   'Rb2 Ag2 O4'
+_cell_volume   175.28096409
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.64712831  0.35287169  0.25000000  1
+  Rb  Rb1  1  0.35287169  0.64712831  0.75000000  1
+  Ag  Ag0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ag  Ag1  1  -0.00000000  -0.00000000  0.50000000  1
+  O  O0  1  0.15348212  0.24530699  0.32531031  1
+  O  O1  1  0.24530699  0.15348212  0.82531031  1
+  O  O2  1  0.84651788  0.75469301  0.67468969  1
+  O  O3  1  0.75469301  0.84651788  0.17468969  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O3 2.003505 1_445
+Ag0 O1 2.003505 1_554
+Ag0 O0 2.005019 1_555
+Ag0 O2 2.005019 1_444
+Ag1 O2 2.003505 1_445
+Ag1 O0 2.003505 1_555
+Ag1 O3 2.005018 1_445
+Ag1 O1 2.005018 1_555
+O0 Rb1 2.839591 1_555
+O0 Rb0 2.871854 1_555
+O0 Rb0 3.099925 1_455
+O1 Rb0 2.839591 1_556
+O1 Rb1 2.871854 1_555
+O1 Rb1 3.099925 1_545
+O2 Rb0 2.839591 1_555
+O2 Rb1 2.871854 1_555
+O2 Rb1 3.099925 1_655
+O3 Rb1 2.839591 1_554
+O3 Rb0 2.871854 1_555
+O3 Rb0 3.099925 1_565

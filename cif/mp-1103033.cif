@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_SrMgPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44338923
+_cell_length_b   7.57299142
+_cell_length_c   8.58031189
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMgPt
+_chemical_formula_sum   'Sr4 Mg4 Pt4'
+_cell_volume   288.72533727
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.47275643  0.17805463  1
+  Sr  Sr1  1  0.75000000  0.97275336  0.32194601  1
+  Sr  Sr2  1  0.25000000  0.52724664  0.82194601  1
+  Sr  Sr3  1  0.25000000  0.02724357  0.67805463  1
+  Mg  Mg0  1  0.75000000  0.36338134  0.56381068  1
+  Mg  Mg1  1  0.75000000  0.86338296  0.93618894  1
+  Mg  Mg2  1  0.25000000  0.63661704  0.43618894  1
+  Mg  Mg3  1  0.25000000  0.13661766  0.06381068  1
+  Pt  Pt0  1  0.75000000  0.21860284  0.88265921  1
+  Pt  Pt1  1  0.75000000  0.71860059  0.61734052  1
+  Pt  Pt2  1  0.25000000  0.78139941  0.11734052  1
+  Pt  Pt3  1  0.25000000  0.28139716  0.38265921  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Pt1 2.729001 1_555
+Mg0 Pt3 2.781611 1_555
+Mg0 Pt3 2.781611 1_655
+Mg0 Pt0 2.947341 1_555
+Mg1 Pt0 2.729006 1_565
+Mg1 Pt2 2.781611 1_656
+Mg1 Pt2 2.781611 1_556
+Mg1 Pt1 2.947351 1_555
+Mg2 Pt3 2.729006 1_555
+Mg2 Pt1 2.781611 1_555
+Mg2 Pt1 2.781611 1_455
+Mg2 Pt2 2.947351 1_555
+Mg3 Pt2 2.728994 1_545
+Mg3 Pt0 2.781613 1_554
+Mg3 Pt0 2.781613 1_454
+Mg3 Pt3 2.947343 1_555
+Pt0 Sr3 3.180885 1_555
+Pt0 Sr3 3.180885 1_655
+Pt0 Sr0 3.182546 1_556
+Pt0 Sr2 3.266579 1_655
+Pt0 Sr2 3.266579 1_555
+Pt1 Sr2 3.180871 1_655
+Pt1 Sr2 3.180871 1_555
+Pt1 Sr1 3.182536 1_555
+Pt1 Sr3 3.266576 1_565
+Pt1 Sr3 3.266576 1_665
+Pt2 Sr1 3.180871 1_455
+Pt2 Sr1 3.180871 1_555
+Pt2 Sr2 3.182536 1_554
+Pt2 Sr0 3.266576 1_455
+Pt2 Sr0 3.266576 1_555
+Pt3 Sr0 3.180885 1_455
+Pt3 Sr0 3.180885 1_555
+Pt3 Sr3 3.182546 1_555
+Pt3 Sr1 3.266579 1_545
+Pt3 Sr1 3.266579 1_445

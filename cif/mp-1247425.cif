@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_FeSnN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71974900
+_cell_length_b   7.47848200
+_cell_length_c   5.04096700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSnN2
+_chemical_formula_sum   'Fe4 Sn4 N8'
+_cell_volume   215.62756477
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.51459800  0.87638800  0.99072200  1
+  Fe  Fe1  1  0.48540200  0.12361200  0.49072200  1
+  Fe  Fe2  1  0.98540200  0.37638800  0.49072200  1
+  Fe  Fe3  1  0.01459800  0.62361200  0.99072200  1
+  Sn  Sn0  1  0.59019000  0.37535500  0.00710400  1
+  Sn  Sn1  1  0.40981000  0.62464500  0.50710400  1
+  Sn  Sn2  1  0.90981000  0.87535500  0.50710400  1
+  Sn  Sn3  1  0.09019000  0.12464500  0.00710400  1
+  N  N0  1  0.72789700  0.25645200  0.39256500  1
+  N  N1  1  0.27210300  0.74354800  0.89256500  1
+  N  N2  1  0.77210300  0.75645200  0.89256500  1
+  N  N3  1  0.22789700  0.24354800  0.39256500  1
+  N  N4  1  0.52842200  0.89663600  0.35061100  1
+  N  N5  1  0.47157800  0.10336400  0.85061100  1
+  N  N6  1  0.97157800  0.39663600  0.85061100  1
+  N  N7  1  0.02842200  0.60336400  0.35061100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 N1 1.776389 1_555
+Fe0 N2 1.794063 1_555
+Fe0 N4 1.822213 1_556
+Fe0 N5 1.854909 1_565
+Fe1 N0 1.776389 1_555
+Fe1 N3 1.794063 1_555
+Fe1 N5 1.822213 1_555
+Fe1 N4 1.854909 1_545
+Fe2 N3 1.776389 1_655
+Fe2 N0 1.794063 1_555
+Fe2 N6 1.822213 1_555
+Fe2 N7 1.854909 1_655
+Fe3 N2 1.776389 1_455
+Fe3 N1 1.794063 1_555
+Fe3 N7 1.822213 1_556
+Fe3 N6 1.854909 1_455
+N0 Sn0 2.277436 1_555
+N1 Sn1 2.277436 1_555
+N2 Sn2 2.277436 1_555
+N3 Sn3 2.277436 1_555
+N4 Sn1 2.284748 1_555
+N4 Sn2 2.325156 1_555
+N5 Sn0 2.284748 1_556
+N5 Sn3 2.325156 1_556
+N6 Sn3 2.284748 1_656
+N6 Sn0 2.325156 1_556
+N7 Sn2 2.284748 1_455
+N7 Sn1 2.325156 1_555

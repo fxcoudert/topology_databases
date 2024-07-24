@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ScMnCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98798912
+_cell_length_b   4.98798912
+_cell_length_c   7.98682700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.91916911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMnCr
+_chemical_formula_sum   'Sc4 Mn4 Cr4'
+_cell_volume   172.23010412
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66690000  0.33310000  0.69132800  1
+  Sc  Sc1  1  0.33283300  0.66716700  0.81601000  1
+  Sc  Sc2  1  0.33283300  0.66716700  0.18399000  1
+  Sc  Sc3  1  0.66690000  0.33310000  0.30867200  1
+  Mn  Mn0  1  0.17089400  0.82910600  0.50000000  1
+  Mn  Mn1  1  0.34106800  0.17064600  0.00000000  1
+  Mn  Mn2  1  0.82935400  0.65893200  0.00000000  1
+  Mn  Mn3  1  0.82841400  0.17158600  0.00000000  1
+  Cr  Cr0  1  0.00133800  0.99866200  0.24604800  1
+  Cr  Cr1  1  0.00133800  0.99866200  0.75395200  1
+  Cr  Cr2  1  0.65988900  0.83120100  0.50000000  1
+  Cr  Cr3  1  0.16879900  0.34011100  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sc1 3.046360 1_655
+Sc0 Sc1 3.046360 1_545
+Sc0 Sc1 3.052008 1_555
+Sc0 Sc3 3.056207 1_555
+Sc1 Sc2 2.938993 1_556
+Sc2 Sc3 3.046360 1_455
+Sc2 Sc3 3.046360 1_565
+Sc2 Sc3 3.052008 1_555
+Mn0 Sc1 2.885471 1_555
+Mn0 Sc2 2.885471 1_555
+Mn0 Sc3 2.927713 1_455
+Mn0 Sc3 2.927713 1_565
+Mn0 Sc0 2.927713 1_565
+Mn0 Sc0 2.927713 1_455
+Mn1 Mn3 2.428541 1_555
+Mn1 Mn2 2.438540 1_555
+Mn1 Mn2 2.555542 1_445
+Mn1 Mn3 2.559454 1_455
+Mn1 Sc0 2.839374 1_554
+Mn1 Sc3 2.839374 1_555
+Mn1 Sc1 2.892243 1_544
+Mn1 Sc2 2.892243 1_545
+Mn1 Sc2 2.897644 1_555
+Mn1 Sc1 2.897644 1_554
+Mn2 Mn3 2.428541 1_555
+Mn2 Mn3 2.559454 1_565
+Mn2 Sc0 2.839374 1_554
+Mn2 Sc3 2.839374 1_555
+Mn2 Sc1 2.892243 1_654
+Mn2 Sc2 2.892243 1_655
+Mn2 Sc2 2.897644 1_555
+Mn2 Sc1 2.897644 1_554
+Mn3 Sc0 2.832540 1_554
+Mn3 Sc3 2.832540 1_555
+Mn3 Sc1 2.897601 1_654
+Mn3 Sc2 2.897601 1_655
+Mn3 Sc1 2.897601 1_544
+Mn3 Sc2 2.897601 1_545
+Cr0 Mn1 2.453391 1_565
+Cr0 Mn2 2.453391 1_455
+Cr0 Mn3 2.468179 1_465
+Cr0 Mn0 2.501595 1_555
+Cr0 Cr2 2.508615 1_455
+Cr0 Cr3 2.508615 1_565
+Cr0 Sc2 2.905358 1_555
+Cr0 Sc3 2.920558 1_455
+Cr0 Sc3 2.920558 1_565
+Cr0 Sc3 2.931172 1_465
+Cr0 Sc2 2.932316 1_565
+Cr0 Sc2 2.932316 1_455
+Cr1 Mn1 2.453391 1_566
+Cr1 Mn2 2.453391 1_456
+Cr1 Mn3 2.468179 1_466
+Cr1 Mn0 2.501595 1_555
+Cr1 Cr2 2.508615 1_455
+Cr1 Cr3 2.508615 1_565
+Cr1 Sc1 2.905358 1_555
+Cr1 Sc0 2.920558 1_455
+Cr1 Sc0 2.920558 1_565
+Cr1 Sc0 2.931172 1_465
+Cr1 Sc1 2.932316 1_455
+Cr1 Sc1 2.932316 1_565
+Cr2 Mn0 2.433906 1_555
+Cr2 Cr3 2.452544 1_555
+Cr2 Cr3 2.541538 1_665
+Cr2 Mn0 2.554116 1_655
+Cr2 Sc1 2.892993 1_555
+Cr2 Sc2 2.892993 1_555
+Cr2 Sc3 2.918276 1_565
+Cr2 Sc0 2.918276 1_565
+Cr2 Sc3 2.931868 1_555
+Cr2 Sc0 2.931868 1_555
+Cr3 Mn0 2.433906 1_555
+Cr3 Mn0 2.554116 1_545
+Cr3 Sc1 2.892993 1_555
+Cr3 Sc2 2.892993 1_555
+Cr3 Sc3 2.918276 1_455
+Cr3 Sc0 2.918276 1_455
+Cr3 Sc0 2.931868 1_555
+Cr3 Sc3 2.931868 1_555

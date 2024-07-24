@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Gd(AlFe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97371376
+_cell_length_b   6.58290703
+_cell_length_c   6.58290703
+_cell_angle_alpha   98.33880075
+_cell_angle_beta   112.19591154
+_cell_angle_gamma   67.80408846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(AlFe)6
+_chemical_formula_sum   'Gd1 Al6 Fe6'
+_cell_volume   184.77385327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  -0.00000000  -0.00000000  1
+  Al  Al0  1  0.65235211  0.34764789  0.65235211  1
+  Al  Al1  1  0.34764789  0.65235211  0.34764789  1
+  Al  Al2  1  -0.00000000  0.33918099  0.33918099  1
+  Al  Al3  1  0.00000000  0.66081901  0.66081901  1
+  Al  Al4  1  0.69705114  0.80294886  0.19705114  1
+  Al  Al5  1  0.30294886  0.19705114  0.80294886  1
+  Fe  Fe0  1  0.50000000  -0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  -0.00000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.50000000  -0.00000000  1
+  Fe  Fe3  1  0.00000000  0.50000000  -0.00000000  1
+  Fe  Fe4  1  0.50000000  0.76101925  0.76101925  1
+  Fe  Fe5  1  0.50000000  0.23898075  0.23898075  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Fe4 2.603414 1_555
+Al0 Fe5 2.603414 1_555
+Al0 Fe2 2.624450 1_556
+Al0 Fe0 2.624450 1_555
+Al0 Fe3 2.624450 1_656
+Al0 Fe1 2.624450 1_655
+Al0 Al1 2.630020 1_555
+Al0 Al5 2.806081 1_555
+Al0 Al5 2.806081 1_655
+Al0 Gd0 3.000684 1_656
+Al1 Fe4 2.603414 1_555
+Al1 Fe5 2.603414 1_555
+Al1 Fe0 2.624450 1_565
+Al1 Fe2 2.624450 1_555
+Al1 Fe1 2.624450 1_565
+Al1 Fe3 2.624450 1_555
+Al1 Al4 2.806081 1_555
+Al1 Al4 2.806081 1_455
+Al1 Gd0 3.000684 1_565
+Al2 Fe3 2.606099 1_555
+Al2 Fe1 2.606099 1_555
+Al2 Fe0 2.606099 1_555
+Al2 Fe2 2.606099 1_455
+Al2 Fe5 2.632191 1_555
+Al2 Fe5 2.632191 1_455
+Al2 Al3 2.768704 1_555
+Al2 Gd0 2.919716 1_555
+Al2 Al5 2.958711 1_555
+Al2 Al4 2.958711 1_455
+Al3 Fe1 2.606099 1_565
+Al3 Fe3 2.606099 1_556
+Al3 Fe0 2.606099 1_465
+Al3 Fe2 2.606099 1_556
+Al3 Fe4 2.632191 1_555
+Al3 Fe4 2.632191 1_455
+Al3 Gd0 2.919716 1_566
+Al3 Al5 2.958711 1_555
+Al3 Al4 2.958711 1_455
+Al4 Fe2 2.527100 1_555
+Al4 Fe0 2.527100 1_565
+Al4 Fe1 2.527100 1_665
+Al4 Fe3 2.527100 1_655
+Al4 Fe4 2.669230 1_554
+Al4 Fe5 2.669230 1_565
+Al4 Gd0 3.012849 1_665
+Al4 Gd0 3.012850 1_565
+Al5 Fe2 2.527100 1_556
+Al5 Fe0 2.527100 1_555
+Al5 Fe1 2.527100 1_555
+Al5 Fe3 2.527100 1_556
+Al5 Fe4 2.669230 1_545
+Al5 Fe5 2.669230 1_556
+Al5 Gd0 3.012849 1_556
+Al5 Gd0 3.012850 1_656
+Fe0 Fe1 2.486857 1_555
+Fe0 Fe1 2.486857 1_655
+Fe0 Fe4 2.492271 1_545
+Fe0 Fe5 2.492271 1_555
+Fe0 Gd0 3.291454 1_656
+Fe0 Gd0 3.291454 1_555
+Fe1 Fe5 2.492271 1_455
+Fe1 Fe4 2.492271 1_545
+Fe1 Gd0 3.291454 1_556
+Fe1 Gd0 3.291454 1_555
+Fe2 Fe3 2.486857 1_555
+Fe2 Fe3 2.486857 1_655
+Fe2 Fe4 2.492271 1_554
+Fe2 Fe5 2.492271 1_555
+Fe2 Gd0 3.291454 1_565
+Fe2 Gd0 3.291454 1_655
+Fe3 Fe4 2.492271 1_454
+Fe3 Fe5 2.492271 1_555
+Fe3 Gd0 3.291454 1_565
+Fe3 Gd0 3.291454 1_555
+Fe4 Gd0 3.227451 1_666
+Fe4 Gd0 3.227451 1_566
+Fe5 Gd0 3.227451 1_655
+Fe5 Gd0 3.227451 1_555

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Ta3Cr5N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.98721000
+_cell_length_b   2.98721000
+_cell_length_c   14.57903600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Cr5N4
+_chemical_formula_sum   'Ta3 Cr5 N4'
+_cell_volume   130.09491368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.67655500  1
+  Ta  Ta1  1  0.50000000  0.50000000  0.49401200  1
+  Ta  Ta2  1  0.50000000  0.50000000  0.00496800  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.37483600  1
+  Cr  Cr1  1  0.00000000  0.00000000  0.88222100  1
+  Cr  Cr2  1  0.50000000  0.50000000  0.28604700  1
+  Cr  Cr3  1  0.50000000  0.50000000  0.79557400  1
+  Cr  Cr4  1  0.00000000  0.00000000  0.17264100  1
+  N  N0  1  0.00000000  0.00000000  0.02370800  1
+  N  N1  1  0.00000000  0.00000000  0.51862300  1
+  N  N2  1  0.50000000  0.50000000  0.15759200  1
+  N  N3  1  0.50000000  0.50000000  0.65322200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 N1 2.096276 1_555
+Cr1 N0 2.062744 1_556
+Cr2 N2 1.872750 1_555
+Cr3 N3 2.075355 1_555
+Cr4 N2 2.123640 1_455
+Cr4 N2 2.123640 1_555
+Cr4 N2 2.123640 1_545
+Cr4 N2 2.123640 1_445
+Cr4 N0 2.171300 1_555
+N0 Ta2 2.129872 1_555
+N0 Ta2 2.129872 1_545
+N0 Ta2 2.129872 1_445
+N0 Ta2 2.129872 1_455
+N1 Ta1 2.142534 1_445
+N1 Ta1 2.142534 1_455
+N1 Ta1 2.142534 1_555
+N1 Ta1 2.142534 1_545
+N1 Ta0 2.302496 1_555
+N2 Ta2 2.225111 1_555
+N3 Ta0 2.139493 1_555
+N3 Ta0 2.139493 1_665
+N3 Ta0 2.139493 1_655
+N3 Ta0 2.139493 1_565
+N3 Ta1 2.321128 1_555

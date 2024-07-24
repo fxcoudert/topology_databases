@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_TaSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66929762
+_cell_length_b   6.18374526
+_cell_length_c   7.01588219
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSiNi
+_chemical_formula_sum   'Ta4 Si4 Ni4'
+_cell_volume   159.19037928
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.51717435  0.17665456  1
+  Ta  Ta1  1  0.75000000  0.48282565  0.82334544  1
+  Ta  Ta2  1  0.75000000  0.98282565  0.67665456  1
+  Ta  Ta3  1  0.25000000  0.01717435  0.32334544  1
+  Si  Si0  1  0.25000000  0.78189909  0.88463254  1
+  Si  Si1  1  0.75000000  0.21810091  0.11536746  1
+  Si  Si2  1  0.75000000  0.71810091  0.38463254  1
+  Si  Si3  1  0.25000000  0.28189909  0.61536746  1
+  Ni  Ni0  1  0.25000000  0.65527975  0.56951141  1
+  Ni  Ni1  1  0.75000000  0.34472025  0.43048859  1
+  Ni  Ni2  1  0.75000000  0.84472025  0.06951141  1
+  Ni  Ni3  1  0.25000000  0.15527975  0.93048859  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Ta0 2.622458 1_556
+Si0 Ta1 2.640280 1_455
+Si0 Ta1 2.640280 1_555
+Si0 Ta2 2.653075 1_555
+Si0 Ta2 2.653075 1_455
+Si1 Ta1 2.622458 1_554
+Si1 Ta0 2.640280 1_555
+Si1 Ta0 2.640280 1_655
+Si1 Ta3 2.653075 1_555
+Si1 Ta3 2.653075 1_655
+Si2 Ta2 2.622458 1_555
+Si2 Ta3 2.640280 1_565
+Si2 Ta3 2.640280 1_665
+Si2 Ta0 2.653075 1_555
+Si2 Ta0 2.653075 1_655
+Si3 Ta3 2.622458 1_555
+Si3 Ta2 2.640280 1_545
+Si3 Ta2 2.640280 1_445
+Si3 Ta1 2.653075 1_455
+Si3 Ta1 2.653075 1_555
+Ni0 Si2 2.280194 1_555
+Ni0 Si2 2.280194 1_455
+Ni0 Si3 2.331197 1_555
+Ni0 Si0 2.345406 1_555
+Ni0 Ta1 2.770319 1_455
+Ni0 Ta1 2.770319 1_555
+Ni0 Ta3 2.826802 1_565
+Ni0 Ta2 2.834340 1_455
+Ni0 Ta2 2.834340 1_555
+Ni0 Ta0 2.885511 1_555
+Ni1 Si3 2.280194 1_555
+Ni1 Si3 2.280194 1_655
+Ni1 Si2 2.331197 1_555
+Ni1 Si1 2.345406 1_555
+Ni1 Ta0 2.770319 1_655
+Ni1 Ta0 2.770319 1_555
+Ni1 Ta2 2.826802 1_545
+Ni1 Ta3 2.834340 1_555
+Ni1 Ta3 2.834340 1_655
+Ni1 Ta1 2.885511 1_555
+Ni2 Si0 2.280194 1_554
+Ni2 Si0 2.280194 1_654
+Ni2 Si1 2.331197 1_565
+Ni2 Si2 2.345406 1_555
+Ni2 Ta3 2.770319 1_565
+Ni2 Ta3 2.770319 1_665
+Ni2 Ta1 2.826802 1_554
+Ni2 Ta0 2.834340 1_555
+Ni2 Ta0 2.834340 1_655
+Ni2 Ta2 2.885511 1_554
+Ni3 Si1 2.280194 1_456
+Ni3 Si1 2.280194 1_556
+Ni3 Si0 2.331197 1_545
+Ni3 Si3 2.345406 1_555
+Ni3 Ta2 2.770319 1_545
+Ni3 Ta2 2.770319 1_445
+Ni3 Ta0 2.826802 1_556
+Ni3 Ta1 2.834340 1_555
+Ni3 Ta1 2.834340 1_455
+Ni3 Ta3 2.885511 1_556

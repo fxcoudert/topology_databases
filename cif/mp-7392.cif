@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Na2AgSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76311298
+_cell_length_b   6.06089945
+_cell_length_c   6.06089872
+_cell_angle_alpha   99.00833473
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AgSb
+_chemical_formula_sum   'Na4 Ag2 Sb2'
+_cell_volume   209.09380030
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.67226072  0.02747186  1
+  Na  Na1  1  0.75000000  0.32773928  0.97252814  1
+  Na  Na2  1  0.25000000  0.02747186  0.67226072  1
+  Na  Na3  1  0.75000000  0.97252814  0.32773928  1
+  Ag  Ag0  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.50000000  1
+  Sb  Sb0  1  0.25000000  0.20920321  0.20920321  1
+  Sb  Sb1  1  0.75000000  0.79079779  0.79079779  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sb0 3.171428 1_555
+Na0 Sb0 3.268258 1_565
+Na0 Sb1 3.346629 1_554
+Na0 Sb1 3.346629 1_454
+Na1 Sb1 3.171430 1_555
+Na1 Sb1 3.268251 1_545
+Na1 Sb0 3.346630 1_656
+Na1 Sb0 3.346630 1_556
+Na2 Sb0 3.171427 1_555
+Na2 Sb0 3.268258 1_556
+Na2 Sb1 3.346629 1_445
+Na2 Sb1 3.346629 1_545
+Na3 Sb1 3.171430 1_555
+Na3 Sb1 3.268251 1_554
+Na3 Sb0 3.346630 1_565
+Na3 Sb0 3.346630 1_665
+Ag0 Sb0 2.704774 1_555
+Ag0 Sb1 2.704781 1_455
+Ag0 Ag1 2.881556 1_455
+Ag0 Ag1 2.881556 1_555
+Ag0 Na1 3.507770 1_455
+Ag0 Na0 3.507770 1_555
+Ag0 Na3 3.507770 1_455
+Ag0 Na2 3.507770 1_555
+Ag0 Na0 3.512998 1_556
+Ag0 Na1 3.512998 1_454
+Ag0 Na3 3.512998 1_445
+Ag0 Na2 3.512998 1_565
+Ag1 Sb0 2.704774 1_555
+Ag1 Sb1 2.704781 1_555
+Ag1 Na1 3.507770 1_555
+Ag1 Na0 3.507770 1_555
+Ag1 Na2 3.507770 1_555
+Ag1 Na3 3.507770 1_555
+Ag1 Na0 3.512998 1_556
+Ag1 Na1 3.512998 1_554
+Ag1 Na2 3.512998 1_565
+Ag1 Na3 3.512998 1_545

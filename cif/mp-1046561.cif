@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_TiZnPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32372100
+_cell_length_b   5.44719933
+_cell_length_c   7.23877782
+_cell_angle_alpha   105.85410584
+_cell_angle_beta   105.53914084
+_cell_angle_gamma   98.36432577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZnPO5
+_chemical_formula_sum   'Ti2 Zn2 P2 O10'
+_cell_volume   189.06162280
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.00000000  1
+  Zn  Zn0  1  0.19672800  0.34025400  0.75332200  1
+  Zn  Zn1  1  0.80327200  0.65974600  0.24667800  1
+  P  P0  1  0.83715700  0.64967000  0.74809600  1
+  P  P1  1  0.16284300  0.35033000  0.25190400  1
+  O  O0  1  0.63800600  0.67037200  0.87039400  1
+  O  O1  1  0.80720900  0.82994200  0.61709500  1
+  O  O2  1  0.36199400  0.32962800  0.12960600  1
+  O  O3  1  0.19279100  0.17005800  0.38290500  1
+  O  O4  1  0.19928000  0.64450100  0.38302600  1
+  O  O5  1  0.86438400  0.29156200  0.10919200  1
+  O  O6  1  0.80072000  0.35549900  0.61697400  1
+  O  O7  1  0.13561600  0.70843800  0.89080800  1
+  O  O8  1  0.59243300  0.91376700  0.25013000  1
+  O  O9  1  0.40756700  0.08623300  0.74987000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 P0 1.550375 1_555
+O0 Ti1 2.115821 1_566
+O1 P0 1.536969 1_555
+O1 Ti0 2.092471 1_565
+O2 P1 1.550375 1_555
+O2 Ti1 2.115821 1_555
+O3 P1 1.536969 1_555
+O3 Ti0 2.092471 1_555
+O4 P1 1.576755 1_555
+O4 Zn1 2.099176 1_455
+O4 Ti0 2.122682 1_565
+O5 P1 1.576765 1_655
+O5 Zn1 2.095566 1_555
+O5 Ti1 2.122849 1_555
+O6 P0 1.576755 1_555
+O6 Zn0 2.099176 1_655
+O6 Ti0 2.122682 1_555
+O7 P0 1.576765 1_455
+O7 Zn0 2.095566 1_555
+O7 Ti1 2.122849 1_566
+O8 Zn1 1.903456 1_555
+O8 Ti1 1.948270 1_565
+O8 Ti0 1.953025 1_565
+O9 Zn0 1.903456 1_555
+O9 Ti1 1.948270 1_556
+O9 Ti0 1.953025 1_555

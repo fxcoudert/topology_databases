@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiCuPO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25208700
+_cell_length_b   5.22744458
+_cell_length_c   7.27267877
+_cell_angle_alpha   108.90907222
+_cell_angle_beta   104.39257674
+_cell_angle_gamma   98.00861485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCuPO4F
+_chemical_formula_sum   'Li2 Cu2 P2 O8 F2'
+_cell_volume   177.62226739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.92159200  0.18286600  0.19332200  1
+  Li  Li1  1  0.07840800  0.81713400  0.80667800  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
+  P  P0  1  0.45228900  0.59890600  0.75867600  1
+  P  P1  1  0.54771100  0.40109400  0.24132400  1
+  O  O0  1  0.70528800  0.66168200  0.08316600  1
+  O  O1  1  0.64298400  0.98592800  0.34557000  1
+  O  O2  1  0.35701600  0.01407200  0.65443000  1
+  O  O3  1  0.64581800  0.39563300  0.39607200  1
+  O  O4  1  0.29471200  0.33831800  0.91683400  1
+  O  O5  1  0.35418200  0.60436700  0.60392800  1
+  O  O6  1  0.23761700  0.52647200  0.12961800  1
+  O  O7  1  0.76238300  0.47352800  0.87038200  1
+  F  F0  1  0.11141400  0.81561300  0.25087200  1
+  F  F1  1  0.88858600  0.18438700  0.74912800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.356165 1_545
+Li0 O6 2.507337 1_655
+Li0 O0 2.574018 1_545
+Li1 O2 2.356165 1_565
+Li1 O7 2.507337 1_455
+Li1 O4 2.574018 1_565
+Cu0 Li1 1.608275 1_544
+Cu0 Li0 1.608275 1_455
+Cu0 F1 2.316575 1_454
+Cu0 F0 2.316575 1_545
+Cu0 O0 2.507060 1_445
+Cu0 O4 2.507060 1_554
+Cu1 O5 1.261897 1_555
+Cu1 O3 1.261897 1_555
+O0 O7 1.666875 1_554
+O0 P1 2.244598 1_555
+O0 P0 2.293509 1_554
+O3 P1 1.126743 1_555
+O4 O6 1.666875 1_556
+O4 P0 2.244598 1_555
+O4 P1 2.293509 1_556
+O5 P0 1.126743 1_555
+O6 P1 1.930492 1_555
+O7 P0 1.930492 1_555
+F0 O6 1.790915 1_555
+F0 O0 2.068127 1_455
+F0 Li0 2.387757 1_465
+F1 O7 1.790915 1_555
+F1 O4 2.068127 1_655
+F1 Li1 2.387757 1_645

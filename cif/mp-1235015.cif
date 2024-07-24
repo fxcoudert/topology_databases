@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_LiCo(PtO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.18180200
+_cell_length_b   6.67154639
+_cell_length_c   6.23725068
+_cell_angle_alpha   105.25654220
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCo(PtO2)3
+_chemical_formula_sum   'Li1 Co1 Pt3 O6'
+_cell_volume   127.73529817
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.24467900  0.70992300  1
+  Co  Co0  1  0.00000000  0.54913200  0.53669200  1
+  Pt  Pt0  1  0.00000000  0.99462400  0.99970500  1
+  Pt  Pt1  1  0.50000100  0.50924100  0.01578700  1
+  Pt  Pt2  1  0.50000100  0.96779100  0.47802100  1
+  O  O0  1  0.00000000  0.89495100  0.65663900  1
+  O  O1  1  0.00000000  0.07005800  0.33072500  1
+  O  O2  1  0.00000000  0.68343600  0.95623300  1
+  O  O3  1  0.00000000  0.31640800  0.04105300  1
+  O  O4  1  0.50000100  0.40530900  0.67210600  1
+  O  O5  1  0.50000100  0.61436900  0.35311700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 1.966738 1_455
+Li0 O4 1.966743 1_555
+Li0 O3 1.993610 1_556
+Li0 O0 2.268546 1_545
+Li0 O1 2.345430 1_555
+Co0 O5 2.072121 1_455
+Co0 O5 2.072125 1_555
+Co0 O4 2.142783 1_455
+Co0 O4 2.142787 1_555
+Co0 O0 2.230301 1_555
+Co0 O2 2.533067 1_555
+O0 Pt0 2.066890 1_555
+O0 Pt2 2.072009 1_455
+O0 Pt2 2.072014 1_555
+O1 Pt0 1.992293 1_544
+O1 Pt2 2.042155 1_445
+O1 Pt2 2.042160 1_545
+O2 Pt0 2.021750 1_555
+O2 Pt1 2.060756 1_456
+O2 Pt1 2.060761 1_556
+O3 Pt1 2.077873 1_455
+O3 Pt1 2.077878 1_555
+O3 Pt0 2.093769 1_544
+O4 Pt1 2.072116 1_556
+O5 Pt1 2.035228 1_555
+O5 Pt2 2.280296 1_555

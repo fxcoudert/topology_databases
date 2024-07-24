@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_TaSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78379146
+_cell_length_b   4.78379008
+_cell_length_c   6.55280556
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSi2
+_chemical_formula_sum   'Ta3 Si6'
+_cell_volume   129.86803982
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  -0.00000000  0.50000000  0.33333300  1
+  Ta  Ta1  1  0.50000000  0.50000000  0.66666700  1
+  Ta  Ta2  1  0.50000000  -0.00000000  -0.00000000  1
+  Si  Si0  1  0.84161014  0.68321928  -0.00000000  1
+  Si  Si1  1  0.15838986  0.84161014  0.66666700  1
+  Si  Si2  1  0.68321928  0.84161014  0.33333300  1
+  Si  Si3  1  0.15838986  0.31678072  -0.00000000  1
+  Si  Si4  1  0.84161014  0.15838986  0.66666700  1
+  Si  Si5  1  0.31678072  0.15838986  0.33333300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.548208 1_654
+Si0 Si2 2.548212 1_555
+Si0 Ta0 2.603358 1_655
+Si0 Ta1 2.603360 1_554
+Si0 Si3 2.624772 1_665
+Si0 Ta2 2.728280 1_665
+Si0 Ta2 2.728284 1_565
+Si0 Ta2 2.830498 1_555
+Si0 Si3 2.832985 1_655
+Si0 Si3 2.832994 1_555
+Si1 Si5 2.548214 1_565
+Si1 Ta2 2.603360 1_566
+Si1 Ta0 2.603365 1_555
+Si1 Si4 2.624763 1_465
+Si1 Ta1 2.728279 1_565
+Si1 Ta1 2.728280 1_455
+Si1 Ta1 2.830503 1_555
+Si1 Si4 2.832994 1_455
+Si1 Si4 2.832994 1_565
+Si2 Si4 2.548214 1_565
+Si2 Ta2 2.603358 1_565
+Si2 Ta1 2.603365 1_555
+Si2 Si5 2.624772 1_665
+Si2 Ta0 2.728279 1_665
+Si2 Ta0 2.728284 1_655
+Si2 Ta0 2.830499 1_555
+Si2 Si5 2.832985 1_565
+Si2 Si5 2.832993 1_555
+Si3 Si4 2.548208 1_454
+Si3 Si5 2.548212 1_555
+Si3 Ta0 2.603358 1_555
+Si3 Ta1 2.603360 1_554
+Si3 Ta2 2.728280 1_455
+Si3 Ta2 2.728284 1_555
+Si3 Ta2 2.830498 1_565
+Si4 Ta2 2.603360 1_556
+Si4 Ta0 2.603365 1_655
+Si4 Ta1 2.728279 1_545
+Si4 Ta1 2.728280 1_655
+Si4 Ta1 2.830503 1_555
+Si5 Ta2 2.603358 1_555
+Si5 Ta1 2.603365 1_555
+Si5 Ta0 2.728279 1_545
+Si5 Ta0 2.728284 1_555
+Si5 Ta0 2.830499 1_655

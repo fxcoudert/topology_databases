@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_TbSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03409700
+_cell_length_b   5.33744200
+_cell_length_c   10.28297900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSiRh
+_chemical_formula_sum   'Tb4 Si4 Rh4'
+_cell_volume   221.41062316
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.75214500  0.46230900  1
+  Tb  Tb1  1  0.25000000  0.25214500  0.03769100  1
+  Tb  Tb2  1  0.75000000  0.24785500  0.53769100  1
+  Tb  Tb3  1  0.75000000  0.74785500  0.96230900  1
+  Si  Si0  1  0.25000000  0.99692900  0.74455800  1
+  Si  Si1  1  0.25000000  0.49692900  0.75544200  1
+  Si  Si2  1  0.75000000  0.00307100  0.25544200  1
+  Si  Si3  1  0.75000000  0.50307100  0.24455800  1
+  Rh  Rh0  1  0.25000000  0.26252300  0.32304300  1
+  Rh  Rh1  1  0.25000000  0.76252300  0.17695700  1
+  Rh  Rh2  1  0.75000000  0.73747700  0.67695700  1
+  Rh  Rh3  1  0.75000000  0.23747700  0.82304300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.671067 1_555
+Si0 Si1 2.671067 1_565
+Si0 Tb0 3.182875 1_555
+Si0 Tb2 3.222923 1_465
+Si0 Tb2 3.222923 1_565
+Si0 Tb3 3.293863 1_455
+Si0 Tb3 3.293863 1_555
+Si0 Tb1 3.307790 1_566
+Si1 Tb1 3.182875 1_556
+Si1 Tb3 3.222923 1_455
+Si1 Tb3 3.222923 1_555
+Si1 Tb2 3.293863 1_455
+Si1 Tb2 3.293863 1_555
+Si1 Tb0 3.307790 1_555
+Si2 Si3 2.671067 1_545
+Si2 Si3 2.671067 1_555
+Si2 Tb2 3.182875 1_555
+Si2 Tb0 3.222923 1_645
+Si2 Tb0 3.222923 1_545
+Si2 Tb1 3.293863 1_555
+Si2 Tb1 3.293863 1_655
+Si2 Tb3 3.307790 1_544
+Si3 Tb3 3.182875 1_554
+Si3 Tb1 3.222923 1_655
+Si3 Tb1 3.222923 1_555
+Si3 Tb0 3.293863 1_655
+Si3 Tb0 3.293863 1_555
+Si3 Tb2 3.307790 1_555
+Rh0 Si3 2.523541 1_555
+Rh0 Si3 2.523541 1_455
+Rh0 Si2 2.543502 1_555
+Rh0 Si2 2.543502 1_455
+Rh0 Tb1 2.934791 1_555
+Rh0 Tb0 2.979985 1_555
+Rh0 Tb2 2.991060 1_555
+Rh0 Tb2 2.991060 1_455
+Rh0 Tb0 3.077599 1_545
+Rh1 Si2 2.523541 1_565
+Rh1 Si2 2.523541 1_465
+Rh1 Si3 2.543502 1_555
+Rh1 Si3 2.543502 1_455
+Rh1 Tb0 2.934791 1_555
+Rh1 Tb1 2.979985 1_565
+Rh1 Tb3 2.991060 1_554
+Rh1 Tb3 2.991060 1_454
+Rh1 Tb1 3.077599 1_555
+Rh2 Si1 2.523541 1_655
+Rh2 Si1 2.523541 1_555
+Rh2 Si0 2.543502 1_555
+Rh2 Si0 2.543502 1_655
+Rh2 Tb3 2.934791 1_555
+Rh2 Tb2 2.979985 1_555
+Rh2 Tb0 2.991060 1_555
+Rh2 Tb0 2.991060 1_655
+Rh2 Tb2 3.077599 1_565
+Rh3 Si0 2.523541 1_645
+Rh3 Si0 2.523541 1_545
+Rh3 Si1 2.543502 1_555
+Rh3 Si1 2.543502 1_655
+Rh3 Tb2 2.934791 1_555
+Rh3 Tb3 2.979985 1_545
+Rh3 Tb1 2.991060 1_556
+Rh3 Tb1 2.991060 1_656
+Rh3 Tb3 3.077599 1_555

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Sm(NiB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02199128
+_cell_length_b   5.02199128
+_cell_length_c   6.79836377
+_cell_angle_alpha   59.50689330
+_cell_angle_beta   59.50689330
+_cell_angle_gamma   65.11829386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(NiB)2
+_chemical_formula_sum   'Sm2 Ni4 B4'
+_cell_volume   124.19348842
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.12172011  0.87827989  0.75000000  1
+  Sm  Sm1  1  0.87827989  0.12172011  0.25000000  1
+  Ni  Ni0  1  0.47163733  0.28233982  0.69920053  1
+  Ni  Ni1  1  0.71766018  0.52836267  0.80079947  1
+  Ni  Ni2  1  0.52836267  0.71766018  0.30079947  1
+  Ni  Ni3  1  0.28233982  0.47163733  0.19920053  1
+  B  B0  1  0.15342095  0.50155752  0.52764688  1
+  B  B1  1  0.49844248  0.84657905  0.97235312  1
+  B  B2  1  0.84657905  0.49844248  0.47235312  1
+  B  B3  1  0.50155752  0.15342095  0.02764688  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Sm0 2.858610 1_555
+Ni0 Sm1 2.988574 1_555
+Ni0 Sm0 2.999737 1_545
+Ni1 Sm0 2.858610 1_555
+Ni1 Sm1 2.988574 1_556
+Ni1 Sm0 2.999737 1_655
+Ni2 Sm1 2.858610 1_555
+Ni2 Sm0 2.988574 1_555
+Ni2 Sm1 2.999737 1_565
+Ni3 Sm1 2.858610 1_555
+Ni3 Sm0 2.988574 1_554
+Ni3 Sm1 2.999737 1_455
+B0 B2 1.769244 1_455
+B0 Ni1 2.033994 1_455
+B0 Ni2 2.043438 1_555
+B0 Ni3 2.054039 1_555
+B0 Ni0 2.057686 1_555
+B0 Sm0 2.735152 1_545
+B0 Sm1 2.869045 1_465
+B0 Sm0 2.879994 1_555
+B1 B3 1.769244 1_566
+B1 Ni0 2.033994 1_565
+B1 Ni3 2.043438 1_556
+B1 Ni2 2.054039 1_556
+B1 Ni1 2.057686 1_555
+B1 Sm0 2.735152 1_655
+B1 Sm1 2.869045 1_466
+B1 Sm0 2.879994 1_555
+B2 Ni3 2.033994 1_655
+B2 Ni0 2.043438 1_555
+B2 Ni1 2.054039 1_555
+B2 Ni2 2.057686 1_555
+B2 Sm1 2.735152 1_565
+B2 Sm0 2.869045 1_645
+B2 Sm1 2.879994 1_555
+B3 Ni2 2.033994 1_545
+B3 Ni1 2.043438 1_554
+B3 Ni0 2.054039 1_554
+B3 Ni3 2.057686 1_555
+B3 Sm1 2.735152 1_455
+B3 Sm0 2.869045 1_644
+B3 Sm1 2.879994 1_555

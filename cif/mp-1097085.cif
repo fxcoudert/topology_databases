@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2SrCa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.77448731
+_cell_length_b   14.57613786
+_cell_length_c   14.57613831
+_cell_angle_alpha   59.60429787
+_cell_angle_beta   59.54882649
+_cell_angle_gamma   59.54882695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrCa
+_chemical_formula_sum   'Na2 Sr1 Ca1'
+_cell_volume   2197.80459355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75422845  -0.00000000  0.00000000  1
+  Na  Na1  1  0.24577155  0.00000000  -0.00000000  1
+  Sr  Sr0  1  0.50000000  -0.00000000  0.00000000  1
+  Ca  Ca0  1  0.00000000  -0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sr0 3.756095 1_555
+Na1 Sr0 3.756095 1_555
+Ca0 Na0 3.631149 1_455
+Ca0 Na1 3.631149 1_555

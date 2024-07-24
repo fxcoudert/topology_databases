@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_PrSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14788900
+_cell_length_b   7.01973001
+_cell_length_c   7.08464275
+_cell_angle_alpha   80.38095194
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSBr
+_chemical_formula_sum   'Pr4 S4 Br4'
+_cell_volume   350.48294413
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.96500673  0.78972288  0.31785327  1
+  Pr  Pr1  1  0.03499327  0.21027712  0.68214673  1
+  Pr  Pr2  1  0.46500673  0.71027712  0.68214673  1
+  Pr  Pr3  1  0.53499327  0.28972288  0.31785327  1
+  S  S0  1  0.74108756  0.99183361  0.55236870  1
+  S  S1  1  0.25891244  0.00816639  0.44763130  1
+  S  S2  1  0.24108756  0.50816639  0.44763130  1
+  S  S3  1  0.75891244  0.49183361  0.55236870  1
+  Br  Br0  1  0.61565434  0.71066161  0.08459964  1
+  Br  Br1  1  0.38434566  0.28933839  0.91540036  1
+  Br  Br2  1  0.11565434  0.78933839  0.91540036  1
+  Br  Br3  1  0.88434566  0.21066161  0.08459964  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 S2 2.835260 1_655
+Pr0 S1 2.842757 1_665
+Pr0 S0 2.850062 1_555
+Pr0 S3 2.853456 1_555
+Pr1 S3 2.835260 1_455
+Pr1 S0 2.842757 1_445
+Pr1 S1 2.850062 1_555
+Pr1 S2 2.853456 1_555
+Pr2 S0 2.835260 1_555
+Pr2 S3 2.842757 1_555
+Pr2 S2 2.850062 1_555
+Pr2 S1 2.853456 1_565
+Pr3 S1 2.835260 1_555
+Pr3 S2 2.842757 1_555
+Pr3 S3 2.850062 1_555
+Pr3 S0 2.853456 1_545
+Br0 Pr2 3.048220 1_554
+Br0 Pr0 3.095319 1_555
+Br0 Pr3 3.187894 1_555
+Br1 Pr3 3.048220 1_556
+Br1 Pr1 3.095319 1_555
+Br1 Pr2 3.187894 1_555
+Br2 Pr0 3.048220 1_456
+Br2 Pr2 3.095319 1_555
+Br2 Pr1 3.187894 1_565
+Br3 Pr1 3.048220 1_654
+Br3 Pr3 3.095319 1_555
+Br3 Pr0 3.187894 1_545

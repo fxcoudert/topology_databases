@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_SmAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41124974
+_cell_length_b   6.41124886
+_cell_length_c   4.59265606
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAl3
+_chemical_formula_sum   'Sm2 Al6'
+_cell_volume   163.48575259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66666700  0.33333400  0.24999900  1
+  Sm  Sm1  1  0.33333400  0.66666700  0.75000000  1
+  Al  Al0  1  0.85831887  0.14168013  0.75000000  1
+  Al  Al1  1  0.14168113  0.28336327  0.24999900  1
+  Al  Al2  1  0.71663973  0.85832087  0.24999900  1
+  Al  Al3  1  0.14168113  0.85832087  0.24999900  1
+  Al  Al4  1  0.85831887  0.71663773  0.75000000  1
+  Al  Al5  1  0.28336127  0.14168013  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Al4 2.725053 1_545
+Al0 Al5 2.725053 1_655
+Al0 Al2 2.783588 1_546
+Al0 Al2 2.783596 1_545
+Al0 Al1 2.783598 1_656
+Al0 Al1 2.783606 1_655
+Al0 Sm0 3.130889 1_556
+Al0 Sm0 3.130896 1_555
+Al0 Sm1 3.217604 1_545
+Al0 Sm1 3.217616 1_655
+Al1 Al2 2.725050 1_445
+Al1 Al3 2.725053 1_545
+Al1 Al5 2.783601 1_554
+Al1 Al5 2.783609 1_555
+Al1 Sm1 3.130881 1_554
+Al1 Sm1 3.130888 1_555
+Al1 Sm0 3.217606 1_455
+Al1 Sm0 3.217613 1_555
+Al2 Al3 2.725047 1_655
+Al2 Al4 2.783598 1_554
+Al2 Al4 2.783605 1_555
+Al2 Sm1 3.130889 1_554
+Al2 Sm1 3.130896 1_555
+Al2 Sm0 3.217607 1_565
+Al2 Sm0 3.217613 1_555
+Al3 Al5 2.783588 1_564
+Al3 Al5 2.783596 1_565
+Al3 Al4 2.783598 1_454
+Al3 Al4 2.783606 1_455
+Al3 Sm1 3.130893 1_554
+Al3 Sm1 3.130899 1_555
+Al3 Sm0 3.217607 1_565
+Al3 Sm0 3.217614 1_455
+Al4 Al5 2.725053 1_665
+Al4 Sm0 3.130881 1_556
+Al4 Sm0 3.130888 1_555
+Al4 Sm1 3.217606 1_555
+Al4 Sm1 3.217613 1_655
+Al5 Sm0 3.130889 1_556
+Al5 Sm0 3.130896 1_555
+Al5 Sm1 3.217607 1_545
+Al5 Sm1 3.217613 1_555

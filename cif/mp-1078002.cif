@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mn(GaSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46747968
+_cell_length_b   5.46740683
+_cell_length_c   6.99785389
+_cell_angle_alpha   112.99111696
+_cell_angle_beta   112.99074702
+_cell_angle_gamma   89.99846405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(GaSe2)2
+_chemical_formula_sum   'Mn1 Ga2 Se4'
+_cell_volume   174.37843887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00027217  0.00028421  0.00011241  1
+  Ga  Ga0  1  0.74991184  0.24981392  0.49998927  1
+  Ga  Ga1  1  0.24981604  0.74991406  0.50000125  1
+  Se  Se0  1  0.85590462  0.85589475  0.24853218  1
+  Se  Se1  1  0.39276062  0.39276546  0.24872960  1
+  Se  Se2  1  0.14416612  0.60715746  0.75132155  1
+  Se  Se3  1  0.60717159  0.14417213  0.75131473  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Se1 2.530603 1_555
+Mn0 Se0 2.532248 1_445
+Mn0 Se3 2.533034 1_454
+Mn0 Se2 2.533090 1_544
+Ga0 Se3 2.429322 1_555
+Ga0 Se0 2.430380 1_545
+Ga0 Se1 2.430405 1_555
+Ga0 Se2 2.431324 1_655
+Ga1 Se2 2.429364 1_555
+Ga1 Se0 2.430384 1_455
+Ga1 Se1 2.430400 1_555
+Ga1 Se3 2.431357 1_565

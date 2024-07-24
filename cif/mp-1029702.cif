@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MgTiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28325200
+_cell_length_b   6.12445300
+_cell_length_c   7.12061700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiN2
+_chemical_formula_sum   'Mg4 Ti4 N8'
+_cell_volume   186.79212349
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75000000  0.58395200  0.11989900  1
+  Mg  Mg1  1  0.25000000  0.41604800  0.88010100  1
+  Mg  Mg2  1  0.25000000  0.91604800  0.61989900  1
+  Mg  Mg3  1  0.75000000  0.08395200  0.38010100  1
+  Ti  Ti0  1  0.75000000  0.57695600  0.62807900  1
+  Ti  Ti1  1  0.25000000  0.42304400  0.37192100  1
+  Ti  Ti2  1  0.25000000  0.92304400  0.12807900  1
+  Ti  Ti3  1  0.75000000  0.07695600  0.87192100  1
+  N  N0  1  0.25000000  0.57134400  0.61183200  1
+  N  N1  1  0.75000000  0.42865600  0.38816800  1
+  N  N2  1  0.75000000  0.92865600  0.11183200  1
+  N  N3  1  0.25000000  0.07134400  0.88816800  1
+  N  N4  1  0.25000000  0.59695000  0.14001400  1
+  N  N5  1  0.75000000  0.40305000  0.85998600  1
+  N  N6  1  0.75000000  0.90305000  0.64001400  1
+  N  N7  1  0.25000000  0.09695000  0.35998600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N2 2.111905 1_555
+Mg0 N1 2.133921 1_555
+Mg0 N4 2.147886 1_555
+Mg0 N4 2.147886 1_655
+Mg0 N5 2.157021 1_554
+Mg1 N3 2.111905 1_555
+Mg1 N0 2.133921 1_555
+Mg1 N5 2.147886 1_555
+Mg1 N5 2.147886 1_455
+Mg1 N4 2.157021 1_556
+Mg2 N0 2.111905 1_555
+Mg2 N3 2.133921 1_565
+Mg2 N6 2.147886 1_455
+Mg2 N6 2.147886 1_555
+Mg2 N7 2.157021 1_565
+Mg3 N1 2.111905 1_555
+Mg3 N2 2.133921 1_545
+Mg3 N7 2.147886 1_655
+Mg3 N7 2.147886 1_555
+Mg3 N6 2.157021 1_545
+N0 Ti1 1.934753 1_555
+N0 Ti0 2.145024 1_455
+N0 Ti0 2.145024 1_555
+N1 Ti0 1.934753 1_555
+N1 Ti1 2.145024 1_655
+N1 Ti1 2.145024 1_555
+N2 Ti3 1.934753 1_564
+N2 Ti2 2.145024 1_555
+N2 Ti2 2.145024 1_655
+N3 Ti2 1.934753 1_546
+N3 Ti3 2.145024 1_455
+N3 Ti3 2.145024 1_555
+N4 Ti1 1.965007 1_555
+N4 Ti2 1.998955 1_555
+N5 Ti0 1.965007 1_555
+N5 Ti3 1.998955 1_555
+N6 Ti3 1.965007 1_565
+N6 Ti0 1.998955 1_555
+N7 Ti2 1.965007 1_545
+N7 Ti1 1.998955 1_555

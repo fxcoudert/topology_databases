@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_PrGaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22101900
+_cell_length_b   7.76694900
+_cell_length_c   8.23730000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaCo
+_chemical_formula_sum   'Pr4 Ga4 Co4'
+_cell_volume   270.05526185
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.42651500  0.71349300  1
+  Pr  Pr1  1  0.25000000  0.07348500  0.21349300  1
+  Pr  Pr2  1  0.75000000  0.57348500  0.28650700  1
+  Pr  Pr3  1  0.75000000  0.92651500  0.78650700  1
+  Ga  Ga0  1  0.25000000  0.72602900  0.00177700  1
+  Ga  Ga1  1  0.25000000  0.77397100  0.50177700  1
+  Ga  Ga2  1  0.75000000  0.27397100  0.99822300  1
+  Ga  Ga3  1  0.75000000  0.22602900  0.49822300  1
+  Co  Co0  1  0.25000000  0.42206300  0.04072200  1
+  Co  Co1  1  0.25000000  0.07793700  0.54072200  1
+  Co  Co2  1  0.75000000  0.57793700  0.95927800  1
+  Co  Co3  1  0.75000000  0.92206300  0.45927800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Pr3 3.165976 1_454
+Ga0 Pr3 3.165976 1_554
+Ga0 Pr1 3.213139 1_565
+Ga0 Pr0 3.324279 1_554
+Ga0 Pr2 3.370302 1_455
+Ga0 Pr2 3.370302 1_555
+Ga1 Pr2 3.165976 1_455
+Ga1 Pr2 3.165976 1_555
+Ga1 Pr0 3.213139 1_555
+Ga1 Pr1 3.324279 1_565
+Ga1 Pr3 3.370302 1_455
+Ga1 Pr3 3.370302 1_555
+Ga2 Pr1 3.165976 1_556
+Ga2 Pr1 3.165976 1_656
+Ga2 Pr3 3.213139 1_545
+Ga2 Pr2 3.324279 1_556
+Ga2 Pr0 3.370302 1_555
+Ga2 Pr0 3.370302 1_655
+Ga3 Pr0 3.165976 1_555
+Ga3 Pr0 3.165976 1_655
+Ga3 Pr2 3.213139 1_555
+Ga3 Pr3 3.324279 1_545
+Ga3 Pr1 3.370302 1_655
+Ga3 Pr1 3.370302 1_555
+Co0 Ga0 2.382584 1_555
+Co0 Ga2 2.428954 1_554
+Co0 Ga2 2.428954 1_454
+Co0 Co2 2.523894 1_554
+Co0 Co2 2.523894 1_454
+Co0 Pr0 2.695705 1_554
+Co0 Pr1 3.058652 1_555
+Co0 Pr2 3.152214 1_455
+Co0 Pr2 3.152214 1_555
+Co1 Ga1 2.382584 1_545
+Co1 Ga3 2.428954 1_455
+Co1 Ga3 2.428954 1_555
+Co1 Co3 2.523894 1_545
+Co1 Co3 2.523894 1_445
+Co1 Pr1 2.695705 1_555
+Co1 Pr0 3.058652 1_555
+Co1 Pr3 3.152214 1_445
+Co1 Pr3 3.152214 1_545
+Co2 Ga2 2.382584 1_555
+Co2 Ga0 2.428954 1_556
+Co2 Ga0 2.428954 1_656
+Co2 Pr2 2.695705 1_556
+Co2 Pr3 3.058652 1_555
+Co2 Pr0 3.152214 1_555
+Co2 Pr0 3.152214 1_655
+Co3 Ga3 2.382584 1_565
+Co3 Ga1 2.428954 1_555
+Co3 Ga1 2.428954 1_655
+Co3 Pr3 2.695705 1_555
+Co3 Pr2 3.058652 1_555
+Co3 Pr1 3.152214 1_565
+Co3 Pr1 3.152214 1_665

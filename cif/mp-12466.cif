@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Fe(PdSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63512346
+_cell_length_b   6.63512346
+_cell_length_c   6.63512346
+_cell_angle_alpha   134.80299141
+_cell_angle_beta   126.72001923
+_cell_angle_gamma   72.38757993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(PdSe)2
+_chemical_formula_sum   'Fe2 Pd4 Se4'
+_cell_volume   162.47281397
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.75000000  0.75000000  1
+  Fe  Fe1  1  0.00000000  0.25000000  0.25000000  1
+  Pd  Pd0  1  0.26871100  0.88869000  0.38002100  1
+  Pd  Pd1  1  0.73128900  0.11131000  0.61997900  1
+  Pd  Pd2  1  0.49133100  0.61131000  0.88002100  1
+  Pd  Pd3  1  0.50866900  0.38869000  0.11997900  1
+  Se  Se0  1  0.94212400  0.64393500  0.29818900  1
+  Se  Se1  1  0.05787600  0.35606500  0.70181100  1
+  Se  Se2  1  0.34574600  0.14393500  0.20181100  1
+  Se  Se3  1  0.65425400  0.85606500  0.79818900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Se2 2.333079 1_566
+Fe0 Se1 2.333079 1_555
+Fe0 Se3 2.333079 1_455
+Fe0 Se0 2.333079 1_455
+Fe0 Pd0 2.856430 1_556
+Fe0 Pd3 2.856430 1_455
+Fe0 Pd2 2.856430 1_555
+Fe0 Pd1 2.856430 1_465
+Fe1 Se1 2.333079 1_555
+Fe1 Se2 2.333079 1_555
+Fe1 Se3 2.333079 1_444
+Fe1 Se0 2.333079 1_455
+Fe1 Pd3 2.856430 1_455
+Fe1 Pd0 2.856430 1_545
+Fe1 Pd1 2.856430 1_454
+Fe1 Pd2 2.856430 1_555
+Pd0 Se3 2.512576 1_555
+Pd0 Se0 2.666023 1_455
+Pd0 Pd1 2.778965 1_565
+Pd0 Se1 2.783412 1_554
+Pd0 Se1 2.783412 1_565
+Pd0 Pd3 2.922239 1_555
+Pd0 Pd3 2.922239 1_566
+Pd0 Se2 2.931988 1_565
+Pd1 Se2 2.512576 1_555
+Pd1 Se1 2.666023 1_655
+Pd1 Se0 2.783412 1_556
+Pd1 Se0 2.783412 1_545
+Pd1 Pd2 2.922239 1_544
+Pd1 Pd2 2.922239 1_555
+Pd1 Se3 2.931988 1_545
+Pd2 Se0 2.512576 1_556
+Pd2 Se3 2.666023 1_555
+Pd2 Pd3 2.778965 1_556
+Pd2 Se2 2.783412 1_566
+Pd2 Se2 2.783412 1_555
+Pd2 Se1 2.931988 1_555
+Pd3 Se1 2.512576 1_554
+Pd3 Se2 2.666023 1_555
+Pd3 Se3 2.783412 1_555
+Pd3 Se3 2.783412 1_544
+Pd3 Se0 2.931988 1_555

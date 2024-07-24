@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LuAl2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01732359
+_cell_length_b   5.30058437
+_cell_length_c   6.80435735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.26870889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAl2Ni
+_chemical_formula_sum   'Lu2 Al4 Ni2'
+_cell_volume   134.08650344
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.43714075  0.87427950  0.25000000  1
+  Lu  Lu1  1  0.56285925  0.12572050  0.75000000  1
+  Al  Al0  1  0.15392985  0.30786071  0.05371786  1
+  Al  Al1  1  0.84607015  0.69213929  0.94628214  1
+  Al  Al2  1  0.84607015  0.69213929  0.55371786  1
+  Al  Al3  1  0.15392985  0.30786071  0.44628214  1
+  Ni  Ni0  1  0.71385648  0.42771296  0.25000000  1
+  Ni  Ni1  1  0.28614352  0.57228704  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Ni0 2.714729 1_565
+Lu0 Ni0 2.972050 1_555
+Lu0 Ni0 2.972057 1_455
+Lu1 Ni1 2.714729 1_545
+Lu1 Ni1 2.972050 1_555
+Lu1 Ni1 2.972057 1_655
+Al0 Ni1 2.439931 1_554
+Al0 Ni0 2.482761 1_455
+Al0 Ni0 2.482765 1_555
+Al0 Lu1 3.017252 1_554
+Al0 Lu1 3.017255 1_454
+Al0 Lu0 3.082760 1_555
+Al0 Lu0 3.215873 1_445
+Al0 Lu0 3.215880 1_545
+Al1 Ni0 2.439931 1_556
+Al1 Ni1 2.482761 1_655
+Al1 Ni1 2.482765 1_555
+Al1 Lu0 3.017252 1_556
+Al1 Lu0 3.017255 1_656
+Al1 Lu1 3.082760 1_555
+Al1 Lu1 3.215873 1_665
+Al1 Lu1 3.215880 1_565
+Al2 Ni0 2.439931 1_555
+Al2 Ni1 2.482761 1_655
+Al2 Ni1 2.482765 1_555
+Al2 Lu0 3.017252 1_555
+Al2 Lu0 3.017255 1_655
+Al2 Lu1 3.082760 1_555
+Al2 Lu1 3.215873 1_665
+Al2 Lu1 3.215880 1_565
+Al3 Ni1 2.439931 1_555
+Al3 Ni0 2.482761 1_455
+Al3 Ni0 2.482765 1_555
+Al3 Lu1 3.017252 1_555
+Al3 Lu1 3.017255 1_455
+Al3 Lu0 3.082760 1_555
+Al3 Lu0 3.215873 1_445
+Al3 Lu0 3.215880 1_545

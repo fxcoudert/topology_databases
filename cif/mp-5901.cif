@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CeMnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00851366
+_cell_length_b   4.04671854
+_cell_length_c   8.98378929
+_cell_angle_alpha   103.01602393
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMnSi2
+_chemical_formula_sum   'Ce2 Mn2 Si4'
+_cell_volume   141.98478155
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.25000000  0.89913757  0.79827514  1
+  Ce  Ce1  1  0.75000000  0.10086243  0.20172486  1
+  Mn  Mn0  1  0.75000000  0.75012958  0.50026017  1
+  Mn  Mn1  1  0.25000000  0.24987042  0.49973983  1
+  Si  Si0  1  0.25000000  0.67510571  0.35021042  1
+  Si  Si1  1  0.75000000  0.32489429  0.64978958  1
+  Si  Si2  1  0.75000000  0.46419777  0.92839553  1
+  Si  Si3  1  0.25000000  0.53580223  0.07160447  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Si2 3.067281 1_565
+Ce0 Si2 3.067281 1_465
+Ce0 Si2 3.067281 1_555
+Ce0 Si2 3.067281 1_455
+Ce0 Si1 3.130529 1_465
+Ce0 Si1 3.130529 1_565
+Ce0 Si1 3.130532 1_455
+Ce0 Si1 3.130532 1_555
+Ce0 Si3 3.133331 1_566
+Ce0 Si3 3.133332 1_556
+Ce0 Mn0 3.289590 1_555
+Ce0 Mn0 3.289590 1_455
+Ce0 Mn1 3.304862 1_555
+Ce0 Mn1 3.304865 1_565
+Ce1 Si3 3.067281 1_645
+Ce1 Si3 3.067281 1_545
+Ce1 Si3 3.067281 1_555
+Ce1 Si3 3.067281 1_655
+Ce1 Si0 3.130529 1_645
+Ce1 Si0 3.130529 1_545
+Ce1 Si0 3.130532 1_655
+Ce1 Si0 3.130532 1_555
+Ce1 Si2 3.133331 1_544
+Ce1 Si2 3.133332 1_554
+Ce1 Mn1 3.289590 1_655
+Ce1 Mn1 3.289590 1_555
+Ce1 Mn0 3.304862 1_555
+Ce1 Mn0 3.304865 1_545
+Mn0 Si0 2.396250 1_555
+Mn0 Si0 2.396250 1_655
+Mn0 Si1 2.409774 1_565
+Mn0 Si1 2.409774 1_555
+Mn1 Si1 2.396250 1_555
+Mn1 Si1 2.396250 1_455
+Mn1 Si0 2.409774 1_545
+Mn1 Si0 2.409774 1_555
+Si0 Si3 2.438629 1_555
+Si1 Si2 2.438629 1_555
+Si2 Si3 2.363962 1_656
+Si2 Si3 2.363962 1_556

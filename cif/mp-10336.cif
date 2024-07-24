@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaYCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81701882
+_cell_length_b   7.81701882
+_cell_length_c   11.44982600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.98225376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYCuTe3
+_chemical_formula_sum   'Ba2 Y2 Cu2 Te6'
+_cell_volume   381.23874406
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75062100  0.24937900  0.25000000  1
+  Ba  Ba1  1  0.24937900  0.75062100  0.75000000  1
+  Y  Y0  1  0.00000000  0.00000000  0.50000000  1
+  Y  Y1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.53246600  0.46753400  0.75000000  1
+  Cu  Cu1  1  0.46753400  0.53246600  0.25000000  1
+  Te  Te0  1  0.63637700  0.36362300  0.93877600  1
+  Te  Te1  1  0.07030400  0.92969600  0.25000000  1
+  Te  Te2  1  0.36362300  0.63637700  0.43877600  1
+  Te  Te3  1  0.36362300  0.63637700  0.06122400  1
+  Te  Te4  1  0.63637700  0.36362300  0.56122400  1
+  Te  Te5  1  0.92969600  0.07030400  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Te1 3.498533 1_655
+Ba0 Te1 3.498533 1_545
+Ba0 Te2 3.532029 1_545
+Ba0 Te3 3.532029 1_545
+Ba0 Te2 3.532029 1_655
+Ba0 Te3 3.532029 1_655
+Ba0 Te0 3.953579 1_554
+Ba0 Te4 3.953579 1_555
+Ba1 Te5 3.498533 1_455
+Ba1 Te5 3.498533 1_565
+Ba1 Te4 3.532029 1_455
+Ba1 Te0 3.532029 1_455
+Ba1 Te4 3.532029 1_565
+Ba1 Te0 3.532029 1_565
+Ba1 Te3 3.953579 1_556
+Ba1 Te2 3.953579 1_555
+Cu0 Te4 2.664193 1_555
+Cu0 Te0 2.664193 1_555
+Cu0 Te5 2.703201 1_565
+Cu0 Te5 2.703201 1_455
+Cu1 Te3 2.664193 1_555
+Cu1 Te2 2.664193 1_555
+Cu1 Te1 2.703201 1_655
+Cu1 Te1 2.703201 1_545
+Te0 Y1 3.099114 1_666
+Te0 Y1 3.099114 1_556
+Te1 Y0 3.050279 1_565
+Te1 Y1 3.050279 1_565
+Te2 Y0 3.099114 1_665
+Te2 Y0 3.099114 1_555
+Te3 Y1 3.099114 1_665
+Te3 Y1 3.099114 1_555
+Te4 Y0 3.099114 1_665
+Te4 Y0 3.099114 1_555
+Te5 Y0 3.050279 1_655
+Te5 Y1 3.050279 1_656

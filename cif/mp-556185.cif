@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_RbNaTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33650384
+_cell_length_b   6.33650384
+_cell_length_c   5.58627156
+_cell_angle_alpha   88.74027881
+_cell_angle_beta   88.74027881
+_cell_angle_gamma   123.97108513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaTiO3
+_chemical_formula_sum   'Rb2 Na2 Ti2 O6'
+_cell_volume   185.80917960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.73254300  0.26745700  0.75000000  1
+  Rb  Rb1  1  0.26745700  0.73254300  0.25000000  1
+  Na  Na0  1  0.42451400  0.57548600  0.75000000  1
+  Na  Na1  1  0.57548600  0.42451400  0.25000000  1
+  Ti  Ti0  1  0.94835100  0.05164900  0.25000000  1
+  Ti  Ti1  1  0.05164900  0.94835100  0.75000000  1
+  O  O0  1  0.77738300  0.79516000  0.99788600  1
+  O  O1  1  0.20484000  0.22261700  0.50211400  1
+  O  O2  1  0.78963500  0.21036500  0.25000000  1
+  O  O3  1  0.22261700  0.20484000  0.00211400  1
+  O  O4  1  0.79516000  0.77738300  0.49788600  1
+  O  O5  1  0.21036500  0.78963500  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.356618 1_555
+Na0 O3 2.356618 1_556
+Na0 O0 2.365858 1_555
+Na0 O1 2.365858 1_555
+Na0 O5 2.395920 1_555
+Na1 O0 2.356618 1_554
+Na1 O1 2.356618 1_555
+Na1 O3 2.365858 1_555
+Na1 O4 2.365858 1_555
+Na1 O2 2.395920 1_555
+O0 Ti1 1.957009 1_655
+O0 Ti0 1.999660 1_566
+O1 Ti1 1.957009 1_545
+O1 Ti0 1.999660 1_455
+O2 Ti0 1.775730 1_555
+O2 Rb0 2.865242 1_554
+O2 Rb0 2.865242 1_555
+O2 Rb1 2.986545 1_545
+O2 Rb1 2.986545 1_655
+O3 Ti0 1.957009 1_455
+O3 Ti1 1.999660 1_544
+O4 Ti0 1.957009 1_565
+O4 Ti1 1.999660 1_655
+O5 Ti1 1.775730 1_555
+O5 Rb1 2.865242 1_555
+O5 Rb1 2.865242 1_556
+O5 Rb0 2.986545 1_565
+O5 Rb0 2.986545 1_455

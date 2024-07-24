@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_MgV2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99328752
+_cell_length_b   5.99328752
+_cell_length_c   5.99328752
+_cell_angle_alpha   119.73134594
+_cell_angle_beta   119.09121127
+_cell_angle_gamma   91.02363447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2O4
+_chemical_formula_sum   'Mg2 V4 O8'
+_cell_volume   153.54519498
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Mg  Mg1  1  0.00000000  0.50000000  0.50000000  1
+  V  V0  1  0.00000000  0.00000000  0.50000000  1
+  V  V1  1  0.50000000  0.00000000  0.50000000  1
+  V  V2  1  0.00000000  0.50000000  0.00000000  1
+  V  V3  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.21390200  0.24447800  0.96942400  1
+  O  O1  1  0.75566000  0.75876900  0.50310800  1
+  O  O2  1  0.77505400  0.24447800  0.53057600  1
+  O  O3  1  0.24434000  0.74744800  0.00310800  1
+  O  O4  1  0.22494600  0.75552200  0.46942400  1
+  O  O5  1  0.24434000  0.24123100  0.49689200  1
+  O  O6  1  0.75566000  0.25255200  0.99689200  1
+  O  O7  1  0.78609800  0.75552200  0.03057600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O6 2.151518 1_554
+Mg0 O3 2.151518 1_555
+Mg0 O1 2.151519 1_555
+Mg0 O5 2.151519 1_554
+Mg0 O0 2.154342 1_554
+Mg0 O7 2.154342 1_555
+Mg1 O6 2.151518 1_454
+Mg1 O3 2.151518 1_556
+Mg1 O5 2.151523 1_555
+Mg1 O1 2.151523 1_455
+Mg1 O4 2.154342 1_555
+Mg1 O2 2.154342 1_455
+O0 V0 2.010601 1_555
+O0 V2 2.010601 1_556
+O0 V3 2.061936 1_556
+O1 V0 2.052473 1_665
+O1 V1 2.125198 1_565
+O1 V3 2.125203 1_666
+O2 V2 2.010601 1_656
+O2 V0 2.010601 1_655
+O2 V1 2.061936 1_555
+O3 V2 2.052477 1_555
+O3 V3 2.125203 1_565
+O3 V1 2.125203 1_565
+O4 V0 2.010601 1_565
+O4 V2 2.010601 1_555
+O4 V1 2.061936 1_565
+O5 V0 2.052473 1_555
+O5 V1 2.125198 1_555
+O5 V3 2.125203 1_555
+O6 V2 2.052477 1_656
+O6 V3 2.125203 1_656
+O6 V1 2.125203 1_555
+O7 V0 2.010601 1_665
+O7 V2 2.010601 1_655
+O7 V3 2.061936 1_665

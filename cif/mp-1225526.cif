@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Eu(GaAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04584430
+_cell_length_b   9.48302424
+_cell_length_c   12.43216053
+_cell_angle_alpha   95.17219509
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu(GaAs)2
+_chemical_formula_sum   'Eu4 Ga8 As8'
+_cell_volume   475.04056113
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  -0.00000000  0.20104656  0.27567485  1
+  Eu  Eu1  1  0.00000000  0.79895344  0.72432515  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.50000000  1
+  Eu  Eu3  1  0.50000000  -0.00000000  -0.00000000  1
+  Ga  Ga0  1  0.50000000  0.39851629  0.05457143  1
+  Ga  Ga1  1  0.50000000  0.60148371  0.94542857  1
+  Ga  Ga2  1  0.50000000  0.89130112  0.43770350  1
+  Ga  Ga3  1  0.50000000  0.10869888  0.56229650  1
+  Ga  Ga4  1  0.00000000  0.80673150  0.17606817  1
+  Ga  Ga5  1  -0.00000000  0.19326850  0.82393183  1
+  Ga  Ga6  1  0.00000000  0.60556440  0.28214512  1
+  Ga  Ga7  1  0.00000000  0.39443560  0.71785488  1
+  As  As0  1  -0.00000000  0.26214648  0.53056355  1
+  As  As1  1  -0.00000000  0.73785352  0.46943645  1
+  As  As2  1  0.50000000  0.95220171  0.24216367  1
+  As  As3  1  0.50000000  0.04779829  0.75783633  1
+  As  As4  1  -0.00000000  0.24000450  0.02568570  1
+  As  As5  1  -0.00000000  0.75999550  0.97431430  1
+  As  As6  1  0.50000000  0.44715893  0.25633836  1
+  As  As7  1  0.50000000  0.55284107  0.74366164  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga1 2.452886 1_554
+Ga2 Ga3 2.464482 1_565
+Ga4 Ga6 2.414943 1_555
+Ga5 Ga7 2.414943 1_555
+As0 Ga7 2.543370 1_555
+As0 Ga3 2.543385 1_555
+As0 Ga3 2.543385 1_455
+As0 Eu2 3.078752 1_555
+As0 Eu2 3.078752 1_455
+As0 Eu0 3.169556 1_555
+As1 Ga6 2.543370 1_555
+As1 Ga2 2.543385 1_555
+As1 Ga2 2.543385 1_455
+As1 Eu2 3.078752 1_455
+As1 Eu2 3.078752 1_555
+As1 Eu1 3.169556 1_555
+As2 Ga4 2.542844 1_655
+As2 Ga4 2.542844 1_555
+As2 Ga2 2.548791 1_555
+As2 Eu3 3.084690 1_565
+As2 Eu0 3.107602 1_665
+As2 Eu0 3.107602 1_565
+As3 Ga5 2.542844 1_555
+As3 Ga5 2.542844 1_655
+As3 Ga3 2.548791 1_555
+As3 Eu3 3.084690 1_556
+As3 Eu1 3.107602 1_545
+As3 Eu1 3.107602 1_645
+As4 Ga5 2.507438 1_554
+As4 Ga0 2.526534 1_455
+As4 Ga0 2.526534 1_555
+As4 Eu3 3.040260 1_455
+As4 Eu3 3.040260 1_555
+As4 Eu0 3.162685 1_555
+As5 Ga4 2.507438 1_556
+As5 Ga1 2.526534 1_555
+As5 Ga1 2.526534 1_455
+As5 Eu3 3.040260 1_566
+As5 Eu3 3.040260 1_466
+As5 Eu1 3.162685 1_555
+As6 Ga0 2.509228 1_555
+As6 Ga6 2.522845 1_555
+As6 Ga6 2.522845 1_655
+As6 Eu2 3.025510 1_555
+As6 Eu0 3.114194 1_655
+As6 Eu0 3.114194 1_555
+As7 Ga1 2.509228 1_555
+As7 Ga7 2.522845 1_655
+As7 Ga7 2.522845 1_555
+As7 Eu2 3.025510 1_555
+As7 Eu1 3.114194 1_555
+As7 Eu1 3.114194 1_655

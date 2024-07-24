@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_La(PdO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93350851
+_cell_length_b   5.93397408
+_cell_length_c   6.64467879
+_cell_angle_alpha   116.51750932
+_cell_angle_beta   116.51009115
+_cell_angle_gamma   90.00121114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(PdO2)2
+_chemical_formula_sum   'La2 Pd4 O8'
+_cell_volume   181.43488387
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.12500518  0.37500524  0.24999845  1
+  La  La1  1  0.87499482  0.62499476  0.75000155  1
+  Pd  Pd0  1  0.50000000  -0.00000000  -0.00000000  1
+  Pd  Pd1  1  -0.00000000  -0.00000000  0.50000000  1
+  Pd  Pd2  1  0.50000000  -0.00000000  0.50000000  1
+  Pd  Pd3  1  0.50000000  0.50000000  -0.00000000  1
+  O  O0  1  0.28260420  0.67687273  0.15301008  1
+  O  O1  1  0.47623258  0.78260273  0.65299974  1
+  O  O2  1  0.17683036  0.37037942  0.65302694  1
+  O  O3  1  0.87038951  0.97625012  0.15303346  1
+  O  O4  1  0.71739580  0.32312727  0.84698992  1
+  O  O5  1  0.52376742  0.21739727  0.34700026  1
+  O  O6  1  0.12961049  0.02374988  0.84696654  1
+  O  O7  1  0.82316964  0.62962058  0.34697306  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 O5 2.462784 1_555
+La0 O3 2.462927 1_445
+La0 O7 2.463014 1_455
+La0 O0 2.463159 1_555
+La0 O4 2.568519 1_454
+La0 O2 2.568553 1_555
+La0 O6 2.568660 1_554
+La0 O1 2.568721 1_555
+La1 O1 2.462784 1_555
+La1 O6 2.462927 1_665
+La1 O2 2.463014 1_655
+La1 O4 2.463159 1_555
+La1 O0 2.568519 1_656
+La1 O7 2.568553 1_555
+La1 O3 2.568660 1_556
+La1 O5 2.568721 1_555
+O0 Pd3 2.004275 1_555
+O0 Pd2 2.013375 1_565
+O1 Pd2 2.004164 1_565
+O1 Pd0 2.013471 1_566
+O2 Pd1 2.004289 1_555
+O2 Pd3 2.013415 1_556
+O3 Pd0 2.004189 1_565
+O3 Pd1 2.013357 1_665
+O4 Pd3 2.004275 1_556
+O4 Pd2 2.013375 1_555
+O5 Pd2 2.004164 1_555
+O5 Pd0 2.013471 1_555
+O6 Pd0 2.004189 1_556
+O6 Pd1 2.013357 1_555
+O7 Pd1 2.004289 1_665
+O7 Pd3 2.013415 1_555

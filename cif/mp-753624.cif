@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_LiMnPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02340200
+_cell_length_b   8.38714492
+_cell_length_c   5.02339708
+_cell_angle_alpha   89.99716044
+_cell_angle_beta   120.00161924
+_cell_angle_gamma   107.42460978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnPO4
+_chemical_formula_sum   'Li2 Mn2 P2 O8'
+_cell_volume   171.98347183
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.01513500  0.02273400  0.00758400  1
+  Li  Li1  1  0.13582700  0.70372400  0.56791900  1
+  Mn  Mn0  1  0.88465000  0.32695400  0.44231600  1
+  Mn  Mn1  1  0.26643300  0.39966700  0.13321600  1
+  P  P0  1  0.73212100  0.59819900  0.86605100  1
+  P  P1  1  0.41883600  0.12824600  0.70942300  1
+  O  O0  1  0.29213900  0.93812500  0.64608500  1
+  O  O1  1  0.85892500  0.78839500  0.92947000  1
+  O  O2  1  0.71873800  0.52725300  0.56583300  1
+  O  O3  1  0.77674000  0.19929200  0.76699100  1
+  O  O4  1  0.43228700  0.19927400  0.00975800  1
+  O  O5  1  0.96139800  0.52723000  0.15288100  1
+  O  O6  1  0.37435000  0.52724200  0.80849900  1
+  O  O7  1  0.18948300  0.19925700  0.42250500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 1.844218 1_444
+Li0 O7 2.168300 1_555
+Li0 O3 2.168437 1_454
+Li0 O4 2.168541 1_555
+Li1 O0 1.844706 1_555
+Li1 O6 2.168185 1_555
+Li1 O2 2.168284 1_455
+Li1 O5 2.168496 1_455
+Mn0 O7 2.153249 1_655
+Mn0 O3 2.153306 1_555
+Mn0 O4 2.153365 1_555
+Mn0 O5 2.292733 1_555
+Mn0 O6 2.292845 1_655
+Mn0 O2 2.292946 1_555
+Mn1 O5 2.153053 1_455
+Mn1 O6 2.153201 1_554
+Mn1 O2 2.153248 1_555
+Mn1 O3 2.293185 1_454
+Mn1 O7 2.293243 1_555
+Mn1 O4 2.293266 1_555
+O0 P1 1.496228 1_565
+O1 P0 1.496818 1_555
+O2 P0 1.583582 1_555
+O3 P1 1.584163 1_555
+O4 P1 1.584193 1_554
+O5 P0 1.583605 1_554
+O6 P0 1.583545 1_555
+O7 P1 1.584203 1_555

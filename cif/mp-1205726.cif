@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Y2Co2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98464219
+_cell_length_b   3.98464219
+_cell_length_c   17.00051855
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Co2I
+_chemical_formula_sum   'Y4 Co4 I2'
+_cell_volume   233.76064711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  -0.00000000  0.00000000  0.10509553  1
+  Y  Y1  1  -0.00000000  0.00000000  0.89490447  1
+  Y  Y2  1  -0.00000000  -0.00000000  0.60509553  1
+  Y  Y3  1  -0.00000000  0.00000000  0.39490447  1
+  Co  Co0  1  0.33333300  0.66666700  0.50396042  1
+  Co  Co1  1  0.66666700  0.33333300  0.49603958  1
+  Co  Co2  1  0.66666700  0.33333300  0.00396042  1
+  Co  Co3  1  0.33333300  0.66666700  0.99603958  1
+  I  I0  1  0.33333300  0.66666700  0.25000000  1
+  I  I1  1  0.66666700  0.33333300  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Co1 2.304469 1_455
+Co0 Co1 2.304469 1_565
+Co0 Co1 2.304477 1_555
+Co0 Y2 2.872039 1_565
+Co0 Y2 2.872042 1_665
+Co0 Y2 2.872042 1_555
+Co0 Y3 2.954622 1_565
+Co0 Y3 2.954625 1_555
+Co0 Y3 2.954625 1_665
+Co1 Y3 2.872039 1_655
+Co1 Y3 2.872042 1_555
+Co1 Y3 2.872042 1_665
+Co1 Y2 2.954622 1_655
+Co1 Y2 2.954625 1_665
+Co1 Y2 2.954625 1_555
+Co2 Co3 2.304469 1_544
+Co2 Co3 2.304469 1_654
+Co2 Co3 2.304477 1_554
+Co2 Y0 2.872039 1_655
+Co2 Y0 2.872042 1_555
+Co2 Y0 2.872042 1_665
+Co2 Y1 2.954622 1_654
+Co2 Y1 2.954625 1_554
+Co2 Y1 2.954625 1_664
+Co3 Y1 2.872039 1_565
+Co3 Y1 2.872042 1_665
+Co3 Y1 2.872042 1_555
+Co3 Y0 2.954622 1_566
+Co3 Y0 2.954625 1_666
+Co3 Y0 2.954625 1_556
+I0 Y0 3.370614 1_565
+I0 Y3 3.370614 1_565
+I0 Y3 3.370616 1_665
+I0 Y0 3.370616 1_665
+I0 Y3 3.370616 1_555
+I0 Y0 3.370616 1_555
+I1 Y2 3.370614 1_655
+I1 Y1 3.370614 1_655
+I1 Y2 3.370616 1_665
+I1 Y2 3.370616 1_555
+I1 Y1 3.370616 1_665
+I1 Y1 3.370616 1_555

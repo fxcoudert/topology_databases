@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LaCeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89252400
+_cell_length_b   5.85038500
+_cell_length_c   8.14136600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeSi2
+_chemical_formula_sum   'La2 Ce2 Si4'
+_cell_volume   185.40140673
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.36229200  0.31984500  1
+  La  La1  1  0.50000000  0.63770800  0.81984500  1
+  Ce  Ce0  1  0.00000000  0.13535200  0.68156400  1
+  Ce  Ce1  1  0.00000000  0.86464800  0.18156400  1
+  Si  Si0  1  0.00000000  0.63702000  0.53338300  1
+  Si  Si1  1  0.00000000  0.36298000  0.03338300  1
+  Si  Si2  1  0.50000000  0.87127200  0.46520800  1
+  Si  Si3  1  0.50000000  0.12872800  0.96520800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Si1 3.037609 1_555
+La0 Si1 3.037609 1_655
+La0 Si0 3.064896 1_555
+La0 Si0 3.064896 1_655
+La0 Si2 3.106882 1_545
+La0 Si3 3.194253 1_554
+La0 Si2 3.204283 1_555
+La1 Si0 3.037609 1_655
+La1 Si0 3.037609 1_555
+La1 Si1 3.064896 1_656
+La1 Si1 3.064896 1_556
+La1 Si3 3.106882 1_565
+La1 Si2 3.194253 1_555
+La1 Si3 3.204283 1_555
+Ce0 Si3 3.020277 1_455
+Ce0 Si3 3.020277 1_555
+Ce0 Si2 3.045901 1_445
+Ce0 Si2 3.045901 1_545
+Ce0 Si0 3.155178 1_545
+Ce0 Si1 3.158733 1_556
+Ce0 Si0 3.173220 1_555
+Ce1 Si2 3.020277 1_555
+Ce1 Si2 3.020277 1_455
+Ce1 Si3 3.045901 1_564
+Ce1 Si3 3.045901 1_464
+Ce1 Si1 3.155178 1_565
+Ce1 Si0 3.158733 1_555
+Ce1 Si1 3.173220 1_555
+Si0 Si2 2.444213 1_455
+Si0 Si2 2.444213 1_555
+Si1 Si3 2.444213 1_454
+Si1 Si3 2.444213 1_554

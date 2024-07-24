@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_SrMg(RuO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47688594
+_cell_length_b   5.61732407
+_cell_length_c   5.31989206
+_cell_angle_alpha   73.25785426
+_cell_angle_beta   98.49515380
+_cell_angle_gamma   120.85191289
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg(RuO3)2
+_chemical_formula_sum   'Sr1 Mg1 Ru2 O6'
+_cell_volume   134.55292262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.00000000  0.95935703  0.76542972  1
+  Mg  Mg0  1  0.00000000  0.37579674  0.11673765  1
+  Ru  Ru0  1  0.64964668  0.34515963  0.51289866  1
+  Ru  Ru1  1  0.35035332  0.69551294  0.51289866  1
+  O  O0  1  0.32139780  0.38558757  0.33657138  1
+  O  O1  1  0.67860220  0.06418977  0.33657138  1
+  O  O2  1  0.00000000  0.66649684  0.27361914  1
+  O  O3  1  0.56121282  0.51470869  0.73671248  1
+  O  O4  1  0.43878718  0.95349588  0.73671248  1
+  O  O5  1  1.00000000  0.38969492  0.74684844  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.946717 1_454
+Mg0 O0 1.949049 1_555
+Mg0 O1 1.949049 1_455
+Mg0 O2 2.036731 1_555
+O0 Ru0 1.990295 1_555
+O0 Ru1 2.133010 1_555
+O0 Sr0 2.784426 1_445
+O1 Ru1 1.990295 1_545
+O1 Ru0 2.133010 1_555
+O1 Sr0 2.784426 1_545
+O2 Ru1 2.099049 1_555
+O2 Ru0 2.099049 1_455
+O2 Sr0 2.730010 1_454
+O3 Ru0 1.963721 1_555
+O3 Ru1 1.970510 1_555
+O3 Sr0 2.447908 1_555
+O4 Ru1 1.963721 1_555
+O4 Ru0 1.970510 1_565
+O4 Sr0 2.447908 1_455
+O5 Ru0 2.067607 1_555
+O5 Ru1 2.067607 1_655
+O5 Sr0 2.390747 1_545

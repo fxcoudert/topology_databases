@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiAlSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55471648
+_cell_length_b   6.84681982
+_cell_length_c   8.27528724
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlSe2
+_chemical_formula_sum   'Li4 Al4 Se8'
+_cell_volume   371.38630746
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00345576  0.58676778  0.87850744  1
+  Li  Li1  1  0.50345576  0.41323222  0.12149256  1
+  Li  Li2  1  0.50345576  0.91323222  0.37850744  1
+  Li  Li3  1  0.00345576  0.08676778  0.62149256  1
+  Al  Al0  1  0.99934702  0.57371992  0.37397430  1
+  Al  Al1  1  0.49934702  0.42628008  0.62602570  1
+  Al  Al2  1  0.49934702  0.92628008  0.87397430  1
+  Al  Al3  1  0.99934702  0.07371992  0.12602570  1
+  Se  Se0  1  0.11316912  0.90589831  0.36312650  1
+  Se  Se1  1  0.61316912  0.09410169  0.63687350  1
+  Se  Se2  1  0.61316912  0.59410169  0.86312650  1
+  Se  Se3  1  0.11316912  0.40589831  0.13687350  1
+  Se  Se4  1  0.63382810  0.56422365  0.38378930  1
+  Se  Se5  1  0.13382810  0.43577635  0.61621070  1
+  Se  Se6  1  0.13382810  0.93577635  0.88378930  1
+  Se  Se7  1  0.63382810  0.06422365  0.11621070  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se6 2.538179 1_555
+Li0 Se5 2.551558 1_555
+Li0 Se2 2.561875 1_455
+Li0 Se3 2.573329 1_556
+Li1 Se7 2.538179 1_555
+Li1 Se4 2.551558 1_555
+Li1 Se3 2.561875 1_555
+Li1 Se2 2.573329 1_554
+Li2 Se4 2.538179 1_555
+Li2 Se7 2.551558 1_565
+Li2 Se0 2.561875 1_555
+Li2 Se1 2.573329 1_565
+Li3 Se5 2.538179 1_555
+Li3 Se6 2.551558 1_545
+Li3 Se1 2.561875 1_455
+Li3 Se0 2.573329 1_545
+Al0 Se5 2.384821 1_655
+Al0 Se3 2.393047 1_655
+Al0 Se0 2.395291 1_655
+Al0 Se4 2.398131 1_555
+Al1 Se4 2.384821 1_555
+Al1 Se2 2.393047 1_555
+Al1 Se1 2.395291 1_555
+Al1 Se5 2.398131 1_555
+Al2 Se7 2.384821 1_566
+Al2 Se1 2.393047 1_565
+Al2 Se2 2.395291 1_555
+Al2 Se6 2.398131 1_555
+Al3 Se6 2.384821 1_644
+Al3 Se0 2.393047 1_645
+Al3 Se3 2.395291 1_655
+Al3 Se7 2.398131 1_555

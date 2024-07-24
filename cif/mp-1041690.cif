@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ca(SbO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84602960
+_cell_length_b   6.84602960
+_cell_length_c   6.84602960
+_cell_angle_alpha   114.17562425
+_cell_angle_beta   114.17562425
+_cell_angle_gamma   100.42394052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(SbO2)2
+_chemical_formula_sum   'Ca2 Sb4 O8'
+_cell_volume   242.48562430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.75000000  0.50000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.00000000  1
+  Sb  Sb0  1  0.85903500  0.61830300  0.80284400  1
+  Sb  Sb1  1  0.94380900  0.14096500  0.75926800  1
+  Sb  Sb2  1  0.81545900  0.05619100  0.19715600  1
+  Sb  Sb3  1  0.38169700  0.18454100  0.24073200  1
+  O  O0  1  0.66083000  0.29013700  0.23425300  1
+  O  O1  1  0.57342300  0.33917000  0.62930700  1
+  O  O2  1  0.05588400  0.42657700  0.76574600  1
+  O  O3  1  0.31635800  0.45165200  0.24609300  1
+  O  O4  1  0.54834800  0.79444100  0.86470600  1
+  O  O5  1  0.20555900  0.07026500  0.75390700  1
+  O  O6  1  0.70986300  0.94411600  0.37069300  1
+  O  O7  1  0.92973500  0.68364200  0.13529400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O5 2.339713 1_565
+Ca0 O3 2.339713 1_555
+Ca0 O4 2.339713 1_555
+Ca0 O7 2.339713 1_455
+Ca1 O5 2.563127 1_554
+Ca1 O7 2.563127 1_555
+Ca1 O3 2.563127 1_555
+Ca1 O4 2.563127 1_554
+Ca1 O0 2.619488 1_555
+Ca1 O6 2.619488 1_555
+Ca1 O1 2.619488 1_554
+Ca1 O2 2.619488 1_554
+O0 Sb3 1.942191 1_555
+O0 Sb2 2.061749 1_555
+O1 Sb0 1.942191 1_555
+O1 Sb3 2.061749 1_555
+O2 Sb1 1.942195 1_455
+O2 Sb0 2.061750 1_455
+O3 Sb3 1.949324 1_555
+O4 Sb2 1.949324 1_566
+O5 Sb1 1.949324 1_455
+O6 Sb2 1.942191 1_565
+O6 Sb1 2.061749 1_565
+O7 Sb0 1.949324 1_554

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MgSiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98462404
+_cell_length_b   5.26935190
+_cell_length_c   6.46106620
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiN2
+_chemical_formula_sum   'Mg4 Si4 N8'
+_cell_volume   169.70467302
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.98721676  0.58333883  0.87704335  1
+  Mg  Mg1  1  0.48721676  0.91666117  0.37704335  1
+  Mg  Mg2  1  0.48721676  0.41666117  0.12295665  1
+  Mg  Mg3  1  0.98721676  0.08333883  0.62295665  1
+  Si  Si0  1  0.00043167  0.07003279  0.12545064  1
+  Si  Si1  1  0.50043167  0.92996721  0.87454936  1
+  Si  Si2  1  0.50043167  0.42996721  0.62545064  1
+  Si  Si3  1  0.00043167  0.57003279  0.37454936  1
+  N  N0  1  0.41111254  0.60949503  0.84398935  1
+  N  N1  1  0.91111254  0.39050497  0.15601065  1
+  N  N2  1  0.91111254  0.89050497  0.34398935  1
+  N  N3  1  0.41111254  0.10949503  0.65601065  1
+  N  N4  1  0.34725903  0.54835493  0.40506650  1
+  N  N5  1  0.34725903  0.04835493  0.09493350  1
+  N  N6  1  0.84725903  0.95164507  0.90506650  1
+  N  N7  1  0.84725903  0.45164507  0.59493350  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N6 2.070249 1_555
+Mg0 N7 2.071376 1_555
+Mg0 N1 2.103598 1_556
+Mg0 N0 2.128194 1_655
+Mg1 N4 2.070249 1_555
+Mg1 N5 2.071376 1_565
+Mg1 N3 2.103598 1_565
+Mg1 N2 2.128194 1_555
+Mg2 N5 2.070249 1_555
+Mg2 N4 2.071376 1_555
+Mg2 N0 2.103598 1_554
+Mg2 N1 2.128194 1_555
+Mg3 N7 2.070249 1_555
+Mg3 N6 2.071376 1_545
+Mg3 N2 2.103598 1_545
+Mg3 N3 2.128194 1_655
+N0 Si2 1.756945 1_555
+N0 Si1 1.757513 1_555
+N1 Si3 1.756945 1_655
+N1 Si0 1.757513 1_655
+N2 Si0 1.756945 1_665
+N2 Si3 1.757513 1_655
+N3 Si1 1.756945 1_545
+N3 Si2 1.757513 1_555
+N4 Si2 1.731948 1_555
+N4 Si3 1.743757 1_555
+N5 Si1 1.731948 1_544
+N5 Si0 1.743757 1_555
+N6 Si0 1.731948 1_666
+N6 Si1 1.743757 1_555
+N7 Si3 1.731948 1_655
+N7 Si2 1.743757 1_555

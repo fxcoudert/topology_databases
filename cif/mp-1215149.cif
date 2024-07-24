@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ag3BiSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01590005
+_cell_length_b   10.64127844
+_cell_length_c   50.78684799
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.24783500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag3BiSe6
+_chemical_formula_sum   'Ag3 Bi1 Se6'
+_cell_volume   3579.70416701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag2  1  0.00000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.00000000  0.00000000  0.75943859  1
+  Se  Se1  1  0.00000000  0.00000000  0.24056141  1
+  Se  Se2  1  0.69660828  0.74186232  0.00000000  1
+  Se  Se3  1  0.30339172  0.25813768  0.00000000  1
+  Se  Se4  1  -0.04525404  0.25813768  0.00000000  1
+  Se  Se5  1  0.04525404  0.74186232  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag1 Se2 2.487188 1_555
+Ag1 Se3 2.487188 1_555
+Ag2 Se5 2.487188 1_555
+Ag2 Se4 2.487188 1_555
+Bi0 Se3 2.867291 1_555
+Bi0 Se2 2.867291 1_445
+Bi0 Se4 2.867291 1_555
+Bi0 Se5 2.867291 1_545
+Se2 Se5 2.446064 1_655
+Se3 Se4 2.446064 1_555

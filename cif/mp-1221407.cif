@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Mn5Fe5Si6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77926643
+_cell_length_b   6.77926643
+_cell_length_c   4.69522800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.97184228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5Fe5Si6
+_chemical_formula_sum   'Mn5 Fe5 Si6'
+_cell_volume   188.78156782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99801800  0.76521100  0.00000000  1
+  Mn  Mn1  1  0.76521100  0.99801800  0.00000000  1
+  Mn  Mn2  1  0.75696600  0.75696600  0.50000000  1
+  Mn  Mn3  1  0.99926600  0.22844300  0.50000000  1
+  Mn  Mn4  1  0.22844300  0.99926600  0.50000000  1
+  Fe  Fe0  1  0.67055000  0.33254700  0.25048900  1
+  Fe  Fe1  1  0.33254700  0.67055000  0.25048900  1
+  Fe  Fe2  1  0.33254700  0.67055000  0.74951100  1
+  Fe  Fe3  1  0.67055000  0.33254700  0.74951100  1
+  Fe  Fe4  1  0.24988600  0.24988600  0.00000000  1
+  Si  Si0  1  0.59470800  0.59470800  0.00000000  1
+  Si  Si1  1  0.00531000  0.39885800  0.00000000  1
+  Si  Si2  1  0.39885800  0.00531000  0.00000000  1
+  Si  Si3  1  0.40164700  0.40164700  0.50000000  1
+  Si  Si4  1  0.99928500  0.59682700  0.50000000  1
+  Si  Si5  1  0.59682700  0.99928500  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si2 2.397653 1_665
+Mn0 Si0 2.397915 1_555
+Mn0 Si1 2.507923 1_655
+Mn0 Si4 2.612266 1_555
+Mn0 Si4 2.612266 1_554
+Mn1 Si1 2.397653 1_665
+Mn1 Si0 2.397915 1_555
+Mn1 Si2 2.507923 1_565
+Mn1 Si5 2.612266 1_554
+Mn1 Si5 2.612266 1_555
+Mn2 Si5 2.367463 1_555
+Mn2 Si4 2.367463 1_555
+Mn2 Si3 2.446139 1_555
+Mn2 Si0 2.599821 1_556
+Mn2 Si0 2.599821 1_555
+Mn3 Si3 2.391010 1_655
+Mn3 Si5 2.398074 1_545
+Mn3 Si4 2.497311 1_555
+Mn3 Si1 2.608027 1_656
+Mn3 Si1 2.608027 1_655
+Mn4 Si3 2.391010 1_565
+Mn4 Si4 2.398074 1_455
+Mn4 Si5 2.497311 1_555
+Mn4 Si2 2.608027 1_566
+Mn4 Si2 2.608027 1_565
+Fe0 Fe3 2.343022 1_555
+Fe0 Fe3 2.352206 1_554
+Fe0 Si5 2.373321 1_545
+Fe0 Si4 2.383462 1_555
+Fe0 Si0 2.385678 1_555
+Fe0 Si2 2.395563 1_555
+Fe0 Si3 2.396324 1_555
+Fe0 Si1 2.397348 1_655
+Fe1 Fe2 2.343022 1_555
+Fe1 Fe2 2.352206 1_554
+Fe1 Si4 2.373321 1_455
+Fe1 Si5 2.383462 1_555
+Fe1 Si0 2.385678 1_555
+Fe1 Si1 2.395563 1_555
+Fe1 Si3 2.396324 1_555
+Fe1 Si2 2.397348 1_565
+Fe2 Si4 2.373321 1_455
+Fe2 Si5 2.383462 1_555
+Fe2 Si0 2.385678 1_556
+Fe2 Si1 2.395563 1_556
+Fe2 Si3 2.396324 1_555
+Fe2 Si2 2.397348 1_566
+Fe3 Si5 2.373321 1_545
+Fe3 Si4 2.383462 1_555
+Fe3 Si0 2.385678 1_556
+Fe3 Si2 2.395563 1_556
+Fe3 Si3 2.396324 1_555
+Fe3 Si1 2.397348 1_656
+Fe4 Si2 2.321904 1_555
+Fe4 Si1 2.321904 1_555
+Fe4 Si0 2.373874 1_555
+Fe4 Si3 2.569601 1_554
+Fe4 Si3 2.569601 1_555
+Fe4 Mn3 2.860039 1_454
+Fe4 Mn3 2.860039 1_455
+Fe4 Mn4 2.860039 1_544
+Fe4 Mn4 2.860039 1_545
+Fe4 Mn0 2.876893 1_445
+Fe4 Mn1 2.876893 1_445

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_TcAgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28960724
+_cell_length_b   5.28829259
+_cell_length_c   6.86500075
+_cell_angle_alpha   112.65926390
+_cell_angle_beta   112.65172663
+_cell_angle_gamma   89.99232613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcAgO4
+_chemical_formula_sum   'Tc2 Ag2 O8'
+_cell_volume   161.04572529
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.37496378  0.12502782  0.75006061  1
+  Tc  Tc1  1  0.62503622  0.87497218  0.24993939  1
+  Ag  Ag0  1  0.87494469  0.62502756  0.75002221  1
+  Ag  Ag1  1  0.12505531  0.37497244  0.24997779  1
+  O  O0  1  0.22601580  0.07375124  0.91810006  1
+  O  O1  1  0.84437334  0.72625060  0.41821007  1
+  O  O2  1  0.57380468  0.19200863  0.41802481  1
+  O  O3  1  0.69185381  0.34439807  0.91822070  1
+  O  O4  1  0.30814619  0.65560193  0.08177930  1
+  O  O5  1  0.42619532  0.80799137  0.58197519  1
+  O  O6  1  0.15562666  0.27374940  0.58178993  1
+  O  O7  1  0.77398420  0.92624876  0.08189994  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O7 2.480751 1_556
+Ag0 O1 2.481377 1_555
+Ag0 O2 2.481724 1_555
+Ag0 O4 2.482043 1_656
+Ag0 O5 2.579093 1_555
+Ag0 O0 2.579149 1_665
+Ag0 O3 2.579872 1_555
+Ag0 O6 2.579926 1_655
+Ag1 O0 2.480751 1_554
+Ag1 O6 2.481377 1_555
+Ag1 O5 2.481724 1_555
+Ag1 O3 2.482043 1_454
+Ag1 O2 2.579093 1_555
+Ag1 O7 2.579149 1_445
+Ag1 O4 2.579872 1_555
+Ag1 O1 2.579926 1_455
+O0 Tc0 1.722269 1_555
+O1 Tc1 1.722358 1_555
+O2 Tc1 1.722202 1_545
+O3 Tc0 1.722315 1_555
+O4 Tc1 1.722315 1_555
+O5 Tc0 1.722202 1_565
+O6 Tc0 1.722358 1_555
+O7 Tc1 1.722269 1_555

@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_MgAlTe(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89170517
+_cell_length_b   8.27563288
+_cell_length_c   9.01590368
+_cell_angle_alpha   139.15752294
+_cell_angle_beta   109.46175009
+_cell_angle_gamma   93.50669383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAlTe(WO4)2
+_chemical_formula_sum   'Mg1 Al1 Te1 W2 O8'
+_cell_volume   193.85631087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.52896200  0.80009800  0.76314100  1
+  Al  Al0  1  0.60627300  0.71632000  0.08718400  1
+  Te  Te0  1  0.19236500  0.27459600  0.15078600  1
+  W  W0  1  0.88691400  0.36773000  0.61539800  1
+  W  W1  1  0.32964500  0.06105400  0.56707500  1
+  O  O0  1  0.32103600  0.68845100  0.85279200  1
+  O  O1  1  0.61537000  0.45653900  0.50030100  1
+  O  O2  1  0.23435600  0.35334500  0.82893500  1
+  O  O3  1  0.49495400  0.95459400  0.35032900  1
+  O  O4  1  0.56184000  0.02673800  0.73784300  1
+  O  O5  1  0.92159000  0.74285400  0.30726700  1
+  O  O6  1  0.97116800  0.07719700  0.34230500  1
+  O  O7  1  0.70652700  0.45898300  0.82131000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.025915 1_555
+Mg0 O4 2.056824 1_565
+Mg0 O1 2.120923 1_555
+Al0 O6 1.901165 1_565
+Al0 O5 1.903802 1_555
+Al0 O2 1.918573 1_554
+Al0 O7 1.925912 1_554
+Al0 O0 1.929837 1_554
+Al0 O3 1.930661 1_555
+O0 W0 1.954973 1_455
+O1 W0 1.932936 1_555
+O1 Te0 2.138647 1_555
+O2 W1 1.967969 1_555
+O2 W0 2.190984 1_455
+O3 W1 1.945271 1_565
+O3 W0 2.204329 1_565
+O4 W1 1.810227 1_555
+O5 W1 1.820483 1_665
+O6 W0 1.963037 1_555
+O6 W1 2.295619 1_655
+O7 W0 1.961466 1_555
+O7 W1 2.125573 1_555

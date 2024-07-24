@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_NbAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92407211
+_cell_length_b   4.92364625
+_cell_length_c   7.97351100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   61.31579206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlCo
+_chemical_formula_sum   'Nb4 Al4 Co4'
+_cell_volume   169.58925246
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33338300  0.33339100  0.54477700  1
+  Nb  Nb1  1  0.66399800  0.66399100  0.42501000  1
+  Nb  Nb2  1  0.66399800  0.66399100  0.07499000  1
+  Nb  Nb3  1  0.33338300  0.33339100  0.95522300  1
+  Al  Al0  1  0.99187300  0.99163500  0.48829500  1
+  Al  Al1  1  0.99187300  0.99163500  0.01170500  1
+  Al  Al2  1  0.83478000  0.34777100  0.75000000  1
+  Al  Al3  1  0.34779700  0.83476400  0.75000000  1
+  Co  Co0  1  0.83685000  0.83689900  0.75000000  1
+  Co  Co1  1  0.17604700  0.65501700  0.25000000  1
+  Co  Co2  1  0.65482500  0.17620100  0.25000000  1
+  Co  Co3  1  0.17119300  0.17131400  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Nb1 2.959002 1_555
+Nb0 Nb1 3.045380 1_545
+Nb0 Nb1 3.045551 1_455
+Nb0 Nb3 3.272696 1_555
+Nb1 Nb2 2.790888 1_555
+Nb2 Nb3 2.959002 1_554
+Nb2 Nb3 3.045380 1_564
+Nb2 Nb3 3.045551 1_654
+Al0 Co1 2.395136 1_655
+Al0 Co2 2.396376 1_565
+Al0 Co3 2.433593 1_665
+Al0 Co0 2.464907 1_555
+Al0 Al3 2.592882 1_655
+Al0 Al2 2.593327 1_565
+Al0 Nb1 2.822021 1_555
+Al0 Nb0 2.881429 1_655
+Al0 Nb0 2.882736 1_565
+Al0 Nb0 2.928899 1_665
+Al0 Nb1 2.947060 1_655
+Al0 Nb1 2.947803 1_565
+Al1 Co1 2.395136 1_655
+Al1 Co2 2.396376 1_565
+Al1 Co3 2.433593 1_665
+Al1 Co0 2.464907 1_554
+Al1 Al3 2.592882 1_654
+Al1 Al2 2.593327 1_564
+Al1 Nb2 2.822021 1_555
+Al1 Nb3 2.881429 1_654
+Al1 Nb3 2.882736 1_564
+Al1 Nb3 2.928899 1_664
+Al1 Nb2 2.947060 1_655
+Al1 Nb2 2.947803 1_565
+Al2 Co0 2.413202 1_555
+Al2 Al3 2.445390 1_555
+Al2 Co0 2.510477 1_545
+Al2 Al3 2.576069 1_645
+Al2 Nb3 2.922939 1_655
+Al2 Nb0 2.922939 1_655
+Al2 Nb1 2.930751 1_555
+Al2 Nb2 2.930751 1_556
+Al2 Nb0 2.990985 1_555
+Al2 Nb3 2.990985 1_555
+Al3 Co0 2.413195 1_555
+Al3 Co0 2.510911 1_455
+Al3 Nb3 2.922795 1_565
+Al3 Nb0 2.922795 1_565
+Al3 Nb1 2.930763 1_555
+Al3 Nb2 2.930763 1_556
+Al3 Nb3 2.990781 1_555
+Al3 Nb0 2.990781 1_555
+Co0 Nb1 2.976524 1_555
+Co0 Nb2 2.976524 1_556
+Co0 Nb3 2.996960 1_565
+Co0 Nb0 2.996960 1_565
+Co0 Nb0 2.997127 1_655
+Co0 Nb3 2.997127 1_655
+Co1 Co3 2.393147 1_555
+Co1 Co2 2.404260 1_555
+Co1 Co3 2.530678 1_565
+Co1 Co2 2.617200 1_465
+Co1 Nb0 2.730312 1_555
+Co1 Nb3 2.730312 1_554
+Co1 Nb1 2.797164 1_555
+Co1 Nb2 2.797164 1_555
+Co1 Nb2 2.863487 1_455
+Co1 Nb1 2.863487 1_455
+Co2 Co3 2.393081 1_555
+Co2 Co3 2.531172 1_655
+Co2 Nb0 2.729966 1_555
+Co2 Nb3 2.729966 1_554
+Co2 Nb2 2.796718 1_555
+Co2 Nb1 2.796718 1_555
+Co2 Nb1 2.863588 1_545
+Co2 Nb2 2.863588 1_545
+Co3 Nb3 2.722289 1_554
+Co3 Nb0 2.722289 1_555
+Co3 Nb1 2.872843 1_455
+Co3 Nb2 2.872843 1_455
+Co3 Nb2 2.873394 1_545
+Co3 Nb1 2.873394 1_545

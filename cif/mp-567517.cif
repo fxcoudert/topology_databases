@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_Er5(CoTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75718886
+_cell_length_b   7.75718886
+_cell_length_c   14.84006191
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.92389974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er5(CoTe)2
+_chemical_formula_sum   'Er10 Co4 Te4'
+_cell_volume   433.96496932
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.60465061  0.39534939  0.25000000  1
+  Er  Er1  1  0.74226213  0.25773787  0.63208917  1
+  Er  Er2  1  0.96197668  0.03802332  0.12593153  1
+  Er  Er3  1  0.03802332  0.96197668  0.87406847  1
+  Er  Er4  1  0.39534939  0.60465061  0.75000000  1
+  Er  Er5  1  0.96197668  0.03802332  0.37406847  1
+  Er  Er6  1  0.03802332  0.96197668  0.62593153  1
+  Er  Er7  1  0.25773787  0.74226213  0.13208917  1
+  Er  Er8  1  0.25773787  0.74226213  0.36791083  1
+  Er  Er9  1  0.74226213  0.25773787  0.86791083  1
+  Co  Co0  1  0.41300600  0.58699400  0.25000000  1
+  Co  Co1  1  0.58699400  0.41300600  0.75000000  1
+  Co  Co2  1  0.82318874  0.17681126  0.25000000  1
+  Co  Co3  1  0.17681126  0.82318874  0.75000000  1
+  Te  Te0  1  0.61889781  0.38110219  0.03781146  1
+  Te  Te1  1  0.61889781  0.38110219  0.46218854  1
+  Te  Te2  1  0.38110219  0.61889781  0.53781146  1
+  Te  Te3  1  0.38110219  0.61889781  0.96218854  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Te1 3.156152 1_555
+Er0 Te0 3.156152 1_555
+Er1 Te1 3.128803 1_555
+Er1 Te2 3.177512 1_545
+Er1 Te2 3.177512 1_655
+Er2 Te0 3.324950 1_545
+Er2 Te0 3.324950 1_655
+Er2 Te3 3.342381 1_544
+Er2 Te3 3.342381 1_654
+Er3 Te3 3.324950 1_565
+Er3 Te3 3.324950 1_455
+Er3 Te0 3.342381 1_566
+Er3 Te0 3.342381 1_456
+Er4 Te3 3.156152 1_555
+Er4 Te2 3.156152 1_555
+Er5 Te1 3.324950 1_545
+Er5 Te1 3.324950 1_655
+Er5 Te2 3.342381 1_545
+Er5 Te2 3.342381 1_655
+Er6 Te2 3.324950 1_565
+Er6 Te2 3.324950 1_455
+Er6 Te1 3.342381 1_565
+Er6 Te1 3.342381 1_455
+Er7 Te3 3.128803 1_554
+Er7 Te0 3.177512 1_455
+Er7 Te0 3.177512 1_565
+Er8 Te2 3.128803 1_555
+Er8 Te1 3.177512 1_455
+Er8 Te1 3.177512 1_565
+Er9 Te0 3.128803 1_556
+Er9 Te3 3.177512 1_545
+Er9 Te3 3.177512 1_655
+Co0 Co2 2.368773 1_565
+Co0 Co2 2.368773 1_455
+Co0 Er2 2.778942 1_565
+Co0 Er5 2.778942 1_565
+Co0 Er2 2.778942 1_455
+Co0 Er5 2.778942 1_455
+Co0 Er0 2.878047 1_555
+Co0 Er8 2.915289 1_555
+Co0 Er7 2.915289 1_555
+Co1 Co3 2.368773 1_655
+Co1 Co3 2.368773 1_545
+Co1 Er3 2.778942 1_545
+Co1 Er6 2.778942 1_545
+Co1 Er6 2.778942 1_655
+Co1 Er3 2.778942 1_655
+Co1 Er4 2.878047 1_555
+Co1 Er9 2.915289 1_555
+Co1 Er1 2.915289 1_555
+Co2 Er5 2.781028 1_555
+Co2 Er2 2.781028 1_555
+Co2 Er7 2.796364 1_655
+Co2 Er8 2.796364 1_655
+Co2 Er8 2.796364 1_545
+Co2 Er7 2.796364 1_545
+Co2 Er0 3.281924 1_555
+Co3 Er6 2.781028 1_555
+Co3 Er3 2.781028 1_555
+Co3 Er1 2.796364 1_565
+Co3 Er9 2.796364 1_565
+Co3 Er1 2.796364 1_455
+Co3 Er9 2.796364 1_455
+Co3 Er4 3.281924 1_555

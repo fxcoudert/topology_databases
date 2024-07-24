@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_GdGaPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62480904
+_cell_length_b   7.06552483
+_cell_length_c   7.44762457
+_cell_angle_alpha   90.00031831
+_cell_angle_beta   90.00074134
+_cell_angle_gamma   90.00045293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdGaPd2
+_chemical_formula_sum   'Gd4 Ga4 Pd8'
+_cell_volume   295.98519322
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.35362543  0.24999857  0.53142774  1
+  Gd  Gd1  1  0.14641503  0.25000132  0.03131462  1
+  Gd  Gd2  1  0.64640828  0.75000041  0.46868462  1
+  Gd  Gd3  1  0.85361388  0.75000114  0.96857565  1
+  Ga  Ga0  1  0.64705739  0.24999781  0.88265909  1
+  Ga  Ga1  1  0.85293198  0.24999782  0.38265211  1
+  Ga  Ga2  1  0.35290759  0.75000075  0.11732803  1
+  Ga  Ga3  1  0.14704546  0.74999819  0.61735438  1
+  Pd  Pd0  1  0.91083192  0.05150952  0.68032399  1
+  Pd  Pd1  1  0.58915742  0.44848364  0.18033795  1
+  Pd  Pd2  1  0.08917504  0.55151872  0.31967296  1
+  Pd  Pd3  1  0.41082426  0.94849418  0.81966828  1
+  Pd  Pd4  1  0.08917495  0.94848302  0.31967130  1
+  Pd  Pd5  1  0.41084561  0.55150764  0.81967271  1
+  Pd  Pd6  1  0.91082868  0.44848823  0.68032378  1
+  Pd  Pd7  1  0.58915811  0.05152005  0.18033178  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 Pd4 3.039425 1_545
+Gd0 Pd2 3.039470 1_555
+Gd0 Pd3 3.041386 1_545
+Gd0 Pd5 3.041425 1_555
+Gd0 Pd0 3.065907 1_455
+Gd0 Pd6 3.065935 1_455
+Gd0 Pd1 3.249475 1_555
+Gd0 Pd7 3.249490 1_555
+Gd1 Pd3 3.038881 1_544
+Gd1 Pd5 3.038914 1_554
+Gd1 Pd2 3.042083 1_555
+Gd1 Pd4 3.042092 1_545
+Gd1 Pd1 3.065965 1_555
+Gd1 Pd7 3.065972 1_555
+Gd1 Pd0 3.248978 1_454
+Gd1 Pd6 3.248993 1_454
+Gd2 Pd0 3.038867 1_565
+Gd2 Pd6 3.038901 1_555
+Gd2 Pd1 3.042016 1_555
+Gd2 Pd7 3.042083 1_565
+Gd2 Pd4 3.066079 1_655
+Gd2 Pd2 3.066084 1_655
+Gd2 Pd5 3.248959 1_555
+Gd2 Pd3 3.248981 1_555
+Gd3 Pd7 3.039492 1_566
+Gd3 Pd1 3.039506 1_556
+Gd3 Pd0 3.041478 1_565
+Gd3 Pd6 3.041487 1_555
+Gd3 Pd5 3.065795 1_555
+Gd3 Pd3 3.065927 1_555
+Gd3 Pd4 3.249527 1_656
+Gd3 Pd2 3.249560 1_656
+Ga0 Pd6 2.537507 1_555
+Ga0 Pd0 2.537512 1_555
+Ga0 Pd5 2.554149 1_555
+Ga0 Pd3 2.554160 1_545
+Ga0 Pd7 2.643403 1_556
+Ga0 Pd1 2.643462 1_556
+Ga0 Gd1 3.019100 1_656
+Ga0 Gd1 3.025851 1_556
+Ga0 Gd0 3.093000 1_555
+Ga1 Pd7 2.537367 1_555
+Ga1 Pd1 2.537396 1_555
+Ga1 Pd4 2.554264 1_645
+Ga1 Pd2 2.554285 1_655
+Ga1 Pd6 2.643422 1_555
+Ga1 Pd0 2.643434 1_555
+Ga1 Gd0 3.019188 1_555
+Ga1 Gd0 3.026419 1_655
+Ga1 Gd1 3.093858 1_655
+Ga2 Pd4 2.537387 1_555
+Ga2 Pd2 2.537389 1_555
+Ga2 Pd7 2.554321 1_565
+Ga2 Pd1 2.554336 1_555
+Ga2 Pd5 2.643369 1_554
+Ga2 Pd3 2.643393 1_554
+Ga2 Gd3 3.019030 1_454
+Ga2 Gd3 3.026450 1_554
+Ga2 Gd2 3.093995 1_555
+Ga3 Pd3 2.537426 1_555
+Ga3 Pd5 2.537517 1_555
+Ga3 Pd6 2.554130 1_455
+Ga3 Pd0 2.554142 1_465
+Ga3 Pd2 2.643424 1_555
+Ga3 Pd4 2.643470 1_555
+Ga3 Gd2 3.019193 1_555
+Ga3 Gd2 3.025836 1_455
+Ga3 Gd3 3.092972 1_455

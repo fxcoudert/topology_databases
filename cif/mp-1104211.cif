@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_BaPdO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25322200
+_cell_length_b   6.13383200
+_cell_length_c   7.14631220
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.77584902
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPdO5
+_chemical_formula_sum   'Ba2 Pd2 O10'
+_cell_volume   230.00100482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.48543800  0.00000000  1
+  Ba  Ba1  1  0.00000000  0.55601000  0.50000000  1
+  Pd  Pd0  1  0.75346100  0.02260200  0.24952700  1
+  Pd  Pd1  1  0.24653900  0.02260200  0.75047300  1
+  O  O0  1  0.10120000  0.29436400  0.79788100  1
+  O  O1  1  0.89880000  0.29436400  0.20211900  1
+  O  O2  1  0.39289000  0.75007200  0.70373400  1
+  O  O3  1  0.60711000  0.75007200  0.29626600  1
+  O  O4  1  0.43707200  0.19109200  0.33776100  1
+  O  O5  1  0.56292800  0.19109200  0.66223900  1
+  O  O6  1  0.06828700  0.85222700  0.16085400  1
+  O  O7  1  0.93171300  0.85222700  0.83914600  1
+  O  O8  1  0.00000000  0.71948300  0.00000000  1
+  O  O9  1  0.50000000  0.32355500  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O3 2.705298 1_555
+Ba0 O2 2.705298 1_554
+Ba0 O0 2.748781 1_554
+Ba0 O1 2.748781 1_555
+Ba0 O8 2.993328 1_555
+Ba0 O8 2.993328 1_655
+Ba0 O5 3.045070 1_554
+Ba0 O4 3.045070 1_555
+Ba1 O0 2.698198 1_555
+Ba1 O1 2.698198 1_455
+Ba1 O3 2.739614 1_455
+Ba1 O2 2.739614 1_555
+Ba1 O9 2.988663 1_455
+Ba1 O9 2.988663 1_555
+Ba1 O6 3.064022 1_555
+Ba1 O7 3.064022 1_455
+O0 Pd1 1.871219 1_555
+O1 Pd0 1.871219 1_555
+O2 Pd1 1.876682 1_565
+O3 Pd0 1.876682 1_565
+O4 O9 1.441026 1_555
+O4 Pd0 2.080780 1_555
+O5 O9 1.441026 1_555
+O5 Pd1 2.080780 1_555
+O6 O8 1.439824 1_555
+O6 Pd0 2.080966 1_465
+O7 O8 1.439824 1_656
+O7 Pd1 2.080966 1_665

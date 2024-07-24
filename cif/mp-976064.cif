@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Ho6CoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27142824
+_cell_length_b   8.27142824
+_cell_length_c   3.93667791
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00002066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho6CoTe2
+_chemical_formula_sum   'Ho6 Co1 Te2'
+_cell_volume   233.24988457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.23431090  0.00000000  -0.00000000  1
+  Ho  Ho1  1  0.00000000  0.23431090  -0.00000000  1
+  Ho  Ho2  1  0.76568910  0.76568910  0.00000000  1
+  Ho  Ho3  1  0.60162846  -0.00000000  0.50000000  1
+  Ho  Ho4  1  -0.00000000  0.60162746  0.50000000  1
+  Ho  Ho5  1  0.39837254  0.39837254  0.50000000  1
+  Co  Co0  1  -0.00000000  0.00000000  0.50000000  1
+  Te  Te0  1  0.33333300  0.66666700  0.00000000  1
+  Te  Te1  1  0.66666700  0.33333300  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Te0 3.245138 1_545
+Ho0 Te1 3.245142 1_555
+Ho1 Te1 3.245138 1_455
+Ho1 Te0 3.245142 1_555
+Ho2 Te1 3.245145 1_555
+Ho2 Te0 3.245145 1_555
+Ho3 Te1 3.206610 1_555
+Ho3 Te1 3.206610 1_556
+Ho3 Te0 3.206611 1_546
+Ho3 Te0 3.206611 1_545
+Ho4 Te0 3.206607 1_555
+Ho4 Te0 3.206607 1_556
+Ho4 Te1 3.206609 1_456
+Ho4 Te1 3.206609 1_455
+Ho5 Te0 3.206614 1_555
+Ho5 Te0 3.206614 1_556
+Ho5 Te1 3.206614 1_555
+Ho5 Te1 3.206614 1_556
+Co0 Ho2 2.762342 1_446
+Co0 Ho2 2.762342 1_445
+Co0 Ho0 2.762342 1_556
+Co0 Ho0 2.762342 1_555
+Co0 Ho1 2.762342 1_555
+Co0 Ho1 2.762342 1_556
+Co0 Ho3 3.295102 1_455
+Co0 Ho5 3.295109 1_555
+Co0 Ho4 3.295110 1_545

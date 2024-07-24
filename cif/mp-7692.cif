@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Al(CrB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.90835497
+_cell_length_b   2.90931293
+_cell_length_c   5.68193713
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.82868245
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(CrB)2
+_chemical_formula_sum   'Al1 Cr2 B2'
+_cell_volume   46.47548390
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  -0.00000519  -0.00000000  -0.00001039  1
+  Cr  Cr0  1  0.35185486  0.50000000  0.70370971  1
+  Cr  Cr1  1  0.64814189  0.50000000  0.29628477  1
+  B  B0  1  0.20504694  -0.00000000  0.41009587  1
+  B  B1  1  0.79496151  -0.00000000  0.58992103  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 B1 2.252385 1_454
+Al0 B0 2.252592 1_555
+B0 B1 1.757902 1_455
+B0 B1 1.757911 1_555
+B0 Cr1 2.149754 1_455
+B0 Cr1 2.149754 1_445
+B0 Cr1 2.149756 1_555
+B0 Cr1 2.149756 1_545
+B0 Cr0 2.171851 1_545
+B0 Cr0 2.171851 1_555
+B1 Cr0 2.149717 1_645
+B1 Cr0 2.149717 1_655
+B1 Cr0 2.149721 1_545
+B1 Cr0 2.149721 1_555
+B1 Cr1 2.171942 1_555
+B1 Cr1 2.171942 1_545

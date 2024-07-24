@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_NbBr2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92237750
+_cell_length_b   7.06102318
+_cell_length_c   7.46907643
+_cell_angle_alpha   104.61070109
+_cell_angle_beta   105.27556480
+_cell_angle_gamma   89.99233088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbBr2O
+_chemical_formula_sum   'Nb2 Br4 O2'
+_cell_volume   192.61378742
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00842811  0.71407122  0.99954691  1
+  Nb  Nb1  1  0.00918168  0.28592769  0.00043733  1
+  Br  Br0  1  0.92296142  0.93237680  0.74420585  1
+  Br  Br1  1  0.89447536  0.41823497  0.69711224  1
+  Br  Br2  1  0.19855419  0.58201658  0.30277636  1
+  Br  Br3  1  0.17893889  0.06755587  0.25600632  1
+  O  O0  1  0.53948520  0.72026401  0.99888866  1
+  O  O1  1  0.54077416  0.27954985  0.00102633  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 O0 1.838626 1_455
+Nb0 O0 2.084798 1_555
+Nb1 O1 1.839020 1_455
+Nb1 O1 2.084456 1_555
+Br0 Nb1 2.694077 1_666
+Br0 Nb0 2.696639 1_655
+Br1 Nb1 2.595869 1_656
+Br1 Nb0 2.598779 1_655
+Br2 Nb0 2.594294 1_554
+Br2 Nb1 2.599403 1_555
+Br3 Nb0 2.694381 1_544
+Br3 Nb1 2.698068 1_555

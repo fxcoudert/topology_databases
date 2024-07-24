@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_CeSi2Mo2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21757242
+_cell_length_b   4.21753867
+_cell_length_c   5.36309027
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSi2Mo2C
+_chemical_formula_sum   'Ce1 Si2 Mo2 C1'
+_cell_volume   95.39744182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  0.00000000  0.50000000  1
+  Si  Si0  1  0.50000000  0.50000000  0.72117256  1
+  Si  Si1  1  0.50000000  0.50000000  0.27882744  1
+  Mo  Mo0  1  0.50000000  0.00000000  0.00000000  1
+  Mo  Mo1  1  -0.00000000  0.50000000  0.00000000  1
+  C  C0  1  -0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Si1 3.209499 1_545
+Ce0 Si1 3.209499 1_555
+Ce0 Si0 3.209499 1_455
+Ce0 Si1 3.209499 1_455
+Ce0 Si0 3.209499 1_545
+Ce0 Si0 3.209499 1_445
+Ce0 Si1 3.209499 1_445
+Ce0 Si0 3.209499 1_555
+Si0 Si1 2.372337 1_555
+Mo0 Si1 2.585161 1_545
+Mo0 Si0 2.585161 1_554
+Mo0 Si1 2.585161 1_555
+Mo0 Si0 2.585161 1_544
+Mo1 Si1 2.585175 1_455
+Mo1 Si1 2.585175 1_555
+Mo1 Si0 2.585175 1_554
+Mo1 Si0 2.585175 1_454
+C0 Mo1 2.108769 1_545
+C0 Mo1 2.108769 1_555
+C0 Mo0 2.108786 1_455
+C0 Mo0 2.108786 1_555
+C0 Ce0 2.681545 1_554
+C0 Ce0 2.681545 1_555

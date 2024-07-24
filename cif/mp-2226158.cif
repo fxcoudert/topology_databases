@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_MgFeCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79767209
+_cell_length_b   3.79828168
+_cell_length_c   6.23087807
+_cell_angle_alpha   90.03674136
+_cell_angle_beta   89.90316037
+_cell_angle_gamma   120.01077269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFeCuS2
+_chemical_formula_sum   'Mg1 Fe1 Cu1 S2'
+_cell_volume   77.82815399
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99985865  0.00004509  0.50285368  1
+  Fe  Fe0  1  0.33258933  0.66660497  0.72824102  1
+  Cu  Cu0  1  0.66830008  0.33333388  0.14236897  1
+  S  S0  1  0.33354245  0.66677432  0.31114356  1
+  S  S1  1  0.66571049  0.33324173  0.78414277  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 2.496540 1_645
+Mg0 S0 2.496895 1_655
+Mg0 S0 2.497299 1_545
+Mg0 S1 2.806897 1_655
+Mg0 S1 2.807128 1_545
+Mg0 S1 2.807141 1_555
+Fe0 S1 2.219992 1_455
+Fe0 S1 2.220178 1_565
+Fe0 S1 2.220244 1_555
+Fe0 S0 2.598880 1_555
+Fe0 Mg0 2.603377 1_565
+Fe0 Mg0 2.603857 1_455
+Fe0 Mg0 2.604245 1_465
+Cu0 S1 2.232101 1_554
+Cu0 S0 2.428796 1_655
+Cu0 S0 2.431297 1_545
+Cu0 S0 2.435265 1_555

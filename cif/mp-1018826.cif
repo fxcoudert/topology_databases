@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_NdGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45474634
+_cell_length_b   4.45436448
+_cell_length_c   7.90849550
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00282099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdGeAu
+_chemical_formula_sum   'Nd2 Ge2 Au2'
+_cell_volume   135.90044790
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000187  0.00000274  0.75063475  1
+  Nd  Nd1  1  0.99999813  0.99999726  0.25063475  1
+  Ge  Ge0  1  0.66665246  0.33330592  0.97155323  1
+  Ge  Ge1  1  0.33334754  0.66669408  0.47155323  1
+  Au  Au0  1  0.66662562  0.33325223  0.51781102  1
+  Au  Au1  1  0.33337438  0.66674777  0.01781102  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Nd0 3.109097 1_665
+Ge0 Nd0 3.109132 1_555
+Ge0 Nd0 3.109138 1_655
+Ge0 Nd1 3.388991 1_556
+Ge0 Nd1 3.389049 1_546
+Ge0 Nd1 3.389050 1_446
+Ge1 Nd1 3.109097 1_445
+Ge1 Nd1 3.109132 1_555
+Ge1 Nd1 3.109138 1_455
+Ge1 Nd0 3.388991 1_555
+Ge1 Nd0 3.389049 1_565
+Ge1 Nd0 3.389050 1_665
+Au0 Ge1 2.597131 1_545
+Au0 Ge1 2.597967 1_555
+Au0 Ge1 2.597975 1_655
+Au0 Nd0 3.162914 1_555
+Au0 Nd0 3.162920 1_655
+Au0 Nd0 3.163132 1_665
+Au0 Nd1 3.328419 1_545
+Au0 Nd1 3.328420 1_445
+Au0 Nd1 3.328600 1_555
+Au1 Ge0 2.597131 1_564
+Au1 Ge0 2.597967 1_554
+Au1 Ge0 2.597975 1_454
+Au1 Nd1 3.162914 1_555
+Au1 Nd1 3.162920 1_455
+Au1 Nd1 3.163132 1_445
+Au1 Nd0 3.328419 1_564
+Au1 Nd0 3.328420 1_664
+Au1 Nd0 3.328600 1_554

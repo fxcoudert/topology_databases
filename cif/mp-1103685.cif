@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Rb(MoSe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41673010
+_cell_length_b   9.41673010
+_cell_length_c   4.49462114
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb(MoSe)3
+_chemical_formula_sum   'Rb2 Mo6 Se6'
+_cell_volume   345.16280743
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33333300  0.66666700  0.25000000  1
+  Rb  Rb1  1  0.66666700  0.33333300  0.75000000  1
+  Mo  Mo0  1  0.82661022  0.97321972  0.25000000  1
+  Mo  Mo1  1  0.14660949  0.17338978  0.25000000  1
+  Mo  Mo2  1  0.02678028  0.85339051  0.25000000  1
+  Mo  Mo3  1  0.17338978  0.02678028  0.75000000  1
+  Mo  Mo4  1  0.97321972  0.14660949  0.75000000  1
+  Mo  Mo5  1  0.85339051  0.82661022  0.75000000  1
+  Se  Se0  1  0.34695117  0.05470276  0.25000000  1
+  Se  Se1  1  0.94529724  0.29224841  0.25000000  1
+  Se  Se2  1  0.70775159  0.65304883  0.25000000  1
+  Se  Se3  1  0.65304883  0.94529724  0.75000000  1
+  Se  Se4  1  0.29224841  0.34695117  0.75000000  1
+  Se  Se5  1  0.05470276  0.70775159  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Se0 3.591626 1_565
+Rb0 Se1 3.591631 1_455
+Rb0 Se2 3.591636 1_555
+Rb0 Se5 3.619314 1_555
+Rb0 Se5 3.619314 1_554
+Rb0 Se3 3.619318 1_555
+Rb0 Se3 3.619318 1_554
+Rb0 Se4 3.619321 1_554
+Rb0 Se4 3.619321 1_555
+Rb1 Se3 3.591626 1_545
+Rb1 Se5 3.591631 1_655
+Rb1 Se4 3.591636 1_555
+Rb1 Se1 3.619314 1_555
+Rb1 Se1 3.619314 1_556
+Rb1 Se0 3.619318 1_555
+Rb1 Se0 3.619318 1_556
+Rb1 Se2 3.619321 1_556
+Rb1 Se2 3.619321 1_555
+Mo0 Se1 2.629972 1_565
+Mo0 Se2 2.639738 1_555
+Mo0 Se3 2.713116 1_555
+Mo0 Se3 2.713116 1_554
+Mo1 Se0 2.629972 1_555
+Mo1 Se1 2.639738 1_455
+Mo1 Se4 2.713116 1_554
+Mo1 Se4 2.713116 1_555
+Mo2 Se2 2.629973 1_455
+Mo2 Se0 2.639738 1_565
+Mo2 Se5 2.713116 1_554
+Mo2 Se5 2.713116 1_555
+Mo3 Se5 2.629972 1_545
+Mo3 Se4 2.639738 1_555
+Mo3 Se0 2.713116 1_555
+Mo3 Se0 2.713116 1_556
+Mo4 Se4 2.629973 1_655
+Mo4 Se3 2.639738 1_545
+Mo4 Se1 2.713116 1_555
+Mo4 Se1 2.713116 1_556
+Mo5 Se3 2.629972 1_555
+Mo5 Se5 2.639738 1_655
+Mo5 Se2 2.713116 1_556
+Mo5 Se2 2.713116 1_555

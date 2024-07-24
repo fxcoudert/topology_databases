@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_La(BOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86143079
+_cell_length_b   6.06763175
+_cell_length_c   5.65142316
+_cell_angle_alpha   71.57550500
+_cell_angle_beta   57.03268425
+_cell_angle_gamma   51.39181075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(BOs)2
+_chemical_formula_sum   'La2 B4 Os4'
+_cell_volume   154.15428957
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  -0.00000000  0.00000000  1
+  La  La1  1  0.25000000  0.25000000  0.25000000  1
+  B  B0  1  0.31911204  0.68088796  0.31911204  1
+  B  B1  1  0.68088796  0.31911204  0.68088796  1
+  B  B2  1  0.56911204  0.93088796  0.56911204  1
+  B  B3  1  0.93088796  0.56911204  0.93088796  1
+  Os  Os0  1  0.63684448  0.63684448  0.36315552  1
+  Os  Os1  1  0.36315552  0.36315552  0.63684448  1
+  Os  Os2  1  0.61315552  0.61315552  0.88684448  1
+  Os  Os3  1  0.88684448  0.88684448  0.61315552  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Os2 3.052077 1_544
+La0 Os3 3.052077 1_445
+La0 Os3 3.052077 1_444
+La0 Os2 3.052077 1_454
+La1 Os1 3.052077 1_554
+La1 Os0 3.052077 1_545
+La1 Os0 3.052077 1_455
+La1 Os1 3.052077 1_555
+B0 Os3 2.107870 1_455
+B0 Os2 2.107870 1_554
+B0 Os1 2.169711 1_555
+B0 Os0 2.169711 1_555
+B0 La0 2.931723 1_565
+B0 La1 3.099547 1_555
+B0 La1 3.099547 1_565
+B1 Os3 2.107870 1_545
+B1 Os2 2.107870 1_555
+B1 Os1 2.169711 1_555
+B1 Os0 2.169711 1_555
+B1 La0 2.931723 1_656
+B1 La1 3.099547 1_556
+B1 La1 3.099547 1_655
+B2 Os0 2.107870 1_555
+B2 Os1 2.107870 1_565
+B2 Os2 2.169711 1_555
+B2 Os3 2.169711 1_555
+B2 La1 2.931723 1_565
+B2 La0 3.099547 1_566
+B2 La0 3.099547 1_665
+B3 Os1 2.107870 1_655
+B3 Os0 2.107870 1_556
+B3 Os3 2.169711 1_555
+B3 Os2 2.169711 1_555
+B3 La1 2.931723 1_656
+B3 La0 3.099547 1_656
+B3 La0 3.099547 1_666

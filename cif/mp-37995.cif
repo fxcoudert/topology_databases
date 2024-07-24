@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Ti3Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92000854
+_cell_length_b   5.92000854
+_cell_length_c   5.92000918
+_cell_angle_alpha   61.04571012
+_cell_angle_beta   61.04571012
+_cell_angle_gamma   61.04571202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Zn2O8
+_chemical_formula_sum   'Ti3 Zn2 O8'
+_cell_volume   150.16195938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.50000000  1
+  Ti  Ti2  1  0.00000000  0.50000000  0.00000000  1
+  Zn  Zn0  1  0.61556200  0.61556200  0.61556200  1
+  Zn  Zn1  1  0.38443800  0.38443800  0.38443800  1
+  O  O0  1  0.25248700  0.78739600  0.25248700  1
+  O  O1  1  0.25248700  0.25248700  0.78739600  1
+  O  O2  1  0.78739600  0.25248700  0.25248700  1
+  O  O3  1  0.24321500  0.24321500  0.24321500  1
+  O  O4  1  0.75678500  0.75678500  0.75678500  1
+  O  O5  1  0.74751300  0.74751300  0.21260400  1
+  O  O6  1  0.21260400  0.74751300  0.74751300  1
+  O  O7  1  0.74751300  0.21260400  0.74751300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Ti0 1.951637 1_565
+O0 Ti1 1.951637 1_565
+O0 Zn1 1.973174 1_555
+O1 Ti2 1.951637 1_556
+O1 Ti0 1.951637 1_556
+O1 Zn1 1.973174 1_555
+O2 Ti2 1.951637 1_655
+O2 Ti1 1.951637 1_655
+O2 Zn1 1.973174 1_555
+O3 Zn1 2.031541 1_555
+O3 Ti1 2.055707 1_555
+O3 Ti0 2.055707 1_555
+O3 Ti2 2.055707 1_555
+O4 Zn0 2.031541 1_555
+O4 Ti1 2.055707 1_665
+O4 Ti0 2.055707 1_566
+O4 Ti2 2.055707 1_656
+O5 Ti2 1.951637 1_655
+O5 Ti0 1.951637 1_565
+O5 Zn0 1.973174 1_555
+O6 Ti2 1.951637 1_556
+O6 Ti1 1.951637 1_565
+O6 Zn0 1.973174 1_555
+O7 Ti0 1.951637 1_556
+O7 Ti1 1.951637 1_655
+O7 Zn0 1.973174 1_555

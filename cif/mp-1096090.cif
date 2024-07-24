@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaTl2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.24279284
+_cell_length_b   12.85156902
+_cell_length_c   12.85156915
+_cell_angle_alpha   60.99476965
+_cell_angle_beta   61.55499058
+_cell_angle_gamma   61.55498851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTl2Hg
+_chemical_formula_sum   'Na1 Tl2 Hg1'
+_cell_volume   1473.67352516
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.00000000  -0.00000000  1
+  Tl  Tl0  1  0.73988967  1.00000000  0.00000000  1
+  Tl  Tl1  1  0.26011033  0.00000000  1.00000000  1
+  Hg  Hg0  1  0.50000000  0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Tl0 3.184477 1_445
+Na0 Tl1 3.184477 1_554
+Hg0 Tl1 2.936920 1_554
+Hg0 Tl0 2.936920 1_545

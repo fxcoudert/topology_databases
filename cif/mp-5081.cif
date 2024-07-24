@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_SmCuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44474124
+_cell_length_b   6.81511988
+_cell_length_c   7.10391541
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.53854003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCuS2
+_chemical_formula_sum   'Sm4 Cu4 S8'
+_cell_volume   309.31912476
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.19112927  0.80079422  0.94976218  1
+  Sm  Sm1  1  0.80887073  0.69920578  0.44976218  1
+  Sm  Sm2  1  0.80887073  0.19920578  0.05023782  1
+  Sm  Sm3  1  0.19112927  0.30079422  0.55023782  1
+  Cu  Cu0  1  0.57643598  0.05078262  0.66100604  1
+  Cu  Cu1  1  0.42356402  0.94921738  0.33899396  1
+  Cu  Cu2  1  0.42356402  0.44921738  0.16100604  1
+  Cu  Cu3  1  0.57643598  0.55078262  0.83899396  1
+  S  S0  1  0.91720142  0.00200886  0.72600681  1
+  S  S1  1  0.08279858  0.49799114  0.22600681  1
+  S  S2  1  0.08279858  0.99799114  0.27399319  1
+  S  S3  1  0.91720142  0.50200886  0.77399319  1
+  S  S4  1  0.58904221  0.77743610  0.11455314  1
+  S  S5  1  0.58904221  0.27743610  0.38544686  1
+  S  S6  1  0.41095779  0.22256390  0.88544686  1
+  S  S7  1  0.41095779  0.72256390  0.61455314  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 S0 2.310477 1_555
+Cu0 S6 2.318974 1_555
+Cu0 S7 2.371458 1_545
+Cu0 S5 2.488308 1_555
+Cu1 S2 2.310477 1_555
+Cu1 S4 2.318974 1_555
+Cu1 S5 2.371458 1_565
+Cu1 S7 2.488308 1_555
+Cu2 S1 2.310477 1_555
+Cu2 S5 2.318974 1_555
+Cu2 S4 2.371458 1_555
+Cu2 S6 2.488308 1_554
+Cu3 S3 2.310477 1_555
+Cu3 S7 2.318974 1_555
+Cu3 S6 2.371458 1_555
+Cu3 S4 2.488308 1_556
+S0 Sm2 2.800889 1_556
+S0 Sm3 2.806931 1_655
+S0 Sm0 2.856384 1_645
+S0 Sm1 2.866896 1_545
+S1 Sm3 2.800889 1_555
+S1 Sm2 2.806931 1_455
+S1 Sm1 2.856384 1_455
+S1 Sm0 2.866896 1_554
+S2 Sm0 2.800889 1_554
+S2 Sm1 2.806931 1_455
+S2 Sm2 2.856384 1_465
+S2 Sm3 2.866896 1_565
+S3 Sm1 2.800889 1_555
+S3 Sm0 2.806931 1_655
+S3 Sm3 2.856384 1_655
+S3 Sm2 2.866896 1_556
+S4 Sm0 2.842408 1_554
+S4 Sm1 2.856599 1_555
+S4 Sm2 3.067511 1_565
+S5 Sm3 2.842408 1_555
+S5 Sm2 2.856599 1_555
+S5 Sm1 3.067511 1_555
+S6 Sm2 2.842408 1_556
+S6 Sm3 2.856599 1_555
+S6 Sm0 3.067511 1_545
+S7 Sm1 2.842408 1_555
+S7 Sm0 2.856599 1_555
+S7 Sm3 3.067511 1_555

@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ti3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44601222
+_cell_length_b   5.44601222
+_cell_length_c   4.62493400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Ni
+_chemical_formula_sum   'Ti6 Ni2'
+_cell_volume   118.79369280
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.17303800  0.34607600  0.25000000  1
+  Ti  Ti1  1  0.82696200  0.17303800  0.75000000  1
+  Ti  Ti2  1  0.34607600  0.17303800  0.75000000  1
+  Ti  Ti3  1  0.82696200  0.65392400  0.75000000  1
+  Ti  Ti4  1  0.17303800  0.82696200  0.25000000  1
+  Ti  Ti5  1  0.65392400  0.82696200  0.25000000  1
+  Ni  Ni0  1  0.66666700  0.33333300  0.25000000  1
+  Ni  Ni1  1  0.33333300  0.66666700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti5 2.618911 1_555
+Ti0 Ti4 2.618911 1_555
+Ti0 Ti5 2.827101 1_445
+Ti0 Ti4 2.827101 1_545
+Ti0 Ti1 2.830489 1_455
+Ti0 Ti1 2.830489 1_454
+Ti0 Ti2 2.830489 1_554
+Ti0 Ti2 2.830489 1_555
+Ti1 Ti3 2.618911 1_555
+Ti1 Ti2 2.618911 1_555
+Ti1 Ti2 2.827101 1_655
+Ti1 Ti3 2.827101 1_545
+Ti1 Ti5 2.830489 1_545
+Ti1 Ti5 2.830489 1_546
+Ti2 Ti3 2.618911 1_555
+Ti2 Ti3 2.827101 1_445
+Ti2 Ti4 2.830489 1_545
+Ti2 Ti4 2.830489 1_546
+Ti3 Ti4 2.830489 1_656
+Ti3 Ti4 2.830489 1_655
+Ti3 Ti5 2.830489 1_555
+Ti3 Ti5 2.830489 1_556
+Ti4 Ti5 2.618911 1_555
+Ti4 Ti5 2.827101 1_455
+Ni0 Ti5 2.723667 1_545
+Ni0 Ti0 2.723667 1_655
+Ni0 Ti4 2.723669 1_545
+Ni0 Ti4 2.723669 1_655
+Ni0 Ti0 2.723672 1_555
+Ni0 Ti5 2.723672 1_555
+Ni0 Ti1 2.762920 1_555
+Ni0 Ti1 2.762920 1_554
+Ni0 Ti3 2.762922 1_555
+Ni0 Ti3 2.762922 1_554
+Ni0 Ti2 2.762922 1_554
+Ni0 Ti2 2.762922 1_555
+Ni1 Ti3 2.723667 1_455
+Ni1 Ti2 2.723667 1_565
+Ni1 Ti1 2.723669 1_455
+Ni1 Ti1 2.723669 1_565
+Ni1 Ti3 2.723672 1_555
+Ni1 Ti2 2.723672 1_555
+Ni1 Ti4 2.762920 1_556
+Ni1 Ti4 2.762920 1_555
+Ni1 Ti5 2.762922 1_556
+Ni1 Ti5 2.762922 1_555
+Ni1 Ti0 2.762922 1_556
+Ni1 Ti0 2.762922 1_555

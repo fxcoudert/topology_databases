@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_SrAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52164349
+_cell_length_b   4.41471460
+_cell_length_c   7.80739204
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAgO2
+_chemical_formula_sum   'Sr2 Ag2 O4'
+_cell_volume   121.38192169
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.47823496  0.50000000  0.75000000  1
+  Sr  Sr1  1  0.52176504  0.50000000  0.25000000  1
+  Ag  Ag0  1  0.00000000  -0.00000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  -0.00000000  0.00000000  1
+  O  O0  1  0.20419431  -0.00000000  0.25000000  1
+  O  O1  1  0.79580569  -0.00000000  0.75000000  1
+  O  O2  1  0.00000000  0.50000000  0.50000000  1
+  O  O3  1  0.00000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O1 2.080100 1_455
+Ag0 O0 2.080100 1_555
+Ag0 O2 2.207357 1_555
+Ag0 O2 2.207357 1_545
+Ag1 O1 2.080100 1_454
+Ag1 O0 2.080100 1_555
+Ag1 O3 2.207357 1_545
+Ag1 O3 2.207357 1_555
+O0 Sr1 2.474506 1_555
+O0 Sr1 2.474506 1_545
+O1 Sr0 2.474506 1_545
+O1 Sr0 2.474506 1_555
+O2 Sr0 2.578013 1_555
+O2 Sr1 2.578013 1_455
+O2 Sr1 2.680673 1_555
+O2 Sr0 2.680673 1_455
+O3 Sr0 2.578013 1_554
+O3 Sr1 2.578013 1_455
+O3 Sr1 2.680673 1_555
+O3 Sr0 2.680673 1_454

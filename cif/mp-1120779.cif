@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_KInSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22249043
+_cell_length_b   7.22249043
+_cell_length_c   7.22249043
+_cell_angle_alpha   117.02835427
+_cell_angle_beta   117.02835427
+_cell_angle_gamma   95.22903489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KInSe2
+_chemical_formula_sum   'K2 In2 Se4'
+_cell_volume   277.12420448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.75000000  0.25000000  0.50000000  1
+  In  In0  1  0.50000000  0.50000000  0.00000000  1
+  In  In1  1  0.25000000  0.75000000  0.50000000  1
+  Se  Se0  1  0.37500000  0.44442700  0.56942700  1
+  Se  Se1  1  0.87500000  0.80557300  0.43057300  1
+  Se  Se2  1  0.55557300  0.12500000  0.93057300  1
+  Se  Se3  1  0.19442700  0.62500000  0.06942700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se1 3.293414 1_444
+K0 Se3 3.293414 1_545
+K0 Se2 3.293414 1_454
+K0 Se0 3.293414 1_555
+K1 Se3 3.293414 1_656
+K1 Se2 3.293414 1_554
+K1 Se0 3.293414 1_555
+K1 Se1 3.293414 1_545
+In0 Se3 2.625813 1_555
+In0 Se1 2.625813 1_555
+In0 Se0 2.625813 1_554
+In0 Se2 2.625813 1_554
+In1 Se3 2.625813 1_555
+In1 Se0 2.625813 1_555
+In1 Se1 2.625813 1_455
+In1 Se2 2.625813 1_565

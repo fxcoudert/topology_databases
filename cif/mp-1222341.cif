@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_LiTa2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58158332
+_cell_length_b   5.58158332
+_cell_length_c   5.58158323
+_cell_angle_alpha   56.60765620
+_cell_angle_beta   56.60765620
+_cell_angle_gamma   56.60765192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTa2O6
+_chemical_formula_sum   'Li1 Ta2 O6'
+_cell_volume   113.32201043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21540800  0.21540800  0.21540800  1
+  Ta  Ta0  1  0.50192600  0.50192600  0.50192600  1
+  Ta  Ta1  1  0.99232900  0.99232900  0.99232900  1
+  O  O0  1  0.31676400  0.18318600  0.76013100  1
+  O  O1  1  0.76013100  0.31676400  0.18318600  1
+  O  O2  1  0.18318600  0.76013100  0.31676400  1
+  O  O3  1  0.25166000  0.63233800  0.86912400  1
+  O  O4  1  0.86912400  0.25166000  0.63233800  1
+  O  O5  1  0.63233800  0.86912500  0.25166000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 2.080635 1_545
+Li0 O4 2.080636 1_455
+Li0 O3 2.080636 1_554
+Li0 O0 2.370351 1_554
+Li0 O1 2.370351 1_455
+Li0 O2 2.370351 1_545
+O0 Ta0 1.967830 1_555
+O0 Ta1 2.028318 1_445
+O1 Ta0 1.967830 1_555
+O1 Ta1 2.028318 1_544
+O2 Ta0 1.967829 1_555
+O2 Ta1 2.028318 1_454
+O3 Ta1 1.956863 1_455
+O3 Ta0 2.013285 1_555
+O4 Ta1 1.956863 1_545
+O4 Ta0 2.013285 1_555
+O5 Ta1 1.956860 1_554
+O5 Ta0 2.013290 1_555

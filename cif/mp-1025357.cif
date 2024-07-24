@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Lu2Fe2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50939676
+_cell_length_b   5.50939676
+_cell_length_c   6.55791570
+_cell_angle_alpha   53.66332433
+_cell_angle_beta   53.66332433
+_cell_angle_gamma   40.87710145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Fe2Si2C
+_chemical_formula_sum   'Lu2 Fe2 Si2 C1'
+_cell_volume   100.91903941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.55786658  0.55786658  0.17518294  1
+  Lu  Lu1  1  0.44213342  0.44213342  0.82481706  1
+  Fe  Fe0  1  0.20288694  0.20288694  0.69292067  1
+  Fe  Fe1  1  0.79711306  0.79711306  0.30707933  1
+  Si  Si0  1  0.15836861  0.15836861  0.39326142  1
+  Si  Si1  1  0.84163139  0.84163139  0.60673858  1
+  C  C0  1  0.00000000  0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Si1 2.944147 1_554
+Lu0 Si0 2.949632 1_655
+Lu0 Si0 2.949632 1_565
+Lu0 Si1 2.950356 1_455
+Lu0 Si1 2.950356 1_545
+Lu1 Si0 2.944147 1_556
+Lu1 Si1 2.949632 1_455
+Lu1 Si1 2.949632 1_545
+Lu1 Si0 2.950356 1_655
+Lu1 Si0 2.950356 1_565
+Fe0 Si1 2.247015 1_455
+Fe0 Si1 2.247015 1_545
+Fe0 Si0 2.283731 1_555
+Fe1 Si0 2.247015 1_655
+Fe1 Si0 2.247015 1_565
+Fe1 Si1 2.283731 1_555
+Si0 Si1 2.620107 1_445
+C0 Fe1 1.763123 1_445
+C0 Fe0 1.763123 1_554
+C0 Lu1 2.499251 1_454
+C0 Lu0 2.499251 1_545
+C0 Lu1 2.499251 1_544
+C0 Lu0 2.499251 1_455

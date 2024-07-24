@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_HfCuSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44754839
+_cell_length_b   4.44754839
+_cell_length_c   6.41241005
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCuSn
+_chemical_formula_sum   'Hf2 Cu2 Sn2'
+_cell_volume   109.84828868
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.00000000  -0.00000000  0.50492347  1
+  Hf  Hf1  1  0.00000000  -0.00000000  0.00492347  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.18653300  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.68653300  1
+  Sn  Sn0  1  0.66666700  0.33333300  0.76034553  1
+  Sn  Sn1  1  0.33333300  0.66666700  0.26034553  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Sn1 3.008857 1_545
+Hf0 Sn1 3.008860 1_445
+Hf0 Sn1 3.008860 1_555
+Hf0 Sn0 3.045681 1_455
+Hf0 Sn0 3.045684 1_445
+Hf0 Sn0 3.045684 1_555
+Hf0 Hf1 3.206205 1_555
+Hf0 Hf1 3.206205 1_556
+Hf1 Sn0 3.008857 1_454
+Hf1 Sn0 3.008860 1_554
+Hf1 Sn0 3.008860 1_444
+Hf1 Sn1 3.045681 1_545
+Hf1 Sn1 3.045684 1_445
+Hf1 Sn1 3.045684 1_555
+Cu0 Sn1 2.611049 1_545
+Cu0 Sn1 2.611049 1_655
+Cu0 Sn1 2.611057 1_555
+Cu0 Sn0 2.732889 1_554
+Cu0 Hf1 2.819528 1_655
+Cu0 Hf1 2.819531 1_555
+Cu0 Hf1 2.819531 1_665
+Cu0 Hf0 3.280531 1_655
+Cu0 Hf0 3.280534 1_665
+Cu0 Hf0 3.280534 1_555
+Cu1 Sn0 2.611049 1_455
+Cu1 Sn0 2.611049 1_565
+Cu1 Sn0 2.611057 1_555
+Cu1 Sn1 2.732889 1_555
+Cu1 Hf0 2.819528 1_565
+Cu1 Hf0 2.819531 1_555
+Cu1 Hf0 2.819531 1_665
+Cu1 Hf1 3.280531 1_566
+Cu1 Hf1 3.280534 1_666
+Cu1 Hf1 3.280534 1_556

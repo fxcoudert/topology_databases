@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_LuGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35832019
+_cell_length_b   6.71636284
+_cell_length_c   7.57798720
+_cell_angle_alpha   89.99826172
+_cell_angle_beta   89.99999472
+_cell_angle_gamma   90.00000259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuGaPt
+_chemical_formula_sum   'Lu4 Ga4 Pt4'
+_cell_volume   221.82329420
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.25000050  0.98771692  0.29945929  1
+  Lu  Lu1  1  0.25000029  0.48772598  0.20053571  1
+  Lu  Lu2  1  0.74999954  0.01228972  0.70052394  1
+  Lu  Lu3  1  0.74999988  0.51228023  0.79947384  1
+  Ga  Ga0  1  0.24999994  0.32402912  0.57633494  1
+  Ga  Ga1  1  0.25000004  0.82402857  0.92366589  1
+  Ga  Ga2  1  0.74999999  0.67595989  0.42366645  1
+  Ga  Ga3  1  0.74999990  0.17597409  0.07633585  1
+  Pt  Pt0  1  0.25000011  0.22760033  0.90356351  1
+  Pt  Pt1  1  0.24999977  0.72759602  0.59643488  1
+  Pt  Pt2  1  0.74999980  0.77240005  0.09645471  1
+  Pt  Pt3  1  0.75000023  0.27240008  0.40355097  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pt1 2.848973 1_555
+Lu0 Pt3 3.004483 1_565
+Lu0 Pt3 3.004485 1_465
+Lu0 Pt2 3.034266 1_555
+Lu0 Pt2 3.034270 1_455
+Lu1 Pt0 2.849057 1_554
+Lu1 Pt2 3.004392 1_555
+Lu1 Pt2 3.004395 1_455
+Lu1 Pt3 3.034294 1_555
+Lu1 Pt3 3.034294 1_455
+Lu2 Pt3 2.848914 1_555
+Lu2 Pt1 3.004523 1_545
+Lu2 Pt1 3.004524 1_645
+Lu2 Pt0 3.034381 1_555
+Lu2 Pt0 3.034384 1_655
+Lu3 Pt2 2.849084 1_556
+Lu3 Pt0 3.004435 1_555
+Lu3 Pt0 3.004436 1_655
+Lu3 Pt1 3.034352 1_655
+Lu3 Pt1 3.034353 1_555
+Ga0 Pt0 2.562896 1_555
+Ga0 Pt3 2.565816 1_455
+Ga0 Pt3 2.565818 1_555
+Ga0 Pt1 2.714783 1_555
+Ga0 Lu3 3.034266 1_555
+Ga0 Lu3 3.034266 1_455
+Ga0 Lu1 3.052633 1_555
+Ga0 Lu0 3.082972 1_545
+Ga0 Lu2 3.165138 1_555
+Ga0 Lu2 3.165140 1_455
+Ga1 Pt1 2.562958 1_555
+Ga1 Pt2 2.565824 1_556
+Ga1 Pt2 2.565826 1_456
+Ga1 Pt0 2.714807 1_565
+Ga1 Lu2 3.034263 1_565
+Ga1 Lu2 3.034266 1_465
+Ga1 Lu0 3.052634 1_556
+Ga1 Lu1 3.082802 1_556
+Ga1 Lu3 3.165223 1_555
+Ga1 Lu3 3.165224 1_455
+Ga2 Pt2 2.562792 1_555
+Ga2 Pt1 2.565763 1_655
+Ga2 Pt1 2.565764 1_555
+Ga2 Pt3 2.714742 1_555
+Ga2 Lu1 3.034183 1_555
+Ga2 Lu1 3.034185 1_655
+Ga2 Lu3 3.052649 1_555
+Ga2 Lu2 3.082965 1_565
+Ga2 Lu0 3.165257 1_555
+Ga2 Lu0 3.165259 1_655
+Ga3 Pt3 2.562830 1_555
+Ga3 Pt0 2.565758 1_554
+Ga3 Pt0 2.565760 1_654
+Ga3 Pt2 2.714829 1_545
+Ga3 Lu0 3.034173 1_545
+Ga3 Lu0 3.034177 1_645
+Ga3 Lu2 3.052755 1_554
+Ga3 Lu3 3.082779 1_554
+Ga3 Lu1 3.165255 1_555
+Ga3 Lu1 3.165258 1_655

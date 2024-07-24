@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Li2Ti(TeO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44511400
+_cell_length_b   5.01660800
+_cell_length_c   5.21670423
+_cell_angle_alpha   89.23726448
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ti(TeO4)3
+_chemical_formula_sum   'Li2 Ti1 Te3 O12'
+_cell_volume   220.99040331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69650400  0.00000000  0.50000000  1
+  Li  Li1  1  0.81673000  0.50000000  0.50000000  1
+  Ti  Ti0  1  0.90667500  0.00000000  0.00000000  1
+  Te  Te0  1  0.58902600  0.50000000  0.00000000  1
+  Te  Te1  1  0.07985400  0.00000000  0.50000000  1
+  Te  Te2  1  0.38965900  0.50000000  0.50000000  1
+  O  O0  1  0.74126200  0.25946900  0.86149700  1
+  O  O1  1  0.41886800  0.29642900  0.81836400  1
+  O  O2  1  0.06666700  0.19556400  0.80907900  1
+  O  O3  1  0.56904100  0.70709600  0.67172500  1
+  O  O4  1  0.90853000  0.79786300  0.67227700  1
+  O  O5  1  0.24301900  0.75210300  0.64177000  1
+  O  O6  1  0.24301900  0.24789700  0.35823000  1
+  O  O7  1  0.90853000  0.20213700  0.32772300  1
+  O  O8  1  0.56904100  0.29290400  0.32827500  1
+  O  O9  1  0.06666700  0.80443600  0.19092100  1
+  O  O10  1  0.41886800  0.70357100  0.18163600  1
+  O  O11  1  0.74126200  0.74053100  0.13850300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O8 2.021211 1_555
+Li0 O3 2.021211 1_545
+Li0 O7 2.240068 1_555
+Li0 O4 2.240068 1_545
+Li0 O11 2.336420 1_545
+Li0 O0 2.336420 1_555
+Li1 O7 1.917628 1_555
+Li1 O4 1.917628 1_555
+Li1 O0 2.314724 1_555
+Li1 O11 2.314724 1_555
+Li1 O3 2.506417 1_555
+Li1 O8 2.506417 1_555
+O0 Te0 1.911586 1_556
+O0 Ti0 2.035370 1_556
+O1 Te2 1.953691 1_555
+O1 Te0 2.007859 1_556
+O2 Te1 1.901778 1_555
+O2 Ti0 1.937540 1_456
+O3 Te0 1.998293 1_556
+O3 Te2 2.049777 1_555
+O4 Te1 1.976130 1_665
+O4 Ti0 1.999383 1_566
+O5 Te2 1.924826 1_555
+O5 Te1 1.991925 1_565
+O6 Te2 1.924826 1_555
+O6 Te1 1.991925 1_555
+O7 Te1 1.976130 1_655
+O7 Ti0 1.999383 1_555
+O8 Te0 1.998293 1_555
+O8 Te2 2.049777 1_555
+O9 Te1 1.901778 1_565
+O9 Ti0 1.937540 1_465
+O10 Te2 1.953691 1_555
+O10 Te0 2.007859 1_555
+O11 Te0 1.911586 1_555
+O11 Ti0 2.035370 1_565

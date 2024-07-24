@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_La2Cu2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29509738
+_cell_length_b   4.29509738
+_cell_length_c   17.33463750
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Cu2I
+_chemical_formula_sum   'La4 Cu4 I2'
+_cell_volume   276.94364641
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.00000000  0.00000000  0.10269041  1
+  La  La1  1  -0.00000000  0.00000000  0.89730959  1
+  La  La2  1  -0.00000000  0.00000000  0.60269041  1
+  La  La3  1  -0.00000000  -0.00000000  0.39730959  1
+  Cu  Cu0  1  0.33333300  0.66666700  0.50087937  1
+  Cu  Cu1  1  0.66666700  0.33333300  0.49912063  1
+  Cu  Cu2  1  0.66666700  0.33333300  0.00087937  1
+  Cu  Cu3  1  0.33333300  0.66666700  0.99912063  1
+  I  I0  1  0.33333300  0.66666700  0.25000000  1
+  I  I1  1  0.66666700  0.33333300  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Cu1 2.479960 1_455
+Cu0 Cu1 2.479960 1_565
+Cu0 Cu1 2.479968 1_555
+Cu0 La2 3.043681 1_565
+Cu0 La2 3.043684 1_665
+Cu0 La2 3.043684 1_555
+Cu0 La3 3.061460 1_565
+Cu0 La3 3.061463 1_555
+Cu0 La3 3.061463 1_665
+Cu1 La3 3.043681 1_655
+Cu1 La3 3.043684 1_555
+Cu1 La3 3.043684 1_665
+Cu1 La2 3.061460 1_655
+Cu1 La2 3.061463 1_665
+Cu1 La2 3.061463 1_555
+Cu2 Cu3 2.479960 1_544
+Cu2 Cu3 2.479960 1_654
+Cu2 Cu3 2.479968 1_554
+Cu2 La0 3.043681 1_655
+Cu2 La0 3.043684 1_665
+Cu2 La0 3.043684 1_555
+Cu2 La1 3.061460 1_654
+Cu2 La1 3.061463 1_554
+Cu2 La1 3.061463 1_664
+Cu3 La1 3.043681 1_565
+Cu3 La1 3.043684 1_555
+Cu3 La1 3.043684 1_665
+Cu3 La0 3.061460 1_566
+Cu3 La0 3.061463 1_556
+Cu3 La0 3.061463 1_666
+I0 La0 3.559485 1_565
+I0 La3 3.559485 1_565
+I0 La3 3.559488 1_665
+I0 La0 3.559488 1_665
+I0 La0 3.559488 1_555
+I0 La3 3.559488 1_555
+I1 La1 3.559485 1_655
+I1 La2 3.559485 1_655
+I1 La2 3.559488 1_665
+I1 La1 3.559488 1_555
+I1 La1 3.559488 1_665
+I1 La2 3.559488 1_555

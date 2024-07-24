@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Sr2Mn2Cu(AsO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12984100
+_cell_length_b   4.12984100
+_cell_length_c   9.86690875
+_cell_angle_alpha   77.91999659
+_cell_angle_beta   77.91999659
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Mn2Cu(AsO)2
+_chemical_formula_sum   'Sr2 Mn2 Cu1 As2 O2'
+_cell_volume   160.74661906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.41038900  0.41038900  0.17922200  1
+  Sr  Sr1  1  0.58961100  0.58961100  0.82077800  1
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu0  1  0.75000000  0.25000000  0.50000000  1
+  As  As0  1  0.16792600  0.16792600  0.66414800  1
+  As  As1  1  0.83207400  0.83207400  0.33585200  1
+  O  O0  1  0.50029600  0.00029600  0.99940800  1
+  O  O1  1  0.99970400  0.49970400  0.00059200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O1 2.064928 1_455
+Mn0 O0 2.064928 1_454
+Mn0 O0 2.064928 1_554
+Mn0 O1 2.064928 1_445
+Cu0 Mn1 2.920239 1_645
+Cu0 Mn1 2.920239 1_555
+Cu0 Mn1 2.920239 1_545
+Cu0 Mn1 2.920239 1_655
+As0 Mn1 2.580180 1_545
+As0 Cu0 2.580180 1_455
+As0 Mn1 2.580181 1_555
+As0 Cu0 2.580181 1_555
+As0 Mn0 3.165360 1_556
+As0 Sr1 3.272157 1_555
+As0 Sr1 3.272157 1_545
+As0 Sr1 3.272157 1_455
+As0 Sr1 3.272157 1_445
+As1 Cu0 2.580180 1_565
+As1 Mn1 2.580180 1_655
+As1 Cu0 2.580181 1_555
+As1 Mn1 2.580181 1_555
+As1 Mn0 3.165360 1_665
+As1 Sr0 3.272157 1_555
+As1 Sr0 3.272157 1_565
+As1 Sr0 3.272157 1_655
+As1 Sr0 3.272157 1_665
+O0 Sr1 2.664260 1_545
+O0 Sr1 2.664261 1_555
+O0 Sr0 2.671326 1_556
+O0 Sr0 2.671326 1_546
+O1 Sr0 2.664260 1_655
+O1 Sr0 2.664261 1_555
+O1 Sr1 2.671326 1_554
+O1 Sr1 2.671326 1_654

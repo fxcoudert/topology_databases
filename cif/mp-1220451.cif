@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Nb4Cr(CS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34090000
+_cell_length_b   5.78117200
+_cell_length_c   8.75351382
+_cell_angle_alpha   77.73024151
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4Cr(CS2)2
+_chemical_formula_sum   'Nb4 Cr1 C2 S4'
+_cell_volume   165.20627046
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.62892100  0.63337800  1
+  Nb  Nb1  1  0.00000000  0.11840700  0.63287000  1
+  Nb  Nb2  1  0.50000000  0.37107900  0.36662200  1
+  Nb  Nb3  1  0.00000000  0.88159300  0.36713000  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.00000000  0.50000000  0.50000000  1
+  C  C1  1  0.50000000  0.00000000  0.50000000  1
+  S  S0  1  0.50000000  0.77285100  0.16349400  1
+  S  S1  1  0.00000000  0.27516700  0.16892300  1
+  S  S2  1  0.50000000  0.22714900  0.83650600  1
+  S  S3  1  0.00000000  0.72483300  0.83107700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 S3 2.549616 1_655
+Nb0 S3 2.549616 1_555
+Nb0 S2 2.607914 1_555
+Nb1 S3 2.551361 1_545
+Nb1 S2 2.615208 1_555
+Nb1 S2 2.615208 1_455
+Nb2 S1 2.549616 1_655
+Nb2 S1 2.549616 1_555
+Nb2 S0 2.607914 1_555
+Nb3 S1 2.551361 1_565
+Nb3 S0 2.615208 1_455
+Nb3 S0 2.615208 1_555
+Cr0 S1 2.390993 1_555
+Cr0 S3 2.390993 1_544
+Cr0 S0 2.400888 1_445
+Cr0 S0 2.400888 1_545
+Cr0 S2 2.400888 1_554
+Cr0 S2 2.400888 1_454
+C0 Nb0 2.253633 1_555
+C0 Nb2 2.253633 1_455
+C0 Nb2 2.253633 1_555
+C0 Nb0 2.253633 1_455
+C0 Nb3 2.264704 1_555
+C0 Nb1 2.264704 1_555
+C1 Nb2 2.213764 1_555
+C1 Nb0 2.213764 1_545
+C1 Nb3 2.224889 1_545
+C1 Nb3 2.224889 1_645
+C1 Nb1 2.224889 1_655
+C1 Nb1 2.224889 1_555

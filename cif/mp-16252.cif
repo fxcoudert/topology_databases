@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaCaGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09783764
+_cell_length_b   8.61706974
+_cell_length_c   9.18431991
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaGe
+_chemical_formula_sum   'Ba4 Ca4 Ge4'
+_cell_volume   403.45268508
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.02722293  0.82444969  1
+  Ba  Ba1  1  0.75000000  0.97277707  0.17555031  1
+  Ba  Ba2  1  0.25000000  0.52722293  0.67555031  1
+  Ba  Ba3  1  0.75000000  0.47277707  0.32444969  1
+  Ca  Ca0  1  0.75000000  0.85907110  0.57465360  1
+  Ca  Ca1  1  0.25000000  0.64092890  0.07465360  1
+  Ca  Ca2  1  0.75000000  0.35907110  0.92534640  1
+  Ca  Ca3  1  0.25000000  0.14092890  0.42534640  1
+  Ge  Ge0  1  0.25000000  0.28224026  0.10835484  1
+  Ge  Ge1  1  0.75000000  0.21775974  0.60835484  1
+  Ge  Ge2  1  0.25000000  0.78224026  0.39164516  1
+  Ge  Ge3  1  0.75000000  0.71775974  0.89164516  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Ge0 3.409977 1_556
+Ba0 Ge1 3.623768 1_555
+Ba0 Ge1 3.623768 1_455
+Ba0 Ge3 3.740182 1_445
+Ba0 Ge3 3.740182 1_545
+Ba1 Ge3 3.409977 1_554
+Ba1 Ge2 3.623768 1_555
+Ba1 Ge2 3.623768 1_655
+Ba1 Ge0 3.740182 1_665
+Ba1 Ge0 3.740182 1_565
+Ba2 Ge2 3.409977 1_555
+Ba2 Ge3 3.623768 1_455
+Ba2 Ge3 3.623768 1_555
+Ba2 Ge1 3.740182 1_555
+Ba2 Ge1 3.740182 1_455
+Ba3 Ge1 3.409977 1_555
+Ba3 Ge0 3.623768 1_655
+Ba3 Ge0 3.623768 1_555
+Ba3 Ge2 3.740182 1_555
+Ba3 Ge2 3.740182 1_655
+Ca0 Ge1 3.106304 1_565
+Ca0 Ge2 3.124167 1_555
+Ca0 Ge2 3.124167 1_655
+Ca0 Ge3 3.155747 1_555
+Ca1 Ge0 3.106304 1_555
+Ca1 Ge3 3.124167 1_554
+Ca1 Ge3 3.124167 1_454
+Ca1 Ge2 3.155747 1_555
+Ca2 Ge3 3.106304 1_555
+Ca2 Ge0 3.124167 1_656
+Ca2 Ge0 3.124167 1_556
+Ca2 Ge1 3.155747 1_555
+Ca3 Ge2 3.106304 1_545
+Ca3 Ge1 3.124167 1_455
+Ca3 Ge1 3.124167 1_555
+Ca3 Ge0 3.155747 1_555

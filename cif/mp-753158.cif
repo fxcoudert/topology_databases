@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ti(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46097300
+_cell_length_b   6.46097300
+_cell_length_c   5.76051427
+_cell_angle_alpha   76.46319463
+_cell_angle_beta   76.46319463
+_cell_angle_gamma   26.12245075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(CoO3)2
+_chemical_formula_sum   'Ti1 Co2 O6'
+_cell_volume   102.77391043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co0  1  0.66945700  0.66945700  0.16632000  1
+  Co  Co1  1  0.33054300  0.33054300  0.83368000  1
+  O  O0  1  0.16160300  0.16160300  0.38326700  1
+  O  O1  1  0.48598700  0.48598700  0.73246600  1
+  O  O2  1  0.82195400  0.82195400  0.05420900  1
+  O  O3  1  0.51401300  0.51401300  0.26753400  1
+  O  O4  1  0.83839700  0.83839700  0.61673300  1
+  O  O5  1  0.17804600  0.17804600  0.94579100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 O2 1.872457 1_555
+Co0 O3 1.902699 1_555
+Co0 O0 1.908976 1_655
+Co0 O0 1.908976 1_565
+Co0 O5 1.921322 1_654
+Co0 O5 1.921322 1_564
+Co1 O5 1.872457 1_555
+Co1 O1 1.902699 1_555
+Co1 O4 1.908976 1_455
+Co1 O4 1.908976 1_545
+Co1 O2 1.921322 1_456
+Co1 O2 1.921322 1_546
+O0 Ti0 1.983125 1_555
+O1 Ti0 1.960313 1_565
+O1 Ti0 1.960313 1_655
+O3 Ti0 1.960313 1_565
+O3 Ti0 1.960313 1_655
+O4 Ti0 1.983125 1_665

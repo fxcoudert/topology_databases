@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_KLi2FeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49476973
+_cell_length_b   5.49476973
+_cell_length_c   6.15100138
+_cell_angle_alpha   89.91165705
+_cell_angle_beta   89.91165705
+_cell_angle_gamma   73.42810532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2FeO3
+_chemical_formula_sum   'K2 Li4 Fe2 O6'
+_cell_volume   177.99966490
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.31309100  0.66965600  0.74632600  1
+  K  K1  1  0.66965600  0.31309100  0.24632600  1
+  Li  Li0  1  0.22112500  0.21597900  0.49751000  1
+  Li  Li1  1  0.21597900  0.22112500  0.99751000  1
+  Li  Li2  1  0.76095800  0.75831500  0.50136700  1
+  Li  Li3  1  0.75831500  0.76095800  0.00136700  1
+  Fe  Fe0  1  0.80307900  0.17476200  0.74972000  1
+  Fe  Fe1  1  0.17476200  0.80307900  0.24972000  1
+  O  O0  1  0.98809400  0.98909300  0.99897900  1
+  O  O1  1  0.98909300  0.98809400  0.49897900  1
+  O  O2  1  0.50577800  0.82433200  0.25458300  1
+  O  O3  1  0.14850300  0.47145400  0.25054700  1
+  O  O4  1  0.47145400  0.14850300  0.75054700  1
+  O  O5  1  0.82433200  0.50577800  0.75458300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O1 2.601731 1_455
+K0 O0 2.626183 1_455
+K0 O5 2.694830 1_555
+K0 O4 2.745282 1_555
+K0 O4 2.997859 1_565
+K0 O5 3.066743 1_455
+K1 O0 2.601731 1_544
+K1 O1 2.626183 1_545
+K1 O2 2.694830 1_555
+K1 O3 2.745282 1_555
+K1 O3 2.997859 1_655
+K1 O2 3.066743 1_545
+Li0 O1 2.025876 1_445
+Li0 O3 2.028090 1_555
+Li0 O4 2.041042 1_555
+Li1 O0 2.025876 1_445
+Li1 O4 2.028090 1_555
+Li1 O3 2.041042 1_556
+Li2 O1 2.017037 1_555
+Li2 O2 2.028936 1_555
+Li2 O5 2.047452 1_555
+Li3 O0 2.017037 1_554
+Li3 O5 2.028936 1_554
+Li3 O2 2.047452 1_555
+Fe0 O5 1.855833 1_555
+Fe0 O4 1.868480 1_555
+Fe0 O0 1.957897 1_545
+Fe0 O1 1.969126 1_545
+Fe1 O2 1.855833 1_555
+Fe1 O3 1.868480 1_555
+Fe1 O1 1.957897 1_455
+Fe1 O0 1.969126 1_454

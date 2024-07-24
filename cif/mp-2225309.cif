@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MgCuPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03488783
+_cell_length_b   5.03729154
+_cell_length_c   5.03488783
+_cell_angle_alpha   60.01579580
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.01577181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCuPO4
+_chemical_formula_sum   'Mg1 Cu1 P1 O4'
+_cell_volume   90.33764759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  P  P0  1  0.25000000  0.50000000  0.75000000  1
+  O  O0  1  0.20517001  0.25533587  0.06612573  1
+  O  O1  1  0.93387427  0.74466413  0.46050588  1
+  O  O2  1  0.53949412  0.25533587  0.67853839  1
+  O  O3  1  0.32146161  0.74466413  0.79482999  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 1.978179 1_545
+Mg0 O2 1.978179 1_555
+Mg0 O0 1.978179 1_555
+Mg0 O3 1.978179 1_545
+Cu0 O3 2.142033 1_544
+Cu0 O2 2.142033 1_454
+Cu0 O0 2.142033 1_555
+Cu0 O1 2.142033 1_445
+O0 P0 1.555826 1_554
+O1 P0 1.555826 1_655
+O2 P0 1.555826 1_555
+O3 P0 1.555826 1_555

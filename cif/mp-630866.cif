@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Fe3Pb4ClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97638100
+_cell_length_b   3.97638100
+_cell_length_c   15.59398600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Pb4ClO8
+_chemical_formula_sum   'Fe3 Pb4 Cl1 O8'
+_cell_volume   246.56596037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.75346300  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.24653700  1
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.61264600  1
+  Pb  Pb1  1  0.00000000  0.00000000  0.11924000  1
+  Pb  Pb2  1  0.00000000  0.00000000  0.38735400  1
+  Pb  Pb3  1  0.00000000  0.00000000  0.88076000  1
+  Cl  Cl0  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.50000000  0.00000000  0.50000000  1
+  O  O1  1  0.50000000  0.50000000  0.63224500  1
+  O  O2  1  0.00000000  0.50000000  0.78667500  1
+  O  O3  1  0.50000000  0.50000000  0.36775500  1
+  O  O4  1  0.50000000  0.00000000  0.21332500  1
+  O  O5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.00000000  0.50000000  0.21332500  1
+  O  O7  1  0.50000000  0.00000000  0.78667500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O1 1.890272 1_555
+Fe0 O2 2.054539 1_555
+Fe0 O7 2.054539 1_565
+Fe0 O2 2.054539 1_655
+Fe0 O7 2.054539 1_555
+Fe1 O3 1.890272 1_555
+Fe1 O4 2.054539 1_555
+Fe1 O6 2.054539 1_655
+Fe1 O4 2.054539 1_565
+Fe1 O6 2.054539 1_555
+Fe2 O5 1.988190 1_555
+Fe2 O0 1.988190 1_555
+Fe2 O0 1.988190 1_565
+Fe2 O5 1.988190 1_655
+Fe2 O1 2.062227 1_555
+Fe2 O3 2.062227 1_555
+O0 Pb2 2.653026 1_555
+O0 Pb2 2.653026 1_655
+O0 Pb0 2.653026 1_655
+O0 Pb0 2.653026 1_555
+O1 Pb0 2.828288 1_655
+O1 Pb0 2.828288 1_565
+O1 Pb0 2.828288 1_555
+O1 Pb0 2.828288 1_665
+O2 Pb3 2.470923 1_565
+O2 Pb3 2.470923 1_555
+O3 Pb2 2.828288 1_555
+O3 Pb2 2.828288 1_565
+O3 Pb2 2.828288 1_655
+O3 Pb2 2.828288 1_665
+O4 Pb1 2.470923 1_555
+O4 Pb1 2.470923 1_655
+O5 Pb2 2.653026 1_555
+O5 Pb2 2.653026 1_565
+O5 Pb0 2.653026 1_565
+O5 Pb0 2.653026 1_555
+O6 Pb1 2.470923 1_565
+O6 Pb1 2.470923 1_555
+O7 Pb3 2.470923 1_655
+O7 Pb3 2.470923 1_555

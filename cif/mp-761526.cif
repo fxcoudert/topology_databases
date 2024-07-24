@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_FeCoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46903400
+_cell_length_b   4.33764600
+_cell_length_c   4.88995107
+_cell_angle_alpha   87.33011351
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoO4
+_chemical_formula_sum   'Fe2 Co2 O8'
+_cell_volume   115.87708391
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.15506900  0.00000000  0.75000000  1
+  Fe  Fe1  1  0.84493100  0.00000000  0.25000000  1
+  Co  Co0  1  0.63903900  0.50000000  0.75000000  1
+  Co  Co1  1  0.36096100  0.50000000  0.25000000  1
+  O  O0  1  0.87618300  0.24378000  0.91003800  1
+  O  O1  1  0.39206300  0.27502600  0.92984500  1
+  O  O2  1  0.39206300  0.72497400  0.57015500  1
+  O  O3  1  0.87618300  0.75622000  0.58996200  1
+  O  O4  1  0.12381700  0.24378000  0.41003800  1
+  O  O5  1  0.60793700  0.27502600  0.42984500  1
+  O  O6  1  0.60793700  0.72497400  0.07015500  1
+  O  O7  1  0.12381700  0.75622000  0.08996200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O4 1.935761 1_555
+Fe0 O7 1.935761 1_546
+Fe0 O2 1.993554 1_545
+Fe0 O1 1.993554 1_555
+Fe0 O3 2.033232 1_445
+Fe0 O0 2.033232 1_455
+Fe1 O3 1.935761 1_545
+Fe1 O0 1.935761 1_554
+Fe1 O6 1.993554 1_545
+Fe1 O5 1.993554 1_555
+Fe1 O7 2.033232 1_645
+Fe1 O4 2.033232 1_655
+Co0 O3 1.857059 1_555
+Co0 O0 1.857059 1_555
+Co0 O2 1.862845 1_555
+Co0 O1 1.862845 1_555
+Co0 O6 1.890630 1_556
+Co0 O5 1.890630 1_555
+Co1 O4 1.857059 1_555
+Co1 O7 1.857059 1_555
+Co1 O5 1.862845 1_555
+Co1 O6 1.862845 1_555
+Co1 O1 1.890630 1_554
+Co1 O2 1.890630 1_555

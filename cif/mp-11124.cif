@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsLaHgSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33244207
+_cell_length_b   8.33244207
+_cell_length_c   11.50578571
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.94202674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLaHgSe3
+_chemical_formula_sum   'Cs2 La2 Hg2 Se6'
+_cell_volume   412.12666972
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25559625  0.74440375  0.75000000  1
+  Cs  Cs1  1  0.74440375  0.25559625  0.25000000  1
+  La  La0  1  0.00000000  -0.00000000  0.50000000  1
+  La  La1  1  0.00000000  -0.00000000  0.00000000  1
+  Hg  Hg0  1  0.45776985  0.54223015  0.25000000  1
+  Hg  Hg1  1  0.54223015  0.45776985  0.75000000  1
+  Se  Se0  1  0.06241802  0.93758198  0.25000000  1
+  Se  Se1  1  0.93758198  0.06241802  0.75000000  1
+  Se  Se2  1  0.62307413  0.37692587  0.55221134  1
+  Se  Se3  1  0.62307413  0.37692587  0.94778866  1
+  Se  Se4  1  0.37692587  0.62307413  0.05221134  1
+  Se  Se5  1  0.37692587  0.62307413  0.44778866  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se1 3.676268 1_455
+Cs0 Se1 3.676268 1_565
+Cs0 Se2 3.831856 1_455
+Cs0 Se3 3.831856 1_455
+Cs0 Se3 3.831856 1_565
+Cs0 Se2 3.831856 1_565
+Cs0 Se4 3.985724 1_556
+Cs0 Se5 3.985724 1_555
+Cs1 Se0 3.676268 1_545
+Cs1 Se0 3.676268 1_655
+Cs1 Se5 3.831856 1_545
+Cs1 Se4 3.831856 1_545
+Cs1 Se4 3.831856 1_655
+Cs1 Se5 3.831856 1_655
+Cs1 Se3 3.985724 1_554
+Cs1 Se2 3.985724 1_555
+La0 Se5 3.040154 1_445
+La0 Se5 3.040154 1_555
+La0 Se2 3.040154 1_445
+La0 Se2 3.040154 1_555
+La0 Se0 3.046044 1_545
+La0 Se1 3.046044 1_455
+La1 Se4 3.040154 1_445
+La1 Se4 3.040154 1_555
+La1 Se3 3.040154 1_444
+La1 Se3 3.040154 1_554
+La1 Se1 3.046044 1_454
+La1 Se0 3.046044 1_545
+Hg0 Se5 2.619899 1_555
+Hg0 Se4 2.619899 1_555
+Hg0 Se0 2.792826 1_655
+Hg0 Se0 2.792826 1_545
+Hg1 Se2 2.619899 1_555
+Hg1 Se3 2.619899 1_555
+Hg1 Se1 2.792826 1_565
+Hg1 Se1 2.792826 1_455

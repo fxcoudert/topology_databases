@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_HfFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87813602
+_cell_length_b   6.36858289
+_cell_length_c   7.24318248
+_cell_angle_alpha   90.00651462
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeAs
+_chemical_formula_sum   'Hf4 Fe4 As4'
+_cell_volume   178.89379080
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.48384142  0.18776574  1
+  Hf  Hf1  1  0.75000000  0.51615858  0.81223426  1
+  Hf  Hf2  1  0.75000000  0.01613524  0.68773852  1
+  Hf  Hf3  1  0.25000000  0.98386476  0.31226148  1
+  Fe  Fe0  1  0.25000000  0.85073977  0.93756493  1
+  Fe  Fe1  1  0.75000000  0.14926023  0.06243507  1
+  Fe  Fe2  1  0.75000000  0.64924150  0.43757122  1
+  Fe  Fe3  1  0.25000000  0.35075850  0.56242878  1
+  As  As0  1  0.25000000  0.72486008  0.61652434  1
+  As  As1  1  0.75000000  0.27513992  0.38347566  1
+  As  As2  1  0.75000000  0.77511188  0.11656490  1
+  As  As3  1  0.25000000  0.22488812  0.88343510  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Hf3 2.843245 1_556
+Fe0 Hf2 2.853833 1_465
+Fe0 Hf2 2.853833 1_565
+Fe0 Hf0 2.957198 1_556
+Fe0 Hf1 3.020592 1_455
+Fe0 Hf1 3.020592 1_555
+Fe1 Hf2 2.843245 1_554
+Fe1 Hf3 2.853833 1_645
+Fe1 Hf3 2.853833 1_545
+Fe1 Hf1 2.957198 1_554
+Fe1 Hf0 3.020592 1_555
+Fe1 Hf0 3.020592 1_655
+Fe2 Hf1 2.843118 1_555
+Fe2 Hf0 2.853596 1_655
+Fe2 Hf0 2.853596 1_555
+Fe2 Hf2 2.956700 1_565
+Fe2 Hf3 3.020881 1_555
+Fe2 Hf3 3.020881 1_655
+Fe3 Hf0 2.843118 1_555
+Fe3 Hf1 2.853596 1_555
+Fe3 Hf1 2.853596 1_455
+Fe3 Hf3 2.956700 1_545
+Fe3 Hf2 3.020881 1_455
+Fe3 Hf2 3.020881 1_555
+As0 Fe2 2.381570 1_455
+As0 Fe2 2.381570 1_555
+As0 Fe3 2.414458 1_555
+As0 Fe0 2.459581 1_555
+As0 Hf2 2.732562 1_565
+As0 Hf2 2.732562 1_465
+As0 Hf1 2.745267 1_555
+As0 Hf1 2.745267 1_455
+As0 Hf3 2.752912 1_555
+As1 Fe3 2.381570 1_555
+As1 Fe3 2.381570 1_655
+As1 Fe2 2.414458 1_555
+As1 Fe1 2.459581 1_555
+As1 Hf3 2.732562 1_645
+As1 Hf3 2.732562 1_545
+As1 Hf0 2.745267 1_655
+As1 Hf0 2.745267 1_555
+As1 Hf2 2.752912 1_555
+As2 Fe0 2.381826 1_654
+As2 Fe0 2.381826 1_554
+As2 Fe1 2.414880 1_565
+As2 Fe2 2.459499 1_555
+As2 Hf0 2.732603 1_655
+As2 Hf0 2.732603 1_555
+As2 Hf3 2.745220 1_555
+As2 Hf3 2.745220 1_655
+As2 Hf1 2.752809 1_554
+As3 Fe1 2.381826 1_556
+As3 Fe1 2.381826 1_456
+As3 Fe0 2.414880 1_545
+As3 Fe3 2.459499 1_555
+As3 Hf1 2.732603 1_455
+As3 Hf1 2.732603 1_555
+As3 Hf2 2.745220 1_555
+As3 Hf2 2.745220 1_455
+As3 Hf0 2.752809 1_556

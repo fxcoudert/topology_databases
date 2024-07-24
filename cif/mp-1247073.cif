@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Mg(WS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23373537
+_cell_length_b   7.23378702
+_cell_length_c   7.23501266
+_cell_angle_alpha   60.00663828
+_cell_angle_beta   60.00531504
+_cell_angle_gamma   60.00127032
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(WS2)2
+_chemical_formula_sum   'Mg2 W4 S8'
+_cell_volume   267.72937833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87497309  0.87501963  0.87500725  1
+  Mg  Mg1  1  0.12503256  0.12497929  0.12499641  1
+  W  W0  1  0.50000012  0.50005242  0.49995041  1
+  W  W1  1  0.50000635  0.49999994  0.00000851  1
+  W  W2  1  0.99999901  0.49998862  0.50002238  1
+  W  W3  1  0.49999480  0.99996173  0.50001820  1
+  S  S0  1  0.74120325  0.74121326  0.74118182  1
+  S  S1  1  0.25882153  0.25880617  0.72356474  1
+  S  S2  1  0.25878434  0.72361487  0.25880815  1
+  S  S3  1  0.72357222  0.25879247  0.25882659  1
+  S  S4  1  0.74118584  0.27640404  0.74117667  1
+  S  S5  1  0.27641511  0.74118758  0.74119030  1
+  S  S6  1  0.25879948  0.25877851  0.25883342  1
+  S  S7  1  0.74121629  0.74119646  0.27641614  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S4 2.370832 1_565
+Mg0 S0 2.370873 1_555
+Mg0 S5 2.371123 1_655
+Mg0 S7 2.371475 1_556
+Mg1 S2 2.370714 1_545
+Mg1 S6 2.370882 1_555
+Mg1 S3 2.371232 1_455
+Mg1 S1 2.371609 1_554
+S0 W3 2.470882 1_555
+S0 W2 2.470916 1_555
+S0 W1 2.471071 1_556
+S1 W2 2.470841 1_455
+S1 W3 2.470940 1_545
+S1 W0 2.471073 1_555
+S2 W0 2.470824 1_555
+S2 W2 2.471026 1_455
+S2 W1 2.471096 1_555
+S3 W0 2.470919 1_555
+S3 W1 2.470995 1_555
+S3 W3 2.471032 1_545
+S4 W2 2.470969 1_555
+S4 W0 2.471077 1_555
+S4 W1 2.471173 1_556
+S5 W3 2.470743 1_555
+S5 W0 2.470868 1_555
+S5 W1 2.471121 1_556
+S6 W3 2.470947 1_545
+S6 W2 2.470991 1_455
+S6 W1 2.471159 1_555
+S7 W0 2.470760 1_555
+S7 W3 2.470794 1_555
+S7 W2 2.470945 1_555

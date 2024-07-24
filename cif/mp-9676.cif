@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_K2NaGaAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91038154
+_cell_length_b   8.91038154
+_cell_length_c   8.91038154
+_cell_angle_alpha   136.14591670
+_cell_angle_beta   135.12823514
+_cell_angle_gamma   64.54550142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaGaAs2
+_chemical_formula_sum   'K4 Na2 Ga2 As4'
+_cell_volume   340.98814972
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.08218200  0.32705400  0.75512800  1
+  K  K1  1  0.57192600  0.82705400  0.74487200  1
+  K  K2  1  0.42807400  0.17294600  0.25512800  1
+  K  K3  1  0.91781800  0.67294600  0.24487200  1
+  Na  Na0  1  0.50000000  0.75000000  0.25000000  1
+  Na  Na1  1  0.50000000  0.25000000  0.75000000  1
+  Ga  Ga0  1  0.00000000  0.25000000  0.25000000  1
+  Ga  Ga1  1  0.00000000  0.75000000  0.75000000  1
+  As  As0  1  0.29693100  0.59481200  0.70211800  1
+  As  As1  1  0.70306900  0.40518800  0.29788200  1
+  As  As2  1  0.10730600  0.90518800  0.20211800  1
+  As  As3  1  0.89269400  0.09481200  0.79788200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Na0 3.511735 1_556
+K0 Na1 3.511735 1_555
+K1 Na0 3.511735 1_555
+K1 Na1 3.511735 1_565
+K2 Na1 3.511735 1_555
+K2 Na0 3.511735 1_545
+K3 Na0 3.511735 1_555
+K3 Na1 3.511735 1_554
+Ga0 K0 3.545348 1_555
+Ga0 K1 3.545348 1_444
+Ga0 K2 3.545348 1_555
+Ga0 K3 3.545348 1_455
+Ga1 K0 3.545348 1_555
+Ga1 K1 3.545348 1_455
+Ga1 K3 3.545348 1_455
+Ga1 K2 3.545348 1_566
+As0 Ga0 2.588138 1_555
+As0 Ga1 2.588142 1_555
+As0 Na1 2.985521 1_555
+As0 Na0 2.985524 1_556
+As0 K3 3.325247 1_455
+As0 K1 3.511414 1_555
+As0 K2 3.547865 1_555
+As0 K2 3.547871 1_566
+As0 K3 3.874610 1_556
+As1 Ga1 2.588138 1_655
+As1 Ga0 2.588142 1_655
+As1 Na0 2.985521 1_555
+As1 Na1 2.985524 1_554
+As1 K0 3.325247 1_655
+As1 K2 3.511414 1_555
+As1 K1 3.547865 1_555
+As1 K1 3.547871 1_544
+As1 K0 3.874610 1_554
+As2 Ga0 2.588134 1_565
+As2 Ga1 2.588134 1_554
+As2 Na1 2.985521 1_565
+As2 Na0 2.985521 1_555
+As2 K1 3.325247 1_454
+As2 K3 3.511422 1_455
+As2 K0 3.547871 1_565
+As2 K0 3.547871 1_554
+As2 K1 3.874616 1_555
+As3 Ga1 2.588134 1_645
+As3 Ga0 2.588134 1_656
+As3 Na1 2.985521 1_555
+As3 Na0 2.985521 1_545
+As3 K2 3.325247 1_656
+As3 K0 3.511422 1_655
+As3 K3 3.547871 1_556
+As3 K3 3.547871 1_545
+As3 K2 3.874616 1_555

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgTiCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12116384
+_cell_length_b   5.12116408
+_cell_length_c   5.12116394
+_cell_angle_alpha   131.61487606
+_cell_angle_beta   131.15651186
+_cell_angle_gamma   71.20163612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiCrO4
+_chemical_formula_sum   'Mg1 Ti1 Cr1 O4'
+_cell_volume   74.01262649
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.26290300  0.76290300  0.50000000  1
+  Ti  Ti0  1  0.75904100  0.25904100  0.50000000  1
+  Cr  Cr0  1  0.01013900  0.01013900  0.00000000  1
+  O  O0  1  0.52573700  0.02573700  0.50000000  1
+  O  O1  1  0.24939100  0.24939100  0.00000000  1
+  O  O2  1  0.99347200  0.49347200  0.50000000  1
+  O  O3  1  0.77074700  0.77074700  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 2.101691 1_566
+Mg0 O1 2.101691 1_555
+Mg0 O3 2.118353 1_455
+Mg0 O3 2.118353 1_556
+Mg0 O0 2.188871 1_565
+Mg0 O2 2.243810 1_455
+Cr0 O1 1.992481 1_555
+Cr0 O3 1.993647 1_445
+Cr0 O2 2.103262 1_455
+Cr0 O2 2.103262 1_444
+Cr0 O0 2.121326 1_454
+Cr0 O0 2.121326 1_555
+O0 Ti0 1.942946 1_555
+O1 Ti0 2.118870 1_454
+O1 Ti0 2.118870 1_555
+O2 Ti0 1.952332 1_555
+O3 Ti0 2.100940 1_565
+O3 Ti0 2.100940 1_554

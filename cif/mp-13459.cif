@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_NaCdSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73930681
+_cell_length_b   8.00805260
+_cell_length_c   8.53521237
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdSb
+_chemical_formula_sum   'Na4 Cd4 Sb4'
+_cell_volume   323.93365652
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.48576810  0.32122720  1
+  Na  Na1  1  0.25000000  0.51423190  0.67877280  1
+  Na  Na2  1  0.75000000  0.98576810  0.17877280  1
+  Na  Na3  1  0.25000000  0.01423190  0.82122720  1
+  Cd  Cd0  1  0.75000000  0.35002791  0.92330464  1
+  Cd  Cd1  1  0.25000000  0.64997209  0.07669536  1
+  Cd  Cd2  1  0.75000000  0.85002791  0.57669536  1
+  Cd  Cd3  1  0.25000000  0.14997209  0.42330464  1
+  Sb  Sb0  1  0.75000000  0.72300274  0.89439679  1
+  Sb  Sb1  1  0.25000000  0.27699726  0.10560321  1
+  Sb  Sb2  1  0.75000000  0.22300274  0.60560321  1
+  Sb  Sb3  1  0.25000000  0.77699726  0.39439679  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sb2 3.212346 1_555
+Na0 Sb3 3.382948 1_655
+Na0 Sb3 3.382948 1_555
+Na0 Sb1 3.434733 1_555
+Na0 Sb1 3.434733 1_655
+Na1 Sb3 3.212346 1_555
+Na1 Sb2 3.382948 1_555
+Na1 Sb2 3.382948 1_455
+Na1 Sb0 3.434733 1_455
+Na1 Sb0 3.434733 1_555
+Na2 Sb0 3.212346 1_554
+Na2 Sb1 3.382948 1_565
+Na2 Sb1 3.382948 1_665
+Na2 Sb3 3.434733 1_555
+Na2 Sb3 3.434733 1_655
+Na3 Sb1 3.212346 1_556
+Na3 Sb0 3.382948 1_445
+Na3 Sb0 3.382948 1_545
+Na3 Sb2 3.434733 1_555
+Na3 Sb2 3.434733 1_455
+Cd0 Sb1 2.894528 1_556
+Cd0 Sb1 2.894528 1_656
+Cd0 Sb2 2.896168 1_555
+Cd0 Sb0 2.996976 1_555
+Cd0 Na1 3.420596 1_555
+Cd0 Na1 3.420596 1_655
+Cd0 Na0 3.566065 1_556
+Cd0 Na2 3.641899 1_546
+Cd0 Na3 3.688556 1_555
+Cd0 Na3 3.688556 1_655
+Cd1 Sb0 2.894528 1_554
+Cd1 Sb0 2.894528 1_454
+Cd1 Sb3 2.896168 1_555
+Cd1 Sb1 2.996976 1_555
+Cd1 Na0 3.420596 1_555
+Cd1 Na0 3.420596 1_455
+Cd1 Na1 3.566065 1_554
+Cd1 Na3 3.641899 1_564
+Cd1 Na2 3.688556 1_455
+Cd1 Na2 3.688556 1_555
+Cd2 Sb3 2.894528 1_655
+Cd2 Sb3 2.894528 1_555
+Cd2 Sb0 2.896168 1_555
+Cd2 Sb2 2.996976 1_565
+Cd2 Na3 3.420596 1_665
+Cd2 Na3 3.420596 1_565
+Cd2 Na2 3.566065 1_555
+Cd2 Na0 3.641899 1_555
+Cd2 Na1 3.688556 1_555
+Cd2 Na1 3.688556 1_655
+Cd3 Sb2 2.894528 1_455
+Cd3 Sb2 2.894528 1_555
+Cd3 Sb1 2.896168 1_555
+Cd3 Sb3 2.996976 1_545
+Cd3 Na2 3.420596 1_445
+Cd3 Na2 3.420596 1_545
+Cd3 Na3 3.566065 1_555
+Cd3 Na1 3.641899 1_555
+Cd3 Na0 3.688556 1_555
+Cd3 Na0 3.688556 1_455

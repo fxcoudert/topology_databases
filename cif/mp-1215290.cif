@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrNbFe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92452149
+_cell_length_b   4.92452149
+_cell_length_c   8.04650200
+_cell_angle_alpha   89.99681025
+_cell_angle_beta   90.00318975
+_cell_angle_gamma   120.00327123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNbFe4
+_chemical_formula_sum   'Zr2 Nb2 Fe8'
+_cell_volume   168.98630599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33339000  0.66661000  0.06658000  1
+  Zr  Zr1  1  0.66661000  0.33339000  0.93342000  1
+  Nb  Nb0  1  0.66666600  0.33333400  0.55576500  1
+  Nb  Nb1  1  0.33333400  0.66666600  0.44423500  1
+  Fe  Fe0  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.16772900  0.33560000  0.74459600  1
+  Fe  Fe3  1  0.16778600  0.83221400  0.74443300  1
+  Fe  Fe4  1  0.66440000  0.83227100  0.74459600  1
+  Fe  Fe5  1  0.83227100  0.66440000  0.25540400  1
+  Fe  Fe6  1  0.83221400  0.16778600  0.25556700  1
+  Fe  Fe7  1  0.33560000  0.16772900  0.25540400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.037573 1_554
+Zr0 Zr1 3.038702 1_454
+Zr0 Zr1 3.038702 1_564
+Nb0 Nb1 2.981388 1_545
+Nb0 Nb1 2.981388 1_655
+Nb0 Nb1 2.981423 1_555
+Nb0 Zr1 3.038802 1_555
+Nb1 Zr0 3.038802 1_555
+Fe0 Fe3 2.432339 1_545
+Fe0 Fe6 2.432339 1_455
+Fe0 Fe7 2.433540 1_555
+Fe0 Fe5 2.433540 1_445
+Fe0 Fe2 2.433540 1_555
+Fe0 Fe4 2.433540 1_445
+Fe0 Nb1 2.878255 1_445
+Fe0 Nb0 2.878255 1_555
+Fe0 Nb0 2.878255 1_445
+Fe0 Nb1 2.878255 1_555
+Fe0 Nb0 2.878445 1_455
+Fe0 Nb1 2.878445 1_545
+Fe1 Fe4 2.504323 1_444
+Fe1 Fe2 2.504323 1_554
+Fe1 Fe5 2.504323 1_445
+Fe1 Fe7 2.504323 1_555
+Fe1 Fe3 2.505485 1_544
+Fe1 Fe6 2.505485 1_455
+Fe1 Zr0 2.892895 1_445
+Fe1 Zr0 2.892895 1_555
+Fe1 Zr1 2.892895 1_554
+Fe1 Zr1 2.892895 1_444
+Fe1 Zr0 2.893695 1_545
+Fe1 Zr1 2.893695 1_454
+Fe2 Fe3 2.445446 1_555
+Fe2 Fe4 2.445746 1_555
+Fe2 Fe4 2.478532 1_445
+Fe2 Fe3 2.479076 1_545
+Fe2 Nb1 2.798991 1_555
+Fe2 Nb0 2.892986 1_455
+Fe2 Zr1 2.893191 1_555
+Fe2 Zr1 2.893452 1_455
+Fe2 Nb0 2.893718 1_555
+Fe2 Zr0 2.950494 1_556
+Fe3 Fe4 2.445446 1_555
+Fe3 Fe4 2.479076 1_455
+Fe3 Nb1 2.798076 1_555
+Fe3 Nb0 2.892559 1_455
+Fe3 Nb0 2.892559 1_565
+Fe3 Zr1 2.893909 1_455
+Fe3 Zr1 2.893909 1_565
+Fe3 Zr0 2.951964 1_556
+Fe4 Nb1 2.798991 1_555
+Fe4 Nb0 2.892986 1_565
+Fe4 Zr1 2.893191 1_555
+Fe4 Zr1 2.893452 1_565
+Fe4 Nb0 2.893718 1_555
+Fe4 Zr0 2.950494 1_556
+Fe5 Fe6 2.445446 1_555
+Fe5 Fe7 2.445746 1_555
+Fe5 Fe7 2.478532 1_665
+Fe5 Fe6 2.479076 1_565
+Fe5 Nb0 2.798991 1_555
+Fe5 Nb1 2.892986 1_655
+Fe5 Zr0 2.893191 1_555
+Fe5 Zr0 2.893452 1_655
+Fe5 Nb1 2.893718 1_555
+Fe5 Zr1 2.950494 1_554
+Fe6 Fe7 2.445446 1_555
+Fe6 Fe7 2.479076 1_655
+Fe6 Nb0 2.798076 1_555
+Fe6 Nb1 2.892559 1_655
+Fe6 Nb1 2.892559 1_545
+Fe6 Zr0 2.893909 1_545
+Fe6 Zr0 2.893909 1_655
+Fe6 Zr1 2.951964 1_554
+Fe7 Nb0 2.798991 1_555
+Fe7 Nb1 2.892986 1_545
+Fe7 Zr0 2.893191 1_555
+Fe7 Zr0 2.893452 1_545
+Fe7 Nb1 2.893718 1_555
+Fe7 Zr1 2.950494 1_554

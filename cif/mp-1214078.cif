@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ca4Bi2Br4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06480400
+_cell_length_b   4.06480400
+_cell_length_c   32.91494600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Bi2Br4O3
+_chemical_formula_sum   'Ca4 Bi2 Br4 O3'
+_cell_volume   543.84152552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.24167100  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.75832900  1
+  Ca  Ca2  1  0.50000000  0.50000000  0.63556100  1
+  Ca  Ca3  1  0.50000000  0.50000000  0.36443900  1
+  Bi  Bi0  1  0.50000000  0.50000000  0.06380400  1
+  Bi  Bi1  1  0.50000000  0.50000000  0.93619600  1
+  Br  Br0  1  0.50000000  0.50000000  0.44300200  1
+  Br  Br1  1  0.50000000  0.50000000  0.55699800  1
+  Br  Br2  1  0.50000000  0.50000000  0.84112200  1
+  Br  Br3  1  0.50000000  0.50000000  0.15887800  1
+  O  O0  1  0.50000000  0.50000000  0.30228900  1
+  O  O1  1  0.50000000  0.50000000  0.69771100  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O0 1.995238 1_555
+Ca1 O1 1.995238 1_555
+Ca2 O1 2.045664 1_555
+Ca3 O0 2.045664 1_555
+Bi0 O2 2.100105 1_555
+Bi0 Br3 3.129356 1_555
+Bi1 O2 2.100105 1_556
+Bi1 Br2 3.129356 1_555
+Br0 Ca3 2.585897 1_555
+Br1 Ca2 2.585897 1_555
+Br2 Ca1 2.725127 1_555
+Br3 Ca0 2.725127 1_555

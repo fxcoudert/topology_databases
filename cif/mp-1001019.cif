@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Mg(ScSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90714318
+_cell_length_b   7.90714318
+_cell_length_c   7.90714318
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(ScSe2)2
+_chemical_formula_sum   'Mg2 Sc4 Se8'
+_cell_volume   349.57777225
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.37500000  0.37500000  0.37500000  1
+  Mg  Mg1  1  0.62500000  0.62500000  0.62500000  1
+  Sc  Sc0  1  -0.00000000  -0.00000000  0.50000000  1
+  Sc  Sc1  1  -0.00000000  0.50000000  0.00000000  1
+  Sc  Sc2  1  0.50000000  -0.00000000  0.00000000  1
+  Sc  Sc3  1  -0.00000000  -0.00000000  0.00000000  1
+  Se  Se0  1  0.24266969  0.24266969  0.77198993  1
+  Se  Se1  1  0.24266969  0.77198993  0.24266969  1
+  Se  Se2  1  0.77198993  0.24266969  0.24266969  1
+  Se  Se3  1  0.24266969  0.24266969  0.24266969  1
+  Se  Se4  1  0.75733031  0.75733031  0.22801007  1
+  Se  Se5  1  0.75733031  0.22801007  0.75733031  1
+  Se  Se6  1  0.22801007  0.75733031  0.75733031  1
+  Se  Se7  1  0.75733031  0.75733031  0.75733031  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Se2 2.563029 1_555
+Mg0 Se1 2.563029 1_555
+Mg0 Se0 2.563029 1_555
+Mg0 Se3 2.563035 1_555
+Mg1 Se6 2.563029 1_555
+Mg1 Se5 2.563029 1_555
+Mg1 Se4 2.563029 1_555
+Mg1 Se7 2.563035 1_555
+Sc0 Se3 2.716102 1_555
+Sc0 Se7 2.716102 1_445
+Sc0 Se1 2.716107 1_545
+Sc0 Se2 2.716107 1_455
+Sc0 Se6 2.716107 1_545
+Sc0 Se5 2.716107 1_455
+Sc1 Se3 2.716102 1_555
+Sc1 Se7 2.716102 1_454
+Sc1 Se6 2.716107 1_554
+Sc1 Se2 2.716107 1_455
+Sc1 Se4 2.716107 1_455
+Sc1 Se0 2.716107 1_554
+Sc2 Se3 2.716102 1_555
+Sc2 Se7 2.716102 1_544
+Sc2 Se4 2.716107 1_545
+Sc2 Se1 2.716107 1_545
+Sc2 Se5 2.716107 1_554
+Sc2 Se0 2.716107 1_554
+Sc3 Se0 2.716102 1_554
+Sc3 Se1 2.716102 1_545
+Sc3 Se2 2.716102 1_455
+Sc3 Se5 2.716102 1_454
+Sc3 Se6 2.716102 1_544
+Sc3 Se4 2.716102 1_445

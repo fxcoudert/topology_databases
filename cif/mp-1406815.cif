@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LiNiPO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20331300
+_cell_length_b   5.32098821
+_cell_length_c   7.24921998
+_cell_angle_alpha   109.02582573
+_cell_angle_beta   105.94468990
+_cell_angle_gamma   98.64739986
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNiPO4F
+_chemical_formula_sum   'Li2 Ni2 P2 O8 F2'
+_cell_volume   175.97444586
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.72923300  0.36784100  0.19828000  1
+  Li  Li1  1  0.27076700  0.63215900  0.80172000  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.50000000  1
+  P  P0  1  0.68680500  0.35447800  0.76158600  1
+  P  P1  1  0.31319500  0.64552200  0.23841400  1
+  O  O0  1  0.62459400  0.75599900  0.07579800  1
+  O  O1  1  0.30472900  0.34067200  0.34455100  1
+  O  O2  1  0.69527100  0.65932800  0.65544900  1
+  O  O3  1  0.25708200  0.79088800  0.39359300  1
+  O  O4  1  0.37540600  0.24400100  0.92420200  1
+  O  O5  1  0.74291800  0.20911200  0.60640700  1
+  O  O6  1  0.11050900  0.65988400  0.12236400  1
+  O  O7  1  0.88949100  0.34011600  0.87763600  1
+  F  F0  1  0.86612500  0.06458500  0.26615800  1
+  F  F1  1  0.13387500  0.93541500  0.73384200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 2.131475 1_554
+Li0 O0 2.572707 1_555
+Li1 O0 2.131475 1_556
+Li1 O4 2.572707 1_555
+Ni0 O7 2.339239 1_454
+Ni0 O6 2.339239 1_545
+Ni0 O1 2.458961 1_555
+Ni0 O2 2.458961 1_444
+Ni0 O4 2.468883 1_554
+Ni0 O0 2.468883 1_445
+Ni1 O3 2.019244 1_545
+Ni1 O5 2.019244 1_455
+O0 P1 2.361238 1_555
+O1 P1 2.008982 1_555
+O2 P0 2.008982 1_555
+O3 P1 1.276736 1_555
+O4 P0 2.361238 1_555
+O5 P0 1.276736 1_555
+O6 P1 1.185128 1_555
+O7 P0 1.185128 1_555
+F0 O0 1.768940 1_545
+F0 Ni1 1.811071 1_655
+F0 Li0 2.005990 1_555
+F0 Ni0 2.168914 1_655
+F1 O4 1.768940 1_565
+F1 Ni1 1.811071 1_565
+F1 Li1 2.005990 1_555
+F1 Ni0 2.168914 1_566

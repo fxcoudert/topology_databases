@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MgV2Ni(TeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07965044
+_cell_length_b   6.48364041
+_cell_length_c   7.14744351
+_cell_angle_alpha   90.66933317
+_cell_angle_beta   61.46356227
+_cell_angle_gamma   77.67790072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2Ni(TeO5)2
+_chemical_formula_sum   'Mg1 V2 Ni1 Te2 O10'
+_cell_volume   200.25817402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00518503  0.99623761  0.99586139  1
+  V  V0  1  0.67058781  0.61515048  0.59356888  1
+  V  V1  1  0.34124325  0.37807469  0.39759472  1
+  Ni  Ni0  1  0.00435382  0.49719998  0.99303186  1
+  Te  Te0  1  0.28771418  0.84343356  0.26443356  1
+  Te  Te1  1  0.72082595  0.15088719  0.72857190  1
+  O  O0  1  0.06250112  0.53229683  0.29988906  1
+  O  O1  1  0.68214020  0.28979717  0.14379900  1
+  O  O2  1  0.28161397  0.19096205  0.92181319  1
+  O  O3  1  0.60633383  0.33052035  0.55360567  1
+  O  O4  1  0.77912453  0.89666329  0.55349431  1
+  O  O5  1  0.23235911  0.09640546  0.43986125  1
+  O  O6  1  0.40691881  0.66236366  0.43643476  1
+  O  O7  1  0.72652101  0.80342166  0.06845911  1
+  O  O8  1  0.32732797  0.70252400  0.84673751  1
+  O  O9  1  0.94858242  0.46197903  0.69284382  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 1.975978 1_456
+Mg0 O2 1.976858 1_565
+Mg0 O1 2.096567 1_466
+Mg0 O8 2.096755 1_555
+Ni0 O7 2.067955 1_456
+Ni0 O2 2.069516 1_555
+Ni0 O8 2.209708 1_555
+Ni0 O1 2.221827 1_456
+Ni0 O9 2.309291 1_455
+Ni0 O0 2.363327 1_556
+O0 V1 1.961912 1_555
+O0 V0 2.045117 1_455
+O0 Te0 2.482421 1_555
+O1 V1 1.779960 1_555
+O2 Te1 1.937207 1_555
+O3 Te1 1.923129 1_555
+O3 V0 1.981818 1_555
+O3 V1 2.101702 1_555
+O4 Te1 1.939043 1_565
+O4 V0 2.002074 1_555
+O4 Te0 2.359030 1_655
+O5 Te0 1.938987 1_545
+O5 V1 2.004171 1_555
+O5 Te1 2.367057 1_455
+O6 Te0 1.922966 1_555
+O6 V1 1.981119 1_555
+O6 V0 2.102180 1_555
+O7 Te0 1.938904 1_555
+O8 V0 1.781981 1_555
+O9 V0 1.964446 1_555
+O9 V1 2.053309 1_655
+O9 Te1 2.489527 1_555

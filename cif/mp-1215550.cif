@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zn2InAgTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37895900
+_cell_length_b   6.37895900
+_cell_length_c   7.78479231
+_cell_angle_alpha   65.81360924
+_cell_angle_beta   65.81360924
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2InAgTe4
+_chemical_formula_sum   'Zn2 In1 Ag1 Te4'
+_cell_volume   258.18005684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.25000000  0.75000000  0.50000000  1
+  Zn  Zn1  1  0.75000000  0.25000000  0.50000000  1
+  In  In0  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.37964300  0.88623200  0.73412600  1
+  Te  Te1  1  0.62035700  0.62035700  0.26587400  1
+  Te  Te2  1  0.88623200  0.37964300  0.73412600  1
+  Te  Te3  1  0.11376800  0.11376800  0.26587400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Te1 2.840258 1_555
+In0 Te0 2.840262 1_554
+In0 Te2 2.840262 1_554
+In0 Te3 2.840266 1_555
+Ag0 Te3 2.792661 1_555
+Ag0 Te0 2.792664 1_544
+Ag0 Te2 2.792664 1_454
+Ag0 Te1 2.792668 1_445
+Te0 Zn1 2.700734 1_565
+Te0 Zn0 2.700741 1_555
+Te1 Zn0 2.700738 1_555
+Te1 Zn1 2.700738 1_555
+Te2 Zn0 2.700734 1_655
+Te2 Zn1 2.700741 1_555
+Te3 Zn1 2.700738 1_455
+Te3 Zn0 2.700738 1_545

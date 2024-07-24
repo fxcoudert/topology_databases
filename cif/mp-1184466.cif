@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_EuIn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78698973
+_cell_length_b   6.78699460
+_cell_length_c   5.32165793
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00003438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuIn3
+_chemical_formula_sum   'Eu2 In6'
+_cell_volume   212.29126862
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333300  0.66666700  0.75000000  1
+  Eu  Eu1  1  0.66666700  0.33333300  0.25000000  1
+  In  In0  1  0.15768826  0.31537652  0.25000000  1
+  In  In1  1  0.68462348  0.84231074  0.25000000  1
+  In  In2  1  0.15768826  0.84231074  0.25000000  1
+  In  In3  1  0.84231174  0.68462348  0.75000000  1
+  In  In4  1  0.31537652  0.15768926  0.75000000  1
+  In  In5  1  0.84231174  0.15768926  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 In2 3.367980 1_555
+Eu0 In2 3.367980 1_556
+Eu0 In1 3.367986 1_556
+Eu0 In1 3.367986 1_555
+Eu0 In0 3.367987 1_556
+Eu0 In0 3.367987 1_555
+Eu0 In5 3.395132 1_455
+Eu0 In3 3.395132 1_455
+Eu0 In4 3.395135 1_555
+Eu0 In5 3.395139 1_565
+Eu0 In3 3.395139 1_555
+Eu0 In4 3.395142 1_565
+Eu1 In5 3.367980 1_555
+Eu1 In5 3.367980 1_554
+Eu1 In4 3.367986 1_554
+Eu1 In4 3.367986 1_555
+Eu1 In3 3.367987 1_554
+Eu1 In3 3.367987 1_555
+Eu1 In2 3.395132 1_655
+Eu1 In0 3.395132 1_655
+Eu1 In1 3.395135 1_555
+Eu1 In2 3.395139 1_545
+Eu1 In0 3.395139 1_555
+Eu1 In1 3.395142 1_545

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_SmInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62696178
+_cell_length_b   8.62696178
+_cell_length_c   3.82525900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInPt
+_chemical_formula_sum   'Sm3 In3 Pt3'
+_cell_volume   246.55126375
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.62552200  0.50000000  1
+  Sm  Sm1  1  0.62552200  0.00000000  0.50000000  1
+  Sm  Sm2  1  0.37447800  0.37447800  0.50000000  1
+  In  In0  1  0.00000000  0.25089300  0.00000000  1
+  In  In1  1  0.74910700  0.74910700  0.00000000  1
+  In  In2  1  0.25089300  0.00000000  0.00000000  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt1  1  0.66666700  0.33333300  0.50000000  1
+  Pt  Pt2  1  0.33333300  0.66666700  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Pt0 2.888420 1_554
+In0 Pt0 2.888420 1_555
+In0 Sm2 3.433267 1_555
+In0 Sm2 3.433267 1_554
+In0 Sm1 3.433267 1_455
+In0 Sm1 3.433267 1_454
+In0 Sm0 3.755449 1_554
+In0 Sm0 3.755449 1_555
+In1 Pt0 2.888420 1_664
+In1 Pt0 2.888420 1_665
+In1 Sm0 3.433267 1_655
+In1 Sm0 3.433267 1_654
+In1 Sm1 3.433267 1_565
+In1 Sm1 3.433267 1_564
+In1 Sm2 3.755449 1_555
+In1 Sm2 3.755449 1_554
+In2 Pt0 2.888420 1_554
+In2 Pt0 2.888420 1_555
+In2 Sm2 3.433267 1_555
+In2 Sm2 3.433267 1_554
+In2 Sm0 3.433267 1_545
+In2 Sm0 3.433267 1_544
+In2 Sm1 3.755449 1_555
+In2 Sm1 3.755449 1_554
+Pt0 Sm0 3.230607 1_545
+Pt0 Sm1 3.230607 1_455
+Pt0 Sm2 3.230607 1_555
+Pt1 Sm1 2.715627 1_555
+Pt1 Sm0 2.715631 1_655
+Pt1 Sm2 2.715636 1_555
+Pt2 Sm0 2.715627 1_555
+Pt2 Sm1 2.715631 1_565
+Pt2 Sm2 2.715636 1_555

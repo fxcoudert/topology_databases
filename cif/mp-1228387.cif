@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ba2CoNiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39882600
+_cell_length_b   4.39882600
+_cell_length_c   8.96151900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoNiS4
+_chemical_formula_sum   'Ba2 Co1 Ni1 S4'
+_cell_volume   173.40243695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.19885800  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.80097500  1
+  Co  Co0  1  0.50000000  0.50000000  0.58783600  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.41322800  1
+  S  S0  1  0.50000000  0.50000000  0.84054400  1
+  S  S1  1  0.00000000  0.00000000  0.15496200  1
+  S  S2  1  0.50000000  0.00000000  0.50179800  1
+  S  S3  1  0.00000000  0.50000000  0.50179800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 S1 3.135216 1_555
+Ba0 S1 3.135216 1_565
+Ba0 S1 3.135216 1_655
+Ba0 S1 3.135216 1_665
+Ba0 S0 3.211038 1_554
+Ba1 S0 3.130587 1_455
+Ba1 S0 3.130587 1_555
+Ba1 S0 3.130587 1_445
+Ba1 S0 3.130587 1_545
+Ba1 S1 3.172261 1_556
+Co0 S0 2.264648 1_555
+Co0 S3 2.330645 1_655
+Co0 S2 2.330645 1_555
+Co0 S2 2.330645 1_565
+Co0 S3 2.330645 1_555
+Ni0 S1 2.314456 1_555
+Ni0 S2 2.338250 1_455
+Ni0 S3 2.338250 1_555
+Ni0 S3 2.338250 1_545
+Ni0 S2 2.338250 1_555

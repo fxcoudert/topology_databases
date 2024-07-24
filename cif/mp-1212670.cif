@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_GaGe(MoS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50755776
+_cell_length_b   7.50755776
+_cell_length_c   7.50755776
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaGe(MoS2)4
+_chemical_formula_sum   'Ga1 Ge1 Mo4 S8'
+_cell_volume   299.21340620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.25000000  0.25000000  0.25000000  1
+  Mo  Mo0  1  0.40657600  0.40657600  0.40657600  1
+  Mo  Mo1  1  0.40657600  0.40657600  0.78027300  1
+  Mo  Mo2  1  0.40657600  0.78027300  0.40657600  1
+  Mo  Mo3  1  0.78027300  0.40657600  0.40657600  1
+  S  S0  1  0.12714700  0.12714700  0.12714700  1
+  S  S1  1  0.12714700  0.12714700  0.61855800  1
+  S  S2  1  0.12714700  0.61855800  0.12714700  1
+  S  S3  1  0.61855800  0.12714700  0.12714700  1
+  S  S4  1  0.62427900  0.62427900  0.62427900  1
+  S  S5  1  0.62427900  0.62427900  0.12716200  1
+  S  S6  1  0.62427900  0.12716200  0.62427900  1
+  S  S7  1  0.12716200  0.62427900  0.62427900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 S0 2.338193 1_555
+Ga0 S1 2.338199 1_554
+Ga0 S2 2.338199 1_545
+Ga0 S3 2.338199 1_455
+Ge0 S2 2.259222 1_555
+Ge0 S1 2.259222 1_555
+Ge0 S3 2.259222 1_555
+Ge0 S0 2.259228 1_555
+Mo0 S6 2.357390 1_555
+Mo0 S5 2.357390 1_555
+Mo0 S7 2.357390 1_555
+Mo1 S4 2.357387 1_555
+Mo1 S6 2.357399 1_555
+Mo1 S7 2.357399 1_555
+Mo2 S4 2.357387 1_555
+Mo2 S7 2.357399 1_555
+Mo2 S5 2.357399 1_555
+Mo3 S4 2.357387 1_555
+Mo3 S6 2.357399 1_555
+Mo3 S5 2.357399 1_555

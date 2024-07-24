@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Tb4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86622250
+_cell_length_b   4.30111223
+_cell_length_c   10.62049894
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Si3Ge
+_chemical_formula_sum   'Tb4 Si3 Ge1'
+_cell_volume   176.60888095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  -0.00000000  -0.00000000  0.13822878  1
+  Tb  Tb1  1  -0.00000000  0.50000000  0.64114590  1
+  Tb  Tb2  1  0.50000000  0.50000000  0.35935906  1
+  Tb  Tb3  1  0.50000000  -0.00000000  0.86018558  1
+  Si  Si0  1  -0.00000000  0.50000000  0.92490590  1
+  Si  Si1  1  0.50000000  0.50000000  0.07559858  1
+  Si  Si2  1  0.50000000  -0.00000000  0.57979872  1
+  Ge  Ge0  1  0.00000000  -0.00000000  0.42077748  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.509641 1_456
+Si0 Si1 2.509641 1_556
+Si0 Tb3 2.972251 1_455
+Si0 Tb3 2.972251 1_555
+Si0 Tb3 2.972251 1_465
+Si0 Tb3 2.972251 1_565
+Si0 Tb1 3.013673 1_555
+Si0 Tb0 3.123750 1_556
+Si0 Tb0 3.123750 1_566
+Si1 Tb0 2.967196 1_565
+Si1 Tb0 2.967196 1_665
+Si1 Tb0 2.967196 1_655
+Si1 Tb0 2.967196 1_555
+Si1 Tb2 3.013678 1_555
+Si1 Tb3 3.139887 1_554
+Si1 Tb3 3.139887 1_564
+Si2 Tb1 2.964171 1_645
+Si2 Tb1 2.964171 1_555
+Si2 Tb1 2.964171 1_655
+Si2 Tb1 2.964171 1_545
+Si2 Tb3 2.977848 1_555
+Si2 Tb2 3.178995 1_555
+Si2 Tb2 3.178995 1_545
+Ge0 Si2 2.566954 1_455
+Ge0 Si2 2.566954 1_555
+Ge0 Tb2 2.964338 1_555
+Ge0 Tb2 2.964338 1_445
+Ge0 Tb2 2.964338 1_545
+Ge0 Tb2 2.964338 1_455
+Ge0 Tb0 3.000808 1_555
+Ge0 Tb1 3.178438 1_545
+Ge0 Tb1 3.178438 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CaTiH6(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32981300
+_cell_length_b   6.31966301
+_cell_length_c   6.31966301
+_cell_angle_alpha   120.00001056
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTiH6(OF3)2
+_chemical_formula_sum   'Ca1 Ti1 H6 O2 F6'
+_cell_volume   218.93203121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  H  H0  1  0.75570400  0.80853700  0.30195600  1
+  H  H1  1  0.75570400  0.49341900  0.19146300  1
+  H  H2  1  0.24429600  0.50658100  0.69804400  1
+  H  H3  1  0.75570400  0.69804400  0.50658100  1
+  H  H4  1  0.24429600  0.30195600  0.80853700  1
+  H  H5  1  0.24429600  0.19146300  0.49341900  1
+  O  O0  1  0.72006000  0.66666700  0.33333300  1
+  O  O1  1  0.27994000  0.33333300  0.66666700  1
+  F  F0  1  0.76548300  0.75602400  0.75319600  1
+  F  F1  1  0.76548300  0.99717200  0.24397600  1
+  F  F2  1  0.23451600  0.00282800  0.24680400  1
+  F  F3  1  0.76548300  0.24680400  0.00282800  1
+  F  F4  1  0.23451600  0.75319600  0.75602400  1
+  F  F5  1  0.23451600  0.24397600  0.99717200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F0 2.286723 1_544
+Ca0 F3 2.286723 1_555
+Ca0 F1 2.286723 1_545
+Ca0 F4 2.286728 1_544
+Ca0 F2 2.286728 1_555
+Ca0 F5 2.286728 1_554
+H0 O0 1.035300 1_555
+H1 O0 1.035304 1_555
+H2 O1 1.035306 1_555
+H3 O0 1.035306 1_555
+H4 O1 1.035300 1_555
+H5 O1 1.035304 1_555
+F0 H3 1.412806 1_555
+F0 Ti0 2.146800 1_666
+F1 H0 1.412806 1_555
+F1 Ti0 2.146801 1_665
+F2 H5 1.412806 1_555
+F2 Ti0 2.146796 1_555
+F3 H1 1.412806 1_555
+F3 Ti0 2.146801 1_655
+F4 H2 1.412807 1_555
+F4 Ti0 2.146796 1_566
+F5 H4 1.412807 1_555
+F5 Ti0 2.146796 1_556

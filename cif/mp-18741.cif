@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_RbLiCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33865495
+_cell_length_b   5.33865512
+_cell_length_c   9.13413352
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999902
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiCrO4
+_chemical_formula_sum   'Rb2 Li2 Cr2 O8'
+_cell_volume   225.45595450
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  -0.00000000  0.49489152  1
+  Rb  Rb1  1  0.00000000  -0.00000000  0.99489152  1
+  Li  Li0  1  0.66666700  0.33333300  0.68036877  1
+  Li  Li1  1  0.33333300  0.66666700  0.18036877  1
+  Cr  Cr0  1  0.33333300  0.66666700  0.79150689  1
+  Cr  Cr1  1  0.66666700  0.33333300  0.29150689  1
+  O  O0  1  0.61937834  0.96399295  0.73438407  1
+  O  O1  1  0.03600705  0.65538539  0.73438407  1
+  O  O2  1  0.34461461  0.38062166  0.73438407  1
+  O  O3  1  0.96399295  0.61937834  0.23438407  1
+  O  O4  1  0.66666700  0.33333300  0.47148463  1
+  O  O5  1  0.33333300  0.66666700  0.97148463  1
+  O  O6  1  0.38062166  0.34461461  0.23438407  1
+  O  O7  1  0.65538539  0.03600705  0.23438407  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 1.907976 1_555
+Li0 O0 1.922832 1_545
+Li0 O1 1.922834 1_655
+Li0 O2 1.922837 1_555
+Li1 O5 1.907976 1_554
+Li1 O3 1.922832 1_455
+Li1 O7 1.922834 1_565
+Li1 O6 1.922837 1_555
+Cr0 O1 1.643123 1_555
+Cr0 O0 1.643126 1_555
+Cr0 O2 1.643128 1_555
+Cr0 O5 1.643941 1_555
+Cr1 O7 1.643123 1_555
+Cr1 O3 1.643126 1_555
+Cr1 O6 1.643128 1_555
+Cr1 O4 1.643941 1_555
+O0 Rb0 2.925885 1_665
+O0 Rb1 3.072045 1_665
+O1 Rb0 2.925885 1_565
+O1 Rb1 3.072045 1_565
+O2 Rb0 2.925885 1_555
+O2 Rb1 3.072045 1_555
+O3 Rb1 2.925885 1_664
+O3 Rb0 3.072045 1_665
+O4 Rb0 3.089677 1_655
+O4 Rb0 3.089682 1_555
+O4 Rb0 3.089682 1_665
+O5 Rb1 3.089677 1_565
+O5 Rb1 3.089682 1_665
+O5 Rb1 3.089682 1_555
+O6 Rb1 2.925885 1_554
+O6 Rb0 3.072045 1_555
+O7 Rb1 2.925885 1_654
+O7 Rb0 3.072045 1_655

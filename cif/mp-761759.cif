@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbOF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58808600
+_cell_length_b   7.50181200
+_cell_length_c   9.48439358
+_cell_angle_alpha   67.28262488
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbOF3
+_chemical_formula_sum   'Sb4 O4 F12'
+_cell_volume   366.74822146
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.07479900  0.68975100  0.50614700  1
+  Sb  Sb1  1  0.57479900  0.31024900  0.99385300  1
+  Sb  Sb2  1  0.42520100  0.68975100  0.00614700  1
+  Sb  Sb3  1  0.92520100  0.31024900  0.49385300  1
+  O  O0  1  0.27435700  0.46265300  0.99036600  1
+  O  O1  1  0.77435700  0.53734700  0.50963400  1
+  O  O2  1  0.22564300  0.46265300  0.49036600  1
+  O  O3  1  0.72564300  0.53734700  0.00963400  1
+  F  F0  1  0.53342500  0.90519100  0.83709800  1
+  F  F1  1  0.96657500  0.90519100  0.33709800  1
+  F  F2  1  0.36348300  0.82083400  0.50961000  1
+  F  F3  1  0.99074700  0.69786100  0.69670200  1
+  F  F4  1  0.13651700  0.82083400  0.00961000  1
+  F  F5  1  0.50925300  0.69786100  0.19670200  1
+  F  F6  1  0.49074700  0.30213900  0.80329800  1
+  F  F7  1  0.86348300  0.17916600  0.99039000  1
+  F  F8  1  0.00925300  0.30213900  0.30329800  1
+  F  F9  1  0.63651700  0.17916600  0.49039000  1
+  F  F10  1  0.03342500  0.09480900  0.66290200  1
+  F  F11  1  0.46657500  0.09480900  0.16290200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Sb2 1.957624 1_556
+O0 Sb1 2.024285 1_555
+O1 Sb3 1.957624 1_555
+O1 Sb0 2.024285 1_655
+O2 Sb0 1.957624 1_555
+O2 Sb3 2.024285 1_455
+O3 Sb1 1.957624 1_554
+O3 Sb2 2.024285 1_555
+F0 Sb2 1.883358 1_556
+F1 Sb0 1.883358 1_655
+F2 Sb0 1.896156 1_555
+F3 Sb0 1.890916 1_655
+F4 Sb2 1.896156 1_555
+F5 Sb2 1.890916 1_555
+F6 Sb1 1.890916 1_555
+F7 Sb1 1.896156 1_555
+F8 Sb3 1.890916 1_455
+F9 Sb3 1.896156 1_555
+F10 Sb3 1.883358 1_455
+F11 Sb1 1.883358 1_554

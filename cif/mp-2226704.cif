@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_MgMn2(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17150926
+_cell_length_b   5.10768726
+_cell_length_c   6.10960900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   94.01935559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn2(WO4)2
+_chemical_formula_sum   'Mg1 Mn2 W2 O8'
+_cell_volume   160.98504289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.75000000  0.91090100  1
+  Mn  Mn0  1  0.50000000  0.75000000  0.36565300  1
+  Mn  Mn1  1  0.50000000  0.25000000  0.62794300  1
+  W  W0  1  0.00000000  0.75000000  0.83532100  1
+  W  W1  1  0.00000000  0.25000000  0.16190000  1
+  O  O0  1  0.74628000  0.10591100  0.36625900  1
+  O  O1  1  0.25372000  0.39408900  0.36625900  1
+  O  O2  1  0.27672900  0.88797400  0.64418300  1
+  O  O3  1  0.72327100  0.61202600  0.64418300  1
+  O  O4  1  0.78064300  0.05512000  0.89930000  1
+  O  O5  1  0.21935700  0.44488000  0.89930000  1
+  O  O6  1  0.21717100  0.93055400  0.09252400  1
+  O  O7  1  0.78282900  0.56944600  0.09252400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 2.055028 1_555
+Mg0 O4 2.055028 1_565
+Mg0 O6 2.100057 1_556
+Mg0 O7 2.100057 1_556
+Mg0 O2 2.144606 1_555
+Mg0 O3 2.144606 1_555
+Mn0 O1 2.145294 1_555
+Mn0 O0 2.145294 1_565
+Mn0 O2 2.199941 1_555
+Mn0 O3 2.199941 1_555
+Mn0 O6 2.442033 1_555
+Mn0 O7 2.442033 1_555
+Mn1 O3 2.112575 1_555
+Mn1 O2 2.112575 1_545
+Mn1 O1 2.202571 1_555
+Mn1 O0 2.202571 1_555
+Mn1 O4 2.459331 1_555
+Mn1 O5 2.459331 1_555
+O0 W1 1.920104 1_655
+O1 W1 1.920104 1_555
+O2 W0 1.940884 1_555
+O3 W0 1.940884 1_655
+O4 W0 2.028867 1_645
+O4 W1 2.166431 1_656
+O5 W0 2.028867 1_555
+O5 W1 2.166431 1_556
+O6 W1 2.088091 1_565
+O6 W0 2.106173 1_554
+O7 W1 2.088091 1_655
+O7 W0 2.106173 1_654

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_TmCrTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36267494
+_cell_length_b   5.36267494
+_cell_length_c   8.66263900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmCrTeO6
+_chemical_formula_sum   'Tm2 Cr2 Te2 O12'
+_cell_volume   215.74649200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.33333300  0.66666700  0.75000000  1
+  Tm  Tm1  1  0.66666700  0.33333300  0.25000000  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te0  1  0.66666700  0.33333300  0.75000000  1
+  Te  Te1  1  0.33333300  0.66666700  0.25000000  1
+  O  O0  1  0.96290300  0.31502800  0.87514200  1
+  O  O1  1  0.03709700  0.68497200  0.12485800  1
+  O  O2  1  0.35212500  0.03709700  0.87514200  1
+  O  O3  1  0.35212500  0.31502800  0.62485800  1
+  O  O4  1  0.64787500  0.96290300  0.12485800  1
+  O  O5  1  0.64787500  0.68497200  0.37514200  1
+  O  O6  1  0.68497200  0.64787500  0.87514200  1
+  O  O7  1  0.68497200  0.03709700  0.62485800  1
+  O  O8  1  0.31502800  0.35212500  0.12485800  1
+  O  O9  1  0.31502800  0.96290300  0.37514200  1
+  O  O10  1  0.96290300  0.64787500  0.62485800  1
+  O  O11  1  0.03709700  0.35212500  0.37514200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 O8 2.097515 1_555
+Cr0 O6 2.097515 1_444
+Cr0 O4 2.097515 1_445
+Cr0 O2 2.097515 1_554
+Cr0 O1 2.097515 1_545
+Cr0 O0 2.097515 1_454
+Cr1 O3 2.097515 1_555
+Cr1 O5 2.097515 1_445
+Cr1 O10 2.097515 1_445
+Cr1 O11 2.097515 1_555
+Cr1 O9 2.097515 1_545
+Cr1 O7 2.097515 1_455
+O0 Te0 1.965826 1_555
+O0 Tm0 2.220659 1_655
+O1 Te1 1.965826 1_555
+O1 Tm1 2.220659 1_455
+O2 Te0 1.965828 1_555
+O2 Tm0 2.220657 1_545
+O3 Te0 1.965830 1_555
+O3 Tm0 2.220662 1_555
+O4 Te1 1.965828 1_555
+O4 Tm1 2.220657 1_565
+O5 Te1 1.965830 1_555
+O5 Tm1 2.220662 1_555
+O6 Te0 1.965830 1_555
+O6 Tm0 2.220662 1_555
+O7 Te0 1.965826 1_555
+O7 Tm0 2.220659 1_545
+O8 Te1 1.965830 1_555
+O8 Tm1 2.220662 1_555
+O9 Te1 1.965826 1_555
+O9 Tm1 2.220659 1_565
+O10 Te0 1.965828 1_555
+O10 Tm0 2.220657 1_655
+O11 Te1 1.965828 1_555
+O11 Tm1 2.220657 1_455

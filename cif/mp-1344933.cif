@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_CaTiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43050000
+_cell_length_b   8.61364636
+_cell_length_c   8.86634322
+_cell_angle_alpha   96.31795418
+_cell_angle_beta   90.34464230
+_cell_angle_gamma   99.58663595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTiO2
+_chemical_formula_sum   'Ca4 Ti4 O8'
+_cell_volume   256.68563714
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.53566200  0.81474900  0.07032900  1
+  Ca  Ca1  1  0.18034600  0.13256600  0.82539700  1
+  Ca  Ca2  1  0.17125100  0.16505000  0.21660700  1
+  Ca  Ca3  1  0.00841000  0.75255000  0.71107400  1
+  Ti  Ti0  1  0.94288300  0.52193800  0.15862600  1
+  Ti  Ti1  1  0.53103500  0.79181200  0.41405700  1
+  Ti  Ti2  1  0.66025700  0.11324300  0.52197300  1
+  Ti  Ti3  1  0.95217800  0.45737700  0.83760900  1
+  O  O0  1  0.73795600  0.25826400  0.70873400  1
+  O  O1  1  0.42488500  0.54600000  0.75591100  1
+  O  O2  1  0.99894500  0.70824800  0.45629500  1
+  O  O3  1  0.46544900  0.60410300  0.23210800  1
+  O  O4  1  0.05751900  0.33965900  0.01161800  1
+  O  O5  1  0.59435300  0.98802600  0.30621100  1
+  O  O6  1  0.95941000  0.65317700  0.98269900  1
+  O  O7  1  0.58707400  0.92761500  0.63008700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O6 2.259017 1_554
+Ca0 O6 2.296867 1_454
+Ca0 O3 2.416411 1_555
+Ca0 O5 2.418688 1_555
+Ca1 O0 2.306572 1_455
+Ca1 O0 2.341319 1_555
+Ca1 O4 2.386671 1_556
+Ca1 O7 2.870324 1_545
+Ca1 O7 2.888848 1_445
+Ca2 O5 2.460260 1_545
+Ca2 O5 2.480583 1_445
+Ca2 O4 2.550720 1_555
+Ca3 O2 2.248295 1_455
+Ca3 O7 2.414637 1_455
+Ca3 O7 2.447157 1_555
+Ca3 O1 2.511879 1_455
+Ca3 O1 2.521929 1_555
+Ca3 O6 2.640376 1_455
+O0 Ti2 1.949858 1_555
+O0 Ti3 1.981415 1_555
+O1 Ti3 1.860270 1_455
+O1 Ti3 2.223811 1_555
+O2 Ti1 1.902663 1_655
+O2 Ti1 1.916202 1_555
+O3 Ti0 1.897600 1_455
+O3 Ti0 1.976189 1_555
+O3 Ti1 2.137225 1_555
+O4 Ti3 1.999676 1_454
+O4 Ti0 2.019938 1_455
+O5 Ti1 2.013432 1_555
+O5 Ti2 2.081715 1_565
+O6 Ti3 2.002026 1_555
+O6 Ti0 2.020395 1_556
+O7 Ti2 1.935203 1_565
+O7 Ti1 2.121692 1_555

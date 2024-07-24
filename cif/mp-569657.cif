@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Sm(AlZn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14129646
+_cell_length_b   4.14129324
+_cell_length_c   6.15695760
+_cell_angle_alpha   109.53057053
+_cell_angle_beta   109.53066945
+_cell_angle_gamma   90.14436555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(AlZn)2
+_chemical_formula_sum   'Sm1 Al2 Zn2'
+_cell_volume   93.01270437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Al  Al0  1  0.24959948  0.75040052  0.50000000  1
+  Al  Al1  1  0.75040052  0.24959948  0.50000000  1
+  Zn  Zn0  1  0.61027570  0.61027470  0.22108857  1
+  Zn  Zn1  1  0.38972430  0.38972530  0.77891143  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sm0 Zn0 3.160300 1_445
+Sm0 Zn1 3.160300 1_554
+Sm0 Zn0 3.161497 1_555
+Sm0 Zn1 3.161497 1_444
+Sm0 Zn0 3.167725 1_455
+Sm0 Zn1 3.167725 1_544
+Sm0 Zn1 3.167728 1_454
+Sm0 Zn0 3.167728 1_545
+Al0 Zn1 2.563158 1_555
+Al0 Zn0 2.563165 1_555
+Al0 Zn0 2.565464 1_455
+Al0 Zn1 2.565468 1_565
+Al0 Sm0 3.408714 1_565
+Al0 Sm0 3.408717 1_566
+Al0 Sm0 3.415039 1_666
+Al0 Sm0 3.415040 1_555
+Al1 Zn0 2.563158 1_555
+Al1 Zn1 2.563165 1_555
+Al1 Zn1 2.565464 1_655
+Al1 Zn0 2.565468 1_545
+Al1 Sm0 3.408714 1_656
+Al1 Sm0 3.408717 1_655
+Al1 Sm0 3.415039 1_555
+Al1 Sm0 3.415040 1_666
+Zn0 Zn1 2.398102 1_554

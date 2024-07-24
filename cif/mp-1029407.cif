@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_NaCrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42597825
+_cell_length_b   5.08053544
+_cell_length_c   8.13147185
+_cell_angle_alpha   89.99564162
+_cell_angle_beta   138.52876409
+_cell_angle_gamma   117.93112071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCrN2
+_chemical_formula_sum   'Na2 Cr2 N4'
+_cell_volume   104.95173022
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99997231  0.50011598  0.74998624  1
+  Na  Na1  1  -0.00000853  0.00013032  0.49998118  1
+  Cr  Cr0  1  -0.00017719  0.49989196  0.24990135  1
+  Cr  Cr1  1  0.99986612  -0.00016013  -0.00010634  1
+  N  N0  1  0.50050982  0.11222564  0.12531788  1
+  N  N1  1  0.50010416  0.88793300  0.62492972  1
+  N  N2  1  0.27590690  0.38795819  0.26296849  1
+  N  N3  1  0.72382542  0.61190404  -0.01297952  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 N0 1.770281 1_455
+Cr0 N3 1.771122 1_455
+Cr0 N1 1.771197 1_555
+Cr0 N2 1.771528 1_555
+Cr1 N3 1.771560 1_545
+Cr1 N1 1.771647 1_544
+Cr1 N2 1.772000 1_655
+Cr1 N0 1.772197 1_655
+N0 Na1 2.454238 1_655
+N0 Na0 2.455481 1_444
+N1 Na0 2.455287 1_565
+N1 Na1 2.457269 1_565
+N2 Na1 2.455568 1_665
+N2 Na0 2.455648 1_555
+N3 Na1 2.454951 1_554
+N3 Na0 2.455521 1_454

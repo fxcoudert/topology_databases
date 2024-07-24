@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_KFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54471752
+_cell_length_b   6.54471752
+_cell_length_c   5.35945095
+_cell_angle_alpha   78.20264736
+_cell_angle_beta   78.20264736
+_cell_angle_gamma   114.60053525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeS2
+_chemical_formula_sum   'K2 Fe2 S4'
+_cell_volume   193.20175032
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64129242  0.35870758  0.75000000  1
+  K  K1  1  0.35870758  0.64129242  0.25000000  1
+  Fe  Fe0  1  0.99372826  0.00627174  0.25000000  1
+  Fe  Fe1  1  0.00627174  0.99372826  0.75000000  1
+  S  S0  1  0.30418627  0.08976933  0.39205273  1
+  S  S1  1  0.91023067  0.69581373  0.10794727  1
+  S  S2  1  0.08976933  0.30418627  0.89205273  1
+  S  S3  1  0.69581373  0.91023067  0.60794727  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S1 3.315479 1_555
+K0 S0 3.315479 1_556
+K0 S2 3.316130 1_655
+K0 S3 3.316130 1_545
+K0 S2 3.380646 1_555
+K0 S3 3.380646 1_555
+K0 S0 3.394722 1_555
+K0 S1 3.394722 1_556
+K1 S2 3.315479 1_555
+K1 S3 3.315479 1_554
+K1 S1 3.316130 1_455
+K1 S0 3.316130 1_565
+K1 S1 3.380646 1_555
+K1 S0 3.380646 1_555
+K1 S3 3.394722 1_555
+K1 S2 3.394722 1_554
+Fe0 S2 2.198645 1_654
+Fe0 S3 2.198645 1_545
+Fe0 S0 2.210181 1_655
+Fe0 S1 2.210181 1_545
+Fe1 S0 2.198645 1_565
+Fe1 S1 2.198645 1_456
+Fe1 S2 2.210181 1_565
+Fe1 S3 2.210181 1_455

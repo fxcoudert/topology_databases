@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_CeGaIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36004882
+_cell_length_b   6.84740270
+_cell_length_c   7.82634143
+_cell_angle_alpha   90.00086409
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGaIr
+_chemical_formula_sum   'Ce4 Ga4 Ir4'
+_cell_volume   233.65550213
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.25000000  0.53207468  0.18935511  1
+  Ce  Ce1  1  0.75000000  0.46791402  0.81063484  1
+  Ce  Ce2  1  0.75000000  0.96794816  0.68923124  1
+  Ce  Ce3  1  0.25000000  0.03207267  0.31079877  1
+  Ga  Ga0  1  0.25000000  0.64866911  0.56732056  1
+  Ga  Ga1  1  0.75000000  0.35133872  0.43271324  1
+  Ga  Ga2  1  0.75000000  0.85131180  0.06729826  1
+  Ga  Ga3  1  0.25000000  0.14867058  0.93264768  1
+  Ir  Ir0  1  0.25000000  0.76055609  0.88994472  1
+  Ir  Ir1  1  0.75000000  0.23947191  0.11000026  1
+  Ir  Ir2  1  0.75000000  0.73944486  0.39004310  1
+  Ir  Ir3  1  0.25000000  0.26052743  0.61001123  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ir0 2.817584 1_554
+Ce0 Ir1 3.025305 1_555
+Ce0 Ir1 3.025305 1_455
+Ce0 Ir2 3.039019 1_455
+Ce0 Ir2 3.039019 1_555
+Ce0 Ga0 3.063919 1_555
+Ce0 Ga1 3.148282 1_455
+Ce0 Ga1 3.148282 1_555
+Ce0 Ga2 3.231632 1_455
+Ce0 Ga2 3.231632 1_555
+Ce0 Ga3 3.305837 1_554
+Ce1 Ir1 2.817142 1_556
+Ce1 Ir0 3.025411 1_555
+Ce1 Ir0 3.025411 1_655
+Ce1 Ir3 3.038812 1_555
+Ce1 Ir3 3.038812 1_655
+Ce1 Ga1 3.063553 1_555
+Ce1 Ga0 3.148126 1_555
+Ce1 Ga0 3.148126 1_655
+Ce1 Ga3 3.231559 1_655
+Ce1 Ga3 3.231559 1_555
+Ce1 Ga2 3.305594 1_556
+Ce2 Ir2 2.816182 1_555
+Ce2 Ir3 3.024994 1_565
+Ce2 Ir3 3.024994 1_665
+Ce2 Ir0 3.039215 1_555
+Ce2 Ir0 3.039215 1_655
+Ce2 Ga2 3.064784 1_556
+Ce2 Ga3 3.148499 1_565
+Ce2 Ga3 3.148499 1_665
+Ce2 Ga0 3.231469 1_655
+Ce2 Ga0 3.231469 1_555
+Ce2 Ga1 3.304911 1_565
+Ce3 Ir3 2.816156 1_555
+Ce3 Ir2 3.025254 1_445
+Ce3 Ir2 3.025254 1_545
+Ce3 Ir1 3.039582 1_455
+Ce3 Ir1 3.039582 1_555
+Ce3 Ga3 3.065351 1_554
+Ce3 Ga2 3.149000 1_445
+Ce3 Ga2 3.149000 1_545
+Ce3 Ga1 3.231417 1_455
+Ce3 Ga1 3.231417 1_555
+Ce3 Ga0 3.305000 1_545
+Ga0 Ir0 2.638629 1_555
+Ga0 Ir2 2.657793 1_455
+Ga0 Ir2 2.657793 1_555
+Ga0 Ir3 2.678686 1_555
+Ga1 Ir1 2.639254 1_555
+Ga1 Ir3 2.657934 1_655
+Ga1 Ir3 2.657934 1_555
+Ga1 Ir2 2.678424 1_555
+Ga2 Ir2 2.639515 1_555
+Ga2 Ir0 2.658062 1_654
+Ga2 Ir0 2.658062 1_554
+Ga2 Ir1 2.678812 1_565
+Ga3 Ir3 2.638683 1_555
+Ga3 Ir1 2.658131 1_556
+Ga3 Ir1 2.658131 1_456
+Ga3 Ir0 2.678503 1_545

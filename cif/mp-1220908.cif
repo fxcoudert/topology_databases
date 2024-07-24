@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_NaSO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56825450
+_cell_length_b   5.56825450
+_cell_length_c   6.79288400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSO3F
+_chemical_formula_sum   'Na2 S2 O6 F2'
+_cell_volume   182.39921202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.33333300  0.66666700  0.28987900  1
+  S  S1  1  0.66666700  0.33333300  0.71012100  1
+  O  O0  1  0.18601100  0.81398900  0.24436000  1
+  O  O1  1  0.18601100  0.37202200  0.24436000  1
+  O  O2  1  0.62797800  0.81398900  0.24436000  1
+  O  O3  1  0.81398900  0.18601100  0.75564000  1
+  O  O4  1  0.81398900  0.62797800  0.75564000  1
+  O  O5  1  0.37202200  0.18601100  0.75564000  1
+  F  F0  1  0.33333300  0.66666700  0.52938600  1
+  F  F1  1  0.66666700  0.33333300  0.47061400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.496782 1_445
+Na0 O5 2.496782 1_555
+Na0 O1 2.496782 1_555
+Na0 O2 2.496782 1_445
+Na0 O3 2.496782 1_455
+Na0 O0 2.496782 1_545
+Na1 O2 2.444110 1_445
+Na1 O1 2.444110 1_555
+Na1 O4 2.444110 1_444
+Na1 O5 2.444110 1_554
+Na1 O0 2.444110 1_545
+Na1 O3 2.444110 1_454
+O0 S0 1.454103 1_555
+O1 S0 1.454107 1_555
+O2 S0 1.454107 1_555
+O3 S1 1.454103 1_555
+O4 S1 1.454107 1_555
+O5 S1 1.454107 1_555
+F0 S0 1.626943 1_555
+F1 S1 1.626943 1_555

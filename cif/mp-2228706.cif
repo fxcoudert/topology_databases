@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Rb4MgMo2(SO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63433517
+_cell_length_b   7.63433517
+_cell_length_c   9.38745540
+_cell_angle_alpha   94.68577401
+_cell_angle_beta   125.79013585
+_cell_angle_gamma   100.39517171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4MgMo2(SO)4
+_chemical_formula_sum   'Rb4 Mg1 Mo2 S4 O4'
+_cell_volume   424.34021051
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37921310  0.34812240  0.65978005  1
+  Rb  Rb1  1  0.18834236  0.71943405  0.84021995  1
+  Rb  Rb2  1  0.63428563  0.68602984  0.34445671  1
+  Rb  Rb3  1  0.84157312  0.28982791  0.15554329  1
+  Mg  Mg0  1  0.39812549  0.14812549  0.25000000  1
+  Mo  Mo0  1  0.89531215  0.14531215  0.75000000  1
+  Mo  Mo1  1  0.10768375  0.85768375  0.25000000  1
+  S  S0  1  0.28597172  0.29257272  0.99085399  1
+  S  S1  1  0.80171873  0.29511773  0.50914601  1
+  S  S2  1  0.73096498  0.74999119  0.03308654  1
+  S  S3  1  0.21690465  0.69787844  0.46691346  1
+  O  O0  1  0.87740923  0.91487638  0.67921982  1
+  O  O1  1  0.73565657  0.19818841  0.82078018  1
+  O  O2  1  0.18881535  0.11622698  0.31795680  1
+  O  O3  1  0.29827018  0.87085955  0.18204320  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 S3 3.361988 1_555
+Rb0 S0 3.611080 1_555
+Rb0 S2 3.628766 1_556
+Rb0 S1 3.683956 1_455
+Rb1 S2 3.361990 1_556
+Rb1 S1 3.611086 1_455
+Rb1 S3 3.628765 1_555
+Rb1 S0 3.683963 1_555
+Rb2 S2 3.457381 1_555
+Rb2 S0 3.503806 1_554
+Rb2 S1 3.570640 1_555
+Rb3 S3 3.457386 1_655
+Rb3 S1 3.503806 1_555
+Rb3 S0 3.570641 1_554
+Mg0 O3 2.024090 1_545
+Mg0 O2 2.024098 1_555
+Mg0 S1 2.492003 1_555
+Mg0 S0 2.492003 1_554
+Mo0 O1 1.780747 1_555
+Mo0 O0 1.780750 1_545
+Mo0 S1 2.399676 1_555
+Mo0 S0 2.399676 1_655
+Mo1 O3 1.891413 1_555
+Mo1 O2 1.891414 1_565
+Mo1 S3 2.262108 1_555
+Mo1 S2 2.262108 1_455
+O0 Rb2 2.735608 1_555
+O0 Rb1 2.756021 1_655
+O1 Rb3 2.735608 1_556
+O1 Rb0 2.756032 1_555
+O2 Rb3 2.824759 1_455
+O2 Rb0 2.869056 1_555
+O3 Rb2 2.824769 1_555
+O3 Rb1 2.869056 1_554

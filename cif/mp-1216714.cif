@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_TiNbAlC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.10325417
+_cell_length_b   3.10325417
+_cell_length_c   13.83347200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNbAlC
+_chemical_formula_sum   'Ti2 Nb2 Al2 C2'
+_cell_volume   115.37096026
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666700  0.33333300  0.91760500  1
+  Ti  Ti1  1  0.33333300  0.66666700  0.08239500  1
+  Nb  Nb0  1  0.33333300  0.66666700  0.40996900  1
+  Nb  Nb1  1  0.66666700  0.33333300  0.59003100  1
+  Al  Al0  1  0.33333300  0.66666700  0.75438300  1
+  Al  Al1  1  0.66666700  0.33333300  0.24561700  1
+  C  C0  1  0.00000000  0.00000000  0.50000000  1
+  C  C1  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Ti0 2.882410 1_455
+Al0 Ti0 2.882410 1_565
+Al0 Ti0 2.882414 1_555
+Al0 Nb1 2.894672 1_565
+Al0 Nb1 2.894672 1_455
+Al0 Nb1 2.894675 1_555
+Al1 Ti1 2.882410 1_545
+Al1 Ti1 2.882410 1_655
+Al1 Ti1 2.882414 1_555
+Al1 Nb0 2.894672 1_545
+Al1 Nb0 2.894672 1_655
+Al1 Nb0 2.894675 1_555
+C0 Nb1 2.182013 1_455
+C0 Nb0 2.182013 1_545
+C0 Nb1 2.182015 1_555
+C0 Nb1 2.182015 1_445
+C0 Nb0 2.182015 1_445
+C0 Nb0 2.182015 1_555
+C1 Ti1 2.123492 1_545
+C1 Ti0 2.123492 1_454
+C1 Ti0 2.123495 1_444
+C1 Ti0 2.123495 1_554
+C1 Ti1 2.123495 1_445
+C1 Ti1 2.123495 1_555

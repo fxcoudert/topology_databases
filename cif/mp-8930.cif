@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_K2GeAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57251291
+_cell_length_b   7.02889068
+_cell_length_c   8.25406007
+_cell_angle_alpha   115.20028927
+_cell_angle_beta   113.46183561
+_cell_angle_gamma   90.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2GeAs2
+_chemical_formula_sum   'K4 Ge2 As4'
+_cell_volume   309.82873373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64224254  0.30849138  0.28448508  1
+  K  K1  1  0.35775746  0.69150862  0.71551492  1
+  K  K2  1  0.85775746  0.02400631  0.71551492  1
+  K  K3  1  0.14224254  0.97599369  0.28448508  1
+  Ge  Ge0  1  0.25000000  0.50000000  -0.00000000  1
+  Ge  Ge1  1  0.75000000  0.50000000  -0.00000000  1
+  As  As0  1  0.89717297  0.56913302  0.79434695  1
+  As  As1  1  0.10282703  0.43086698  0.20565305  1
+  As  As2  1  0.60282703  0.77478707  0.20565305  1
+  As  As3  1  0.39717297  0.22521293  0.79434695  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 K3 3.441413 1_555
+Ge0 K2 3.441413 1_454
+Ge0 K1 3.441413 1_554
+Ge0 K0 3.441413 1_555
+Ge1 K2 3.441413 1_554
+Ge1 K3 3.441413 1_655
+Ge1 K0 3.441413 1_555
+Ge1 K1 3.441413 1_554
+As0 Ge1 2.462330 1_556
+As0 Ge0 2.462335 1_656
+As0 K0 3.419683 1_555
+As0 K3 3.478324 1_656
+As0 K2 3.514302 1_565
+As0 K1 3.517419 1_555
+As0 K1 3.517425 1_655
+As0 K2 3.593688 1_555
+As1 Ge0 2.462330 1_555
+As1 Ge1 2.462335 1_455
+As1 K1 3.419683 1_555
+As1 K2 3.478324 1_454
+As1 K3 3.514302 1_545
+As1 K0 3.517419 1_555
+As1 K0 3.517425 1_455
+As1 K3 3.593688 1_555
+As2 Ge1 2.462334 1_555
+As2 Ge0 2.462338 1_555
+As2 K2 3.419684 1_565
+As2 K1 3.478321 1_554
+As2 K0 3.514295 1_565
+As2 K3 3.517417 1_655
+As2 K3 3.517423 1_555
+As2 K0 3.593695 1_555
+As3 Ge0 2.462334 1_556
+As3 Ge1 2.462338 1_556
+As3 K3 3.419684 1_545
+As3 K0 3.478321 1_556
+As3 K1 3.514295 1_545
+As3 K2 3.517417 1_455
+As3 K2 3.517423 1_555
+As3 K1 3.593695 1_555

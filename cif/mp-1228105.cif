@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Ce(CdAs)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50600133
+_cell_length_b   4.50162246
+_cell_length_c   21.67791500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.09965341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(CdAs)3
+_chemical_formula_sum   'Ce2 Cd6 As6'
+_cell_volume   381.19198227
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.99882500  0.99994000  0.50009000  1
+  Ce  Ce1  1  0.99882500  0.99994000  0.99991000  1
+  Cd  Cd0  1  0.33351300  0.33434400  0.12478000  1
+  Cd  Cd1  1  0.66641100  0.66675200  0.87507400  1
+  Cd  Cd2  1  0.66641100  0.66675200  0.62492600  1
+  Cd  Cd3  1  0.33351300  0.33434400  0.37522000  1
+  Cd  Cd4  1  0.26884900  0.36517900  0.75000000  1
+  Cd  Cd5  1  0.63603100  0.63603500  0.25000000  1
+  As  As0  1  0.33282200  0.33372100  0.57604000  1
+  As  As1  1  0.66542700  0.66696000  0.42414700  1
+  As  As2  1  0.66542700  0.66696000  0.07585300  1
+  As  As3  1  0.33282200  0.33372100  0.92396000  1
+  As  As4  1  0.59907700  0.69947600  0.75000000  1
+  As  As5  1  0.30154600  0.29787700  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cd2 2.806559 1_555
+As0 Cd2 2.810279 1_545
+As0 Cd2 2.810598 1_455
+As0 Ce0 3.077367 1_455
+As0 Ce0 3.078782 1_545
+As0 Ce0 3.080251 1_445
+As1 Cd3 2.799350 1_555
+As1 Cd3 2.812107 1_565
+As1 Cd3 2.816995 1_655
+As1 Ce0 3.075559 1_555
+As1 Ce0 3.079916 1_545
+As1 Ce0 3.080672 1_455
+As2 Cd0 2.799350 1_555
+As2 Cd0 2.812107 1_565
+As2 Cd0 2.816995 1_655
+As2 Ce1 3.075559 1_554
+As2 Ce1 3.079916 1_544
+As2 Ce1 3.080672 1_454
+As3 Cd1 2.806559 1_555
+As3 Cd1 2.810279 1_545
+As3 Cd1 2.810598 1_455
+As3 Ce1 3.077367 1_455
+As3 Ce1 3.078782 1_545
+As3 Ce1 3.080251 1_445
+As4 Cd4 2.590627 1_555
+As4 Cd4 2.597865 1_565
+As4 Cd4 2.616280 1_655
+As4 Cd2 2.724074 1_555
+As4 Cd1 2.724074 1_555
+As5 Cd5 2.582885 1_545
+As5 Cd5 2.599795 1_455
+As5 Cd5 2.622273 1_555
+As5 Cd0 2.727605 1_555
+As5 Cd3 2.727605 1_555

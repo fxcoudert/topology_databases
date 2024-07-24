@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ca3Eu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92485369
+_cell_length_b   7.92485479
+_cell_length_c   6.53042036
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000283
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Eu
+_chemical_formula_sum   'Ca6 Eu2'
+_cell_volume   355.18475979
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.16654983  0.33309967  0.25000000  1
+  Ca  Ca1  1  0.66690033  0.83344917  0.25000000  1
+  Ca  Ca2  1  0.16654983  0.83344917  0.25000000  1
+  Ca  Ca3  1  0.83345017  0.66690033  0.75000000  1
+  Ca  Ca4  1  0.33309967  0.16655083  0.75000000  1
+  Ca  Ca5  1  0.83345017  0.16655083  0.75000000  1
+  Eu  Eu0  1  0.33333300  0.66666700  0.75000000  1
+  Eu  Eu1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ca1 3.959653 1_445
+Ca0 Ca2 3.959658 1_545
+Ca0 Eu1 3.962423 1_455
+Ca0 Eu1 3.962431 1_555
+Ca0 Ca2 3.965197 1_555
+Ca0 Ca1 3.965201 1_555
+Ca0 Ca4 3.985956 1_555
+Ca0 Ca4 3.985956 1_554
+Ca0 Ca5 3.985959 1_455
+Ca0 Ca5 3.985959 1_454
+Ca0 Eu0 3.987801 1_554
+Ca0 Eu0 3.987801 1_555
+Ca1 Ca2 3.959649 1_655
+Ca1 Eu1 3.962424 1_555
+Ca1 Eu1 3.962432 1_565
+Ca1 Ca2 3.965205 1_555
+Ca1 Ca3 3.985956 1_554
+Ca1 Ca3 3.985956 1_555
+Ca1 Ca5 3.985967 1_565
+Ca1 Ca5 3.985967 1_564
+Ca1 Eu0 3.987801 1_555
+Ca1 Eu0 3.987801 1_554
+Ca2 Eu1 3.962423 1_455
+Ca2 Eu1 3.962431 1_565
+Ca2 Ca3 3.985959 1_454
+Ca2 Ca3 3.985959 1_455
+Ca2 Ca4 3.985967 1_565
+Ca2 Ca4 3.985967 1_564
+Ca2 Eu0 3.987793 1_554
+Ca2 Eu0 3.987793 1_555
+Ca3 Ca4 3.959653 1_665
+Ca3 Ca5 3.959658 1_565
+Ca3 Eu0 3.962423 1_655
+Ca3 Eu0 3.962431 1_555
+Ca3 Ca5 3.965197 1_555
+Ca3 Ca4 3.965201 1_555
+Ca3 Eu1 3.987801 1_555
+Ca3 Eu1 3.987801 1_556
+Ca4 Ca5 3.959649 1_455
+Ca4 Eu0 3.962424 1_555
+Ca4 Eu0 3.962432 1_545
+Ca4 Ca5 3.965205 1_555
+Ca4 Eu1 3.987801 1_556
+Ca4 Eu1 3.987801 1_555
+Ca5 Eu0 3.962423 1_655
+Ca5 Eu0 3.962431 1_545
+Ca5 Eu1 3.987793 1_555
+Ca5 Eu1 3.987793 1_556

@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Pr(CoGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00305982
+_cell_length_b   4.00306021
+_cell_length_c   5.88640096
+_cell_angle_alpha   109.87847549
+_cell_angle_beta   109.87847390
+_cell_angle_gamma   89.99999764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(CoGe)2
+_chemical_formula_sum   'Pr1 Co2 Ge2'
+_cell_volume   82.70478579
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  -0.00000000  1
+  Co  Co0  1  0.75000000  0.25000000  0.50000000  1
+  Co  Co1  1  0.25000000  0.75000000  0.50000000  1
+  Ge  Ge0  1  0.36567404  0.36567404  0.73134607  1
+  Ge  Ge1  1  0.63432596  0.63432596  0.26865393  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Ge0 2.330616 1_555
+Co0 Ge1 2.330616 1_555
+Co0 Ge0 2.330622 1_655
+Co0 Ge1 2.330623 1_545
+Co0 Pr0 3.265806 1_555
+Co0 Pr0 3.265806 1_666
+Co0 Pr0 3.265806 1_655
+Co0 Pr0 3.265806 1_656
+Co1 Ge1 2.330616 1_555
+Co1 Ge0 2.330616 1_555
+Co1 Ge1 2.330622 1_455
+Co1 Ge0 2.330623 1_565
+Co1 Pr0 3.265806 1_666
+Co1 Pr0 3.265806 1_555
+Co1 Pr0 3.265806 1_566
+Co1 Pr0 3.265806 1_565
+Ge0 Ge1 2.773126 1_556
+Ge0 Pr0 3.151947 1_666
+Ge0 Pr0 3.151952 1_656
+Ge0 Pr0 3.151952 1_566
+Ge0 Pr0 3.151958 1_556
+Ge1 Pr0 3.151947 1_555
+Ge1 Pr0 3.151952 1_565
+Ge1 Pr0 3.151952 1_655
+Ge1 Pr0 3.151958 1_665

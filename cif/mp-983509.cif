@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Na3Cd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97133117
+_cell_length_b   6.97131597
+_cell_length_c   5.61561042
+_cell_angle_alpha   89.99998336
+_cell_angle_beta   90.00000045
+_cell_angle_gamma   120.00440419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Cd
+_chemical_formula_sum   'Na6 Cd2'
+_cell_volume   236.34085859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.17412052  0.34823091  0.24999983  1
+  Na  Na1  1  0.65176841  0.82587868  0.24999988  1
+  Na  Na2  1  0.17411029  0.82589035  0.24999986  1
+  Na  Na3  1  0.82587941  0.65176923  0.74999911  1
+  Na  Na4  1  0.34823085  0.17412003  0.74999906  1
+  Na  Na5  1  0.82589048  0.17410986  0.74999906  1
+  Cd  Cd0  1  0.33333670  0.66666812  0.74999907  1
+  Cd  Cd1  1  0.66666235  0.33332882  0.25000013  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Na1 3.402846 1_555
+Cd0 Na1 3.402854 1_556
+Cd0 Na0 3.402863 1_555
+Cd0 Na0 3.402869 1_556
+Cd0 Na2 3.402975 1_555
+Cd0 Na2 3.402982 1_556
+Cd0 Na5 3.486573 1_565
+Cd0 Na5 3.486604 1_455
+Cd0 Na3 3.486778 1_555
+Cd0 Na4 3.486791 1_555
+Cd0 Na4 3.486844 1_565
+Cd0 Na3 3.486874 1_455
+Cd1 Na4 3.402844 1_555
+Cd1 Na4 3.402854 1_554
+Cd1 Na3 3.402873 1_555
+Cd1 Na3 3.402881 1_554
+Cd1 Na5 3.402968 1_555
+Cd1 Na5 3.402978 1_554
+Cd1 Na2 3.486555 1_545
+Cd1 Na2 3.486622 1_655
+Cd1 Na0 3.486784 1_555
+Cd1 Na1 3.486802 1_555
+Cd1 Na1 3.486833 1_545
+Cd1 Na0 3.486869 1_655

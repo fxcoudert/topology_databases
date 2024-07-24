@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ce(SiAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39182564
+_cell_length_b   4.38573237
+_cell_length_c   7.17476334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.82199230
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(SiAu2)2
+_chemical_formula_sum   'Ce1 Si2 Au4'
+_cell_volume   131.56404349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.58666336  0.50000000  0.17332472  1
+  Si  Si1  1  0.41333664  0.50000000  0.82667528  1
+  Au  Au0  1  0.17432706  0.50000000  0.34865512  1
+  Au  Au1  1  0.32573856  0.00000000  0.65147612  1
+  Au  Au2  1  0.82567294  0.50000000  0.65134488  1
+  Au  Au3  1  0.67426144  0.00000000  0.34852388  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Si1 3.321486 1_544
+Ce0 Si1 3.321486 1_554
+Ce0 Si0 3.321486 1_455
+Ce0 Si0 3.321486 1_445
+Ce0 Si1 3.321491 1_454
+Ce0 Si1 3.321491 1_444
+Ce0 Si0 3.321491 1_545
+Ce0 Si0 3.321491 1_555
+Au0 Si0 2.501244 1_455
+Au0 Si0 2.501255 1_555
+Au0 Ce0 3.237296 1_565
+Au0 Ce0 3.237296 1_555
+Au1 Si1 2.498146 1_555
+Au1 Si1 2.498146 1_545
+Au1 Ce0 3.238700 1_656
+Au1 Ce0 3.238703 1_556
+Au2 Si1 2.501244 1_655
+Au2 Si1 2.501255 1_555
+Au2 Ce0 3.237296 1_656
+Au2 Ce0 3.237296 1_666
+Au3 Si0 2.498146 1_545
+Au3 Si0 2.498146 1_555
+Au3 Ce0 3.238700 1_555
+Au3 Ce0 3.238703 1_655

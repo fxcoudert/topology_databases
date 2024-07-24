@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_YbAlPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25594400
+_cell_length_b   7.17761300
+_cell_length_c   7.91238800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAlPd
+_chemical_formula_sum   'Yb4 Al4 Pd4'
+_cell_volume   241.70382262
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.25000000  0.02708200  0.32282400  1
+  Yb  Yb1  1  0.25000000  0.52708200  0.17717600  1
+  Yb  Yb2  1  0.75000000  0.97291800  0.67717600  1
+  Yb  Yb3  1  0.75000000  0.47291800  0.82282400  1
+  Al  Al0  1  0.25000000  0.14145700  0.93611500  1
+  Al  Al1  1  0.25000000  0.64145700  0.56388500  1
+  Al  Al2  1  0.75000000  0.85854300  0.06388500  1
+  Al  Al3  1  0.75000000  0.35854300  0.43611500  1
+  Pd  Pd0  1  0.25000000  0.28287500  0.61837600  1
+  Pd  Pd1  1  0.25000000  0.78287500  0.88162400  1
+  Pd  Pd2  1  0.75000000  0.71712500  0.38162400  1
+  Pd  Pd3  1  0.75000000  0.21712500  0.11837600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Pd1 2.609626 1_545
+Al0 Pd3 2.627346 1_456
+Al0 Pd3 2.627346 1_556
+Al0 Pd0 2.711251 1_555
+Al0 Yb0 3.168007 1_556
+Al0 Yb2 3.192075 1_445
+Al0 Yb2 3.192075 1_545
+Al0 Yb3 3.315405 1_555
+Al0 Yb3 3.315405 1_455
+Al0 Yb1 3.361420 1_556
+Al1 Pd0 2.609626 1_555
+Al1 Pd2 2.627346 1_555
+Al1 Pd2 2.627346 1_455
+Al1 Pd1 2.711251 1_555
+Al1 Yb1 3.168007 1_555
+Al1 Yb3 3.192075 1_455
+Al1 Yb3 3.192075 1_555
+Al1 Yb2 3.315405 1_555
+Al1 Yb2 3.315405 1_455
+Al1 Yb0 3.361420 1_565
+Al2 Pd3 2.609626 1_565
+Al2 Pd1 2.627346 1_554
+Al2 Pd1 2.627346 1_654
+Al2 Pd2 2.711251 1_555
+Al2 Yb2 3.168007 1_554
+Al2 Yb0 3.192075 1_565
+Al2 Yb0 3.192075 1_665
+Al2 Yb1 3.315405 1_555
+Al2 Yb1 3.315405 1_655
+Al2 Yb3 3.361420 1_554
+Al3 Pd2 2.609626 1_555
+Al3 Pd0 2.627346 1_555
+Al3 Pd0 2.627346 1_655
+Al3 Pd3 2.711251 1_555
+Al3 Yb3 3.168007 1_555
+Al3 Yb1 3.192075 1_655
+Al3 Yb1 3.192075 1_555
+Al3 Yb0 3.315405 1_655
+Al3 Yb0 3.315405 1_555
+Al3 Yb2 3.361420 1_545
+Pd0 Yb0 2.973133 1_555
+Pd0 Yb3 3.000962 1_455
+Pd0 Yb3 3.000962 1_555
+Pd0 Yb2 3.113557 1_545
+Pd0 Yb2 3.113557 1_445
+Pd1 Yb1 2.973133 1_556
+Pd1 Yb2 3.000962 1_455
+Pd1 Yb2 3.000962 1_555
+Pd1 Yb3 3.113557 1_555
+Pd1 Yb3 3.113557 1_455
+Pd2 Yb2 2.973133 1_555
+Pd2 Yb1 3.000962 1_555
+Pd2 Yb1 3.000962 1_655
+Pd2 Yb0 3.113557 1_565
+Pd2 Yb0 3.113557 1_665
+Pd3 Yb3 2.973133 1_554
+Pd3 Yb0 3.000962 1_555
+Pd3 Yb0 3.000962 1_655
+Pd3 Yb1 3.113557 1_655
+Pd3 Yb1 3.113557 1_555

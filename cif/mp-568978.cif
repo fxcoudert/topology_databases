@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_RbCdAg3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28577591
+_cell_length_b   7.28577591
+_cell_length_c   8.27832100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCdAg3(CN)6
+_chemical_formula_sum   'Rb1 Cd1 Ag3 C6 N6'
+_cell_volume   380.56120788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33333300  0.66666700  0.00000000  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag0  1  0.50965700  0.01931300  0.50000000  1
+  Ag  Ag1  1  0.50965700  0.49034300  0.50000000  1
+  Ag  Ag2  1  0.98068700  0.49034300  0.50000000  1
+  C  C0  1  0.65919400  0.00970700  0.70756400  1
+  C  C1  1  0.65919400  0.64948800  0.29243600  1
+  C  C2  1  0.35051200  0.00970700  0.29243600  1
+  C  C3  1  0.99029300  0.64948800  0.70756400  1
+  C  C4  1  0.35051200  0.34080600  0.70756400  1
+  C  C5  1  0.99029300  0.34080600  0.29243600  1
+  N  N0  1  0.74150500  0.74196100  0.17381300  1
+  N  N1  1  0.74150500  0.99954400  0.82618700  1
+  N  N2  1  0.25803900  0.25849500  0.82618700  1
+  N  N3  1  0.25803900  0.99954400  0.17381300  1
+  N  N4  1  0.00045600  0.25849500  0.17381300  1
+  N  N5  1  0.00045600  0.74196100  0.82618700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 N3 2.368773 1_545
+Cd0 N5 2.368773 1_544
+Cd0 N1 2.368773 1_444
+Cd0 N4 2.368773 1_555
+Cd0 N0 2.368773 1_445
+Cd0 N2 2.368773 1_554
+Ag0 C0 2.054418 1_555
+Ag0 C2 2.054426 1_555
+Ag1 C4 2.054423 1_555
+Ag1 C1 2.054423 1_555
+Ag2 C5 2.054418 1_555
+Ag2 C3 2.054426 1_555
+C0 N1 1.172113 1_545
+C1 N0 1.172111 1_555
+C2 N3 1.172109 1_545
+C3 N5 1.172109 1_655
+C4 N2 1.172111 1_555
+C5 N4 1.172113 1_655
+N0 Rb0 3.095757 1_555
+N1 Rb0 3.095755 1_556
+N2 Rb0 3.095757 1_556
+N3 Rb0 3.095751 1_555
+N4 Rb0 3.095755 1_555
+N5 Rb0 3.095751 1_556

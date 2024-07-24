@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_MgZn2(NiS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81660160
+_cell_length_b   6.62389276
+_cell_length_c   7.35924975
+_cell_angle_alpha   116.66324303
+_cell_angle_beta   117.58937862
+_cell_angle_gamma   89.99999946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(NiS2)4
+_chemical_formula_sum   'Mg1 Zn2 Ni4 S8'
+_cell_volume   253.96379759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.86665200  0.61706300  0.73330400  1
+  Zn  Zn0  1  0.40856300  0.65831200  0.81712500  1
+  Zn  Zn1  1  0.58936600  0.34132200  0.17873200  1
+  Ni  Ni0  1  0.01162300  0.01160700  0.52221800  1
+  Ni  Ni1  1  0.03814900  0.52667700  0.07629700  1
+  Ni  Ni2  1  0.51059400  0.01160700  0.52221800  1
+  Ni  Ni3  1  0.03933000  0.04907500  0.07866000  1
+  S  S0  1  0.73159600  0.75465100  0.46319200  1
+  S  S1  1  0.77585500  0.23087800  0.96299200  1
+  S  S2  1  0.18713700  0.23087800  0.96299200  1
+  S  S3  1  0.26575300  0.24610800  0.53150500  1
+  S  S4  1  0.26652100  0.78668800  0.53304100  1
+  S  S5  1  0.26621800  0.79233400  0.08716100  1
+  S  S6  1  0.73095900  0.20972200  0.46191900  1
+  S  S7  1  0.82094200  0.79233400  0.08716100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 2.358052 1_555
+Mg0 S6 2.361571 1_555
+Mg0 S5 2.502909 1_656
+Mg0 S7 2.502913 1_556
+Mg0 Ni1 2.592219 1_656
+Mg0 Ni3 2.595262 1_666
+Ni0 S3 2.283281 1_555
+Ni0 S4 2.285457 1_545
+Ni0 S0 2.301676 1_445
+Ni0 S6 2.305543 1_455
+Ni0 S7 2.453900 1_445
+Ni0 S2 2.497972 1_555
+Ni1 S2 2.209939 1_554
+Ni1 S1 2.209943 1_454
+Ni1 S5 2.297484 1_555
+Ni1 S7 2.297493 1_455
+Ni1 S4 2.577887 1_555
+Ni2 S3 2.283271 1_555
+Ni2 S4 2.285447 1_545
+Ni2 S0 2.301681 1_545
+Ni2 S6 2.305543 1_555
+Ni2 S5 2.453900 1_545
+Ni2 S1 2.497973 1_555
+Ni3 S1 2.214577 1_454
+Ni3 S2 2.214577 1_554
+Ni3 S5 2.300846 1_545
+Ni3 S7 2.300850 1_445
+Ni3 S3 2.554170 1_555
+S0 Zn1 2.407131 1_555
+S1 Zn1 2.344990 1_556
+S2 Zn1 2.344989 1_556
+S3 Zn0 2.403070 1_555
+S4 Zn0 2.398319 1_555
+S5 Zn0 2.425189 1_554
+S6 Zn1 2.408727 1_555
+S7 Zn0 2.425177 1_554

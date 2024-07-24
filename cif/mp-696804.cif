@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_RbHS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58461259
+_cell_length_b   5.14522956
+_cell_length_c   6.89985594
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.58883814
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHS
+_chemical_formula_sum   'Rb2 H2 S2'
+_cell_volume   159.44194519
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.23093021  0.25000000  0.76158267  1
+  Rb  Rb1  1  0.76906979  0.75000000  0.23841733  1
+  H  H0  1  0.52105746  0.25000000  0.39446500  1
+  H  H1  1  0.47894254  0.75000000  0.60553500  1
+  S  S0  1  0.26510864  0.25000000  0.25988824  1
+  S  S1  1  0.73489136  0.75000000  0.74011176  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 S0 3.410215 1_556
+Rb0 S1 3.417115 1_455
+Rb0 S1 3.417115 1_445
+Rb1 S1 3.410215 1_554
+Rb1 S0 3.417115 1_655
+Rb1 S0 3.417115 1_665
+H0 S0 1.342155 1_555
+H0 Rb0 3.088575 1_555
+H0 Rb1 3.092310 1_545
+H0 Rb1 3.092310 1_555
+H1 S1 1.342155 1_555
+H1 Rb1 3.088575 1_555
+H1 Rb0 3.092310 1_555
+H1 Rb0 3.092310 1_565

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_LiClO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52950782
+_cell_length_b   7.52950782
+_cell_length_c   5.52367100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiClO7
+_chemical_formula_sum   'Li2 Cl2 O14'
+_cell_volume   271.20120784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.74788800  1
+  Li  Li1  1  0.00000000  0.00000000  0.24788800  1
+  Cl  Cl0  1  0.66666700  0.33333300  0.50333100  1
+  Cl  Cl1  1  0.33333300  0.66666700  0.00333100  1
+  O  O0  1  0.66666700  0.33333300  0.76670300  1
+  O  O1  1  0.33333300  0.66666700  0.26670300  1
+  O  O2  1  0.56130000  0.12259900  0.41445100  1
+  O  O3  1  0.87740100  0.43870000  0.41445100  1
+  O  O4  1  0.56130000  0.43870000  0.41445100  1
+  O  O5  1  0.43870000  0.87740100  0.91445100  1
+  O  O6  1  0.12259900  0.56130000  0.91445100  1
+  O  O7  1  0.43870000  0.56130000  0.91445100  1
+  O  O8  1  0.89385100  0.78770200  0.99759700  1
+  O  O9  1  0.21229800  0.10614900  0.99759700  1
+  O  O10  1  0.89385100  0.10614900  0.99759700  1
+  O  O11  1  0.10614900  0.21229800  0.49759700  1
+  O  O12  1  0.78770200  0.89385100  0.49759700  1
+  O  O13  1  0.10614900  0.89385100  0.49759700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O10 1.954200 1_455
+Li0 O8 1.954200 1_445
+Li0 O9 1.954200 1_555
+Li0 O13 1.956470 1_545
+Li0 O11 1.956470 1_555
+Li0 O12 1.956470 1_445
+Li1 O13 1.954200 1_545
+Li1 O11 1.954200 1_555
+Li1 O12 1.954200 1_445
+Li1 O10 1.956470 1_454
+Li1 O8 1.956470 1_444
+Li1 O9 1.956470 1_554
+Cl0 O0 1.454780 1_555
+Cl0 O4 1.459210 1_555
+Cl0 O3 1.459210 1_555
+Cl0 O2 1.459210 1_555
+Cl1 O1 1.454780 1_555
+Cl1 O7 1.459210 1_554
+Cl1 O6 1.459210 1_554
+Cl1 O5 1.459210 1_554

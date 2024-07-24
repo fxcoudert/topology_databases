@@ -1,0 +1,118 @@
+# generated using pymatgen
+data_Sc(GaFe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96921472
+_cell_length_b   6.50877144
+_cell_length_c   6.50859354
+_cell_angle_alpha   80.99204493
+_cell_angle_beta   67.54427940
+_cell_angle_gamma   67.54461418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(GaFe)6
+_chemical_formula_sum   'Sc1 Ga6 Fe6'
+_cell_volume   179.78336571
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.00000087  0.00000922  0.99999146  1
+  Ga  Ga0  1  1.00001868  0.32823300  0.67173794  1
+  Ga  Ga1  1  0.65823798  0.34138098  0.34138065  1
+  Ga  Ga2  1  0.34176206  0.65861420  0.65862421  1
+  Ga  Ga3  1  0.67857232  0.82148001  0.82148067  1
+  Ga  Ga4  1  0.32142706  0.17851684  0.17852303  1
+  Ga  Ga5  1  -0.00002070  0.67177762  0.32825103  1
+  Fe  Fe0  1  0.50009955  0.75676701  0.24302071  1
+  Fe  Fe1  1  0.50000208  -0.00000481  0.50000025  1
+  Fe  Fe2  1  1.00000669  -0.00000361  0.49999774  1
+  Fe  Fe3  1  0.49999925  0.50000096  1.00000600  1
+  Fe  Fe4  1  -0.00000133  0.50000066  1.00000332  1
+  Fe  Fe5  1  0.49989923  0.24322992  0.75698198  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Sc0 2.774738 1_655
+Ga0 Ga5 2.903881 1_655
+Ga1 Ga2 2.715476 1_555
+Ga1 Ga4 2.847972 1_555
+Ga1 Ga4 2.849969 1_655
+Ga1 Sc0 2.922121 1_654
+Ga2 Ga3 2.847971 1_555
+Ga2 Ga3 2.849971 1_455
+Ga2 Sc0 2.922127 1_565
+Ga3 Sc0 2.916671 1_565
+Ga3 Sc0 2.917129 1_665
+Ga4 Sc0 2.916667 1_654
+Ga4 Sc0 2.917130 1_554
+Ga5 Sc0 2.774796 1_564
+Fe0 Fe4 2.473920 1_654
+Fe0 Fe3 2.474617 1_554
+Fe0 Fe2 2.475437 1_465
+Fe0 Fe1 2.476233 1_565
+Fe0 Ga3 2.560490 1_554
+Fe0 Ga1 2.560542 1_555
+Fe0 Ga2 2.561474 1_555
+Fe0 Ga4 2.561630 1_565
+Fe0 Ga5 2.586678 1_655
+Fe0 Ga5 2.586681 1_555
+Fe0 Sc0 3.224508 1_564
+Fe0 Sc0 3.224568 1_664
+Fe1 Fe5 2.476262 1_555
+Fe1 Fe2 2.484588 1_455
+Fe1 Fe2 2.484627 1_555
+Fe1 Ga3 2.526851 1_545
+Fe1 Ga4 2.526852 1_555
+Fe1 Ga5 2.560769 1_645
+Fe1 Ga0 2.560839 1_455
+Fe1 Ga2 2.572461 1_545
+Fe1 Ga1 2.572476 1_555
+Fe1 Sc0 3.253686 1_555
+Fe1 Sc0 3.253781 1_654
+Fe2 Fe5 2.475502 1_555
+Fe2 Ga4 2.526369 1_655
+Fe2 Ga3 2.526415 1_545
+Fe2 Ga5 2.561534 1_645
+Fe2 Ga0 2.561577 1_555
+Fe2 Ga2 2.574022 1_645
+Fe2 Ga1 2.574031 1_555
+Fe2 Sc0 3.254255 1_655
+Fe2 Sc0 3.254339 1_654
+Fe3 Fe5 2.474686 1_555
+Fe3 Fe4 2.484597 1_655
+Fe3 Fe4 2.484618 1_555
+Fe3 Ga3 2.526901 1_555
+Fe3 Ga4 2.526918 1_556
+Fe3 Ga5 2.560972 1_556
+Fe3 Ga0 2.561039 1_555
+Fe3 Ga1 2.572370 1_556
+Fe3 Ga2 2.572403 1_555
+Fe3 Sc0 3.253759 1_655
+Fe3 Sc0 3.253861 1_565
+Fe4 Fe5 2.473944 1_555
+Fe4 Ga3 2.526429 1_455
+Fe4 Ga4 2.526438 1_556
+Fe4 Ga5 2.561667 1_556
+Fe4 Ga0 2.561735 1_455
+Fe4 Ga2 2.573956 1_555
+Fe4 Ga1 2.573964 1_456
+Fe4 Sc0 3.254341 1_555
+Fe4 Sc0 3.254430 1_565
+Fe5 Ga4 2.560496 1_556
+Fe5 Ga2 2.560529 1_555
+Fe5 Ga1 2.561459 1_555
+Fe5 Ga3 2.561631 1_545
+Fe5 Ga0 2.586709 1_555
+Fe5 Ga0 2.586714 1_455
+Fe5 Sc0 3.224398 1_655
+Fe5 Sc0 3.224455 1_555

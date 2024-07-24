@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_AgPb2Br5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.16663832
+_cell_length_b   9.16663832
+_cell_length_c   8.09200719
+_cell_angle_alpha   84.58486366
+_cell_angle_beta   84.58486366
+_cell_angle_gamma   46.14459070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPb2Br5
+_chemical_formula_sum   'Ag2 Pb4 Br10'
+_cell_volume   487.71862787
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.50000000  0.00000000  1
+  Ag  Ag1  1  0.50000000  0.00000000  0.50000000  1
+  Pb  Pb0  1  0.33617800  0.87116600  0.93625800  1
+  Pb  Pb1  1  0.66382200  0.12883400  0.06374200  1
+  Pb  Pb2  1  0.87116600  0.33617800  0.43625800  1
+  Pb  Pb3  1  0.12883400  0.66382200  0.56374200  1
+  Br  Br0  1  0.30569400  0.13580500  0.18025100  1
+  Br  Br1  1  0.07403600  0.92596400  0.25000000  1
+  Br  Br2  1  0.69430600  0.86419500  0.81974900  1
+  Br  Br3  1  0.52860400  0.29595800  0.42057500  1
+  Br  Br4  1  0.29595800  0.52860400  0.92057500  1
+  Br  Br5  1  0.47139600  0.70404200  0.57942500  1
+  Br  Br6  1  0.70404200  0.47139600  0.07942500  1
+  Br  Br7  1  0.86419500  0.69430600  0.31974900  1
+  Br  Br8  1  0.13580500  0.30569400  0.68025100  1
+  Br  Br9  1  0.92596400  0.07403600  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 Br0 2.830962 1_555
+Ag0 Br2 2.830962 1_454
+Ag0 Br4 2.909751 1_554
+Ag0 Br6 2.909751 1_455
+Ag0 Br8 2.933645 1_554
+Ag0 Br7 2.933645 1_455
+Ag1 Br7 2.830962 1_545
+Ag1 Br8 2.830962 1_555
+Ag1 Br3 2.909751 1_555
+Ag1 Br5 2.909751 1_545
+Ag1 Br2 2.933645 1_545
+Ag1 Br0 2.933645 1_555
+Br0 Pb0 3.117951 1_544
+Br0 Pb1 3.287315 1_555
+Br1 Pb0 3.144636 1_554
+Br1 Pb3 3.144636 1_555
+Br1 Pb2 3.274229 1_465
+Br1 Pb1 3.274229 1_465
+Br2 Pb1 3.117951 1_566
+Br2 Pb0 3.287315 1_555
+Br3 Pb3 2.992481 1_555
+Br3 Pb1 3.122350 1_555
+Br4 Pb1 2.992481 1_556
+Br4 Pb3 3.122350 1_555
+Br5 Pb2 2.992481 1_555
+Br5 Pb0 3.122350 1_555
+Br6 Pb0 2.992481 1_554
+Br6 Pb2 3.122350 1_555
+Br7 Pb3 3.117951 1_655
+Br7 Pb2 3.287315 1_555
+Br8 Pb2 3.117951 1_455
+Br8 Pb3 3.287315 1_555
+Br9 Pb1 3.144636 1_556
+Br9 Pb2 3.144636 1_555
+Br9 Pb0 3.274229 1_645
+Br9 Pb3 3.274229 1_645

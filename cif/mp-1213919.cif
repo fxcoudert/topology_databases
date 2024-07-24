@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_CeMgIn3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44575000
+_cell_length_b   8.30320500
+_cell_length_c   7.37128600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgIn3Rh
+_chemical_formula_sum   'Ce2 Mg2 In6 Rh2'
+_cell_volume   272.10345701
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.75000000  0.59960900  1
+  Ce  Ce1  1  0.00000000  0.25000000  0.40039100  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.00000000  0.50000000  0.00000000  1
+  In  In0  1  0.50000000  0.44618300  0.69369600  1
+  In  In1  1  0.50000000  0.55381700  0.30630400  1
+  In  In2  1  0.50000000  0.05381700  0.69369600  1
+  In  In3  1  0.50000000  0.94618300  0.30630400  1
+  In  In4  1  0.50000000  0.75000000  0.94247600  1
+  In  In5  1  0.50000000  0.25000000  0.05752400  1
+  Rh  Rh0  1  0.00000000  0.75000000  0.22320200  1
+  Rh  Rh1  1  0.00000000  0.25000000  0.77679800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Rh0 2.774604 1_555
+Ce0 In4 3.365825 1_555
+Ce0 In4 3.365825 1_455
+Ce1 Rh1 2.774604 1_555
+Ce1 In5 3.365825 1_555
+Ce1 In5 3.365825 1_455
+Mg0 Rh1 2.648757 1_554
+Mg0 Rh0 2.648757 1_545
+Mg1 Rh0 2.648757 1_555
+Mg1 Rh1 2.648757 1_554
+In0 Rh1 2.823098 1_655
+In0 Rh1 2.823098 1_555
+In0 In4 3.118768 1_555
+In0 In5 3.137826 1_556
+In1 Rh0 2.823098 1_555
+In1 Rh0 2.823098 1_655
+In1 In5 3.118768 1_555
+In1 In4 3.137826 1_554
+In2 Rh1 2.823098 1_655
+In2 Rh1 2.823098 1_555
+In2 In4 3.118768 1_545
+In2 In5 3.137826 1_556
+In3 Rh0 2.823098 1_555
+In3 Rh0 2.823098 1_655
+In3 In5 3.118768 1_565
+In3 In4 3.137826 1_554
+In4 Rh0 3.036976 1_556
+In4 Rh0 3.036976 1_656
+In4 Mg1 3.070818 1_656
+In4 Mg1 3.070818 1_556
+In4 Mg0 3.070818 1_566
+In4 Mg0 3.070818 1_666
+In5 Rh1 3.036976 1_654
+In5 Rh1 3.036976 1_554
+In5 Mg1 3.070818 1_555
+In5 Mg1 3.070818 1_655
+In5 Mg0 3.070818 1_555
+In5 Mg0 3.070818 1_655

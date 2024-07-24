@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TePHO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48601985
+_cell_length_b   7.99246659
+_cell_length_c   5.42154604
+_cell_angle_alpha   110.86013393
+_cell_angle_beta   96.34664029
+_cell_angle_gamma   106.49799713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TePHO5
+_chemical_formula_sum   'Te2 P2 H2 O10'
+_cell_volume   206.96168642
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.50000000  0.00000000  1
+  Te  Te1  1  0.00000000  0.00000000  0.00000000  1
+  P  P0  1  0.35607500  0.22648700  0.66339800  1
+  P  P1  1  0.64392500  0.77351300  0.33660200  1
+  H  H0  1  0.03843900  0.33788600  0.36822100  1
+  H  H1  1  0.96156100  0.66211400  0.63177900  1
+  O  O0  1  0.04866100  0.71766200  0.83084300  1
+  O  O1  1  0.19129200  0.36205000  0.68579900  1
+  O  O2  1  0.35521000  0.66011100  0.31126600  1
+  O  O3  1  0.24918900  0.05791500  0.37762300  1
+  O  O4  1  0.33916000  0.15012500  0.88827000  1
+  O  O5  1  0.66084000  0.84987500  0.11173000  1
+  O  O6  1  0.75081100  0.94208500  0.62237700  1
+  O  O7  1  0.64479000  0.33988900  0.68873400  1
+  O  O8  1  0.80870800  0.63795000  0.31420100  1
+  O  O9  1  0.95133900  0.28233800  0.16915700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O9 1.007195 1_455
+H0 O1 1.748411 1_555
+H1 O0 1.007195 1_655
+H1 O8 1.748411 1_555
+O0 Te0 2.205745 1_556
+O0 Te1 2.219661 1_566
+O1 P0 1.578851 1_555
+O1 Te0 2.221153 1_556
+O2 P1 1.548213 1_555
+O2 Te0 2.145098 1_555
+O3 P0 1.556710 1_555
+O3 Te1 2.149760 1_555
+O4 P0 1.546026 1_555
+O4 Te1 2.183440 1_556
+O5 P1 1.546026 1_555
+O5 Te1 2.183440 1_665
+O6 P1 1.556710 1_555
+O6 Te1 2.149760 1_666
+O7 P0 1.548213 1_555
+O7 Te0 2.145098 1_656
+O8 P1 1.578851 1_555
+O8 Te0 2.221153 1_655
+O9 Te0 2.205745 1_655
+O9 Te1 2.219661 1_655

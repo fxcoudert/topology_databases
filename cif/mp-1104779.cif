@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_Mg(NiGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09961686
+_cell_length_b   5.10105983
+_cell_length_c   7.83901500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99065284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(NiGe)6
+_chemical_formula_sum   'Mg1 Ni6 Ge6'
+_cell_volume   176.61638465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99999800  0.00000000  0.00000000  1
+  Ni  Ni0  1  0.49999700  0.00000000  0.24914600  1
+  Ni  Ni1  1  0.50000100  0.50000600  0.24916000  1
+  Ni  Ni2  1  0.99999400  0.49999400  0.24916000  1
+  Ni  Ni3  1  0.49999700  0.00000000  0.75085400  1
+  Ni  Ni4  1  0.50000100  0.50000600  0.75084000  1
+  Ni  Ni5  1  0.99999400  0.49999400  0.75084000  1
+  Ge  Ge0  1  0.33329500  0.66667800  0.00000000  1
+  Ge  Ge1  1  0.66661700  0.33332200  0.00000000  1
+  Ge  Ge2  1  0.33328600  0.66664500  0.50000000  1
+  Ge  Ge3  1  0.66664100  0.33335500  0.50000000  1
+  Ge  Ge4  1  0.99999000  0.00000000  0.33946000  1
+  Ge  Ge5  1  0.99999000  0.00000000  0.66054000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Ni0 3.211843 1_655
+Mg0 Ni3 3.211843 1_654
+Mg0 Ni3 3.211851 1_554
+Mg0 Ni0 3.211851 1_555
+Mg0 Ni1 3.212468 1_545
+Mg0 Ni4 3.212468 1_544
+Mg0 Ni2 3.212471 1_555
+Mg0 Ni5 3.212471 1_554
+Mg0 Ni2 3.212503 1_545
+Mg0 Ni5 3.212503 1_544
+Mg0 Ni1 3.212505 1_655
+Mg0 Ni4 3.212505 1_654
+Ni0 Ni2 2.550507 1_555
+Ni0 Ni1 2.550510 1_545
+Ni0 Ni1 2.550550 1_555
+Ni0 Ni2 2.550552 1_445
+Ni1 Ni2 2.549803 1_555
+Ni1 Ni2 2.549814 1_455
+Ni3 Ni5 2.550507 1_555
+Ni3 Ni4 2.550510 1_545
+Ni3 Ni4 2.550550 1_555
+Ni3 Ni5 2.550552 1_445
+Ni4 Ni5 2.549803 1_555
+Ni4 Ni5 2.549814 1_455
+Ge0 Ni5 2.445819 1_454
+Ge0 Ni2 2.445819 1_455
+Ge0 Ni1 2.446024 1_555
+Ge0 Ni4 2.446024 1_554
+Ge0 Ni3 2.446038 1_564
+Ge0 Ni0 2.446038 1_565
+Ge0 Mg0 2.944333 1_465
+Ge0 Mg0 2.944703 1_565
+Ge0 Mg0 2.945426 1_455
+Ge1 Ni1 2.445817 1_555
+Ge1 Ni4 2.445817 1_554
+Ge1 Ni2 2.446021 1_555
+Ge1 Ni5 2.446021 1_554
+Ge1 Ni0 2.446038 1_555
+Ge1 Ni3 2.446038 1_554
+Ge1 Mg0 2.944332 1_455
+Ge1 Mg0 2.944703 1_555
+Ge1 Mg0 2.945426 1_565
+Ge2 Ni5 2.456325 1_455
+Ge2 Ni2 2.456325 1_455
+Ge2 Ni4 2.456489 1_555
+Ge2 Ni1 2.456489 1_555
+Ge2 Ni3 2.456829 1_565
+Ge2 Ni0 2.456829 1_565
+Ge3 Ni4 2.456322 1_555
+Ge3 Ni1 2.456322 1_555
+Ge3 Ni5 2.456486 1_555
+Ge3 Ni2 2.456486 1_555
+Ge3 Ni3 2.456829 1_555
+Ge3 Ni0 2.456829 1_555
+Ge4 Ge5 2.516951 1_555
+Ge4 Ni0 2.646236 1_555
+Ge4 Ni0 2.646305 1_655
+Ge4 Ni1 2.646894 1_545
+Ge4 Ni2 2.646897 1_555
+Ge4 Ni2 2.646976 1_545
+Ge4 Ni1 2.646978 1_655
+Ge4 Mg0 2.661032 1_555
+Ge5 Ni3 2.646236 1_555
+Ge5 Ni3 2.646305 1_655
+Ge5 Ni4 2.646894 1_545
+Ge5 Ni5 2.646897 1_555
+Ge5 Ni5 2.646976 1_545
+Ge5 Ni4 2.646978 1_655
+Ge5 Mg0 2.661032 1_556

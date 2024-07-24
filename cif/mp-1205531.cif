@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_CeTiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88547431
+_cell_length_b   6.24969541
+_cell_length_c   6.24966211
+_cell_angle_alpha   119.99946340
+_cell_angle_beta   89.99973222
+_cell_angle_gamma   89.99954800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTiGe3
+_chemical_formula_sum   'Ce2 Ti2 Ge6'
+_cell_volume   199.08101115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.24978608  0.66667221  0.33333664  1
+  Ce  Ce1  1  0.74979065  0.33334324  0.66667696  1
+  Ti  Ti0  1  -0.00064587  -0.00001053  -0.00000974  1
+  Ti  Ti1  1  0.49935611  -0.00000854  -0.00000651  1
+  Ge  Ge0  1  0.75027683  0.80209989  0.19788281  1
+  Ge  Ge1  1  0.25029345  0.19789209  0.80210610  1
+  Ge  Ge2  1  0.75026707  0.39578349  0.19790496  1
+  Ge  Ge3  1  0.25029600  0.60421075  0.80210784  1
+  Ge  Ge4  1  0.75028613  0.80212549  0.60422242  1
+  Ge  Ge5  1  0.25029556  0.19789192  0.39577851  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ge3 3.143057 1_554
+Ce0 Ge1 3.143062 1_565
+Ce0 Ge5 3.143068 1_565
+Ce0 Ge5 3.143075 1_555
+Ce0 Ge3 3.143077 1_555
+Ce0 Ge1 3.143124 1_554
+Ce0 Ge4 3.285099 1_455
+Ce0 Ge0 3.285144 1_455
+Ce0 Ge2 3.285238 1_455
+Ce0 Ge2 3.290275 1_555
+Ce0 Ge0 3.290320 1_555
+Ce0 Ge4 3.290393 1_555
+Ce1 Ge0 3.142974 1_556
+Ce1 Ge2 3.143003 1_555
+Ce1 Ge4 3.143024 1_545
+Ce1 Ge2 3.143105 1_556
+Ce1 Ge4 3.143134 1_555
+Ce1 Ge0 3.143211 1_545
+Ce1 Ge3 3.285028 1_555
+Ce1 Ge1 3.285083 1_555
+Ce1 Ge5 3.285130 1_555
+Ce1 Ge1 3.290375 1_655
+Ce1 Ge3 3.290383 1_655
+Ce1 Ge5 3.290423 1_655
+Ge0 Ge4 2.539405 1_555
+Ge0 Ge2 2.539423 1_555
+Ge0 Ti0 2.595699 1_665
+Ge0 Ti1 2.601832 1_565
+Ge1 Ge3 2.539362 1_555
+Ge1 Ge5 2.539410 1_555
+Ge1 Ti1 2.595672 1_556
+Ge1 Ti0 2.601925 1_556
+Ge2 Ge4 2.539451 1_555
+Ge2 Ti0 2.595787 1_655
+Ge2 Ti1 2.601885 1_555
+Ge3 Ge5 2.539416 1_555
+Ge3 Ti1 2.595667 1_566
+Ge3 Ti0 2.601900 1_566
+Ge4 Ti0 2.595624 1_666
+Ge4 Ti1 2.601819 1_566
+Ge5 Ti1 2.595652 1_555
+Ge5 Ti0 2.601958 1_555

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Li2Ti2Sb2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97203883
+_cell_length_b   7.97203883
+_cell_length_c   7.97203883
+_cell_angle_alpha   150.28228598
+_cell_angle_beta   150.28228598
+_cell_angle_gamma   42.52719535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ti2Sb2O
+_chemical_formula_sum   'Li2 Ti2 Sb2 O1'
+_cell_volume   124.19815186
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67091300  0.67091300  0.00000000  1
+  Li  Li1  1  0.32908700  0.32908700  0.00000000  1
+  Ti  Ti0  1  0.50000000  0.00000000  0.50000000  1
+  Ti  Ti1  1  0.00000000  0.50000000  0.50000000  1
+  Sb  Sb0  1  0.86083600  0.86083600  0.00000000  1
+  Sb  Sb1  1  0.13916400  0.13916400  0.00000000  1
+  O  O0  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.539534 1_555
+Li0 Sb0 2.821996 1_555
+Li0 Sb1 2.929368 1_666
+Li0 Sb1 2.929368 1_554
+Li0 Sb1 2.929368 1_655
+Li0 Sb1 2.929368 1_565
+Li1 O0 2.539534 1_555
+Li1 Sb1 2.821996 1_555
+Li1 Sb0 2.929368 1_455
+Li1 Sb0 2.929368 1_556
+Li1 Sb0 2.929368 1_444
+Li1 Sb0 2.929368 1_545
+Sb0 Ti0 2.907760 1_564
+Sb0 Ti1 2.907760 1_654
+Sb0 Ti0 2.907760 1_665
+Sb0 Ti1 2.907760 1_665
+Sb1 Ti0 2.907760 1_454
+Sb1 Ti1 2.907760 1_555
+Sb1 Ti0 2.907760 1_555
+Sb1 Ti1 2.907760 1_544
+O0 Ti0 2.044340 1_554
+O0 Ti1 2.044340 1_554
+O0 Ti1 2.044340 1_655
+O0 Ti0 2.044340 1_565

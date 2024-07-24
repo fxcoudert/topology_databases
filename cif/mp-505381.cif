@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_NaLi3(H2N)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87598843
+_cell_length_b   6.87598843
+_cell_length_c   6.87598843
+_cell_angle_alpha   136.31203490
+_cell_angle_beta   136.31203490
+_cell_angle_gamma   63.49829158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi3(H2N)4
+_chemical_formula_sum   'Na1 Li3 H8 N4'
+_cell_volume   153.08830331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.75000000  0.50000000  1
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.01018100  0.51018100  0.50000000  1
+  Li  Li2  1  0.48981900  0.98981900  0.50000000  1
+  H  H0  1  0.52101100  0.77585200  0.08072000  1
+  H  H1  1  0.22414800  0.30486800  0.74515900  1
+  H  H2  1  0.55970900  0.47898900  0.25484100  1
+  H  H3  1  0.69513200  0.44029100  0.91928000  1
+  H  H4  1  0.41047600  0.05999300  0.13457200  1
+  H  H5  1  0.94000700  0.07457900  0.35048300  1
+  H  H6  1  0.72409600  0.58952400  0.64951700  1
+  H  H7  1  0.92542100  0.27590400  0.86542800  1
+  N  N0  1  0.33765900  0.86426200  0.00186400  1
+  N  N1  1  0.13573800  0.13760200  0.47339700  1
+  N  N2  1  0.66420500  0.66234100  0.52660300  1
+  N  N3  1  0.86239800  0.33579500  0.99813600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N2 2.074154 1_444
+Li0 N3 2.074154 1_454
+Li0 N0 2.074154 1_545
+Li0 N1 2.074154 1_555
+Li1 N0 2.100099 1_556
+Li1 N3 2.100099 1_454
+Li1 N1 2.217811 1_555
+Li1 N2 2.217811 1_455
+Li2 N1 2.100099 1_565
+Li2 N2 2.100099 1_555
+Li2 N0 2.217811 1_555
+Li2 N3 2.217811 1_565
+H0 N0 1.028145 1_555
+H0 Li2 2.236171 1_555
+H1 N1 1.028145 1_555
+H1 Li1 2.236171 1_555
+H2 N2 1.028145 1_555
+H2 Li1 2.236171 1_655
+H3 N3 1.028145 1_555
+H3 Li2 2.236171 1_545
+H4 N0 1.029168 1_545
+H4 Na0 2.546538 1_544
+H5 N1 1.029168 1_655
+H5 Na0 2.546538 1_645
+H6 N2 1.029168 1_555
+H6 Na0 2.546538 1_555
+H7 N3 1.029168 1_555
+H7 Na0 2.546538 1_656
+N0 Na0 2.526309 1_554
+N1 Na0 2.526309 1_545
+N2 Na0 2.526309 1_555
+N3 Na0 2.526309 1_656

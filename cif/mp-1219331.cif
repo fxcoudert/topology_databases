@@ -1,0 +1,116 @@
+# generated using pymatgen
+data_ScTi4(NiSn)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.46871964
+_cell_length_b   17.46871964
+_cell_length_c   17.46871913
+_cell_angle_alpha   13.92651775
+_cell_angle_beta   13.92651775
+_cell_angle_gamma   13.92652057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi4(NiSn)5
+_chemical_formula_sum   'Sc1 Ti4 Ni5 Sn5'
+_cell_volume   268.73046374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.95050900  0.95050900  0.95050900  1
+  Ti  Ti0  1  0.35058500  0.35058500  0.35058500  1
+  Ti  Ti1  1  0.75008900  0.75008900  0.75008900  1
+  Ti  Ti2  1  0.14970600  0.14970600  0.14970600  1
+  Ti  Ti3  1  0.54908400  0.54908400  0.54908400  1
+  Ni  Ni0  1  0.00198800  0.00198800  0.00198800  1
+  Ni  Ni1  1  0.40049900  0.40049900  0.40049900  1
+  Ni  Ni2  1  0.79990300  0.79990300  0.79990300  1
+  Ni  Ni3  1  0.19882800  0.19882800  0.19882800  1
+  Ni  Ni4  1  0.59819300  0.59819300  0.59819300  1
+  Sn  Sn0  1  0.65127300  0.65127300  0.65127300  1
+  Sn  Sn1  1  0.24837300  0.24837300  0.24837300  1
+  Sn  Sn2  1  0.84964900  0.84964900  0.84964900  1
+  Sn  Sn3  1  0.05116600  0.05116600  0.05116600  1
+  Sn  Sn4  1  0.45015400  0.45015400  0.45015400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sn0 3.018357 1_556
+Sc0 Sn0 3.018357 1_565
+Sc0 Sn0 3.018357 1_655
+Sc0 Sn1 3.060633 1_665
+Sc0 Sn1 3.060633 1_656
+Sc0 Sn1 3.060633 1_566
+Ni0 Sn3 2.551853 1_555
+Ni0 Ti0 2.570471 1_554
+Ni0 Ti0 2.570471 1_545
+Ni0 Ti0 2.570471 1_455
+Ni0 Sn0 2.606433 1_445
+Ni0 Sn0 2.606433 1_454
+Ni0 Sn0 2.606433 1_544
+Ni0 Sc0 2.671252 1_444
+Ni1 Sn4 2.576604 1_555
+Ni1 Sn3 2.582494 1_556
+Ni1 Sn3 2.582495 1_565
+Ni1 Sn3 2.582495 1_655
+Ni1 Ti1 2.586812 1_554
+Ni1 Ti1 2.586813 1_545
+Ni1 Ti1 2.586813 1_455
+Ni1 Ti0 2.590044 1_555
+Ni2 Sn2 2.581326 1_555
+Ni2 Ti1 2.584855 1_555
+Ni2 Sn4 2.589515 1_556
+Ni2 Sn4 2.589515 1_655
+Ni2 Sn4 2.589515 1_565
+Ni2 Ti2 2.590438 1_665
+Ni2 Ti2 2.590438 1_656
+Ni2 Ti2 2.590438 1_566
+Ni3 Ti2 2.548947 1_555
+Ni3 Sn1 2.570896 1_555
+Ni3 Sn2 2.579936 1_445
+Ni3 Sn2 2.579937 1_454
+Ni3 Sn2 2.579937 1_544
+Ni3 Ti3 2.598287 1_554
+Ni3 Ti3 2.598288 1_545
+Ni3 Ti3 2.598288 1_455
+Ni4 Ti3 2.548272 1_555
+Ni4 Sn1 2.590729 1_556
+Ni4 Sn1 2.590729 1_655
+Ni4 Sn1 2.590729 1_565
+Ni4 Sc0 2.636333 1_554
+Ni4 Sc0 2.636334 1_545
+Ni4 Sc0 2.636334 1_455
+Ni4 Sn0 2.754328 1_555
+Sn0 Ti0 2.974817 1_556
+Sn0 Ti0 2.974818 1_655
+Sn0 Ti0 2.974818 1_565
+Sn1 Ti3 2.974138 1_554
+Sn1 Ti3 2.974139 1_545
+Sn1 Ti3 2.974139 1_455
+Sn2 Ti3 2.978456 1_556
+Sn2 Ti3 2.978457 1_655
+Sn2 Ti3 2.978457 1_565
+Sn2 Ti2 2.993583 1_665
+Sn2 Ti2 2.993584 1_656
+Sn2 Ti2 2.993584 1_566
+Sn3 Ti1 2.963370 1_445
+Sn3 Ti1 2.963370 1_544
+Sn3 Ti1 2.963370 1_454
+Sn3 Ti0 3.012800 1_554
+Sn3 Ti0 3.012801 1_545
+Sn3 Ti0 3.012801 1_455
+Sn4 Ti2 2.981926 1_556
+Sn4 Ti2 2.981927 1_655
+Sn4 Ti2 2.981927 1_565
+Sn4 Ti1 2.997239 1_554
+Sn4 Ti1 2.997240 1_455
+Sn4 Ti1 2.997240 1_545

@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_GaFe(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75007500
+_cell_length_b   5.93417596
+_cell_length_c   6.11172392
+_cell_angle_alpha   76.77889488
+_cell_angle_beta   88.36961705
+_cell_angle_gamma   88.67782223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaFe(BiO3)2
+_chemical_formula_sum   'Ga1 Fe1 Bi2 O6'
+_cell_volume   132.33017921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.54273700  0.00794200  0.55317700  1
+  Fe  Fe0  1  0.54858900  0.52252900  0.06645600  1
+  Bi  Bi0  1  0.00153500  0.00525200  0.00244800  1
+  Bi  Bi1  1  0.00367200  0.49641500  0.50483000  1
+  O  O0  1  0.56982400  0.80070200  0.37060200  1
+  O  O1  1  0.57162800  0.30651400  0.88010000  1
+  O  O2  1  0.04255900  0.07884000  0.62347000  1
+  O  O3  1  0.04348300  0.57286600  0.12055300  1
+  O  O4  1  0.54495900  0.32756000  0.37232500  1
+  O  O5  1  0.54761400  0.83018000  0.87144000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 O0 1.839382 1_545
+Ga0 O4 1.964793 1_555
+Ga0 O2 1.969834 1_555
+Ga0 O5 1.989777 1_545
+Ga0 O2 2.009907 1_655
+Fe0 O1 1.898683 1_554
+Fe0 O3 1.936115 1_655
+Fe0 O5 1.938615 1_554
+Fe0 O3 1.941624 1_555
+Fe0 O4 1.960446 1_555
+Bi0 O2 2.258174 1_554
+Bi0 O5 2.271059 1_444
+Bi0 O1 2.382942 1_454
+Bi0 O5 2.470441 1_544
+Bi0 O3 2.504004 1_545
+Bi0 O0 2.791280 1_445
+Bi0 O1 2.792790 1_554
+Bi1 O4 2.269136 1_455
+Bi1 O3 2.289061 1_555
+Bi1 O0 2.417296 1_455
+Bi1 O2 2.419670 1_555
+Bi1 O4 2.442130 1_555
+Bi1 O0 2.800242 1_555
+Bi1 O1 2.801048 1_455

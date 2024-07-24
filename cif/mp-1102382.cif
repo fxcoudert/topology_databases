@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CuAsSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93416157
+_cell_length_b   5.56716867
+_cell_length_c   11.74170973
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAsSe
+_chemical_formula_sum   'Cu4 As4 Se4'
+_cell_volume   257.16858250
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.25000000  0.08820450  0.83216104  1
+  Cu  Cu1  1  0.75000000  0.91179550  0.16783896  1
+  Cu  Cu2  1  0.75000000  0.58820450  0.66783896  1
+  Cu  Cu3  1  0.25000000  0.41179550  0.33216104  1
+  As  As0  1  0.25000000  0.35977953  0.98455636  1
+  As  As1  1  0.75000000  0.64022047  0.01544364  1
+  As  As2  1  0.75000000  0.85977953  0.51544364  1
+  As  As3  1  0.25000000  0.14022047  0.48455636  1
+  Se  Se0  1  0.25000000  0.34228791  0.66712374  1
+  Se  Se1  1  0.75000000  0.65771209  0.33287626  1
+  Se  Se2  1  0.75000000  0.84228791  0.83287626  1
+  Se  Se3  1  0.25000000  0.15771209  0.16712374  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Se2 2.396623 1_445
+Cu0 Se2 2.396623 1_545
+Cu0 Se0 2.399172 1_555
+Cu1 Se3 2.396623 1_665
+Cu1 Se3 2.396623 1_565
+Cu1 Se1 2.399172 1_555
+Cu2 Se0 2.396623 1_555
+Cu2 Se0 2.396623 1_655
+Cu2 Se2 2.399172 1_555
+Cu3 Se1 2.396623 1_555
+Cu3 Se1 2.396623 1_455
+Cu3 Se3 2.399172 1_555
+As0 Cu0 2.342593 1_555
+As0 Se3 2.420898 1_556
+As0 As1 2.537415 1_556
+As0 As1 2.537415 1_456
+As1 Cu1 2.342593 1_555
+As1 Se2 2.420898 1_554
+As2 Cu2 2.342593 1_555
+As2 Se1 2.420898 1_555
+As2 As3 2.537415 1_565
+As2 As3 2.537415 1_665
+As3 Cu3 2.342593 1_555
+As3 Se0 2.420898 1_555

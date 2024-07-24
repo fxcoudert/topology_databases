@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Li3FeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75439980
+_cell_length_b   4.81862954
+_cell_length_c   5.81750324
+_cell_angle_alpha   113.22987334
+_cell_angle_beta   114.11874331
+_cell_angle_gamma   90.00000833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3FeN2
+_chemical_formula_sum   'Li6 Fe2 N4'
+_cell_volume   109.69728004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.74935232  0.50000000  -0.00000000  1
+  Li  Li1  1  0.25064768  0.50000000  0.00000000  1
+  Li  Li2  1  0.49371570  0.74155456  0.48425139  1
+  Li  Li3  1  0.00946531  0.25844544  0.51574861  1
+  Li  Li4  1  0.99053469  0.74155456  0.48425139  1
+  Li  Li5  1  0.50628430  0.25844544  0.51574861  1
+  Fe  Fe0  1  0.74622573  -0.00000000  -0.00000000  1
+  Fe  Fe1  1  0.25377427  0.00000000  0.00000000  1
+  N  N0  1  0.88662460  0.10986546  0.77325019  1
+  N  N1  1  0.61696869  0.34337149  0.23393637  1
+  N  N2  1  0.11337540  0.89013454  0.22674981  1
+  N  N3  1  0.38303131  0.65662851  0.76606363  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N1 2.080429 1_555
+Li0 N3 2.080431 1_554
+Li0 N0 2.108909 1_554
+Li0 N2 2.108911 1_655
+Li1 N3 2.080429 1_554
+Li1 N1 2.080431 1_555
+Li1 N2 2.108909 1_555
+Li1 N0 2.108911 1_454
+Li2 N3 2.089614 1_555
+Li2 N0 2.132012 1_565
+Li2 N1 2.153759 1_555
+Li2 N2 2.158417 1_555
+Li3 N1 2.089613 1_455
+Li3 N2 2.132012 1_545
+Li3 N3 2.153753 1_555
+Li3 N0 2.158422 1_455
+Li4 N3 2.089613 1_655
+Li4 N0 2.132012 1_565
+Li4 N1 2.153753 1_555
+Li4 N2 2.158422 1_655
+Li5 N1 2.089614 1_555
+Li5 N2 2.132012 1_545
+Li5 N3 2.153759 1_555
+Li5 N0 2.158417 1_555
+Fe0 N0 1.932979 1_554
+Fe0 N2 1.932982 1_645
+Fe0 N1 1.968410 1_555
+Fe0 N3 1.968412 1_544
+Fe1 N2 1.932979 1_545
+Fe1 N0 1.932982 1_454
+Fe1 N3 1.968410 1_544
+Fe1 N1 1.968412 1_555

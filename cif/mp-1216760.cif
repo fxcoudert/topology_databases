@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Tl2Bi2Te3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98899708
+_cell_length_b   7.98899708
+_cell_length_c   7.98899708
+_cell_angle_alpha   132.94296933
+_cell_angle_beta   132.41732540
+_cell_angle_gamma   69.15778067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Bi2Te3Se
+_chemical_formula_sum   'Tl2 Bi2 Te3 Se1'
+_cell_volume   270.43240453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.49989200  0.99989200  0.50000000  1
+  Tl  Tl1  1  0.23984100  0.23984100  0.00000000  1
+  Bi  Bi0  1  0.99705100  0.49705100  0.50000000  1
+  Bi  Bi1  1  0.76120400  0.76120400  0.00000000  1
+  Te  Te0  1  0.75998600  0.25998600  0.50000000  1
+  Te  Te1  1  0.51451900  0.51451900  0.00000000  1
+  Te  Te2  1  0.23874600  0.73874600  0.50000000  1
+  Se  Se0  1  0.98491000  0.98491000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Te0 3.118687 1_555
+Bi0 Te2 3.179597 1_655
+Bi0 Se0 3.193248 1_545
+Bi0 Se0 3.193248 1_556
+Bi0 Te1 3.230999 1_555
+Bi0 Te1 3.230999 1_656
+Bi1 Se0 2.942944 1_555
+Bi1 Te0 3.189291 1_554
+Bi1 Te0 3.189291 1_565
+Bi1 Te2 3.236331 1_655
+Bi1 Te2 3.236331 1_554
+Bi1 Te1 3.245242 1_555
+Te0 Tl1 3.233695 1_656
+Te0 Tl1 3.233695 1_555
+Te0 Tl0 3.421643 1_545
+Te1 Tl0 3.195051 1_544
+Te1 Tl0 3.195051 1_555
+Te2 Tl1 3.189284 1_555
+Te2 Tl1 3.189284 1_566
+Te2 Tl0 3.435483 1_555
+Se0 Tl0 3.228838 1_655
+Se0 Tl0 3.228838 1_554
+Se0 Tl1 3.353722 1_665

@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Ta6Cr(CS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73536851
+_cell_length_b   5.73536851
+_cell_length_c   8.77777226
+_cell_angle_alpha   83.76661027
+_cell_angle_beta   83.76661027
+_cell_angle_gamma   120.05045508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Cr(CS2)3
+_chemical_formula_sum   'Ta6 Cr1 C3 S6'
+_cell_volume   243.95557841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.45511400  0.78814900  0.63485900  1
+  Ta  Ta1  1  0.12289800  0.12289800  0.63092000  1
+  Ta  Ta2  1  0.78814900  0.45511400  0.63485900  1
+  Ta  Ta3  1  0.54488600  0.21185100  0.36514100  1
+  Ta  Ta4  1  0.21185100  0.54488600  0.36514100  1
+  Ta  Ta5  1  0.87710200  0.87710200  0.36908000  1
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.50000000  0.50000000  0.50000000  1
+  C  C1  1  0.16887600  0.83112400  0.50000000  1
+  C  C2  1  0.83112400  0.16887600  0.50000000  1
+  S  S0  1  0.60764600  0.94238000  0.17235100  1
+  S  S1  1  0.27763900  0.27763900  0.17097800  1
+  S  S2  1  0.94238000  0.60764600  0.17235100  1
+  S  S3  1  0.39235400  0.05762000  0.82764900  1
+  S  S4  1  0.05762000  0.39235400  0.82764900  1
+  S  S5  1  0.72236100  0.72236100  0.82902200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S5 2.412904 1_444
+Cr0 S1 2.412904 1_555
+Cr0 S2 2.422629 1_445
+Cr0 S3 2.422629 1_554
+Cr0 S0 2.422629 1_445
+Cr0 S4 2.422629 1_554
+C0 Ta1 2.216258 1_555
+C0 Ta5 2.216258 1_555
+C0 Ta0 2.232385 1_555
+C0 Ta3 2.232385 1_555
+C0 Ta4 2.232385 1_555
+C0 Ta2 2.232385 1_555
+C1 Ta0 2.218348 1_555
+C1 Ta4 2.218348 1_555
+C1 Ta1 2.232555 1_565
+C1 Ta5 2.232555 1_455
+C1 Ta2 2.233433 1_455
+C1 Ta3 2.233433 1_565
+C2 Ta3 2.218348 1_555
+C2 Ta2 2.218348 1_555
+C2 Ta1 2.232555 1_655
+C2 Ta5 2.232555 1_545
+C2 Ta4 2.233433 1_655
+C2 Ta0 2.233433 1_545
+S0 Ta4 2.521731 1_555
+S0 Ta3 2.524835 1_565
+S0 Ta5 2.555215 1_555
+S1 Ta4 2.530470 1_555
+S1 Ta3 2.530470 1_555
+S1 Ta5 2.560865 1_445
+S2 Ta3 2.521731 1_555
+S2 Ta4 2.524835 1_655
+S2 Ta5 2.555215 1_555
+S3 Ta2 2.521731 1_555
+S3 Ta0 2.524835 1_545
+S3 Ta1 2.555215 1_555
+S4 Ta0 2.521731 1_555
+S4 Ta2 2.524835 1_455
+S4 Ta1 2.555215 1_555
+S5 Ta0 2.530470 1_555
+S5 Ta2 2.530470 1_555
+S5 Ta1 2.560865 1_665

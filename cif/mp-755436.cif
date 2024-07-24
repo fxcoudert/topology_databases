@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na3VO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02123038
+_cell_length_b   6.06362083
+_cell_length_c   5.50013755
+_cell_angle_alpha   89.99037976
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3VO4
+_chemical_formula_sum   'Na6 V2 O8'
+_cell_volume   234.16328611
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.15621575  0.48747133  1
+  Na  Na1  1  0.24479860  0.32591510  0.98962847  1
+  Na  Na2  1  0.25518553  0.67409610  0.48968548  1
+  Na  Na3  1  0.50000000  0.84372870  0.98778191  1
+  Na  Na4  1  0.74481447  0.67409610  0.48968548  1
+  Na  Na5  1  0.75520140  0.32591510  0.98962847  1
+  V  V0  1  0.00000000  0.82381687  0.00058419  1
+  V  V1  1  0.50000000  0.17619073  0.50074184  1
+  O  O0  1  -0.00000000  0.09440750  0.90229412  1
+  O  O1  1  0.00000000  0.82048780  0.31243570  1
+  O  O2  1  0.20309030  0.68943947  0.90106481  1
+  O  O3  1  0.29691959  0.31057755  0.40113619  1
+  O  O4  1  0.50000000  0.17948160  0.81259405  1
+  O  O5  1  0.50000000  0.90561261  0.40253795  1
+  O  O6  1  0.70308041  0.31057755  0.40113619  1
+  O  O7  1  0.79690970  0.68943947  0.90106481  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.252037 1_545
+Na0 O0 2.312097 1_555
+Na0 O3 2.334001 1_555
+Na0 O6 2.334001 1_455
+Na1 O4 2.224287 1_555
+Na1 O0 2.270633 1_555
+Na1 O2 2.276291 1_555
+Na1 O3 2.294613 1_556
+Na2 O1 2.224484 1_555
+Na2 O5 2.270434 1_555
+Na2 O3 2.276421 1_555
+Na2 O2 2.293920 1_555
+Na3 O4 2.252240 1_565
+Na3 O5 2.311933 1_556
+Na3 O2 2.334255 1_555
+Na3 O7 2.334255 1_555
+Na4 O1 2.224484 1_655
+Na4 O5 2.270434 1_555
+Na4 O6 2.276421 1_555
+Na4 O7 2.293920 1_555
+Na5 O4 2.224287 1_555
+Na5 O0 2.270633 1_655
+Na5 O7 2.276291 1_555
+Na5 O6 2.294613 1_556
+O0 V0 1.727440 1_546
+O1 V0 1.715342 1_555
+O2 V0 1.731185 1_556
+O3 V1 1.731218 1_555
+O4 V1 1.715349 1_555
+O5 V1 1.727392 1_565
+O6 V1 1.731218 1_555
+O7 V0 1.731185 1_656

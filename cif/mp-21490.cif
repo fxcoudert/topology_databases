@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_CeSnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74009404
+_cell_length_b   7.54823534
+_cell_length_c   7.97172594
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSnPd
+_chemical_formula_sum   'Ce4 Sn4 Pd4'
+_cell_volume   285.22313542
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.25000000  0.51311472  0.79547661  1
+  Ce  Ce1  1  0.75000000  0.48688528  0.20452339  1
+  Ce  Ce2  1  0.25000000  0.01311472  0.70452339  1
+  Ce  Ce3  1  0.75000000  0.98688528  0.29547661  1
+  Sn  Sn0  1  0.25000000  0.18734398  0.08717800  1
+  Sn  Sn1  1  0.75000000  0.31265602  0.58717800  1
+  Sn  Sn2  1  0.25000000  0.68734398  0.41282200  1
+  Sn  Sn3  1  0.75000000  0.81265602  0.91282200  1
+  Pd  Pd0  1  0.75000000  0.20535634  0.91700254  1
+  Pd  Pd1  1  0.25000000  0.29464366  0.41700254  1
+  Pd  Pd2  1  0.75000000  0.70535634  0.58299746  1
+  Pd  Pd3  1  0.25000000  0.79464366  0.08299746  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Pd3 3.125581 1_556
+Ce0 Pd2 3.254507 1_555
+Ce0 Pd2 3.254507 1_455
+Ce0 Sn1 3.265560 1_455
+Ce0 Sn1 3.265560 1_555
+Ce0 Sn2 3.321837 1_555
+Ce0 Sn0 3.384371 1_556
+Ce0 Sn3 3.406514 1_555
+Ce0 Sn3 3.406514 1_455
+Ce0 Pd1 3.438354 1_555
+Ce0 Pd0 3.457184 1_555
+Ce0 Pd0 3.457184 1_455
+Ce1 Pd0 3.125581 1_554
+Ce1 Pd1 3.254507 1_555
+Ce1 Pd1 3.254507 1_655
+Ce1 Sn2 3.265560 1_655
+Ce1 Sn2 3.265560 1_555
+Ce1 Sn1 3.321837 1_555
+Ce1 Sn3 3.384371 1_554
+Ce1 Sn0 3.406514 1_555
+Ce1 Sn0 3.406514 1_655
+Ce1 Pd2 3.438354 1_555
+Ce1 Pd3 3.457184 1_555
+Ce1 Pd3 3.457184 1_655
+Ce2 Pd1 3.125581 1_555
+Ce2 Pd0 3.254507 1_555
+Ce2 Pd0 3.254507 1_455
+Ce2 Sn3 3.265560 1_545
+Ce2 Sn3 3.265560 1_445
+Ce2 Sn0 3.321837 1_556
+Ce2 Sn2 3.384371 1_545
+Ce2 Sn1 3.406514 1_555
+Ce2 Sn1 3.406514 1_455
+Ce2 Pd3 3.438354 1_546
+Ce2 Pd2 3.457184 1_445
+Ce2 Pd2 3.457184 1_545
+Ce3 Pd2 3.125581 1_555
+Ce3 Pd3 3.254507 1_555
+Ce3 Pd3 3.254507 1_655
+Ce3 Sn0 3.265560 1_665
+Ce3 Sn0 3.265560 1_565
+Ce3 Sn3 3.321837 1_554
+Ce3 Sn1 3.384371 1_565
+Ce3 Sn2 3.406514 1_655
+Ce3 Sn2 3.406514 1_555
+Ce3 Pd0 3.438354 1_564
+Ce3 Pd1 3.457184 1_565
+Ce3 Pd1 3.457184 1_665
+Pd0 Sn0 2.734218 1_656
+Pd0 Sn0 2.734218 1_556
+Pd0 Sn1 2.751189 1_555
+Pd0 Sn3 2.964382 1_545
+Pd1 Sn1 2.734218 1_555
+Pd1 Sn1 2.734218 1_455
+Pd1 Sn0 2.751189 1_555
+Pd1 Sn2 2.964382 1_555
+Pd2 Sn2 2.734218 1_555
+Pd2 Sn2 2.734218 1_655
+Pd2 Sn3 2.751189 1_555
+Pd2 Sn1 2.964382 1_555
+Pd3 Sn3 2.734218 1_554
+Pd3 Sn3 2.734218 1_454
+Pd3 Sn2 2.751189 1_555
+Pd3 Sn0 2.964382 1_565

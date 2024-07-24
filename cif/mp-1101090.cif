@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_GdAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90284530
+_cell_length_b   6.97128922
+_cell_length_c   6.97654480
+_cell_angle_alpha   119.97509258
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAlNi
+_chemical_formula_sum   'Gd3 Al3 Ni3'
+_cell_volume   164.42748093
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.50000000  0.58147131  -0.00000000  1
+  Gd  Gd1  1  0.50000000  0.41862290  0.41897631  1
+  Gd  Gd2  1  0.50000000  0.99964559  0.58102369  1
+  Al  Al0  1  -0.00000000  0.23102977  0.00000000  1
+  Al  Al1  1  -0.00000000  0.76852572  0.76888252  1
+  Al  Al2  1  -0.00000000  0.99964320  0.23111748  1
+  Ni  Ni0  1  0.50000000  0.00096488  -0.00000000  1
+  Ni  Ni1  1  -0.00000000  0.33307758  0.66615855  1
+  Ni  Ni2  1  -0.00000000  0.66691903  0.33384145  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 Ni1 2.863752 1_654
+Gd0 Ni1 2.863752 1_554
+Gd0 Ni2 2.863752 1_655
+Gd0 Ni2 2.863752 1_555
+Gd0 Ni0 2.924411 1_565
+Gd1 Ni1 2.857474 1_555
+Gd1 Ni1 2.857474 1_655
+Gd1 Ni2 2.860823 1_555
+Gd1 Ni2 2.860823 1_655
+Gd1 Ni0 2.918426 1_555
+Gd2 Ni2 2.857470 1_555
+Gd2 Ni2 2.857470 1_655
+Gd2 Ni1 2.860827 1_565
+Gd2 Ni1 2.860827 1_665
+Gd2 Ni0 2.918423 1_566
+Al0 Ni0 2.525942 1_455
+Al0 Ni0 2.525942 1_555
+Al0 Ni2 2.754319 1_555
+Al0 Ni1 2.754319 1_554
+Al0 Al1 2.792983 1_544
+Al0 Al2 2.792983 1_545
+Al0 Gd0 3.126730 1_455
+Al0 Gd0 3.126730 1_555
+Al0 Gd1 3.200397 1_455
+Al0 Gd1 3.200397 1_555
+Al0 Gd2 3.200397 1_544
+Al0 Gd2 3.200397 1_444
+Al1 Ni0 2.534328 1_566
+Al1 Ni0 2.534328 1_466
+Al1 Ni1 2.748600 1_555
+Al1 Ni2 2.750499 1_555
+Al1 Al2 2.793462 1_556
+Al1 Gd1 3.125242 1_455
+Al1 Gd1 3.125242 1_555
+Al1 Gd0 3.195205 1_556
+Al1 Gd0 3.195205 1_456
+Al1 Gd2 3.198715 1_455
+Al1 Gd2 3.198715 1_555
+Al2 Ni0 2.534328 1_465
+Al2 Ni0 2.534328 1_565
+Al2 Ni2 2.748601 1_555
+Al2 Ni1 2.750498 1_565
+Al2 Gd2 3.125245 1_555
+Al2 Gd2 3.125245 1_455
+Al2 Gd0 3.195205 1_455
+Al2 Gd0 3.195205 1_555
+Al2 Gd1 3.198719 1_565
+Al2 Gd1 3.198719 1_465

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_MgCu3(TeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34170896
+_cell_length_b   5.96911527
+_cell_length_c   7.61551769
+_cell_angle_alpha   104.98586007
+_cell_angle_beta   101.15943090
+_cell_angle_gamma   105.72123870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu3(TeO5)2
+_chemical_formula_sum   'Mg1 Cu3 Te2 O10'
+_cell_volume   216.52669699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.69597900  0.87641300  0.90938100  1
+  Cu  Cu2  1  0.30402100  0.12358700  0.09061900  1
+  Te  Te0  1  0.11451700  0.70376500  0.70546200  1
+  Te  Te1  1  0.88548300  0.29623500  0.29453800  1
+  O  O0  1  0.06700100  0.00988200  0.83211700  1
+  O  O1  1  0.32249700  0.69240700  0.94240200  1
+  O  O2  1  0.12612400  0.35531000  0.54456100  1
+  O  O3  1  0.19955200  0.47990700  0.23462100  1
+  O  O4  1  0.46230200  0.82249400  0.66214600  1
+  O  O5  1  0.53769800  0.17750600  0.33785400  1
+  O  O6  1  0.80044800  0.52009300  0.76537800  1
+  O  O7  1  0.87387600  0.64469000  0.45543900  1
+  O  O8  1  0.67750300  0.30759300  0.05759800  1
+  O  O9  1  0.93299900  0.99011800  0.16788300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.080583 1_555
+Mg0 O7 2.080583 1_555
+Mg0 O4 2.085183 1_555
+Mg0 O5 2.085183 1_555
+Mg0 O6 2.278015 1_555
+Mg0 O3 2.278020 1_555
+Cu0 O3 1.945771 1_555
+Cu0 O6 1.945777 1_454
+Cu0 O8 1.989961 1_455
+Cu0 O1 1.989961 1_554
+Cu1 O4 1.940587 1_555
+Cu1 O9 1.953888 1_556
+Cu1 O1 2.097460 1_555
+Cu1 O0 2.178762 1_665
+Cu1 O6 2.389906 1_555
+Cu1 O8 2.566403 1_566
+Cu2 O5 1.940587 1_555
+Cu2 O0 1.953888 1_554
+Cu2 O8 2.097460 1_555
+Cu2 O9 2.178762 1_445
+Cu2 O3 2.389904 1_555
+Cu2 O1 2.566403 1_544
+O0 Te0 1.941191 1_545
+O1 Te0 1.955225 1_555
+O2 Te1 1.965159 1_455
+O2 Te0 2.147742 1_555
+O3 Te1 1.945007 1_455
+O4 Te0 1.925358 1_555
+O5 Te1 1.925358 1_555
+O6 Te0 1.945003 1_655
+O7 Te0 1.965159 1_655
+O7 Te1 2.147742 1_555
+O8 Te1 1.955225 1_555
+O9 Te1 1.941191 1_565

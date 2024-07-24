@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_ZrCoRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10733678
+_cell_length_b   5.12244342
+_cell_length_c   8.39863900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.09546617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCoRe
+_chemical_formula_sum   'Zr4 Co4 Re4'
+_cell_volume   190.10459982
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66069600  0.33035300  0.57157700  1
+  Zr  Zr1  1  0.32923200  0.66458900  0.44258000  1
+  Zr  Zr2  1  0.32923200  0.66458900  0.05742000  1
+  Zr  Zr3  1  0.66069600  0.33035300  0.92842300  1
+  Co  Co0  1  0.00166200  0.00082000  0.51153900  1
+  Co  Co1  1  0.00166200  0.00082000  0.98846100  1
+  Co  Co2  1  0.17631500  0.34075800  0.75000000  1
+  Co  Co3  1  0.17637800  0.83562900  0.75000000  1
+  Re  Re0  1  0.66446400  0.83220900  0.75000000  1
+  Re  Re1  1  0.83145600  0.66449100  0.25000000  1
+  Re  Re2  1  0.83141200  0.16697200  0.25000000  1
+  Re  Re3  1  0.33679600  0.16841400  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 2.997021 1_555
+Zr0 Zr1 3.142888 1_555
+Zr0 Zr1 3.143256 1_545
+Zr0 Zr1 3.146539 1_655
+Zr2 Zr3 3.142888 1_554
+Zr2 Zr3 3.143256 1_564
+Zr2 Zr3 3.146539 1_454
+Co0 Re0 2.496228 1_445
+Co0 Co3 2.506100 1_545
+Co0 Co2 2.506213 1_555
+Co0 Re3 2.649148 1_555
+Co0 Re1 2.654575 1_445
+Co0 Re2 2.654726 1_455
+Co0 Zr0 2.955486 1_555
+Co0 Zr1 2.998393 1_555
+Co0 Zr1 2.998428 1_545
+Co0 Zr0 3.013979 1_445
+Co0 Zr0 3.014010 1_455
+Co0 Zr1 3.027266 1_445
+Co1 Re0 2.496228 1_445
+Co1 Co3 2.506100 1_545
+Co1 Co2 2.506213 1_555
+Co1 Re3 2.649148 1_556
+Co1 Re1 2.654575 1_446
+Co1 Re2 2.654726 1_456
+Co1 Zr3 2.955486 1_555
+Co1 Zr2 2.998393 1_556
+Co1 Zr2 2.998428 1_546
+Co1 Zr3 3.013979 1_445
+Co1 Zr3 3.014010 1_455
+Co1 Zr2 3.027266 1_446
+Co2 Re0 2.501758 1_555
+Co2 Co3 2.534787 1_555
+Co2 Co3 2.587656 1_545
+Co2 Re0 2.605850 1_445
+Co2 Zr3 2.915609 1_555
+Co2 Zr0 2.915609 1_555
+Co2 Zr1 2.954419 1_555
+Co2 Zr2 2.954419 1_556
+Co2 Zr3 3.007094 1_455
+Co2 Zr0 3.007094 1_455
+Co3 Re0 2.501650 1_555
+Co3 Re0 2.605777 1_455
+Co3 Zr0 2.915416 1_565
+Co3 Zr3 2.915416 1_565
+Co3 Zr1 2.954538 1_555
+Co3 Zr2 2.954538 1_556
+Co3 Zr3 3.007452 1_455
+Co3 Zr0 3.007452 1_455
+Re0 Zr3 2.967311 1_555
+Re0 Zr0 2.967311 1_555
+Re0 Zr3 2.967558 1_565
+Re0 Zr0 2.967558 1_565
+Re0 Zr1 2.976676 1_555
+Re0 Zr2 2.976676 1_556
+Re1 Re3 2.530136 1_555
+Re1 Re2 2.548400 1_555
+Re1 Re2 2.574043 1_565
+Re1 Re3 2.577404 1_665
+Re1 Zr2 3.012984 1_655
+Re1 Zr1 3.012984 1_655
+Re1 Zr2 3.032601 1_555
+Re1 Zr1 3.032601 1_555
+Re1 Zr3 3.080182 1_554
+Re1 Zr0 3.080182 1_555
+Re2 Re3 2.529882 1_555
+Re2 Re3 2.577470 1_655
+Re2 Zr2 3.013025 1_655
+Re2 Zr1 3.013025 1_655
+Re2 Zr1 3.032719 1_545
+Re2 Zr2 3.032719 1_545
+Re2 Zr3 3.080067 1_554
+Re2 Zr0 3.080067 1_555
+Re3 Zr1 3.029167 1_555
+Re3 Zr2 3.029167 1_555
+Re3 Zr2 3.029542 1_545
+Re3 Zr1 3.029542 1_545
+Re3 Zr3 3.056610 1_554
+Re3 Zr0 3.056610 1_555

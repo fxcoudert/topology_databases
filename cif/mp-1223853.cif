@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_K2Zr(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24505759
+_cell_length_b   5.24505759
+_cell_length_c   9.13025600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zr(PO4)2
+_chemical_formula_sum   'K2 Zr1 P2 O8'
+_cell_volume   217.52748129
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33333300  0.66666700  0.65037200  1
+  K  K1  1  0.66666700  0.33333300  0.34962800  1
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  P  P0  1  0.33333300  0.66666700  0.19431100  1
+  P  P1  1  0.66666700  0.33333300  0.80568900  1
+  O  O0  1  0.33333300  0.66666700  0.36131900  1
+  O  O1  1  0.66666700  0.33333300  0.63868100  1
+  O  O2  1  0.27082100  0.90932100  0.13534600  1
+  O  O3  1  0.09067900  0.36149900  0.13534600  1
+  O  O4  1  0.63850100  0.72917900  0.13534600  1
+  O  O5  1  0.72917900  0.09067900  0.86465400  1
+  O  O6  1  0.90932100  0.63850100  0.86465400  1
+  O  O7  1  0.36149900  0.27082100  0.86465400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O0 2.639128 1_555
+K0 O7 2.909811 1_555
+K0 O6 2.909811 1_455
+K0 O5 2.909811 1_565
+K0 O1 3.030113 1_455
+K0 O1 3.030113 1_565
+K0 O1 3.030122 1_555
+K1 O1 2.639128 1_555
+K1 O4 2.909811 1_555
+K1 O3 2.909811 1_655
+K1 O2 2.909811 1_545
+K1 O0 3.030113 1_545
+K1 O0 3.030113 1_655
+K1 O0 3.030122 1_555
+O0 P0 1.524826 1_555
+O1 P1 1.524826 1_555
+O2 P0 1.560288 1_555
+O2 Zr0 2.108699 1_565
+O3 P0 1.560294 1_555
+O3 Zr0 2.108695 1_555
+O4 P0 1.560297 1_555
+O4 Zr0 2.108697 1_665
+O5 P1 1.560288 1_555
+O5 Zr0 2.108699 1_656
+O6 P1 1.560294 1_555
+O6 Zr0 2.108695 1_666
+O7 P1 1.560297 1_555
+O7 Zr0 2.108697 1_556

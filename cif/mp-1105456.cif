@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_HgAs2H2F14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90698001
+_cell_length_b   6.93202627
+_cell_length_c   7.58661633
+_cell_angle_alpha   89.34445411
+_cell_angle_beta   75.24829981
+_cell_angle_gamma   77.57383322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgAs2H2F14
+_chemical_formula_sum   'Hg1 As2 H2 F14'
+_cell_volume   243.45207851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  -0.00000000  -0.00000000  -0.00000000  1
+  As  As0  1  0.63252379  0.70621600  0.73988044  1
+  As  As1  1  0.36747621  0.29378400  0.26011956  1
+  H  H0  1  0.07199127  0.36457032  0.81871647  1
+  H  H1  1  0.92800873  0.63542968  0.18128353  1
+  F  F0  1  0.55954027  0.48680369  0.68774768  1
+  F  F1  1  0.44045973  0.51319631  0.31225232  1
+  F  F2  1  0.33336617  0.84799237  0.67989401  1
+  F  F3  1  0.66663383  0.15200763  0.32010599  1
+  F  F4  1  0.86020174  0.71768305  0.53088834  1
+  F  F5  1  0.13979826  0.28231695  0.46911166  1
+  F  F6  1  0.40163876  0.71015900  0.96394395  1
+  F  F7  1  0.59836124  0.28984100  0.03605605  1
+  F  F8  1  0.70350586  0.93013327  0.81289099  1
+  F  F9  1  0.29649414  0.06986673  0.18710901  1
+  F  F10  1  0.92285736  0.58018311  0.82707025  1
+  F  F11  1  0.07714264  0.41981689  0.17292975  1
+  F  F12  1  0.18163976  0.23113675  0.82152445  1
+  F  F13  1  0.81836024  0.76886325  0.17847555  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 F4 1.703427 1_555
+As0 F0 1.708321 1_555
+As0 F2 1.742700 1_555
+As0 F10 1.778069 1_555
+As0 F6 1.783503 1_555
+As0 F8 1.785511 1_555
+As1 F5 1.703427 1_555
+As1 F1 1.708321 1_555
+As1 F3 1.742700 1_555
+As1 F11 1.778069 1_555
+As1 F7 1.783503 1_555
+As1 F9 1.785511 1_555
+F6 Hg0 2.455550 1_566
+F7 Hg0 2.455550 1_655
+F8 Hg0 2.395214 1_666
+F9 Hg0 2.395214 1_555
+F10 H0 1.510399 1_655
+F11 H1 1.510399 1_455
+F12 H0 0.967839 1_555
+F12 Hg0 2.268336 1_556
+F13 H1 0.967839 1_555
+F13 Hg0 2.268336 1_665

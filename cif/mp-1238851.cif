@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_TiCrAgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47232000
+_cell_length_b   5.95477100
+_cell_length_c   12.95132631
+_cell_angle_alpha   88.27147149
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCrAgS4
+_chemical_formula_sum   'Ti2 Cr2 Ag2 S8'
+_cell_volume   267.67104091
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.24719700  0.50251900  1
+  Ti  Ti1  1  0.75000000  0.75280300  0.49748100  1
+  Cr  Cr0  1  0.25000000  0.26682700  0.99277500  1
+  Cr  Cr1  1  0.75000000  0.73317300  0.00722500  1
+  Ag  Ag0  1  0.75000000  0.76795400  0.75877600  1
+  Ag  Ag1  1  0.25000000  0.23204600  0.24122400  1
+  S  S0  1  0.75000000  0.42434500  0.89165500  1
+  S  S1  1  0.75000000  0.07866800  0.61168400  1
+  S  S2  1  0.25000000  0.92133200  0.38831600  1
+  S  S3  1  0.25000000  0.57565500  0.10834500  1
+  S  S4  1  0.25000000  0.91878400  0.90437500  1
+  S  S5  1  0.25000000  0.57710000  0.60952600  1
+  S  S6  1  0.75000000  0.42290000  0.39047400  1
+  S  S7  1  0.75000000  0.08121600  0.09562500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S0 2.352681 1_455
+Cr0 S0 2.352681 1_555
+Cr0 S4 2.397762 1_545
+Cr0 S3 2.405898 1_556
+Cr0 S7 2.433392 1_556
+Cr0 S7 2.433392 1_456
+Cr1 S3 2.352681 1_555
+Cr1 S3 2.352681 1_655
+Cr1 S7 2.397762 1_565
+Cr1 S0 2.405898 1_554
+Cr1 S4 2.433392 1_554
+Cr1 S4 2.433392 1_654
+Ag0 S1 2.615316 1_565
+Ag0 S0 2.633600 1_555
+Ag0 S4 2.734772 1_655
+Ag0 S4 2.734772 1_555
+Ag0 S5 2.859166 1_555
+Ag0 S5 2.859166 1_655
+Ag1 S2 2.615316 1_545
+Ag1 S3 2.633600 1_555
+Ag1 S7 2.734772 1_455
+Ag1 S7 2.734772 1_555
+Ag1 S6 2.859166 1_555
+Ag1 S6 2.859166 1_455
+S1 Ti0 2.436122 1_555
+S1 Ti0 2.436122 1_655
+S1 Ti1 2.475111 1_545
+S2 Ti1 2.436122 1_555
+S2 Ti1 2.436122 1_455
+S2 Ti0 2.475111 1_565
+S5 Ti0 2.438066 1_555
+S5 Ti1 2.474494 1_455
+S5 Ti1 2.474494 1_555
+S6 Ti1 2.438066 1_555
+S6 Ti0 2.474494 1_555
+S6 Ti0 2.474494 1_655

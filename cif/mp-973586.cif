@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Lu(AlC)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38153386
+_cell_length_b   3.38152966
+_cell_length_c   17.05123134
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00005085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(AlC)3
+_chemical_formula_sum   'Lu2 Al6 C6'
+_cell_volume   168.85467823
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000000  0.00000000  -0.00000000  1
+  Lu  Lu1  1  -0.00000000  -0.00000000  0.50000000  1
+  Al  Al0  1  0.33333577  0.66667155  0.13230084  1
+  Al  Al1  1  0.66665959  0.33332318  0.25000000  1
+  Al  Al2  1  0.33333577  0.66667155  0.36769916  1
+  Al  Al3  1  0.66666423  0.33333045  0.63230084  1
+  Al  Al4  1  0.33333841  0.66667582  0.75000000  1
+  Al  Al5  1  0.66666423  0.33333045  0.86769916  1
+  C  C0  1  0.66666346  0.33332992  0.09023888  1
+  C  C1  1  0.33333026  0.66665952  0.25000000  1
+  C  C2  1  0.66666346  0.33332992  0.40976112  1
+  C  C3  1  0.33333654  0.66667208  0.59023888  1
+  C  C4  1  0.66666974  0.33334248  0.75000000  1
+  C  C5  1  0.33333654  0.66667208  0.90976112  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 C1 2.006916 1_555
+Al0 C0 2.079873 1_565
+Al0 C0 2.079905 1_555
+Al0 C0 2.079913 1_455
+Al1 C1 1.952317 1_545
+Al1 C1 1.952326 1_555
+Al1 C1 1.952340 1_655
+Al2 C1 2.006916 1_555
+Al2 C2 2.079873 1_565
+Al2 C2 2.079905 1_555
+Al2 C2 2.079913 1_455
+Al3 C4 2.006916 1_555
+Al3 C3 2.079873 1_545
+Al3 C3 2.079905 1_555
+Al3 C3 2.079913 1_655
+Al4 C4 1.952323 1_555
+Al4 C4 1.952326 1_565
+Al4 C4 1.952334 1_455
+Al5 C4 2.006916 1_555
+Al5 C5 2.079873 1_545
+Al5 C5 2.079905 1_555
+Al5 C5 2.079913 1_655
+C0 Lu0 2.485779 1_555
+C0 Lu0 2.485786 1_655
+C0 Lu0 2.485793 1_665
+C2 Lu1 2.485779 1_555
+C2 Lu1 2.485786 1_655
+C2 Lu1 2.485793 1_665
+C3 Lu1 2.485779 1_665
+C3 Lu1 2.485782 1_565
+C3 Lu1 2.485797 1_555
+C5 Lu0 2.485779 1_666
+C5 Lu0 2.485782 1_566
+C5 Lu0 2.485797 1_556

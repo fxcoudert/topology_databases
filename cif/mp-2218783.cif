@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MgV3SnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63104754
+_cell_length_b   6.63104896
+_cell_length_c   6.75483265
+_cell_angle_alpha   75.54587629
+_cell_angle_beta   104.45412486
+_cell_angle_gamma   146.86366036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV3SnO8
+_chemical_formula_sum   'Mg1 V3 Sn1 O8'
+_cell_volume   156.75649463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.97966300  0.02033700  0.98265400  1
+  V  V0  1  0.40583800  0.59416200  0.32727700  1
+  V  V1  1  0.60384500  0.39615500  0.69541100  1
+  V  V2  1  0.30064700  0.69935300  0.71951900  1
+  Sn  Sn0  1  0.69916700  0.30083300  0.27621400  1
+  O  O0  1  0.15088400  0.84911700  0.74005100  1
+  O  O1  1  0.24578300  0.75421700  0.36744300  1
+  O  O2  1  0.38389300  0.61610700  0.97667800  1
+  O  O3  1  0.43976200  0.56023800  0.62751300  1
+  O  O4  1  0.56662700  0.43337300  0.38750700  1
+  O  O5  1  0.59140500  0.40859500  0.99971900  1
+  O  O6  1  0.76950600  0.23049400  0.66245100  1
+  O  O7  1  0.86297800  0.13702200  0.24756500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.243541 1_545
+Mg0 O2 2.243542 1_655
+Mg0 O5 2.349680 1_655
+Mg0 O5 2.349681 1_545
+Mg0 O7 2.604693 1_556
+O0 V2 1.944448 1_555
+O0 V1 1.982415 1_565
+O0 V1 1.982418 1_455
+O1 Sn0 2.028823 1_455
+O1 Sn0 2.028824 1_565
+O1 V0 2.121424 1_555
+O1 V2 2.297484 1_555
+O2 V2 1.783194 1_555
+O2 V0 2.311339 1_556
+O3 V0 1.960466 1_555
+O3 V1 2.015543 1_555
+O3 V2 2.021318 1_555
+O4 V0 1.977325 1_555
+O4 V1 2.009247 1_555
+O4 Sn0 2.015762 1_555
+O5 Sn0 2.008014 1_556
+O5 V1 2.102281 1_555
+O6 V2 1.949681 1_655
+O6 V2 1.949681 1_545
+O6 V1 2.174425 1_555
+O6 Sn0 2.528080 1_555
+O7 V0 2.002346 1_655
+O7 V0 2.002347 1_545
+O7 Sn0 2.140843 1_555

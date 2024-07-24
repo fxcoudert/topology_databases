@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Fe2Si2SbO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24652881
+_cell_length_b   5.24652881
+_cell_length_c   8.05580068
+_cell_angle_alpha   96.17703086
+_cell_angle_beta   96.17703086
+_cell_angle_gamma   119.18123509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2Si2SbO9
+_chemical_formula_sum   'Fe2 Si2 Sb1 O9'
+_cell_volume   189.17622549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.65319100  0.32798500  0.99151900  1
+  Fe  Fe1  1  0.32798500  0.65319100  0.99151900  1
+  Si  Si0  1  0.87205000  0.53159200  0.64011700  1
+  Si  Si1  1  0.53159200  0.87205000  0.64011700  1
+  Sb  Sb0  1  0.07643600  0.07643600  0.24200300  1
+  O  O0  1  0.03002700  0.37576000  0.13080200  1
+  O  O1  1  0.37576000  0.03002700  0.13080200  1
+  O  O2  1  0.70024400  0.70024400  0.13571600  1
+  O  O3  1  0.95078300  0.57983000  0.84751300  1
+  O  O4  1  0.57983000  0.95078300  0.84751300  1
+  O  O5  1  0.33989100  0.33989100  0.86110400  1
+  O  O6  1  0.17542400  0.67716600  0.55929400  1
+  O  O7  1  0.67716600  0.17542400  0.55929400  1
+  O  O8  1  0.68062200  0.68062200  0.57228800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O5 1.884713 1_555
+Fe0 O4 2.019273 1_545
+Fe0 O2 2.050530 1_556
+Fe0 O0 2.051701 1_656
+Fe0 O3 2.058476 1_555
+Fe0 O1 2.081207 1_556
+Fe1 O5 1.884713 1_555
+Fe1 O3 2.019273 1_455
+Fe1 O2 2.050530 1_556
+Fe1 O1 2.051701 1_566
+Fe1 O4 2.058476 1_555
+Fe1 O0 2.081207 1_556
+O0 Sb0 1.989130 1_555
+O1 Sb0 1.989130 1_555
+O2 Sb0 1.999521 1_665
+O3 Si0 1.638474 1_555
+O4 Si1 1.638474 1_555
+O6 Si0 1.638668 1_455
+O6 Si1 1.641025 1_555
+O7 Si1 1.638668 1_545
+O7 Si0 1.641025 1_555
+O8 Si0 1.630402 1_555
+O8 Si1 1.630402 1_555

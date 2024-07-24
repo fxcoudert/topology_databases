@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MgTe2(WO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16773538
+_cell_length_b   5.59558597
+_cell_length_c   7.70459979
+_cell_angle_alpha   88.16483433
+_cell_angle_beta   91.82383734
+_cell_angle_gamma   89.93398051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe2(WO6)2
+_chemical_formula_sum   'Mg1 Te2 W2 O12'
+_cell_volume   222.56251547
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.01726900  0.91693400  0.72847800  1
+  Te  Te0  1  0.50943500  0.99255300  0.99669400  1
+  Te  Te1  1  0.98595100  0.47453700  0.50505500  1
+  W  W0  1  0.49098700  0.00170700  0.48226200  1
+  W  W1  1  0.00796700  0.48235000  0.00671500  1
+  O  O0  1  0.64001100  0.31641600  0.47426100  1
+  O  O1  1  0.77272400  0.75249300  0.05872900  1
+  O  O2  1  0.29881500  0.74402700  0.56748000  1
+  O  O3  1  0.21802700  0.21068300  0.92561700  1
+  O  O4  1  0.17186500  0.17801500  0.57086800  1
+  O  O5  1  0.25590900  0.75162400  0.92678000  1
+  O  O6  1  0.80252800  0.85028600  0.47900700  1
+  O  O7  1  0.73193600  0.26125900  0.06071500  1
+  O  O8  1  0.17532400  0.47018100  0.21085000  1
+  O  O9  1  0.39625600  0.98091500  0.24164300  1
+  O  O10  1  0.63953100  0.01786200  0.76586200  1
+  O  O11  1  0.91046900  0.53565500  0.74898400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 2.048875 1_565
+Mg0 O10 2.063025 1_465
+Mg0 O5 2.120777 1_555
+Mg0 O2 2.186353 1_555
+Mg0 O11 2.206350 1_455
+Mg0 O6 2.230702 1_455
+Mg0 O3 2.479635 1_565
+O0 W0 1.922792 1_555
+O0 Te1 2.006286 1_555
+O1 Te0 1.948681 1_554
+O1 W1 1.997247 1_655
+O2 W0 1.865605 1_565
+O2 Te1 2.263152 1_455
+O3 Te0 1.989452 1_545
+O3 W1 1.994947 1_556
+O4 Te1 1.960761 1_455
+O4 W0 2.066403 1_555
+O5 Te0 1.956987 1_555
+O5 W1 2.070398 1_556
+O6 W0 1.819695 1_565
+O6 Te1 2.305577 1_555
+O7 W1 1.935781 1_655
+O7 Te0 1.959975 1_544
+O8 W1 1.769934 1_555
+O8 Te1 2.498213 1_455
+O9 W0 1.909506 1_565
+O9 Te0 1.992600 1_554
+O10 Te0 1.922288 1_545
+O10 W0 2.297349 1_555
+O11 Te1 1.971975 1_555
+O11 W1 2.045463 1_656

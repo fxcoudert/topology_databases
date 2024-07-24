@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ScHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21959279
+_cell_length_b   4.76733930
+_cell_length_c   10.31503536
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScHO2
+_chemical_formula_sum   'Sc4 H4 O8'
+_cell_volume   158.32435585
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25000000  0.42755764  0.35572751  1
+  Sc  Sc1  1  0.25000000  0.07244236  0.85572751  1
+  Sc  Sc2  1  0.75000000  0.57244236  0.64427249  1
+  Sc  Sc3  1  0.75000000  0.92755764  0.14427249  1
+  H  H0  1  0.25000000  0.11397748  0.59253051  1
+  H  H1  1  0.25000000  0.38602252  0.09253051  1
+  H  H2  1  0.75000000  0.88602252  0.40746949  1
+  H  H3  1  0.75000000  0.61397748  0.90746949  1
+  O  O0  1  0.25000000  0.81857153  0.69414178  1
+  O  O1  1  0.25000000  0.68142847  0.19414178  1
+  O  O2  1  0.75000000  0.18142847  0.30585822  1
+  O  O3  1  0.75000000  0.31857153  0.80585822  1
+  O  O4  1  0.25000000  0.30899070  0.55975118  1
+  O  O5  1  0.25000000  0.19100930  0.05975118  1
+  O  O6  1  0.75000000  0.69100930  0.44024882  1
+  O  O7  1  0.75000000  0.80899070  0.94024882  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O4 0.989271 1_555
+H0 O0 1.755527 1_545
+H1 O5 0.989271 1_555
+H1 O1 1.755527 1_555
+H2 O6 0.989271 1_555
+H2 O2 1.755527 1_565
+H3 O7 0.989271 1_555
+H3 O3 1.755527 1_555
+O0 Sc2 2.057396 1_555
+O0 Sc2 2.057396 1_455
+O0 Sc1 2.059829 1_565
+O1 Sc3 2.057396 1_455
+O1 Sc3 2.057396 1_555
+O1 Sc0 2.059829 1_555
+O2 Sc0 2.057396 1_655
+O2 Sc0 2.057396 1_555
+O2 Sc3 2.059829 1_545
+O3 Sc1 2.057396 1_655
+O3 Sc1 2.057396 1_555
+O3 Sc2 2.059829 1_555
+O4 Sc0 2.179099 1_555
+O4 Sc2 2.220134 1_555
+O4 Sc2 2.220134 1_455
+O5 Sc1 2.179099 1_554
+O5 Sc3 2.220134 1_545
+O5 Sc3 2.220134 1_445
+O6 Sc2 2.179099 1_555
+O6 Sc0 2.220134 1_655
+O6 Sc0 2.220134 1_555
+O7 Sc3 2.179099 1_556
+O7 Sc1 2.220134 1_665
+O7 Sc1 2.220134 1_565

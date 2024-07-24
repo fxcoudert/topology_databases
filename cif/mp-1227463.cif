@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_BiSbTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37655765
+_cell_length_b   4.37655765
+_cell_length_c   25.18001000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiSbTe2
+_chemical_formula_sum   'Bi3 Sb3 Te6'
+_cell_volume   417.68786661
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.33333300  0.66666700  0.87324300  1
+  Bi  Bi1  1  0.33333300  0.66666700  0.12603400  1
+  Bi  Bi2  1  0.66666700  0.33333300  0.46833800  1
+  Sb  Sb0  1  0.00000000  0.00000000  0.53313200  1
+  Sb  Sb1  1  0.33333300  0.66666700  0.70796300  1
+  Sb  Sb2  1  0.33333300  0.66666700  0.29109400  1
+  Te  Te0  1  0.66666700  0.33333300  0.21186900  1
+  Te  Te1  1  0.00000000  0.00000000  0.78905400  1
+  Te  Te2  1  0.66666700  0.33333300  0.94329500  1
+  Te  Te3  1  0.00000000  0.00000000  0.05649300  1
+  Te  Te4  1  0.66666700  0.33333300  0.64101700  1
+  Te  Te5  1  0.00000000  0.00000000  0.35847000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Te2 3.081577 1_455
+Bi0 Te2 3.081577 1_565
+Bi0 Te2 3.081583 1_555
+Bi0 Te1 3.298277 1_565
+Bi0 Te1 3.298280 1_665
+Bi0 Te1 3.298280 1_555
+Bi1 Te3 3.074230 1_565
+Bi1 Te3 3.074233 1_555
+Bi1 Te3 3.074233 1_665
+Bi1 Te0 3.325067 1_455
+Bi1 Te0 3.325067 1_565
+Bi1 Te0 3.325073 1_555
+Bi2 Sb0 3.007753 1_655
+Bi2 Sb0 3.007756 1_555
+Bi2 Sb0 3.007756 1_665
+Sb1 Te4 3.037487 1_455
+Sb1 Te4 3.037487 1_565
+Sb1 Te4 3.037493 1_555
+Sb1 Te1 3.248689 1_565
+Sb1 Te1 3.248692 1_555
+Sb1 Te1 3.248692 1_665
+Sb2 Te5 3.043509 1_565
+Sb2 Te5 3.043512 1_665
+Sb2 Te5 3.043512 1_555
+Sb2 Te0 3.219365 1_565
+Sb2 Te0 3.219365 1_455
+Sb2 Te0 3.219371 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MgCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85971018
+_cell_length_b   3.85971018
+_cell_length_c   6.10747977
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCoGe
+_chemical_formula_sum   'Mg2 Co2 Ge2'
+_cell_volume   90.98534116
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75000000  0.75000000  0.31738888  1
+  Mg  Mg1  1  0.25000000  0.25000000  0.68261112  1
+  Co  Co0  1  0.75000000  0.25000000  -0.00000000  1
+  Co  Co1  1  0.25000000  0.75000000  -0.00000000  1
+  Ge  Ge0  1  0.75000000  0.75000000  0.77561382  1
+  Ge  Ge1  1  0.25000000  0.25000000  0.22438618  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Ge0 2.366945 1_554
+Co0 Ge1 2.366945 1_555
+Co0 Ge0 2.366945 1_544
+Co0 Ge1 2.366945 1_655
+Co0 Mg1 2.735309 1_654
+Co0 Mg0 2.735309 1_555
+Co0 Mg1 2.735309 1_554
+Co0 Mg0 2.735309 1_545
+Co1 Ge0 2.366945 1_554
+Co1 Ge1 2.366945 1_565
+Co1 Ge0 2.366945 1_454
+Co1 Ge1 2.366945 1_555
+Co1 Mg1 2.735309 1_564
+Co1 Mg0 2.735309 1_455
+Co1 Mg0 2.735309 1_555
+Co1 Mg1 2.735309 1_554
+Ge0 Mg1 2.787709 1_555
+Ge0 Mg1 2.787709 1_655
+Ge0 Mg1 2.787709 1_565
+Ge0 Mg1 2.787709 1_665
+Ge0 Mg0 2.798600 1_555
+Ge1 Mg0 2.787709 1_555
+Ge1 Mg0 2.787709 1_455
+Ge1 Mg0 2.787709 1_445
+Ge1 Mg0 2.787709 1_545
+Ge1 Mg1 2.798600 1_555

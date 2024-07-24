@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Tl2SnTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.75078008
+_cell_length_b   9.75078008
+_cell_length_c   9.75078008
+_cell_angle_alpha   128.13487528
+_cell_angle_beta   128.13487528
+_cell_angle_gamma   76.40663722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2SnTe5
+_chemical_formula_sum   'Tl4 Sn2 Te10'
+_cell_volume   557.29665067
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.50000000  0.50000000  0.00000000  1
+  Tl  Tl1  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl2  1  0.75000000  0.75000000  0.00000000  1
+  Tl  Tl3  1  0.25000000  0.25000000  0.00000000  1
+  Sn  Sn0  1  0.25000000  0.75000000  0.50000000  1
+  Sn  Sn1  1  0.75000000  0.25000000  0.50000000  1
+  Te  Te0  1  0.50000000  0.00000000  0.50000000  1
+  Te  Te1  1  0.00000000  0.50000000  0.50000000  1
+  Te  Te2  1  0.31743623  0.81743623  0.86325448  1
+  Te  Te3  1  0.81743623  0.95418174  0.50000000  1
+  Te  Te4  1  0.45418174  0.31743623  0.50000000  1
+  Te  Te5  1  0.18256377  0.04581826  0.50000000  1
+  Te  Te6  1  0.54581826  0.68256377  0.50000000  1
+  Te  Te7  1  0.04581826  0.54581826  0.86325448  1
+  Te  Te8  1  0.68256377  0.18256377  0.13674552  1
+  Te  Te9  1  0.95418174  0.45418174  0.13674552  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Te2 2.803734 1_555
+Sn0 Te5 2.803734 1_565
+Sn0 Te6 2.803734 1_555
+Sn0 Te9 2.803734 1_455
+Sn1 Te8 2.803734 1_555
+Sn1 Te4 2.803734 1_555
+Sn1 Te3 2.803734 1_545
+Sn1 Te7 2.803734 1_655
+Te0 Te6 3.021615 1_545
+Te0 Te4 3.021615 1_555
+Te0 Te3 3.021615 1_545
+Te0 Te5 3.021615 1_555
+Te1 Te9 3.021615 1_455
+Te1 Te7 3.021615 1_555
+Te1 Te2 3.021615 1_555
+Te1 Te8 3.021615 1_455
+Te2 Tl2 3.582428 1_556
+Te2 Tl3 3.582428 1_566
+Te3 Tl2 3.582428 1_555
+Te3 Tl3 3.582428 1_666
+Te4 Tl2 3.582428 1_556
+Te4 Tl3 3.582428 1_555
+Te5 Tl2 3.582428 1_445
+Te5 Tl3 3.582428 1_556
+Te6 Tl2 3.582428 1_556
+Te6 Tl3 3.582428 1_555
+Te7 Tl3 3.582428 1_556
+Te7 Tl2 3.582428 1_456
+Te8 Tl3 3.582428 1_555
+Te8 Tl2 3.582428 1_545
+Te9 Tl2 3.582428 1_555
+Te9 Tl3 3.582428 1_655

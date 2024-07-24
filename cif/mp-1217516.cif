@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_UNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93123757
+_cell_length_b   5.94564474
+_cell_length_c   5.94564474
+_cell_angle_alpha   41.39464639
+_cell_angle_beta   58.91423962
+_cell_angle_gamma   74.58036303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNiSn
+_chemical_formula_sum   'U2 Ni2 Sn2'
+_cell_volume   115.97222888
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.21344900  0.50265600  0.28920700  1
+  U  U1  1  0.78655100  0.49734400  0.71079300  1
+  Ni  Ni0  1  0.62364900  0.12960900  0.50596000  1
+  Ni  Ni1  1  0.37635100  0.87039100  0.49404000  1
+  Sn  Sn0  1  0.79515700  0.79134600  0.99619000  1
+  Sn  Sn1  1  0.20484300  0.20865400  0.00381000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+U0 U1 2.462727 1_455
+Ni0 Ni1 2.450551 1_545
+Ni0 Sn0 2.598856 1_554
+Ni0 Sn0 2.598859 1_545
+Ni0 U0 2.929061 1_555
+Ni0 U0 2.929061 1_546
+Ni0 U1 2.993862 1_545
+Ni0 U1 2.993862 1_554
+Ni0 Sn1 3.004443 1_556
+Ni0 Sn1 3.024283 1_655
+Ni1 Sn1 2.598856 1_556
+Ni1 Sn1 2.598859 1_565
+Ni1 U1 2.929061 1_555
+Ni1 U1 2.929061 1_564
+Ni1 U0 2.993862 1_556
+Ni1 U0 2.993862 1_565
+Ni1 Sn0 3.004443 1_554
+Ni1 Sn0 3.024283 1_455
+Sn0 U1 3.129017 1_556
+Sn0 U1 3.129020 1_565
+Sn0 U0 3.138306 1_656
+Sn0 U0 3.138309 1_665
+Sn0 U0 3.215763 1_556
+Sn0 U1 3.244190 1_555
+Sn1 U0 3.129017 1_554
+Sn1 U0 3.129020 1_545
+Sn1 U1 3.138306 1_454
+Sn1 U1 3.138309 1_445
+Sn1 U1 3.215763 1_554
+Sn1 U0 3.244190 1_555

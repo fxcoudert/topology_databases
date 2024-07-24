@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_BaSm2NiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83947272
+_cell_length_b   5.92142213
+_cell_length_c   6.82485927
+_cell_angle_alpha   115.70977227
+_cell_angle_beta   106.33696345
+_cell_angle_gamma   89.99999999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSm2NiO5
+_chemical_formula_sum   'Ba1 Sm2 Ni1 O5'
+_cell_volume   132.81584410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000042  0.50000043  0.99999983  1
+  O  O1  1  0.35320674  0.59431554  0.70641623  1
+  O  O2  1  0.64679180  0.40568559  0.29358538  1
+  O  O3  1  0.64679218  0.88789986  0.29358466  1
+  O  O4  1  0.35320908  0.11210127  0.70641592  1
+  Ni  Ni0  1  0.49999941  0.50000043  0.99999983  1
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Sm  Sm0  1  0.79726747  0.29726767  0.59453357  1
+  Sm  Sm1  1  0.20273379  0.70273347  0.40546700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Sm0 2.368683 1_455
+O0 Sm1 2.368689 1_556
+O1 Sm1 2.332610 1_555
+O1 Sm0 2.480094 1_455
+O1 Sm0 2.480106 1_555
+O2 Sm0 2.332603 1_555
+O2 Sm1 2.480097 1_555
+O2 Sm1 2.480104 1_655
+O3 Sm0 2.332612 1_565
+O3 Sm1 2.480102 1_555
+O3 Sm1 2.480104 1_655
+O4 Sm1 2.332612 1_545
+O4 Sm0 2.480102 1_555
+O4 Sm0 2.480104 1_455
+Ni0 O0 1.919732 1_555
+Ni0 O0 1.919740 1_655
+Ni0 O1 2.231549 1_555
+Ni0 O4 2.231551 1_555
+Ni0 O3 2.231555 1_556
+Ni0 O2 2.231560 1_556
+Ba0 O0 2.960708 1_544
+Ba0 O0 2.960714 1_554
+Ba0 O1 2.996163 1_544
+Ba0 O4 2.996167 1_454
+Ba0 O3 2.996169 1_545
+Ba0 O3 2.996169 1_445
+Ba0 O1 2.996170 1_444
+Ba0 O2 2.996171 1_555
+Ba0 O4 2.996172 1_554
+Ba0 O2 2.996175 1_455

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CsNd(ClO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34841000
+_cell_length_b   8.68789400
+_cell_length_c   8.97688600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNd(ClO)4
+_chemical_formula_sum   'Cs2 Nd2 Cl8 O8'
+_cell_volume   573.10421556
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.39147100  0.50000000  1
+  Cs  Cs1  1  0.50000000  0.60852900  0.00000000  1
+  Nd  Nd0  1  0.50000000  0.89477000  0.50000000  1
+  Nd  Nd1  1  0.00000000  0.10523000  0.00000000  1
+  Cl  Cl0  1  0.67484800  0.06934800  0.19001000  1
+  Cl  Cl1  1  0.32515200  0.06934800  0.80999000  1
+  Cl  Cl2  1  0.82515200  0.93065200  0.69001000  1
+  Cl  Cl3  1  0.17484800  0.93065200  0.30999000  1
+  Cl  Cl4  1  0.65480200  0.66050400  0.34707700  1
+  Cl  Cl5  1  0.34519800  0.66050400  0.65292300  1
+  Cl  Cl6  1  0.84519800  0.33949600  0.84707700  1
+  Cl  Cl7  1  0.15480200  0.33949600  0.15292300  1
+  O  O0  1  0.70906800  0.05329300  0.37323500  1
+  O  O1  1  0.29093200  0.05329300  0.62676500  1
+  O  O2  1  0.79093200  0.94670700  0.87323500  1
+  O  O3  1  0.20906800  0.94670700  0.12676500  1
+  O  O4  1  0.54978800  0.31452000  0.55516300  1
+  O  O5  1  0.45021200  0.31452000  0.44483700  1
+  O  O6  1  0.95021200  0.68548000  0.05516300  1
+  O  O7  1  0.04978800  0.68548000  0.94483700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 O4 3.411348 1_455
+Cs0 O5 3.411348 1_555
+Cs0 O0 3.807581 1_455
+Cs0 O1 3.807581 1_555
+Cs1 O7 3.411348 1_554
+Cs1 O6 3.411348 1_555
+Cs1 O3 3.807581 1_555
+Cs1 O2 3.807581 1_554
+Nd0 O0 2.356264 1_565
+Nd0 O1 2.356264 1_565
+Nd1 O2 2.356264 1_444
+Nd1 O3 2.356264 1_545
+Cl0 O0 1.669737 1_555
+Cl0 Nd1 2.952216 1_655
+Cl1 O1 1.669737 1_555
+Cl1 Nd1 2.952216 1_556
+Cl2 O2 1.669737 1_555
+Cl2 Nd0 2.952216 1_555
+Cl3 O3 1.669737 1_555
+Cl3 Nd0 2.952216 1_555
+Cl4 Nd0 2.705712 1_555
+Cl4 Cs1 3.347435 1_555
+Cl4 Cs0 3.712444 1_655
+Cl5 Nd0 2.705712 1_555
+Cl5 Cs1 3.347435 1_556
+Cl5 Cs0 3.712444 1_555
+Cl6 Nd1 2.705712 1_656
+Cl6 Cs0 3.347435 1_655
+Cl6 Cs1 3.712444 1_556
+Cl7 Nd1 2.705712 1_555
+Cl7 Cs0 3.347435 1_555
+Cl7 Cs1 3.712444 1_555
+O4 O5 1.231374 1_555
+O6 O7 1.231374 1_654

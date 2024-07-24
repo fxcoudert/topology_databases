@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiPtO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59381365
+_cell_length_b   5.59381365
+_cell_length_c   5.14780171
+_cell_angle_alpha   78.58310163
+_cell_angle_beta   78.58310163
+_cell_angle_gamma   118.70334474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPtO2
+_chemical_formula_sum   'Li3 Pt3 O6'
+_cell_volume   130.19829536
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67147500  0.32852600  0.50000000  1
+  Li  Li1  1  0.32852600  0.67147400  0.50000000  1
+  Li  Li2  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt0  1  0.83596200  0.16403800  0.00000000  1
+  Pt  Pt1  1  0.16403800  0.83596200  0.00000000  1
+  Pt  Pt2  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.43154900  0.07106500  0.22864200  1
+  O  O1  1  0.56845100  0.92893500  0.77135800  1
+  O  O2  1  0.92893500  0.56845100  0.77135800  1
+  O  O3  1  0.07106500  0.43154900  0.22864200  1
+  O  O4  1  0.77571800  0.77571800  0.23520000  1
+  O  O5  1  0.22428200  0.22428200  0.76480000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.118380 1_655
+Li0 O1 2.118383 1_545
+Li0 O4 2.321627 1_555
+Li0 O5 2.321630 1_555
+Li0 O2 2.347066 1_555
+Li0 O0 2.347071 1_555
+Li1 O0 2.118385 1_565
+Li1 O2 2.118385 1_455
+Li1 O4 2.321625 1_555
+Li1 O5 2.321625 1_555
+Li1 O3 2.347069 1_555
+Li1 O1 2.347069 1_555
+Li2 O4 2.201894 1_445
+Li2 O5 2.201894 1_555
+Li2 O2 2.336699 1_445
+Li2 O1 2.336699 1_445
+Li2 O0 2.336699 1_555
+Li2 O3 2.336699 1_555
+O0 Pt0 2.084912 1_555
+O0 Pt1 2.184920 1_545
+O0 Pt2 2.260542 1_555
+O1 Pt1 2.084912 1_556
+O1 Pt0 2.184920 1_566
+O1 Pt2 2.260542 1_556
+O2 Pt0 2.084912 1_556
+O2 Pt1 2.184920 1_656
+O2 Pt2 2.260542 1_556
+O3 Pt1 2.084912 1_555
+O3 Pt0 2.184920 1_455
+O3 Pt2 2.260542 1_555
+O4 Pt0 2.095722 1_565
+O4 Pt1 2.095722 1_655
+O4 Pt2 2.327464 1_555
+O5 Pt1 2.095722 1_546
+O5 Pt0 2.095722 1_456
+O5 Pt2 2.327464 1_556

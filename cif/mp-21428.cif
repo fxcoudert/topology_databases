@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Th2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31073858
+_cell_length_b   6.31073858
+_cell_length_c   6.31073858
+_cell_angle_alpha   103.16196428
+_cell_angle_beta   103.16196428
+_cell_angle_gamma   122.99671695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2In
+_chemical_formula_sum   'Th4 In2'
+_cell_volume   185.24217938
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.65256753  0.15256753  0.80513406  1
+  Th  Th1  1  0.84743247  0.65256753  0.50000000  1
+  Th  Th2  1  0.15256753  0.34743247  0.50000000  1
+  Th  Th3  1  0.34743247  0.84743247  0.19486594  1
+  In  In0  1  0.75000000  0.75000000  -0.00000000  1
+  In  In1  1  0.25000000  0.25000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In1 3.011383 1_665
+In0 In1 3.011383 1_555
+In0 Th1 3.335307 1_554
+In0 Th1 3.335307 1_555
+In0 Th2 3.335307 1_665
+In0 Th2 3.335307 1_554
+In0 Th3 3.335307 1_655
+In0 Th0 3.335307 1_554
+In0 Th3 3.335310 1_555
+In0 Th0 3.335310 1_564
+In1 Th2 3.335307 1_554
+In1 Th1 3.335307 1_444
+In1 Th2 3.335307 1_555
+In1 Th1 3.335307 1_555
+In1 Th3 3.335307 1_555
+In1 Th0 3.335307 1_454
+In1 Th3 3.335310 1_545
+In1 Th0 3.335310 1_554

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ZnCuH3ClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58513125
+_cell_length_b   6.01593868
+_cell_length_c   6.50156500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.62049757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuH3ClO3
+_chemical_formula_sum   'Zn2 Cu2 H6 Cl2 O6'
+_cell_volume   218.36396315
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00747600  0.47433500  0.25000000  1
+  Zn  Zn1  1  0.99252400  0.52566500  0.75000000  1
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  H  H0  1  0.39179100  0.80170700  0.25000000  1
+  H  H1  1  0.60820900  0.19829300  0.75000000  1
+  H  H2  1  0.81056300  0.80492100  0.46318600  1
+  H  H3  1  0.18943700  0.19507900  0.96318600  1
+  H  H4  1  0.18943700  0.19507900  0.53681400  1
+  H  H5  1  0.81056300  0.80492100  0.03681400  1
+  Cl  Cl0  1  0.70892700  0.15610500  0.25000000  1
+  Cl  Cl1  1  0.29107300  0.84389500  0.75000000  1
+  O  O0  1  0.36396400  0.64049600  0.25000000  1
+  O  O1  1  0.63603600  0.35950400  0.75000000  1
+  O  O2  1  0.82023200  0.64427900  0.48344800  1
+  O  O3  1  0.17976800  0.35572100  0.98344800  1
+  O  O4  1  0.17976800  0.35572100  0.51655200  1
+  O  O5  1  0.82023200  0.64427900  0.01655200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O4 1.968762 1_555
+Cu0 O2 1.968762 1_555
+Cu0 O0 1.992453 1_555
+Cu0 O1 1.992453 1_555
+Cu1 O3 1.968762 1_554
+Cu1 O5 1.968762 1_555
+Cu1 O0 1.992453 1_555
+Cu1 O1 1.992453 1_554
+H0 O0 0.977860 1_555
+H1 O1 0.977860 1_555
+H2 O2 0.978353 1_555
+H3 O3 0.978353 1_555
+H4 O4 0.978353 1_555
+H5 O5 0.978353 1_555
+Cl0 Zn0 2.502982 1_655
+Cl0 Cu0 2.901758 1_555
+Cl0 Cu1 2.901758 1_555
+Cl1 Zn1 2.502982 1_455
+Cl1 Cu1 2.901758 1_556
+Cl1 Cu0 2.901758 1_555
+O0 Zn0 2.202470 1_555
+O1 Zn1 2.202470 1_555
+O2 Zn1 2.115964 1_555
+O2 Zn0 2.122033 1_655
+O3 Zn0 2.115964 1_556
+O3 Zn1 2.122033 1_455
+O4 Zn0 2.115964 1_555
+O4 Zn1 2.122033 1_455
+O5 Zn1 2.115964 1_554
+O5 Zn0 2.122033 1_655

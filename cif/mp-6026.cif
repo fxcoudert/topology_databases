@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_Na2Mg(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24704537
+_cell_length_b   6.24704537
+_cell_length_c   6.24704528
+_cell_angle_alpha   47.16290763
+_cell_angle_beta   47.16290763
+_cell_angle_gamma   47.16289868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mg(CO3)2
+_chemical_formula_sum   'Na2 Mg1 C2 O6'
+_cell_volume   119.87489584
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.20107500  0.20107500  0.20107500  1
+  Na  Na1  1  0.79892500  0.79892500  0.79892500  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.59096400  0.59096400  0.59096400  1
+  C  C1  1  0.40903600  0.40903600  0.40903600  1
+  O  O0  1  0.69986300  0.19665000  0.33444500  1
+  O  O1  1  0.33444500  0.69986300  0.19665000  1
+  O  O2  1  0.19665000  0.33444500  0.69986300  1
+  O  O3  1  0.30013700  0.80335000  0.66555500  1
+  O  O4  1  0.80335000  0.66555500  0.30013700  1
+  O  O5  1  0.66555500  0.30013700  0.80335000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.350114 1_455
+Na0 O3 2.350114 1_545
+Na0 O5 2.350114 1_554
+Na0 O1 2.652853 1_545
+Na0 O2 2.652853 1_554
+Na0 O0 2.652853 1_455
+Na1 O2 2.350114 1_655
+Na1 O0 2.350114 1_565
+Na1 O1 2.350114 1_556
+Na1 O5 2.652853 1_565
+Na1 O4 2.652853 1_556
+Na1 O3 2.652853 1_655
+Mg0 O5 2.102594 1_454
+Mg0 O1 2.102594 1_545
+Mg0 O0 2.102594 1_455
+Mg0 O3 2.102594 1_544
+Mg0 O2 2.102594 1_554
+Mg0 O4 2.102594 1_445
+C0 O3 1.299956 1_555
+C0 O5 1.299957 1_555
+C0 O4 1.299957 1_555
+C1 O0 1.299956 1_555
+C1 O1 1.299957 1_555
+C1 O2 1.299957 1_555

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_In2AgS3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80790433
+_cell_length_b   7.80790433
+_cell_length_c   7.80790481
+_cell_angle_alpha   60.99311648
+_cell_angle_beta   60.99311648
+_cell_angle_gamma   60.99311899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2AgS3Br
+_chemical_formula_sum   'In4 Ag2 S6 Br2'
+_cell_volume   344.10972900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.00000000  0.50000000  0.00000000  1
+  In  In2  1  0.50000000  0.00000000  0.00000000  1
+  In  In3  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag0  1  0.58053300  0.58053300  0.58053300  1
+  Ag  Ag1  1  0.41946700  0.41946700  0.41946700  1
+  S  S0  1  0.24107400  0.79218200  0.24107400  1
+  S  S1  1  0.79218200  0.24107400  0.24107400  1
+  S  S2  1  0.24107400  0.24107400  0.79218200  1
+  S  S3  1  0.75892600  0.20781800  0.75892600  1
+  S  S4  1  0.20781800  0.75892600  0.75892600  1
+  S  S5  1  0.75892600  0.75892600  0.20781800  1
+  Br  Br0  1  0.26167300  0.26167300  0.26167300  1
+  Br  Br1  1  0.73832700  0.73832700  0.73832700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 S5 2.689015 1_445
+In0 S2 2.689015 1_554
+In0 S4 2.689015 1_544
+In0 S3 2.689015 1_454
+In0 S1 2.689015 1_455
+In0 S0 2.689015 1_545
+In1 S1 2.606117 1_455
+In1 S4 2.606117 1_554
+In1 S5 2.606117 1_455
+In1 S2 2.606117 1_554
+In2 S0 2.606117 1_545
+In2 S3 2.606117 1_554
+In2 S2 2.606117 1_554
+In2 S5 2.606117 1_545
+In3 S1 2.606117 1_455
+In3 S0 2.606117 1_545
+In3 S4 2.606117 1_545
+In3 S3 2.606117 1_455
+Ag0 S5 2.523549 1_555
+Ag0 S3 2.523549 1_555
+Ag0 S4 2.523549 1_555
+Ag0 Br1 2.995021 1_555
+Ag1 S2 2.523549 1_555
+Ag1 S1 2.523549 1_555
+Ag1 S0 2.523549 1_555
+Ag1 Br0 2.995021 1_555
+Br0 In3 2.912964 1_555
+Br0 In1 2.912964 1_555
+Br0 In2 2.912964 1_555
+Br1 In3 2.912964 1_665
+Br1 In1 2.912964 1_656
+Br1 In2 2.912964 1_566

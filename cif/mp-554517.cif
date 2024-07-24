@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_NaMnF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89017492
+_cell_length_b   5.68935872
+_cell_length_c   5.76673467
+_cell_angle_alpha   71.17726071
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnF4
+_chemical_formula_sum   'Na2 Mn2 F8'
+_cell_volume   151.86163346
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na1  1  -0.00000000  0.50000000  0.50000000  1
+  Mn  Mn0  1  0.50000000  -0.00000000  0.50000000  1
+  Mn  Mn1  1  -0.00000000  -0.00000000  0.00000000  1
+  F  F0  1  0.15370207  0.30968810  0.88650873  1
+  F  F1  1  0.65370207  0.69031190  0.61349127  1
+  F  F2  1  0.84629793  0.69031190  0.11349127  1
+  F  F3  1  0.34629793  0.30968810  0.38650873  1
+  F  F4  1  0.23128376  0.87826212  0.33437560  1
+  F  F5  1  0.73128376  0.12173788  0.16562440  1
+  F  F6  1  0.76871624  0.12173788  0.66562440  1
+  F  F7  1  0.26871624  0.87826212  0.83437560  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+F0 Mn1 1.831276 1_556
+F0 Na0 2.219405 1_556
+F0 Na1 2.268916 1_555
+F1 Mn0 1.831276 1_565
+F1 Na1 2.219405 1_655
+F1 Na0 2.268916 1_556
+F2 Mn1 1.831276 1_665
+F2 Na0 2.219405 1_555
+F2 Na1 2.268916 1_655
+F3 Mn0 1.831276 1_555
+F3 Na1 2.219405 1_555
+F3 Na0 2.268916 1_555
+F4 Mn0 1.882975 1_565
+F4 Mn1 2.148322 1_565
+F4 Na1 2.344458 1_555
+F5 Mn1 1.882975 1_655
+F5 Mn0 2.148322 1_555
+F5 Na0 2.344458 1_555
+F6 Mn0 1.882975 1_555
+F6 Mn1 2.148322 1_656
+F6 Na1 2.344458 1_655
+F7 Mn1 1.882975 1_566
+F7 Mn0 2.148322 1_565
+F7 Na0 2.344458 1_556

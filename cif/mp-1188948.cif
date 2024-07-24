@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_CeGePd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68016900
+_cell_length_b   6.98109900
+_cell_length_c   7.85415600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGePd2
+_chemical_formula_sum   'Ce4 Ge4 Pd8'
+_cell_volume   311.44730497
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.34660900  0.75000000  0.04303000  1
+  Ce  Ce1  1  0.15339100  0.75000000  0.54303000  1
+  Ce  Ce2  1  0.65339100  0.25000000  0.95697000  1
+  Ce  Ce3  1  0.84660900  0.25000000  0.45697000  1
+  Ge  Ge0  1  0.65838200  0.75000000  0.38529600  1
+  Ge  Ge1  1  0.84161800  0.75000000  0.88529600  1
+  Ge  Ge2  1  0.34161800  0.25000000  0.61470400  1
+  Ge  Ge3  1  0.15838200  0.25000000  0.11470400  1
+  Pd  Pd0  1  0.91062400  0.54995800  0.18070400  1
+  Pd  Pd1  1  0.58937600  0.95004200  0.68070400  1
+  Pd  Pd2  1  0.08937600  0.04995800  0.81929600  1
+  Pd  Pd3  1  0.41062400  0.45004200  0.31929600  1
+  Pd  Pd4  1  0.08937600  0.45004200  0.81929600  1
+  Pd  Pd5  1  0.41062400  0.04995800  0.31929600  1
+  Pd  Pd6  1  0.91062400  0.95004200  0.18070400  1
+  Pd  Pd7  1  0.58937600  0.54995800  0.68070400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Pd3 3.037334 1_555
+Ce0 Pd5 3.037334 1_565
+Ce0 Pd0 3.041773 1_455
+Ce0 Pd6 3.041773 1_455
+Ce0 Ge1 3.072563 1_554
+Ce0 Pd2 3.099642 1_564
+Ce0 Pd4 3.099642 1_554
+Ce0 Ge1 3.124533 1_454
+Ce0 Ge0 3.219106 1_555
+Ce0 Pd7 3.456899 1_554
+Ce0 Pd1 3.456899 1_554
+Ce1 Pd2 3.037334 1_565
+Ce1 Pd4 3.037334 1_555
+Ce1 Pd1 3.041773 1_555
+Ce1 Pd7 3.041773 1_555
+Ce1 Ge0 3.072563 1_455
+Ce1 Pd5 3.099642 1_565
+Ce1 Pd3 3.099642 1_555
+Ce1 Ge0 3.124533 1_555
+Ce1 Ge1 3.219106 1_455
+Ce1 Pd0 3.456899 1_455
+Ce1 Pd6 3.456899 1_455
+Ce2 Pd7 3.037334 1_555
+Ce2 Pd1 3.037334 1_545
+Ce2 Pd4 3.041773 1_655
+Ce2 Pd2 3.041773 1_655
+Ce2 Ge3 3.072563 1_556
+Ce2 Pd0 3.099642 1_556
+Ce2 Pd6 3.099642 1_546
+Ce2 Ge3 3.124533 1_656
+Ce2 Ge2 3.219106 1_555
+Ce2 Pd3 3.456899 1_556
+Ce2 Pd5 3.456899 1_556
+Ce3 Pd6 3.037334 1_545
+Ce3 Pd0 3.037334 1_555
+Ce3 Pd5 3.041773 1_555
+Ce3 Pd3 3.041773 1_555
+Ce3 Ge2 3.072563 1_655
+Ce3 Pd1 3.099642 1_545
+Ce3 Pd7 3.099642 1_555
+Ce3 Ge2 3.124533 1_555
+Ce3 Ge3 3.219106 1_655
+Ce3 Pd4 3.456899 1_655
+Ce3 Pd2 3.456899 1_655
+Ge0 Pd0 2.566168 1_555
+Ge0 Pd6 2.566168 1_555
+Ge0 Pd5 2.575697 1_565
+Ge0 Pd3 2.575697 1_555
+Ge0 Pd1 2.736261 1_555
+Ge0 Pd7 2.736261 1_555
+Ge1 Pd1 2.566168 1_555
+Ge1 Pd7 2.566168 1_555
+Ge1 Pd4 2.575697 1_655
+Ge1 Pd2 2.575697 1_665
+Ge1 Pd0 2.736261 1_556
+Ge1 Pd6 2.736261 1_556
+Ge2 Pd2 2.566168 1_555
+Ge2 Pd4 2.566168 1_555
+Ge2 Pd7 2.575697 1_555
+Ge2 Pd1 2.575697 1_545
+Ge2 Pd3 2.736261 1_555
+Ge2 Pd5 2.736261 1_555
+Ge3 Pd5 2.566168 1_555
+Ge3 Pd3 2.566168 1_555
+Ge3 Pd0 2.575697 1_455
+Ge3 Pd6 2.575697 1_445
+Ge3 Pd2 2.736261 1_554
+Ge3 Pd4 2.736261 1_554

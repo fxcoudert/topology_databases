@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_MgAl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44004904
+_cell_length_b   5.44004904
+_cell_length_c   8.58534262
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl2
+_chemical_formula_sum   'Mg4 Al8'
+_cell_volume   220.03605815
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66666700  0.33333400  0.93650366  1
+  Mg  Mg1  1  0.33333300  0.66666600  0.43650366  1
+  Mg  Mg2  1  0.33333300  0.66666600  0.06349634  1
+  Mg  Mg3  1  0.66666700  0.33333400  0.56349634  1
+  Al  Al0  1  0.00000000  -0.00000000  0.00000000  1
+  Al  Al1  1  0.00000000  -0.00000000  0.50000000  1
+  Al  Al2  1  0.82866560  0.17133440  0.25000000  1
+  Al  Al3  1  0.17133440  0.34266879  0.75000000  1
+  Al  Al4  1  0.65733121  0.82866560  0.75000000  1
+  Al  Al5  1  0.34266879  0.17133440  0.25000000  1
+  Al  Al6  1  0.82866560  0.65733121  0.25000000  1
+  Al  Al7  1  0.17133440  0.82866560  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Mg3 3.202396 1_555
+Mg0 Mg2 3.324664 1_656
+Mg0 Mg2 3.324664 1_556
+Mg0 Mg2 3.324673 1_546
+Mg1 Mg2 3.202396 1_555
+Mg1 Mg3 3.324664 1_455
+Mg1 Mg3 3.324664 1_555
+Mg1 Mg3 3.324673 1_565
+Al0 Al3 2.685704 1_554
+Al0 Al4 2.685704 1_444
+Al0 Al5 2.685704 1_555
+Al0 Al6 2.685704 1_445
+Al0 Al7 2.685704 1_544
+Al0 Al2 2.685704 1_455
+Al0 Mg0 3.187768 1_444
+Al0 Mg2 3.187768 1_555
+Al0 Mg2 3.187773 1_445
+Al0 Mg0 3.187773 1_554
+Al0 Mg0 3.187773 1_454
+Al0 Mg2 3.187773 1_545
+Al1 Al4 2.685704 1_445
+Al1 Al5 2.685704 1_555
+Al1 Al6 2.685704 1_445
+Al1 Al3 2.685704 1_555
+Al1 Al2 2.685704 1_455
+Al1 Al7 2.685704 1_545
+Al1 Mg1 3.187768 1_555
+Al1 Mg3 3.187768 1_445
+Al1 Mg1 3.187773 1_445
+Al1 Mg3 3.187773 1_555
+Al1 Mg1 3.187773 1_545
+Al1 Mg3 3.187773 1_455
+Al2 Al6 2.643846 1_555
+Al2 Al5 2.643846 1_555
+Al2 Al6 2.796203 1_545
+Al2 Al5 2.796203 1_655
+Al2 Mg3 3.094190 1_555
+Al2 Mg0 3.094190 1_554
+Al2 Mg2 3.156626 1_655
+Al2 Mg1 3.156626 1_655
+Al2 Mg2 3.156630 1_545
+Al2 Mg1 3.156630 1_545
+Al3 Al4 2.643846 1_555
+Al3 Al7 2.643846 1_555
+Al3 Al4 2.796202 1_445
+Al3 Al7 2.796203 1_545
+Al3 Mg2 3.094187 1_556
+Al3 Mg1 3.094187 1_555
+Al3 Mg0 3.156628 1_555
+Al3 Mg3 3.156628 1_555
+Al3 Mg3 3.156628 1_455
+Al3 Mg0 3.156628 1_455
+Al4 Al7 2.643846 1_555
+Al4 Al7 2.796203 1_655
+Al4 Mg2 3.094190 1_556
+Al4 Mg1 3.094190 1_555
+Al4 Mg3 3.156626 1_555
+Al4 Mg0 3.156626 1_555
+Al4 Mg3 3.156631 1_565
+Al4 Mg0 3.156631 1_565
+Al5 Al6 2.643846 1_555
+Al5 Al6 2.796202 1_445
+Al5 Mg0 3.094190 1_554
+Al5 Mg3 3.094190 1_555
+Al5 Mg1 3.156626 1_555
+Al5 Mg2 3.156626 1_555
+Al5 Mg2 3.156631 1_545
+Al5 Mg1 3.156631 1_545
+Al6 Mg0 3.094187 1_554
+Al6 Mg3 3.094187 1_555
+Al6 Mg1 3.156628 1_555
+Al6 Mg2 3.156628 1_555
+Al6 Mg1 3.156628 1_655
+Al6 Mg2 3.156628 1_655
+Al7 Mg2 3.094190 1_556
+Al7 Mg1 3.094190 1_555
+Al7 Mg3 3.156626 1_455
+Al7 Mg0 3.156626 1_455
+Al7 Mg3 3.156630 1_565
+Al7 Mg0 3.156630 1_565

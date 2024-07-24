@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_AsRhSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97064174
+_cell_length_b   5.97064174
+_cell_length_c   5.97064174
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsRhSe
+_chemical_formula_sum   'As4 Rh4 Se4'
+_cell_volume   212.84479695
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.11818827  0.88181173  0.38181173  1
+  As  As1  1  0.88181173  0.38181173  0.11818827  1
+  As  As2  1  0.38181173  0.11818827  0.88181173  1
+  As  As3  1  0.61818827  0.61818827  0.61818827  1
+  Rh  Rh0  1  0.50521300  0.49478700  0.99478700  1
+  Rh  Rh1  1  0.49478700  0.99478700  0.50521300  1
+  Rh  Rh2  1  0.99478700  0.50521300  0.49478700  1
+  Rh  Rh3  1  0.00521300  0.00521300  0.00521300  1
+  Se  Se0  1  0.88261050  0.11738950  0.61738950  1
+  Se  Se1  1  0.11738950  0.61738950  0.88261050  1
+  Se  Se2  1  0.61738950  0.88261050  0.11738950  1
+  Se  Se3  1  0.38261050  0.38261050  0.38261050  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Se0 2.436217 1_465
+As0 Rh1 2.460440 1_555
+As0 Rh3 2.460440 1_565
+As0 Rh2 2.460440 1_455
+As1 Se1 2.436217 1_654
+As1 Rh3 2.460440 1_655
+As1 Rh0 2.460440 1_554
+As1 Rh2 2.460440 1_555
+As2 Se2 2.436217 1_546
+As2 Rh0 2.460440 1_555
+As2 Rh3 2.460440 1_556
+As2 Rh1 2.460440 1_545
+As3 Se3 2.436217 1_555
+As3 Rh0 2.460440 1_555
+As3 Rh1 2.460440 1_555
+As3 Rh2 2.460440 1_555
+Rh0 Se2 2.519172 1_556
+Rh0 Se1 2.519172 1_555
+Rh0 Se3 2.519172 1_556
+Rh1 Se3 2.519172 1_565
+Rh1 Se0 2.519172 1_565
+Rh1 Se2 2.519172 1_555
+Rh2 Se3 2.519172 1_655
+Rh2 Se1 2.519172 1_655
+Rh2 Se0 2.519172 1_555
+Rh3 Se2 2.519172 1_445
+Rh3 Se0 2.519172 1_454
+Rh3 Se1 2.519172 1_544

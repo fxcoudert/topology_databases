@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_MnAsPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75152600
+_cell_length_b   6.67425082
+_cell_length_c   6.67425082
+_cell_angle_alpha   120.00000814
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAsPd
+_chemical_formula_sum   'Mn3 As3 Pd3'
+_cell_volume   144.72501525
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.00000000  0.59205900  1
+  Mn  Mn1  1  0.50000000  0.59205900  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.40794100  0.40794100  1
+  As  As0  1  0.00000000  0.33333300  0.66666700  1
+  As  As1  1  0.00000000  0.66666700  0.33333300  1
+  As  As2  1  0.50000000  0.00000000  0.00000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.26176900  1
+  Pd  Pd1  1  0.00000000  0.26176900  0.00000000  1
+  Pd  Pd2  1  0.00000000  0.73823100  0.73823100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Pd0 2.894484 1_655
+Mn0 Pd0 2.894484 1_555
+Mn0 Pd1 3.037618 1_656
+Mn0 Pd1 3.037618 1_556
+Mn0 Pd2 3.037618 1_545
+Mn0 Pd2 3.037618 1_645
+Mn1 Pd1 2.894484 1_555
+Mn1 Pd1 2.894484 1_655
+Mn1 Pd0 3.037618 1_665
+Mn1 Pd0 3.037618 1_565
+Mn1 Pd2 3.037618 1_554
+Mn1 Pd2 3.037618 1_654
+Mn2 Pd2 2.894483 1_655
+Mn2 Pd2 2.894483 1_555
+Mn2 Pd0 3.037618 1_655
+Mn2 Pd0 3.037618 1_555
+Mn2 Pd1 3.037618 1_655
+Mn2 Pd1 3.037618 1_555
+As0 Pd1 2.498051 1_556
+As0 Pd0 2.498055 1_555
+As0 Pd2 2.498058 1_555
+As0 Mn0 2.758284 1_455
+As0 Mn0 2.758284 1_555
+As0 Mn1 2.758285 1_556
+As0 Mn1 2.758285 1_456
+As0 Mn2 2.758288 1_555
+As0 Mn2 2.758288 1_455
+As1 Pd0 2.498051 1_565
+As1 Pd1 2.498055 1_555
+As1 Pd2 2.498058 1_555
+As1 Mn1 2.758284 1_455
+As1 Mn1 2.758284 1_555
+As1 Mn0 2.758285 1_565
+As1 Mn0 2.758285 1_465
+As1 Mn2 2.758288 1_455
+As1 Mn2 2.758288 1_555
+As2 Pd2 2.563374 1_644
+As2 Pd2 2.563374 1_544
+As2 Pd0 2.563374 1_655
+As2 Pd1 2.563374 1_555
+As2 Pd0 2.563374 1_555
+As2 Pd1 2.563374 1_655
+As2 Mn2 2.722700 1_555
+As2 Mn1 2.722701 1_545
+As2 Mn0 2.722701 1_554

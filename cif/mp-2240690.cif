@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Na2Mg(FeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07545281
+_cell_length_b   6.66431021
+_cell_length_c   7.11263855
+_cell_angle_alpha   120.96671951
+_cell_angle_beta   118.49443938
+_cell_angle_gamma   84.42067321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mg(FeS2)2
+_chemical_formula_sum   'Na2 Mg1 Fe2 S4'
+_cell_volume   212.78084866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33179168  0.32601111  0.65784316  1
+  Na  Na1  1  0.69682240  0.69778048  0.39588349  1
+  Mg  Mg0  1  0.78074436  0.28047487  0.55814103  1
+  Fe  Fe0  1  0.00235323  0.00321924  0.00346762  1
+  Fe  Fe1  1  0.49134662  0.99127311  0.98070996  1
+  S  S0  1  0.86018761  0.29509445  0.25621908  1
+  S  S1  1  0.39766709  0.95939724  0.25142341  1
+  S  S2  1  0.67252692  0.67697312  0.77483234  1
+  S  S3  1  0.10406108  0.10311038  0.77888792  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S3 2.777489 1_555
+Na0 S2 2.782704 1_555
+Na0 S0 2.848105 1_455
+Na0 S1 2.851573 1_545
+Na1 S1 2.616171 1_555
+Na1 S0 2.617856 1_555
+Na1 S2 2.841479 1_555
+Na1 S3 2.852231 1_665
+Mg0 S0 2.463219 1_555
+Mg0 S1 2.464655 1_545
+Mg0 S2 2.495589 1_555
+Mg0 S3 2.497290 1_655
+Fe0 S1 2.305649 1_545
+Fe0 S0 2.306027 1_455
+Fe0 S2 2.342329 1_444
+Fe0 S3 2.343627 1_554
+Fe1 S1 2.359369 1_556
+Fe1 S0 2.360189 1_566
+Fe1 S2 2.382542 1_555
+Fe1 S3 2.385309 1_565

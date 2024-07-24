@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_NiGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60945918
+_cell_length_b   3.60945918
+_cell_length_c   6.21631086
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiGePd
+_chemical_formula_sum   'Ni2 Ge2 Pd2'
+_cell_volume   80.98731362
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.25000000  0.75000000  -0.00000000  1
+  Ni  Ni1  1  0.75000000  0.25000000  -0.00000000  1
+  Ge  Ge0  1  0.25000000  0.25000000  0.24400613  1
+  Ge  Ge1  1  0.75000000  0.75000000  0.75599387  1
+  Pd  Pd0  1  0.25000000  0.25000000  0.63974756  1
+  Pd  Pd1  1  0.75000000  0.75000000  0.36025244  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Ni1 2.552273 1_465
+Ni0 Ni1 2.552273 1_565
+Ni0 Ni1 2.552273 1_455
+Ni0 Ni1 2.552273 1_555
+Ni0 Pd1 2.876134 1_455
+Ni0 Pd0 2.876134 1_564
+Ni0 Pd1 2.876134 1_555
+Ni0 Pd0 2.876134 1_554
+Ni1 Pd1 2.876134 1_545
+Ni1 Pd0 2.876134 1_654
+Ni1 Pd1 2.876134 1_555
+Ni1 Pd0 2.876134 1_554
+Ge0 Ni0 2.357496 1_555
+Ge0 Ni0 2.357496 1_545
+Ge0 Ni1 2.357496 1_555
+Ge0 Ni1 2.357496 1_455
+Ge0 Pd0 2.460052 1_555
+Ge0 Pd1 2.652599 1_455
+Ge0 Pd1 2.652599 1_555
+Ge0 Pd1 2.652599 1_445
+Ge0 Pd1 2.652599 1_545
+Ge1 Ni1 2.357496 1_566
+Ge1 Ni1 2.357496 1_556
+Ge1 Ni0 2.357496 1_556
+Ge1 Ni0 2.357496 1_656
+Ge1 Pd1 2.460052 1_555
+Ge1 Pd0 2.652599 1_555
+Ge1 Pd0 2.652599 1_655
+Ge1 Pd0 2.652599 1_565
+Ge1 Pd0 2.652599 1_665

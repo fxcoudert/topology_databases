@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_ZrAlCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15879770
+_cell_length_b   5.15879770
+_cell_length_c   8.16761300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.23962617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlCo
+_chemical_formula_sum   'Zr4 Al4 Co4'
+_cell_volume   189.67042725
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66565700  0.33434300  0.28872800  1
+  Zr  Zr1  1  0.33044400  0.66955600  0.17270600  1
+  Zr  Zr2  1  0.33044400  0.66955600  0.82729400  1
+  Zr  Zr3  1  0.66565700  0.33434300  0.71127200  1
+  Al  Al0  1  0.00691900  0.99308100  0.23428500  1
+  Al  Al1  1  0.00691900  0.99308100  0.76571500  1
+  Al  Al2  1  0.65682900  0.83356100  0.50000000  1
+  Al  Al3  1  0.16643900  0.34317100  0.50000000  1
+  Co  Co0  1  0.16685600  0.83314400  0.50000000  1
+  Co  Co1  1  0.34911900  0.17390700  0.00000000  1
+  Co  Co2  1  0.82609300  0.65088100  0.00000000  1
+  Co  Co3  1  0.83032600  0.16967400  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.130556 1_555
+Zr0 Zr1 3.139451 1_655
+Zr0 Zr1 3.139451 1_545
+Zr1 Zr2 2.821192 1_554
+Zr2 Zr3 3.130556 1_555
+Zr2 Zr3 3.139451 1_455
+Zr2 Zr3 3.139451 1_565
+Al0 Co2 2.457541 1_455
+Al0 Co1 2.457541 1_565
+Al0 Co3 2.476353 1_465
+Al0 Co0 2.595495 1_555
+Al0 Al3 2.682735 1_565
+Al0 Al2 2.682735 1_455
+Al0 Zr1 2.923247 1_555
+Al0 Zr0 3.000142 1_565
+Al0 Zr0 3.000142 1_455
+Al0 Zr0 3.069905 1_465
+Al0 Zr1 3.086605 1_455
+Al0 Zr1 3.086605 1_565
+Al1 Co2 2.457541 1_456
+Al1 Co1 2.457541 1_566
+Al1 Co3 2.476353 1_466
+Al1 Co0 2.595495 1_555
+Al1 Al3 2.682735 1_565
+Al1 Al2 2.682735 1_455
+Al1 Zr2 2.923247 1_555
+Al1 Zr3 3.000142 1_565
+Al1 Zr3 3.000142 1_455
+Al1 Zr3 3.069905 1_465
+Al1 Zr2 3.086605 1_455
+Al1 Zr2 3.086605 1_565
+Al2 Co0 2.526621 1_555
+Al2 Al3 2.558842 1_555
+Al2 Co0 2.632178 1_655
+Al2 Al3 2.659132 1_665
+Al2 Zr2 3.050445 1_555
+Al2 Zr1 3.050445 1_555
+Al2 Zr3 3.088513 1_565
+Al2 Zr0 3.088513 1_565
+Al2 Zr3 3.118784 1_555
+Al2 Zr0 3.118784 1_555
+Al3 Co0 2.526621 1_555
+Al3 Co0 2.632178 1_545
+Al3 Zr2 3.050445 1_555
+Al3 Zr1 3.050445 1_555
+Al3 Zr3 3.088513 1_455
+Al3 Zr0 3.088513 1_455
+Al3 Zr3 3.118784 1_555
+Al3 Zr0 3.118784 1_555
+Co0 Zr2 3.044045 1_555
+Co0 Zr1 3.044045 1_555
+Co0 Zr3 3.128031 1_455
+Co0 Zr0 3.128031 1_455
+Co0 Zr0 3.128031 1_565
+Co0 Zr3 3.128031 1_565
+Co1 Co2 2.488838 1_555
+Co1 Co3 2.493189 1_555
+Co1 Co3 2.665750 1_455
+Co1 Co2 2.729136 1_445
+Co1 Zr3 2.755433 1_554
+Co1 Zr0 2.755433 1_555
+Co1 Zr1 2.919551 1_545
+Co1 Zr2 2.919551 1_544
+Co1 Zr1 2.962722 1_555
+Co1 Zr2 2.962722 1_554
+Co2 Co3 2.493189 1_555
+Co2 Co3 2.665750 1_565
+Co2 Zr3 2.755433 1_554
+Co2 Zr0 2.755433 1_555
+Co2 Zr1 2.919551 1_655
+Co2 Zr2 2.919551 1_654
+Co2 Zr2 2.962722 1_554
+Co2 Zr1 2.962722 1_555
+Co3 Zr3 2.776592 1_554
+Co3 Zr0 2.776592 1_555
+Co3 Zr1 2.965905 1_655
+Co3 Zr1 2.965905 1_545
+Co3 Zr2 2.965905 1_654
+Co3 Zr2 2.965905 1_544

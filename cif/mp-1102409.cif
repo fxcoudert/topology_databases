@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ErMn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20413601
+_cell_length_b   5.20413601
+_cell_length_c   8.51796041
+_cell_angle_alpha   89.94284960
+_cell_angle_beta   89.94284960
+_cell_angle_gamma   61.84377029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMn2
+_chemical_formula_sum   'Er4 Mn8'
+_cell_volume   203.39290703
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.66827000  0.66827000  0.93738200  1
+  Er  Er1  1  0.33173000  0.33173000  0.06261800  1
+  Er  Er2  1  0.33186200  0.33186200  0.43722500  1
+  Er  Er3  1  0.66813800  0.66813800  0.56277500  1
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn2  1  0.18447300  0.18447300  0.75042000  1
+  Mn  Mn3  1  0.81552700  0.81552700  0.24958000  1
+  Mn  Mn4  1  0.32097900  0.83140000  0.24982200  1
+  Mn  Mn5  1  0.83140000  0.32097900  0.24982200  1
+  Mn  Mn6  1  0.67902100  0.16860000  0.75017800  1
+  Mn  Mn7  1  0.16860000  0.67902100  0.75017800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Mn3 2.967959 1_556
+Er0 Mn0 3.010245 1_666
+Er0 Mn7 3.029601 1_555
+Er0 Mn6 3.029601 1_555
+Er0 Mn6 3.074832 1_565
+Er0 Mn7 3.074832 1_655
+Er0 Mn5 3.101110 1_556
+Er0 Mn4 3.101110 1_556
+Er0 Mn0 3.113138 1_566
+Er0 Mn0 3.113138 1_656
+Er0 Mn2 3.115789 1_655
+Er0 Mn2 3.115789 1_565
+Er0 Er1 3.187505 1_556
+Er0 Er3 3.190889 1_555
+Er0 Er1 3.228525 1_566
+Er0 Er1 3.228525 1_656
+Er1 Mn2 2.967959 1_554
+Er1 Mn0 3.010245 1_555
+Er1 Mn4 3.029601 1_555
+Er1 Mn5 3.029601 1_555
+Er1 Mn4 3.074832 1_545
+Er1 Mn5 3.074832 1_455
+Er1 Mn6 3.101110 1_554
+Er1 Mn7 3.101110 1_554
+Er1 Mn0 3.113138 1_565
+Er1 Mn0 3.113138 1_655
+Er1 Mn3 3.115789 1_455
+Er1 Mn3 3.115789 1_545
+Er1 Er2 3.190889 1_555
+Er2 Mn2 2.973352 1_555
+Er2 Mn1 3.010420 1_555
+Er2 Mn5 3.026971 1_555
+Er2 Mn4 3.026971 1_555
+Er2 Mn5 3.079337 1_455
+Er2 Mn4 3.079337 1_545
+Er2 Mn6 3.106188 1_555
+Er2 Mn7 3.106188 1_555
+Er2 Mn1 3.113398 1_565
+Er2 Mn1 3.113398 1_655
+Er2 Mn3 3.118995 1_545
+Er2 Mn3 3.118995 1_455
+Er2 Er3 3.188521 1_555
+Er2 Er3 3.229353 1_545
+Er2 Er3 3.229353 1_455
+Er3 Mn3 2.973352 1_555
+Er3 Mn1 3.010420 1_665
+Er3 Mn6 3.026971 1_555
+Er3 Mn7 3.026971 1_555
+Er3 Mn6 3.079337 1_565
+Er3 Mn7 3.079337 1_655
+Er3 Mn5 3.106188 1_555
+Er3 Mn4 3.106188 1_555
+Er3 Mn1 3.113398 1_565
+Er3 Mn1 3.113398 1_655
+Er3 Mn2 3.118995 1_655
+Er3 Mn2 3.118995 1_565
+Mn0 Mn5 2.590093 1_455
+Mn0 Mn6 2.590093 1_454
+Mn0 Mn7 2.590093 1_544
+Mn0 Mn4 2.590093 1_545
+Mn0 Mn3 2.687834 1_445
+Mn0 Mn2 2.687834 1_554
+Mn1 Mn4 2.591285 1_545
+Mn1 Mn6 2.591285 1_455
+Mn1 Mn5 2.591285 1_455
+Mn1 Mn7 2.591285 1_545
+Mn1 Mn2 2.696524 1_555
+Mn1 Mn3 2.696524 1_445
+Mn2 Mn7 2.535760 1_555
+Mn2 Mn6 2.535760 1_555
+Mn2 Mn6 2.670417 1_455
+Mn2 Mn7 2.670417 1_545
+Mn3 Mn4 2.535760 1_555
+Mn3 Mn5 2.535760 1_555
+Mn3 Mn5 2.670417 1_565
+Mn3 Mn4 2.670417 1_655
+Mn4 Mn5 2.618507 1_465
+Mn4 Mn5 2.729981 1_555
+Mn6 Mn7 2.618507 1_645
+Mn6 Mn7 2.729981 1_555

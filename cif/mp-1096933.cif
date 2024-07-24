@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_CsAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82074473
+_cell_length_b   6.82074473
+_cell_length_c   5.96334788
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.57920233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAgO2
+_chemical_formula_sum   'Cs2 Ag2 O4'
+_cell_volume   194.17967894
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.69378353  0.30621647  0.75000000  1
+  Cs  Cs1  1  0.30621647  0.69378353  0.25000000  1
+  Ag  Ag0  1  0.00254102  0.99745898  0.25000000  1
+  Ag  Ag1  1  0.99745898  0.00254102  0.75000000  1
+  O  O0  1  0.10587514  0.89412486  0.50515639  1
+  O  O1  1  0.89412486  0.10587514  0.00515639  1
+  O  O2  1  0.89412486  0.10587514  0.49484361  1
+  O  O3  1  0.10587514  0.89412486  0.99484361  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 O2 2.952458 1_555
+Cs0 O1 2.952458 1_556
+Cs0 O0 3.164189 1_655
+Cs0 O3 3.164189 1_545
+Cs0 O3 3.164189 1_655
+Cs0 O0 3.164189 1_545
+Cs1 O0 2.952458 1_555
+Cs1 O3 2.952458 1_554
+Cs1 O1 3.164189 1_565
+Cs1 O2 3.164189 1_565
+Cs1 O1 3.164189 1_455
+Cs1 O2 3.164189 1_455
+Ag0 O2 2.001656 1_465
+Ag0 O1 2.001656 1_465
+Ag0 O3 2.004583 1_554
+Ag0 O0 2.004583 1_555
+Ag1 O0 2.001656 1_645
+Ag1 O3 2.001656 1_645
+Ag1 O2 2.004583 1_555
+Ag1 O1 2.004583 1_556

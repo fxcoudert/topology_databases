@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_LiTc2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31621232
+_cell_length_b   4.31621232
+_cell_length_c   4.31621232
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTc2Pd
+_chemical_formula_sum   'Li1 Tc2 Pd1'
+_cell_volume   56.85823865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc0  1  0.25000000  0.25000000  0.25000000  1
+  Tc  Tc1  1  0.75000000  0.75000000  0.75000000  1
+  Pd  Pd0  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Tc0 2.643129 1_455
+Li0 Tc0 2.643129 1_545
+Li0 Tc1 2.643129 1_444
+Li0 Tc1 2.643129 1_445
+Li0 Tc0 2.643129 1_555
+Li0 Tc1 2.643129 1_544
+Li0 Tc0 2.643129 1_554
+Li0 Tc1 2.643129 1_454
+Li0 Pd0 3.052023 1_454
+Li0 Pd0 3.052023 1_544
+Li0 Pd0 3.052023 1_445
+Li0 Pd0 3.052023 1_554
+Li0 Pd0 3.052023 1_455
+Li0 Pd0 3.052023 1_545
+Pd0 Tc0 2.643129 1_655
+Pd0 Tc1 2.643129 1_555
+Pd0 Tc1 2.643129 1_545
+Pd0 Tc0 2.643129 1_555
+Pd0 Tc0 2.643129 1_556
+Pd0 Tc1 2.643129 1_455
+Pd0 Tc1 2.643129 1_554
+Pd0 Tc0 2.643129 1_565

@@ -1,0 +1,97 @@
+# generated using pymatgen
+data_CaPSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90917060
+_cell_length_b   7.58328821
+_cell_length_c   9.68592050
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.02960714
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPSe3
+_chemical_formula_sum   'Ca4 P4 Se12'
+_cell_volume   507.16799819
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.96293082  0.38517067  0.24680873  1
+  Ca  Ca1  1  0.46293082  0.11482933  0.74680873  1
+  Ca  Ca2  1  0.53706918  0.88517067  0.25319127  1
+  Ca  Ca3  1  0.03706918  0.61482933  0.75319127  1
+  P  P0  1  0.06426127  0.89365137  0.43633496  1
+  P  P1  1  0.93573873  0.10634863  0.56366504  1
+  P  P2  1  0.43573873  0.39365137  0.06366504  1
+  P  P3  1  0.56426127  0.60634863  0.93633496  1
+  Se  Se0  1  0.12237596  0.01155415  0.23622144  1
+  Se  Se1  1  0.67681081  0.20085441  0.44979943  1
+  Se  Se2  1  0.82318919  0.70085441  0.05020057  1
+  Se  Se3  1  0.32318919  0.79914559  0.55020057  1
+  Se  Se4  1  0.34025364  0.80973878  0.93590018  1
+  Se  Se5  1  0.15974636  0.30973878  0.56409982  1
+  Se  Se6  1  0.65974636  0.19026122  0.06409982  1
+  Se  Se7  1  0.84025364  0.69026122  0.43590018  1
+  Se  Se8  1  0.37762404  0.51155415  0.26377856  1
+  Se  Se9  1  0.87762404  0.98844585  0.76377856  1
+  Se  Se10  1  0.62237596  0.48844585  0.73622144  1
+  Se  Se11  1  0.17681081  0.29914559  0.94979943  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Se8 3.020180 1_655
+Ca0 Se0 3.042922 1_655
+Ca0 Se6 3.072769 1_555
+Ca0 Se7 3.087970 1_555
+Ca0 Se1 3.162694 1_555
+Ca0 Se2 3.187364 1_555
+Ca0 Se11 3.344608 1_654
+Ca0 Se5 3.365300 1_655
+Ca1 Se9 3.020180 1_545
+Ca1 Se10 3.042922 1_555
+Ca1 Se5 3.072769 1_555
+Ca1 Se4 3.087970 1_545
+Ca1 Se11 3.162694 1_555
+Ca1 Se3 3.187364 1_545
+Ca1 Se1 3.344608 1_555
+Ca1 Se6 3.365300 1_556
+Ca2 Se0 3.020180 1_565
+Ca2 Se8 3.042922 1_555
+Ca2 Se7 3.072769 1_555
+Ca2 Se6 3.087970 1_565
+Ca2 Se2 3.162694 1_555
+Ca2 Se1 3.187364 1_565
+Ca2 Se3 3.344608 1_555
+Ca2 Se4 3.365300 1_554
+Ca3 Se10 3.020180 1_455
+Ca3 Se9 3.042922 1_455
+Ca3 Se4 3.072769 1_555
+Ca3 Se5 3.087970 1_555
+Ca3 Se3 3.162694 1_555
+Ca3 Se11 3.187364 1_555
+Ca3 Se2 3.344608 1_456
+Ca3 Se7 3.365300 1_455
+P0 Se0 2.184649 1_565
+P0 Se7 2.184913 1_455
+P0 Se3 2.188759 1_555
+P0 P1 2.233546 1_465
+P1 Se9 2.184649 1_545
+P1 Se5 2.184913 1_655
+P1 Se1 2.188759 1_555
+P2 Se8 2.184649 1_555
+P2 Se6 2.184913 1_555
+P2 Se11 2.188759 1_554
+P2 P3 2.233546 1_554
+P3 Se10 2.184649 1_555
+P3 Se4 2.184913 1_555
+P3 Se2 2.188759 1_556

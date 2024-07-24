@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_TiVP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34785237
+_cell_length_b   6.33155372
+_cell_length_c   7.63341874
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiVP
+_chemical_formula_sum   'Ti4 V4 P4'
+_cell_volume   161.80639478
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.54352384  0.16747428  1
+  Ti  Ti1  1  0.75000000  0.45647616  0.83252572  1
+  Ti  Ti2  1  0.75000000  0.95647616  0.66747428  1
+  Ti  Ti3  1  0.25000000  0.04352384  0.33252572  1
+  V  V0  1  0.25000000  0.63334329  0.55903643  1
+  V  V1  1  0.75000000  0.36665671  0.44096357  1
+  V  V2  1  0.75000000  0.86665671  0.05903643  1
+  V  V3  1  0.25000000  0.13334329  0.94096357  1
+  P  P0  1  0.25000000  0.75382136  0.85986367  1
+  P  P1  1  0.75000000  0.24617864  0.14013633  1
+  P  P2  1  0.75000000  0.74617864  0.35986367  1
+  P  P3  1  0.25000000  0.25382136  0.64013633  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 V2 2.371487 1_456
+P0 V2 2.371487 1_556
+P0 V0 2.419724 1_555
+P0 V3 2.481427 1_565
+P0 Ti1 2.527840 1_455
+P0 Ti1 2.527840 1_555
+P0 Ti2 2.570054 1_455
+P0 Ti2 2.570054 1_555
+P0 Ti0 2.699368 1_556
+P1 V3 2.371487 1_654
+P1 V3 2.371487 1_554
+P1 V1 2.419724 1_555
+P1 V2 2.481427 1_545
+P1 Ti0 2.527840 1_555
+P1 Ti0 2.527840 1_655
+P1 Ti3 2.570054 1_655
+P1 Ti3 2.570054 1_555
+P1 Ti1 2.699368 1_554
+P2 V0 2.371487 1_555
+P2 V0 2.371487 1_655
+P2 V2 2.419724 1_555
+P2 V1 2.481427 1_555
+P2 Ti3 2.527840 1_565
+P2 Ti3 2.527840 1_665
+P2 Ti0 2.570054 1_655
+P2 Ti0 2.570054 1_555
+P2 Ti2 2.699368 1_555
+P3 V1 2.371487 1_555
+P3 V1 2.371487 1_455
+P3 V3 2.419724 1_555
+P3 V0 2.481427 1_555
+P3 Ti2 2.527840 1_545
+P3 Ti2 2.527840 1_445
+P3 Ti1 2.570054 1_455
+P3 Ti1 2.570054 1_555
+P3 Ti3 2.699368 1_555

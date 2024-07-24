@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Y(PO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.87435186
+_cell_length_b   9.87435186
+_cell_length_c   9.87435186
+_cell_angle_alpha   114.74709948
+_cell_angle_beta   114.74709948
+_cell_angle_gamma   99.36785727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(PO)2
+_chemical_formula_sum   'Y4 P8 O8'
+_cell_volume   724.31468302
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.87500000  0.12500000  0.75000000  1
+  Y  Y1  1  0.37500000  0.12500000  0.25000000  1
+  Y  Y2  1  0.87500000  0.62500000  0.75000000  1
+  Y  Y3  1  0.87500000  0.12500000  0.25000000  1
+  P  P0  1  0.78452200  0.39095900  0.39356300  1
+  P  P1  1  0.99739700  0.39095900  0.60643700  1
+  P  P2  1  0.14095900  0.24739700  0.10643700  1
+  P  P3  1  0.75260300  0.85904100  0.89356300  1
+  P  P4  1  0.96547800  0.85904100  0.10643700  1
+  P  P5  1  0.14095900  0.03452200  0.89356300  1
+  P  P6  1  0.60904100  0.00260300  0.39356300  1
+  P  P7  1  0.60904100  0.21547800  0.60643700  1
+  O  O0  1  0.59663100  0.28690300  0.30972800  1
+  O  O1  1  0.97717500  0.28690300  0.69027200  1
+  O  O2  1  0.03690300  0.22717500  0.19027200  1
+  O  O3  1  0.77282500  0.96309700  0.80972800  1
+  O  O4  1  0.15336900  0.96309700  0.19027200  1
+  O  O5  1  0.03690300  0.84663100  0.80972800  1
+  O  O6  1  0.71309700  0.02282500  0.30972800  1
+  O  O7  1  0.71309700  0.40336900  0.69027200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 P0 1.601434 1_555
+O0 Y1 2.164261 1_555
+O1 P1 1.601436 1_555
+O1 Y0 2.164261 1_555
+O2 P2 1.601436 1_555
+O2 Y3 2.164261 1_455
+O3 P3 1.601436 1_555
+O3 Y0 2.164261 1_565
+O4 P4 1.601434 1_455
+O4 Y1 2.164261 1_565
+O5 P5 1.601434 1_565
+O5 Y2 2.164261 1_455
+O6 P6 1.601436 1_555
+O6 Y3 2.164261 1_555
+O7 P7 1.601434 1_555
+O7 Y2 2.164261 1_555

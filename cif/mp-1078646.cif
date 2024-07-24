@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_K2Cu(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68754926
+_cell_length_b   6.68754926
+_cell_length_c   6.68754926
+_cell_angle_alpha   107.39943219
+_cell_angle_beta   110.51694189
+_cell_angle_gamma   110.51694189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Cu(Cl2O)2
+_chemical_formula_sum   'K2 Cu1 Cl4 O2'
+_cell_volume   230.01434024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.75000000  0.25000000  1
+  K  K1  1  0.50000000  0.25000000  0.75000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl0  1  0.00000000  0.21142800  0.78857200  1
+  Cl  Cl1  1  0.00000000  0.78857200  0.21142800  1
+  Cl  Cl2  1  0.57714400  0.78857200  0.78857200  1
+  Cl  Cl3  1  0.42285600  0.21142800  0.21142800  1
+  O  O0  1  0.00000000  0.42238300  0.42238300  1
+  O  O1  1  0.00000000  0.57761700  0.57761700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Cu0 2.279052 1_556
+Cl0 K0 3.369525 1_556
+Cl0 K1 3.369525 1_455
+Cl0 K0 3.369525 1_445
+Cl0 K1 3.369525 1_555
+Cl1 Cu0 2.279052 1_565
+Cl1 K0 3.369525 1_455
+Cl1 K1 3.369525 1_565
+Cl1 K0 3.369525 1_555
+Cl1 K1 3.369525 1_454
+Cl2 Cu0 2.279052 1_666
+Cl2 K1 3.369525 1_565
+Cl2 K0 3.369525 1_556
+Cl2 K0 3.369525 1_555
+Cl2 K1 3.369525 1_555
+Cl3 Cu0 2.279052 1_555
+Cl3 K1 3.369525 1_554
+Cl3 K0 3.369525 1_555
+Cl3 K1 3.369525 1_555
+Cl3 K0 3.369525 1_545
+O0 O1 1.229188 1_555

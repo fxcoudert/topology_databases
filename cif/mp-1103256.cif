@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_FeSbSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09302977
+_cell_length_b   6.20109800
+_cell_length_c   6.20939352
+_cell_angle_alpha   113.35185831
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSbSe
+_chemical_formula_sum   'Fe4 Sb4 Se4'
+_cell_volume   215.39488636
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50858541  0.70958102  0.20219060  1
+  Fe  Fe1  1  0.00858541  0.29041898  0.29780940  1
+  Fe  Fe2  1  0.49141459  0.29041898  0.79780940  1
+  Fe  Fe3  1  0.99141459  0.70958102  0.70219060  1
+  Sb  Sb0  1  0.13790132  0.85683013  0.12502356  1
+  Sb  Sb1  1  0.63790132  0.14316987  0.37497644  1
+  Sb  Sb2  1  0.86209868  0.14316987  0.87497644  1
+  Sb  Sb3  1  0.36209868  0.85683013  0.62502356  1
+  Se  Se0  1  0.86170606  0.64623623  0.32806326  1
+  Se  Se1  1  0.36170606  0.35376377  0.17193674  1
+  Se  Se2  1  0.13829394  0.35376377  0.67193674  1
+  Se  Se3  1  0.63829394  0.64623623  0.82806326  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Se1 2.318635 1_555
+Fe0 Se3 2.335016 1_554
+Fe0 Se0 2.374415 1_555
+Fe0 Sb0 2.551751 1_555
+Fe0 Sb3 2.573578 1_555
+Fe0 Sb1 2.591199 1_565
+Fe1 Se0 2.318635 1_455
+Fe1 Se2 2.335016 1_555
+Fe1 Se1 2.374415 1_555
+Fe1 Sb1 2.551751 1_455
+Fe1 Sb2 2.573578 1_454
+Fe1 Sb0 2.591199 1_545
+Fe2 Se3 2.318635 1_555
+Fe2 Se1 2.335016 1_556
+Fe2 Se2 2.374415 1_555
+Fe2 Sb2 2.551751 1_555
+Fe2 Sb1 2.573578 1_555
+Fe2 Sb3 2.591199 1_545
+Fe3 Se2 2.318635 1_655
+Fe3 Se0 2.335016 1_555
+Fe3 Se3 2.374415 1_555
+Fe3 Sb3 2.551751 1_655
+Fe3 Sb0 2.573578 1_656
+Fe3 Sb2 2.591199 1_565
+Sb0 Se0 2.726199 1_455
+Sb1 Se1 2.726199 1_555
+Sb2 Se2 2.726199 1_655
+Sb3 Se3 2.726199 1_555

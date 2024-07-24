@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Ba(SiNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19009245
+_cell_length_b   4.19009389
+_cell_length_c   11.49768502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   100.71243972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(SiNi)2
+_chemical_formula_sum   'Ba2 Si4 Ni4'
+_cell_volume   198.34550167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.79555793  0.79555793  0.75000000  1
+  Ba  Ba1  1  0.20444207  0.20444207  0.25000000  1
+  Si  Si0  1  0.68928941  0.68928941  0.43613120  1
+  Si  Si1  1  0.31071059  0.31071059  0.93613220  1
+  Si  Si2  1  0.68928941  0.68928941  0.06386880  1
+  Si  Si3  1  0.31071059  0.31071059  0.56386780  1
+  Ni  Ni0  1  0.79571374  0.20428626  0.00000000  1
+  Ni  Ni1  1  0.20428626  0.79571374  0.50000000  1
+  Ni  Ni2  1  0.79571374  0.20428626  0.50000000  1
+  Ni  Ni3  1  0.20428626  0.79571374  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Ni1 3.345880 1_655
+Ba0 Ni3 3.345880 1_656
+Ba0 Ni0 3.345880 1_566
+Ba0 Ni2 3.345880 1_565
+Ba0 Si1 3.361560 1_555
+Ba0 Si3 3.361560 1_555
+Ba0 Si1 3.488039 1_665
+Ba0 Si3 3.488039 1_665
+Ba1 Ni2 3.345880 1_455
+Ba1 Ni0 3.345880 1_455
+Ba1 Ni3 3.345880 1_545
+Ba1 Ni1 3.345880 1_545
+Ba1 Si2 3.361552 1_555
+Ba1 Si0 3.361552 1_555
+Ba1 Si0 3.488032 1_445
+Ba1 Si2 3.488032 1_445
+Si0 Si3 2.500825 1_555
+Si1 Si2 2.500825 1_556
+Ni0 Si1 2.244288 1_654
+Ni0 Si2 2.244293 1_545
+Ni0 Si1 2.281416 1_554
+Ni0 Si2 2.281421 1_555
+Ni1 Si3 2.244289 1_565
+Ni1 Si0 2.244292 1_455
+Ni1 Si3 2.281417 1_555
+Ni1 Si0 2.281420 1_555
+Ni2 Si3 2.244288 1_655
+Ni2 Si0 2.244293 1_545
+Ni2 Si3 2.281416 1_555
+Ni2 Si0 2.281421 1_555
+Ni3 Si1 2.244289 1_564
+Ni3 Si2 2.244292 1_455
+Ni3 Si1 2.281417 1_554
+Ni3 Si2 2.281420 1_555

@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Ho(CoGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91090748
+_cell_length_b   3.91090656
+_cell_length_c   5.72524963
+_cell_angle_alpha   109.97128435
+_cell_angle_beta   109.97127086
+_cell_angle_gamma   89.99999272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(CoGe)2
+_chemical_formula_sum   'Ho1 Co2 Ge2'
+_cell_volume   76.67590248
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  -0.00000000  1
+  Co  Co0  1  0.25000000  0.75000000  0.50000000  1
+  Co  Co1  1  0.75000000  0.25000000  0.50000000  1
+  Ge  Ge0  1  0.62760924  0.62760924  0.25521947  1
+  Ge  Ge1  1  0.37239076  0.37239076  0.74478053  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Ge1 2.308586 1_555
+Co0 Ge0 2.308586 1_555
+Co0 Ge1 2.308589 1_565
+Co0 Ge0 2.308590 1_455
+Co0 Ho0 3.179075 1_555
+Co0 Ho0 3.179075 1_566
+Co0 Ho0 3.179075 1_565
+Co0 Ho0 3.179076 1_666
+Co1 Ge0 2.308586 1_555
+Co1 Ge1 2.308586 1_555
+Co1 Ge0 2.308589 1_545
+Co1 Ge1 2.308590 1_655
+Co1 Ho0 3.179075 1_666
+Co1 Ho0 3.179075 1_655
+Co1 Ho0 3.179075 1_656
+Co1 Ho0 3.179076 1_555
+Ge0 Ge1 2.558867 1_554
+Ge0 Ho0 3.047053 1_555
+Ge0 Ho0 3.047055 1_655
+Ge0 Ho0 3.047056 1_565
+Ge0 Ho0 3.047058 1_665
+Ge1 Ho0 3.047053 1_666
+Ge1 Ho0 3.047055 1_566
+Ge1 Ho0 3.047056 1_656
+Ge1 Ho0 3.047058 1_556

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ThSi2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08856079
+_cell_length_b   4.14357099
+_cell_length_c   8.44114890
+_cell_angle_alpha   104.20776009
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSi2Ni
+_chemical_formula_sum   'Th2 Si4 Ni2'
+_cell_volume   138.62936947
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.25000000  0.39358152  0.78716405  1
+  Th  Th1  1  0.75000000  0.60641848  0.21283595  1
+  Si  Si0  1  0.25000000  0.03943533  0.07887367  1
+  Si  Si1  1  0.75000000  0.96056467  0.92112633  1
+  Si  Si2  1  0.25000000  0.74905201  0.49810602  1
+  Si  Si3  1  0.75000000  0.25094799  0.50189398  1
+  Ni  Ni0  1  0.25000000  0.18073221  0.36146541  1
+  Ni  Ni1  1  0.75000000  0.81926779  0.63853459  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.417715 1_544
+Si0 Si1 2.417715 1_444
+Si0 Th1 3.110147 1_545
+Si0 Th1 3.110147 1_445
+Si0 Th1 3.110158 1_455
+Si0 Th1 3.110158 1_555
+Si0 Th0 3.160738 1_544
+Si0 Th0 3.160743 1_554
+Si1 Th0 3.110147 1_565
+Si1 Th0 3.110147 1_665
+Si1 Th0 3.110158 1_555
+Si1 Th0 3.110158 1_655
+Si1 Th1 3.160738 1_566
+Si1 Th1 3.160743 1_556
+Si2 Th1 3.102947 1_455
+Si2 Th1 3.102947 1_555
+Si2 Th0 3.144385 1_555
+Si2 Th0 3.144388 1_565
+Si3 Th0 3.102947 1_555
+Si3 Th0 3.102947 1_655
+Si3 Th1 3.144385 1_555
+Si3 Th1 3.144388 1_545
+Ni0 Si0 2.312435 1_555
+Ni0 Si3 2.345114 1_455
+Ni0 Si3 2.345114 1_555
+Ni0 Si2 2.354249 1_555
+Ni0 Si2 2.354252 1_545
+Ni0 Th1 3.154453 1_445
+Ni0 Th1 3.154453 1_545
+Ni0 Th1 3.154458 1_555
+Ni0 Th1 3.154458 1_455
+Ni1 Si1 2.312435 1_555
+Ni1 Si2 2.345114 1_655
+Ni1 Si2 2.345114 1_555
+Ni1 Si3 2.354249 1_555
+Ni1 Si3 2.354252 1_565
+Ni1 Th0 3.154453 1_665
+Ni1 Th0 3.154453 1_565
+Ni1 Th0 3.154458 1_655
+Ni1 Th0 3.154458 1_555

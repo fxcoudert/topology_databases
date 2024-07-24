@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_GdAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84520962
+_cell_length_b   3.89143483
+_cell_length_c   17.12879161
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAsS
+_chemical_formula_sum   'Gd4 As4 S4'
+_cell_volume   256.30466309
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.25000000  0.23638605  0.85404465  1
+  Gd  Gd1  1  0.25000000  0.26361395  0.35404465  1
+  Gd  Gd2  1  0.75000000  0.76361395  0.14595535  1
+  Gd  Gd3  1  0.75000000  0.73638605  0.64595535  1
+  As  As0  1  0.75000000  0.21258826  0.50136901  1
+  As  As1  1  0.75000000  0.28741174  0.00136901  1
+  As  As2  1  0.25000000  0.78741174  0.49863099  1
+  As  As3  1  0.25000000  0.71258826  0.99863099  1
+  S  S0  1  0.25000000  0.23906010  0.68667749  1
+  S  S1  1  0.25000000  0.26093990  0.18667749  1
+  S  S2  1  0.75000000  0.76093990  0.31332251  1
+  S  S3  1  0.75000000  0.73906010  0.81332251  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 S3 2.815737 1_445
+Gd0 S3 2.815737 1_545
+Gd0 S3 2.830082 1_455
+Gd0 S3 2.830082 1_555
+Gd0 S0 2.866816 1_555
+Gd1 S2 2.815737 1_555
+Gd1 S2 2.815737 1_455
+Gd1 S2 2.830082 1_445
+Gd1 S2 2.830082 1_545
+Gd1 S1 2.866816 1_555
+Gd2 S1 2.815737 1_665
+Gd2 S1 2.815737 1_565
+Gd2 S1 2.830082 1_655
+Gd2 S1 2.830082 1_555
+Gd2 S2 2.866816 1_555
+Gd3 S0 2.815737 1_555
+Gd3 S0 2.815737 1_655
+Gd3 S0 2.830082 1_565
+Gd3 S0 2.830082 1_665
+Gd3 S3 2.866816 1_555
+As0 As2 2.536954 1_545
+As0 As2 2.536954 1_645
+As0 As2 2.949962 1_655
+As0 As2 2.949962 1_555
+As0 Gd3 3.093139 1_545
+As0 Gd1 3.178652 1_555
+As0 Gd1 3.178652 1_655
+As0 Gd3 3.207532 1_555
+As1 As3 2.536954 1_654
+As1 As3 2.536954 1_554
+As1 As3 2.949962 1_544
+As1 As3 2.949962 1_644
+As1 Gd2 3.093139 1_555
+As1 Gd0 3.178652 1_554
+As1 Gd0 3.178652 1_654
+As1 Gd2 3.207532 1_545
+As2 Gd1 3.093139 1_565
+As2 Gd3 3.178652 1_555
+As2 Gd3 3.178652 1_455
+As2 Gd1 3.207532 1_555
+As3 Gd0 3.093139 1_555
+As3 Gd2 3.178652 1_456
+As3 Gd2 3.178652 1_556
+As3 Gd0 3.207532 1_565

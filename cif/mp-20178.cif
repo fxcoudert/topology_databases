@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_CeBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12392223
+_cell_length_b   5.07313499
+_cell_length_c   6.26413284
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.70415304
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeBO3
+_chemical_formula_sum   'Ce2 B2 O6'
+_cell_volume   124.84650888
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.61714442  0.25000000  0.77536989  1
+  Ce  Ce1  1  0.38285558  0.75000000  0.22463011  1
+  B  B0  1  0.99860282  0.25000000  0.25551564  1
+  B  B1  1  0.00139718  0.75000000  0.74448436  1
+  O  O0  1  0.66778681  0.75000000  0.61290333  1
+  O  O1  1  0.33221319  0.25000000  0.38709667  1
+  O  O2  1  0.15837036  0.98374793  0.82634799  1
+  O  O3  1  0.84162964  0.48374693  0.17365201  1
+  O  O4  1  0.84162964  0.01625307  0.17365201  1
+  O  O5  1  0.15837036  0.51625207  0.82634799  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 O1 2.357559 1_555
+Ce0 O2 2.423505 1_545
+Ce0 O5 2.423505 1_555
+Ce0 O2 2.544536 1_645
+Ce0 O5 2.544536 1_655
+Ce0 O3 2.661383 1_556
+Ce0 O4 2.661383 1_556
+Ce0 O0 2.764561 1_555
+Ce0 O0 2.764561 1_545
+Ce1 O0 2.357559 1_555
+Ce1 O3 2.423508 1_555
+Ce1 O4 2.423508 1_565
+Ce1 O3 2.544539 1_455
+Ce1 O4 2.544539 1_465
+Ce1 O5 2.661385 1_554
+Ce1 O2 2.661385 1_554
+Ce1 O1 2.764561 1_555
+Ce1 O1 2.764561 1_565
+B0 O1 1.372029 1_655
+B0 O4 1.373432 1_555
+B0 O3 1.373432 1_555
+B1 O0 1.372029 1_455
+B1 O2 1.373437 1_555
+B1 O5 1.373437 1_555

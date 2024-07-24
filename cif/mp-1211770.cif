@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_KCdAu3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28289108
+_cell_length_b   7.28289108
+_cell_length_c   8.04272400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCdAu3(CN)6
+_chemical_formula_sum   'K1 Cd1 Au3 C6 N6'
+_cell_volume   369.43784638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33333300  0.66666700  0.00000000  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au0  1  0.50449400  0.00898900  0.50000000  1
+  Au  Au1  1  0.50449400  0.49550600  0.50000000  1
+  Au  Au2  1  0.99101100  0.49550600  0.50000000  1
+  C  C0  1  0.99578100  0.35200200  0.70901100  1
+  C  C1  1  0.35622200  0.00421900  0.70901100  1
+  C  C2  1  0.35622200  0.35200200  0.29098900  1
+  C  C3  1  0.64799800  0.64377800  0.70901100  1
+  C  C4  1  0.64799800  0.00421900  0.29098900  1
+  C  C5  1  0.99578100  0.64377800  0.29098900  1
+  N  N0  1  0.00422000  0.26638000  0.82986700  1
+  N  N1  1  0.26216000  0.99578000  0.82986700  1
+  N  N2  1  0.26216000  0.26638000  0.17013300  1
+  N  N3  1  0.73362000  0.73784000  0.82986700  1
+  N  N4  1  0.73362000  0.99578000  0.17013300  1
+  N  N5  1  0.00422000  0.73784000  0.17013300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N1 3.021347 1_554
+K0 N5 3.021347 1_555
+K0 N4 3.021351 1_555
+K0 N0 3.021351 1_554
+K0 N3 3.021353 1_554
+K0 N2 3.021353 1_555
+Cd0 N3 2.361635 1_444
+Cd0 N2 2.361635 1_555
+Cd0 N4 2.361635 1_445
+Cd0 N0 2.361635 1_554
+Cd0 N5 2.361635 1_545
+Cd0 N1 2.361635 1_544
+Au0 C1 1.988866 1_555
+Au0 C4 1.988874 1_555
+Au1 C3 1.988870 1_555
+Au1 C2 1.988870 1_555
+Au2 C5 1.988866 1_555
+Au2 C0 1.988874 1_555
+C0 N0 1.172926 1_655
+C1 N1 1.172930 1_545
+C2 N2 1.172928 1_555
+C3 N3 1.172928 1_555
+C4 N4 1.172926 1_545
+C5 N5 1.172930 1_655

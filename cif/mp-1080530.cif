@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_PrMnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.05288361
+_cell_length_b   9.05288361
+_cell_length_c   3.98869300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.90654338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMnSi2
+_chemical_formula_sum   'Pr2 Mn2 Si4'
+_cell_volume   143.77913255
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.89807000  0.10193000  0.75000000  1
+  Pr  Pr1  1  0.10193000  0.89807000  0.25000000  1
+  Mn  Mn0  1  0.24966800  0.75033200  0.75000000  1
+  Mn  Mn1  1  0.75033200  0.24966800  0.25000000  1
+  Si  Si0  1  0.67886100  0.32113900  0.75000000  1
+  Si  Si1  1  0.32113900  0.67886100  0.25000000  1
+  Si  Si2  1  0.53665500  0.46334500  0.75000000  1
+  Si  Si3  1  0.46334500  0.53665500  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Si3 3.078882 1_655
+Pr0 Si3 3.078882 1_656
+Pr0 Si3 3.078882 1_545
+Pr0 Si3 3.078882 1_546
+Pr0 Si1 3.161519 1_546
+Pr0 Si1 3.161519 1_655
+Pr0 Si1 3.161519 1_656
+Pr0 Si1 3.161519 1_545
+Pr0 Si2 3.186169 1_545
+Pr0 Si2 3.186169 1_655
+Pr1 Si2 3.078882 1_565
+Pr1 Si2 3.078882 1_564
+Pr1 Si2 3.078882 1_455
+Pr1 Si2 3.078882 1_454
+Pr1 Si0 3.161519 1_455
+Pr1 Si0 3.161519 1_454
+Pr1 Si0 3.161519 1_564
+Pr1 Si0 3.161519 1_565
+Pr1 Si3 3.186169 1_455
+Pr1 Si3 3.186169 1_565
+Mn0 Si1 2.359367 1_556
+Mn0 Si1 2.359367 1_555
+Mn0 Si0 2.395059 1_455
+Mn0 Si0 2.395059 1_565
+Mn0 Pr1 3.281452 1_556
+Mn0 Pr1 3.281452 1_555
+Mn0 Pr0 3.320871 1_565
+Mn0 Pr0 3.320871 1_455
+Mn1 Si0 2.359367 1_554
+Mn1 Si0 2.359367 1_555
+Mn1 Si1 2.395059 1_545
+Mn1 Si1 2.395059 1_655
+Mn1 Pr0 3.281452 1_555
+Mn1 Pr0 3.281452 1_554
+Mn1 Pr1 3.320871 1_655
+Mn1 Pr1 3.320871 1_545
+Si0 Si2 2.508285 1_555
+Si1 Si3 2.508285 1_555
+Si2 Si3 2.376857 1_555
+Si2 Si3 2.376857 1_556

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LaCdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02863401
+_cell_length_b   8.02863442
+_cell_length_c   4.06330579
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCdAu
+_chemical_formula_sum   'La3 Cd3 Au3'
+_cell_volume   226.82634232
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.40789411  0.00000000  -0.00000000  1
+  La  La1  1  0.59210589  0.59210589  0.00000000  1
+  La  La2  1  0.00000000  0.40789411  -0.00000000  1
+  Cd  Cd0  1  0.74691238  0.00000000  0.50000000  1
+  Cd  Cd1  1  0.25308762  0.25308762  0.50000000  1
+  Cd  Cd2  1  -0.00000000  0.74691238  0.50000000  1
+  Au  Au0  1  0.66666700  0.33333300  0.50000000  1
+  Au  Au1  1  0.33333300  0.66666700  0.50000000  1
+  Au  Au2  1  -0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 La0 3.396484 1_556
+Cd0 La0 3.396484 1_555
+Cd0 La2 3.510935 1_656
+Cd0 La2 3.510935 1_655
+Cd0 La1 3.510935 1_546
+Cd0 La1 3.510935 1_545
+Cd1 La1 3.396484 1_556
+Cd1 La1 3.396484 1_555
+Cd1 La2 3.510935 1_556
+Cd1 La2 3.510935 1_555
+Cd1 La0 3.510935 1_556
+Cd1 La0 3.510935 1_555
+Cd2 La2 3.396484 1_555
+Cd2 La2 3.396484 1_556
+Cd2 La1 3.510935 1_456
+Cd2 La1 3.510935 1_455
+Cd2 La0 3.510935 1_565
+Cd2 La0 3.510935 1_566
+Au0 Cd0 3.049810 1_555
+Au0 Cd2 3.049815 1_655
+Au0 Cd1 3.049818 1_555
+Au0 La2 3.169545 1_656
+Au0 La2 3.169545 1_655
+Au0 La0 3.169547 1_555
+Au0 La0 3.169547 1_556
+Au0 La1 3.169551 1_555
+Au0 La1 3.169551 1_556
+Au1 Cd2 3.049810 1_555
+Au1 Cd0 3.049815 1_565
+Au1 Cd1 3.049818 1_555
+Au1 La0 3.169545 1_566
+Au1 La0 3.169545 1_565
+Au1 La2 3.169547 1_556
+Au1 La2 3.169547 1_555
+Au1 La1 3.169551 1_556
+Au1 La1 3.169551 1_555
+Au2 Cd0 2.873400 1_454
+Au2 Cd0 2.873400 1_455
+Au2 Cd1 2.873400 1_554
+Au2 Cd1 2.873400 1_555
+Au2 Cd2 2.873400 1_544
+Au2 Cd2 2.873400 1_545
+Au2 La0 3.274833 1_555
+Au2 La1 3.274833 1_445
+Au2 La2 3.274833 1_555

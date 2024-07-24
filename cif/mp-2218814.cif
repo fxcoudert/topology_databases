@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgTe4Mo3W(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41303807
+_cell_length_b   3.41365458
+_cell_length_c   42.51854872
+_cell_angle_alpha   90.00254957
+_cell_angle_beta   90.11984769
+_cell_angle_gamma   120.00808940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe4Mo3W(SeS)2
+_chemical_formula_sum   'Mg1 Te4 Mo3 W1 Se2 S2'
+_cell_volume   428.97607358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.67200100  0.33597500  0.36621100  1
+  Te  Te0  1  0.33544000  0.66778700  0.70177100  1
+  Te  Te1  1  0.66574500  0.33280600  0.05008300  1
+  Te  Te2  1  0.66817100  0.33408400  0.13799300  1
+  Te  Te3  1  0.33262000  0.66630100  0.61354900  1
+  Mo  Mo0  1  0.33394600  0.66691200  0.09406700  1
+  Mo  Mo1  1  0.33275600  0.66634900  0.47350500  1
+  Mo  Mo2  1  0.66958400  0.33485600  0.27647600  1
+  W  W0  1  0.66680500  0.33345700  0.65764300  1
+  Se  Se0  1  0.66422000  0.33204800  0.43467700  1
+  Se  Se1  1  0.66675900  0.33338100  0.51204500  1
+  S  S0  1  0.33670800  0.66840400  0.31194300  1
+  S  S1  1  0.33381600  0.66692700  0.24163200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Se0 2.911222 1_555
+Mg0 S0 3.034095 1_655
+Mg0 S0 3.034278 1_545
+Mg0 S0 3.034724 1_555
+Te0 W0 2.720608 1_555
+Te0 W0 2.720614 1_565
+Te0 W0 2.721674 1_455
+Te3 W0 2.719256 1_555
+Te3 W0 2.719378 1_565
+Te3 W0 2.721274 1_455
+Mo0 Te2 2.714394 1_555
+Mo0 Te2 2.714499 1_565
+Mo0 Te2 2.716259 1_455
+Mo0 Te1 2.716538 1_455
+Mo0 Te1 2.716834 1_555
+Mo0 Te1 2.716870 1_565
+Mo1 Se1 2.562235 1_565
+Mo1 Se1 2.562242 1_555
+Mo1 Se1 2.564271 1_455
+Mo1 Se0 2.570238 1_565
+Mo1 Se0 2.570338 1_555
+Mo1 Se0 2.571710 1_455
+Mo2 S1 2.462336 1_655
+Mo2 S1 2.466902 1_555
+Mo2 S1 2.466973 1_545
+Mo2 S0 2.479355 1_655
+Mo2 S0 2.482384 1_555
+Mo2 S0 2.482492 1_545

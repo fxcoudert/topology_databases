@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_TbRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22967868
+_cell_length_b   5.22967868
+_cell_length_c   8.95209069
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99779473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbRu2
+_chemical_formula_sum   'Tb4 Ru8'
+_cell_volume   212.03852156
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.66668330  0.33331670  0.56735349  1
+  Tb  Tb1  1  0.33331670  0.66668330  0.43264651  1
+  Tb  Tb2  1  0.33331670  0.66668330  0.06735349  1
+  Tb  Tb3  1  0.66668330  0.33331670  0.93264651  1
+  Ru  Ru0  1  0.00000000  0.00000000  0.50000000  1
+  Ru  Ru1  1  0.00000000  0.00000000  -0.00000000  1
+  Ru  Ru2  1  0.17015068  0.34023376  0.75000000  1
+  Ru  Ru3  1  0.17005828  0.82994172  0.75000000  1
+  Ru  Ru4  1  0.65976624  0.82984932  0.75000000  1
+  Ru  Ru5  1  0.82984932  0.65976624  0.25000000  1
+  Ru  Ru6  1  0.82994172  0.17005828  0.25000000  1
+  Ru  Ru7  1  0.34023376  0.17015068  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ru0 Ru3 2.716896 1_545
+Ru0 Ru6 2.716896 1_455
+Ru0 Ru4 2.717226 1_445
+Ru0 Ru7 2.717226 1_555
+Ru0 Ru2 2.717226 1_555
+Ru0 Ru5 2.717226 1_445
+Ru0 Tb0 3.078791 1_455
+Ru0 Tb1 3.078791 1_545
+Ru0 Tb0 3.079111 1_555
+Ru0 Tb1 3.079111 1_445
+Ru0 Tb0 3.079111 1_445
+Ru0 Tb1 3.079111 1_555
+Ru1 Ru3 2.716896 1_544
+Ru1 Ru6 2.716896 1_455
+Ru1 Ru4 2.717226 1_444
+Ru1 Ru7 2.717226 1_555
+Ru1 Ru5 2.717226 1_445
+Ru1 Ru2 2.717226 1_554
+Ru1 Tb2 3.078791 1_545
+Ru1 Tb3 3.078791 1_454
+Ru1 Tb3 3.079111 1_554
+Ru1 Tb2 3.079111 1_445
+Ru1 Tb3 3.079111 1_444
+Ru1 Tb2 3.079111 1_555
+Ru2 Ru4 2.560617 1_555
+Ru2 Ru3 2.561257 1_555
+Ru2 Ru3 2.668422 1_545
+Ru2 Ru4 2.669236 1_445
+Ru2 Tb0 3.084083 1_555
+Ru2 Tb3 3.084083 1_555
+Ru2 Tb3 3.084163 1_455
+Ru2 Tb0 3.084163 1_455
+Ru2 Tb2 3.202689 1_556
+Ru2 Tb1 3.202689 1_555
+Ru3 Ru4 2.561257 1_555
+Ru3 Ru4 2.668422 1_455
+Ru3 Tb3 3.084189 1_455
+Ru3 Tb3 3.084189 1_565
+Ru3 Tb0 3.084189 1_455
+Ru3 Tb0 3.084189 1_565
+Ru3 Tb2 3.202807 1_556
+Ru3 Tb1 3.202807 1_555
+Ru4 Tb0 3.084083 1_555
+Ru4 Tb3 3.084083 1_555
+Ru4 Tb0 3.084163 1_565
+Ru4 Tb3 3.084163 1_565
+Ru4 Tb2 3.202689 1_556
+Ru4 Tb1 3.202689 1_555
+Ru5 Ru7 2.560617 1_555
+Ru5 Ru6 2.561257 1_555
+Ru5 Ru6 2.668422 1_565
+Ru5 Ru7 2.669236 1_665
+Ru5 Tb1 3.084083 1_555
+Ru5 Tb2 3.084083 1_555
+Ru5 Tb1 3.084163 1_655
+Ru5 Tb2 3.084163 1_655
+Ru5 Tb0 3.202689 1_555
+Ru5 Tb3 3.202689 1_554
+Ru6 Ru7 2.561257 1_555
+Ru6 Ru7 2.668422 1_655
+Ru6 Tb2 3.084189 1_545
+Ru6 Tb1 3.084189 1_655
+Ru6 Tb1 3.084189 1_545
+Ru6 Tb2 3.084189 1_655
+Ru6 Tb3 3.202807 1_554
+Ru6 Tb0 3.202807 1_555
+Ru7 Tb1 3.084083 1_555
+Ru7 Tb2 3.084083 1_555
+Ru7 Tb1 3.084163 1_545
+Ru7 Tb2 3.084163 1_545
+Ru7 Tb0 3.202689 1_555
+Ru7 Tb3 3.202689 1_554

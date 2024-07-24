@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Na3Eu2(SiSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20566988
+_cell_length_b   7.20566988
+_cell_length_c   7.92978510
+_cell_angle_alpha   81.29294057
+_cell_angle_beta   81.29294057
+_cell_angle_gamma   119.96492211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Eu2(SiSe3)2
+_chemical_formula_sum   'Na3 Eu2 Si2 Se6'
+_cell_volume   339.96952416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na1  1  0.67261800  0.32738200  0.00000000  1
+  Na  Na2  1  0.32738200  0.67261800  0.00000000  1
+  Eu  Eu0  1  0.83375100  0.16624900  0.50000000  1
+  Eu  Eu1  1  0.16624900  0.83375100  0.50000000  1
+  Si  Si0  1  0.55116800  0.55116800  0.34374800  1
+  Si  Si1  1  0.44883200  0.44883200  0.65625200  1
+  Se  Se0  1  0.58140400  0.89458300  0.25462400  1
+  Se  Se1  1  0.41859600  0.10541700  0.74537600  1
+  Se  Se2  1  0.10541700  0.41859600  0.74537600  1
+  Se  Se3  1  0.89458300  0.58140400  0.25462400  1
+  Se  Se4  1  0.26899200  0.26899200  0.25493400  1
+  Se  Se5  1  0.73100800  0.73100800  0.74506600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se1 3.025671 1_554
+Na0 Se0 3.025671 1_445
+Na0 Se3 3.025671 1_445
+Na0 Se2 3.025671 1_554
+Na0 Se4 3.196920 1_555
+Na0 Se5 3.196920 1_444
+Na1 Se1 3.026142 1_554
+Na1 Se3 3.026142 1_555
+Na1 Se5 3.076122 1_554
+Na1 Se4 3.076122 1_555
+Na1 Se0 3.143041 1_545
+Na1 Se2 3.143041 1_654
+Na2 Se2 3.026142 1_554
+Na2 Se0 3.026142 1_555
+Na2 Se4 3.076122 1_555
+Na2 Se5 3.076122 1_554
+Na2 Se3 3.143041 1_455
+Na2 Se1 3.143041 1_564
+Eu0 Se4 3.091949 1_655
+Eu0 Se5 3.091949 1_545
+Eu0 Se0 3.097268 1_545
+Eu0 Se2 3.097268 1_655
+Eu0 Se1 3.097848 1_555
+Eu0 Se3 3.097848 1_555
+Eu1 Se4 3.091949 1_565
+Eu1 Se5 3.091949 1_455
+Eu1 Se3 3.097268 1_455
+Eu1 Se1 3.097268 1_565
+Eu1 Se0 3.097848 1_555
+Eu1 Se2 3.097848 1_555
+Si0 Si1 2.361938 1_555
+Se0 Si0 2.357032 1_555
+Se1 Si1 2.357032 1_555
+Se2 Si1 2.357032 1_555
+Se3 Si0 2.357032 1_555
+Se4 Si0 2.345564 1_555
+Se5 Si1 2.345564 1_555

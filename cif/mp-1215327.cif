@@ -1,0 +1,116 @@
+# generated using pymatgen
+data_ZrAlIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34863297
+_cell_length_b   5.34863297
+_cell_length_c   8.29006800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.44945055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlIr
+_chemical_formula_sum   'Zr4 Al4 Ir4'
+_cell_volume   206.51757702
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33463700  0.66536300  0.20818700  1
+  Zr  Zr1  1  0.67023100  0.32976900  0.32250100  1
+  Zr  Zr2  1  0.67023100  0.32976900  0.67749900  1
+  Zr  Zr3  1  0.33463700  0.66536300  0.79181300  1
+  Al  Al0  1  0.99442100  0.00557900  0.25471600  1
+  Al  Al1  1  0.99442100  0.00557900  0.74528400  1
+  Al  Al2  1  0.82879700  0.65521900  0.00000000  1
+  Al  Al3  1  0.34478100  0.17120300  0.00000000  1
+  Ir  Ir0  1  0.83048500  0.16951500  0.00000000  1
+  Ir  Ir1  1  0.16952700  0.33797700  0.50000000  1
+  Ir  Ir2  1  0.66202300  0.83047300  0.50000000  1
+  Ir  Ir3  1  0.16620100  0.83379900  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.236705 1_565
+Zr0 Zr1 3.236705 1_455
+Zr0 Zr1 3.241921 1_555
+Zr1 Zr2 2.942958 1_555
+Zr2 Zr3 3.236705 1_545
+Zr2 Zr3 3.236705 1_655
+Zr2 Zr3 3.241921 1_555
+Al0 Ir1 2.556460 1_655
+Al0 Ir2 2.556460 1_545
+Al0 Ir3 2.579385 1_645
+Al0 Ir0 2.598574 1_555
+Al0 Al2 2.668892 1_545
+Al0 Al3 2.668892 1_655
+Al0 Zr1 3.047227 1_555
+Al0 Zr1 3.197669 1_545
+Al0 Zr1 3.197669 1_655
+Al1 Ir1 2.556460 1_655
+Al1 Ir2 2.556460 1_545
+Al1 Ir3 2.579385 1_645
+Al1 Ir0 2.598574 1_556
+Al1 Al2 2.668892 1_546
+Al1 Al3 2.668892 1_656
+Al1 Zr2 3.047227 1_555
+Al1 Zr2 3.197669 1_545
+Al1 Zr2 3.197669 1_655
+Al2 Ir0 2.602303 1_555
+Al2 Al3 2.610337 1_555
+Al2 Ir0 2.746353 1_565
+Al2 Al3 2.782743 1_665
+Al2 Zr1 3.073368 1_555
+Al2 Zr2 3.073368 1_554
+Al2 Zr0 3.179388 1_555
+Al2 Zr3 3.179388 1_554
+Al2 Zr0 3.187051 1_655
+Al2 Zr3 3.187051 1_654
+Al3 Ir0 2.602303 1_555
+Al3 Ir0 2.746353 1_455
+Al3 Zr1 3.073368 1_555
+Al3 Zr2 3.073368 1_554
+Al3 Zr3 3.179388 1_554
+Al3 Zr0 3.179388 1_555
+Al3 Zr0 3.187051 1_545
+Al3 Zr3 3.187051 1_544
+Ir0 Zr1 3.056093 1_555
+Ir0 Zr2 3.056093 1_554
+Ir0 Zr3 3.201793 1_544
+Ir0 Zr0 3.201793 1_545
+Ir0 Zr3 3.201793 1_654
+Ir0 Zr0 3.201793 1_655
+Ir1 Ir2 2.656070 1_555
+Ir1 Ir3 2.660761 1_555
+Ir1 Ir3 2.687961 1_545
+Ir1 Ir2 2.737010 1_445
+Ir1 Zr3 2.859690 1_555
+Ir1 Zr0 2.859690 1_555
+Ir1 Zr2 3.030468 1_455
+Ir1 Zr1 3.030468 1_455
+Ir1 Zr2 3.074884 1_555
+Ir1 Zr1 3.074884 1_555
+Ir2 Ir3 2.660761 1_555
+Ir2 Ir3 2.687961 1_655
+Ir2 Zr3 2.859690 1_555
+Ir2 Zr0 2.859690 1_555
+Ir2 Zr2 3.030468 1_565
+Ir2 Zr1 3.030468 1_565
+Ir2 Zr2 3.074884 1_555
+Ir2 Zr1 3.074884 1_555
+Ir3 Zr3 2.876389 1_555
+Ir3 Zr0 2.876389 1_555
+Ir3 Zr2 3.072127 1_455
+Ir3 Zr2 3.072127 1_565
+Ir3 Zr1 3.072127 1_455
+Ir3 Zr1 3.072127 1_565

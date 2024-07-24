@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Mg(VS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98482147
+_cell_length_b   6.98526893
+_cell_length_c   6.98412435
+_cell_angle_alpha   59.98707375
+_cell_angle_beta   60.02653605
+_cell_angle_gamma   60.00951869
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(VS2)4
+_chemical_formula_sum   'Mg1 V4 S8'
+_cell_volume   240.99676012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.12477600  0.12512900  0.12506100  1
+  V  V0  1  0.51483000  0.51462900  0.51467200  1
+  V  V1  1  0.51476400  0.51472100  0.95582500  1
+  V  V2  1  0.95589600  0.51464600  0.51474500  1
+  V  V3  1  0.51476200  0.95580100  0.51476000  1
+  S  S0  1  0.75059900  0.75047100  0.75059800  1
+  S  S1  1  0.26490200  0.26468200  0.70565100  1
+  S  S2  1  0.26479000  0.70571900  0.26462300  1
+  S  S3  1  0.70563000  0.26480500  0.26481800  1
+  S  S4  1  0.75045700  0.24831300  0.75077900  1
+  S  S5  1  0.24856500  0.75048400  0.75029300  1
+  S  S6  1  0.26474500  0.26485400  0.26473500  1
+  S  S7  1  0.75029900  0.75074200  0.24842300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S3 2.391154 1_455
+Mg0 S6 2.391523 1_555
+Mg0 S2 2.391863 1_545
+Mg0 S1 2.391882 1_554
+S0 V3 2.338686 1_555
+S0 V1 2.339062 1_555
+S0 V2 2.340104 1_555
+S1 V2 2.502777 1_455
+S1 V0 2.503125 1_555
+S1 V3 2.503380 1_545
+S2 V0 2.503351 1_555
+S2 V1 2.503395 1_554
+S2 V2 2.503702 1_455
+S3 V1 2.502253 1_554
+S3 V0 2.502828 1_555
+S3 V3 2.503133 1_545
+S4 V0 2.338958 1_555
+S4 V1 2.339170 1_555
+S4 V2 2.339849 1_555
+S5 V3 2.338725 1_555
+S5 V1 2.338939 1_555
+S5 V0 2.339270 1_555
+S6 V1 2.503231 1_554
+S6 V3 2.503247 1_545
+S6 V2 2.503652 1_455
+S7 V3 2.338861 1_555
+S7 V0 2.339002 1_555
+S7 V2 2.339736 1_555

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_NaCdN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78109400
+_cell_length_b   3.85308828
+_cell_length_c   8.65886600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.38381207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdN
+_chemical_formula_sum   'Na2 Cd2 N2'
+_cell_volume   109.92116445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.67393100  0.34786200  0.75924700  1
+  Na  Na1  1  0.32606900  0.65213800  0.25924700  1
+  Cd  Cd0  1  0.00050700  0.00101500  0.52623200  1
+  Cd  Cd1  1  0.99949300  0.99898500  0.02623200  1
+  N  N0  1  0.32841300  0.65682500  0.55916000  1
+  N  N1  1  0.67158700  0.34317500  0.05916000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 N0 2.220199 1_555
+Cd0 N0 2.234014 1_445
+Cd0 N0 2.234020 1_545
+Cd1 N1 2.220199 1_555
+Cd1 N1 2.234014 1_665
+Cd1 N1 2.234020 1_565
+N0 Na1 2.596954 1_555
+N0 Na0 2.766193 1_555
+N0 Na0 2.766196 1_455
+N0 Na0 2.895591 1_565
+N1 Na0 2.596954 1_554
+N1 Na1 2.766193 1_555
+N1 Na1 2.766196 1_655
+N1 Na1 2.895591 1_545

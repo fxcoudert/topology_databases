@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Hg3AsS4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58965162
+_cell_length_b   7.58965162
+_cell_length_c   9.67490700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3AsS4Cl
+_chemical_formula_sum   'Hg6 As2 S8 Cl2'
+_cell_volume   482.63757261
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50218900  0.49781100  0.74346200  1
+  Hg  Hg1  1  0.49781100  0.50218900  0.24346200  1
+  Hg  Hg2  1  0.49781100  0.99562300  0.24346200  1
+  Hg  Hg3  1  0.00437700  0.50218900  0.24346200  1
+  Hg  Hg4  1  0.99562300  0.49781100  0.74346200  1
+  Hg  Hg5  1  0.50218900  0.00437700  0.74346200  1
+  As  As0  1  0.00000000  0.00000000  0.73020300  1
+  As  As1  1  0.00000000  0.00000000  0.23020300  1
+  S  S0  1  0.66666700  0.33333300  0.61475200  1
+  S  S1  1  0.85143000  0.70286100  0.35680300  1
+  S  S2  1  0.70286100  0.85143000  0.85680300  1
+  S  S3  1  0.85143000  0.14857000  0.35680300  1
+  S  S4  1  0.14857000  0.29713900  0.85680300  1
+  S  S5  1  0.33333300  0.66666700  0.11475200  1
+  S  S6  1  0.29713900  0.14857000  0.35680300  1
+  S  S7  1  0.14857000  0.85143000  0.85680300  1
+  Cl  Cl0  1  0.33333300  0.66666700  0.54155000  1
+  Cl  Cl1  1  0.66666700  0.33333300  0.04155000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S0 2.495126 1_555
+Hg0 S2 2.576339 1_555
+Hg0 S4 2.576339 1_555
+Hg1 S5 2.495126 1_555
+Hg1 S6 2.576339 1_555
+Hg1 S1 2.576339 1_555
+Hg2 S5 2.495126 1_555
+Hg2 S6 2.576338 1_565
+Hg2 S3 2.576339 1_565
+Hg3 S5 2.495126 1_555
+Hg3 S1 2.576338 1_455
+Hg3 S3 2.576339 1_455
+Hg4 S0 2.495126 1_555
+Hg4 S4 2.576338 1_655
+Hg4 S7 2.576339 1_655
+Hg5 S0 2.495126 1_555
+Hg5 S2 2.576338 1_545
+Hg5 S7 2.576339 1_545
+As0 S4 2.305347 1_555
+As0 S2 2.305347 1_445
+As0 S7 2.305352 1_545
+As1 S6 2.305347 1_555
+As1 S1 2.305347 1_445
+As1 S3 2.305352 1_455
+Cl0 Hg4 2.956890 1_455
+Cl0 Hg5 2.956890 1_565
+Cl0 Hg0 2.956900 1_555
+Cl1 Hg2 2.956890 1_545
+Cl1 Hg3 2.956890 1_655
+Cl1 Hg1 2.956900 1_555

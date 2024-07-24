@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LiClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83130300
+_cell_length_b   4.83130300
+_cell_length_c   10.68837100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiClO2
+_chemical_formula_sum   'Li4 Cl4 O8'
+_cell_volume   249.48249068
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li1  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li2  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li3  1  0.50000000  0.50000000  0.50000000  1
+  Cl  Cl0  1  0.00000000  0.50000000  0.82507800  1
+  Cl  Cl1  1  0.00000000  0.50000000  0.32507800  1
+  Cl  Cl2  1  0.50000000  0.00000000  0.17492200  1
+  Cl  Cl3  1  0.50000000  0.00000000  0.67492200  1
+  O  O0  1  0.80836400  0.30836400  0.90975500  1
+  O  O1  1  0.19163600  0.30836400  0.40975500  1
+  O  O2  1  0.80836400  0.69163600  0.40975500  1
+  O  O3  1  0.30836400  0.19163600  0.09024500  1
+  O  O4  1  0.69163600  0.80836400  0.09024500  1
+  O  O5  1  0.19163600  0.69163600  0.90975500  1
+  O  O6  1  0.30836400  0.80836400  0.59024500  1
+  O  O7  1  0.69163600  0.19163600  0.59024500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.001775 1_555
+Li0 O5 2.001775 1_554
+Li0 O4 2.001775 1_555
+Li0 O0 2.001775 1_554
+Li1 O2 2.001775 1_445
+Li1 O7 2.001775 1_455
+Li1 O1 2.001775 1_555
+Li1 O6 2.001775 1_545
+Li2 O3 2.001775 1_555
+Li2 O5 2.001775 1_544
+Li2 O4 2.001775 1_445
+Li2 O0 2.001775 1_454
+Li3 O2 2.001775 1_555
+Li3 O7 2.001775 1_555
+Li3 O6 2.001775 1_555
+Li3 O1 2.001775 1_555
+Cl0 O0 1.591708 1_455
+Cl0 O5 1.591708 1_555
+Cl1 O1 1.591708 1_555
+Cl1 O2 1.591708 1_455
+Cl2 O3 1.591708 1_555
+Cl2 O4 1.591708 1_545
+Cl3 O6 1.591708 1_545
+Cl3 O7 1.591708 1_555

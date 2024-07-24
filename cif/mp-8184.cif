@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2ZnGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50121600
+_cell_length_b   5.12228300
+_cell_length_c   8.21744505
+_cell_angle_alpha   51.64785630
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnGeO4
+_chemical_formula_sum   'Li4 Zn2 Ge2 O8'
+_cell_volume   181.59026296
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.83725000  0.50154200  0.99986400  1
+  Li  Li1  1  0.67175500  0.75285500  0.24821500  1
+  Li  Li2  1  0.32824500  0.75285500  0.74821500  1
+  Li  Li3  1  0.16275000  0.50154200  0.49986400  1
+  Zn  Zn0  1  0.66735700  0.24763000  0.75205400  1
+  Zn  Zn1  1  0.33264300  0.24763000  0.25205400  1
+  Ge  Ge0  1  0.83032900  0.99639300  0.49961000  1
+  Ge  Ge1  1  0.16967100  0.99639300  0.99961000  1
+  O  O0  1  0.17673200  0.64731700  0.00046800  1
+  O  O1  1  0.67881600  0.88114400  0.72801700  1
+  O  O2  1  0.82326800  0.64731700  0.50046800  1
+  O  O3  1  0.32118400  0.88114400  0.22801700  1
+  O  O4  1  0.13679100  0.10959200  0.49890200  1
+  O  O5  1  0.86320900  0.10959200  0.99890200  1
+  O  O6  1  0.67805200  0.33752700  0.27186900  1
+  O  O7  1  0.32194800  0.33752700  0.77186900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.012456 1_656
+Li0 O5 2.017654 1_555
+Li0 O6 2.034327 1_556
+Li0 O1 2.034777 1_555
+Li1 O2 1.973108 1_555
+Li1 O5 1.999946 1_564
+Li1 O3 2.010818 1_555
+Li1 O6 2.012898 1_555
+Li2 O0 1.973108 1_556
+Li2 O4 1.999946 1_565
+Li2 O1 2.010818 1_555
+Li2 O7 2.012898 1_555
+Li3 O2 2.012456 1_455
+Li3 O4 2.017654 1_555
+Li3 O7 2.034327 1_555
+Li3 O3 2.034777 1_555
+Ge0 O4 1.781674 1_665
+Ge0 O2 1.784123 1_555
+Ge0 O1 1.786346 1_555
+Ge0 O6 1.788640 1_565
+Ge1 O5 1.781674 1_465
+Ge1 O0 1.784123 1_556
+Ge1 O3 1.786346 1_556
+Ge1 O7 1.788640 1_565
+O0 Zn1 1.987122 1_555
+O1 Zn0 2.006787 1_565
+O2 Zn0 1.987122 1_555
+O3 Zn1 2.006787 1_565
+O4 Zn1 1.998885 1_555
+O5 Zn0 1.998885 1_555
+O6 Zn1 1.985509 1_555
+O7 Zn0 1.985509 1_555

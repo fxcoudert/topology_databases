@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CsTaS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42757323
+_cell_length_b   7.42757323
+_cell_length_c   6.03641524
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTaS3
+_chemical_formula_sum   'Cs2 Ta2 S6'
+_cell_volume   288.40551943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.66666700  0.33333300  0.24789786  1
+  Cs  Cs1  1  0.33333300  0.66666700  0.74789786  1
+  Ta  Ta0  1  0.00000000  -0.00000000  0.54519481  1
+  Ta  Ta1  1  0.00000000  -0.00000000  0.04519481  1
+  S  S0  1  0.30577432  0.15288766  0.74686944  1
+  S  S1  1  0.84711234  0.69422568  0.74686944  1
+  S  S2  1  0.84711234  0.15288766  0.74686944  1
+  S  S3  1  0.69422568  0.84711234  0.24686944  1
+  S  S4  1  0.15288766  0.30577432  0.24686944  1
+  S  S5  1  0.15288766  0.84711234  0.24686944  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 S5 3.718020 1_655
+Cs0 S5 3.718020 1_545
+Cs0 S3 3.718020 1_555
+Cs0 S4 3.718020 1_555
+Cs0 S3 3.718020 1_545
+Cs0 S4 3.718020 1_655
+Cs0 S2 3.802778 1_555
+Cs0 S1 3.802786 1_555
+Cs0 S0 3.802786 1_555
+Cs0 S2 3.812620 1_554
+Cs0 S0 3.812627 1_554
+Cs0 S1 3.812627 1_554
+Cs1 S2 3.718020 1_565
+Cs1 S2 3.718020 1_455
+Cs1 S1 3.718020 1_555
+Cs1 S0 3.718020 1_555
+Cs1 S1 3.718020 1_455
+Cs1 S0 3.718020 1_565
+Cs1 S5 3.802778 1_556
+Cs1 S3 3.802786 1_556
+Cs1 S4 3.802786 1_556
+Cs1 S5 3.812620 1_555
+Cs1 S3 3.812627 1_555
+Cs1 S4 3.812627 1_555
+S0 Ta0 2.313152 1_555
+S0 Ta1 2.666752 1_556
+S1 Ta0 2.313152 1_665
+S1 Ta1 2.666752 1_666
+S2 Ta0 2.313158 1_655
+S2 Ta1 2.666757 1_656
+S3 Ta1 2.313152 1_665
+S3 Ta0 2.666752 1_665
+S4 Ta1 2.313152 1_555
+S4 Ta0 2.666752 1_555
+S5 Ta1 2.313158 1_565
+S5 Ta0 2.666757 1_565

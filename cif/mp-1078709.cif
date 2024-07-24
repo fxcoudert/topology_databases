@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Na2BiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05969194
+_cell_length_b   6.05969194
+_cell_length_c   6.00178375
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.41122387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2BiAu
+_chemical_formula_sum   'Na4 Bi2 Au2'
+_cell_volume   215.23435010
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49920220  0.14349514  0.25000000  1
+  Na  Na1  1  0.85650486  0.50079780  0.75000000  1
+  Na  Na2  1  0.50079780  0.85650486  0.75000000  1
+  Na  Na3  1  0.14349514  0.49920220  0.25000000  1
+  Bi  Bi0  1  0.69300675  0.69300675  0.25000000  1
+  Bi  Bi1  1  0.30699325  0.30699325  0.75000000  1
+  Au  Au0  1  -0.00000000  -0.00000000  0.50000000  1
+  Au  Au1  1  -0.00000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Na3 3.359952 1_555
+Na0 Na2 3.469445 1_545
+Na0 Na2 3.469445 1_544
+Na1 Na2 3.359952 1_555
+Na1 Na3 3.469445 1_655
+Na1 Na3 3.469445 1_656
+Bi0 Na0 3.195182 1_565
+Bi0 Na3 3.195182 1_655
+Bi0 Na0 3.284245 1_555
+Bi0 Na3 3.284245 1_555
+Bi0 Na2 3.440865 1_555
+Bi0 Na2 3.440865 1_554
+Bi0 Na1 3.440865 1_555
+Bi0 Na1 3.440865 1_554
+Bi1 Na2 3.195182 1_545
+Bi1 Na1 3.195182 1_455
+Bi1 Na1 3.284245 1_555
+Bi1 Na2 3.284245 1_555
+Bi1 Na3 3.440865 1_556
+Bi1 Na0 3.440865 1_555
+Bi1 Na3 3.440865 1_555
+Bi1 Na0 3.440865 1_556
+Au0 Bi0 2.772198 1_445
+Au0 Bi1 2.772198 1_555
+Au0 Au1 3.000892 1_555
+Au0 Au1 3.000892 1_556
+Au0 Na2 3.320762 1_445
+Au0 Na0 3.320762 1_555
+Au0 Na3 3.320762 1_555
+Au0 Na1 3.320762 1_445
+Au0 Na2 3.653902 1_545
+Au0 Na1 3.653902 1_455
+Au0 Na3 3.653902 1_545
+Au0 Na0 3.653902 1_455
+Au1 Bi1 2.772198 1_554
+Au1 Bi0 2.772198 1_445
+Au1 Na0 3.320762 1_555
+Au1 Na3 3.320762 1_555
+Au1 Na2 3.320762 1_444
+Au1 Na1 3.320762 1_444
+Au1 Na3 3.653902 1_545
+Au1 Na1 3.653902 1_454
+Au1 Na2 3.653902 1_544
+Au1 Na0 3.653902 1_455

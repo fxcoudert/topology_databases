@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MoNCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98392556
+_cell_length_b   8.24439914
+_cell_length_c   9.23066419
+_cell_angle_alpha   99.02765497
+_cell_angle_beta   108.21843090
+_cell_angle_gamma   108.91420570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoNCl3
+_chemical_formula_sum   'Mo4 N4 Cl12'
+_cell_volume   522.93318639
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.62614543  0.85388396  0.63117583  1
+  Mo  Mo1  1  0.37385457  0.14611604  0.36882417  1
+  Mo  Mo2  1  0.48690245  0.44186979  0.77029635  1
+  Mo  Mo3  1  0.51309755  0.55813021  0.22970365  1
+  N  N0  1  0.56188961  0.67221540  0.69240087  1
+  N  N1  1  0.43811039  0.32778460  0.30759913  1
+  N  N2  1  0.44341744  0.29089793  0.60568327  1
+  N  N3  1  0.55658256  0.70910207  0.39431673  1
+  Cl  Cl0  1  0.18509432  0.45607509  0.11169833  1
+  Cl  Cl1  1  0.81490568  0.54392491  0.88830167  1
+  Cl  Cl2  1  0.57506903  0.73257760  0.06367614  1
+  Cl  Cl3  1  0.42493097  0.26742240  0.93632386  1
+  Cl  Cl4  1  0.80226337  0.53059442  0.29818778  1
+  Cl  Cl5  1  0.19773663  0.46940558  0.70181222  1
+  Cl  Cl6  1  0.06945275  0.10977363  0.34495944  1
+  Cl  Cl7  1  0.93054725  0.89022637  0.65504056  1
+  Cl  Cl8  1  0.27874362  0.92570853  0.14386130  1
+  Cl  Cl9  1  0.72125638  0.07429147  0.85613870  1
+  Cl  Cl10  1  0.68518864  0.14642476  0.48154550  1
+  Cl  Cl11  1  0.31481136  0.85357524  0.51845450  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 N0 1.665717 1_555
+Mo0 N3 2.122591 1_555
+Mo1 N1 1.665717 1_555
+Mo1 N2 2.122591 1_555
+Mo2 N2 1.665851 1_555
+Mo2 N0 2.107714 1_555
+Mo3 N3 1.665851 1_555
+Mo3 N1 2.107714 1_555
+Cl0 Mo3 2.291855 1_555
+Cl1 Mo2 2.291855 1_555
+Cl2 Mo3 2.316562 1_555
+Cl3 Mo2 2.316562 1_555
+Cl4 Mo3 2.292031 1_555
+Cl5 Mo2 2.292031 1_555
+Cl6 Mo1 2.284122 1_555
+Cl7 Mo0 2.284122 1_555
+Cl8 Mo1 2.264058 1_565
+Cl9 Mo0 2.264058 1_545
+Cl10 Mo1 2.374672 1_555
+Cl10 Mo0 2.943165 1_545
+Cl11 Mo0 2.374672 1_555
+Cl11 Mo1 2.943165 1_565

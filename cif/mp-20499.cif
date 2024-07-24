@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Sc2FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42911699
+_cell_length_b   7.42911699
+_cell_length_c   7.42911699
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2FeS4
+_chemical_formula_sum   'Sc4 Fe2 S8'
+_cell_volume   289.93229553
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.12500000  0.12500000  0.12500000  1
+  Sc  Sc1  1  0.62500000  0.12500000  0.12500000  1
+  Sc  Sc2  1  0.12500000  0.12500000  0.62500000  1
+  Sc  Sc3  1  0.12500000  0.62500000  0.12500000  1
+  Fe  Fe0  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.50000000  1
+  S  S0  1  0.87854600  0.36436300  0.87854600  1
+  S  S1  1  0.37145400  0.37145400  0.88563700  1
+  S  S2  1  0.37145400  0.37145400  0.37145400  1
+  S  S3  1  0.88563700  0.37145400  0.37145400  1
+  S  S4  1  0.87854600  0.87854600  0.87854600  1
+  S  S5  1  0.36436300  0.87854600  0.87854600  1
+  S  S6  1  0.37145400  0.88563700  0.37145400  1
+  S  S7  1  0.87854600  0.87854600  0.36436300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 S0 2.339216 1_555
+Fe0 S5 2.339216 1_555
+Fe0 S7 2.339216 1_555
+Fe0 S4 2.339222 1_555
+Fe1 S6 2.339216 1_555
+Fe1 S3 2.339216 1_555
+Fe1 S1 2.339216 1_555
+Fe1 S2 2.339222 1_555
+S0 Sc0 2.589870 1_656
+S0 Sc2 2.589875 1_655
+S0 Sc1 2.589875 1_556
+S1 Sc0 2.589870 1_556
+S1 Sc3 2.589875 1_556
+S1 Sc1 2.589875 1_556
+S2 Sc3 2.589870 1_555
+S2 Sc1 2.589870 1_555
+S2 Sc2 2.589870 1_555
+S3 Sc0 2.589870 1_655
+S3 Sc2 2.589875 1_655
+S3 Sc3 2.589875 1_655
+S4 Sc3 2.589870 1_656
+S4 Sc1 2.589870 1_566
+S4 Sc2 2.589870 1_665
+S5 Sc0 2.589870 1_566
+S5 Sc3 2.589875 1_556
+S5 Sc2 2.589875 1_565
+S6 Sc0 2.589870 1_565
+S6 Sc1 2.589875 1_565
+S6 Sc2 2.589875 1_565
+S7 Sc0 2.589870 1_665
+S7 Sc1 2.589875 1_565
+S7 Sc3 2.589875 1_655

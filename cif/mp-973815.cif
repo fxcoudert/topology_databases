@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Pa3Ta
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25992965
+_cell_length_b   6.25992965
+_cell_length_c   5.56822600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999628
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3Ta
+_chemical_formula_sum   'Pa6 Ta2'
+_cell_volume   188.96719075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.17284400  0.34568700  0.25000000  1
+  Pa  Pa1  1  0.65431300  0.82715600  0.25000000  1
+  Pa  Pa2  1  0.17284400  0.82715600  0.25000000  1
+  Pa  Pa3  1  0.82715600  0.65431300  0.75000000  1
+  Pa  Pa4  1  0.34568700  0.17284400  0.75000000  1
+  Pa  Pa5  1  0.82715600  0.17284400  0.75000000  1
+  Ta  Ta0  1  0.33333300  0.66666700  0.75000000  1
+  Ta  Ta1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pa0 Pa2 3.013962 1_555
+Pa0 Pa1 3.013962 1_555
+Pa0 Ta1 3.130681 1_555
+Pa0 Ta1 3.130681 1_455
+Pa0 Pa2 3.245968 1_545
+Pa0 Pa1 3.245968 1_445
+Pa0 Ta0 3.283182 1_555
+Pa0 Ta0 3.283182 1_554
+Pa0 Pa4 3.356093 1_554
+Pa0 Pa4 3.356093 1_555
+Pa0 Pa5 3.356099 1_455
+Pa0 Pa5 3.356099 1_454
+Pa1 Pa2 3.013962 1_555
+Pa1 Ta1 3.130681 1_555
+Pa1 Ta1 3.130681 1_565
+Pa1 Pa2 3.245968 1_655
+Pa1 Ta0 3.283182 1_554
+Pa1 Ta0 3.283182 1_555
+Pa1 Pa3 3.356093 1_555
+Pa1 Pa3 3.356093 1_554
+Pa1 Pa5 3.356099 1_564
+Pa1 Pa5 3.356099 1_565
+Pa2 Ta1 3.130681 1_455
+Pa2 Ta1 3.130681 1_565
+Pa2 Ta0 3.283177 1_554
+Pa2 Ta0 3.283177 1_555
+Pa2 Pa4 3.356099 1_565
+Pa2 Pa3 3.356099 1_455
+Pa2 Pa4 3.356099 1_564
+Pa2 Pa3 3.356099 1_454
+Pa3 Pa5 3.013962 1_555
+Pa3 Pa4 3.013962 1_555
+Pa3 Ta0 3.130681 1_555
+Pa3 Ta0 3.130681 1_655
+Pa3 Pa5 3.245968 1_565
+Pa3 Pa4 3.245968 1_665
+Pa3 Ta1 3.283182 1_555
+Pa3 Ta1 3.283182 1_556
+Pa4 Pa5 3.013962 1_555
+Pa4 Ta0 3.130681 1_555
+Pa4 Ta0 3.130681 1_545
+Pa4 Pa5 3.245968 1_455
+Pa4 Ta1 3.283182 1_555
+Pa4 Ta1 3.283182 1_556
+Pa5 Ta0 3.130681 1_545
+Pa5 Ta0 3.130681 1_655
+Pa5 Ta1 3.283177 1_555
+Pa5 Ta1 3.283177 1_556

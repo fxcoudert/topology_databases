@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_BaSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72731693
+_cell_length_b   5.68404761
+_cell_length_c   6.88163359
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.07620243
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSeO3
+_chemical_formula_sum   'Ba2 Se2 O6'
+_cell_volume   176.75970786
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.34446315  0.75000000  0.70797578  1
+  Ba  Ba1  1  0.65553785  0.25000000  0.29202422  1
+  Se  Se0  1  0.93414266  0.25000000  0.83892834  1
+  Se  Se1  1  0.06585734  0.75000000  0.16107166  1
+  O  O0  1  0.17501300  0.98294497  0.32215971  1
+  O  O1  1  0.82498700  0.48294497  0.67784029  1
+  O  O2  1  0.82498700  0.01705503  0.67784029  1
+  O  O3  1  0.17501300  0.51705503  0.32215971  1
+  O  O4  1  0.69157402  0.75000000  0.12040279  1
+  O  O5  1  0.30842598  0.25000000  0.87959721  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O1 2.789976 1_555
+Ba0 O2 2.789976 1_565
+Ba0 O4 2.830670 1_556
+Ba0 O1 2.842306 1_455
+Ba0 O2 2.842306 1_465
+Ba0 O3 2.862700 1_555
+Ba0 O0 2.862700 1_555
+Ba0 O5 3.101472 1_565
+Ba0 O5 3.101472 1_555
+Ba1 O3 2.789980 1_555
+Ba1 O0 2.789980 1_545
+Ba1 O5 2.830671 1_554
+Ba1 O3 2.842302 1_655
+Ba1 O0 2.842302 1_645
+Ba1 O1 2.862700 1_555
+Ba1 O2 2.862700 1_555
+Ba1 O4 3.101471 1_555
+Ba1 O4 3.101471 1_545
+O0 Se1 1.706567 1_555
+O1 Se0 1.706567 1_555
+O2 Se0 1.706567 1_555
+O3 Se1 1.706567 1_555
+O4 Se1 1.708253 1_655
+O5 Se0 1.708253 1_455

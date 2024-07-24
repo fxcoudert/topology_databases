@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CrCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75666500
+_cell_length_b   5.74293200
+_cell_length_c   5.79282579
+_cell_angle_alpha   89.85408062
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCuS4
+_chemical_formula_sum   'Cr2 Cu2 S8'
+_cell_volume   191.51098517
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  S  S0  1  0.59884700  0.10212100  0.11073000  1
+  S  S1  1  0.09884700  0.39787900  0.88927000  1
+  S  S2  1  0.38476400  0.61468000  0.40208400  1
+  S  S3  1  0.88476400  0.88532000  0.59791600  1
+  S  S4  1  0.40115300  0.89787900  0.88927000  1
+  S  S5  1  0.90115300  0.60212100  0.11073000  1
+  S  S6  1  0.61523600  0.38532000  0.59791600  1
+  S  S7  1  0.11523600  0.11468000  0.40208400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S2 2.378994 1_555
+Cr0 S6 2.378994 1_455
+Cr0 S7 2.380119 1_555
+Cr0 S3 2.380119 1_455
+Cr0 S1 2.397064 1_555
+Cr0 S5 2.397064 1_455
+Cr1 S3 2.378994 1_545
+Cr1 S7 2.378994 1_555
+Cr1 S2 2.380119 1_545
+Cr1 S6 2.380119 1_555
+Cr1 S0 2.397064 1_555
+Cr1 S4 2.397064 1_545
+Cu0 S5 2.439049 1_445
+Cu0 S1 2.439049 1_554
+Cu0 S4 2.467832 1_544
+Cu0 S0 2.467832 1_455
+Cu0 S7 2.511338 1_555
+Cu0 S3 2.511338 1_444
+Cu1 S0 2.439049 1_555
+Cu1 S4 2.439049 1_554
+Cu1 S5 2.467832 1_555
+Cu1 S1 2.467832 1_554
+Cu1 S6 2.511338 1_554
+Cu1 S2 2.511338 1_555
+S0 S4 2.079526 1_544
+S1 S5 2.079526 1_456
+S2 S6 2.185081 1_555
+S3 S7 2.185081 1_665

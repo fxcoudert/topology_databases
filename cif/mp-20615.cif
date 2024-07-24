@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_EuGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04011073
+_cell_length_b   6.18013125
+_cell_length_c   7.56001140
+_cell_angle_alpha   109.73857647
+_cell_angle_beta   89.99971522
+_cell_angle_gamma   89.99835747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGePd
+_chemical_formula_sum   'Eu4 Ge4 Pd4'
+_cell_volume   265.62379598
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.63755168  0.17790794  0.37891101  1
+  Eu  Eu1  1  0.13753693  0.32208987  0.12107234  1
+  Eu  Eu2  1  0.36244832  0.82209206  0.62108899  1
+  Eu  Eu3  1  0.86246307  0.67791013  0.87892766  1
+  Ge  Ge0  1  0.63851840  0.18429404  0.94962252  1
+  Ge  Ge1  1  0.13852413  0.31570779  0.55037814  1
+  Ge  Ge2  1  0.36148160  0.81570596  0.05037748  1
+  Ge  Ge3  1  0.86147587  0.68429221  0.44962186  1
+  Pd  Pd0  1  0.89831103  0.07861691  0.68593592  1
+  Pd  Pd1  1  0.39828227  0.42137552  0.81405901  1
+  Pd  Pd2  1  0.10168897  0.92138409  0.31406408  1
+  Pd  Pd3  1  0.60171773  0.57862348  0.18594099  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 Pd0 3.034274 1_555
+Eu0 Pd2 3.176117 1_645
+Eu0 Ge2 3.194525 1_545
+Eu0 Ge0 3.258972 1_554
+Eu0 Ge1 3.277967 1_555
+Eu0 Pd3 3.278462 1_555
+Eu0 Ge3 3.283175 1_555
+Eu0 Ge1 3.288829 1_655
+Eu0 Pd1 3.439665 1_555
+Eu0 Pd3 3.498951 1_545
+Eu0 Pd2 3.564414 1_545
+Eu1 Pd1 3.034148 1_554
+Eu1 Pd3 3.176458 1_555
+Eu1 Ge3 3.194483 1_455
+Eu1 Ge1 3.259094 1_555
+Eu1 Ge0 3.277930 1_454
+Eu1 Pd2 3.278536 1_545
+Eu1 Ge2 3.283167 1_545
+Eu1 Ge0 3.288779 1_554
+Eu1 Pd0 3.439538 1_454
+Eu1 Pd2 3.499008 1_555
+Eu1 Pd3 3.564111 1_455
+Eu2 Pd2 3.034277 1_555
+Eu2 Pd0 3.176119 1_465
+Eu2 Ge0 3.194525 1_565
+Eu2 Ge2 3.258972 1_556
+Eu2 Ge3 3.277967 1_555
+Eu2 Pd1 3.278468 1_555
+Eu2 Ge1 3.283175 1_555
+Eu2 Ge3 3.288829 1_455
+Eu2 Pd3 3.439666 1_555
+Eu2 Pd1 3.498946 1_565
+Eu2 Pd0 3.564417 1_565
+Eu3 Pd3 3.034151 1_556
+Eu3 Pd1 3.176460 1_555
+Eu3 Ge1 3.194483 1_655
+Eu3 Ge3 3.259094 1_555
+Eu3 Ge2 3.277930 1_656
+Eu3 Pd0 3.278542 1_565
+Eu3 Ge0 3.283167 1_565
+Eu3 Ge2 3.288779 1_556
+Eu3 Pd2 3.439538 1_656
+Eu3 Pd0 3.499002 1_555
+Eu3 Pd1 3.564113 1_655
+Ge0 Pd0 2.446078 1_555
+Ge0 Pd3 2.497868 1_556
+Ge0 Pd1 2.513338 1_555
+Ge1 Pd1 2.445950 1_555
+Ge1 Pd2 2.497862 1_545
+Ge1 Pd0 2.513316 1_455
+Ge2 Pd2 2.446078 1_555
+Ge2 Pd1 2.497873 1_554
+Ge2 Pd3 2.513342 1_555
+Ge3 Pd3 2.445950 1_555
+Ge3 Pd0 2.497867 1_565
+Ge3 Pd2 2.513320 1_655
+Pd0 Pd2 2.917470 1_645
+Pd1 Pd3 2.917718 1_556

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_EuCu4P3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01254628
+_cell_length_b   4.01254628
+_cell_length_c   7.41818208
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCu4P3
+_chemical_formula_sum   'Eu1 Cu4 P3'
+_cell_volume   119.43664569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.82492491  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.82492491  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.17507509  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.17507509  1
+  P  P0  1  0.00000000  0.00000000  0.00000000  1
+  P  P1  1  0.50000000  0.50000000  0.65259053  1
+  P  P2  1  0.50000000  0.50000000  0.34740947  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 P1 3.054761 1_545
+Eu0 P1 3.054761 1_555
+Eu0 P1 3.054761 1_445
+Eu0 P2 3.054761 1_545
+Eu0 P2 3.054761 1_555
+Eu0 P2 3.054761 1_445
+Eu0 P2 3.054761 1_455
+Eu0 P1 3.054761 1_455
+Cu0 P1 2.378962 1_555
+Cu0 P1 2.378962 1_455
+Cu0 P0 2.389949 1_556
+Cu0 P0 2.389949 1_566
+Cu0 Eu0 3.136069 1_565
+Cu0 Eu0 3.136069 1_555
+Cu1 P1 2.378962 1_545
+Cu1 P1 2.378962 1_555
+Cu1 P0 2.389949 1_556
+Cu1 P0 2.389949 1_656
+Cu1 Eu0 3.136069 1_555
+Cu1 Eu0 3.136069 1_655
+Cu2 P2 2.378962 1_455
+Cu2 P2 2.378962 1_555
+Cu2 P0 2.389949 1_565
+Cu2 P0 2.389949 1_555
+Cu2 Eu0 3.136069 1_565
+Cu2 Eu0 3.136069 1_555
+Cu3 P2 2.378962 1_545
+Cu3 P2 2.378962 1_555
+Cu3 P0 2.389949 1_555
+Cu3 P0 2.389949 1_655
+Cu3 Eu0 3.136069 1_555
+Cu3 Eu0 3.136069 1_655
+P1 P2 2.263889 1_555

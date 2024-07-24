@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Cu3PF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49044457
+_cell_length_b   6.49044541
+_cell_length_c   6.49044516
+_cell_angle_alpha   109.47121985
+_cell_angle_beta   109.47122246
+_cell_angle_gamma   109.47121619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3PF12
+_chemical_formula_sum   'Cu3 P1 F12'
+_cell_volume   210.47550466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  P  P0  1  0.00000000  0.00000000  0.00000000  1
+  F  F0  1  0.50000000  0.25000000  0.75000000  1
+  F  F1  1  0.78579087  0.78579087  -0.00000000  1
+  F  F2  1  0.78579087  0.00000000  0.78579087  1
+  F  F3  1  0.21420913  0.00000000  0.21420913  1
+  F  F4  1  0.00000000  0.21420913  0.21420913  1
+  F  F5  1  0.21420913  0.21420913  0.00000000  1
+  F  F6  1  -0.00000000  0.78579087  0.78579087  1
+  F  F7  1  0.50000000  0.75000000  0.25000000  1
+  F  F8  1  0.75000000  0.50000000  0.25000000  1
+  F  F9  1  0.25000000  0.50000000  0.75000000  1
+  F  F10  1  0.75000000  0.25000000  0.50000000  1
+  F  F11  1  0.25000000  0.75000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 F8 1.873630 1_555
+Cu0 F9 1.873630 1_554
+Cu0 F0 1.873630 1_554
+Cu0 F7 1.873630 1_555
+Cu0 F1 2.141866 1_555
+Cu0 F5 2.141866 1_555
+Cu1 F0 1.873630 1_555
+Cu1 F7 1.873630 1_545
+Cu1 F11 1.873630 1_545
+Cu1 F10 1.873630 1_555
+Cu1 F2 2.141865 1_555
+Cu1 F3 2.141865 1_555
+Cu2 F9 1.873630 1_555
+Cu2 F8 1.873630 1_455
+Cu2 F10 1.873630 1_455
+Cu2 F11 1.873630 1_555
+Cu2 F6 2.141866 1_555
+Cu2 F4 2.141866 1_555
+F1 P0 1.605395 1_665
+F2 P0 1.605395 1_656
+F3 P0 1.605395 1_555
+F4 P0 1.605395 1_555
+F5 P0 1.605395 1_555
+F6 P0 1.605395 1_566

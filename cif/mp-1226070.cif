@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CoCuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58069859
+_cell_length_b   5.58518064
+_cell_length_c   5.76188438
+_cell_angle_alpha   88.97923254
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoCuS4
+_chemical_formula_sum   'Co2 Cu2 S8'
+_cell_volume   179.56488163
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co1  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  S  S0  1  0.59840550  0.09992543  0.11216239  1
+  S  S1  1  0.09840550  0.40007457  0.88783761  1
+  S  S2  1  0.38525886  0.61552091  0.40872490  1
+  S  S3  1  0.88525886  0.88447909  0.59127510  1
+  S  S4  1  0.40159450  0.90007457  0.88783761  1
+  S  S5  1  0.90159450  0.59992543  0.11216239  1
+  S  S6  1  0.61474114  0.38447909  0.59127510  1
+  S  S7  1  0.11474114  0.11552091  0.40872490  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 S2 2.302900 1_555
+Co0 S6 2.302900 1_455
+Co0 S3 2.310437 1_455
+Co0 S7 2.310437 1_555
+Co0 S1 2.358475 1_555
+Co0 S5 2.358475 1_455
+Co1 S7 2.302900 1_555
+Co1 S3 2.302900 1_545
+Co1 S6 2.310437 1_555
+Co1 S2 2.310437 1_545
+Co1 S4 2.358475 1_545
+Co1 S0 2.358475 1_555
+Cu0 S5 2.379231 1_445
+Cu0 S1 2.379231 1_554
+Cu0 S0 2.401014 1_455
+Cu0 S4 2.401014 1_544
+Cu0 S3 2.535075 1_444
+Cu0 S7 2.535075 1_555
+Cu1 S0 2.379231 1_555
+Cu1 S4 2.379231 1_554
+Cu1 S1 2.401014 1_554
+Cu1 S5 2.401014 1_555
+Cu1 S6 2.535075 1_554
+Cu1 S2 2.535075 1_555
+S0 S4 2.043114 1_544
+S1 S5 2.043114 1_456
+S2 S6 2.088844 1_555
+S3 S7 2.088844 1_665

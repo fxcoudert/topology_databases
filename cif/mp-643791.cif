@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_RbP(HO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21691300
+_cell_length_b   4.90169200
+_cell_length_c   7.54626942
+_cell_angle_alpha   71.85906568
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbP(HO2)2
+_chemical_formula_sum   'Rb2 P2 H4 O8'
+_cell_volume   218.52991012
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000000  0.20916200  0.74281700  1
+  Rb  Rb1  1  0.25000000  0.79083800  0.25718300  1
+  P  P0  1  0.25000000  0.70368800  0.75248300  1
+  P  P1  1  0.75000000  0.29631200  0.24751700  1
+  H  H0  1  0.25000000  0.17866000  0.61879600  1
+  H  H1  1  0.75000000  0.82134000  0.38120400  1
+  H  H2  1  0.00000000  0.50000000  0.00000000  1
+  H  H3  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.25000000  0.99467600  0.58294500  1
+  O  O1  1  0.75000000  0.00532400  0.41705500  1
+  O  O2  1  0.25000000  0.46233500  0.66618100  1
+  O  O3  1  0.75000000  0.53766500  0.33381900  1
+  O  O4  1  0.04476800  0.70931400  0.87025800  1
+  O  O5  1  0.54476800  0.29068600  0.12974200  1
+  O  O6  1  0.95523200  0.29068600  0.12974200  1
+  O  O7  1  0.45523200  0.70931400  0.87025800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O0 1.019032 1_545
+H0 O2 1.539785 1_555
+H1 O1 1.019032 1_565
+H1 O3 1.539785 1_555
+H2 O4 1.209617 1_554
+H2 O6 1.209617 1_455
+H3 O5 1.209617 1_555
+H3 O7 1.209617 1_554
+O0 P0 1.592138 1_555
+O0 Rb1 2.927624 1_555
+O1 P1 1.592138 1_555
+O1 Rb0 2.927624 1_555
+O2 P0 1.517726 1_555
+O2 Rb1 3.003995 1_555
+O3 P1 1.517726 1_555
+O3 Rb0 3.003995 1_555
+O4 P0 1.560085 1_555
+O4 Rb0 2.969650 1_465
+O5 P1 1.560085 1_555
+O5 Rb1 2.969650 1_545
+O6 P1 1.560085 1_555
+O6 Rb1 2.969650 1_645
+O7 P0 1.560085 1_555
+O7 Rb0 2.969650 1_565

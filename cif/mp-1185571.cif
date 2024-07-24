@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsAs(HO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12271843
+_cell_length_b   7.09032558
+_cell_length_c   6.90523296
+_cell_angle_alpha   70.94024473
+_cell_angle_beta   55.59324361
+_cell_angle_gamma   53.46651166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAs(HO2)2
+_chemical_formula_sum   'Cs2 As2 H4 O8'
+_cell_volume   263.61348063
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50881700  0.99118300  0.99118300  1
+  Cs  Cs1  1  0.25881700  0.74118300  0.74118300  1
+  As  As0  1  0.99334100  0.50665900  0.50665900  1
+  As  As1  1  0.74334100  0.25665900  0.25665900  1
+  H  H0  1  0.35138000  0.23222800  0.51234500  1
+  H  H1  1  0.01777200  0.89862000  0.34595300  1
+  H  H2  1  0.73765500  0.34595300  0.89862000  1
+  H  H3  1  0.90404700  0.51234500  0.23222800  1
+  O  O0  1  0.03459600  0.51924500  0.22310200  1
+  O  O1  1  0.02708600  0.71320200  0.52733300  1
+  O  O2  1  0.53679800  0.22291400  0.51762000  1
+  O  O3  1  0.73075500  0.21540400  0.02694300  1
+  O  O4  1  0.02689800  0.02694300  0.21540400  1
+  O  O5  1  0.72266700  0.51762000  0.22291400  1
+  O  O6  1  0.73238000  0.52733300  0.71320200  1
+  O  O7  1  0.22305700  0.22310200  0.51924500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 O5 3.088716 1_556
+Cs0 O2 3.088717 1_565
+Cs0 O3 3.163857 1_566
+Cs0 O4 3.163857 1_566
+Cs0 O6 3.297255 1_555
+Cs0 O1 3.297258 1_655
+Cs0 O7 3.345815 1_566
+Cs0 O0 3.345815 1_566
+Cs1 O1 3.088712 1_555
+Cs1 O6 3.088719 1_555
+Cs1 O7 3.163857 1_565
+Cs1 O0 3.163857 1_556
+Cs1 O5 3.297259 1_555
+Cs1 O2 3.297261 1_555
+Cs1 O4 3.345815 1_566
+Cs1 O3 3.345815 1_466
+As0 O6 1.702587 1_555
+As0 O1 1.702593 1_655
+As0 O0 1.770336 1_655
+As0 O7 1.770336 1_655
+As1 O5 1.702586 1_555
+As1 O2 1.702590 1_555
+As1 O3 1.770336 1_555
+As1 O4 1.770336 1_655
+H0 O7 1.055970 1_555
+H0 O2 1.488634 1_555
+H1 O4 1.055970 1_565
+H1 O1 1.488638 1_555
+H2 O3 1.055970 1_556
+H2 O6 1.488638 1_555
+H3 O0 1.055970 1_655
+H3 O5 1.488642 1_555

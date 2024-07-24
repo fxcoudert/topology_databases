@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_MgSn(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40720245
+_cell_length_b   7.40720245
+_cell_length_c   5.57936817
+_cell_angle_alpha   78.33779043
+_cell_angle_beta   78.33779043
+_cell_angle_gamma   88.31522332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSn(GeO3)2
+_chemical_formula_sum   'Mg2 Sn2 Ge4 O12'
+_cell_volume   293.59180733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.74205700  0.25794300  0.25000000  1
+  Mg  Mg1  1  0.25794300  0.74205700  0.75000000  1
+  Sn  Sn0  1  0.12418000  0.87582000  0.25000000  1
+  Sn  Sn1  1  0.87582000  0.12418000  0.75000000  1
+  Ge  Ge0  1  0.61059300  0.79497500  0.24981200  1
+  Ge  Ge1  1  0.20502500  0.38940700  0.25018800  1
+  Ge  Ge2  1  0.38940700  0.20502500  0.75018800  1
+  Ge  Ge3  1  0.79497500  0.61059300  0.74981200  1
+  O  O0  1  0.70527500  0.62432400  0.46840800  1
+  O  O1  1  0.37567600  0.29472500  0.03159200  1
+  O  O2  1  0.29472500  0.37567600  0.53159200  1
+  O  O3  1  0.62432400  0.70527500  0.96840800  1
+  O  O4  1  0.81060200  0.37752300  0.89456000  1
+  O  O5  1  0.62247700  0.18939800  0.60544000  1
+  O  O6  1  0.18939800  0.62247700  0.10544000  1
+  O  O7  1  0.37752300  0.81060200  0.39456000  1
+  O  O8  1  0.71945100  0.01067900  0.16425600  1
+  O  O9  1  0.98932100  0.28054900  0.33574400  1
+  O  O10  1  0.28054900  0.98932100  0.83574400  1
+  O  O11  1  0.01067900  0.71945100  0.66425600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.970883 1_555
+Mg0 O4 1.970883 1_554
+Mg0 O8 2.004014 1_555
+Mg0 O9 2.004014 1_555
+Mg1 O6 1.970883 1_556
+Mg1 O7 1.970883 1_555
+Mg1 O11 2.004014 1_555
+Mg1 O10 2.004014 1_555
+Ge0 O8 1.744330 1_565
+Ge0 O7 1.763077 1_555
+Ge0 O0 1.802104 1_555
+Ge0 O3 1.808340 1_554
+Ge1 O9 1.744330 1_455
+Ge1 O6 1.763077 1_555
+Ge1 O1 1.802104 1_555
+Ge1 O2 1.808340 1_555
+Ge2 O10 1.744330 1_545
+Ge2 O5 1.763077 1_555
+Ge2 O2 1.802104 1_555
+Ge2 O1 1.808340 1_556
+Ge3 O11 1.744330 1_655
+Ge3 O4 1.763077 1_555
+Ge3 O3 1.802104 1_555
+Ge3 O0 1.808340 1_555
+O4 Sn1 2.192364 1_555
+O5 Sn1 2.192364 1_555
+O6 Sn0 2.192364 1_555
+O7 Sn0 2.192364 1_555
+O8 Sn1 2.362162 1_554
+O9 Sn1 2.362162 1_555
+O10 Sn0 2.362162 1_556
+O11 Sn0 2.362162 1_555

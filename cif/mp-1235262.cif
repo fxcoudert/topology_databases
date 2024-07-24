@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LiNb2Te4Cl10O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39158906
+_cell_length_b   8.62551477
+_cell_length_c   9.59320440
+_cell_angle_alpha   83.40570076
+_cell_angle_beta   90.95437548
+_cell_angle_gamma   74.19484515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNb2Te4Cl10O
+_chemical_formula_sum   'Li1 Nb2 Te4 Cl10 O1'
+_cell_volume   583.87433784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Nb  Nb0  1  0.51830800  0.63876800  0.63717800  1
+  Nb  Nb1  1  0.48169200  0.36123200  0.36282200  1
+  Te  Te0  1  0.16886700  0.91176000  0.16799900  1
+  Te  Te1  1  0.06168500  0.20602600  0.99557900  1
+  Te  Te2  1  0.93831500  0.79397400  0.00442100  1
+  Te  Te3  1  0.83113300  0.08824000  0.83200100  1
+  Cl  Cl0  1  0.44666600  0.16875400  0.17987700  1
+  Cl  Cl1  1  0.40335700  0.48484300  0.81703500  1
+  Cl  Cl2  1  0.78413200  0.18968100  0.41937700  1
+  Cl  Cl3  1  0.16560600  0.52702000  0.28035100  1
+  Cl  Cl4  1  0.59664300  0.51515700  0.18296500  1
+  Cl  Cl5  1  0.33641000  0.20699400  0.51705800  1
+  Cl  Cl6  1  0.83439400  0.47298000  0.71964900  1
+  Cl  Cl7  1  0.66359000  0.79300600  0.48294200  1
+  Cl  Cl8  1  0.21586800  0.81031900  0.58062300  1
+  Cl  Cl9  1  0.55333400  0.83124600  0.82012300  1
+  O  O0  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Te0 3.167319 1_545
+Li0 Te3 3.167319 1_554
+Li0 Te2 3.240098 1_545
+Li0 Te1 3.240098 1_554
+Nb0 O0 1.904432 1_555
+Nb1 O0 1.904432 1_555
+Te0 Te2 2.760256 1_455
+Te0 Te1 2.775375 1_564
+Te1 Te3 2.760256 1_455
+Te2 Te3 2.775375 1_564
+Cl0 Li0 2.353468 1_555
+Cl0 Nb1 2.606092 1_555
+Cl1 Nb0 2.366201 1_555
+Cl2 Nb1 2.335530 1_555
+Cl3 Nb1 2.447063 1_555
+Cl4 Nb1 2.366201 1_555
+Cl5 Nb1 2.343379 1_555
+Cl6 Nb0 2.447063 1_555
+Cl7 Nb0 2.343379 1_555
+Cl8 Nb0 2.335530 1_555
+Cl9 Li0 2.353468 1_566
+Cl9 Nb0 2.606092 1_555

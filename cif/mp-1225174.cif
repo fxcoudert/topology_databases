@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe(CoSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21748197
+_cell_length_b   6.21748197
+_cell_length_c   6.12905245
+_cell_angle_alpha   62.69049060
+_cell_angle_beta   62.69049060
+_cell_angle_gamma   33.02623358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(CoSe2)2
+_chemical_formula_sum   'Fe1 Co2 Se4'
+_cell_volume   113.38765768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.73986300  0.73986300  0.28773800  1
+  Co  Co0  1  0.99759400  0.99759400  0.00241300  1
+  Co  Co1  1  0.26333500  0.26333500  0.70966400  1
+  Se  Se0  1  0.11748000  0.11748000  0.55166400  1
+  Se  Se1  1  0.88223600  0.88223600  0.45129300  1
+  Se  Se2  1  0.36483700  0.36483700  0.97478400  1
+  Se  Se3  1  0.63465500  0.63465500  0.02244400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Se1 2.348288 1_555
+Fe0 Se0 2.368491 1_655
+Fe0 Se0 2.368491 1_565
+Fe0 Se3 2.483762 1_555
+Fe0 Se2 2.507387 1_564
+Fe0 Se2 2.507387 1_654
+Co0 Se1 2.416465 1_555
+Co0 Se0 2.428180 1_664
+Co0 Se2 2.431736 1_564
+Co0 Se2 2.431736 1_654
+Co0 Se3 2.449548 1_565
+Co0 Se3 2.449548 1_655
+Co1 Se1 2.343460 1_455
+Co1 Se1 2.343460 1_545
+Co1 Se0 2.360756 1_555
+Co1 Se2 2.446779 1_555
+Co1 Se3 2.517334 1_546
+Co1 Se3 2.517334 1_456

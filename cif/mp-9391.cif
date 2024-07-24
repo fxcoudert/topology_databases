@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_TaNi2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72261652
+_cell_length_b   7.82110355
+_cell_length_c   10.43074609
+_cell_angle_alpha   109.93555310
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNi2Te3
+_chemical_formula_sum   'Ta2 Ni4 Te6'
+_cell_volume   285.49270449
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.20886410  0.69876021  1
+  Ta  Ta1  1  0.75000000  0.79113590  0.30123979  1
+  Ni  Ni0  1  0.25000000  0.59584864  0.09188177  1
+  Ni  Ni1  1  0.75000000  0.40415136  0.90811823  1
+  Ni  Ni2  1  0.75000000  0.96273063  0.56577746  1
+  Ni  Ni3  1  0.25000000  0.03726937  0.43422254  1
+  Te  Te0  1  0.75000000  0.05783674  0.82751375  1
+  Te  Te1  1  0.25000000  0.94216326  0.17248625  1
+  Te  Te2  1  0.75000000  0.42806589  0.15944644  1
+  Te  Te3  1  0.25000000  0.57193411  0.84055356  1
+  Te  Te4  1  0.25000000  0.72790378  0.49430077  1
+  Te  Te5  1  0.75000000  0.27209622  0.50569923  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Te3 2.717883 1_555
+Ta0 Te0 2.783004 1_555
+Ta0 Te0 2.783004 1_455
+Ta0 Te5 2.905760 1_455
+Ta0 Te5 2.905760 1_555
+Ta1 Te2 2.717883 1_555
+Ta1 Te1 2.783004 1_655
+Ta1 Te1 2.783004 1_555
+Ta1 Te4 2.905760 1_555
+Ta1 Te4 2.905760 1_655
+Ni0 Te2 2.512724 1_555
+Ni0 Te2 2.512724 1_455
+Ni0 Te1 2.547601 1_555
+Ni0 Te3 2.563804 1_554
+Ni0 Ni1 2.725194 1_554
+Ni0 Ni1 2.725194 1_454
+Ni0 Ta1 2.879518 1_455
+Ni0 Ta1 2.879518 1_555
+Ni1 Te3 2.512724 1_655
+Ni1 Te3 2.512724 1_555
+Ni1 Te0 2.547601 1_555
+Ni1 Te2 2.563804 1_556
+Ni1 Ta0 2.879518 1_655
+Ni1 Ta0 2.879518 1_555
+Ni2 Ni3 2.496562 1_565
+Ni2 Ni3 2.496562 1_665
+Ni2 Te4 2.541591 1_555
+Ni2 Te4 2.541591 1_655
+Ni2 Te0 2.573314 1_565
+Ni2 Ta1 2.624825 1_555
+Ni2 Ta0 2.696924 1_665
+Ni2 Ta0 2.696924 1_565
+Ni2 Te5 2.698342 1_565
+Ni3 Te5 2.541591 1_555
+Ni3 Te5 2.541591 1_455
+Ni3 Te1 2.573314 1_545
+Ni3 Ta0 2.624825 1_555
+Ni3 Ta1 2.696924 1_445
+Ni3 Ta1 2.696924 1_545
+Ni3 Te4 2.698342 1_545

@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_U(GeRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11530100
+_cell_length_b   4.11530100
+_cell_length_c   11.00332000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U(GeRh)2
+_chemical_formula_sum   'U2 Ge4 Rh4'
+_cell_volume   186.34895206
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.00000000  0.00864900  1
+  U  U1  1  0.50000000  0.50000000  0.55460400  1
+  Ge  Ge0  1  0.50000000  0.00000000  0.25178400  1
+  Ge  Ge1  1  0.00000000  0.50000000  0.25178400  1
+  Ge  Ge2  1  0.50000000  0.50000000  0.87403500  1
+  Ge  Ge3  1  0.50000000  0.50000000  0.09692900  1
+  Rh  Rh0  1  0.00000000  0.00000000  0.59342400  1
+  Rh  Rh1  1  0.00000000  0.00000000  0.36146200  1
+  Rh  Rh2  1  0.50000000  0.00000000  0.75366500  1
+  Rh  Rh3  1  0.00000000  0.50000000  0.75366500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Rh1 2.385444 1_555
+Ge0 Rh1 2.385444 1_655
+Ge0 Ge3 2.671566 1_555
+Ge0 Ge3 2.671566 1_545
+Ge0 U0 3.375072 1_655
+Ge0 U0 3.375072 1_555
+Ge1 Rh1 2.385444 1_555
+Ge1 Rh1 2.385444 1_565
+Ge1 Ge3 2.671566 1_555
+Ge1 Ge3 2.671566 1_455
+Ge1 U0 3.375072 1_565
+Ge1 U0 3.375072 1_555
+Ge2 Rh3 2.447069 1_555
+Ge2 Rh2 2.447069 1_555
+Ge2 Rh2 2.447069 1_565
+Ge2 Rh3 2.447069 1_655
+Ge2 Ge3 2.452574 1_556
+Ge2 U0 3.265242 1_666
+Ge2 U0 3.265242 1_556
+Ge2 U0 3.265242 1_566
+Ge2 U0 3.265242 1_656
+Ge3 U0 3.067803 1_555
+Ge3 U0 3.067803 1_655
+Ge3 U0 3.067803 1_565
+Ge3 U0 3.067803 1_665
+Rh0 Rh1 2.552352 1_555
+Rh0 Rh2 2.709749 1_555
+Rh0 Rh2 2.709749 1_455
+Rh0 Rh3 2.709749 1_555
+Rh0 Rh3 2.709749 1_545
+Rh0 U1 2.941140 1_445
+Rh0 U1 2.941140 1_545
+Rh0 U1 2.941140 1_555
+Rh0 U1 2.941140 1_455
+Rh2 Rh3 2.909957 1_555
+Rh2 Rh3 2.909957 1_645
+Rh2 Rh3 2.909957 1_655
+Rh2 Rh3 2.909957 1_545
+Rh2 U1 3.005242 1_555
+Rh2 U1 3.005242 1_545
+Rh2 U0 3.479326 1_556
+Rh2 U0 3.479326 1_656
+Rh3 U1 3.005242 1_455
+Rh3 U1 3.005242 1_555
+Rh3 U0 3.479326 1_556
+Rh3 U0 3.479326 1_566

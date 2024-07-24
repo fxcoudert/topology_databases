@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_LaTiSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29088404
+_cell_length_b   5.29088404
+_cell_length_c   5.18680600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTiSbO6
+_chemical_formula_sum   'La1 Ti1 Sb1 O6'
+_cell_volume   125.74395634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.66666700  0.33333300  0.50000000  1
+  Sb  Sb0  1  0.33333300  0.66666700  0.50000000  1
+  O  O0  1  0.62715500  0.62392900  0.71435300  1
+  O  O1  1  0.99677400  0.37284500  0.71435300  1
+  O  O2  1  0.37607100  0.00322600  0.71435300  1
+  O  O3  1  0.37607100  0.37284500  0.28564700  1
+  O  O4  1  0.99677400  0.62392900  0.28564700  1
+  O  O5  1  0.62715500  0.00322600  0.28564700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 O3 2.473975 1_555
+La0 O0 2.473975 1_444
+La0 O2 2.473975 1_554
+La0 O4 2.473975 1_445
+La0 O1 2.473975 1_454
+La0 O5 2.473975 1_455
+O0 Ti0 1.991275 1_555
+O0 Sb0 2.013823 1_555
+O1 Ti0 1.991271 1_555
+O1 Sb0 2.013821 1_655
+O2 Ti0 1.991273 1_555
+O2 Sb0 2.013819 1_545
+O3 Ti0 1.991275 1_555
+O3 Sb0 2.013823 1_555
+O4 Ti0 1.991273 1_555
+O4 Sb0 2.013819 1_655
+O5 Ti0 1.991271 1_555
+O5 Sb0 2.013821 1_545

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_PaAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28246663
+_cell_length_b   6.28248343
+_cell_length_c   4.53416718
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00008136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaAl3
+_chemical_formula_sum   'Pa2 Al6'
+_cell_volume   154.98488546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.33333300  0.66666600  0.74999800  1
+  Pa  Pa1  1  0.66666600  0.33333200  0.24999800  1
+  Al  Al0  1  0.14664847  0.29329895  0.24999800  1
+  Al  Al1  1  0.70670105  0.85335253  0.24999800  1
+  Al  Al2  1  0.14665047  0.85335253  0.24999800  1
+  Al  Al3  1  0.85335253  0.70670105  0.74999800  1
+  Al  Al4  1  0.29329695  0.14664747  0.74999800  1
+  Al  Al5  1  0.85335153  0.14664747  0.74999800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Al1 2.763952 1_445
+Al0 Al2 2.763962 1_545
+Al0 Al5 2.772386 1_455
+Al0 Al5 2.772386 1_454
+Al0 Al4 2.772398 1_554
+Al0 Al4 2.772398 1_555
+Al0 Pa0 3.044059 1_554
+Al0 Pa0 3.044059 1_555
+Al0 Pa1 3.148770 1_455
+Al0 Pa1 3.148781 1_555
+Al1 Al2 2.763968 1_655
+Al1 Al5 2.772382 1_564
+Al1 Al5 2.772382 1_565
+Al1 Al3 2.772407 1_554
+Al1 Al3 2.772407 1_555
+Al1 Pa0 3.044059 1_555
+Al1 Pa0 3.044059 1_554
+Al1 Pa1 3.148766 1_565
+Al1 Pa1 3.148804 1_555
+Al2 Al4 2.772382 1_564
+Al2 Al4 2.772382 1_565
+Al2 Al3 2.772389 1_455
+Al2 Al3 2.772389 1_454
+Al2 Pa0 3.044066 1_554
+Al2 Pa0 3.044066 1_555
+Al2 Pa1 3.148761 1_565
+Al2 Pa1 3.148794 1_455
+Al3 Al4 2.763943 1_665
+Al3 Al5 2.763959 1_565
+Al3 Pa1 3.044066 1_556
+Al3 Pa1 3.044066 1_555
+Al3 Pa0 3.148765 1_655
+Al3 Pa0 3.148788 1_555
+Al4 Al5 2.763942 1_455
+Al4 Pa1 3.044063 1_556
+Al4 Pa1 3.044063 1_555
+Al4 Pa0 3.148782 1_545
+Al4 Pa0 3.148788 1_555
+Al5 Pa1 3.044070 1_556
+Al5 Pa1 3.044070 1_555
+Al5 Pa0 3.148777 1_545
+Al5 Pa0 3.148778 1_655

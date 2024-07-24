@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ga2TeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14449397
+_cell_length_b   7.14449441
+_cell_length_c   7.17648632
+_cell_angle_alpha   119.85264048
+_cell_angle_beta   119.85264107
+_cell_angle_gamma   90.00000271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2TeS2
+_chemical_formula_sum   'Ga4 Te2 S4'
+_cell_volume   260.17349024
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.88263812  0.16064776  0.32129553  1
+  Ga  Ga1  1  0.41064776  0.18865641  0.82129553  1
+  Ga  Ga2  1  0.43865641  0.16064776  0.32129553  1
+  Ga  Ga3  1  0.41064776  0.63263812  0.82129553  1
+  Te  Te0  1  0.25145073  0.75145073  0.50290146  1
+  Te  Te1  1  0.00145073  0.00145073  0.00290146  1
+  S  S0  1  0.63442737  0.37376144  0.26885474  1
+  S  S1  1  0.14509330  0.38442737  0.76885474  1
+  S  S2  1  0.62376144  0.38442737  0.76885474  1
+  S  S3  1  0.63442737  0.89509330  0.26885474  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 S1 2.297912 1_655
+Ga0 S3 2.347488 1_545
+Ga0 S0 2.347488 1_555
+Ga0 Te1 2.564930 1_655
+Ga1 S0 2.297911 1_556
+Ga1 S2 2.347493 1_555
+Ga1 S1 2.347493 1_555
+Ga1 Te0 2.564924 1_545
+Ga2 S2 2.297911 1_555
+Ga2 S0 2.347493 1_555
+Ga2 S3 2.347493 1_545
+Ga2 Te1 2.564924 1_555
+Ga3 S3 2.297912 1_556
+Ga3 S1 2.347488 1_555
+Ga3 S2 2.347488 1_555
+Ga3 Te0 2.564930 1_555

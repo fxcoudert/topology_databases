@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MgInPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.89745744
+_cell_length_b   10.89745744
+_cell_length_c   10.89745744
+_cell_angle_alpha   125.68949530
+_cell_angle_beta   118.15293489
+_cell_angle_gamma   86.83457550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgInPt2
+_chemical_formula_sum   'Mg1 In1 Pt2'
+_cell_volume   881.88857053
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  In  In0  1  0.00000000  0.50000000  0.50000000  1
+  Pt  Pt0  1  0.00000000  0.24737700  0.24737700  1
+  Pt  Pt1  1  0.00000000  0.75262300  0.75262300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Pt1 2.460725 1_544
+Mg0 Pt0 2.460725 1_555
+In0 Pt0 2.512909 1_555
+In0 Pt1 2.512909 1_555

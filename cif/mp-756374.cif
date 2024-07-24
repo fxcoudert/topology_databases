@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_SrPt3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88251146
+_cell_length_b   5.88249757
+_cell_length_c   5.88312624
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99990046
+_cell_angle_gamma   89.99996026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPt3O4
+_chemical_formula_sum   'Sr2 Pt6 O8'
+_cell_volume   203.57887306
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  -0.00000000  -0.00000000  1
+  Sr  Sr1  1  0.50000000  0.50000000  0.50000000  1
+  Pt  Pt0  1  -0.00000000  0.50000000  0.24999218  1
+  Pt  Pt1  1  0.00000000  0.50000000  0.75000782  1
+  Pt  Pt2  1  0.24999624  -0.00000000  0.50000000  1
+  Pt  Pt3  1  0.50000000  0.25001216  0.00000000  1
+  Pt  Pt4  1  0.50000000  0.74998784  -0.00000000  1
+  Pt  Pt5  1  0.75000376  0.00000000  0.50000000  1
+  O  O0  1  0.24999977  0.25000789  0.24999005  1
+  O  O1  1  0.24999977  0.74999211  0.24999105  1
+  O  O2  1  0.24999877  0.25000789  0.75000895  1
+  O  O3  1  0.24999977  0.74999211  0.75000895  1
+  O  O4  1  0.75000123  0.25000789  0.24999005  1
+  O  O5  1  0.75000023  0.25000789  0.75000995  1
+  O  O6  1  0.75000023  0.74999111  0.24999005  1
+  O  O7  1  0.75000023  0.74999111  0.75000995  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Pt0 2.079745 1_555
+O0 Pt3 2.079848 1_555
+O0 Pt2 2.079962 1_555
+O0 Sr0 2.547283 1_555
+O0 Sr1 2.547299 1_555
+O1 Pt0 2.079746 1_555
+O1 Pt4 2.079852 1_555
+O1 Pt2 2.079958 1_565
+O1 Sr0 2.547285 1_565
+O1 Sr1 2.547294 1_555
+O2 Pt1 2.079741 1_555
+O2 Pt3 2.079860 1_556
+O2 Pt2 2.079958 1_555
+O2 Sr0 2.547280 1_556
+O2 Sr1 2.547296 1_555
+O3 Pt1 2.079746 1_555
+O3 Pt4 2.079856 1_556
+O3 Pt2 2.079958 1_565
+O3 Sr0 2.547282 1_566
+O3 Sr1 2.547291 1_555
+O4 Pt0 2.079742 1_655
+O4 Pt3 2.079856 1_555
+O4 Pt5 2.079962 1_555
+O4 Sr0 2.547276 1_655
+O4 Sr1 2.547298 1_555
+O5 Pt1 2.079746 1_655
+O5 Pt3 2.079848 1_556
+O5 Pt5 2.079962 1_555
+O5 Sr0 2.547282 1_656
+O5 Sr1 2.547298 1_555
+O6 Pt0 2.079741 1_655
+O6 Pt4 2.079852 1_555
+O6 Pt5 2.079966 1_565
+O6 Sr0 2.547284 1_665
+O6 Sr1 2.547292 1_555
+O7 Pt1 2.079741 1_655
+O7 Pt4 2.079848 1_556
+O7 Pt5 2.079966 1_565
+O7 Sr0 2.547287 1_666
+O7 Sr1 2.547295 1_555

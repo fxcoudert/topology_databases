@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Ba3TiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.26214600
+_cell_length_b   10.26197454
+_cell_length_c   4.48080900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00194458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3TiN3
+_chemical_formula_sum   'Ba6 Ti2 N6'
+_cell_volume   408.64639818
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99527700  0.65346900  0.25000000  1
+  Ba  Ba1  1  0.65819100  0.00474100  0.25000000  1
+  Ba  Ba2  1  0.34653100  0.34179400  0.25000000  1
+  Ba  Ba3  1  0.00472300  0.34653100  0.75000000  1
+  Ba  Ba4  1  0.34180900  0.99525900  0.75000000  1
+  Ba  Ba5  1  0.65346900  0.65820600  0.75000000  1
+  Ti  Ti0  1  0.66665600  0.33334200  0.75000000  1
+  Ti  Ti1  1  0.33334400  0.66665800  0.25000000  1
+  N  N0  1  0.85152700  0.51615100  0.75000000  1
+  N  N1  1  0.66461000  0.14849500  0.75000000  1
+  N  N2  1  0.48387200  0.33538900  0.75000000  1
+  N  N3  1  0.14847300  0.48384900  0.25000000  1
+  N  N4  1  0.33539000  0.85150500  0.25000000  1
+  N  N5  1  0.51612800  0.66461100  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 N0 2.665035 1_554
+Ba0 N0 2.665035 1_555
+Ba0 N3 2.870196 1_655
+Ba0 N4 3.036214 1_655
+Ba1 N1 2.665105 1_555
+Ba1 N1 2.665105 1_554
+Ba1 N4 2.869993 1_545
+Ba1 N5 3.036356 1_545
+Ba2 N2 2.665112 1_554
+Ba2 N2 2.665112 1_555
+Ba2 N5 2.870089 1_555
+Ba2 N3 3.036316 1_555
+Ba3 N3 2.665035 1_555
+Ba3 N3 2.665035 1_556
+Ba3 N0 2.870196 1_455
+Ba3 N1 3.036214 1_455
+Ba4 N4 2.665105 1_555
+Ba4 N4 2.665105 1_556
+Ba4 N1 2.869993 1_565
+Ba4 N2 3.036356 1_565
+Ba5 N5 2.665112 1_555
+Ba5 N5 2.665112 1_556
+Ba5 N2 2.870089 1_555
+Ba5 N0 3.036316 1_555
+N0 Ti0 1.886611 1_555
+N1 Ti0 1.886484 1_555
+N2 Ti0 1.886348 1_555
+N3 Ti1 1.886611 1_555
+N4 Ti1 1.886484 1_555
+N5 Ti1 1.886348 1_555

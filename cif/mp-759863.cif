@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na2VO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40643848
+_cell_length_b   5.40643157
+_cell_length_c   5.69011126
+_cell_angle_alpha   81.39473125
+_cell_angle_beta   98.60536480
+_cell_angle_gamma   58.75010621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2VO3
+_chemical_formula_sum   'Na4 V2 O6'
+_cell_volume   135.41198963
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.15927200  0.15927100  0.50000300  1
+  Na  Na1  1  0.84073100  0.84072300  0.50000200  1
+  Na  Na2  1  0.50000000  0.49999700  0.50000300  1
+  Na  Na3  1  0.00000000  0.00000100  0.99999900  1
+  V  V0  1  0.66132700  0.66132700  0.00000000  1
+  V  V1  1  0.33867400  0.33867300  0.00000100  1
+  O  O0  1  0.30365600  0.69634200  0.79640800  1
+  O  O1  1  0.08870200  0.54111400  0.20066600  1
+  O  O2  1  0.45888800  0.91129900  0.20066000  1
+  O  O3  1  0.91129300  0.45889500  0.79933300  1
+  O  O4  1  0.54111200  0.08870700  0.79933300  1
+  O  O5  1  0.69634400  0.30365100  0.20359400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.290072 1_555
+Na0 O1 2.290093 1_555
+Na0 O0 2.456349 1_545
+Na0 O5 2.456363 1_455
+Na0 O3 2.564790 1_455
+Na0 O2 2.564822 1_545
+Na1 O3 2.290034 1_555
+Na1 O2 2.290096 1_555
+Na1 O0 2.456341 1_655
+Na1 O5 2.456348 1_565
+Na1 O1 2.564769 1_655
+Na1 O4 2.564791 1_565
+Na2 O0 2.236203 1_555
+Na2 O5 2.236226 1_555
+Na2 O4 2.476967 1_555
+Na2 O3 2.477005 1_555
+Na2 O1 2.477008 1_555
+Na2 O2 2.477056 1_555
+Na3 O5 2.252615 1_456
+Na3 O0 2.252619 1_545
+Na3 O4 2.332972 1_455
+Na3 O2 2.332973 1_546
+Na3 O1 2.332977 1_546
+Na3 O3 2.332997 1_455
+O0 V1 2.000323 1_556
+O0 V0 2.000338 1_556
+O1 V1 1.905027 1_555
+O1 V0 2.120198 1_455
+O2 V0 1.905001 1_555
+O2 V1 2.120177 1_565
+O3 V0 1.905006 1_556
+O3 V1 2.120213 1_656
+O4 V1 1.905019 1_556
+O4 V0 2.120218 1_546
+O5 V1 2.000317 1_555
+O5 V0 2.000359 1_555

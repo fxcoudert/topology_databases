@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_MgCr2(FeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67652323
+_cell_length_b   5.65385235
+_cell_length_c   6.35667358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   59.15847048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCr2(FeO4)2
+_chemical_formula_sum   'Mg1 Cr2 Fe2 O8'
+_cell_volume   175.16279818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.84256401  0.83157043  0.75000000  1
+  Cr  Cr0  1  0.39169004  0.39301190  0.25000000  1
+  Cr  Cr1  1  0.57276418  0.57077558  0.75000000  1
+  Fe  Fe0  1  0.08129021  0.08499815  0.02449986  1
+  Fe  Fe1  1  0.08129021  0.08499815  0.47550014  1
+  O  O0  1  0.23264953  0.75552374  0.25000000  1
+  O  O1  1  0.21271288  0.78226624  0.75000000  1
+  O  O2  1  0.28238739  0.28559939  0.03628668  1
+  O  O3  1  0.28238739  0.28559939  0.46371332  1
+  O  O4  1  0.68592210  0.68097060  0.54678192  1
+  O  O5  1  0.68592210  0.68097060  0.95321808  1
+  O  O6  1  0.75242462  0.23378620  0.25000000  1
+  O  O7  1  0.77932833  0.20909662  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 1.972821 1_655
+Mg0 O7 1.974651 1_565
+Mg0 O4 1.990140 1_555
+Mg0 O5 1.990140 1_555
+Cr0 O2 1.727906 1_555
+Cr0 O3 1.727906 1_555
+Cr0 O6 1.764497 1_555
+Cr0 O0 1.765962 1_555
+Cr1 O5 1.697005 1_555
+Cr1 O4 1.697005 1_555
+Cr1 O7 1.760099 1_555
+Cr1 O1 1.761041 1_555
+Fe0 O2 1.980540 1_555
+Fe0 O0 2.149863 1_545
+Fe0 O6 2.153412 1_455
+Fe0 O1 2.285079 1_544
+Fe0 O7 2.289536 1_454
+Fe1 O3 1.980540 1_555
+Fe1 O0 2.149863 1_545
+Fe1 O6 2.153412 1_455
+Fe1 O1 2.285079 1_545
+Fe1 O7 2.289536 1_455

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_SrCuSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55246154
+_cell_length_b   4.62532176
+_cell_length_c   9.96209072
+_cell_angle_alpha   103.42345388
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCuSn2
+_chemical_formula_sum   'Sr2 Cu2 Sn4'
+_cell_volume   204.03709377
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.39192590  0.78385281  1
+  Sr  Sr1  1  0.25000000  0.60807410  0.21614719  1
+  Cu  Cu0  1  0.75000000  0.17586020  0.35171940  1
+  Cu  Cu1  1  0.25000000  0.82413980  0.64828060  1
+  Sn  Sn0  1  0.25000000  0.24962574  0.49924949  1
+  Sn  Sn1  1  0.25000000  0.95668231  0.91336462  1
+  Sn  Sn2  1  0.75000000  0.75037426  0.50075051  1
+  Sn  Sn3  1  0.75000000  0.04331769  0.08663538  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Sn3 2.568647 1_555
+Cu0 Sn0 2.687910 1_655
+Cu0 Sn0 2.687910 1_555
+Cu0 Sn2 2.726499 1_555
+Cu0 Sn2 2.726511 1_545
+Cu0 Sr1 3.500771 1_555
+Cu0 Sr1 3.500771 1_655
+Cu0 Sr1 3.500771 1_545
+Cu0 Sr1 3.500771 1_645
+Cu1 Sn1 2.568647 1_555
+Cu1 Sn2 2.687910 1_455
+Cu1 Sn2 2.687910 1_555
+Cu1 Sn0 2.726499 1_555
+Cu1 Sn0 2.726511 1_565
+Cu1 Sr0 3.500771 1_455
+Cu1 Sr0 3.500771 1_555
+Cu1 Sr0 3.500771 1_565
+Cu1 Sr0 3.500771 1_465
+Sn0 Sr0 3.575838 1_455
+Sn0 Sr0 3.575838 1_555
+Sn0 Sr1 3.588004 1_555
+Sn0 Sr1 3.588007 1_545
+Sn1 Sn3 2.828464 1_466
+Sn1 Sn3 2.828464 1_566
+Sn1 Sr0 3.479158 1_565
+Sn1 Sr0 3.479158 1_465
+Sn1 Sr0 3.479162 1_455
+Sn1 Sr0 3.479162 1_555
+Sn1 Sr1 3.735828 1_556
+Sn1 Sr1 3.735832 1_566
+Sn2 Sr1 3.575838 1_555
+Sn2 Sr1 3.575838 1_655
+Sn2 Sr0 3.588004 1_555
+Sn2 Sr0 3.588007 1_565
+Sn3 Sr1 3.479158 1_545
+Sn3 Sr1 3.479158 1_645
+Sn3 Sr1 3.479162 1_555
+Sn3 Sr1 3.479162 1_655
+Sn3 Sr0 3.735828 1_554
+Sn3 Sr0 3.735832 1_544

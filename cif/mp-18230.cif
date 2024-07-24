@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Si(Hg2Se3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63242707
+_cell_length_b   7.63242707
+_cell_length_c   13.18424906
+_cell_angle_alpha   72.71250022
+_cell_angle_beta   72.71250022
+_cell_angle_gamma   59.92178419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si(Hg2Se3)2
+_chemical_formula_sum   'Si2 Hg8 Se12'
+_cell_volume   624.29327887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.67771100  0.14005100  0.39703300  1
+  Si  Si1  1  0.14005100  0.67771100  0.89703300  1
+  Hg  Hg0  1  0.27511000  0.67384200  0.30899800  1
+  Hg  Hg1  1  0.67384200  0.27511000  0.80899800  1
+  Hg  Hg2  1  0.79567000  0.89762000  0.15478900  1
+  Hg  Hg3  1  0.89762000  0.79567000  0.65478900  1
+  Hg  Hg4  1  0.54731100  0.77258300  0.95846000  1
+  Hg  Hg5  1  0.77258300  0.54731100  0.45846000  1
+  Hg  Hg6  1  0.08162300  0.27065400  0.14237600  1
+  Hg  Hg7  1  0.27065400  0.08162300  0.64237600  1
+  Se  Se0  1  0.54279100  0.03071200  0.76796700  1
+  Se  Se1  1  0.03071200  0.54279100  0.26796700  1
+  Se  Se2  1  0.99209000  0.97137800  0.44675100  1
+  Se  Se3  1  0.97137800  0.99209000  0.94675100  1
+  Se  Se4  1  0.97035300  0.48109300  0.94538300  1
+  Se  Se5  1  0.48109300  0.97035300  0.44538300  1
+  Se  Se6  1  0.70780500  0.25090500  0.21338100  1
+  Se  Se7  1  0.25090500  0.70780500  0.71338100  1
+  Se  Se8  1  0.42332700  0.90862200  0.14779600  1
+  Se  Se9  1  0.90862200  0.42332700  0.64779600  1
+  Se  Se10  1  0.47921500  0.42913500  0.47656500  1
+  Se  Se11  1  0.42913500  0.47921500  0.97656500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Se8 2.710590 1_555
+Hg0 Se10 2.733600 1_555
+Hg0 Se1 2.750303 1_555
+Hg0 Se2 2.885174 1_455
+Hg1 Se9 2.710590 1_555
+Hg1 Se11 2.733600 1_555
+Hg1 Se0 2.750303 1_555
+Hg1 Se3 2.885174 1_545
+Hg2 Se1 2.664303 1_655
+Hg2 Se6 2.726663 1_565
+Hg2 Se3 2.729316 1_554
+Hg2 Se8 2.829091 1_555
+Hg3 Se0 2.664303 1_565
+Hg3 Se7 2.726663 1_655
+Hg3 Se2 2.729316 1_555
+Hg3 Se9 2.829091 1_555
+Hg4 Se0 2.689411 1_565
+Hg4 Se8 2.712283 1_556
+Hg4 Se11 2.731832 1_555
+Hg4 Se4 2.846303 1_555
+Hg5 Se1 2.689411 1_655
+Hg5 Se9 2.712283 1_555
+Hg5 Se10 2.731832 1_555
+Hg5 Se5 2.846303 1_555
+Hg6 Se8 2.685521 1_545
+Hg6 Se4 2.740591 1_454
+Hg6 Se6 2.792717 1_455
+Hg6 Se1 2.838944 1_555
+Hg7 Se9 2.685521 1_455
+Hg7 Se5 2.740591 1_545
+Hg7 Se7 2.792717 1_545
+Hg7 Se0 2.838944 1_555
+Se2 Si0 2.276272 1_565
+Se3 Si1 2.276272 1_655
+Se4 Si1 2.285816 1_655
+Se5 Si0 2.285816 1_565
+Se6 Si0 2.297403 1_555
+Se7 Si1 2.297403 1_555
+Se10 Si0 2.311548 1_555
+Se11 Si1 2.311548 1_555

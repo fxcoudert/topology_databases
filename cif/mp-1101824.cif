@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_PrGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51949774
+_cell_length_b   7.25187784
+_cell_length_c   7.71418194
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaPt
+_chemical_formula_sum   'Pr4 Ga4 Pt4'
+_cell_volume   252.83112131
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000000  0.48083040  0.80212756  1
+  Pr  Pr1  1  0.75000000  0.98083040  0.69787244  1
+  Pr  Pr2  1  0.25000000  0.51916960  0.19787244  1
+  Pr  Pr3  1  0.25000000  0.01916960  0.30212756  1
+  Ga  Ga0  1  0.75000000  0.32922546  0.42181325  1
+  Ga  Ga1  1  0.75000000  0.82922546  0.07818675  1
+  Ga  Ga2  1  0.25000000  0.67077454  0.57818675  1
+  Ga  Ga3  1  0.25000000  0.17077454  0.92181325  1
+  Pt  Pt0  1  0.75000000  0.21103264  0.09492018  1
+  Pt  Pt1  1  0.75000000  0.71103264  0.40507982  1
+  Pt  Pt2  1  0.25000000  0.78896736  0.90507982  1
+  Pt  Pt3  1  0.25000000  0.28896736  0.59492018  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Pt0 2.988239 1_556
+Pr0 Pt3 3.097961 1_555
+Pr0 Pt3 3.097961 1_655
+Pr0 Pt2 3.275747 1_655
+Pr0 Pt2 3.275747 1_555
+Pr0 Pt1 3.488300 1_555
+Pr1 Pt1 2.988239 1_555
+Pr1 Pt2 3.097961 1_555
+Pr1 Pt2 3.097961 1_655
+Pr1 Pt3 3.275747 1_565
+Pr1 Pt3 3.275747 1_665
+Pr1 Pt0 3.488300 1_566
+Pr2 Pt2 2.988239 1_554
+Pr2 Pt1 3.097961 1_555
+Pr2 Pt1 3.097961 1_455
+Pr2 Pt0 3.275747 1_555
+Pr2 Pt0 3.275747 1_455
+Pr2 Pt3 3.488300 1_555
+Pr3 Pt3 2.988239 1_555
+Pr3 Pt0 3.097961 1_455
+Pr3 Pt0 3.097961 1_555
+Pr3 Pt1 3.275747 1_445
+Pr3 Pt1 3.275747 1_545
+Pr3 Pt2 3.488300 1_544
+Ga0 Pt3 2.641010 1_655
+Ga0 Pt3 2.641010 1_555
+Ga0 Pt0 2.663398 1_555
+Ga0 Pt1 2.771826 1_555
+Ga0 Pr0 3.133048 1_555
+Ga0 Pr2 3.160406 1_655
+Ga0 Pr2 3.160406 1_555
+Ga0 Pr1 3.304295 1_545
+Ga0 Pr3 3.318825 1_555
+Ga0 Pr3 3.318825 1_655
+Ga1 Pt2 2.641010 1_654
+Ga1 Pt2 2.641010 1_554
+Ga1 Pt1 2.663398 1_555
+Ga1 Pt0 2.771826 1_565
+Ga1 Pr1 3.133048 1_554
+Ga1 Pr3 3.160406 1_665
+Ga1 Pr3 3.160406 1_565
+Ga1 Pr0 3.304295 1_554
+Ga1 Pr2 3.318825 1_655
+Ga1 Pr2 3.318825 1_555
+Ga2 Pt1 2.641010 1_455
+Ga2 Pt1 2.641010 1_555
+Ga2 Pt2 2.663398 1_555
+Ga2 Pt3 2.771826 1_555
+Ga2 Pr2 3.133048 1_555
+Ga2 Pr0 3.160406 1_455
+Ga2 Pr0 3.160406 1_555
+Ga2 Pr3 3.304295 1_565
+Ga2 Pr1 3.318825 1_555
+Ga2 Pr1 3.318825 1_455
+Ga3 Pt0 2.641010 1_556
+Ga3 Pt0 2.641010 1_456
+Ga3 Pt3 2.663398 1_555
+Ga3 Pt2 2.771826 1_545
+Ga3 Pr3 3.133048 1_556
+Ga3 Pr1 3.160406 1_445
+Ga3 Pr1 3.160406 1_545
+Ga3 Pr2 3.304295 1_556
+Ga3 Pr0 3.318825 1_555
+Ga3 Pr0 3.318825 1_455

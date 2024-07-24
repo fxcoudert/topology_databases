@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_InAgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04516528
+_cell_length_b   10.68752241
+_cell_length_c   7.02392535
+_cell_angle_alpha   29.15481971
+_cell_angle_beta   54.99552816
+_cell_angle_gamma   41.03887611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgSe2
+_chemical_formula_sum   'In2 Ag2 Se4'
+_cell_volume   186.22061600
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.12719200  0.49998700  0.75333800  1
+  In  In1  1  0.37753900  0.00086600  0.75227800  1
+  Ag  Ag0  1  0.62301100  0.49608300  0.75970300  1
+  Ag  Ag1  1  0.86821600  0.00231500  0.75457100  1
+  Se  Se0  1  0.13468600  0.00041900  0.23024900  1
+  Se  Se1  1  0.61132000  0.99635800  0.28063400  1
+  Se  Se2  1  0.35738900  0.50458900  0.27234900  1
+  Se  Se3  1  0.88623000  0.49615600  0.23469700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Se2 2.741339 1_555
+In0 Se3 2.747607 1_456
+In0 Se1 2.822177 1_546
+In0 Se0 2.831649 1_565
+In0 Se1 2.867586 1_455
+In0 Se0 2.870385 1_556
+In1 Se1 2.740080 1_545
+In1 Se0 2.747546 1_556
+In1 Se2 2.825872 1_555
+In1 Se3 2.830349 1_546
+In1 Se3 2.858594 1_455
+In1 Se2 2.877370 1_546
+Ag0 Se0 2.839785 1_656
+Ag0 Se1 2.845955 1_555
+Ag0 Se0 2.850268 1_565
+Ag0 Se1 2.855183 1_546
+Ag0 Se2 2.998531 1_556
+Ag0 Se3 3.020124 1_555
+Ag1 Se2 2.839267 1_646
+Ag1 Se3 2.845401 1_555
+Ag1 Se2 2.848011 1_555
+Ag1 Se3 2.858650 1_546
+Ag1 Se1 2.992475 1_546
+Ag1 Se0 3.027559 1_655

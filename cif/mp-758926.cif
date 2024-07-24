@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiFePO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54813815
+_cell_length_b   6.28578863
+_cell_length_c   5.55054423
+_cell_angle_alpha   76.19430402
+_cell_angle_beta   62.65709366
+_cell_angle_gamma   103.80233452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFePO4
+_chemical_formula_sum   'Li2 Fe2 P2 O8'
+_cell_volume   152.77117078
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.43420300  0.25004800  0.43394900  1
+  Li  Li1  1  0.18412300  0.74996900  0.18394400  1
+  Fe  Fe0  1  0.81235600  0.24975200  0.81229300  1
+  Fe  Fe1  1  0.56205400  0.75020600  0.56159000  1
+  P  P0  1  0.12971000  0.25006900  0.12960600  1
+  P  P1  1  0.87955500  0.74994300  0.87962500  1
+  O  O0  1  0.80177100  0.09059100  0.24763600  1
+  O  O1  1  0.31590000  0.10293200  0.13370400  1
+  O  O2  1  0.73673000  0.60326900  0.21296300  1
+  O  O3  1  0.83787100  0.59009000  0.71188900  1
+  O  O4  1  0.13365100  0.39694600  0.31602900  1
+  O  O5  1  0.24778500  0.40972600  0.80195800  1
+  O  O6  1  0.71131200  0.90954500  0.83818600  1
+  O  O7  1  0.21298000  0.89691300  0.73662800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O7 2.069338 1_545
+Li0 O2 2.069348 1_555
+Li0 O4 2.347428 1_555
+Li0 O1 2.348188 1_555
+Li0 O0 2.401157 1_555
+Li0 O5 2.404708 1_555
+Li1 O1 2.068372 1_565
+Li1 O4 2.068448 1_555
+Li1 O2 2.346756 1_455
+Li1 O7 2.347995 1_554
+Li1 O6 2.401914 1_554
+Li1 O3 2.406141 1_455
+Fe0 O6 2.028612 1_545
+Fe0 O3 2.030079 1_555
+Fe0 O4 2.259908 1_655
+Fe0 O1 2.260185 1_556
+Fe0 O0 2.351836 1_556
+Fe0 O5 2.353016 1_655
+Fe1 O0 2.029067 1_565
+Fe1 O5 2.029852 1_555
+Fe1 O2 2.257014 1_555
+Fe1 O7 2.257525 1_555
+Fe1 O6 2.356256 1_555
+Fe1 O3 2.357442 1_555
+O0 P0 1.570289 1_655
+O1 P0 1.546099 1_555
+O2 P1 1.546499 1_554
+O3 P1 1.569495 1_555
+O4 P0 1.546169 1_555
+O5 P0 1.569879 1_556
+O6 P1 1.569900 1_555
+O7 P1 1.546393 1_455

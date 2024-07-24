@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KRuN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.46320186
+_cell_length_b   3.48727436
+_cell_length_c   4.92781722
+_cell_angle_alpha   45.04567693
+_cell_angle_beta   90.04715368
+_cell_angle_gamma   90.03331727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRuN
+_chemical_formula_sum   'K2 Ru2 N2'
+_cell_volume   127.24364928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.45370066  0.99936128  0.05799241  1
+  K  K1  1  0.95370066  0.00063872  0.05735369  1
+  Ru  Ru0  1  0.19847298  0.00140735  0.55745950  1
+  Ru  Ru1  1  0.69847298  0.99859265  0.55886685  1
+  N  N0  1  0.24482636  0.50160320  0.55736167  1
+  N  N1  1  0.74482636  0.49839680  0.05896487  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N0 2.795251 1_555
+K0 N0 2.796421 1_564
+K1 N1 2.795251 1_555
+K1 N1 2.796421 1_545
+N0 Ru0 1.809776 1_565
+N0 Ru0 1.809893 1_555
+N1 Ru1 1.809776 1_545
+N1 Ru1 1.809892 1_554

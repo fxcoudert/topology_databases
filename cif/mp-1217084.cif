@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_TiAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91349625
+_cell_length_b   4.91369059
+_cell_length_c   7.95633100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   61.52037399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlNi
+_chemical_formula_sum   'Ti4 Al4 Ni4'
+_cell_volume   168.84709619
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33328700  0.33324600  0.54379100  1
+  Ti  Ti1  1  0.66408500  0.66405500  0.42322200  1
+  Ti  Ti2  1  0.66408500  0.66405500  0.07677800  1
+  Ti  Ti3  1  0.33328700  0.33324600  0.95620900  1
+  Al  Al0  1  0.99116000  0.99109900  0.48873100  1
+  Al  Al1  1  0.99116000  0.99109900  0.01126900  1
+  Al  Al2  1  0.83738700  0.34958100  0.75000000  1
+  Al  Al3  1  0.34965500  0.83727400  0.75000000  1
+  Ni  Ni0  1  0.83737400  0.83742700  0.75000000  1
+  Ni  Ni1  1  0.17446200  0.65405600  0.25000000  1
+  Ni  Ni2  1  0.65397400  0.17463000  0.25000000  1
+  Ni  Ni3  1  0.17008400  0.17023300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti1 2.953640 1_555
+Ti0 Ti1 3.045799 1_455
+Ti0 Ti1 3.045859 1_545
+Ti0 Ti3 3.281334 1_555
+Ti1 Ti2 2.756423 1_555
+Ti2 Ti3 2.953640 1_554
+Ti2 Ti3 3.045799 1_654
+Ti2 Ti3 3.045859 1_564
+Al0 Ni1 2.395665 1_655
+Al0 Ni2 2.396045 1_565
+Al0 Ni3 2.427645 1_665
+Al0 Ni0 2.450809 1_555
+Al0 Al3 2.593354 1_655
+Al0 Al2 2.593367 1_565
+Al0 Ti1 2.810654 1_555
+Al0 Ti0 2.878258 1_565
+Al0 Ti0 2.878275 1_655
+Al0 Ti0 2.922251 1_665
+Al0 Ti1 2.952817 1_655
+Al0 Ti1 2.953062 1_565
+Al1 Ni1 2.395665 1_655
+Al1 Ni2 2.396045 1_565
+Al1 Ni3 2.427645 1_665
+Al1 Ni0 2.450809 1_554
+Al1 Al3 2.593354 1_654
+Al1 Al2 2.593367 1_564
+Al1 Ti2 2.810654 1_555
+Al1 Ti3 2.878258 1_564
+Al1 Ti3 2.878275 1_654
+Al1 Ti3 2.922251 1_664
+Al1 Ti2 2.952817 1_655
+Al1 Ti2 2.953062 1_565
+Al2 Ni0 2.397094 1_555
+Al2 Al3 2.451279 1_555
+Al2 Ni0 2.516597 1_545
+Al2 Al3 2.574795 1_645
+Al2 Ti0 2.906673 1_655
+Al2 Ti3 2.906673 1_655
+Al2 Ti2 2.935594 1_556
+Al2 Ti1 2.935594 1_555
+Al2 Ti0 3.003803 1_555
+Al2 Ti3 3.003803 1_555
+Al3 Ni0 2.396764 1_555
+Al3 Ni0 2.516732 1_455
+Al3 Ti0 2.906985 1_565
+Al3 Ti3 2.906985 1_565
+Al3 Ti1 2.935472 1_555
+Al3 Ti2 2.935472 1_556
+Al3 Ti3 3.003656 1_555
+Al3 Ti0 3.003656 1_555
+Ni0 Ti1 2.983660 1_555
+Ni0 Ti2 2.983660 1_556
+Ni0 Ti0 3.001194 1_565
+Ni0 Ti3 3.001194 1_565
+Ni0 Ti3 3.001593 1_655
+Ni0 Ti0 3.001593 1_655
+Ni1 Ni3 2.387689 1_555
+Ni1 Ni2 2.409847 1_555
+Ni1 Ni3 2.526147 1_565
+Ni1 Ni2 2.616227 1_465
+Ni1 Ti3 2.717464 1_554
+Ni1 Ti0 2.717464 1_555
+Ni1 Ti1 2.793258 1_555
+Ni1 Ti2 2.793258 1_555
+Ni1 Ti2 2.841323 1_455
+Ni1 Ti1 2.841323 1_455
+Ni2 Ni3 2.387970 1_555
+Ni2 Ni3 2.525673 1_655
+Ni2 Ti0 2.717158 1_555
+Ni2 Ti3 2.717158 1_554
+Ni2 Ti2 2.792730 1_555
+Ni2 Ti1 2.792730 1_555
+Ni2 Ti1 2.842039 1_545
+Ni2 Ti2 2.842039 1_545
+Ni3 Ti0 2.713135 1_555
+Ni3 Ti3 2.713135 1_554
+Ni3 Ti1 2.866216 1_455
+Ni3 Ti2 2.866216 1_455
+Ni3 Ti1 2.867009 1_545
+Ni3 Ti2 2.867009 1_545

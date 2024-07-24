@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Y2MgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51915550
+_cell_length_b   6.51915550
+_cell_length_c   12.84461309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.26212569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2MgS4
+_chemical_formula_sum   'Y4 Mg2 S8'
+_cell_volume   303.18317051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.38193583  0.61806417  0.78458426  1
+  Y  Y1  1  0.61806417  0.38193583  0.28458426  1
+  Y  Y2  1  0.13780492  0.86219508  0.58257170  1
+  Y  Y3  1  0.86219508  0.13780492  0.08257170  1
+  Mg  Mg0  1  0.12625834  0.87374166  0.94613424  1
+  Mg  Mg1  1  0.87374166  0.12625834  0.44613424  1
+  S  S0  1  0.78932525  0.21067475  0.63506961  1
+  S  S1  1  0.21067475  0.78932525  0.13506961  1
+  S  S2  1  0.48815822  0.51184178  0.99586635  1
+  S  S3  1  0.51184178  0.48815822  0.49586635  1
+  S  S4  1  0.76147395  0.23852605  0.89574294  1
+  S  S5  1  0.23852605  0.76147395  0.39574294  1
+  S  S6  1  0.03701243  0.96298757  0.76802990  1
+  S  S7  1  0.96298757  0.03701243  0.26802990  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S6 2.544302 1_555
+Mg0 S4 2.616113 1_455
+Mg0 S4 2.616113 1_565
+Mg0 S2 2.637404 1_455
+Mg0 S2 2.637404 1_565
+Mg0 S1 2.645521 1_556
+Mg1 S7 2.544302 1_555
+Mg1 S5 2.616113 1_545
+Mg1 S5 2.616113 1_655
+Mg1 S3 2.637404 1_545
+Mg1 S3 2.637404 1_655
+Mg1 S0 2.645521 1_555
+S0 Y2 2.758197 1_655
+S0 Y2 2.758197 1_545
+S0 Y0 2.932938 1_545
+S0 Y0 2.932938 1_655
+S1 Y3 2.758197 1_565
+S1 Y3 2.758197 1_455
+S1 Y1 2.932938 1_455
+S1 Y1 2.932938 1_565
+S2 Y3 2.699854 1_566
+S2 Y3 2.699854 1_456
+S2 Y0 3.020183 1_555
+S3 Y2 2.699854 1_655
+S3 Y2 2.699854 1_545
+S3 Y1 3.020183 1_555
+S4 Y3 2.708898 1_556
+S4 Y0 2.806497 1_545
+S4 Y0 2.806497 1_655
+S5 Y2 2.708898 1_555
+S5 Y1 2.806497 1_455
+S5 Y1 2.806497 1_565
+S6 Y2 2.693731 1_555
+S6 Y0 2.714389 1_565
+S6 Y0 2.714389 1_455
+S7 Y3 2.693731 1_555
+S7 Y1 2.714389 1_545
+S7 Y1 2.714389 1_655

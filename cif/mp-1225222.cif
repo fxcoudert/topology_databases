@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Er(CuS)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62045698
+_cell_length_b   6.62045698
+_cell_length_c   6.30373684
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(CuS)3
+_chemical_formula_sum   'Er2 Cu6 S6'
+_cell_volume   239.27902828
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.33333300  0.66666700  0.50000000  1
+  Er  Er1  1  0.66666700  0.33333300  0.50000000  1
+  Cu  Cu0  1  1.00000000  0.34212664  0.86811373  1
+  Cu  Cu1  1  0.34212664  1.00000000  0.86811373  1
+  Cu  Cu2  1  0.65787336  0.65787336  0.86811373  1
+  Cu  Cu3  1  0.00000000  0.65787336  0.13188627  1
+  Cu  Cu4  1  0.65787336  0.00000000  0.13188627  1
+  Cu  Cu5  1  0.34212664  0.34212664  0.13188627  1
+  S  S0  1  0.32982102  0.32982102  0.74888009  1
+  S  S1  1  0.00000000  0.67017898  0.74888009  1
+  S  S2  1  0.67017898  0.00000000  0.74888009  1
+  S  S3  1  0.67017898  0.67017898  0.25111991  1
+  S  S4  1  1.00000000  0.32982102  0.25111991  1
+  S  S5  1  0.32982102  1.00000000  0.25111991  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 S5 2.717215 1_555
+Er0 S1 2.717215 1_555
+Er0 S4 2.717218 1_455
+Er0 S2 2.717218 1_565
+Er0 S3 2.717221 1_555
+Er0 S0 2.717221 1_555
+Er1 S4 2.717215 1_555
+Er1 S2 2.717215 1_555
+Er1 S1 2.717218 1_655
+Er1 S5 2.717218 1_545
+Er1 S3 2.717221 1_555
+Er1 S0 2.717221 1_555
+Cu0 S1 2.298236 1_655
+Cu0 S2 2.348919 1_555
+Cu0 S0 2.348919 1_655
+Cu0 S4 2.415744 1_556
+Cu1 S2 2.298236 1_565
+Cu1 S1 2.348919 1_555
+Cu1 S0 2.348919 1_565
+Cu1 S5 2.415744 1_556
+Cu2 S0 2.298236 1_555
+Cu2 S1 2.348919 1_655
+Cu2 S2 2.348919 1_565
+Cu2 S3 2.415744 1_556
+Cu3 S4 2.298236 1_455
+Cu3 S5 2.348919 1_555
+Cu3 S3 2.348919 1_455
+Cu3 S1 2.415744 1_554
+Cu4 S5 2.298236 1_545
+Cu4 S4 2.348919 1_555
+Cu4 S3 2.348919 1_545
+Cu4 S2 2.415744 1_554
+Cu5 S3 2.298236 1_555
+Cu5 S4 2.348919 1_455
+Cu5 S5 2.348919 1_545
+Cu5 S0 2.415744 1_554

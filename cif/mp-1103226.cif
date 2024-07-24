@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_TbS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91725637
+_cell_length_b   7.87084882
+_cell_length_c   7.90774343
+_cell_angle_alpha   89.75605684
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbS2
+_chemical_formula_sum   'Tb4 S8'
+_cell_volume   243.81038484
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.28912118  0.37098431  0.27531965  1
+  Tb  Tb1  1  0.78912118  0.12901569  0.72468035  1
+  Tb  Tb2  1  0.71087882  0.62901569  0.72468035  1
+  Tb  Tb3  1  0.21087882  0.87098431  0.27531965  1
+  S  S0  1  0.26178080  0.37431468  0.63160971  1
+  S  S1  1  0.76178080  0.12568532  0.36839029  1
+  S  S2  1  0.73821920  0.62568532  0.36839029  1
+  S  S3  1  0.23821920  0.87431468  0.63160971  1
+  S  S4  1  0.84107637  0.39000184  0.00363605  1
+  S  S5  1  0.34107637  0.10999816  0.99636395  1
+  S  S6  1  0.15892363  0.60999816  0.99636395  1
+  S  S7  1  0.65892363  0.89000184  0.00363605  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+S0 Tb2 2.769115 1_555
+S0 Tb1 2.772250 1_455
+S0 Tb0 2.819719 1_555
+S0 Tb1 2.919665 1_555
+S0 Tb2 3.038120 1_455
+S1 Tb3 2.769115 1_645
+S1 Tb0 2.772250 1_555
+S1 Tb1 2.819719 1_555
+S1 Tb0 2.919665 1_655
+S1 Tb3 3.038120 1_545
+S2 Tb0 2.769115 1_555
+S2 Tb3 2.772250 1_655
+S2 Tb2 2.819719 1_555
+S2 Tb3 2.919665 1_555
+S2 Tb0 3.038120 1_655
+S3 Tb1 2.769115 1_465
+S3 Tb2 2.772250 1_555
+S3 Tb3 2.819719 1_555
+S3 Tb2 2.919665 1_455
+S3 Tb1 3.038120 1_565
+S4 S6 2.133307 1_654
+S4 Tb0 2.777716 1_655
+S4 Tb2 2.937668 1_554
+S4 Tb1 3.027493 1_554
+S4 Tb0 3.051262 1_555
+S5 S7 2.133307 1_546
+S5 Tb1 2.777716 1_555
+S5 Tb3 2.937668 1_546
+S5 Tb0 3.027493 1_556
+S5 Tb1 3.051262 1_455
+S6 Tb2 2.777716 1_455
+S6 Tb0 2.937668 1_556
+S6 Tb3 3.027493 1_556
+S6 Tb2 3.051262 1_555
+S7 Tb3 2.777716 1_555
+S7 Tb1 2.937668 1_564
+S7 Tb2 3.027493 1_554
+S7 Tb3 3.051262 1_655

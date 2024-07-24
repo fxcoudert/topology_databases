@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_H2PbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50524300
+_cell_length_b   7.54860100
+_cell_length_c   9.87045100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2PbO2
+_chemical_formula_sum   'H8 Pb4 O8'
+_cell_volume   335.67707925
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.25000000  0.22746000  0.96719300  1
+  H  H1  1  0.25000000  0.27254000  0.46719300  1
+  H  H2  1  0.75000000  0.77254000  0.03280700  1
+  H  H3  1  0.75000000  0.72746000  0.53280700  1
+  H  H4  1  0.25000000  0.07592100  0.70253000  1
+  H  H5  1  0.25000000  0.42407900  0.20253000  1
+  H  H6  1  0.75000000  0.92407900  0.29747000  1
+  H  H7  1  0.75000000  0.57592100  0.79747000  1
+  Pb  Pb0  1  0.25000000  0.41110500  0.72487500  1
+  Pb  Pb1  1  0.25000000  0.08889500  0.22487500  1
+  Pb  Pb2  1  0.75000000  0.58889500  0.27512500  1
+  Pb  Pb3  1  0.75000000  0.91110500  0.77512500  1
+  O  O0  1  0.25000000  0.28026600  0.05791600  1
+  O  O1  1  0.25000000  0.21973400  0.55791600  1
+  O  O2  1  0.75000000  0.71973400  0.94208400  1
+  O  O3  1  0.75000000  0.78026600  0.44208400  1
+  O  O4  1  0.25000000  0.06298300  0.80258200  1
+  O  O5  1  0.25000000  0.43701700  0.30258200  1
+  O  O6  1  0.75000000  0.93701700  0.19741800  1
+  O  O7  1  0.75000000  0.56298300  0.69741800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O0 0.980189 1_556
+H1 O1 0.980189 1_555
+H2 O2 0.980189 1_554
+H3 O3 0.980189 1_555
+H4 O4 0.992376 1_555
+H5 O5 0.992376 1_555
+H6 O6 0.992376 1_555
+H7 O7 0.992376 1_555
+O0 Pb1 2.191482 1_555
+O1 Pb0 2.191482 1_555
+O2 Pb3 2.191482 1_555
+O3 Pb2 2.191482 1_555
+O4 Pb3 2.542073 1_445
+O4 Pb3 2.542073 1_545
+O5 Pb2 2.542073 1_555
+O5 Pb2 2.542073 1_455
+O6 Pb1 2.542073 1_665
+O6 Pb1 2.542073 1_565
+O7 Pb0 2.542073 1_555
+O7 Pb0 2.542073 1_655

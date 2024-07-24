@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_In2Co3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49192816
+_cell_length_b   5.49205239
+_cell_length_c   5.49191235
+_cell_angle_alpha   57.41797457
+_cell_angle_beta   57.41981647
+_cell_angle_gamma   57.41775798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Co3S2
+_chemical_formula_sum   'In2 Co3 S2'
+_cell_volume   110.17274430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000000  0.50000000  0.50000000  1
+  In  In1  1  0.00000000  -0.00000000  0.00000000  1
+  Co  Co0  1  0.00000000  -0.00000000  0.50000000  1
+  Co  Co1  1  0.50000000  -0.00000000  0.00000000  1
+  Co  Co2  1  0.00000000  0.50000000  0.00000000  1
+  S  S0  1  0.72228255  0.72229676  0.72228486  1
+  S  S1  1  0.27771745  0.27770324  0.27771514  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 S0 3.047350 1_555
+In0 S1 3.047350 1_555
+In1 S0 3.140233 1_544
+In1 S1 3.140233 1_455
+In1 S0 3.140243 1_445
+In1 S1 3.140243 1_554
+In1 S1 3.140288 1_545
+In1 S0 3.140288 1_454
+Co0 S1 2.153488 1_555
+Co0 S0 2.153488 1_445
+Co0 In0 2.638129 1_545
+Co0 In0 2.638129 1_455
+Co0 In1 2.745956 1_556
+Co0 In1 2.745956 1_555
+Co1 S0 2.153471 1_544
+Co1 S1 2.153471 1_555
+Co1 In0 2.638135 1_545
+Co1 In0 2.638135 1_554
+Co1 In1 2.745964 1_655
+Co1 In1 2.745964 1_555
+Co2 S1 2.153431 1_555
+Co2 S0 2.153431 1_454
+Co2 In0 2.638182 1_455
+Co2 In0 2.638182 1_554
+Co2 In1 2.746026 1_565
+Co2 In1 2.746026 1_555

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsYbZnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15577926
+_cell_length_b   9.15577926
+_cell_length_c   11.83300600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   152.69240561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsYbZnTe3
+_chemical_formula_sum   'Cs2 Yb2 Zn2 Te6'
+_cell_volume   455.06999255
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25627500  0.74372500  0.25000000  1
+  Cs  Cs1  1  0.74372500  0.25627500  0.75000000  1
+  Yb  Yb0  1  0.00000000  0.00000000  0.00000000  1
+  Yb  Yb1  1  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn0  1  0.53774900  0.46225100  0.25000000  1
+  Zn  Zn1  1  0.46225100  0.53774900  0.75000000  1
+  Te  Te0  1  0.62130800  0.37869200  0.06294900  1
+  Te  Te1  1  0.37869200  0.62130800  0.93705100  1
+  Te  Te2  1  0.37869200  0.62130800  0.56294900  1
+  Te  Te3  1  0.62130800  0.37869200  0.43705100  1
+  Te  Te4  1  0.94265900  0.05734100  0.25000000  1
+  Te  Te5  1  0.05734100  0.94265900  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Te0 3.916355 1_565
+Cs0 Te3 3.916355 1_565
+Cs0 Te0 3.916355 1_455
+Cs0 Te3 3.916355 1_455
+Cs0 Te4 3.958590 1_455
+Cs0 Te4 3.958590 1_565
+Cs0 Te2 4.296292 1_555
+Cs0 Te1 4.296292 1_554
+Cs1 Te2 3.916355 1_545
+Cs1 Te1 3.916355 1_545
+Cs1 Te2 3.916355 1_655
+Cs1 Te1 3.916355 1_655
+Cs1 Te5 3.958590 1_655
+Cs1 Te5 3.958590 1_545
+Cs1 Te3 4.296292 1_555
+Cs1 Te0 4.296292 1_556
+Te0 Zn0 2.666415 1_555
+Te0 Yb0 3.144089 1_555
+Te0 Yb0 3.144089 1_665
+Te1 Zn1 2.666415 1_555
+Te1 Yb0 3.144089 1_666
+Te1 Yb0 3.144089 1_556
+Te2 Zn1 2.666415 1_555
+Te2 Yb1 3.144089 1_665
+Te2 Yb1 3.144089 1_555
+Te3 Zn0 2.666415 1_555
+Te3 Yb1 3.144089 1_555
+Te3 Yb1 3.144089 1_665
+Te4 Zn0 2.744823 1_545
+Te4 Zn0 2.744823 1_655
+Te4 Yb0 3.129269 1_655
+Te4 Yb1 3.129269 1_655
+Te5 Zn1 2.744823 1_565
+Te5 Zn1 2.744823 1_455
+Te5 Yb0 3.129269 1_566
+Te5 Yb1 3.129269 1_565

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_KPd2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13578735
+_cell_length_b   6.13578735
+_cell_length_c   7.06898751
+_cell_angle_alpha   64.27874005
+_cell_angle_beta   64.27874005
+_cell_angle_gamma   60.00000976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPd2O3
+_chemical_formula_sum   'K2 Pd4 O6'
+_cell_volume   199.44843140
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.17047414  0.17047414  0.48857858  1
+  K  K1  1  0.82952586  0.82952586  0.51142142  1
+  Pd  Pd0  1  0.50000000  -0.00000000  -0.00000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  -0.00000000  1
+  Pd  Pd2  1  0.50000000  0.50000000  -0.00000000  1
+  Pd  Pd3  1  0.00000000  -0.00000000  -0.00000000  1
+  O  O0  1  0.61182690  0.11210942  0.16395526  1
+  O  O1  1  0.11210942  0.11210942  0.16395526  1
+  O  O2  1  0.11210942  0.61182690  0.16395526  1
+  O  O3  1  0.38817310  0.88789058  0.83604474  1
+  O  O4  1  0.88789058  0.88789058  0.83604474  1
+  O  O5  1  0.88789058  0.38817310  0.83604474  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O2 2.660309 1_555
+K0 O0 2.660309 1_555
+K0 O1 2.660309 1_555
+K0 O5 2.767460 1_455
+K0 O3 2.767460 1_545
+K0 O4 2.767466 1_445
+K1 O3 2.660309 1_555
+K1 O5 2.660309 1_555
+K1 O4 2.660309 1_555
+K1 O0 2.767460 1_565
+K1 O2 2.767460 1_655
+K1 O1 2.767466 1_665
+O0 Pd2 2.035063 1_555
+O0 Pd0 2.035067 1_555
+O0 Pd3 2.036369 1_655
+O1 Pd0 2.035063 1_555
+O1 Pd1 2.035063 1_555
+O1 Pd3 2.036373 1_555
+O2 Pd2 2.035063 1_555
+O2 Pd1 2.035067 1_555
+O2 Pd3 2.036369 1_565
+O3 Pd2 2.035063 1_556
+O3 Pd0 2.035067 1_566
+O3 Pd3 2.036369 1_566
+O4 Pd0 2.035063 1_566
+O4 Pd1 2.035063 1_656
+O4 Pd3 2.036373 1_666
+O5 Pd2 2.035063 1_556
+O5 Pd1 2.035067 1_656
+O5 Pd3 2.036369 1_656

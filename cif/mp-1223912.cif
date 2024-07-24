@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_InGaAg2(TeSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30548315
+_cell_length_b   6.35333702
+_cell_length_c   7.54030158
+_cell_angle_alpha   65.05294423
+_cell_angle_beta   65.25306389
+_cell_angle_gamma   89.93305013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaAg2(TeSe)2
+_chemical_formula_sum   'In1 Ga1 Ag2 Te2 Se2'
+_cell_volume   243.02675463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50917800  0.50917800  0.98164300  1
+  Ga  Ga0  1  0.24063400  0.74063400  0.51873100  1
+  Ag  Ag0  1  0.74573600  0.24573600  0.50852800  1
+  Ag  Ag1  1  0.00494100  0.00494100  0.99011900  1
+  Te  Te0  1  0.12586400  0.10731600  0.26156500  1
+  Te  Te1  1  0.61257100  0.63111900  0.26156500  1
+  Se  Se0  1  0.36720200  0.86191200  0.73892400  1
+  Se  Se1  1  0.89387400  0.39916400  0.73892400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Se0 2.660902 1_555
+In0 Se1 2.660902 1_555
+In0 Te0 2.830705 1_556
+In0 Te1 2.830713 1_556
+Ga0 Se1 2.485403 1_455
+Ga0 Se0 2.485411 1_555
+Ga0 Te1 2.659197 1_555
+Ga0 Te0 2.659197 1_565
+Ag0 Te0 2.761490 1_655
+Ag0 Te1 2.761490 1_555
+Ag0 Se0 2.762245 1_545
+Ag0 Se1 2.762246 1_555
+Ag1 Se1 2.730536 1_455
+Ag1 Se0 2.730536 1_545
+Ag1 Te0 2.761252 1_556
+Ag1 Te1 2.761259 1_446

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_KLi2(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52851900
+_cell_length_b   5.67772200
+_cell_length_c   7.36700936
+_cell_angle_alpha   83.62680897
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2(HO)3
+_chemical_formula_sum   'K2 Li4 H6 O6'
+_cell_volume   229.81685143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.76706300  0.48695000  1
+  K  K1  1  0.75000000  0.23293700  0.51305000  1
+  Li  Li0  1  0.54935500  0.60904200  0.84757300  1
+  Li  Li1  1  0.95064500  0.60904200  0.84757300  1
+  Li  Li2  1  0.45064500  0.39095800  0.15242700  1
+  Li  Li3  1  0.04935500  0.39095800  0.15242700  1
+  H  H0  1  0.25000000  0.21360900  0.82807800  1
+  H  H1  1  0.75000000  0.78639100  0.17192200  1
+  H  H2  1  0.25000000  0.09002500  0.80099800  1
+  H  H3  1  0.75000000  0.90997500  0.19900200  1
+  H  H4  1  0.75000000  0.23016300  0.98441300  1
+  H  H5  1  0.25000000  0.76983700  0.01558700  1
+  O  O0  1  0.75000000  0.85469800  0.74402200  1
+  O  O1  1  0.25000000  0.14530200  0.25597800  1
+  O  O2  1  0.75000000  0.64605700  0.62775800  1
+  O  O3  1  0.75000000  0.38859500  0.02340000  1
+  O  O4  1  0.25000000  0.35394300  0.37224200  1
+  O  O5  1  0.25000000  0.61140500  0.97660000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O4 2.579906 1_555
+K0 O1 2.587663 1_565
+K0 O2 3.005161 1_555
+K0 O2 3.005161 1_455
+K1 O2 2.579906 1_555
+K1 O0 2.587663 1_545
+K1 O4 3.005161 1_655
+K1 O4 3.005161 1_555
+Li0 O0 1.876590 1_555
+Li0 O5 1.909328 1_555
+Li0 O2 1.954861 1_555
+Li0 O3 2.028544 1_556
+Li1 O0 1.876590 1_555
+Li1 O5 1.909328 1_655
+Li1 O2 1.954861 1_555
+Li1 O3 2.028544 1_556
+Li2 O1 1.876590 1_555
+Li2 O3 1.909328 1_555
+Li2 O4 1.954861 1_555
+Li2 O5 2.028544 1_554
+Li3 O1 1.876590 1_555
+Li3 O3 1.909328 1_455
+Li3 O4 1.954861 1_555
+Li3 O5 2.028544 1_554
+H0 H2 0.750484 1_555
+H1 H3 0.750484 1_555
+H4 O3 0.974172 1_556
+H5 O5 0.974172 1_554
+O0 O2 1.536935 1_555
+O1 O4 1.536935 1_555

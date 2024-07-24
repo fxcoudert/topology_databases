@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Cu3PSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37096518
+_cell_length_b   6.66590831
+_cell_length_c   7.67275642
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3PSe4
+_chemical_formula_sum   'Cu6 P2 Se8'
+_cell_volume   325.84868926
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00919585  0.82367069  0.25379302  1
+  Cu  Cu1  1  0.50919585  0.17632931  0.24620698  1
+  Cu  Cu2  1  0.50919585  0.17632931  0.75379302  1
+  Cu  Cu3  1  0.00919585  0.82367069  0.74620698  1
+  Cu  Cu4  1  0.99715447  0.34610941  -0.00000000  1
+  Cu  Cu5  1  0.49715447  0.65389059  0.50000000  1
+  P  P0  1  0.50023908  0.67220953  -0.00000000  1
+  P  P1  1  0.00023908  0.32779047  0.50000000  1
+  Se  Se0  1  0.35659910  0.32096014  0.50000000  1
+  Se  Se1  1  0.85659910  0.67903986  -0.00000000  1
+  Se  Se2  1  0.87534067  0.64513157  0.50000000  1
+  Se  Se3  1  0.37534067  0.35486843  -0.00000000  1
+  Se  Se4  1  0.38277649  0.83604601  0.24230346  1
+  Se  Se5  1  0.88277649  0.16395399  0.25769654  1
+  Se  Se6  1  0.88277649  0.16395399  0.74230346  1
+  Se  Se7  1  0.38277649  0.83604601  0.75769654  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Se1 2.380457 1_455
+Cu0 Se4 2.383130 1_555
+Cu0 Se2 2.390040 1_455
+Cu0 Se5 2.407231 1_465
+Cu1 Se0 2.380457 1_555
+Cu1 Se5 2.383130 1_555
+Cu1 Se3 2.390040 1_555
+Cu1 Se4 2.407231 1_545
+Cu2 Se0 2.380457 1_555
+Cu2 Se6 2.383130 1_555
+Cu2 Se3 2.390040 1_556
+Cu2 Se7 2.407231 1_545
+Cu3 Se1 2.380457 1_456
+Cu3 Se7 2.383130 1_555
+Cu3 Se2 2.390040 1_455
+Cu3 Se6 2.407231 1_465
+Cu4 Se1 2.393135 1_555
+Cu4 Se3 2.410118 1_655
+Cu4 Se5 2.432046 1_555
+Cu4 Se6 2.432046 1_554
+Cu5 Se0 2.393135 1_555
+Cu5 Se2 2.410118 1_555
+Cu5 Se4 2.432046 1_555
+Cu5 Se7 2.432046 1_555
+P0 Se3 2.260078 1_555
+P0 Se1 2.270814 1_555
+P0 Se7 2.282353 1_554
+P0 Se4 2.282353 1_555
+P1 Se2 2.260078 1_455
+P1 Se0 2.270814 1_555
+P1 Se5 2.282353 1_455
+P1 Se6 2.282353 1_455

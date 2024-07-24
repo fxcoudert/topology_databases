@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_ErMgAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49516278
+_cell_length_b   7.49516278
+_cell_length_c   4.20257105
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMgAg
+_chemical_formula_sum   'Er3 Mg3 Ag3'
+_cell_volume   204.45975920
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.41409232  0.41409232  0.50000000  1
+  Er  Er1  1  0.58590768  0.00000000  0.50000000  1
+  Er  Er2  1  0.00000000  0.58590768  0.50000000  1
+  Mg  Mg0  1  0.75694131  0.75694131  0.00000000  1
+  Mg  Mg1  1  0.24305869  1.00000000  0.00000000  1
+  Mg  Mg2  1  1.00000000  0.24305869  -0.00000000  1
+  Ag  Ag0  1  0.66666700  0.33333300  0.00000000  1
+  Ag  Ag1  1  0.33333300  0.66666700  -0.00000000  1
+  Ag  Ag2  1  -0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 Mg2 2.896585 1_555
+Ag0 Mg1 2.896590 1_545
+Ag0 Mg0 2.896592 1_555
+Ag0 Er1 3.084062 1_555
+Ag0 Er1 3.084062 1_554
+Ag0 Er2 3.084064 1_654
+Ag0 Er2 3.084064 1_655
+Ag0 Er0 3.084067 1_555
+Ag0 Er0 3.084067 1_554
+Ag1 Mg1 2.896585 1_555
+Ag1 Mg2 2.896590 1_455
+Ag1 Mg0 2.896592 1_555
+Ag1 Er2 3.084062 1_554
+Ag1 Er2 3.084062 1_555
+Ag1 Er1 3.084064 1_565
+Ag1 Er1 3.084064 1_564
+Ag1 Er0 3.084067 1_555
+Ag1 Er0 3.084067 1_554
+Ag2 Mg2 2.781048 1_455
+Ag2 Mg1 2.781048 1_545
+Ag2 Mg1 2.781048 1_546
+Ag2 Mg2 2.781048 1_456
+Ag2 Mg0 2.781048 1_446
+Ag2 Mg0 2.781048 1_445
+Ag2 Er2 3.103689 1_545
+Ag2 Er1 3.103689 1_455
+Ag2 Er0 3.103689 1_555

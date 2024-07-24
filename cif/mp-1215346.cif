@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrAlCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14782924
+_cell_length_b   5.14863872
+_cell_length_c   8.60391600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.34999798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlCr
+_chemical_formula_sum   'Zr4 Al4 Cr4'
+_cell_volume   198.18201573
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33487100  0.33472400  0.55951600  1
+  Zr  Zr1  1  0.66980500  0.66981900  0.42864800  1
+  Zr  Zr2  1  0.66980500  0.66981900  0.07135200  1
+  Zr  Zr3  1  0.33487100  0.33472400  0.94048400  1
+  Al  Al0  1  0.99459800  0.99489400  0.49000700  1
+  Al  Al1  1  0.99459800  0.99489400  0.00999300  1
+  Al  Al2  1  0.83362700  0.34160700  0.75000000  1
+  Al  Al3  1  0.34159900  0.83362500  0.75000000  1
+  Cr  Cr0  1  0.83320700  0.83332900  0.75000000  1
+  Cr  Cr1  1  0.17753100  0.63977600  0.25000000  1
+  Cr  Cr2  1  0.63985800  0.17736900  0.25000000  1
+  Cr  Cr3  1  0.17563000  0.17542000  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.181205 1_545
+Zr0 Zr1 3.181450 1_455
+Zr0 Zr1 3.187540 1_555
+Zr0 Zr3 3.277817 1_555
+Zr1 Zr2 3.074145 1_555
+Zr2 Zr3 3.181205 1_564
+Zr2 Zr3 3.181450 1_654
+Zr2 Zr3 3.187540 1_554
+Al0 Cr2 2.604650 1_565
+Al0 Cr1 2.605849 1_655
+Al0 Cr3 2.617940 1_665
+Al0 Cr0 2.658941 1_555
+Al0 Al2 2.722807 1_565
+Al0 Al3 2.723381 1_655
+Al0 Zr1 2.940101 1_555
+Al0 Zr0 3.012265 1_565
+Al0 Zr0 3.014676 1_655
+Al0 Zr1 3.066107 1_565
+Al0 Zr1 3.066862 1_655
+Al0 Zr0 3.085395 1_665
+Al1 Cr2 2.604650 1_565
+Al1 Cr1 2.605849 1_655
+Al1 Cr3 2.617940 1_665
+Al1 Cr0 2.658941 1_554
+Al1 Al2 2.722807 1_564
+Al1 Al3 2.723381 1_654
+Al1 Zr2 2.940101 1_555
+Al1 Zr3 3.012265 1_564
+Al1 Zr3 3.014676 1_654
+Al1 Zr2 3.066107 1_565
+Al1 Zr2 3.066862 1_655
+Al1 Zr3 3.085395 1_664
+Al2 Cr0 2.530630 1_555
+Al2 Al3 2.546438 1_555
+Al2 Cr0 2.618010 1_545
+Al2 Al3 2.629007 1_645
+Al2 Zr0 3.042178 1_655
+Al2 Zr3 3.042178 1_655
+Al2 Zr3 3.060949 1_555
+Al2 Zr0 3.060949 1_555
+Al2 Zr1 3.130716 1_555
+Al2 Zr2 3.130716 1_556
+Al3 Cr0 2.529960 1_555
+Al3 Cr0 2.617869 1_455
+Al3 Zr3 3.042219 1_565
+Al3 Zr0 3.042219 1_565
+Al3 Zr3 3.061578 1_555
+Al3 Zr0 3.061578 1_555
+Al3 Zr1 3.130595 1_555
+Al3 Zr2 3.130595 1_556
+Cr0 Zr3 3.062503 1_565
+Cr0 Zr0 3.062503 1_565
+Cr0 Zr0 3.063675 1_655
+Cr0 Zr3 3.063675 1_655
+Cr0 Zr1 3.124340 1_555
+Cr0 Zr2 3.124340 1_556
+Cr1 Cr2 2.392955 1_555
+Cr1 Cr3 2.395658 1_555
+Cr1 Cr3 2.753009 1_565
+Cr1 Cr2 2.782490 1_465
+Cr1 Zr1 2.969491 1_455
+Cr1 Zr2 2.969491 1_455
+Cr1 Zr3 2.992661 1_554
+Cr1 Zr0 2.992661 1_555
+Cr1 Zr2 3.032528 1_555
+Cr1 Zr1 3.032528 1_555
+Cr2 Cr3 2.394747 1_555
+Cr2 Cr3 2.753112 1_655
+Cr2 Zr2 2.969266 1_545
+Cr2 Zr1 2.969266 1_545
+Cr2 Zr3 2.992436 1_554
+Cr2 Zr0 2.992436 1_555
+Cr2 Zr2 3.033410 1_555
+Cr2 Zr1 3.033410 1_555
+Cr3 Zr1 3.009740 1_545
+Cr3 Zr2 3.009740 1_545
+Cr3 Zr1 3.010721 1_455
+Cr3 Zr2 3.010721 1_455
+Cr3 Zr3 3.016914 1_554
+Cr3 Zr0 3.016914 1_555

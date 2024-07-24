@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_ScGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22965914
+_cell_length_b   6.63976186
+_cell_length_c   7.43423676
+_cell_angle_alpha   90.00001674
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGePt
+_chemical_formula_sum   'Sc4 Ge4 Pt4'
+_cell_volume   208.78258060
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25000000  0.99894580  0.29548838  1
+  Sc  Sc1  1  0.25000000  0.49894580  0.20451162  1
+  Sc  Sc2  1  0.75000000  0.00105420  0.70451162  1
+  Sc  Sc3  1  0.75000000  0.50105420  0.79548838  1
+  Ge  Ge0  1  0.25000000  0.30404157  0.59251496  1
+  Ge  Ge1  1  0.25000000  0.80404157  0.90748504  1
+  Ge  Ge2  1  0.75000000  0.69595843  0.40748504  1
+  Ge  Ge3  1  0.75000000  0.19595843  0.09251496  1
+  Pt  Pt0  1  0.25000000  0.20481732  0.91731783  1
+  Pt  Pt1  1  0.25000000  0.70481732  0.58268217  1
+  Pt  Pt2  1  0.75000000  0.79518268  0.08268217  1
+  Pt  Pt3  1  0.75000000  0.29518268  0.41731783  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Pt3 2.484423 1_555
+Ge0 Pt3 2.484423 1_455
+Ge0 Pt0 2.502927 1_555
+Ge0 Pt1 2.662059 1_555
+Ge0 Sc3 2.908713 1_555
+Ge0 Sc3 2.908713 1_455
+Ge0 Sc0 2.996617 1_545
+Ge0 Sc2 3.035282 1_455
+Ge0 Sc2 3.035282 1_555
+Ge0 Sc1 3.161508 1_555
+Ge1 Pt2 2.484423 1_456
+Ge1 Pt2 2.484423 1_556
+Ge1 Pt1 2.502926 1_555
+Ge1 Pt0 2.662059 1_565
+Ge1 Sc2 2.908713 1_565
+Ge1 Sc2 2.908713 1_465
+Ge1 Sc1 2.996617 1_556
+Ge1 Sc3 3.035282 1_555
+Ge1 Sc3 3.035282 1_455
+Ge1 Sc0 3.161507 1_556
+Ge2 Pt1 2.484423 1_555
+Ge2 Pt1 2.484423 1_655
+Ge2 Pt2 2.502927 1_555
+Ge2 Pt3 2.662059 1_555
+Ge2 Sc1 2.908713 1_555
+Ge2 Sc1 2.908713 1_655
+Ge2 Sc2 2.996617 1_565
+Ge2 Sc0 3.035282 1_655
+Ge2 Sc0 3.035282 1_555
+Ge2 Sc3 3.161508 1_555
+Ge3 Pt0 2.484423 1_654
+Ge3 Pt0 2.484423 1_554
+Ge3 Pt3 2.502926 1_555
+Ge3 Pt2 2.662059 1_545
+Ge3 Sc0 2.908713 1_645
+Ge3 Sc0 2.908713 1_545
+Ge3 Sc3 2.996617 1_554
+Ge3 Sc1 3.035282 1_655
+Ge3 Sc1 3.035282 1_555
+Ge3 Sc2 3.161507 1_554
+Pt0 Sc1 2.893526 1_556
+Pt0 Sc2 2.967462 1_455
+Pt0 Sc2 2.967462 1_555
+Pt0 Sc3 3.026826 1_455
+Pt0 Sc3 3.026826 1_555
+Pt0 Sc0 3.126107 1_546
+Pt1 Sc0 2.893527 1_555
+Pt1 Sc3 2.967463 1_555
+Pt1 Sc3 2.967463 1_455
+Pt1 Sc2 3.026826 1_465
+Pt1 Sc2 3.026826 1_565
+Pt1 Sc1 3.126106 1_555
+Pt2 Sc3 2.893526 1_554
+Pt2 Sc0 2.967462 1_555
+Pt2 Sc0 2.967462 1_655
+Pt2 Sc1 3.026826 1_655
+Pt2 Sc1 3.026826 1_555
+Pt2 Sc2 3.126107 1_564
+Pt3 Sc2 2.893527 1_555
+Pt3 Sc1 2.967463 1_655
+Pt3 Sc1 2.967463 1_555
+Pt3 Sc0 3.026826 1_545
+Pt3 Sc0 3.026826 1_645
+Pt3 Sc3 3.126106 1_555

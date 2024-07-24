@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Na4Mg(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37939703
+_cell_length_b   5.37760574
+_cell_length_c   7.00385467
+_cell_angle_alpha   78.36001487
+_cell_angle_beta   101.61704191
+_cell_angle_gamma   61.47249344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Mg(CoO3)2
+_chemical_formula_sum   'Na4 Mg1 Co2 O6'
+_cell_volume   163.58158078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.09802290  0.31812582  0.54260113  1
+  Na  Na1  1  0.68173021  0.90250552  0.54248628  1
+  Na  Na2  1  0.55285105  0.44749190  0.73451530  1
+  Na  Na3  1  0.11081294  0.88864339  0.87943014  1
+  Mg  Mg0  1  0.09707894  0.90290490  0.27974793  1
+  Co  Co0  1  0.74347836  0.64497001  0.05400454  1
+  Co  Co1  1  0.35495713  0.25596400  0.05327201  1
+  O  O0  1  0.11956765  0.88049951  0.55844061  1
+  O  O1  1  0.13780196  0.52814027  0.22179886  1
+  O  O2  1  0.47189819  0.86224492  0.22205058  1
+  O  O3  1  0.00234111  0.42044534  0.84534402  1
+  O  O4  1  0.57985382  -0.00248219  0.84611557  1
+  O  O5  1  0.68710575  0.31304660  0.10114501  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O0 2.278836 1_545
+Na0 O3 2.388191 1_555
+Na0 O1 2.402112 1_555
+Na0 O4 2.498654 1_555
+Na1 O0 2.279556 1_655
+Na1 O4 2.392505 1_565
+Na1 O2 2.401470 1_555
+Na1 O3 2.496269 1_655
+Na2 O0 2.207979 1_555
+Na2 O3 2.309321 1_655
+Na2 O4 2.311433 1_555
+Na2 O5 2.375551 1_556
+Na3 O0 2.266887 1_555
+Na3 O4 2.575755 1_465
+Na3 O3 2.578863 1_565
+Na3 O1 2.691551 1_556
+Na3 O2 2.696936 1_556
+Mg0 O0 1.906628 1_555
+Mg0 O1 2.053893 1_555
+Mg0 O2 2.054089 1_555
+Mg0 O5 2.103024 1_465
+Co0 O4 1.806959 1_564
+Co0 O1 1.923686 1_655
+Co0 O5 1.925243 1_555
+Co0 O2 2.121739 1_555
+Co0 O3 2.336323 1_654
+Co1 O3 1.807311 1_554
+Co1 O2 1.922052 1_545
+Co1 O5 1.929586 1_555
+Co1 O1 2.125889 1_555
+Co1 O4 2.327001 1_554

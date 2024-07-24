@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2CrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02372488
+_cell_length_b   5.02372488
+_cell_length_c   4.99943360
+_cell_angle_alpha   79.25869654
+_cell_angle_beta   79.25869654
+_cell_angle_gamma   118.27359371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CrO3
+_chemical_formula_sum   'Li4 Cr2 O6'
+_cell_volume   103.52841244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75352900  0.26307000  0.49120400  1
+  Li  Li1  1  0.43197700  0.59656900  0.49569300  1
+  Li  Li2  1  0.59656900  0.43197700  0.99569300  1
+  Li  Li3  1  0.26307000  0.75352900  0.99120400  1
+  Cr  Cr0  1  0.09184800  0.90984100  0.50361800  1
+  Cr  Cr1  1  0.90984100  0.09184800  0.00361800  1
+  O  O0  1  0.71050900  0.86207900  0.75209900  1
+  O  O1  1  0.86207900  0.71050900  0.25209900  1
+  O  O2  1  0.01179600  0.51950400  0.73097600  1
+  O  O3  1  0.29623300  0.15544400  0.72421000  1
+  O  O4  1  0.51950400  0.01179600  0.23097600  1
+  O  O5  1  0.15544400  0.29623300  0.22421000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.075843 1_545
+Li0 O2 2.086103 1_655
+Li0 O1 2.091208 1_555
+Li0 O4 2.108222 1_555
+Li0 O5 2.116628 1_655
+Li0 O3 2.125557 1_555
+Li1 O3 2.003867 1_555
+Li1 O1 2.016694 1_555
+Li1 O2 2.029733 1_555
+Li1 O4 2.044813 1_565
+Li1 O0 2.217680 1_555
+Li1 O5 2.351388 1_555
+Li2 O5 2.003867 1_556
+Li2 O0 2.016694 1_555
+Li2 O4 2.029733 1_556
+Li2 O2 2.044813 1_655
+Li2 O1 2.217680 1_556
+Li2 O3 2.351388 1_555
+Li3 O1 2.075843 1_456
+Li3 O4 2.086103 1_566
+Li3 O0 2.091208 1_555
+Li3 O2 2.108222 1_555
+Li3 O3 2.116628 1_565
+Li3 O5 2.125557 1_556
+Cr0 O3 1.876694 1_565
+Cr0 O2 1.884333 1_555
+Cr0 O1 1.957476 1_455
+Cr0 O0 1.958874 1_455
+Cr0 O5 2.014132 1_565
+Cr0 O4 2.083675 1_565
+Cr1 O5 1.876694 1_655
+Cr1 O4 1.884333 1_555
+Cr1 O0 1.957476 1_544
+Cr1 O1 1.958874 1_545
+Cr1 O3 2.014132 1_654
+Cr1 O2 2.083675 1_654

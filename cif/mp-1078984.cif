@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Ce2Fe2S2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.39164667
+_cell_length_b   9.39164667
+_cell_length_c   9.39164667
+_cell_angle_alpha   155.10861068
+_cell_angle_beta   155.10861068
+_cell_angle_gamma   35.49022690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Fe2S2O3
+_chemical_formula_sum   'Ce2 Fe2 S2 O3'
+_cell_volume   146.57713907
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.31745000  0.31745000  0.00000000  1
+  Ce  Ce1  1  0.68255000  0.68255000  0.00000000  1
+  Fe  Fe0  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  S  S0  1  0.90285800  0.90285800  0.00000000  1
+  S  S1  1  0.09714200  0.09714200  0.00000000  1
+  O  O0  1  0.25000000  0.75000000  0.50000000  1
+  O  O1  1  0.75000000  0.25000000  0.50000000  1
+  O  O2  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 O0 2.356422 1_544
+Ce0 O0 2.356422 1_555
+Ce0 O1 2.356422 1_555
+Ce0 O1 2.356422 1_454
+Ce0 S0 3.244680 1_556
+Ce0 S0 3.244680 1_444
+Ce0 S0 3.244680 1_545
+Ce0 S0 3.244680 1_455
+Ce1 O1 2.356422 1_554
+Ce1 O1 2.356422 1_565
+Ce1 O0 2.356422 1_554
+Ce1 O0 2.356422 1_655
+Ce1 S1 3.244680 1_565
+Ce1 S1 3.244680 1_554
+Ce1 S1 3.244680 1_666
+Ce1 S1 3.244680 1_655
+Fe0 O2 2.024033 1_545
+Fe0 O2 2.024033 1_556
+Fe0 S0 2.667728 1_445
+Fe0 S0 2.667728 1_546
+Fe0 S1 2.667728 1_656
+Fe0 S1 2.667728 1_555
+Fe1 O2 2.024033 1_455
+Fe1 O2 2.024033 1_556
+Fe1 S0 2.667728 1_445
+Fe1 S0 2.667728 1_456
+Fe1 S1 2.667728 1_566
+Fe1 S1 2.667728 1_555

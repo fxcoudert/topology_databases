@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_YAgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47961954
+_cell_length_b   4.47961954
+_cell_length_c   7.32688167
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAgTe2
+_chemical_formula_sum   'Y1 Ag1 Te2'
+_cell_volume   127.33039183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.66666700  0.33333300  0.98428432  1
+  Ag  Ag0  1  0.00000000  -0.00000000  0.38714526  1
+  Te  Te0  1  0.00000000  -0.00000000  0.76267333  1
+  Te  Te1  1  0.33333300  0.66666700  0.23089809  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 Te0 2.751450 1_555
+Ag0 Te1 2.828350 1_545
+Ag0 Te1 2.828353 1_555
+Ag0 Te1 2.828353 1_445
+Te0 Y0 3.053759 1_455
+Te0 Y0 3.053762 1_445
+Te0 Y0 3.053762 1_555
+Te1 Y0 3.154981 1_454
+Te1 Y0 3.154981 1_564
+Te1 Y0 3.154988 1_554

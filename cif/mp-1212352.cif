@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ho2FeAs2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17431709
+_cell_length_b   3.17431709
+_cell_length_c   14.56008773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2FeAs2O
+_chemical_formula_sum   'Ho2 Fe1 As2 O1'
+_cell_volume   146.71165166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.50000000  0.50000000  0.63630088  1
+  Ho  Ho1  1  0.50000000  0.50000000  0.36369912  1
+  Fe  Fe0  1  0.50000000  0.50000000  0.00000000  1
+  As  As0  1  0.50000000  0.50000000  0.16189226  1
+  As  As1  1  0.50000000  0.50000000  0.83810774  1
+  O  O0  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 O0 1.984553 1_555
+Ho1 O0 1.984553 1_555
+As0 Fe0 2.357166 1_555
+As0 Ho1 2.938326 1_555
+As1 Fe0 2.357166 1_556
+As1 Ho0 2.938326 1_555

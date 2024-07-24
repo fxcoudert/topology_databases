@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_Pr3(CuSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59274221
+_cell_length_b   7.01795551
+_cell_length_c   8.64742448
+_cell_angle_alpha   113.94019877
+_cell_angle_beta   105.39995958
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(CuSn)4
+_chemical_formula_sum   'Pr3 Cu4 Sn4'
+_cell_volume   243.75258215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.50000000  0.00000000  1
+  Pr  Pr1  1  0.13410282  0.13410282  0.26820564  1
+  Pr  Pr2  1  0.86589718  0.86589818  0.73179436  1
+  Cu  Cu0  1  0.66704503  0.48570104  0.33408905  1
+  Cu  Cu1  1  0.66704503  0.84838902  0.33408905  1
+  Cu  Cu2  1  0.33295497  0.15161098  0.66591095  1
+  Cu  Cu3  1  0.33295497  0.51429996  0.66591095  1
+  Sn  Sn0  1  0.50000000  0.19947487  -0.00000000  1
+  Sn  Sn1  1  0.50000000  0.80052613  0.00000000  1
+  Sn  Sn2  1  0.21651704  0.71651804  0.43303508  1
+  Sn  Sn3  1  0.78348296  0.28348296  0.56696492  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Sn0 3.117933 1_455
+Pr0 Sn0 3.117933 1_555
+Pr0 Sn1 3.117938 1_555
+Pr0 Sn1 3.117938 1_455
+Pr0 Sn3 3.274837 1_454
+Pr0 Sn2 3.274837 1_555
+Pr1 Sn3 3.221502 1_455
+Pr1 Sn3 3.221506 1_555
+Pr1 Sn1 3.368543 1_545
+Pr1 Sn1 3.368543 1_445
+Pr1 Sn0 3.368546 1_555
+Pr1 Sn0 3.368546 1_455
+Pr2 Sn2 3.221502 1_655
+Pr2 Sn2 3.221506 1_555
+Pr2 Sn0 3.368543 1_566
+Pr2 Sn0 3.368543 1_666
+Pr2 Sn1 3.368546 1_556
+Pr2 Sn1 3.368546 1_656
+Cu0 Cu1 2.545328 1_555
+Cu0 Sn0 2.661403 1_555
+Cu0 Sn2 2.730000 1_655
+Cu0 Sn2 2.730007 1_555
+Cu0 Sn3 2.846519 1_555
+Cu0 Pr1 3.243867 1_655
+Cu0 Pr1 3.243870 1_555
+Cu0 Pr2 3.265833 1_555
+Cu1 Sn1 2.661403 1_555
+Cu1 Sn2 2.730000 1_655
+Cu1 Sn2 2.730007 1_555
+Cu1 Sn3 2.846519 1_565
+Cu1 Pr1 3.243862 1_665
+Cu1 Pr1 3.243865 1_565
+Cu1 Pr2 3.265831 1_555
+Cu2 Cu3 2.545335 1_555
+Cu2 Sn0 2.661401 1_556
+Cu2 Sn3 2.730003 1_455
+Cu2 Sn3 2.730011 1_555
+Cu2 Sn2 2.846514 1_545
+Cu2 Pr2 3.243857 1_445
+Cu2 Pr2 3.243860 1_545
+Cu2 Pr1 3.265833 1_555
+Cu3 Sn1 2.661403 1_556
+Cu3 Sn3 2.730000 1_455
+Cu3 Sn3 2.730007 1_555
+Cu3 Sn2 2.846519 1_555
+Cu3 Pr2 3.243867 1_455
+Cu3 Pr2 3.243870 1_555
+Cu3 Pr1 3.265833 1_555
+Sn0 Sn1 2.799805 1_545

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2ZnGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34999600
+_cell_length_b   6.86903100
+_cell_length_c   7.52558000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnGeS4
+_chemical_formula_sum   'Li4 Zn2 Ge2 S8'
+_cell_volume   328.25315191
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50962700  0.82757900  0.24999000  1
+  Li  Li1  1  0.00962700  0.17242100  0.25001000  1
+  Li  Li2  1  0.00962700  0.17242100  0.74999000  1
+  Li  Li3  1  0.50962700  0.82757900  0.75001000  1
+  Zn  Zn0  1  0.50565100  0.35185400  0.00000000  1
+  Zn  Zn1  1  0.00565100  0.64814600  0.50000000  1
+  Ge  Ge0  1  0.00378000  0.66313700  0.00000000  1
+  Ge  Ge1  1  0.50378000  0.33686300  0.50000000  1
+  S  S0  1  0.87853600  0.35907200  0.00000000  1
+  S  S1  1  0.37853600  0.64092800  0.50000000  1
+  S  S2  1  0.89373200  0.82689300  0.24253600  1
+  S  S3  1  0.39373200  0.17310700  0.25746400  1
+  S  S4  1  0.39373200  0.17310700  0.74253600  1
+  S  S5  1  0.89373200  0.82689300  0.75746400  1
+  S  S6  1  0.35781600  0.66435600  0.00000000  1
+  S  S7  1  0.85781600  0.33564400  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S6 2.392846 1_555
+Li0 S1 2.424186 1_555
+Li0 S2 2.439715 1_555
+Li0 S3 2.485556 1_565
+Li1 S7 2.392846 1_455
+Li1 S0 2.424186 1_455
+Li1 S3 2.439715 1_555
+Li1 S2 2.485556 1_445
+Li2 S7 2.392846 1_455
+Li2 S0 2.424186 1_456
+Li2 S4 2.439715 1_555
+Li2 S5 2.485556 1_445
+Li3 S6 2.392846 1_556
+Li3 S1 2.424186 1_555
+Li3 S5 2.439715 1_555
+Li3 S4 2.485556 1_565
+Ge0 S0 2.234924 1_455
+Ge0 S6 2.248143 1_555
+Ge0 S5 2.255005 1_454
+Ge0 S2 2.255005 1_455
+Ge1 S1 2.234924 1_555
+Ge1 S7 2.248143 1_555
+Ge1 S3 2.255005 1_555
+Ge1 S4 2.255005 1_555
+S0 Zn0 2.368337 1_555
+S1 Zn1 2.368337 1_555
+S2 Zn1 2.401411 1_655
+S3 Zn0 2.401411 1_555
+S4 Zn0 2.401411 1_556
+S5 Zn1 2.401411 1_655
+S6 Zn0 2.342880 1_555
+S7 Zn1 2.342880 1_655

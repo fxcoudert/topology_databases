@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SrEr2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34673100
+_cell_length_b   5.87079600
+_cell_length_c   7.06183869
+_cell_angle_alpha   83.22669138
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEr2O4
+_chemical_formula_sum   'Sr1 Er2 O4'
+_cell_volume   137.78242651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.87619700  0.33029600  1
+  Er  Er0  1  0.50000000  0.33901900  0.59665800  1
+  Er  Er1  1  0.00000000  0.78888300  0.87742500  1
+  O  O0  1  0.00000000  0.05791000  0.64441800  1
+  O  O1  1  0.50000000  0.58216200  0.79205600  1
+  O  O2  1  0.00000000  0.48529600  0.43080600  1
+  O  O3  1  0.50000000  0.88240100  0.08180600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 O1 2.099106 1_555
+Er0 O2 2.161511 1_555
+Er0 O2 2.161511 1_655
+Er0 O0 2.346532 1_655
+Er0 O0 2.346532 1_555
+Er1 O0 2.142200 1_565
+Er1 O1 2.192953 1_555
+Er1 O1 2.192953 1_455
+Er1 O3 2.317677 1_456
+Er1 O3 2.317677 1_556
+O0 Sr0 2.572359 1_545
+O2 Sr0 2.320805 1_555
+O3 Sr0 2.421923 1_655
+O3 Sr0 2.421923 1_555

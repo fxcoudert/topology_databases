@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_SmAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52027496
+_cell_length_b   7.37310736
+_cell_length_c   7.77084468
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAlAu
+_chemical_formula_sum   'Sm4 Al4 Au4'
+_cell_volume   258.99038382
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.25000000  0.00867596  0.30316597  1
+  Sm  Sm1  1  0.25000000  0.50867596  0.19683403  1
+  Sm  Sm2  1  0.75000000  0.99132404  0.69683403  1
+  Sm  Sm3  1  0.75000000  0.49132404  0.80316597  1
+  Al  Al0  1  0.25000000  0.17326693  0.92092467  1
+  Al  Al1  1  0.25000000  0.67326693  0.57907533  1
+  Al  Al2  1  0.75000000  0.82673307  0.07907533  1
+  Al  Al3  1  0.75000000  0.32673307  0.42092467  1
+  Au  Au0  1  0.25000000  0.29287071  0.59327537  1
+  Au  Au1  1  0.25000000  0.79287071  0.90672463  1
+  Au  Au2  1  0.75000000  0.70712929  0.40672463  1
+  Au  Au3  1  0.75000000  0.20712929  0.09327537  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Au3 2.638998 1_456
+Al0 Au3 2.638998 1_556
+Al0 Au0 2.694503 1_555
+Al0 Au1 2.806872 1_545
+Al0 Sm2 3.152806 1_445
+Al0 Sm2 3.152806 1_545
+Al0 Sm0 3.208676 1_556
+Al0 Sm1 3.273027 1_556
+Al0 Sm3 3.383039 1_555
+Al0 Sm3 3.383039 1_455
+Al1 Au2 2.638998 1_455
+Al1 Au2 2.638998 1_555
+Al1 Au1 2.694503 1_555
+Al1 Au0 2.806872 1_555
+Al1 Sm3 3.152806 1_555
+Al1 Sm3 3.152806 1_455
+Al1 Sm1 3.208676 1_555
+Al1 Sm0 3.273027 1_565
+Al1 Sm2 3.383039 1_555
+Al1 Sm2 3.383039 1_455
+Al2 Au1 2.638998 1_554
+Al2 Au1 2.638998 1_654
+Al2 Au2 2.694503 1_555
+Al2 Au3 2.806872 1_565
+Al2 Sm0 3.152806 1_665
+Al2 Sm0 3.152806 1_565
+Al2 Sm2 3.208676 1_554
+Al2 Sm3 3.273027 1_554
+Al2 Sm1 3.383039 1_655
+Al2 Sm1 3.383039 1_555
+Al3 Au0 2.638998 1_655
+Al3 Au0 2.638998 1_555
+Al3 Au3 2.694503 1_555
+Al3 Au2 2.806872 1_555
+Al3 Sm1 3.152806 1_655
+Al3 Sm1 3.152806 1_555
+Al3 Sm3 3.208676 1_555
+Al3 Sm2 3.273027 1_545
+Al3 Sm0 3.383039 1_555
+Al3 Sm0 3.383039 1_655
+Au0 Sm0 3.077823 1_555
+Au0 Sm3 3.147932 1_455
+Au0 Sm3 3.147932 1_555
+Au0 Sm2 3.270940 1_445
+Au0 Sm2 3.270940 1_545
+Au0 Sm1 3.467332 1_555
+Au1 Sm1 3.077823 1_556
+Au1 Sm2 3.147932 1_555
+Au1 Sm2 3.147932 1_455
+Au1 Sm3 3.270940 1_555
+Au1 Sm3 3.270940 1_455
+Au1 Sm0 3.467332 1_566
+Au2 Sm2 3.077823 1_555
+Au2 Sm1 3.147932 1_655
+Au2 Sm1 3.147932 1_555
+Au2 Sm0 3.270940 1_665
+Au2 Sm0 3.270940 1_565
+Au2 Sm3 3.467332 1_555
+Au3 Sm3 3.077823 1_554
+Au3 Sm0 3.147932 1_655
+Au3 Sm0 3.147932 1_555
+Au3 Sm1 3.270940 1_655
+Au3 Sm1 3.270940 1_555
+Au3 Sm2 3.467332 1_544

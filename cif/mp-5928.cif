@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Al2CdS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58984342
+_cell_length_b   5.58958624
+_cell_length_c   6.44124407
+_cell_angle_alpha   115.71381196
+_cell_angle_beta   115.71959138
+_cell_angle_gamma   89.99084269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2CdS4
+_chemical_formula_sum   'Al2 Cd1 S4'
+_cell_volume   158.91384086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25003024  0.75003263  0.50000297  1
+  Al  Al1  1  -0.00000702  0.00000889  -0.00001651  1
+  Cd  Cd0  1  0.50005278  0.50002228  0.00004194  1
+  S  S0  1  0.91414806  0.89893073  0.26854955  1
+  S  S1  1  0.35434621  0.36962434  0.26854444  1
+  S  S2  1  0.10111314  0.64554330  0.73148551  1
+  S  S3  1  0.63031760  0.08583682  0.73139010  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 S3 2.255478 1_565
+Al0 S0 2.255481 1_455
+Al0 S1 2.255500 1_555
+Al0 S2 2.256174 1_555
+Al1 S1 2.260609 1_555
+Al1 S3 2.260623 1_454
+Al1 S0 2.260687 1_445
+Al1 S2 2.260710 1_544
+Cd0 S2 2.549352 1_554
+Cd0 S3 2.549742 1_554
+Cd0 S0 2.549810 1_555
+Cd0 S1 2.549983 1_555

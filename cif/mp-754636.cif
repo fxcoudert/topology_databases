@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_ErBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11548164
+_cell_length_b   6.11548164
+_cell_length_c   6.11548154
+_cell_angle_alpha   58.60150668
+_cell_angle_beta   58.60150668
+_cell_angle_gamma   58.60151704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErBiO3
+_chemical_formula_sum   'Er2 Bi2 O6'
+_cell_volume   156.55404848
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.14232200  0.14232200  0.14232200  1
+  Er  Er1  1  0.85767800  0.85767800  0.85767800  1
+  Bi  Bi0  1  0.35695300  0.35695300  0.35695300  1
+  Bi  Bi1  1  0.64304700  0.64304700  0.64304700  1
+  O  O0  1  0.45533700  0.78269200  0.01167800  1
+  O  O1  1  0.78269100  0.01167800  0.45533700  1
+  O  O2  1  0.01167800  0.45533700  0.78269100  1
+  O  O3  1  0.98832200  0.54466300  0.21730900  1
+  O  O4  1  0.21730900  0.98832200  0.54466300  1
+  O  O5  1  0.54466300  0.21730900  0.98832200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 O0 2.233876 1_545
+Er0 O1 2.233880 1_455
+Er0 O2 2.233880 1_554
+Er0 O5 2.337203 1_554
+Er0 O4 2.337203 1_545
+Er0 O3 2.337203 1_455
+Er1 O4 2.233880 1_655
+Er1 O3 2.233880 1_556
+Er1 O5 2.233880 1_565
+Er1 O0 2.337200 1_556
+Er1 O1 2.337203 1_565
+Er1 O2 2.337203 1_655
+Bi0 O4 2.327494 1_545
+Bi0 O5 2.327494 1_554
+Bi0 O3 2.327494 1_455
+Bi0 O2 2.485843 1_555
+Bi0 O1 2.485843 1_555
+Bi0 O0 2.485847 1_555
+Bi1 O1 2.327494 1_565
+Bi1 O2 2.327494 1_655
+Bi1 O0 2.327498 1_556
+Bi1 O5 2.485842 1_555
+Bi1 O3 2.485843 1_555
+Bi1 O4 2.485843 1_555

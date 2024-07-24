@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_LiFe(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11468400
+_cell_length_b   7.85830055
+_cell_length_c   8.88891384
+_cell_angle_alpha   65.28338495
+_cell_angle_beta   89.53484972
+_cell_angle_gamma   89.24041847
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFe(SiO3)2
+_chemical_formula_sum   'Li2 Fe2 Si4 O12'
+_cell_volume   324.50927973
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.63721700  0.87009300  0.30099200  1
+  Li  Li1  1  0.13609600  0.09072300  0.71402700  1
+  Fe  Fe0  1  0.12722300  0.06386600  0.37770100  1
+  Fe  Fe1  1  0.64696200  0.09116800  0.89744700  1
+  Si  Si0  1  0.18440500  0.49718500  0.09604900  1
+  Si  Si1  1  0.14665600  0.89479600  0.10564000  1
+  Si  Si2  1  0.62767900  0.92758700  0.62025600  1
+  Si  Si3  1  0.68738000  0.51090200  0.88608400  1
+  O  O0  1  0.47541200  0.45603200  0.03854100  1
+  O  O1  1  0.08567400  0.31782400  0.25753000  1
+  O  O2  1  0.20840800  0.67672800  0.14379000  1
+  O  O3  1  0.82996400  0.93790000  0.09688200  1
+  O  O4  1  0.33713000  0.02530600  0.56567700  1
+  O  O5  1  0.27416000  0.93083300  0.25915400  1
+  O  O6  1  0.77717400  0.02754200  0.72486900  1
+  O  O7  1  0.79435000  0.95252500  0.45373200  1
+  O  O8  1  0.70718700  0.34340300  0.82448100  1
+  O  O9  1  0.28357800  0.03378200  0.92842200  1
+  O  O10  1  0.58841900  0.70370300  0.73285300  1
+  O  O11  1  0.97642800  0.54910100  0.94337500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 1.911429 1_555
+Li0 O7 1.917250 1_555
+Li0 O3 1.929761 1_555
+Li1 O4 1.895062 1_555
+Li1 O6 1.899246 1_455
+Li1 O9 1.924147 1_555
+Fe0 O1 1.838111 1_555
+Fe0 O4 1.906164 1_555
+Fe0 O7 1.909777 1_445
+Fe0 O5 1.911972 1_545
+Fe1 O8 1.839097 1_555
+Fe1 O9 1.908828 1_555
+Fe1 O6 1.913841 1_555
+Fe1 O3 1.918571 1_546
+O0 Si0 1.641457 1_555
+O0 Si3 1.642465 1_554
+O1 Si0 1.617773 1_555
+O2 Si1 1.628727 1_555
+O2 Si0 1.640715 1_555
+O3 Si1 1.646186 1_655
+O4 Si2 1.644185 1_545
+O5 Si1 1.646223 1_555
+O6 Si2 1.644569 1_545
+O7 Si2 1.642410 1_555
+O8 Si3 1.625101 1_555
+O9 Si1 1.651785 1_546
+O10 Si2 1.634293 1_555
+O10 Si3 1.634627 1_555
+O11 Si3 1.639180 1_555
+O11 Si0 1.639708 1_656

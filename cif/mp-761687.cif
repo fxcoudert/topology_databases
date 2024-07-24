@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LiSbPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54287584
+_cell_length_b   5.54287584
+_cell_length_c   7.49339842
+_cell_angle_alpha   73.82451154
+_cell_angle_beta   73.82451154
+_cell_angle_gamma   98.28886332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSbPO5
+_chemical_formula_sum   'Li2 Sb2 P2 O10'
+_cell_volume   206.12714644
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.79181300  0.41259500  0.64420200  1
+  Li  Li1  1  0.41259500  0.79181300  0.14420200  1
+  Sb  Sb0  1  0.01385000  0.00943600  0.48974800  1
+  Sb  Sb1  1  0.00943600  0.01385000  0.98974800  1
+  P  P0  1  0.65256000  0.34034200  0.25245700  1
+  P  P1  1  0.34034200  0.65256000  0.75245700  1
+  O  O0  1  0.91358800  0.09970300  0.74052500  1
+  O  O1  1  0.84717700  0.33038700  0.37001100  1
+  O  O2  1  0.61879500  0.70286100  0.60681800  1
+  O  O3  1  0.67345000  0.13832000  0.14221400  1
+  O  O4  1  0.70286100  0.61879500  0.10681800  1
+  O  O5  1  0.27470000  0.37373700  0.90269700  1
+  O  O6  1  0.33038700  0.84717700  0.87001100  1
+  O  O7  1  0.37373700  0.27470000  0.40269700  1
+  O  O8  1  0.13832000  0.67345000  0.64221400  1
+  O  O9  1  0.09970300  0.91358800  0.24052500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 1.973820 1_555
+Li0 O2 1.982479 1_555
+Li0 O1 2.175759 1_555
+Li0 O8 2.225096 1_655
+Li1 O9 1.973820 1_555
+Li1 O4 1.982479 1_555
+Li1 O6 2.175759 1_554
+Li1 O3 2.225096 1_565
+O0 Sb0 2.027964 1_655
+O0 Sb1 2.031478 1_655
+O1 P0 1.569135 1_555
+O1 Sb0 2.206744 1_655
+O2 P1 1.555260 1_555
+O2 Sb0 2.340609 1_665
+O3 P0 1.565006 1_555
+O3 Sb1 2.207647 1_654
+O4 P0 1.555260 1_555
+O4 Sb1 2.340609 1_664
+O5 P1 1.558388 1_555
+O5 Sb1 2.112247 1_555
+O6 P1 1.569135 1_555
+O6 Sb1 2.206744 1_565
+O7 P0 1.558388 1_555
+O7 Sb0 2.112247 1_555
+O8 P1 1.565006 1_555
+O8 Sb0 2.207647 1_565
+O9 Sb1 2.027964 1_564
+O9 Sb0 2.031478 1_565

@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrTiFe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91135462
+_cell_length_b   4.91135462
+_cell_length_c   7.93666648
+_cell_angle_alpha   89.96367840
+_cell_angle_beta   90.03632160
+_cell_angle_gamma   119.98392368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiFe4
+_chemical_formula_sum   'Zr2 Ti2 Fe8'
+_cell_volume   165.82177637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33334300  0.66665700  0.07048600  1
+  Zr  Zr1  1  0.66665700  0.33334300  0.92951400  1
+  Ti  Ti0  1  0.66662200  0.33337800  0.55176600  1
+  Ti  Ti1  1  0.33337800  0.66662200  0.44823400  1
+  Fe  Fe0  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.16865000  0.33734100  0.74309000  1
+  Fe  Fe3  1  0.16867500  0.83132500  0.74292700  1
+  Fe  Fe4  1  0.66265900  0.83135000  0.74309000  1
+  Fe  Fe5  1  0.83135000  0.66265900  0.25691000  1
+  Fe  Fe6  1  0.83132500  0.16867500  0.25707300  1
+  Fe  Fe7  1  0.33734100  0.16865000  0.25691000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.048448 1_454
+Zr0 Zr1 3.048448 1_564
+Zr0 Zr1 3.048721 1_554
+Ti0 Ti1 2.950701 1_555
+Ti0 Ti1 2.953324 1_545
+Ti0 Ti1 2.953324 1_655
+Ti0 Zr1 2.998060 1_555
+Ti1 Zr0 2.998060 1_555
+Fe0 Fe3 2.402451 1_545
+Fe0 Fe6 2.402451 1_455
+Fe0 Fe7 2.404938 1_555
+Fe0 Fe5 2.404938 1_445
+Fe0 Fe2 2.404938 1_555
+Fe0 Fe4 2.404938 1_445
+Fe0 Ti1 2.865299 1_555
+Fe0 Ti1 2.865299 1_445
+Fe0 Ti0 2.865299 1_555
+Fe0 Ti0 2.865299 1_445
+Fe0 Ti1 2.865628 1_545
+Fe0 Ti0 2.865628 1_455
+Fe1 Fe2 2.492955 1_554
+Fe1 Fe4 2.492955 1_444
+Fe1 Fe7 2.492955 1_555
+Fe1 Fe5 2.492955 1_445
+Fe1 Fe3 2.495123 1_544
+Fe1 Fe6 2.495123 1_455
+Fe1 Zr0 2.889682 1_545
+Fe1 Zr1 2.889682 1_454
+Fe1 Zr0 2.890840 1_555
+Fe1 Zr1 2.890840 1_554
+Fe1 Zr0 2.890840 1_445
+Fe1 Zr1 2.890840 1_444
+Fe2 Fe3 2.426069 1_555
+Fe2 Fe4 2.426843 1_555
+Fe2 Fe3 2.485287 1_545
+Fe2 Fe4 2.485705 1_445
+Fe2 Ti1 2.726938 1_555
+Fe2 Zr1 2.866236 1_555
+Fe2 Zr1 2.867800 1_455
+Fe2 Ti0 2.886665 1_455
+Fe2 Ti0 2.887906 1_555
+Fe2 Zr0 2.952475 1_556
+Fe3 Fe4 2.426069 1_555
+Fe3 Fe4 2.485287 1_455
+Fe3 Ti1 2.727246 1_555
+Fe3 Zr1 2.868208 1_455
+Fe3 Zr1 2.868208 1_565
+Fe3 Ti0 2.887107 1_455
+Fe3 Ti0 2.887107 1_565
+Fe3 Zr0 2.952139 1_556
+Fe4 Ti1 2.726938 1_555
+Fe4 Zr1 2.866236 1_555
+Fe4 Zr1 2.867800 1_565
+Fe4 Ti0 2.886665 1_565
+Fe4 Ti0 2.887906 1_555
+Fe4 Zr0 2.952475 1_556
+Fe5 Fe6 2.426069 1_555
+Fe5 Fe7 2.426843 1_555
+Fe5 Fe6 2.485287 1_565
+Fe5 Fe7 2.485705 1_665
+Fe5 Ti0 2.726938 1_555
+Fe5 Zr0 2.866236 1_555
+Fe5 Zr0 2.867800 1_655
+Fe5 Ti1 2.886665 1_655
+Fe5 Ti1 2.887906 1_555
+Fe5 Zr1 2.952475 1_554
+Fe6 Fe7 2.426069 1_555
+Fe6 Fe7 2.485287 1_655
+Fe6 Ti0 2.727246 1_555
+Fe6 Zr0 2.868208 1_655
+Fe6 Zr0 2.868208 1_545
+Fe6 Ti1 2.887107 1_655
+Fe6 Ti1 2.887107 1_545
+Fe6 Zr1 2.952139 1_554
+Fe7 Ti0 2.726938 1_555
+Fe7 Zr0 2.866236 1_555
+Fe7 Zr0 2.867800 1_545
+Fe7 Ti1 2.886665 1_545
+Fe7 Ti1 2.887906 1_555
+Fe7 Zr1 2.952475 1_554

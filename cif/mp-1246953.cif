@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_NaCdN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88357311
+_cell_length_b   3.93856514
+_cell_length_c   6.06543045
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdN
+_chemical_formula_sum   'Na4 Cd4 N4'
+_cell_volume   188.33141064
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.60752819  0.25000000  0.86004384  1
+  Na  Na1  1  0.10752819  0.25000000  0.63995616  1
+  Na  Na2  1  0.39247181  0.75000000  0.13995616  1
+  Na  Na3  1  0.89247181  0.75000000  0.36004384  1
+  Cd  Cd0  1  0.63383534  0.25000000  0.39391233  1
+  Cd  Cd1  1  0.13383534  0.25000000  0.10608767  1
+  Cd  Cd2  1  0.36616466  0.75000000  0.60608767  1
+  Cd  Cd3  1  0.86616466  0.75000000  0.89391233  1
+  N  N0  1  0.83896522  0.25000000  0.12503483  1
+  N  N1  1  0.33896522  0.25000000  0.37496517  1
+  N  N2  1  0.16103478  0.75000000  0.87496517  1
+  N  N3  1  0.66103478  0.75000000  0.62503483  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 N0 2.296713 1_555
+Cd0 N1 2.327469 1_555
+Cd0 N3 2.426779 1_545
+Cd0 N3 2.426779 1_555
+Cd1 N1 2.296713 1_555
+Cd1 N0 2.327469 1_455
+Cd1 N2 2.426779 1_554
+Cd1 N2 2.426779 1_544
+Cd2 N2 2.296713 1_555
+Cd2 N3 2.327469 1_555
+Cd2 N1 2.426779 1_565
+Cd2 N1 2.426779 1_555
+Cd3 N3 2.296713 1_555
+Cd3 N2 2.327469 1_655
+Cd3 N0 2.426779 1_556
+Cd3 N0 2.426779 1_566
+N0 Na0 2.431532 1_554
+N0 Na3 2.467359 1_545
+N0 Na3 2.467359 1_555
+N1 Na1 2.431532 1_555
+N1 Na2 2.467359 1_555
+N1 Na2 2.467359 1_545
+N2 Na2 2.431532 1_556
+N2 Na1 2.467359 1_565
+N2 Na1 2.467359 1_555
+N3 Na3 2.431532 1_555
+N3 Na0 2.467359 1_555
+N3 Na0 2.467359 1_565

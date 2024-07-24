@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_TePb3(BrO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19212922
+_cell_length_b   7.19212922
+_cell_length_c   5.69237800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.26339300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TePb3(BrO2)2
+_chemical_formula_sum   'Te1 Pb3 Br2 O4'
+_cell_volume   214.42025237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.81294400  0.18705600  0.00000000  1
+  Pb  Pb0  1  0.14292800  0.85707200  0.00000000  1
+  Pb  Pb1  1  0.64787400  0.35212600  0.50000000  1
+  Pb  Pb2  1  0.35323600  0.64676400  0.50000000  1
+  Br  Br0  1  0.49479500  0.50520500  0.00000000  1
+  Br  Br1  1  0.00140800  0.99859200  0.50000000  1
+  O  O0  1  0.98228800  0.47901600  0.76868300  1
+  O  O1  1  0.52098400  0.01771200  0.23131700  1
+  O  O2  1  0.52098400  0.01771200  0.76868300  1
+  O  O3  1  0.98228800  0.47901600  0.23131700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Br1 Pb0 3.404816 1_556
+Br1 Pb0 3.404816 1_555
+Br1 Pb1 3.446469 1_455
+Br1 Pb1 3.446469 1_565
+Br1 Pb2 3.459160 1_455
+Br1 Pb2 3.459160 1_565
+O0 Te0 2.030000 1_556
+O0 Pb1 2.438883 1_555
+O0 Pb0 2.481087 1_656
+O0 Pb2 2.549616 1_655
+O1 Te0 2.030000 1_555
+O1 Pb1 2.438883 1_555
+O1 Pb0 2.481087 1_545
+O1 Pb2 2.549616 1_545
+O2 Te0 2.030000 1_556
+O2 Pb1 2.438883 1_555
+O2 Pb0 2.481087 1_546
+O2 Pb2 2.549616 1_545
+O3 Te0 2.030000 1_555
+O3 Pb1 2.438883 1_555
+O3 Pb0 2.481087 1_655
+O3 Pb2 2.549616 1_655

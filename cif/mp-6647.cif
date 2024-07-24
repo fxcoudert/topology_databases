@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaYAgSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48604271
+_cell_length_b   7.48604271
+_cell_length_c   10.81311900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.64423600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYAgSe3
+_chemical_formula_sum   'Ba2 Y2 Ag2 Se6'
+_cell_volume   333.18755465
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.24875400  0.75124600  0.25000000  1
+  Ba  Ba1  1  0.75124600  0.24875400  0.75000000  1
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag0  1  0.53037500  0.46962500  0.25000000  1
+  Ag  Ag1  1  0.46962500  0.53037500  0.75000000  1
+  Se  Se0  1  0.36454400  0.63545600  0.55008800  1
+  Se  Se1  1  0.63545600  0.36454400  0.44991200  1
+  Se  Se2  1  0.63545600  0.36454400  0.05008800  1
+  Se  Se3  1  0.07958900  0.92041100  0.75000000  1
+  Se  Se4  1  0.92041100  0.07958900  0.25000000  1
+  Se  Se5  1  0.36454400  0.63545600  0.94991200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Se4 3.267556 1_455
+Ba0 Se4 3.267556 1_565
+Ba0 Se2 3.453841 1_565
+Ba0 Se2 3.453841 1_455
+Ba0 Se1 3.453841 1_455
+Ba0 Se1 3.453841 1_565
+Ba0 Se0 3.645159 1_555
+Ba0 Se5 3.645159 1_554
+Ba1 Se3 3.267556 1_545
+Ba1 Se3 3.267556 1_655
+Ba1 Se0 3.453841 1_655
+Ba1 Se0 3.453841 1_545
+Ba1 Se5 3.453841 1_545
+Ba1 Se5 3.453841 1_655
+Ba1 Se2 3.645159 1_556
+Ba1 Se1 3.645159 1_555
+Ag0 Se2 2.635180 1_555
+Ag0 Se1 2.635180 1_555
+Ag0 Se4 2.665160 1_565
+Ag0 Se4 2.665160 1_455
+Ag1 Se5 2.635180 1_555
+Ag1 Se0 2.635180 1_555
+Ag1 Se3 2.665160 1_655
+Ag1 Se3 2.665160 1_545
+Se0 Y1 2.946749 1_555
+Se0 Y1 2.946749 1_665
+Se1 Y1 2.946749 1_555
+Se1 Y1 2.946749 1_665
+Se2 Y0 2.946749 1_665
+Se2 Y0 2.946749 1_555
+Se3 Y0 2.934401 1_566
+Se3 Y1 2.934401 1_565
+Se4 Y0 2.934401 1_655
+Se4 Y1 2.934401 1_655
+Se5 Y0 2.946749 1_666
+Se5 Y0 2.946749 1_556

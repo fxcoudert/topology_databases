@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MgMn(ReO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85527800
+_cell_length_b   5.85646055
+_cell_length_c   5.91142202
+_cell_angle_alpha   90.00215860
+_cell_angle_beta   89.99947094
+_cell_angle_gamma   119.99754670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn(ReO4)2
+_chemical_formula_sum   'Mg1 Mn1 Re2 O8'
+_cell_volume   175.55616062
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00001800  0.99997900  0.50001100  1
+  Mn  Mn0  1  0.99999800  0.99997600  0.00004100  1
+  Re  Re0  1  0.33329800  0.66658700  0.32168500  1
+  Re  Re1  1  0.66668000  0.33340600  0.67825200  1
+  O  O0  1  0.66687900  0.33343100  0.38173200  1
+  O  O1  1  0.33348200  0.66657300  0.61825300  1
+  O  O2  1  0.84196700  0.15696100  0.74715400  1
+  O  O3  1  0.15690300  0.31499200  0.25280800  1
+  O  O4  1  0.68498400  0.84202900  0.25288900  1
+  O  O5  1  0.15797200  0.84287100  0.25276700  1
+  O  O6  1  0.84289600  0.68513000  0.74720900  1
+  O  O7  1  0.31492200  0.15806700  0.74719800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 2.164512 1_565
+Mg0 O6 2.164638 1_455
+Mg0 O4 2.164737 1_455
+Mg0 O2 2.164875 1_465
+Mg0 O3 2.165274 1_565
+Mg0 O5 2.165386 1_555
+Mn0 O6 2.187166 1_554
+Mn0 O7 2.187320 1_664
+Mn0 O5 2.187511 1_655
+Mn0 O3 2.187535 1_665
+Mn0 O4 2.187672 1_555
+Mn0 O2 2.187929 1_564
+O0 Re1 1.752855 1_555
+O1 Re0 1.753139 1_555
+O2 Re1 1.829655 1_555
+O3 Re0 1.829158 1_555
+O4 Re0 1.829168 1_555
+O5 Re0 1.829072 1_555
+O6 Re1 1.829899 1_555
+O7 Re1 1.829723 1_555

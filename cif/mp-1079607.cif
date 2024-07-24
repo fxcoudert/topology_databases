@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiLaSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.92579386
+_cell_length_b   9.92579386
+_cell_length_c   4.53727557
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.14324719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLaSn2
+_chemical_formula_sum   'Li2 La2 Sn4'
+_cell_volume   201.94579976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67596973  0.32403027  0.25000000  1
+  Li  Li1  1  0.32403027  0.67596973  0.75000000  1
+  La  La0  1  0.89383730  0.10616270  0.25000000  1
+  La  La1  1  0.10616270  0.89383830  0.75000000  1
+  Sn  Sn0  1  0.54360136  0.45639864  0.25000000  1
+  Sn  Sn1  1  0.45639864  0.54360136  0.75000000  1
+  Sn  Sn2  1  0.24960517  0.75039483  0.25000000  1
+  Sn  Sn3  1  0.75039483  0.24960517  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn0 2.555883 1_555
+Li0 Sn3 2.685493 1_555
+Li0 Sn3 2.685493 1_554
+Li0 Sn2 2.708299 1_655
+Li0 Sn2 2.708299 1_545
+Li1 Sn1 2.555883 1_555
+Li1 Sn2 2.685493 1_555
+Li1 Sn2 2.685493 1_556
+Li1 Sn3 2.708299 1_565
+Li1 Sn3 2.708299 1_455
+La0 Sn1 3.452430 1_655
+La0 Sn1 3.452430 1_654
+La0 Sn1 3.452430 1_544
+La0 Sn1 3.452430 1_545
+La0 Li1 3.503834 1_545
+La0 Li1 3.503834 1_544
+La0 Li1 3.503834 1_655
+La0 Li1 3.503834 1_654
+La0 Sn3 3.580226 1_554
+La0 Sn3 3.580226 1_555
+La0 Sn2 3.615151 1_545
+La0 Sn2 3.615151 1_655
+La0 Sn0 3.698064 1_655
+La0 Sn0 3.698064 1_545
+La1 Sn0 3.452425 1_565
+La1 Sn0 3.452425 1_566
+La1 Sn0 3.452428 1_456
+La1 Sn0 3.452428 1_455
+La1 Li0 3.503837 1_565
+La1 Li0 3.503837 1_566
+La1 Li0 3.503840 1_455
+La1 Li0 3.503840 1_456
+La1 Sn2 3.580233 1_555
+La1 Sn2 3.580233 1_556
+La1 Sn3 3.615157 1_565
+La1 Sn3 3.615159 1_455
+La1 Sn1 3.698055 1_565
+La1 Sn1 3.698058 1_455

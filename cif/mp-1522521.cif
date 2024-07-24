@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_SrMn(SeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72029401
+_cell_length_b   5.72029401
+_cell_length_c   7.47351578
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.20470071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMn(SeO3)4
+_chemical_formula_sum   'Sr1 Mn1 Se4 O12'
+_cell_volume   242.04356615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.06215796  0.93784204  0.50000000  1
+  Mn  Mn0  1  0.47737282  0.52262718  0.00000000  1
+  Se  Se0  1  0.54617404  0.98723411  0.24396722  1
+  Se  Se1  1  0.54617404  0.98723411  0.75603278  1
+  Se  Se2  1  0.01276589  0.45382596  0.75603278  1
+  Se  Se3  1  0.01276589  0.45382596  0.24396722  1
+  O  O0  1  0.15798292  0.22260064  0.23847466  1
+  O  O1  1  0.77739936  0.84201708  0.23847466  1
+  O  O2  1  0.77739936  0.84201708  0.76152534  1
+  O  O3  1  0.15798292  0.22260064  0.76152534  1
+  O  O4  1  0.30737834  0.69262166  0.27923060  1
+  O  O5  1  0.68706854  0.31293146  0.18523885  1
+  O  O6  1  0.68706854  0.31293146  0.81476115  1
+  O  O7  1  0.30737834  0.69262166  0.72076940  1
+  O  O8  1  0.44842918  0.92609907  0.00000000  1
+  O  O9  1  0.51352092  0.04901998  0.50000000  1
+  O  O10  1  0.07390093  0.55157082  0.00000000  1
+  O  O11  1  0.95098002  0.48647908  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O6 2.281426 1_554
+Mn0 O5 2.281426 1_555
+Mn0 O10 2.337357 1_555
+Mn0 O8 2.337357 1_555
+Mn0 O7 2.552639 1_554
+Mn0 O4 2.552639 1_555
+O0 Se3 1.659757 1_555
+O0 Sr0 2.553247 1_545
+O1 Se0 1.659757 1_555
+O1 Sr0 2.553247 1_655
+O2 Se1 1.659757 1_555
+O2 Sr0 2.553247 1_655
+O3 Se2 1.659757 1_555
+O3 Sr0 2.553247 1_545
+O4 Se0 2.029395 1_555
+O4 Se3 2.029395 1_555
+O4 Sr0 2.686852 1_555
+O5 Se0 1.970968 1_545
+O5 Se3 1.970968 1_655
+O6 Se1 1.970968 1_545
+O6 Se2 1.970968 1_655
+O7 Se1 2.029395 1_555
+O7 Se2 2.029395 1_555
+O7 Sr0 2.686852 1_555
+O8 Se0 1.924451 1_555
+O8 Se1 1.924451 1_554
+O9 Se1 1.959590 1_545
+O9 Se0 1.959590 1_545
+O9 Sr0 2.569464 1_545
+O10 Se3 1.924451 1_555
+O10 Se2 1.924451 1_554
+O11 Se2 1.959590 1_655
+O11 Se3 1.959590 1_655
+O11 Sr0 2.569464 1_655

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_GeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78764550
+_cell_length_b   8.47107703
+_cell_length_c   9.82305094
+_cell_angle_alpha   104.85593975
+_cell_angle_beta   90.02563573
+_cell_angle_gamma   102.95885339
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeAs
+_chemical_formula_sum   'Ge6 As6'
+_cell_volume   296.32059750
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.26019689  0.52031747  0.20910105  1
+  Ge  Ge1  1  0.73983092  0.47970123  0.79088900  1
+  Ge  Ge2  1  0.37021022  0.73843489  0.08083018  1
+  Ge  Ge3  1  0.62973809  0.26157102  0.91915976  1
+  Ge  Ge4  1  0.93317080  0.86498438  0.40940991  1
+  Ge  Ge5  1  0.06684764  0.13498982  0.59060220  1
+  As  As0  1  0.66193705  0.32425898  0.17751843  1
+  As  As1  1  0.33808276  0.67579157  0.82248211  1
+  As  As2  1  0.96430223  0.92507012  0.17437521  1
+  As  As3  1  0.03565690  0.07493428  0.82562142  1
+  As  As4  1  0.34708736  0.69342920  0.45300434  1
+  As  As5  1  0.65293714  0.30651704  0.54700640  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ge2 2.454421 1_555
+Ge1 Ge3 2.454512 1_555
+Ge4 Ge5 2.459270 1_665
+As0 Ge3 2.453011 1_554
+As0 Ge0 2.456946 1_655
+As0 Ge0 2.457575 1_555
+As1 Ge2 2.452932 1_556
+As1 Ge1 2.457036 1_455
+As1 Ge1 2.457805 1_555
+As2 Ge2 2.460513 1_655
+As2 Ge2 2.462721 1_555
+As2 Ge4 2.485810 1_555
+As3 Ge3 2.460540 1_455
+As3 Ge3 2.462680 1_555
+As3 Ge5 2.485550 1_555
+As4 Ge0 2.445448 1_555
+As4 Ge4 2.468524 1_455
+As4 Ge4 2.469061 1_555
+As5 Ge1 2.445475 1_555
+As5 Ge5 2.468327 1_655
+As5 Ge5 2.468981 1_555

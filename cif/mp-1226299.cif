@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CrCuSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24834177
+_cell_length_b   7.24834177
+_cell_length_c   7.24834177
+_cell_angle_alpha   120.44663600
+_cell_angle_beta   119.31717524
+_cell_angle_gamma   90.20744062
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCuSnS4
+_chemical_formula_sum   'Cr2 Cu2 Sn2 S8'
+_cell_volume   269.72420472
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu0  1  0.37945400  0.62945400  0.75000000  1
+  Cu  Cu1  1  0.62054600  0.37054600  0.25000000  1
+  Sn  Sn0  1  0.00000000  0.00000000  0.00000000  1
+  Sn  Sn1  1  0.50000000  0.00000000  0.50000000  1
+  S  S0  1  0.23693600  0.73471400  0.99777800  1
+  S  S1  1  0.23693600  0.23915800  0.50222200  1
+  S  S2  1  0.22529800  0.74857000  0.47672800  1
+  S  S3  1  0.77184200  0.74857000  0.02327200  1
+  S  S4  1  0.76306400  0.26528600  0.00222200  1
+  S  S5  1  0.76306400  0.76084200  0.49777800  1
+  S  S6  1  0.77470200  0.25143000  0.52327200  1
+  S  S7  1  0.22815800  0.25143000  0.97672800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S1 2.424413 1_555
+Cr0 S5 2.424413 1_445
+Cr0 S6 2.448743 1_455
+Cr0 S3 2.448743 1_445
+Cr0 S2 2.448743 1_545
+Cr0 S7 2.448743 1_555
+Cr1 S0 2.424413 1_554
+Cr1 S4 2.424413 1_455
+Cr1 S3 2.448743 1_455
+Cr1 S7 2.448743 1_554
+Cr1 S2 2.448743 1_555
+Cr1 S6 2.448743 1_454
+Cu0 S1 2.304044 1_555
+Cu0 S0 2.304044 1_555
+Cu0 S3 2.343119 1_556
+Cu0 S2 2.343119 1_555
+Cu1 S4 2.304044 1_555
+Cu1 S5 2.304044 1_555
+Cu1 S6 2.343119 1_555
+Cu1 S7 2.343119 1_554
+S0 Sn1 2.582013 1_566
+S0 Sn0 2.582013 1_566
+S1 Sn0 2.582013 1_555
+S1 Sn1 2.582013 1_555
+S2 Sn1 2.578303 1_565
+S3 Sn0 2.578303 1_665
+S4 Sn1 2.582013 1_554
+S4 Sn0 2.582013 1_655
+S5 Sn1 2.582013 1_565
+S5 Sn0 2.582013 1_666
+S6 Sn1 2.578303 1_555
+S7 Sn0 2.578303 1_556

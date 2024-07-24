@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_CaPbI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31461030
+_cell_length_b   4.57183065
+_cell_length_c   7.98375323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.78968078
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPbI4
+_chemical_formula_sum   'Ca1 Pb1 I4'
+_cell_volume   266.98416721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.50000000  0.50000000  1
+  Pb  Pb0  1  0.00000000  -0.00000000  -0.00000000  1
+  I  I0  1  0.24347986  -0.00000000  0.65837146  1
+  I  I1  1  0.24946223  0.50000000  0.17567298  1
+  I  I2  1  0.75053777  0.50000000  0.82432702  1
+  I  I3  1  0.75652014  -0.00000000  0.34162854  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 I1 3.162219 1_555
+Ca0 I2 3.162219 1_455
+Ca0 I0 3.164248 1_565
+Ca0 I0 3.164248 1_555
+Ca0 I3 3.164248 1_465
+Ca0 I3 3.164248 1_455
+I0 Pb0 3.251968 1_556
+I1 Pb0 3.246673 1_565
+I1 Pb0 3.246673 1_555
+I2 Pb0 3.246673 1_666
+I2 Pb0 3.246673 1_656
+I3 Pb0 3.251968 1_655

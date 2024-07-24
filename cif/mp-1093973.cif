@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.41925883
+_cell_length_b   12.69366178
+_cell_length_c   12.69366144
+_cell_angle_alpha   62.08528500
+_cell_angle_beta   63.26904501
+_cell_angle_gamma   63.26904504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PdPt
+_chemical_formula_sum   'Ba2 Pd1 Pt1'
+_cell_volume   1383.80577170
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74900317  -0.00000000  -0.00000000  1
+  Ba  Ba1  1  0.25099683  0.00000000  0.00000000  1
+  Pd  Pd0  1  -0.00000000  -0.00000000  0.00000000  1
+  Pt  Pt0  1  0.50000000  -0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pt0 2.843432 1_555
+Ba0 Pd0 2.866198 1_655
+Ba1 Pt0 2.843432 1_555
+Ba1 Pd0 2.866198 1_555

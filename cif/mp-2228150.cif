@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_MgZn2(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43073105
+_cell_length_b   5.35299880
+_cell_length_c   6.20539903
+_cell_angle_alpha   88.11208030
+_cell_angle_beta   92.69885591
+_cell_angle_gamma   70.06550019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(WO4)2
+_chemical_formula_sum   'Mg1 Zn2 W2 O8'
+_cell_volume   169.16766233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.60022009  0.60194863  0.62209449  1
+  Zn  Zn0  1  0.35594406  0.16247805  0.65970189  1
+  Zn  Zn1  1  0.55420426  0.82315063  0.17484192  1
+  W  W0  1  0.00255491  0.25829419  0.16457023  1
+  W  W1  1  0.01994654  0.75645281  0.87369444  1
+  O  O0  1  0.81955535  0.00213329  0.11057908  1
+  O  O1  1  0.20416737  0.49064174  0.11569788  1
+  O  O2  1  0.24802480  -0.01066312  0.92690917  1
+  O  O3  1  0.78631967  0.51435575  0.91070828  1
+  O  O4  1  0.74950544  0.48339576  0.35041116  1
+  O  O5  1  0.28036587  0.02896335  0.38055099  1
+  O  O6  1  0.27600107  0.53588634  0.67867907  1
+  O  O7  1  0.74207956  0.92796258  0.66697840  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O4 1.936663 1_555
+Mg0 O6 1.955300 1_555
+Mg0 O3 1.974818 1_555
+Mg0 O7 2.155284 1_555
+O0 W0 1.976959 1_655
+O0 Zn1 2.030763 1_545
+O0 W1 2.092075 1_644
+O1 W0 1.942351 1_555
+O1 W1 2.006920 1_554
+O2 W1 2.058849 1_545
+O2 Zn0 2.076666 1_555
+O2 Zn1 2.140914 1_546
+O2 W0 2.245264 1_556
+O3 W0 2.079751 1_656
+O3 W1 2.114480 1_655
+O3 Zn1 2.441329 1_556
+O4 W0 1.944750 1_655
+O4 Zn1 2.016151 1_555
+O5 Zn0 1.973469 1_555
+O5 W0 2.004430 1_555
+O5 Zn1 2.051599 1_545
+O6 Zn0 1.904298 1_555
+O6 W1 1.981219 1_555
+O7 W1 1.887036 1_655
+O7 Zn0 2.041482 1_565

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsSmMnSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29016800
+_cell_length_b   8.37315576
+_cell_length_c   11.31891200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   104.84386351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSmMnSe3
+_chemical_formula_sum   'Cs2 Sm2 Mn2 Se6'
+_cell_volume   393.03146453
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25962300  0.51924600  0.25000000  1
+  Cs  Cs1  1  0.74037700  0.48075400  0.75000000  1
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  Sm  Sm1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn0  1  0.53942800  0.07885600  0.25000000  1
+  Mn  Mn1  1  0.46057200  0.92114400  0.75000000  1
+  Se  Se0  1  0.61825000  0.23650000  0.43857600  1
+  Se  Se1  1  0.38175000  0.76350000  0.56142400  1
+  Se  Se2  1  0.38175000  0.76350000  0.93857600  1
+  Se  Se3  1  0.94769900  0.89539800  0.25000000  1
+  Se  Se4  1  0.05230100  0.10460200  0.75000000  1
+  Se  Se5  1  0.61825000  0.23650000  0.06142400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se3 3.724270 1_555
+Cs0 Se3 3.724270 1_455
+Cs0 Se5 3.794002 1_555
+Cs0 Se0 3.794002 1_455
+Cs0 Se5 3.794002 1_455
+Cs0 Se0 3.794002 1_555
+Cs0 Se1 4.041500 1_555
+Cs0 Se2 4.041500 1_554
+Cs1 Se4 3.724270 1_555
+Cs1 Se4 3.724270 1_655
+Cs1 Se1 3.794002 1_555
+Cs1 Se2 3.794002 1_555
+Cs1 Se2 3.794002 1_655
+Cs1 Se1 3.794002 1_655
+Cs1 Se0 4.041500 1_555
+Cs1 Se5 4.041500 1_556
+Mn0 Se5 2.486760 1_555
+Mn0 Se0 2.486760 1_555
+Mn0 Se3 2.608867 1_545
+Mn0 Se3 2.608867 1_445
+Mn1 Se2 2.486760 1_555
+Mn1 Se1 2.486760 1_555
+Mn1 Se4 2.608867 1_665
+Mn1 Se4 2.608867 1_565
+Se0 Sm1 2.957836 1_555
+Se0 Sm1 2.957836 1_655
+Se1 Sm1 2.957836 1_665
+Se1 Sm1 2.957836 1_565
+Se2 Sm0 2.957836 1_666
+Se2 Sm0 2.957836 1_566
+Se3 Sm0 2.953663 1_665
+Se3 Sm1 2.953663 1_665
+Se4 Sm0 2.953663 1_556
+Se4 Sm1 2.953663 1_555
+Se5 Sm0 2.957836 1_555
+Se5 Sm0 2.957836 1_655

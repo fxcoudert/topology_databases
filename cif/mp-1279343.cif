@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_CoNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93824390
+_cell_length_b   4.88510658
+_cell_length_c   5.33324150
+_cell_angle_alpha   63.16126914
+_cell_angle_beta   116.91750977
+_cell_angle_gamma   120.35388388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNiO3
+_chemical_formula_sum   'Co2 Ni2 O6'
+_cell_volume   94.75617405
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.83575800  0.15203900  0.52329400  1
+  Co  Co1  1  0.16217600  0.84861500  0.47661200  1
+  Ni  Ni0  1  0.35393700  0.64136000  0.06811600  1
+  Ni  Ni1  1  0.64635400  0.35844000  0.93245800  1
+  O  O0  1  0.77702700  0.95251800  0.26794900  1
+  O  O1  1  0.95296200  0.44078600  0.73362800  1
+  O  O2  1  0.56289800  0.78149200  0.73203600  1
+  O  O3  1  0.43692900  0.21814700  0.26715900  1
+  O  O4  1  0.04751300  0.55892900  0.26560000  1
+  O  O5  1  0.22444500  0.04767500  0.73314900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 O2 1.845284 1_545
+Co0 O0 1.855772 1_545
+Co0 O1 1.897054 1_555
+Co0 O3 1.912556 1_555
+Co0 O4 1.914954 1_655
+Co0 O5 1.930160 1_655
+Co1 O3 1.850261 1_565
+Co1 O5 1.852104 1_565
+Co1 O4 1.908129 1_555
+Co1 O1 1.910897 1_455
+Co1 O0 1.913839 1_455
+Co1 O2 1.921164 1_555
+Ni0 O4 2.001349 1_555
+Ni0 O0 2.012102 1_555
+Ni0 O3 2.012434 1_555
+Ni0 O1 2.117171 1_454
+Ni0 O5 2.141683 1_564
+Ni0 O2 2.144499 1_554
+Ni1 O5 2.007651 1_555
+Ni1 O1 2.007922 1_555
+Ni1 O2 2.012643 1_555
+Ni1 O4 2.112809 1_656
+Ni1 O3 2.139178 1_556
+Ni1 O0 2.143397 1_546

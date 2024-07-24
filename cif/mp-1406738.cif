@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Ca(MnS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98472224
+_cell_length_b   6.98472224
+_cell_length_c   6.98472194
+_cell_angle_alpha   60.90342855
+_cell_angle_beta   60.90342855
+_cell_angle_gamma   60.90342105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnS2)4
+_chemical_formula_sum   'Ca1 Mn4 S8'
+_cell_volume   245.85952020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.50000000  1
+  S  S0  1  0.73219800  0.28875300  0.73219800  1
+  S  S1  1  0.73219800  0.73219800  0.28875300  1
+  S  S2  1  0.28875300  0.73219800  0.73219800  1
+  S  S3  1  0.73923200  0.73923200  0.73923200  1
+  S  S4  1  0.26076800  0.26076800  0.26076800  1
+  S  S5  1  0.26780200  0.26780200  0.71124700  1
+  S  S6  1  0.71124700  0.26780200  0.26780200  1
+  S  S7  1  0.26780200  0.71124700  0.26780200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 S7 2.670230 1_545
+Ca0 S6 2.670230 1_455
+Ca0 S2 2.670230 1_544
+Ca0 S0 2.670230 1_454
+Ca0 S1 2.670230 1_445
+Ca0 S5 2.670230 1_554
+Mn0 S6 2.311119 1_555
+Mn0 S7 2.311119 1_555
+Mn0 S2 2.311119 1_555
+Mn0 S0 2.311119 1_555
+Mn0 S5 2.311120 1_555
+Mn0 S1 2.311120 1_555
+Mn1 S4 2.386900 1_555
+Mn1 S3 2.386900 1_554
+Mn1 S6 2.390131 1_555
+Mn1 S7 2.390131 1_555
+Mn1 S2 2.390131 1_554
+Mn1 S0 2.390131 1_554
+Mn2 S4 2.386900 1_555
+Mn2 S3 2.386900 1_545
+Mn2 S1 2.390131 1_545
+Mn2 S5 2.390131 1_555
+Mn2 S6 2.390131 1_555
+Mn2 S2 2.390131 1_545
+Mn3 S4 2.386900 1_555
+Mn3 S3 2.386900 1_455
+Mn3 S5 2.390131 1_555
+Mn3 S1 2.390131 1_455
+Mn3 S7 2.390131 1_555
+Mn3 S0 2.390131 1_455

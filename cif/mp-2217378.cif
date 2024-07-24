@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_MgCu2(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.92859200
+_cell_length_b   5.83796335
+_cell_length_c   8.45065549
+_cell_angle_alpha   85.33893852
+_cell_angle_beta   90.00003472
+_cell_angle_gamma   90.00006932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu2(SiO3)2
+_chemical_formula_sum   'Mg1 Cu2 Si2 O6'
+_cell_volume   144.00314355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.99999700  0.50000000  0.49999900  1
+  Cu  Cu1  1  0.99999800  0.49999800  0.00000100  1
+  Si  Si0  1  0.50000100  0.86502900  0.73199500  1
+  Si  Si1  1  0.50000000  0.13497100  0.26800500  1
+  O  O0  1  0.50000100  0.67939000  0.60606900  1
+  O  O1  1  0.50000000  0.32061100  0.39393100  1
+  O  O2  1  0.50000100  0.78068900  0.92997800  1
+  O  O3  1  0.50000100  0.21931100  0.07002100  1
+  O  O4  1  0.00000200  0.97926900  0.26776400  1
+  O  O5  1  0.00000000  0.02073200  0.73223600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.063169 1_455
+Mg0 O2 2.063169 1_444
+Mg0 O3 2.063171 1_555
+Mg0 O2 2.063176 1_544
+Mg0 O5 2.256173 1_554
+Mg0 O4 2.256174 1_545
+Cu0 O1 2.048632 1_555
+Cu0 O0 2.048644 1_555
+Cu0 O1 2.048647 1_655
+Cu0 O0 2.048658 1_655
+Cu1 O3 2.240941 1_555
+Cu1 O3 2.240955 1_655
+Cu1 O2 2.240965 1_554
+Cu1 O2 2.240975 1_654
+O0 Si0 1.579363 1_555
+O1 Si1 1.579367 1_555
+O2 Si0 1.705217 1_555
+O3 Si1 1.705225 1_555
+O4 Si1 1.723571 1_565
+O4 Si1 1.723583 1_465
+O5 Si0 1.723576 1_445
+O5 Si0 1.723583 1_545

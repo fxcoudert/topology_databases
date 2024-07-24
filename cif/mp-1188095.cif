@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_SnPbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85485000
+_cell_length_b   9.06626000
+_cell_length_c   14.43281500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPbS3
+_chemical_formula_sum   'Sn4 Pb4 S12'
+_cell_volume   504.41349581
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.25000000  0.16374800  0.94893900  1
+  Sn  Sn1  1  0.25000000  0.66374800  0.55106100  1
+  Sn  Sn2  1  0.75000000  0.83625200  0.05106100  1
+  Sn  Sn3  1  0.75000000  0.33625200  0.44893900  1
+  Pb  Pb0  1  0.75000000  0.48907600  0.83115700  1
+  Pb  Pb1  1  0.75000000  0.98907600  0.66884300  1
+  Pb  Pb2  1  0.25000000  0.51092400  0.16884300  1
+  Pb  Pb3  1  0.25000000  0.01092400  0.33115700  1
+  S  S0  1  0.75000000  0.98168800  0.89657600  1
+  S  S1  1  0.75000000  0.48168800  0.60342400  1
+  S  S2  1  0.25000000  0.01831200  0.10342400  1
+  S  S3  1  0.25000000  0.51831200  0.39657600  1
+  S  S4  1  0.75000000  0.33521100  0.00518400  1
+  S  S5  1  0.75000000  0.83521100  0.49481600  1
+  S  S6  1  0.25000000  0.66478900  0.99481600  1
+  S  S7  1  0.25000000  0.16478900  0.50518400  1
+  S  S8  1  0.25000000  0.27953500  0.79033400  1
+  S  S9  1  0.25000000  0.77953500  0.70966600  1
+  S  S10  1  0.75000000  0.72046500  0.20966600  1
+  S  S11  1  0.75000000  0.22046500  0.29033400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pb0 S8 2.769689 1_555
+Pb0 S8 2.769689 1_655
+Pb0 S4 2.873083 1_556
+Pb1 S9 2.769689 1_555
+Pb1 S9 2.769689 1_655
+Pb1 S5 2.873083 1_555
+Pb2 S10 2.769689 1_555
+Pb2 S10 2.769689 1_455
+Pb2 S6 2.873083 1_554
+Pb3 S11 2.769689 1_455
+Pb3 S11 2.769689 1_555
+Pb3 S7 2.873083 1_555
+S0 Sn2 2.590358 1_556
+S0 Sn0 2.647756 1_665
+S0 Sn0 2.647756 1_565
+S1 Sn3 2.590358 1_555
+S1 Sn1 2.647756 1_655
+S1 Sn1 2.647756 1_555
+S2 Sn0 2.590358 1_554
+S2 Sn2 2.647756 1_545
+S2 Sn2 2.647756 1_445
+S3 Sn1 2.590358 1_555
+S3 Sn3 2.647756 1_555
+S3 Sn3 2.647756 1_455
+S4 Sn0 2.605859 1_554
+S4 Sn0 2.605859 1_654
+S5 Sn1 2.605859 1_555
+S5 Sn1 2.605859 1_655
+S6 Sn2 2.605859 1_456
+S6 Sn2 2.605859 1_556
+S7 Sn3 2.605859 1_555
+S7 Sn3 2.605859 1_455
+S8 Sn0 2.518341 1_555
+S9 Sn1 2.518341 1_555
+S10 Sn2 2.518341 1_555
+S11 Sn3 2.518341 1_555

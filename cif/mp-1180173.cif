@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_NaAgSO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45613300
+_cell_length_b   6.00705698
+_cell_length_c   8.65119393
+_cell_angle_alpha   89.82788988
+_cell_angle_beta   105.80158845
+_cell_angle_gamma   91.90700438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAgSO5
+_chemical_formula_sum   'Na2 Ag2 S2 O10'
+_cell_volume   272.67391815
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.44513200  0.26970400  0.71234500  1
+  Na  Na1  1  0.55486800  0.73029600  0.28765500  1
+  Ag  Ag0  1  0.80352300  0.75114900  0.96848200  1
+  Ag  Ag1  1  0.19647700  0.24885100  0.03151800  1
+  S  S0  1  0.66412600  0.24441200  0.12054700  1
+  S  S1  1  0.33587400  0.75558800  0.87945300  1
+  O  O0  1  0.77457200  0.43297300  0.23401000  1
+  O  O1  1  0.22542800  0.56702700  0.76599000  1
+  O  O2  1  0.75470100  0.02511400  0.19516500  1
+  O  O3  1  0.24529900  0.97488600  0.80483500  1
+  O  O4  1  0.76929000  0.27191100  0.97095500  1
+  O  O5  1  0.23071000  0.72808900  0.02904500  1
+  O  O6  1  0.72862200  0.89937600  0.57211500  1
+  O  O7  1  0.27137800  0.10062400  0.42788500  1
+  O  O8  1  0.68515500  0.73215900  0.65084800  1
+  O  O9  1  0.31484500  0.26784100  0.34915200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.300593 1_555
+Na0 O3 2.302939 1_545
+Na0 O4 2.444859 1_555
+Na0 O7 2.582016 1_555
+Na1 O0 2.300593 1_555
+Na1 O2 2.302939 1_565
+Na1 O5 2.444859 1_555
+Na1 O6 2.582016 1_555
+Ag0 O5 2.254385 1_656
+Ag0 S1 2.457332 1_555
+Ag0 O2 2.637851 1_566
+Ag0 O8 2.647942 1_555
+Ag1 O4 2.254385 1_454
+Ag1 S0 2.457332 1_555
+Ag1 O3 2.637851 1_544
+Ag1 O9 2.647942 1_555
+O0 S0 1.499587 1_555
+O1 S1 1.499587 1_555
+O2 S0 1.503592 1_555
+O3 S1 1.503592 1_555
+O4 S0 1.558257 1_556
+O5 S1 1.558257 1_554
+O6 O8 1.263798 1_555
+O7 O9 1.263798 1_555

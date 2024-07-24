@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_LaAlSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16729539
+_cell_length_b   4.16729587
+_cell_length_c   11.53098330
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAlSi2
+_chemical_formula_sum   'La2 Al2 Si4'
+_cell_volume   173.42255368
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.00000000  0.00000000  0.81657511  1
+  La  La1  1  0.00000000  -0.00000000  0.18342489  1
+  Al  Al0  1  0.33333300  0.66666700  0.58007525  1
+  Al  Al1  1  0.66666700  0.33333300  0.41992475  1
+  Si  Si0  1  0.66666700  0.33333300  0.64061796  1
+  Si  Si1  1  0.33333300  0.66666700  0.35938204  1
+  Si  Si2  1  0.33333300  0.66666700  0.99493616  1
+  Si  Si3  1  0.66666700  0.33333300  0.00506384  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Si0 3.147292 1_455
+La0 Si0 3.147295 1_555
+La0 Si0 3.147295 1_445
+La0 Si2 3.165233 1_545
+La0 Si2 3.165235 1_445
+La0 Si2 3.165236 1_555
+La0 Si3 3.242330 1_456
+La0 Si3 3.242332 1_556
+La0 Si3 3.242333 1_446
+La1 Si1 3.147292 1_545
+La1 Si1 3.147295 1_445
+La1 Si1 3.147295 1_555
+La1 Si3 3.165233 1_455
+La1 Si3 3.165235 1_555
+La1 Si3 3.165236 1_445
+La1 Si2 3.242330 1_544
+La1 Si2 3.242332 1_444
+La1 Si2 3.242333 1_554
+Al0 Si0 2.505222 1_455
+Al0 Si0 2.505223 1_565
+Al0 Si0 2.505230 1_555
+Al0 Si1 2.544810 1_555
+Al1 Si1 2.505222 1_655
+Al1 Si1 2.505223 1_545
+Al1 Si1 2.505230 1_555
+Al1 Si0 2.544810 1_555
+Si2 Si3 2.408819 1_456
+Si2 Si3 2.408819 1_566
+Si2 Si3 2.408827 1_556

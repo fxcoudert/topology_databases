@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Sr(AlS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04973650
+_cell_length_b   6.04973650
+_cell_length_c   10.58688917
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.29527141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AlS2)2
+_chemical_formula_sum   'Sr2 Al4 S8'
+_cell_volume   331.09621550
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.50000000  0.25000000  1
+  Sr  Sr1  1  0.50000000  0.50000000  0.75000000  1
+  Al  Al0  1  0.75957962  0.23831002  0.50000000  1
+  Al  Al1  1  0.24042038  0.76168998  0.50000000  1
+  Al  Al2  1  0.76168998  0.24042038  0.00000000  1
+  Al  Al3  1  0.23831002  0.75957962  0.00000000  1
+  S  S0  1  0.82328913  0.64491339  0.50000000  1
+  S  S1  1  0.17671087  0.35508661  0.50000000  1
+  S  S2  1  0.35508661  0.17671087  0.00000000  1
+  S  S3  1  0.64491339  0.82328913  0.00000000  1
+  S  S4  1  0.00000000  0.50000000  0.16112904  1
+  S  S5  1  0.50000000  -0.00000000  0.33887096  1
+  S  S6  1  0.00000000  0.50000000  0.83887096  1
+  S  S7  1  0.50000000  -0.00000000  0.66112904  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 S1 2.239460 1_655
+Al0 S7 2.258868 1_555
+Al0 S5 2.258868 1_555
+Al0 S0 2.283510 1_555
+Al1 S0 2.239460 1_455
+Al1 S7 2.258868 1_565
+Al1 S5 2.258868 1_565
+Al1 S1 2.283510 1_555
+Al2 S3 2.239460 1_545
+Al2 S6 2.258868 1_654
+Al2 S4 2.258868 1_655
+Al2 S2 2.283510 1_555
+Al3 S2 2.239460 1_565
+Al3 S6 2.258868 1_554
+Al3 S4 2.258868 1_555
+Al3 S3 2.283510 1_555
+S0 Sr0 3.133304 1_555
+S0 Sr1 3.133304 1_555
+S1 Sr0 3.133304 1_555
+S1 Sr1 3.133304 1_555
+S2 Sr1 3.133304 1_554
+S2 Sr0 3.133304 1_555
+S3 Sr1 3.133304 1_554
+S3 Sr0 3.133304 1_555
+S4 Sr0 3.167816 1_555
+S4 Sr0 3.167816 1_455
+S5 Sr0 3.167816 1_555
+S5 Sr0 3.167816 1_545
+S6 Sr1 3.167816 1_455
+S6 Sr1 3.167816 1_555
+S7 Sr1 3.167816 1_555
+S7 Sr1 3.167816 1_545

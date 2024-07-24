@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_LiTb2(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78361202
+_cell_length_b   6.14607707
+_cell_length_c   6.14607842
+_cell_angle_alpha   110.44134860
+_cell_angle_beta   102.98621020
+_cell_angle_gamma   117.82797458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb2(PO4)2
+_chemical_formula_sum   'Li1 Tb2 P2 O8'
+_cell_volume   159.99754200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.25957200  0.25957200  1
+  Tb  Tb0  1  0.17986400  0.87947600  0.27619600  1
+  Tb  Tb1  1  0.82013600  0.09633100  0.69961100  1
+  P  P0  1  0.37776200  0.61680900  0.76344900  1
+  P  P1  1  0.62223800  0.38568700  0.23904800  1
+  O  O0  1  0.76419300  0.35666400  0.04895300  1
+  O  O1  1  0.71677200  0.82213200  0.93425600  1
+  O  O2  1  0.31236400  0.70990900  0.56476000  1
+  O  O3  1  0.78960300  0.71847300  0.40866000  1
+  O  O4  1  0.28322800  0.21748500  0.10536100  1
+  O  O5  1  0.21039700  0.61905600  0.92886900  1
+  O  O6  1  0.23580700  0.28476000  0.59247000  1
+  O  O7  1  0.68763600  0.25239600  0.39754600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O6 2.097068 1_555
+Li0 O0 2.097073 1_455
+Li0 O4 2.137910 1_555
+Li0 O1 2.137915 1_444
+Li0 O2 2.150597 1_555
+Li0 O7 2.150600 1_455
+O0 P1 1.578975 1_555
+O0 Tb1 2.381320 1_554
+O0 Tb0 2.489814 1_655
+O1 P0 1.542203 1_555
+O1 Tb1 2.534108 1_565
+O1 Tb0 2.790337 1_656
+O2 P0 1.563410 1_555
+O2 Tb1 2.443619 1_565
+O2 Tb0 2.498936 1_555
+O3 P1 1.554284 1_555
+O3 Tb1 2.279606 1_565
+O3 Tb0 2.457620 1_655
+O4 P1 1.542204 1_555
+O4 Tb0 2.534108 1_545
+O4 Tb1 2.790339 1_454
+O5 P0 1.554279 1_555
+O5 Tb0 2.279620 1_556
+O5 Tb1 2.457620 1_455
+O6 P0 1.578970 1_555
+O6 Tb0 2.381310 1_545
+O6 Tb1 2.489815 1_455
+O7 P1 1.563410 1_555
+O7 Tb0 2.443618 1_545
+O7 Tb1 2.498931 1_555

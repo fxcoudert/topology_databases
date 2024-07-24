@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_TbNiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11851572
+_cell_length_b   4.11152358
+_cell_length_c   8.55925751
+_cell_angle_alpha   103.89716115
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNiGe2
+_chemical_formula_sum   'Tb2 Ni2 Ge4'
+_cell_volume   140.69456921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75000000  0.10843564  0.21687129  1
+  Tb  Tb1  1  0.25000000  0.89156436  0.78312871  1
+  Ni  Ni0  1  0.75000000  0.32053047  0.64106095  1
+  Ni  Ni1  1  0.25000000  0.67946953  0.35893905  1
+  Ge  Ge0  1  0.75000000  0.45781750  0.91563500  1
+  Ge  Ge1  1  0.25000000  0.25067008  0.50133815  1
+  Ge  Ge2  1  0.25000000  0.54218250  0.08436500  1
+  Ge  Ge3  1  0.75000000  0.74932992  0.49866185  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Tb1 3.140071 1_645
+Ni0 Tb1 3.140071 1_545
+Ni0 Tb1 3.140071 1_555
+Ni0 Tb1 3.140071 1_655
+Ni1 Tb0 3.140071 1_565
+Ni1 Tb0 3.140071 1_465
+Ni1 Tb0 3.140071 1_555
+Ni1 Tb0 3.140071 1_455
+Ge0 Ni0 2.281357 1_555
+Ge0 Ge2 2.491174 1_556
+Ge0 Ge2 2.491174 1_656
+Ge0 Tb1 3.111078 1_545
+Ge0 Tb1 3.111078 1_645
+Ge0 Tb1 3.111078 1_555
+Ge0 Tb1 3.111078 1_655
+Ge0 Tb0 3.238919 1_566
+Ge0 Tb0 3.238919 1_556
+Ge1 Ni0 2.363952 1_455
+Ge1 Ni0 2.363952 1_555
+Ge1 Ni1 2.371917 1_555
+Ge1 Ni1 2.371924 1_545
+Ge1 Tb1 3.115751 1_555
+Ge1 Tb1 3.115757 1_545
+Ge1 Tb0 3.134793 1_555
+Ge1 Tb0 3.134793 1_455
+Ge2 Ni1 2.281357 1_555
+Ge2 Tb0 3.111078 1_565
+Ge2 Tb0 3.111078 1_465
+Ge2 Tb0 3.111078 1_555
+Ge2 Tb0 3.111078 1_455
+Ge2 Tb1 3.238919 1_544
+Ge2 Tb1 3.238919 1_554
+Ge3 Ni1 2.363952 1_555
+Ge3 Ni1 2.363952 1_655
+Ge3 Ni0 2.371917 1_555
+Ge3 Ni0 2.371924 1_565
+Ge3 Tb0 3.115751 1_555
+Ge3 Tb0 3.115757 1_565
+Ge3 Tb1 3.134793 1_555
+Ge3 Tb1 3.134793 1_655

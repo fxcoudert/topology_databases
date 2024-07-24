@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MgTe4Mo3W(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39993601
+_cell_length_b   3.39973276
+_cell_length_c   46.18138122
+_cell_angle_alpha   90.04841696
+_cell_angle_beta   90.00707039
+_cell_angle_gamma   120.00188581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe4Mo3W(SeS)2
+_chemical_formula_sum   'Mg1 Te4 Mo3 W1 Se2 S2'
+_cell_volume   462.27943990
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99882200  0.99883600  0.36136300  1
+  Te  Te0  1  0.33399300  0.66767300  0.69877900  1
+  Te  Te1  1  0.66574200  0.33203300  0.05346900  1
+  Te  Te2  1  0.66702300  0.33383700  0.13465900  1
+  Te  Te3  1  0.33289300  0.66605700  0.61769700  1
+  Mo  Mo0  1  0.33305400  0.66625300  0.09406700  1
+  Mo  Mo1  1  0.66718200  0.33404800  0.27598400  1
+  Mo  Mo2  1  0.66675900  0.33350700  0.65824300  1
+  W  W0  1  0.33342200  0.66659500  0.47765500  1
+  Se  Se0  1  0.66636400  0.33255600  0.44174900  1
+  Se  Se1  1  0.66712100  0.33392600  0.51349900  1
+  S  S0  1  0.33355100  0.66715400  0.30917300  1
+  S  S1  1  0.33407400  0.66752500  0.24393700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 3.104850 1_555
+Mg0 S0 3.107295 1_655
+Mg0 S0 3.112992 1_665
+Mo0 Te2 2.713749 1_455
+Mo0 Te1 2.713887 1_565
+Mo0 Te2 2.714211 1_555
+Mo0 Te1 2.714387 1_555
+Mo0 Te2 2.714697 1_565
+Mo0 Te1 2.714959 1_455
+Mo1 S1 2.456657 1_545
+Mo1 S1 2.458625 1_555
+Mo1 S1 2.459601 1_655
+Mo1 S0 2.488980 1_655
+Mo1 S0 2.490091 1_555
+Mo1 S0 2.492132 1_545
+Mo2 Te0 2.712022 1_545
+Mo2 Te0 2.712462 1_555
+Mo2 Te3 2.712501 1_655
+Mo2 Te3 2.712810 1_555
+Mo2 Te0 2.712817 1_655
+Mo2 Te3 2.712947 1_545
+Se0 W0 2.569208 1_545
+Se0 W0 2.569640 1_655
+Se0 W0 2.569735 1_555
+Se1 W0 2.567564 1_555
+Se1 W0 2.567686 1_655
+Se1 W0 2.567792 1_545

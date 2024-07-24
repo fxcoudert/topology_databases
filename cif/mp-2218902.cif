@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgTe6Mo2(WS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47515800
+_cell_length_b   3.47526810
+_cell_length_c   43.76455869
+_cell_angle_alpha   90.13709061
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99895200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe6Mo2(WS)2
+_chemical_formula_sum   'Mg1 Te6 Mo2 W2 S2'
+_cell_volume   457.74012378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66281800  0.32563700  0.20567900  1
+  Te  Te0  1  0.33418500  0.66837200  0.70008600  1
+  Te  Te1  1  0.66620500  0.33240800  0.04688200  1
+  Te  Te2  1  0.66581200  0.33162200  0.42718400  1
+  Te  Te3  1  0.66793900  0.33587700  0.13148400  1
+  Te  Te4  1  0.66761300  0.33522500  0.51133000  1
+  Te  Te5  1  0.33245100  0.66490400  0.61555000  1
+  Mo  Mo0  1  0.33338400  0.66676700  0.46926200  1
+  Mo  Mo1  1  0.66549900  0.33099800  0.28749200  1
+  W  W0  1  0.33372900  0.66745800  0.08912600  1
+  W  W1  1  0.66665900  0.33331700  0.65783200  1
+  S  S0  1  0.33275000  0.66550200  0.32078700  1
+  S  S1  1  0.33167100  0.66334300  0.25353900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S1 2.895441 1_545
+Mg0 S1 2.903051 1_655
+Mg0 S1 2.903051 1_555
+Mg0 Te3 3.247343 1_555
+Te0 W1 2.728597 1_565
+Te0 W1 2.728627 1_455
+Te0 W1 2.728633 1_555
+Te1 W0 2.728310 1_545
+Te1 W0 2.728326 1_655
+Te1 W0 2.728331 1_555
+Te3 W0 2.731633 1_655
+Te3 W0 2.731635 1_555
+Te3 W0 2.731849 1_545
+Te5 W1 2.729378 1_455
+Te5 W1 2.729385 1_555
+Te5 W1 2.729586 1_565
+Mo0 Te4 2.722981 1_455
+Mo0 Te4 2.722981 1_555
+Mo0 Te2 2.723167 1_565
+Mo0 Te4 2.723365 1_565
+Mo0 Te2 2.723522 1_455
+Mo0 Te2 2.723525 1_555
+Mo1 S0 2.479493 1_655
+Mo1 S0 2.479497 1_555
+Mo1 S0 2.480156 1_545
+Mo1 S1 2.495871 1_545
+Mo1 S1 2.497182 1_655
+Mo1 S1 2.497185 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_HfSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76822566
+_cell_length_b   5.22344715
+_cell_length_c   6.86239649
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSi
+_chemical_formula_sum   'Hf4 Si4'
+_cell_volume   135.07342565
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.37439240  0.67514414  1
+  Hf  Hf1  1  0.75000000  0.62560760  0.32485586  1
+  Hf  Hf2  1  0.75000000  0.87439240  0.82485586  1
+  Hf  Hf3  1  0.25000000  0.12560760  0.17514414  1
+  Si  Si0  1  0.25000000  0.86087047  0.54312423  1
+  Si  Si1  1  0.75000000  0.13912953  0.45687477  1
+  Si  Si2  1  0.75000000  0.36087047  0.95687577  1
+  Si  Si3  1  0.25000000  0.63912953  0.04312423  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Si0 2.697765 1_555
+Hf0 Si2 2.700505 1_455
+Hf0 Si2 2.700505 1_555
+Hf0 Si1 2.702516 1_455
+Hf0 Si1 2.702516 1_555
+Hf0 Si0 2.831221 1_545
+Hf0 Si3 2.879064 1_556
+Hf1 Si1 2.697763 1_555
+Hf1 Si3 2.700505 1_555
+Hf1 Si3 2.700505 1_655
+Hf1 Si0 2.702512 1_655
+Hf1 Si0 2.702512 1_555
+Hf1 Si1 2.831219 1_565
+Hf1 Si2 2.879064 1_554
+Hf2 Si2 2.697765 1_565
+Hf2 Si0 2.700505 1_655
+Hf2 Si0 2.700505 1_555
+Hf2 Si3 2.702512 1_656
+Hf2 Si3 2.702512 1_556
+Hf2 Si2 2.831221 1_555
+Hf2 Si1 2.879070 1_565
+Hf3 Si3 2.697765 1_545
+Hf3 Si1 2.700500 1_455
+Hf3 Si1 2.700500 1_555
+Hf3 Si2 2.702512 1_454
+Hf3 Si2 2.702512 1_554
+Hf3 Si3 2.831221 1_555
+Hf3 Si0 2.879064 1_545
+Si0 Si1 2.452097 1_565
+Si0 Si1 2.452097 1_465
+Si2 Si3 2.452095 1_656
+Si2 Si3 2.452095 1_556

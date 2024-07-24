@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Ce2NiSn2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57704600
+_cell_length_b   7.38146200
+_cell_length_c   7.91619100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2NiSn2Pt
+_chemical_formula_sum   'Ce4 Ni2 Sn4 Pt2'
+_cell_volume   267.45081751
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.48406400  0.55337000  1
+  Ce  Ce1  1  0.50000000  0.98406400  0.44663000  1
+  Ce  Ce2  1  0.00000000  0.51264200  0.94527100  1
+  Ce  Ce3  1  0.00000000  0.01264200  0.05472900  1
+  Ni  Ni0  1  0.00000000  0.79310700  0.66236800  1
+  Ni  Ni1  1  0.00000000  0.29310700  0.33763200  1
+  Sn  Sn0  1  0.50000000  0.31674900  0.17488200  1
+  Sn  Sn1  1  0.50000000  0.81674900  0.82511800  1
+  Sn  Sn2  1  0.00000000  0.67557200  0.34572000  1
+  Sn  Sn3  1  0.00000000  0.17557200  0.65428000  1
+  Pt  Pt0  1  0.50000000  0.21786600  0.84027100  1
+  Pt  Pt1  1  0.50000000  0.71786600  0.15972900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Pt0 3.003187 1_555
+Ce0 Sn2 3.152411 1_655
+Ce0 Sn2 3.152411 1_555
+Ce0 Ni1 3.184463 1_555
+Ce0 Ni1 3.184463 1_655
+Ce0 Sn0 3.240742 1_555
+Ce0 Sn1 3.264685 1_555
+Ce0 Sn3 3.325769 1_555
+Ce0 Sn3 3.325769 1_655
+Ce0 Ni0 3.344498 1_655
+Ce0 Ni0 3.344498 1_555
+Ce0 Pt1 3.562120 1_555
+Ce1 Pt1 3.003187 1_555
+Ce1 Sn3 3.152411 1_565
+Ce1 Sn3 3.152411 1_665
+Ce1 Ni0 3.184463 1_555
+Ce1 Ni0 3.184463 1_655
+Ce1 Sn1 3.240742 1_555
+Ce1 Sn0 3.264685 1_565
+Ce1 Sn2 3.325769 1_555
+Ce1 Sn2 3.325769 1_655
+Ce1 Ni1 3.344498 1_665
+Ce1 Ni1 3.344498 1_565
+Ce1 Pt0 3.562120 1_565
+Ce2 Ni0 3.049807 1_555
+Ce2 Pt1 3.227115 1_456
+Ce2 Pt1 3.227115 1_556
+Ce2 Sn0 3.260678 1_556
+Ce2 Sn0 3.260678 1_456
+Ce2 Pt0 3.265375 1_555
+Ce2 Pt0 3.265375 1_455
+Ce2 Sn1 3.343793 1_455
+Ce2 Sn1 3.343793 1_555
+Ce2 Sn2 3.390500 1_556
+Ce2 Sn3 3.390691 1_555
+Ce2 Ni1 3.503320 1_556
+Ce3 Ni1 3.049807 1_555
+Ce3 Pt0 3.227115 1_454
+Ce3 Pt0 3.227115 1_554
+Ce3 Sn1 3.260678 1_544
+Ce3 Sn1 3.260678 1_444
+Ce3 Pt1 3.265375 1_445
+Ce3 Pt1 3.265375 1_545
+Ce3 Sn0 3.343793 1_455
+Ce3 Sn0 3.343793 1_555
+Ce3 Sn3 3.390500 1_554
+Ce3 Sn2 3.390691 1_545
+Ce3 Ni0 3.503320 1_544
+Ni0 Sn1 2.632046 1_555
+Ni0 Sn1 2.632046 1_455
+Ni0 Sn2 2.652540 1_555
+Ni0 Sn3 2.823877 1_565
+Ni1 Sn0 2.632046 1_555
+Ni1 Sn0 2.632046 1_455
+Ni1 Sn3 2.652540 1_555
+Ni1 Sn2 2.823877 1_555
+Pt0 Sn3 2.739085 1_655
+Pt0 Sn3 2.739085 1_555
+Pt0 Sn0 2.747569 1_556
+Pt0 Sn1 2.963259 1_545
+Pt1 Sn2 2.739085 1_655
+Pt1 Sn2 2.739085 1_555
+Pt1 Sn1 2.747569 1_554
+Pt1 Sn0 2.963259 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TeAsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32715933
+_cell_length_b   6.39232980
+_cell_length_c   6.44069498
+_cell_angle_alpha   113.29794533
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeAsRu
+_chemical_formula_sum   'Te4 As4 Ru4'
+_cell_volume   239.25509268
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.12484078  0.84401395  0.13331941  1
+  Te  Te1  1  0.62484078  0.15598605  0.36668059  1
+  Te  Te2  1  0.87515922  0.15598605  0.86668059  1
+  Te  Te3  1  0.37515922  0.84401395  0.63331941  1
+  As  As0  1  0.85642207  0.64611347  0.33028055  1
+  As  As1  1  0.35642207  0.35388653  0.16971945  1
+  As  As2  1  0.14357793  0.35388653  0.66971945  1
+  As  As3  1  0.64357793  0.64611347  0.83028055  1
+  Ru  Ru0  1  0.50894690  0.71505226  0.20516799  1
+  Ru  Ru1  1  0.00894690  0.28494774  0.29483201  1
+  Ru  Ru2  1  0.49105310  0.28494774  0.79483201  1
+  Ru  Ru3  1  0.99105310  0.71505226  0.70516799  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Ru1 2.428280 1_655
+As0 Ru3 2.430662 1_555
+As0 Ru0 2.440894 1_555
+As0 Te0 2.713549 1_655
+As1 Ru0 2.428280 1_555
+As1 Ru2 2.430662 1_554
+As1 Ru1 2.440894 1_555
+As1 Te1 2.713549 1_555
+As2 Ru3 2.428280 1_455
+As2 Ru1 2.430662 1_555
+As2 Ru2 2.440894 1_555
+As2 Te2 2.713549 1_455
+As3 Ru2 2.428280 1_555
+As3 Ru0 2.430662 1_556
+As3 Ru3 2.440894 1_555
+As3 Te3 2.713549 1_555
+Ru0 Te0 2.664928 1_555
+Ru0 Te3 2.683699 1_555
+Ru0 Te1 2.691648 1_565
+Ru1 Te1 2.664928 1_455
+Ru1 Te2 2.683699 1_454
+Ru1 Te0 2.691648 1_545
+Ru2 Te2 2.664928 1_555
+Ru2 Te1 2.683699 1_555
+Ru2 Te3 2.691648 1_545
+Ru3 Te3 2.664928 1_655
+Ru3 Te0 2.683699 1_656
+Ru3 Te2 2.691648 1_565

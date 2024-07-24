@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_K3InP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79975480
+_cell_length_b   7.67688410
+_cell_length_c   8.88910950
+_cell_angle_alpha   115.58273150
+_cell_angle_beta   112.48718280
+_cell_angle_gamma   90.00000840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3InP2
+_chemical_formula_sum   'K6 In2 P4'
+_cell_volume   379.03577758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.81589338  0.01605249  0.63178776  1
+  K  K1  1  0.75000000  0.50000000  -0.00000000  1
+  K  K2  1  0.31589338  0.61573527  0.63178776  1
+  K  K3  1  0.68410662  0.38426473  0.36821224  1
+  K  K4  1  0.25000000  0.50000000  -0.00000000  1
+  K  K5  1  0.18410662  0.98394751  0.36821224  1
+  In  In0  1  0.25000000  -0.00000000  -0.00000000  1
+  In  In1  1  0.75000000  -0.00000000  -0.00000000  1
+  P  P0  1  0.40317086  0.09258266  0.80634071  1
+  P  P1  1  0.59682914  0.90741734  0.19365929  1
+  P  P2  1  0.09682914  0.28624195  0.19365929  1
+  P  P3  1  0.90317086  0.71375805  0.80634071  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P3 3.248176 1_545
+K0 P1 3.292309 1_545
+K0 P0 3.629372 1_555
+K0 P0 3.629385 1_655
+K1 P0 3.248418 1_554
+K1 P2 3.248418 1_655
+K1 P3 3.248422 1_554
+K1 P1 3.248422 1_555
+K2 P0 3.248176 1_565
+K2 P2 3.292309 1_555
+K2 P3 3.629372 1_455
+K2 P3 3.629385 1_555
+K3 P1 3.248176 1_545
+K3 P3 3.292309 1_555
+K3 P2 3.629372 1_655
+K3 P2 3.629385 1_555
+K4 P1 3.248418 1_555
+K4 P3 3.248418 1_454
+K4 P2 3.248422 1_555
+K4 P0 3.248422 1_554
+K5 P2 3.248176 1_565
+K5 P0 3.292309 1_565
+K5 P1 3.629372 1_555
+K5 P1 3.629385 1_455
+In0 P3 2.642255 1_444
+In0 P1 2.642255 1_545
+In0 P0 2.642260 1_554
+In0 P2 2.642260 1_555
+In0 K5 3.521245 1_545
+In0 K2 3.521245 1_544
+In0 K3 3.521248 1_555
+In0 K0 3.521248 1_454
+In1 P2 2.642255 1_655
+In1 P0 2.642255 1_554
+In1 P1 2.642260 1_545
+In1 P3 2.642260 1_544
+In1 K0 3.521245 1_554
+In1 K3 3.521245 1_555
+In1 K2 3.521248 1_544
+In1 K5 3.521248 1_645

@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_K2NaBP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79609244
+_cell_length_b   6.79609244
+_cell_length_c   12.13978768
+_cell_angle_alpha   61.51882992
+_cell_angle_beta   61.51882992
+_cell_angle_gamma   43.35751735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaBP2
+_chemical_formula_sum   'K4 Na2 B2 P4'
+_cell_volume   330.39582390
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98273700  0.98273700  0.17971200  1
+  K  K1  1  0.17706700  0.17706700  0.40864300  1
+  K  K2  1  0.01726300  0.01726300  0.82028800  1
+  K  K3  1  0.82293300  0.82293300  0.59135700  1
+  Na  Na0  1  0.29712700  0.29712700  0.86650300  1
+  Na  Na1  1  0.70287300  0.70287300  0.13349700  1
+  B  B0  1  0.50000000  0.50000000  0.50000000  1
+  B  B1  1  0.50000000  0.50000000  0.00000000  1
+  P  P0  1  0.33574600  0.33574600  0.08842500  1
+  P  P1  1  0.46689000  0.46689000  0.37386900  1
+  P  P2  1  0.66425400  0.66425400  0.91157500  1
+  P  P3  1  0.53311000  0.53311000  0.62613100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P1 3.378460 1_565
+K0 P1 3.378460 1_655
+K1 P0 3.336508 1_555
+K1 P3 3.413582 1_455
+K1 P3 3.413582 1_545
+K1 P1 3.463071 1_555
+K2 P3 3.378460 1_455
+K2 P3 3.378460 1_545
+K3 P2 3.336508 1_555
+K3 P1 3.413582 1_565
+K3 P1 3.413582 1_655
+K3 P3 3.463071 1_555
+Na0 P3 2.910778 1_555
+Na0 P2 2.911381 1_545
+Na0 P2 2.911381 1_455
+Na0 P0 2.974019 1_556
+Na1 P1 2.910778 1_555
+Na1 P0 2.911381 1_655
+Na1 P0 2.911381 1_565
+Na1 P2 2.974019 1_554
+B0 P3 1.782330 1_555
+B0 P1 1.782330 1_555
+B0 K3 3.160504 1_545
+B0 K1 3.160504 1_655
+B0 K3 3.160504 1_455
+B0 K1 3.160504 1_565
+B1 P0 1.780680 1_555
+B1 P2 1.780680 1_554
+B1 K2 3.259072 1_564
+B1 K0 3.259072 1_455
+B1 K0 3.259072 1_545
+B1 K2 3.259072 1_654

@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Ho3(GePd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14350027
+_cell_length_b   7.05449089
+_cell_length_c   8.04428216
+_cell_angle_alpha   116.00685285
+_cell_angle_beta   104.92433491
+_cell_angle_gamma   90.00000255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(GePd)4
+_chemical_formula_sum   'Ho3 Ge4 Pd4'
+_cell_volume   202.46453807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.12555590  0.62555590  0.25111180  1
+  Ho  Ho1  1  0.87444410  0.37444410  0.74888820  1
+  Ho  Ho2  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.78159838  0.78159838  0.56319577  1
+  Ge  Ge1  1  0.21840162  0.21840162  0.43680423  1
+  Ge  Ge2  1  0.50000000  0.31148708  -0.00000000  1
+  Ge  Ge3  1  0.50000000  0.68851292  0.00000000  1
+  Pd  Pd0  1  0.67597481  0.37684944  0.35194962  1
+  Pd  Pd1  1  0.32402519  0.02489983  0.64805038  1
+  Pd  Pd2  1  0.67597481  0.97510017  0.35194962  1
+  Pd  Pd3  1  0.32402519  0.62315056  0.64805038  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Pd2 3.038558 1_555
+Ho0 Pd2 3.038559 1_455
+Ho0 Pd0 3.038559 1_455
+Ho0 Pd0 3.038559 1_555
+Ho0 Pd1 3.093110 1_565
+Ho0 Pd3 3.093110 1_555
+Ho1 Pd1 3.038558 1_555
+Ho1 Pd1 3.038559 1_655
+Ho1 Pd3 3.038559 1_655
+Ho1 Pd3 3.038559 1_555
+Ho1 Pd2 3.093110 1_545
+Ho1 Pd0 3.093110 1_555
+Ge0 Pd2 2.567839 1_555
+Ge0 Pd0 2.567845 1_555
+Ge0 Pd1 2.577918 1_665
+Ge0 Pd1 2.577921 1_565
+Ge0 Pd3 2.577922 1_655
+Ge0 Pd3 2.577925 1_555
+Ge0 Ho0 2.994147 1_655
+Ge0 Ho0 2.994149 1_555
+Ge0 Ho2 3.025539 1_666
+Ge1 Pd1 2.567839 1_555
+Ge1 Pd3 2.567845 1_555
+Ge1 Pd2 2.577918 1_445
+Ge1 Pd2 2.577921 1_545
+Ge1 Pd0 2.577922 1_455
+Ge1 Pd0 2.577925 1_555
+Ge1 Ho1 2.994147 1_455
+Ge1 Ho1 2.994149 1_555
+Ge1 Ho2 3.025539 1_555
+Ge2 Pd1 2.559632 1_554
+Ge2 Pd0 2.559632 1_555
+Ge2 Ge3 2.659725 1_555
+Ge2 Ho0 3.014294 1_655
+Ge2 Ho0 3.014294 1_555
+Ge2 Ho1 3.014294 1_454
+Ge2 Ho1 3.014294 1_554
+Ge2 Ho2 3.020040 1_555
+Ge2 Ho2 3.020040 1_655
+Ge3 Pd2 2.559632 1_555
+Ge3 Pd3 2.559632 1_554
+Ge3 Ho1 3.014294 1_454
+Ge3 Ho1 3.014294 1_554
+Ge3 Ho0 3.014294 1_655
+Ge3 Ho0 3.014294 1_555
+Ge3 Ho2 3.020040 1_665
+Ge3 Ho2 3.020040 1_565

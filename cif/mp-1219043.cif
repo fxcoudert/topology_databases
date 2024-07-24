@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Sn2SbSe2I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80904428
+_cell_length_b   7.80904428
+_cell_length_c   19.03843900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.68611260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn2SbSe2I3
+_chemical_formula_sum   'Sn4 Sb2 Se4 I6'
+_cell_volume   620.61361479
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.87683500  0.12316500  0.50327000  1
+  Sn  Sn1  1  0.13737800  0.86262200  0.51481800  1
+  Sn  Sn2  1  0.86262200  0.13737800  0.01481800  1
+  Sn  Sn3  1  0.12316500  0.87683500  0.00327000  1
+  Sb  Sb0  1  0.20938200  0.79061800  0.29499400  1
+  Sb  Sb1  1  0.79061800  0.20938200  0.79499400  1
+  Se  Se0  1  0.27997800  0.72002200  0.41908800  1
+  Se  Se1  1  0.72366700  0.27633300  0.58091800  1
+  Se  Se2  1  0.27633300  0.72366700  0.08091800  1
+  Se  Se3  1  0.72002200  0.27997800  0.91908800  1
+  I  I0  1  0.57347300  0.42652700  0.34279900  1
+  I  I1  1  0.44528700  0.55471300  0.60897200  1
+  I  I2  1  0.55471300  0.44528700  0.10897200  1
+  I  I3  1  0.42652700  0.57347300  0.84279900  1
+  I  I4  1  0.84156600  0.15843400  0.25124000  1
+  I  I5  1  0.15843400  0.84156600  0.75124000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Se0 2.589055 1_555
+Sb1 Se3 2.589055 1_555
+Se0 Sn1 2.810294 1_555
+Se0 Sn0 3.066230 1_565
+Se0 Sn0 3.066230 1_455
+Se1 Sn0 2.732182 1_555
+Se1 Sn1 2.825112 1_655
+Se1 Sn1 2.825112 1_545
+Se2 Sn3 2.732182 1_555
+Se2 Sn2 2.825112 1_565
+Se2 Sn2 2.825112 1_455
+Se3 Sn2 2.810294 1_556
+Se3 Sn3 3.066230 1_656
+Se3 Sn3 3.066230 1_546
+I0 Sb0 3.115615 1_655
+I0 Sb0 3.115615 1_545
+I1 Sn0 3.134679 1_455
+I1 Sn0 3.134679 1_565
+I2 Sn3 3.134679 1_655
+I2 Sn3 3.134679 1_545
+I3 Sb1 3.115615 1_565
+I3 Sb1 3.115615 1_455
+I4 Sb0 3.057431 1_655
+I4 Sb0 3.057431 1_545
+I5 Sb1 3.057431 1_455
+I5 Sb1 3.057431 1_565

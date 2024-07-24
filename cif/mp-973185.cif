@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_ScAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47289944
+_cell_length_b   6.47289944
+_cell_length_c   6.47289990
+_cell_angle_alpha   28.74248624
+_cell_angle_beta   28.74248624
+_cell_angle_gamma   28.74247833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAgO2
+_chemical_formula_sum   'Sc1 Ag1 O2'
+_cell_volume   55.44877208
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000100  0.50000100  0.50000000  1
+  Ag  Ag0  1  -0.00000000  -0.00000000  0.00000000  1
+  O  O0  1  0.11138028  0.11138028  0.11138028  1
+  O  O1  1  0.88861972  0.88861972  0.88861872  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O0 2.072128 1_555
+Ag0 O1 2.072134 1_444
+O0 Sc0 2.121199 1_455
+O0 Sc0 2.121199 1_545
+O0 Sc0 2.121201 1_554
+O1 Sc0 2.121184 1_565
+O1 Sc0 2.121184 1_655
+O1 Sc0 2.121185 1_556

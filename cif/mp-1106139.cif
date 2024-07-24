@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_In4Bi3Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10955825
+_cell_length_b   9.10955825
+_cell_length_c   9.10955825
+_cell_angle_alpha   124.65502871
+_cell_angle_beta   124.65502871
+_cell_angle_gamma   82.11020639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Bi3Pb
+_chemical_formula_sum   'In8 Bi6 Pb2'
+_cell_volume   491.79514761
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.98557700  0.48557700  0.80219900  1
+  In  In1  1  0.68337800  0.18337800  0.19780100  1
+  In  In2  1  0.48557700  0.68337800  0.50000000  1
+  In  In3  1  0.18337800  0.98557700  0.50000000  1
+  In  In4  1  0.01442300  0.51442300  0.19780100  1
+  In  In5  1  0.31662200  0.81662200  0.80219900  1
+  In  In6  1  0.51442300  0.31662200  0.50000000  1
+  In  In7  1  0.81662200  0.01442300  0.50000000  1
+  Bi  Bi0  1  0.75000000  0.75000000  0.00000000  1
+  Bi  Bi1  1  0.25000000  0.25000000  0.00000000  1
+  Bi  Bi2  1  0.36216300  0.86216300  0.22432600  1
+  Bi  Bi3  1  0.63783700  0.13783700  0.77567400  1
+  Bi  Bi4  1  0.86216300  0.63783700  0.50000000  1
+  Bi  Bi5  1  0.13783700  0.36216300  0.50000000  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb1  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In4 3.315149 1_656
+In0 In6 3.453433 1_555
+In0 In7 3.453433 1_555
+In1 In5 3.315149 1_544
+In1 In7 3.453433 1_555
+In1 In6 3.453433 1_555
+In2 In6 3.315149 1_555
+In2 In4 3.453433 1_555
+In2 In5 3.453433 1_555
+In3 In7 3.315149 1_465
+In3 In5 3.453433 1_555
+In3 In4 3.453433 1_555
+Bi0 In5 3.420040 1_554
+Bi0 In7 3.420040 1_565
+Bi0 In0 3.420040 1_554
+Bi0 In6 3.420040 1_554
+Bi0 In1 3.420040 1_565
+Bi0 In2 3.420040 1_554
+Bi0 In4 3.420040 1_655
+Bi0 In3 3.420040 1_655
+Bi0 Pb1 3.434660 1_555
+Bi0 Pb0 3.434660 1_665
+Bi1 In2 3.420040 1_555
+Bi1 In0 3.420040 1_454
+Bi1 In3 3.420040 1_544
+Bi1 In6 3.420040 1_555
+Bi1 In4 3.420040 1_555
+Bi1 In7 3.420040 1_454
+Bi1 In1 3.420040 1_555
+Bi1 In5 3.420040 1_544
+Bi1 Pb1 3.434660 1_555
+Bi1 Pb0 3.434660 1_555
+Bi2 Pb1 3.278793 1_555
+Bi2 Pb0 3.278793 1_565
+Bi2 Bi3 3.298725 1_565
+Bi2 In7 3.340779 1_565
+Bi2 In6 3.340779 1_565
+Bi2 In2 3.340779 1_555
+Bi2 In3 3.340779 1_555
+Bi2 In0 3.398521 1_454
+Bi2 In5 3.398521 1_554
+Bi3 Pb1 3.278793 1_556
+Bi3 Pb0 3.278793 1_656
+Bi3 In3 3.340779 1_545
+Bi3 In2 3.340779 1_545
+Bi3 In7 3.340779 1_555
+Bi3 In6 3.340779 1_555
+Bi3 In4 3.398521 1_656
+Bi3 In1 3.398521 1_556
+Bi4 Pb1 3.278793 1_555
+Bi4 Pb0 3.278793 1_666
+Bi4 Bi5 3.298725 1_655
+Bi4 In5 3.340779 1_655
+Bi4 In0 3.340779 1_555
+Bi4 In1 3.340779 1_555
+Bi4 In4 3.340779 1_655
+Bi4 In2 3.398521 1_555
+Bi4 In7 3.398521 1_565
+Bi5 Pb0 3.278793 1_555
+Bi5 Pb1 3.278793 1_556
+Bi5 In1 3.340779 1_455
+Bi5 In5 3.340779 1_555
+Bi5 In0 3.340779 1_455
+Bi5 In4 3.340779 1_555
+Bi5 In6 3.398521 1_555
+Bi5 In3 3.398521 1_545

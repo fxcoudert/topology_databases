@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MnSi(AgTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37798600
+_cell_length_b   7.73317700
+_cell_length_c   8.78959500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSi(AgTe2)2
+_chemical_formula_sum   'Mn2 Si2 Ag4 Te8'
+_cell_volume   501.49273034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50460800  0.35123300  0.00000000  1
+  Mn  Mn1  1  0.00460800  0.64876700  0.50000000  1
+  Si  Si0  1  0.00081000  0.66442900  0.00000000  1
+  Si  Si1  1  0.50081000  0.33557100  0.50000000  1
+  Ag  Ag0  1  0.51656600  0.82408400  0.24941200  1
+  Ag  Ag1  1  0.01656600  0.17591600  0.25058800  1
+  Ag  Ag2  1  0.01656600  0.17591600  0.74941200  1
+  Ag  Ag3  1  0.51656600  0.82408400  0.75058800  1
+  Te  Te0  1  0.87536800  0.35850100  0.00000000  1
+  Te  Te1  1  0.37536800  0.64149900  0.50000000  1
+  Te  Te2  1  0.89502600  0.82740600  0.23931100  1
+  Te  Te3  1  0.39502600  0.17259400  0.26068900  1
+  Te  Te4  1  0.39502600  0.17259400  0.73931100  1
+  Te  Te5  1  0.89502600  0.82740600  0.76068900  1
+  Te  Te6  1  0.34853000  0.66703800  0.00000000  1
+  Te  Te7  1  0.84853000  0.33296200  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Te6 2.700050 1_555
+Mn0 Te0 2.736039 1_555
+Mn0 Te4 2.795058 1_554
+Mn0 Te3 2.795058 1_555
+Mn1 Te7 2.700050 1_455
+Mn1 Te1 2.736039 1_555
+Mn1 Te5 2.795058 1_455
+Mn1 Te2 2.795058 1_455
+Si0 Te0 2.540385 1_455
+Si0 Te6 2.565553 1_555
+Si0 Te2 2.573336 1_455
+Si0 Te5 2.573336 1_454
+Si1 Te1 2.540385 1_555
+Si1 Te7 2.565553 1_555
+Si1 Te3 2.573336 1_555
+Si1 Te4 2.573336 1_555
+Ag0 Te2 2.793802 1_555
+Ag0 Te6 2.796037 1_555
+Ag0 Te1 2.816060 1_555
+Ag0 Te3 2.842084 1_565
+Ag1 Te3 2.793802 1_555
+Ag1 Te7 2.796037 1_455
+Ag1 Te0 2.816060 1_455
+Ag1 Te2 2.842084 1_445
+Ag2 Te4 2.793802 1_555
+Ag2 Te7 2.796037 1_455
+Ag2 Te0 2.816060 1_456
+Ag2 Te5 2.842084 1_445
+Ag3 Te5 2.793802 1_555
+Ag3 Te6 2.796037 1_556
+Ag3 Te1 2.816060 1_555
+Ag3 Te4 2.842084 1_565

@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Sc2Cu2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42003700
+_cell_length_b   5.67923700
+_cell_length_c   5.90888489
+_cell_angle_alpha   73.05960883
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Cu2O5
+_chemical_formula_sum   'Sc2 Cu2 O5'
+_cell_volume   109.78942814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.51027500  0.46772800  1
+  Sc  Sc1  1  0.00000000  0.99515800  0.51986000  1
+  Cu  Cu0  1  0.50000000  0.99376900  0.00675100  1
+  Cu  Cu1  1  0.00000000  0.51586800  0.00340300  1
+  O  O0  1  0.00000000  0.37116000  0.33130300  1
+  O  O1  1  0.50000000  0.90616400  0.33528000  1
+  O  O2  1  0.00000000  0.60759700  0.66689100  1
+  O  O3  1  0.50000000  0.12440500  0.68107000  1
+  O  O4  1  0.50000000  0.62485400  0.03991500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O3 1.849803 1_564
+Cu0 O1 1.858255 1_555
+Cu0 O4 2.046660 1_555
+Cu1 O4 1.852468 1_555
+Cu1 O4 1.852468 1_455
+Cu1 O0 1.871223 1_555
+Cu1 O2 1.903027 1_554
+O0 Sc1 2.101150 1_545
+O0 Sc0 2.137603 1_555
+O0 Sc0 2.137603 1_455
+O1 Sc0 2.154564 1_555
+O1 Sc1 2.165731 1_655
+O1 Sc1 2.165731 1_555
+O2 Sc1 2.117794 1_555
+O2 Sc0 2.234646 1_555
+O2 Sc0 2.234646 1_455
+O3 Sc1 2.185821 1_545
+O3 Sc1 2.185821 1_645
+O3 Sc0 2.186708 1_555
+O4 Sc0 2.419732 1_555

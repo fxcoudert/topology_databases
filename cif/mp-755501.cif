@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Li2CoSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09491864
+_cell_length_b   10.22804160
+_cell_length_c   5.26820443
+_cell_angle_alpha   80.82413551
+_cell_angle_beta   90.00077513
+_cell_angle_gamma   90.00102795
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CoSnO4
+_chemical_formula_sum   'Li4 Co2 Sn2 O8'
+_cell_volume   164.63078132
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50001000  0.50001100  1
+  Li  Li1  1  0.00000000  0.99999000  0.99998900  1
+  Li  Li2  1  0.50000000  0.75000000  0.25000000  1
+  Li  Li3  1  0.50000000  0.25000000  0.75000000  1
+  Co  Co0  1  0.00000000  0.75000000  0.75000000  1
+  Co  Co1  1  0.00000000  0.25000000  0.24999900  1
+  Sn  Sn0  1  0.50000000  0.99997000  0.50003000  1
+  Sn  Sn1  1  0.50000000  0.50002900  0.99996900  1
+  O  O0  1  0.00000500  0.61794800  0.12469600  1
+  O  O1  1  0.99999900  0.11798000  0.62471400  1
+  O  O2  1  0.99999500  0.88205200  0.37530500  1
+  O  O3  1  0.00000000  0.38201900  0.87528700  1
+  O  O4  1  0.50000000  0.87501300  0.84924800  1
+  O  O5  1  0.50000100  0.37498000  0.34914600  1
+  O  O6  1  0.50000000  0.12502000  0.15085400  1
+  O  O7  1  0.49999900  0.62498900  0.65075100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 2.145666 1_555
+Li0 O3 2.145720 1_555
+Li0 O7 2.232250 1_555
+Li0 O7 2.232301 1_455
+Li0 O5 2.232873 1_455
+Li0 O5 2.232924 1_555
+Li1 O2 2.145671 1_456
+Li1 O1 2.145712 1_465
+Li1 O4 2.232241 1_455
+Li1 O4 2.232288 1_555
+Li1 O6 2.232875 1_566
+Li1 O6 2.232921 1_466
+Li2 O0 2.222344 1_555
+Li2 O2 2.222346 1_555
+Li2 O0 2.222412 1_655
+Li2 O2 2.222414 1_455
+Li2 O7 2.287192 1_555
+Li2 O4 2.287205 1_554
+Li3 O3 2.222099 1_655
+Li3 O1 2.222105 1_455
+Li3 O3 2.222145 1_555
+Li3 O1 2.222147 1_555
+Li3 O6 2.287514 1_556
+Li3 O5 2.287514 1_555
+Co0 O7 2.125092 1_455
+Co0 O4 2.125101 1_555
+Co0 O7 2.125131 1_555
+Co0 O4 2.125145 1_455
+Co0 O2 2.206913 1_455
+Co0 O0 2.206917 1_556
+Co1 O6 2.124699 1_455
+Co1 O5 2.124705 1_555
+Co1 O6 2.124743 1_555
+Co1 O5 2.124744 1_455
+Co1 O3 2.206826 1_554
+Co1 O1 2.206843 1_455
+O0 Sn1 2.129256 1_454
+O0 Sn1 2.129278 1_554
+O1 Sn0 2.129725 1_545
+O1 Sn0 2.129774 1_645
+O2 Sn0 2.129245 1_655
+O2 Sn0 2.129267 1_555
+O3 Sn1 2.129723 1_555
+O3 Sn1 2.129767 1_455
+O4 Sn0 2.065969 1_555
+O5 Sn1 2.066247 1_554
+O6 Sn0 2.066248 1_545
+O7 Sn1 2.065984 1_555

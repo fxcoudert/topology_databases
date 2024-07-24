@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Fe3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12898449
+_cell_length_b   5.12898449
+_cell_length_c   4.10924400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000626
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Mo
+_chemical_formula_sum   'Fe6 Mo2'
+_cell_volume   93.61712608
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.83920400  0.16079600  0.75000000  1
+  Fe  Fe1  1  0.32159200  0.16079600  0.75000000  1
+  Fe  Fe2  1  0.83920400  0.67840800  0.75000000  1
+  Fe  Fe3  1  0.16079600  0.83920400  0.25000000  1
+  Fe  Fe4  1  0.67840800  0.83920400  0.25000000  1
+  Fe  Fe5  1  0.16079600  0.32159200  0.25000000  1
+  Mo  Mo0  1  0.66666700  0.33333300  0.25000000  1
+  Mo  Mo1  1  0.33333300  0.66666700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Fe2 2.474161 1_545
+Fe0 Fe1 2.474161 1_655
+Fe0 Fe5 2.502391 1_655
+Fe0 Fe4 2.502391 1_545
+Fe0 Fe5 2.502391 1_656
+Fe0 Fe4 2.502391 1_546
+Fe0 Mo0 2.563362 1_555
+Fe0 Mo0 2.563362 1_556
+Fe0 Mo1 2.565022 1_545
+Fe0 Mo1 2.565022 1_655
+Fe0 Fe1 2.654824 1_555
+Fe0 Fe2 2.654824 1_555
+Fe1 Fe2 2.474160 1_445
+Fe1 Fe3 2.502391 1_545
+Fe1 Fe3 2.502391 1_546
+Fe1 Fe5 2.502391 1_556
+Fe1 Fe5 2.502391 1_555
+Fe1 Mo0 2.563365 1_555
+Fe1 Mo0 2.563365 1_556
+Fe1 Mo1 2.565020 1_545
+Fe1 Mo1 2.565025 1_555
+Fe1 Fe2 2.654824 1_555
+Fe2 Fe3 2.502391 1_656
+Fe2 Fe3 2.502391 1_655
+Fe2 Fe4 2.502391 1_556
+Fe2 Fe4 2.502391 1_555
+Fe2 Mo0 2.563365 1_555
+Fe2 Mo0 2.563365 1_556
+Fe2 Mo1 2.565020 1_655
+Fe2 Mo1 2.565025 1_555
+Fe3 Fe5 2.474161 1_565
+Fe3 Fe4 2.474161 1_455
+Fe3 Mo1 2.563362 1_555
+Fe3 Mo1 2.563362 1_554
+Fe3 Mo0 2.565022 1_455
+Fe3 Mo0 2.565022 1_565
+Fe3 Fe4 2.654824 1_555
+Fe3 Fe5 2.654824 1_555
+Fe4 Fe5 2.474160 1_665
+Fe4 Mo1 2.563365 1_555
+Fe4 Mo1 2.563365 1_554
+Fe4 Mo0 2.565020 1_565
+Fe4 Mo0 2.565025 1_555
+Fe4 Fe5 2.654824 1_555
+Fe5 Mo1 2.563365 1_555
+Fe5 Mo1 2.563365 1_554
+Fe5 Mo0 2.565020 1_455
+Fe5 Mo0 2.565025 1_555

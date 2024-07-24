@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_SmAlPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44506569
+_cell_length_b   7.07935784
+_cell_length_c   7.76355809
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAlPt
+_chemical_formula_sum   'Sm4 Al4 Pt4'
+_cell_volume   244.30528131
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.75000000  0.47177267  0.81765366  1
+  Sm  Sm1  1  0.75000000  0.97177267  0.68234634  1
+  Sm  Sm2  1  0.25000000  0.52822733  0.18234634  1
+  Sm  Sm3  1  0.25000000  0.02822733  0.31765366  1
+  Al  Al0  1  0.75000000  0.35586395  0.43337199  1
+  Al  Al1  1  0.75000000  0.85586395  0.06662801  1
+  Al  Al2  1  0.25000000  0.64413605  0.56662801  1
+  Al  Al3  1  0.25000000  0.14413605  0.93337199  1
+  Pt  Pt0  1  0.75000000  0.22032331  0.11229458  1
+  Pt  Pt1  1  0.75000000  0.72032331  0.38770542  1
+  Pt  Pt2  1  0.25000000  0.77967669  0.88770542  1
+  Pt  Pt3  1  0.25000000  0.27967669  0.61229458  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Pt1 2.604383 1_555
+Al0 Pt0 2.671009 1_555
+Al0 Pt3 2.675834 1_555
+Al0 Pt3 2.675834 1_655
+Al0 Sm0 3.094180 1_555
+Al0 Sm2 3.197909 1_555
+Al0 Sm2 3.197909 1_655
+Al0 Sm3 3.335660 1_655
+Al0 Sm3 3.335660 1_555
+Al0 Sm1 3.336138 1_545
+Al1 Pt0 2.604383 1_565
+Al1 Pt1 2.671009 1_555
+Al1 Pt2 2.675834 1_654
+Al1 Pt2 2.675834 1_554
+Al1 Sm1 3.094180 1_554
+Al1 Sm3 3.197909 1_565
+Al1 Sm3 3.197909 1_665
+Al1 Sm2 3.335660 1_555
+Al1 Sm2 3.335660 1_655
+Al1 Sm0 3.336138 1_554
+Al2 Pt3 2.604383 1_555
+Al2 Pt2 2.671009 1_555
+Al2 Pt1 2.675834 1_455
+Al2 Pt1 2.675834 1_555
+Al2 Sm2 3.094180 1_555
+Al2 Sm0 3.197909 1_455
+Al2 Sm0 3.197909 1_555
+Al2 Sm1 3.335660 1_555
+Al2 Sm1 3.335660 1_455
+Al2 Sm3 3.336138 1_565
+Al3 Pt2 2.604383 1_545
+Al3 Pt3 2.671009 1_555
+Al3 Pt0 2.675834 1_556
+Al3 Pt0 2.675834 1_456
+Al3 Sm3 3.094180 1_556
+Al3 Sm1 3.197909 1_545
+Al3 Sm1 3.197909 1_445
+Al3 Sm0 3.335660 1_455
+Al3 Sm0 3.335660 1_555
+Al3 Sm2 3.336138 1_556
+Pt0 Sm0 2.898489 1_554
+Pt0 Sm3 3.054648 1_555
+Pt0 Sm3 3.054648 1_655
+Pt0 Sm2 3.160189 1_655
+Pt0 Sm2 3.160189 1_555
+Pt1 Sm1 2.898489 1_555
+Pt1 Sm2 3.054648 1_555
+Pt1 Sm2 3.054648 1_655
+Pt1 Sm3 3.160189 1_665
+Pt1 Sm3 3.160189 1_565
+Pt2 Sm2 2.898489 1_556
+Pt2 Sm1 3.054648 1_555
+Pt2 Sm1 3.054648 1_455
+Pt2 Sm0 3.160189 1_555
+Pt2 Sm0 3.160189 1_455
+Pt3 Sm3 2.898489 1_555
+Pt3 Sm0 3.054648 1_555
+Pt3 Sm0 3.054648 1_455
+Pt3 Sm1 3.160189 1_545
+Pt3 Sm1 3.160189 1_445

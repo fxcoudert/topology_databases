@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_NdAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98186035
+_cell_length_b   3.91431644
+_cell_length_c   17.54069574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.98532574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdAsS
+_chemical_formula_sum   'Nd4 As4 S4'
+_cell_volume   273.39386031
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.77208473  0.25009401  0.14552846  1
+  Nd  Nd1  1  0.72791527  0.24990599  0.64552846  1
+  Nd  Nd2  1  0.22791527  0.74990599  0.85447154  1
+  Nd  Nd3  1  0.27208473  0.75009401  0.35447154  1
+  As  As0  1  0.79540331  0.75079093  0.49804297  1
+  As  As1  1  0.70459669  0.74920907  0.99804297  1
+  As  As2  1  0.20459669  0.24920907  0.50195703  1
+  As  As3  1  0.29540331  0.25079093  0.00195703  1
+  S  S0  1  0.76983639  0.25023170  0.31323781  1
+  S  S1  1  0.73016361  0.24976830  0.81323781  1
+  S  S2  1  0.23016361  0.74976830  0.68676219  1
+  S  S3  1  0.26983639  0.75023170  0.18676219  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 S3 2.877104 1_645
+Nd0 S3 2.878527 1_655
+Nd0 S3 2.890158 1_545
+Nd0 S3 2.890194 1_555
+Nd0 S0 2.941752 1_555
+Nd1 S2 2.877104 1_555
+Nd1 S2 2.878527 1_545
+Nd1 S2 2.890158 1_655
+Nd1 S2 2.890194 1_645
+Nd1 S1 2.941752 1_555
+Nd2 S1 2.877104 1_465
+Nd2 S1 2.878527 1_455
+Nd2 S1 2.890158 1_565
+Nd2 S1 2.890194 1_555
+Nd2 S2 2.941752 1_555
+Nd3 S0 2.877104 1_555
+Nd3 S0 2.878527 1_565
+Nd3 S0 2.890158 1_455
+Nd3 S0 2.890194 1_465
+Nd3 S3 2.941752 1_555
+As0 As2 2.543107 1_665
+As0 As2 2.551980 1_655
+As0 Nd3 3.153531 1_655
+As0 Nd1 3.252910 1_565
+As0 Nd1 3.257159 1_555
+As0 Nd3 3.268670 1_555
+As1 As3 2.543107 1_556
+As1 As3 2.551980 1_566
+As1 Nd2 3.153531 1_555
+As1 Nd0 3.252910 1_556
+As1 Nd0 3.257159 1_566
+As1 Nd2 3.268670 1_655
+As2 Nd1 3.153531 1_455
+As2 Nd3 3.252910 1_545
+As2 Nd3 3.257159 1_555
+As2 Nd1 3.268670 1_555
+As3 Nd0 3.153531 1_555
+As3 Nd2 3.252910 1_554
+As3 Nd2 3.257159 1_544
+As3 Nd0 3.268670 1_455

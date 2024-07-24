@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_BaC6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31647642
+_cell_length_b   4.31647642
+_cell_length_c   10.68383512
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00003372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaC6
+_chemical_formula_sum   'Ba2 C12'
+_cell_volume   172.39172162
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666700  0.33333300  0.75000000  1
+  Ba  Ba1  1  0.33333300  0.66666700  0.25000000  1
+  C  C0  1  0.66649799  0.66649799  -0.00000000  1
+  C  C1  1  0.33350201  0.33350201  0.00000000  1
+  C  C2  1  0.00000000  0.33350201  0.00000000  1
+  C  C3  1  0.33350201  0.33350201  0.50000000  1
+  C  C4  1  -0.00000000  0.66649799  0.00000000  1
+  C  C5  1  0.66649799  0.66649799  0.50000000  1
+  C  C6  1  0.33350201  0.00000000  -0.00000000  1
+  C  C7  1  -0.00000000  0.66649799  0.50000000  1
+  C  C8  1  0.66649799  -0.00000000  0.00000000  1
+  C  C9  1  0.00000000  0.33350201  0.50000000  1
+  C  C10  1  0.66649799  -0.00000000  0.50000000  1
+  C  C11  1  0.33350201  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 C10 3.033675 1_555
+Ba0 C8 3.033675 1_556
+Ba0 C2 3.033675 1_656
+Ba0 C9 3.033675 1_655
+Ba0 C11 3.033676 1_555
+Ba0 C6 3.033676 1_556
+Ba0 C4 3.033676 1_656
+Ba0 C7 3.033676 1_655
+Ba0 C3 3.033677 1_555
+Ba0 C1 3.033677 1_556
+Ba0 C0 3.033677 1_556
+Ba0 C5 3.033677 1_555
+Ba1 C11 3.033675 1_565
+Ba1 C6 3.033675 1_565
+Ba1 C7 3.033675 1_555
+Ba1 C4 3.033675 1_555
+Ba1 C10 3.033676 1_565
+Ba1 C8 3.033676 1_565
+Ba1 C2 3.033676 1_555
+Ba1 C9 3.033676 1_555
+Ba1 C0 3.033677 1_555
+Ba1 C3 3.033677 1_555
+Ba1 C1 3.033677 1_555
+Ba1 C5 3.033677 1_555
+C0 C1 1.437369 1_555
+C0 C4 1.439554 1_655
+C0 C8 1.439554 1_565
+C1 C2 1.439554 1_555
+C1 C6 1.439554 1_555
+C2 C4 1.437369 1_555
+C2 C8 1.439553 1_455
+C3 C5 1.437369 1_555
+C3 C9 1.439554 1_555
+C4 C6 1.439553 1_565
+C5 C7 1.439554 1_655
+C6 C8 1.437369 1_555
+C7 C9 1.437369 1_555
+C10 C11 1.437369 1_555
+C10 C9 1.439553 1_655
+C10 C5 1.439554 1_545
+C11 C7 1.439553 1_545
+C11 C3 1.439554 1_555

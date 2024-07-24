@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_Li(SiO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19329391
+_cell_length_b   7.53569338
+_cell_length_c   7.58823783
+_cell_angle_alpha   73.22777632
+_cell_angle_beta   69.18733175
+_cell_angle_gamma   70.70348468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(SiO2)6
+_chemical_formula_sum   'Li1 Si6 O12'
+_cell_volume   257.01632153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.31561200  0.93937200  0.45229600  1
+  Si  Si0  1  0.36471700  0.34768300  0.32014800  1
+  Si  Si1  1  0.03606600  0.19499100  0.14343800  1
+  Si  Si2  1  0.61353900  0.65895300  0.68479300  1
+  Si  Si3  1  0.93712900  0.81777000  0.85892700  1
+  Si  Si4  1  0.97435600  0.23407500  0.73380300  1
+  Si  Si5  1  0.00345800  0.77149400  0.27243800  1
+  O  O0  1  0.72406300  0.42825600  0.69718200  1
+  O  O1  1  0.84724100  0.04889200  0.77631700  1
+  O  O2  1  0.24373700  0.57689800  0.32581700  1
+  O  O3  1  0.12248700  0.96092000  0.24785400  1
+  O  O4  1  0.24489700  0.21386500  0.53366000  1
+  O  O5  1  0.08499700  0.22644800  0.91282000  1
+  O  O6  1  0.26478500  0.73774300  0.72247600  1
+  O  O7  1  0.71713600  0.72184700  0.83213000  1
+  O  O8  1  0.71141800  0.29420200  0.26068500  1
+  O  O9  1  0.26244900  0.28843800  0.16833200  1
+  O  O10  1  0.92090000  0.77001300  0.08517900  1
+  O  O11  1  0.71101200  0.77706800  0.45831200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O11 2.022145 1_555
+Li0 O3 2.071632 1_555
+Li0 O6 2.159687 1_555
+Li0 O4 2.206493 1_565
+O0 Si2 1.626369 1_555
+O0 Si4 1.634915 1_555
+O1 Si3 1.638525 1_545
+O1 Si4 1.638574 1_555
+O2 Si5 1.636627 1_555
+O2 Si0 1.639076 1_555
+O3 Si5 1.673945 1_555
+O3 Si1 1.692163 1_565
+O4 Si4 1.667179 1_455
+O4 Si0 1.668664 1_555
+O5 Si4 1.632960 1_455
+O5 Si1 1.633278 1_556
+O6 Si2 1.653449 1_555
+O6 Si3 1.661742 1_455
+O7 Si3 1.632442 1_555
+O7 Si2 1.632747 1_555
+O8 Si0 1.629701 1_555
+O8 Si1 1.636438 1_655
+O9 Si1 1.641808 1_555
+O9 Si0 1.642216 1_555
+O10 Si3 1.626294 1_554
+O10 Si5 1.627375 1_655
+O11 Si5 1.663593 1_655
+O11 Si2 1.672953 1_555

@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_SmGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38833465
+_cell_length_b   7.01560545
+_cell_length_c   7.18198278
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGaNi
+_chemical_formula_sum   'Sm4 Ga4 Ni4'
+_cell_volume   221.11044332
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.25000000  0.02658044  0.80691379  1
+  Sm  Sm1  1  0.25000000  0.52658044  0.69308621  1
+  Sm  Sm2  1  0.75000000  0.97341956  0.19308621  1
+  Sm  Sm3  1  0.75000000  0.47341956  0.30691379  1
+  Ga  Ga0  1  0.25000000  0.17433112  0.41585723  1
+  Ga  Ga1  1  0.25000000  0.67433112  0.08414277  1
+  Ga  Ga2  1  0.75000000  0.82566888  0.58414277  1
+  Ga  Ga3  1  0.75000000  0.32566888  0.91585723  1
+  Ni  Ni0  1  0.25000000  0.80223644  0.40983650  1
+  Ni  Ni1  1  0.25000000  0.30223644  0.09016350  1
+  Ni  Ni2  1  0.75000000  0.19776356  0.59016350  1
+  Ni  Ni3  1  0.75000000  0.69776356  0.90983650  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ni1 2.505338 1_555
+Ga0 Ni2 2.531513 1_555
+Ga0 Ni2 2.531513 1_455
+Ga0 Ni0 2.610828 1_545
+Ga0 Sm0 2.993739 1_555
+Ga0 Sm2 3.059560 1_545
+Ga0 Sm2 3.059560 1_445
+Ga0 Sm3 3.135183 1_455
+Ga0 Sm3 3.135183 1_555
+Ga0 Sm1 3.173536 1_555
+Ga1 Ni0 2.505338 1_555
+Ga1 Ni3 2.531513 1_454
+Ga1 Ni3 2.531513 1_554
+Ga1 Ni1 2.610828 1_555
+Ga1 Sm1 2.993739 1_554
+Ga1 Sm3 3.059560 1_555
+Ga1 Sm3 3.059560 1_455
+Ga1 Sm2 3.135183 1_555
+Ga1 Sm2 3.135183 1_455
+Ga1 Sm0 3.173536 1_564
+Ga2 Ni3 2.505338 1_555
+Ga2 Ni0 2.531513 1_655
+Ga2 Ni0 2.531513 1_555
+Ga2 Ni2 2.610828 1_565
+Ga2 Sm2 2.993739 1_555
+Ga2 Sm0 3.059560 1_565
+Ga2 Sm0 3.059560 1_665
+Ga2 Sm1 3.135183 1_655
+Ga2 Sm1 3.135183 1_555
+Ga2 Sm3 3.173536 1_555
+Ga3 Ni2 2.505338 1_555
+Ga3 Ni1 2.531513 1_656
+Ga3 Ni1 2.531513 1_556
+Ga3 Ni3 2.610828 1_555
+Ga3 Sm3 2.993739 1_556
+Ga3 Sm1 3.059560 1_655
+Ga3 Sm1 3.059560 1_555
+Ga3 Sm0 3.135183 1_655
+Ga3 Sm0 3.135183 1_555
+Ga3 Sm2 3.173536 1_546
+Ni0 Sm1 2.806831 1_555
+Ni0 Sm2 2.946178 1_555
+Ni0 Sm2 2.946178 1_455
+Ni0 Sm0 3.257294 1_565
+Ni0 Sm3 3.268383 1_555
+Ni0 Sm3 3.268383 1_455
+Ni1 Sm0 2.806831 1_554
+Ni1 Sm3 2.946178 1_555
+Ni1 Sm3 2.946178 1_455
+Ni1 Sm1 3.257294 1_554
+Ni1 Sm2 3.268383 1_445
+Ni1 Sm2 3.268383 1_545
+Ni2 Sm3 2.806831 1_555
+Ni2 Sm0 2.946178 1_555
+Ni2 Sm0 2.946178 1_655
+Ni2 Sm2 3.257294 1_545
+Ni2 Sm1 3.268383 1_555
+Ni2 Sm1 3.268383 1_655
+Ni3 Sm2 2.806831 1_556
+Ni3 Sm1 2.946178 1_555
+Ni3 Sm1 2.946178 1_655
+Ni3 Sm3 3.257294 1_556
+Ni3 Sm0 3.268383 1_565
+Ni3 Sm0 3.268383 1_665

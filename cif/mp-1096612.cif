@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg2TlCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.00874881
+_cell_length_b   12.61355680
+_cell_length_c   12.61355680
+_cell_angle_alpha   59.30436978
+_cell_angle_beta   58.95806328
+_cell_angle_gamma   58.95806389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2TlCd
+_chemical_formula_sum   'Mg2 Tl1 Cd1'
+_cell_volume   1432.55752454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.75196013  1.00000000  -0.00000000  1
+  Mg  Mg1  1  0.24803987  0.00000000  0.00000000  1
+  Tl  Tl0  1  0.50000000  -0.00000000  -0.00000000  1
+  Cd  Cd0  1  0.00000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Tl0 3.277686 1_565
+Mg1 Tl0 3.277686 1_555
+Cd0 Mg1 3.226688 1_555
+Cd0 Mg0 3.226688 1_445

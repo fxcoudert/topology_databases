@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr2MgIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.80422872
+_cell_length_b   13.04143514
+_cell_length_c   13.02163691
+_cell_angle_alpha   56.25613463
+_cell_angle_beta   58.08811684
+_cell_angle_gamma   57.94871580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgIn
+_chemical_formula_sum   'Sr2 Mg1 In1'
+_cell_volume   1558.59705861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.73343713  0.99988533  0.00011467  1
+  Sr  Sr1  1  0.26656287  0.00011467  0.99988533  1
+  Mg  Mg0  1  0.00000000  -0.00000000  0.00000000  1
+  In  In0  1  0.50000000  -0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Sr1 3.679699 1_554
+Mg0 Sr0 3.679699 1_445
+In0 Sr1 3.222416 1_554
+In0 Sr0 3.222416 1_545

@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_NaMgFe(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20281419
+_cell_length_b   5.20282724
+_cell_length_c   7.58424097
+_cell_angle_alpha   85.32134324
+_cell_angle_beta   85.32157807
+_cell_angle_gamma   70.62776005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgFe(SO4)2
+_chemical_formula_sum   'Na1 Mg1 Fe1 S2 O8'
+_cell_volume   192.70703371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.80926445  0.19073555  0.50000001  1
+  Mg  Mg0  1  0.28607397  0.71392602  0.50000000  1
+  Fe  Fe0  1  0.02374129  0.97625871  0.00000000  1
+  S  S0  1  0.64711415  0.60167621  0.20406629  1
+  S  S1  1  0.39832178  0.35288786  0.79593370  1
+  O  O0  1  0.77078137  0.75648937  0.07333351  1
+  O  O1  1  0.24350862  0.22922063  0.92666649  1
+  O  O2  1  0.68304251  0.65606151  0.39336233  1
+  O  O3  1  0.34393650  0.31695949  0.60663767  1
+  O  O4  1  0.77071729  0.30331998  0.18653964  1
+  O  O5  1  0.34116555  0.69490254  0.19306409  1
+  O  O6  1  0.30509647  0.65883443  0.80693691  1
+  O  O7  1  0.69668003  0.22928370  0.81345936  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O2 2.378892 1_555
+Na0 O3 2.378900 1_555
+Na0 O7 2.409941 1_555
+Na0 O4 2.409946 1_555
+Mg0 O3 2.089289 1_555
+Mg0 O2 2.089296 1_555
+Mg0 O5 2.328279 1_555
+Mg0 O6 2.328284 1_555
+Fe0 O0 2.030779 1_455
+Fe0 O1 2.030780 1_564
+Fe0 O7 2.287564 1_464
+Fe0 O4 2.287567 1_465
+Fe0 O5 2.335658 1_555
+Fe0 O6 2.335661 1_554
+O0 S0 1.468098 1_555
+O1 S1 1.468099 1_555
+O2 S0 1.523576 1_555
+O3 S1 1.523576 1_555
+O4 S0 1.482671 1_555
+O5 S0 1.509600 1_555
+O6 S1 1.509595 1_555
+O7 S1 1.482676 1_555

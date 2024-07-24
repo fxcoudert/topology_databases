@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_FeHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03062566
+_cell_length_b   4.60411861
+_cell_length_c   9.96654885
+_cell_angle_alpha   90.00019006
+_cell_angle_beta   90.00001305
+_cell_angle_gamma   89.99999144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeHO2
+_chemical_formula_sum   'Fe4 H4 O8'
+_cell_volume   139.06684408
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.75000063  0.55739473  0.64321517  1
+  Fe  Fe1  1  0.25000063  0.44260481  0.35678354  1
+  Fe  Fe2  1  0.75000075  0.94260577  0.14323202  1
+  Fe  Fe3  1  0.25000063  0.05739372  0.85676911  1
+  H  H0  1  0.75000090  0.59924493  0.91006058  1
+  H  H1  1  0.25000006  0.09928136  0.58994143  1
+  H  H2  1  0.25000094  0.40072603  0.08993507  1
+  H  H3  1  0.75000041  0.90073221  0.41005736  1
+  O  O0  1  0.74999973  0.80209219  0.94404241  1
+  O  O1  1  0.24999846  0.69311794  0.19516480  1
+  O  O2  1  0.74999942  0.19307954  0.30480925  1
+  O  O3  1  0.24999937  0.80692741  0.69518822  1
+  O  O4  1  0.24999987  0.19792768  0.05596460  1
+  O  O5  1  0.74999943  0.69792057  0.44403334  1
+  O  O6  1  0.24999941  0.30207365  0.55596829  1
+  O  O7  1  0.74999937  0.30687745  0.80483380  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O3 1.970887 1_655
+Fe0 O3 1.970892 1_555
+Fe0 O7 1.981157 1_555
+Fe0 O5 2.087931 1_555
+Fe0 O6 2.105740 1_655
+Fe0 O6 2.105745 1_555
+Fe1 O2 1.970870 1_555
+Fe1 O2 1.970876 1_455
+Fe1 O1 1.981147 1_555
+Fe1 O6 2.087966 1_555
+Fe1 O5 2.105738 1_555
+Fe1 O5 2.105743 1_455
+Fe2 O1 1.970660 1_655
+Fe2 O1 1.970671 1_555
+Fe2 O2 1.980698 1_565
+Fe2 O0 2.087983 1_554
+Fe2 O4 2.105831 1_665
+Fe2 O4 2.105834 1_565
+Fe3 O7 1.970659 1_555
+Fe3 O7 1.970664 1_455
+Fe3 O3 1.980708 1_545
+Fe3 O4 2.088068 1_556
+Fe3 O0 2.105802 1_545
+Fe3 O0 2.105806 1_445
+H0 O0 0.993445 1_555
+H0 O7 1.706409 1_555
+H1 O6 0.993180 1_555
+H1 O3 1.706488 1_545
+H2 O4 0.993195 1_555
+H2 O1 1.706516 1_555
+H3 O5 0.993273 1_555
+H3 O2 1.706472 1_565

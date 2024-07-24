@@ -1,0 +1,109 @@
+# generated using pymatgen
+data_K(InAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48410547
+_cell_length_b   7.48410547
+_cell_length_c   7.48410547
+_cell_angle_alpha   108.45334400
+_cell_angle_beta   108.45334400
+_cell_angle_gamma   111.52673540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(InAu2)2
+_chemical_formula_sum   'K2 In4 Au8'
+_cell_volume   322.38639570
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.75000000  0.00000000  1
+  K  K1  1  0.25000000  0.25000000  0.00000000  1
+  In  In0  1  0.85461294  0.35461294  0.20922487  1
+  In  In1  1  0.35461294  0.14538706  0.50000000  1
+  In  In2  1  0.64538706  0.85461294  0.50000000  1
+  In  In3  1  0.14538706  0.64538706  0.79077513  1
+  Au  Au0  1  0.68430499  0.48577167  0.50000000  1
+  Au  Au1  1  0.48577167  0.98577167  0.80146768  1
+  Au  Au2  1  0.98577167  0.18430499  0.50000000  1
+  Au  Au3  1  0.18430499  0.68430499  0.19853232  1
+  Au  Au4  1  0.51422833  0.01422833  0.19853232  1
+  Au  Au5  1  0.01422833  0.81569501  0.50000000  1
+  Au  Au6  1  0.31569501  0.51422833  0.50000000  1
+  Au  Au7  1  0.81569501  0.31569501  0.80146768  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Au5 2.778382 1_655
+Au0 In1 2.822232 1_555
+Au0 Au6 2.843773 1_555
+Au0 In2 2.880096 1_555
+Au0 In3 2.940372 1_655
+Au0 In0 2.940376 1_555
+Au0 Au4 3.001624 1_555
+Au0 Au7 3.001628 1_555
+Au0 K0 3.404751 1_556
+Au0 K1 3.404751 1_555
+Au1 Au7 2.778382 1_565
+Au1 In3 2.822233 1_555
+Au1 Au4 2.843758 1_566
+Au1 In0 2.880089 1_566
+Au1 In2 2.940376 1_555
+Au1 In1 2.940376 1_565
+Au1 Au5 3.001624 1_555
+Au1 Au6 3.001624 1_555
+Au1 K1 3.404748 1_566
+Au1 K0 3.404748 1_556
+Au2 Au6 2.778382 1_655
+Au2 In2 2.822232 1_545
+Au2 Au5 2.843773 1_645
+Au2 In1 2.880096 1_655
+Au2 In3 2.940372 1_655
+Au2 In0 2.940376 1_555
+Au2 Au4 3.001624 1_555
+Au2 Au7 3.001628 1_555
+Au2 K0 3.404751 1_545
+Au2 K1 3.404751 1_656
+Au3 Au4 2.778382 1_565
+Au3 In0 2.822232 1_455
+Au3 Au7 2.843766 1_454
+Au3 In3 2.880081 1_554
+Au3 In1 2.940372 1_565
+Au3 In2 2.940372 1_555
+Au3 Au5 3.001628 1_555
+Au3 Au6 3.001628 1_555
+Au3 K0 3.404750 1_455
+Au3 K1 3.404750 1_555
+Au4 In0 2.822233 1_555
+Au4 In3 2.880089 1_544
+Au4 In2 2.940376 1_545
+Au4 In1 2.940376 1_555
+Au4 K0 3.404748 1_545
+Au4 K1 3.404748 1_555
+Au5 In1 2.822232 1_565
+Au5 In2 2.880096 1_455
+Au5 In0 2.940372 1_455
+Au5 In3 2.940376 1_555
+Au5 K0 3.404751 1_455
+Au5 K1 3.404751 1_566
+Au6 In2 2.822232 1_555
+Au6 In1 2.880096 1_555
+Au6 In0 2.940372 1_455
+Au6 In3 2.940376 1_555
+Au6 K1 3.404751 1_555
+Au6 K0 3.404751 1_556
+Au7 In3 2.822232 1_655
+Au7 In0 2.880081 1_556
+Au7 In2 2.940372 1_545
+Au7 In1 2.940372 1_555
+Au7 K0 3.404750 1_556
+Au7 K1 3.404750 1_656

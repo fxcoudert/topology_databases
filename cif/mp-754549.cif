@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Na2CuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38667297
+_cell_length_b   5.38667297
+_cell_length_c   8.24148600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.22253284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CuO2
+_chemical_formula_sum   'Na4 Cu2 O4'
+_cell_volume   125.93468031
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14719100  0.85280900  0.33187900  1
+  Na  Na1  1  0.39352200  0.60647800  0.15146100  1
+  Na  Na2  1  0.85280900  0.14719100  0.83187900  1
+  Na  Na3  1  0.60647800  0.39352200  0.65146100  1
+  Cu  Cu0  1  0.12231000  0.87769000  0.99656800  1
+  Cu  Cu1  1  0.87769000  0.12231000  0.49656800  1
+  O  O0  1  0.27492000  0.72508000  0.59664300  1
+  O  O1  1  0.51704400  0.48295600  0.90855900  1
+  O  O2  1  0.48295600  0.51704400  0.40855900  1
+  O  O3  1  0.72508000  0.27492000  0.09664300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O2 2.338832 1_565
+Na0 O2 2.338832 1_455
+Na0 O0 2.552054 1_555
+Na0 O3 2.566059 1_565
+Na0 O3 2.566059 1_455
+Na1 O2 2.312654 1_555
+Na1 O3 2.329193 1_455
+Na1 O3 2.329193 1_565
+Na1 O1 2.376058 1_554
+Na2 O1 2.338832 1_655
+Na2 O1 2.338832 1_545
+Na2 O3 2.552054 1_556
+Na2 O0 2.566059 1_655
+Na2 O0 2.566059 1_545
+Na3 O1 2.312654 1_555
+Na3 O0 2.329193 1_545
+Na3 O0 2.329193 1_655
+Na3 O2 2.376058 1_555
+Cu0 O1 1.972455 1_565
+Cu0 O1 1.972455 1_455
+Cu0 O3 1.997241 1_566
+Cu0 O3 1.997241 1_456
+Cu1 O2 1.972455 1_655
+Cu1 O2 1.972455 1_545
+Cu1 O0 1.997241 1_655
+Cu1 O0 1.997241 1_545

@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_PrNiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14413027
+_cell_length_b   4.19133551
+_cell_length_c   11.08945961
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.76900611
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiGe3
+_chemical_formula_sum   'Pr2 Ni2 Ge6'
+_cell_volume   189.22541471
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.33174519  0.50000000  0.66348938  1
+  Pr  Pr1  1  0.66825481  0.50000000  0.33651062  1
+  Ni  Ni0  1  0.10788748  0.00000000  0.21577495  1
+  Ni  Ni1  1  0.89211252  -0.00000000  0.78422505  1
+  Ge  Ge0  1  0.55650123  0.00000000  0.11300245  1
+  Ge  Ge1  1  0.44349877  0.00000000  0.88699755  1
+  Ge  Ge2  1  0.94348270  0.50000000  0.88696241  1
+  Ge  Ge3  1  0.05651730  0.50000000  0.11303759  1
+  Ge  Ge4  1  0.78433890  0.00000000  0.56867780  1
+  Ge  Ge5  1  0.21566110  0.00000000  0.43132220  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Pr1 3.227277 1_545
+Ni0 Pr1 3.227277 1_555
+Ni0 Pr1 3.227280 1_455
+Ni0 Pr1 3.227280 1_445
+Ni1 Pr0 3.227277 1_555
+Ni1 Pr0 3.227277 1_545
+Ni1 Pr0 3.227280 1_645
+Ni1 Pr0 3.227280 1_655
+Ge0 Ni0 2.355207 1_555
+Ge0 Ni0 2.355208 1_655
+Ge0 Ge1 2.462133 1_554
+Ge0 Ge3 2.947075 1_645
+Ge0 Ge3 2.947075 1_655
+Ge0 Ge3 2.947084 1_545
+Ge0 Ge3 2.947084 1_555
+Ge0 Pr1 3.212588 1_545
+Ge0 Pr1 3.212588 1_555
+Ge1 Ni1 2.355207 1_555
+Ge1 Ni1 2.355208 1_455
+Ge1 Ge2 2.947075 1_445
+Ge1 Ge2 2.947075 1_455
+Ge1 Ge2 2.947084 1_555
+Ge1 Ge2 2.947084 1_545
+Ge1 Pr0 3.212588 1_545
+Ge1 Pr0 3.212588 1_555
+Ge2 Ni1 2.375819 1_555
+Ge2 Ni1 2.375819 1_565
+Ge2 Ge3 2.462899 1_656
+Ge2 Pr0 3.196947 1_655
+Ge2 Pr0 3.196953 1_555
+Ge3 Ni0 2.375819 1_555
+Ge3 Ni0 2.375819 1_565
+Ge3 Pr1 3.196947 1_455
+Ge3 Pr1 3.196953 1_555
+Ge4 Ni1 2.348206 1_555
+Ge4 Ge5 2.555893 1_655
+Ge4 Ge5 2.555893 1_555
+Ge4 Pr0 3.122841 1_555
+Ge4 Pr0 3.122841 1_545
+Ge4 Pr0 3.122844 1_645
+Ge4 Pr0 3.122844 1_655
+Ge4 Pr1 3.284663 1_545
+Ge4 Pr1 3.284663 1_555
+Ge5 Ni0 2.348206 1_555
+Ge5 Pr1 3.122841 1_555
+Ge5 Pr1 3.122841 1_545
+Ge5 Pr1 3.122844 1_455
+Ge5 Pr1 3.122844 1_445
+Ge5 Pr0 3.284663 1_545
+Ge5 Pr0 3.284663 1_555

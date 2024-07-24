@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_MgCu3TeS3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90986703
+_cell_length_b   5.91655103
+_cell_length_c   5.90986734
+_cell_angle_alpha   89.99750093
+_cell_angle_beta   90.20453483
+_cell_angle_gamma   89.99748733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu3TeS3Cl
+_chemical_formula_sum   'Mg1 Cu3 Te1 S3 Cl1'
+_cell_volume   206.64328052
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.70616697  0.70584318  0.70616697  1
+  Cu  Cu0  1  0.84378020  0.84230200  0.19670059  1
+  Cu  Cu1  1  0.84279439  0.19661812  0.84279439  1
+  Cu  Cu2  1  0.19670059  0.84230200  0.84378020  1
+  Te  Te0  1  0.16248437  0.16138102  0.16248437  1
+  S  S0  1  0.54328414  0.97997816  0.98116561  1
+  S  S1  1  0.98178839  0.54252782  0.98178839  1
+  S  S2  1  0.98116561  0.97997816  0.54328414  1
+  Cl  Cl0  1  0.48831434  0.48364354  0.48831434  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 2.491958 1_555
+Mg0 S2 2.491958 1_555
+Mg0 S1 2.494190 1_555
+Cu0 S0 2.328834 1_554
+Cu0 S1 2.330581 1_554
+Cu0 S2 2.346585 1_555
+Cu0 Te0 2.674963 1_665
+Cu1 S2 2.335639 1_545
+Cu1 S0 2.335639 1_545
+Cu1 S1 2.352346 1_555
+Cu1 Te0 2.675259 1_656
+Cu2 S2 2.328834 1_455
+Cu2 S1 2.330581 1_455
+Cu2 S0 2.346585 1_555
+Cu2 Te0 2.674962 1_566
+S0 Te0 2.716972 1_566
+S1 Te0 2.712485 1_656
+S2 Te0 2.716973 1_665
+Cl0 Mg0 2.243210 1_555

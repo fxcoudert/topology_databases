@@ -1,0 +1,119 @@
+# generated using pymatgen
+data_SrMnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65538023
+_cell_length_b   11.78319892
+_cell_length_c   9.23525537
+_cell_angle_alpha   101.42413829
+_cell_angle_beta   89.99363788
+_cell_angle_gamma   78.50681672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMnBi2
+_chemical_formula_sum   'Sr4 Mn4 Bi8'
+_cell_volume   486.19538373
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.88221200  0.23959800  0.56067600  1
+  Sr  Sr1  1  0.88227300  0.23945800  0.06073100  1
+  Sr  Sr2  1  0.12182800  0.76059600  0.43974000  1
+  Sr  Sr3  1  0.12190000  0.76044800  0.93902800  1
+  Mn  Mn0  1  0.25011900  0.50025900  0.62748900  1
+  Mn  Mn1  1  0.75214400  0.49908500  0.37148800  1
+  Mn  Mn2  1  0.24920300  0.50138800  0.12803100  1
+  Mn  Mn3  1  0.75288100  0.49901400  0.87230400  1
+  Bi  Bi0  1  0.97857500  0.99999600  0.74978600  1
+  Bi  Bi1  1  0.97854800  0.99999600  0.24976000  1
+  Bi  Bi2  1  0.51264000  0.99999700  0.00058800  1
+  Bi  Bi3  1  0.51258400  0.00012000  0.50055400  1
+  Bi  Bi4  1  0.67751000  0.64525600  0.65936600  1
+  Bi  Bi5  1  0.67644900  0.64641700  0.15972600  1
+  Bi  Bi6  1  0.32545600  0.35424700  0.33997600  1
+  Bi  Bi7  1  0.32567700  0.35412400  0.84075700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Sr3 3.716148 1_555
+Mn0 Sr0 3.754156 1_455
+Mn0 Sr0 3.757738 1_555
+Mn0 Sr2 3.761717 1_555
+Mn1 Sr1 3.707481 1_555
+Mn1 Sr2 3.758978 1_555
+Mn1 Sr0 3.761237 1_555
+Mn1 Sr2 3.768106 1_655
+Mn2 Sr2 3.709742 1_555
+Mn2 Sr3 3.755807 1_554
+Mn2 Sr1 3.764470 1_455
+Mn2 Sr1 3.769979 1_555
+Mn3 Sr0 3.710818 1_555
+Mn3 Sr1 3.757559 1_556
+Mn3 Sr3 3.760270 1_555
+Mn3 Sr3 3.765344 1_655
+Bi0 Bi3 3.163107 1_565
+Bi0 Bi2 3.173130 1_556
+Bi0 Bi3 3.388171 1_665
+Bi0 Bi2 3.398194 1_656
+Bi0 Sr2 3.556851 1_655
+Bi0 Sr3 3.559621 1_655
+Bi0 Sr0 3.559646 1_565
+Bi0 Sr1 3.562972 1_566
+Bi1 Bi2 3.162428 1_555
+Bi1 Bi3 3.172762 1_565
+Bi1 Bi2 3.387671 1_655
+Bi1 Bi3 3.398061 1_665
+Bi1 Sr1 3.557747 1_565
+Bi1 Sr3 3.562011 1_654
+Bi1 Sr2 3.562550 1_655
+Bi1 Sr0 3.563795 1_565
+Bi2 Sr3 3.536796 1_654
+Bi2 Sr1 3.541945 1_565
+Bi2 Sr1 3.600134 1_465
+Bi2 Sr3 3.606960 1_554
+Bi3 Sr2 3.536558 1_645
+Bi3 Sr0 3.542103 1_555
+Bi3 Sr0 3.600268 1_455
+Bi3 Sr2 3.606746 1_545
+Bi4 Mn3 2.839263 1_555
+Bi4 Mn0 2.845589 1_655
+Bi4 Mn1 2.846558 1_555
+Bi4 Mn0 2.849573 1_555
+Bi4 Sr2 3.513590 1_555
+Bi4 Sr3 3.523355 1_555
+Bi4 Sr2 3.528598 1_655
+Bi4 Sr3 3.538979 1_655
+Bi5 Mn1 2.839719 1_555
+Bi5 Mn2 2.846316 1_655
+Bi5 Mn3 2.848933 1_554
+Bi5 Mn2 2.849318 1_555
+Bi5 Sr3 3.511158 1_554
+Bi5 Sr2 3.521367 1_555
+Bi5 Sr3 3.529080 1_654
+Bi5 Sr2 3.539929 1_655
+Bi6 Mn2 2.839469 1_555
+Bi6 Mn0 2.843079 1_555
+Bi6 Mn1 2.845605 1_555
+Bi6 Mn1 2.847583 1_455
+Bi6 Sr0 3.520505 1_555
+Bi6 Sr1 3.524084 1_555
+Bi6 Sr0 3.526751 1_455
+Bi6 Sr1 3.531059 1_455
+Bi7 Mn0 2.840837 1_555
+Bi7 Mn3 2.845854 1_455
+Bi7 Mn2 2.847170 1_556
+Bi7 Mn3 2.848004 1_555
+Bi7 Sr1 3.515695 1_556
+Bi7 Sr1 3.522988 1_456
+Bi7 Sr0 3.528004 1_555
+Bi7 Sr0 3.535888 1_455

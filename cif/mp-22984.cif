@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_NaBiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09841883
+_cell_length_b   5.09841874
+_cell_length_c   5.89627342
+_cell_angle_alpha   64.50294832
+_cell_angle_beta   64.50293792
+_cell_angle_gamma   88.84166095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBiO2
+_chemical_formula_sum   'Na2 Bi2 O4'
+_cell_volume   122.27626578
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62739534  0.37260466  0.75000000  1
+  Na  Na1  1  0.37260466  0.62739534  0.25000000  1
+  Bi  Bi0  1  0.88030854  0.11969146  0.25000000  1
+  Bi  Bi1  1  0.11969146  0.88030854  0.75000000  1
+  O  O0  1  0.86710654  0.70476788  0.24690503  1
+  O  O1  1  0.29523212  0.13289346  0.25309497  1
+  O  O2  1  0.70476788  0.86710654  0.74690503  1
+  O  O3  1  0.13289346  0.29523212  0.75309497  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.408027 1_556
+Na0 O0 2.408027 1_555
+Na0 O2 2.550820 1_555
+Na0 O3 2.550821 1_555
+Na0 O2 2.606013 1_545
+Na0 O3 2.606013 1_655
+Na1 O2 2.408027 1_554
+Na1 O3 2.408027 1_555
+Na1 O1 2.550820 1_555
+Na1 O0 2.550821 1_555
+Na1 O1 2.606013 1_565
+Na1 O0 2.606013 1_455
+Bi0 O0 2.126043 1_545
+Bi0 O1 2.126043 1_655
+Bi0 O3 2.363124 1_654
+Bi0 O2 2.363124 1_545
+Bi1 O3 2.126043 1_565
+Bi1 O2 2.126043 1_455
+Bi1 O0 2.363124 1_456
+Bi1 O1 2.363124 1_565

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_NiSbSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10001406
+_cell_length_b   6.10010336
+_cell_length_c   6.09994178
+_cell_angle_alpha   89.99860387
+_cell_angle_beta   90.00059531
+_cell_angle_gamma   89.99863450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiSbSe
+_chemical_formula_sum   'Ni4 Sb4 Se4'
+_cell_volume   226.98320273
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.99169417  0.99169361  0.99169156  1
+  Ni  Ni1  1  0.50832054  0.00831468  0.49168851  1
+  Ni  Ni2  1  0.49167550  0.50831551  0.00831329  1
+  Ni  Ni3  1  0.00829698  0.49168324  0.50831467  1
+  Sb  Sb0  1  0.37007675  0.12994226  0.87006527  1
+  Sb  Sb1  1  0.87007071  0.37004301  0.12995923  1
+  Sb  Sb2  1  0.62994195  0.62993845  0.62993152  1
+  Sb  Sb3  1  0.12993588  0.87006396  0.37004584  1
+  Se  Se0  1  0.87685898  0.12314797  0.62315197  1
+  Se  Se1  1  0.12313205  0.62315552  0.87684371  1
+  Se  Se2  1  0.62316379  0.87685356  0.12314488  1
+  Se  Se3  1  0.37683269  0.37684722  0.37684956  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Se0 2.487446 1_565
+Ni0 Se2 2.487468 1_556
+Ni0 Se1 2.487505 1_655
+Ni0 Sb3 2.566718 1_656
+Ni0 Sb1 2.566816 1_566
+Ni0 Sb0 2.566953 1_665
+Ni1 Se0 2.487517 1_555
+Ni1 Se3 2.487521 1_555
+Ni1 Se2 2.487544 1_545
+Ni1 Sb2 2.566868 1_545
+Ni1 Sb0 2.566890 1_555
+Ni1 Sb3 2.566995 1_545
+Ni2 Se3 2.487492 1_555
+Ni2 Se1 2.487527 1_554
+Ni2 Se2 2.487605 1_555
+Ni2 Sb0 2.566890 1_554
+Ni2 Sb2 2.566933 1_554
+Ni2 Sb1 2.567054 1_555
+Ni3 Se1 2.487469 1_555
+Ni3 Se0 2.487475 1_455
+Ni3 Se3 2.487495 1_555
+Ni3 Sb1 2.566756 1_455
+Ni3 Sb2 2.566774 1_455
+Ni3 Sb3 2.567012 1_555
+Sb0 Se2 2.673930 1_546
+Sb1 Se1 2.674111 1_654
+Sb2 Se3 2.674111 1_555
+Sb3 Se0 2.674033 1_465

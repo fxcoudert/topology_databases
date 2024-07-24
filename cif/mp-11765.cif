@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ti5Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50120883
+_cell_length_b   7.07196758
+_cell_length_c   7.07196894
+_cell_angle_alpha   86.48689877
+_cell_angle_beta   75.66790373
+_cell_angle_gamma   75.66793106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Se4
+_chemical_formula_sum   'Ti5 Se4'
+_cell_volume   164.37514856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.30638103  0.06577032  0.32146761  1
+  Ti  Ti2  1  0.62784765  0.67853239  0.06577032  1
+  Ti  Ti3  1  0.37215235  0.32146761  0.93422968  1
+  Ti  Ti4  1  0.69361897  0.93422968  0.67853239  1
+  Se  Se0  1  0.05821132  0.21327398  0.67030238  1
+  Se  Se1  1  0.72851370  0.32969762  0.21327398  1
+  Se  Se2  1  0.27148630  0.67030238  0.78672602  1
+  Se  Se3  1  0.94178868  0.78672602  0.32969762  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Se0 Ti4 2.592959 1_445
+Se0 Ti4 2.592962 1_545
+Se0 Ti1 2.595068 1_555
+Se0 Ti3 2.623825 1_455
+Se0 Ti3 2.623833 1_555
+Se0 Ti0 2.690494 1_556
+Se1 Ti3 2.592958 1_554
+Se1 Ti3 2.592963 1_654
+Se1 Ti2 2.595068 1_555
+Se1 Ti1 2.623827 1_555
+Se1 Ti1 2.623830 1_655
+Se1 Ti0 2.690494 1_655
+Se2 Ti2 2.592958 1_556
+Se2 Ti2 2.592963 1_456
+Se2 Ti3 2.595068 1_555
+Se2 Ti4 2.623827 1_555
+Se2 Ti4 2.623830 1_455
+Se2 Ti0 2.690494 1_566
+Se3 Ti1 2.592959 1_665
+Se3 Ti1 2.592962 1_565
+Se3 Ti4 2.595068 1_555
+Se3 Ti2 2.623825 1_655
+Se3 Ti2 2.623833 1_555
+Se3 Ti0 2.690494 1_665

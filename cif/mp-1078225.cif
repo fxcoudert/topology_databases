@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaLaSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67112106
+_cell_length_b   6.75123747
+_cell_length_c   7.90693154
+_cell_angle_alpha   90.00114954
+_cell_angle_beta   107.18040935
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaSi2
+_chemical_formula_sum   'Ba2 La2 Si4'
+_cell_volume   238.22556483
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.27841012  0.74997662  0.55681824  1
+  Ba  Ba1  1  0.72158988  0.25002338  0.44318176  1
+  La  La0  1  0.54763838  0.74999510  0.09527576  1
+  La  La1  1  0.45236162  0.25000490  0.90472424  1
+  Si  Si0  1  0.92581855  0.56898214  0.85163709  1
+  Si  Si1  1  0.07418145  0.43101786  0.14836291  1
+  Si  Si2  1  0.92581880  0.93099471  0.85163960  1
+  Si  Si3  1  0.07418120  0.06900529  0.14836040  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Si0 3.450801 1_555
+Ba0 Si0 3.450807 1_455
+Ba0 Si2 3.450833 1_555
+Ba0 Si2 3.450846 1_455
+Ba0 Si1 3.762598 1_555
+Ba0 Si3 3.762958 1_565
+Ba1 Si1 3.450801 1_555
+Ba1 Si1 3.450807 1_655
+Ba1 Si3 3.450833 1_555
+Ba1 Si3 3.450846 1_655
+Ba1 Si0 3.762598 1_555
+Ba1 Si2 3.762958 1_545
+La0 Si1 3.202064 1_655
+La0 Si1 3.202068 1_555
+La0 Si3 3.202200 1_565
+La0 Si3 3.202203 1_665
+La0 Si2 3.214872 1_554
+La0 Si2 3.214882 1_454
+La0 Si0 3.214891 1_554
+La0 Si0 3.214894 1_454
+La1 Si0 3.202064 1_455
+La1 Si0 3.202068 1_555
+La1 Si2 3.202200 1_545
+La1 Si2 3.202203 1_445
+La1 Si3 3.214872 1_556
+La1 Si3 3.214882 1_656
+La1 Si1 3.214891 1_556
+La1 Si1 3.214894 1_656
+Si0 Si1 2.427340 1_656
+Si0 Si2 2.444033 1_555
+Si1 Si3 2.444033 1_555
+Si2 Si3 2.427389 1_666

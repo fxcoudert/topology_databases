@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_AuC2S2BrN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66571841
+_cell_length_b   9.92103500
+_cell_length_c   10.20521950
+_cell_angle_alpha   60.91697074
+_cell_angle_beta   82.03378729
+_cell_angle_gamma   73.43409832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AuC2S2BrN4
+_chemical_formula_sum   'Au2 C4 S4 Br2 N8'
+_cell_volume   480.49935637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.00000000  0.00000000  1
+  C  C0  1  0.34949100  0.84057400  0.68545900  1
+  C  C1  1  0.65050900  0.15942600  0.31454100  1
+  C  C2  1  0.15050900  0.47396600  0.68545900  1
+  C  C3  1  0.84949100  0.52603400  0.31454100  1
+  S  S0  1  0.91967300  0.13844000  0.74641000  1
+  S  S1  1  0.08032700  0.86156000  0.25359000  1
+  S  S2  1  0.58032700  0.11515000  0.74641000  1
+  S  S3  1  0.41967300  0.88485000  0.25359000  1
+  Br  Br0  1  0.25000000  0.42282300  0.15435400  1
+  Br  Br1  1  0.75000000  0.57717700  0.84564600  1
+  N  N0  1  0.43547100  0.75880400  0.81788800  1
+  N  N1  1  0.56452900  0.24119600  0.18211200  1
+  N  N2  1  0.06452900  0.42330800  0.81788800  1
+  N  N3  1  0.93547100  0.57669200  0.18211200  1
+  N  N4  1  0.26219100  0.92432000  0.56100000  1
+  N  N5  1  0.73780900  0.07568000  0.43900000  1
+  N  N6  1  0.23780900  0.51468000  0.56100000  1
+  N  N7  1  0.76219100  0.48532000  0.43900000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 S1 2.303372 1_545
+Au0 S0 2.303372 1_454
+Au0 Au1 2.832859 1_555
+Au0 Au1 2.832859 1_455
+Au1 S3 2.303372 1_545
+Au1 S2 2.303372 1_554
+C0 N4 1.209165 1_555
+C0 N0 1.270108 1_555
+C1 N5 1.209165 1_555
+C1 N1 1.270108 1_555
+C2 N6 1.209165 1_555
+C2 N2 1.270108 1_555
+C3 N7 1.209165 1_555
+C3 N3 1.270108 1_555
+S0 S2 2.000814 1_555
+S1 S3 2.000814 1_555
+Br0 N1 2.077364 1_555
+Br0 N3 2.077364 1_455
+Br1 N0 2.077364 1_555
+Br1 N2 2.077364 1_655

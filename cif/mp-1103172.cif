@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CaCdPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32871735
+_cell_length_b   7.28903447
+_cell_length_c   8.53861326
+_cell_angle_alpha   90.00055909
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCdPd
+_chemical_formula_sum   'Ca4 Cd4 Pd4'
+_cell_volume   269.41177692
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.03417398  0.32103399  1
+  Ca  Ca1  1  0.25000000  0.53417325  0.17896646  1
+  Ca  Ca2  1  0.75000000  0.96583594  0.67898007  1
+  Ca  Ca3  1  0.75000000  0.46583888  0.82101917  1
+  Cd  Cd0  1  0.25000000  0.14343433  0.93819959  1
+  Cd  Cd1  1  0.25000000  0.64343203  0.56180081  1
+  Cd  Cd2  1  0.75000000  0.85657240  0.06176374  1
+  Cd  Cd3  1  0.75000000  0.35656931  0.43823652  1
+  Pd  Pd0  1  0.25000000  0.26142795  0.62859982  1
+  Pd  Pd1  1  0.25000000  0.76142752  0.87139801  1
+  Pd  Pd2  1  0.75000000  0.73855810  0.37142783  1
+  Pd  Pd3  1  0.75000000  0.23855532  0.12857299  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Pd2 3.084248 1_545
+Ca0 Pd2 3.084248 1_445
+Ca0 Pd3 3.099101 1_555
+Ca0 Pd3 3.099101 1_455
+Ca0 Pd0 3.104937 1_555
+Ca1 Pd3 3.084252 1_555
+Ca1 Pd3 3.084252 1_455
+Ca1 Pd2 3.099100 1_455
+Ca1 Pd2 3.099100 1_555
+Ca1 Pd1 3.104984 1_554
+Ca2 Pd0 3.084110 1_665
+Ca2 Pd0 3.084110 1_565
+Ca2 Pd1 3.099001 1_655
+Ca2 Pd1 3.099001 1_555
+Ca2 Pd2 3.104932 1_555
+Ca3 Pd1 3.084085 1_655
+Ca3 Pd1 3.084085 1_555
+Ca3 Pd0 3.099001 1_555
+Ca3 Pd0 3.099001 1_655
+Ca3 Pd3 3.104993 1_556
+Cd0 Pd0 2.779949 1_555
+Cd0 Pd3 2.794186 1_456
+Cd0 Pd3 2.794186 1_556
+Cd0 Pd1 2.842277 1_545
+Cd1 Pd1 2.779917 1_555
+Cd1 Pd2 2.794201 1_455
+Cd1 Pd2 2.794201 1_555
+Cd1 Pd0 2.842264 1_555
+Cd2 Pd2 2.780518 1_555
+Cd2 Pd1 2.794192 1_654
+Cd2 Pd1 2.794192 1_554
+Cd2 Pd3 2.842120 1_565
+Cd3 Pd3 2.780497 1_555
+Cd3 Pd0 2.794181 1_655
+Cd3 Pd0 2.794181 1_555
+Cd3 Pd2 2.842171 1_555

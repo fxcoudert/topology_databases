@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_TeNO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75065800
+_cell_length_b   6.24157103
+_cell_length_c   6.26433679
+_cell_angle_alpha   102.96102865
+_cell_angle_beta   98.16274575
+_cell_angle_gamma   91.73214366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeNO4
+_chemical_formula_sum   'Te2 N2 O8'
+_cell_volume   216.44881708
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.75746400  0.10771100  0.52150700  1
+  Te  Te1  1  0.24253600  0.89228900  0.47849300  1
+  N  N0  1  0.66105100  0.59547900  0.86021700  1
+  N  N1  1  0.33894900  0.40452100  0.13978300  1
+  O  O0  1  0.79206400  0.41783000  0.62197100  1
+  O  O1  1  0.20793600  0.58217000  0.37802900  1
+  O  O2  1  0.99540400  0.95687400  0.68756200  1
+  O  O3  1  0.00459600  0.04312600  0.31243800  1
+  O  O4  1  0.51024600  0.04622200  0.70870200  1
+  O  O5  1  0.48975400  0.95377800  0.29129800  1
+  O  O6  1  0.25137200  0.43244700  0.97272200  1
+  O  O7  1  0.74862800  0.56755300  0.02727800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+N0 O7 1.147476 1_556
+N0 O0 1.911017 1_555
+N1 O6 1.147476 1_554
+N1 O1 1.911017 1_555
+O0 Te0 1.891306 1_555
+O1 Te1 1.891306 1_555
+O2 Te0 1.988387 1_565
+O2 Te1 2.055199 1_655
+O3 Te1 1.988387 1_545
+O3 Te0 2.055199 1_455
+O4 Te1 2.007851 1_545
+O4 Te0 2.045936 1_555
+O5 Te0 2.007851 1_565
+O5 Te1 2.045936 1_555

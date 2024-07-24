@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MnCoCu4(SnS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43536400
+_cell_length_b   6.67474044
+_cell_length_c   10.18119861
+_cell_angle_alpha   90.25448669
+_cell_angle_beta   105.46653958
+_cell_angle_gamma   114.00178982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoCu4(SnS4)2
+_chemical_formula_sum   'Mn1 Co1 Cu4 Sn2 S8'
+_cell_volume   322.52663524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37499400  0.62502200  0.12470600  1
+  Co  Co0  1  0.87491900  0.12501400  0.62518800  1
+  Cu  Cu0  1  0.62366600  0.37349400  0.87326300  1
+  Cu  Cu1  1  0.12611700  0.87639100  0.37661400  1
+  Cu  Cu2  1  0.99714500  0.00039300  0.99847300  1
+  Cu  Cu3  1  0.50273800  0.49966300  0.50145800  1
+  Sn  Sn0  1  0.25102000  0.75028400  0.74798600  1
+  Sn  Sn1  1  0.74872800  0.24974600  0.25205000  1
+  S  S0  1  0.42405500  0.30733200  0.05072100  1
+  S  S1  1  0.91856300  0.82129500  0.55350400  1
+  S  S2  1  0.20594000  0.57753300  0.32132700  1
+  S  S3  1  0.71379500  0.08044100  0.81217900  1
+  S  S4  1  0.30725300  0.41439000  0.68328900  1
+  S  S5  1  0.82919900  0.93048700  0.18607000  1
+  S  S6  1  0.04383300  0.68534100  0.94189500  1
+  S  S7  1  0.55803600  0.18317400  0.45127600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 S6 2.382355 1_554
+Mn0 S0 2.384949 1_555
+Mn0 S2 2.387865 1_555
+Mn0 S5 2.390260 1_555
+Co0 S4 2.271260 1_655
+Co0 S3 2.272052 1_555
+Co0 S1 2.273560 1_545
+Co0 S7 2.275064 1_555
+Cu0 S0 2.302008 1_556
+Cu0 S6 2.303299 1_655
+Cu0 S3 2.320375 1_555
+Cu0 S4 2.320720 1_555
+Cu1 S2 2.304058 1_555
+Cu1 S5 2.304092 1_455
+Cu1 S1 2.324508 1_455
+Cu1 S7 2.325043 1_565
+Cu2 S5 2.300059 1_546
+Cu2 S6 2.306447 1_645
+Cu2 S0 2.308492 1_656
+Cu2 S3 2.318476 1_555
+Cu3 S2 2.312707 1_555
+Cu3 S1 2.324151 1_555
+Cu3 S7 2.324394 1_555
+Cu3 S4 2.333788 1_555
+S0 Sn1 2.468415 1_555
+S1 Sn0 2.491468 1_655
+S2 Sn1 2.467444 1_455
+S3 Sn0 2.492268 1_545
+S4 Sn0 2.491109 1_555
+S5 Sn1 2.466953 1_565
+S6 Sn0 2.479899 1_555
+S7 Sn1 2.478024 1_555

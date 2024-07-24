@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LaNiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23125770
+_cell_length_b   4.32155618
+_cell_length_c   8.71694052
+_cell_angle_alpha   104.35225081
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNiGe2
+_chemical_formula_sum   'La2 Ni2 Ge4'
+_cell_volume   154.41994896
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.60895980  0.21792161  1
+  La  La1  1  0.75000000  0.39104020  0.78207839  1
+  Ni  Ni0  1  0.75000000  0.18282481  0.36565062  1
+  Ni  Ni1  1  0.25000000  0.81717519  0.63434938  1
+  Ge  Ge0  1  0.25000000  0.25000903  0.50001706  1
+  Ge  Ge1  1  0.75000000  0.74999097  0.49998294  1
+  Ge  Ge2  1  0.75000000  0.04336240  0.08672479  1
+  Ge  Ge3  1  0.25000000  0.95663760  0.91327521  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Ni0 3.271273 1_455
+La0 Ni0 3.271273 1_555
+La0 Ni0 3.271276 1_465
+La0 Ni0 3.271276 1_565
+La1 Ni1 3.271273 1_555
+La1 Ni1 3.271273 1_655
+La1 Ni1 3.271276 1_645
+La1 Ni1 3.271276 1_545
+Ge0 Ni0 2.400719 1_455
+Ge0 Ni0 2.400719 1_555
+Ge0 Ni1 2.440466 1_545
+Ge0 Ni1 2.440466 1_555
+Ge0 La1 3.185858 1_555
+Ge0 La1 3.185858 1_455
+Ge0 La0 3.216227 1_555
+Ge0 La0 3.216236 1_545
+Ge1 Ni1 2.400719 1_655
+Ge1 Ni1 2.400719 1_555
+Ge1 Ni0 2.440466 1_565
+Ge1 Ni0 2.440466 1_555
+Ge1 La0 3.185858 1_555
+Ge1 La0 3.185858 1_655
+Ge1 La1 3.216227 1_555
+Ge1 La1 3.216236 1_565
+Ge2 Ni0 2.355497 1_555
+Ge2 Ge3 2.573211 1_544
+Ge2 Ge3 2.573211 1_644
+Ge2 La0 3.220616 1_655
+Ge2 La0 3.220616 1_555
+Ge2 La0 3.220621 1_645
+Ge2 La0 3.220621 1_545
+Ge2 La1 3.359725 1_544
+Ge2 La1 3.359730 1_554
+Ge3 Ni1 2.355497 1_555
+Ge3 La1 3.220616 1_455
+Ge3 La1 3.220616 1_555
+Ge3 La1 3.220621 1_565
+Ge3 La1 3.220621 1_465
+Ge3 La0 3.359725 1_566
+Ge3 La0 3.359730 1_556

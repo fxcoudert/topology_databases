@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_LiSc2Al2(CO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.54439050
+_cell_length_b   12.54439050
+_cell_length_c   12.54439078
+_cell_angle_alpha   14.88627106
+_cell_angle_beta   14.88627106
+_cell_angle_gamma   14.88626854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSc2Al2(CO)2
+_chemical_formula_sum   'Li1 Sc2 Al2 C2 O2'
+_cell_volume   113.46126773
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.44377000  0.44377000  0.44377000  1
+  Sc  Sc0  1  0.98919200  0.98919200  0.98919200  1
+  Sc  Sc1  1  0.51887600  0.51887600  0.51887600  1
+  Al  Al0  1  0.71542800  0.71542800  0.71542700  1
+  Al  Al1  1  0.26383200  0.26383200  0.26383200  1
+  C  C0  1  0.61775200  0.61775200  0.61775200  1
+  C  C1  1  0.36295100  0.36295100  0.36295100  1
+  O  O0  1  0.21444400  0.21444400  0.21444400  1
+  O  O1  1  0.82375600  0.82375600  0.82375500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.556242 1_545
+Li0 O1 2.556242 1_455
+Li0 O1 2.556245 1_554
+Al0 C1 2.007074 1_655
+Al0 C1 2.007074 1_565
+Al0 C1 2.007077 1_556
+Al1 O0 1.837716 1_555
+Al1 C0 2.026757 1_455
+Al1 C0 2.026757 1_545
+Al1 C0 2.026758 1_554
+C0 Sc0 2.351915 1_455
+C0 Sc0 2.351915 1_545
+C0 Sc0 2.351915 1_554
+C1 Sc0 2.404924 1_544
+C1 Sc0 2.404924 1_454
+C1 Sc0 2.404924 1_445
+O0 Sc1 2.162744 1_545
+O0 Sc1 2.162744 1_455
+O0 Sc1 2.162744 1_554
+O1 Sc1 2.154509 1_655
+O1 Sc1 2.154509 1_565
+O1 Sc1 2.154512 1_556

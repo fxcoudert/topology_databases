@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlCuSnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93893587
+_cell_length_b   6.93893587
+_cell_length_c   6.93893587
+_cell_angle_alpha   131.86155485
+_cell_angle_beta   131.86155485
+_cell_angle_gamma   70.44777402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuSnSe4
+_chemical_formula_sum   'Al1 Cu1 Sn1 Se4'
+_cell_volume   181.58905275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu0  1  0.25000000  0.75000000  0.50000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.10011900  0.10435200  0.45897300  1
+  Se  Se1  1  0.64537900  0.64114600  0.54102700  1
+  Se  Se2  1  0.35885400  0.89988100  0.00423300  1
+  Se  Se3  1  0.89564800  0.35462100  0.99576700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Se1 2.429065 1_555
+Al0 Se3 2.429065 1_555
+Al0 Se2 2.429065 1_545
+Al0 Se0 2.429065 1_655
+Cu0 Se2 2.456820 1_556
+Cu0 Se0 2.456820 1_565
+Cu0 Se3 2.456820 1_454
+Cu0 Se1 2.456820 1_555
+Se0 Sn0 2.601916 1_556
+Se1 Sn0 2.601916 1_555
+Se2 Sn0 2.601916 1_555
+Se3 Sn0 2.601916 1_556

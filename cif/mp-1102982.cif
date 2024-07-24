@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LaGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08252700
+_cell_length_b   6.42555400
+_cell_length_c   7.78361677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.93209112
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGaNi
+_chemical_formula_sum   'La4 Ga4 Ni4'
+_cell_volume   252.40446601
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.71499300  0.85159400  0.91632900  1
+  La  La1  1  0.28500700  0.35159400  0.58367100  1
+  La  La2  1  0.28500700  0.14840600  0.08367100  1
+  La  La3  1  0.71499300  0.64840600  0.41632900  1
+  Ga  Ga0  1  0.23900500  0.86268400  0.42142700  1
+  Ga  Ga1  1  0.76099500  0.36268400  0.07857300  1
+  Ga  Ga2  1  0.76099500  0.13731600  0.57857300  1
+  Ga  Ga3  1  0.23900500  0.63731600  0.92142700  1
+  Ni  Ni0  1  0.86698800  0.09212900  0.32235600  1
+  Ni  Ni1  1  0.13301200  0.59212900  0.17764400  1
+  Ni  Ni2  1  0.13301200  0.90787100  0.67764400  1
+  Ni  Ni3  1  0.86698800  0.40787100  0.82235600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Ni1 2.758228 1_656
+La0 Ni2 2.961603 1_555
+La0 Ni0 3.157441 1_566
+La0 Ni3 3.205285 1_555
+La1 Ni0 2.758228 1_455
+La1 Ni3 2.961603 1_555
+La1 Ni1 3.157441 1_555
+La1 Ni2 3.205285 1_545
+La2 Ni3 2.758228 1_454
+La2 Ni0 2.961603 1_555
+La2 Ni2 3.157441 1_544
+La2 Ni1 3.205285 1_555
+La3 Ni2 2.758228 1_655
+La3 Ni1 2.961603 1_555
+La3 Ni3 3.157441 1_555
+La3 Ni0 3.205285 1_565
+Ga0 Ni1 2.381745 1_555
+Ga0 Ni2 2.431579 1_555
+Ga0 Ni0 2.437305 1_465
+Ga0 La3 3.226113 1_555
+Ga0 La0 3.282543 1_555
+Ga0 La2 3.343889 1_565
+Ga1 Ni0 2.381745 1_555
+Ga1 Ni3 2.431579 1_554
+Ga1 Ni1 2.437305 1_655
+Ga1 La2 3.226113 1_555
+Ga1 La1 3.282543 1_554
+Ga1 La3 3.343889 1_555
+Ga2 Ni3 2.381745 1_555
+Ga2 Ni0 2.431579 1_555
+Ga2 Ni2 2.437305 1_645
+Ga2 La1 3.226113 1_555
+Ga2 La2 3.282543 1_555
+Ga2 La0 3.343889 1_545
+Ga3 Ni2 2.381745 1_555
+Ga3 Ni1 2.431579 1_556
+Ga3 Ni3 2.437305 1_455
+Ga3 La0 3.226113 1_555
+Ga3 La3 3.282543 1_556
+Ga3 La1 3.343889 1_555
+Ni0 Ni2 2.583003 1_645
+Ni1 Ni3 2.583003 1_454

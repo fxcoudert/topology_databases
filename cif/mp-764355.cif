@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_LiFeSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46874900
+_cell_length_b   5.13479400
+_cell_length_c   8.62335868
+_cell_angle_alpha   53.60344966
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeSiO4
+_chemical_formula_sum   'Li2 Fe2 Si2 O8'
+_cell_volume   194.91502765
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.40676300  0.28730300  0.18130900  1
+  Li  Li1  1  0.59323700  0.28730300  0.68130900  1
+  Fe  Fe0  1  0.18567400  0.98047800  0.00019000  1
+  Fe  Fe1  1  0.81432600  0.98047800  0.50019000  1
+  Si  Si0  1  0.68256700  0.73001100  0.24964300  1
+  Si  Si1  1  0.31743300  0.73001100  0.74964300  1
+  O  O0  1  0.86616400  0.98333200  0.07293100  1
+  O  O1  1  0.40592900  0.89003200  0.19763600  1
+  O  O2  1  0.67998100  0.37761600  0.28429600  1
+  O  O3  1  0.75729800  0.66156900  0.45715100  1
+  O  O4  1  0.13383600  0.98333200  0.57293100  1
+  O  O5  1  0.59407100  0.89003200  0.69763600  1
+  O  O6  1  0.32001900  0.37761600  0.78429600  1
+  O  O7  1  0.24270200  0.66156900  0.95715100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 1.930034 1_555
+Li0 O7 1.956066 1_554
+Li0 O1 1.959647 1_545
+Li1 O6 1.930034 1_555
+Li1 O3 1.956066 1_555
+Li1 O5 1.959647 1_545
+Fe0 O0 1.859495 1_455
+Fe0 O1 1.904508 1_555
+Fe0 O7 1.907293 1_554
+Fe0 O6 1.912802 1_564
+Fe1 O4 1.859495 1_655
+Fe1 O5 1.904508 1_555
+Fe1 O3 1.907293 1_555
+Fe1 O2 1.912802 1_565
+O0 Si0 1.633978 1_555
+O1 Si0 1.651582 1_555
+O2 Si0 1.649851 1_555
+O3 Si0 1.657179 1_555
+O4 Si1 1.633978 1_555
+O5 Si1 1.651582 1_555
+O6 Si1 1.649851 1_555
+O7 Si1 1.657179 1_555

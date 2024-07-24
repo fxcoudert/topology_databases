@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_ErAl2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01249959
+_cell_length_b   5.40547757
+_cell_length_c   6.83022955
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.78662422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAl2Ni
+_chemical_formula_sum   'Er2 Al4 Ni2'
+_cell_volume   137.56254015
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.06063660  0.12127419  0.75000000  1
+  Er  Er1  1  0.93936340  0.87872581  0.25000000  1
+  Al  Al0  1  0.34219230  0.68438561  0.94538462  1
+  Al  Al1  1  0.65780770  0.31561439  0.05461538  1
+  Al  Al2  1  0.65780770  0.31561439  0.44538462  1
+  Al  Al3  1  0.34219230  0.68438561  0.55461538  1
+  Ni  Ni0  1  0.78441008  0.56882016  0.75000000  1
+  Ni  Ni1  1  0.21558992  0.43117984  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Ni0 2.772975 1_445
+Er0 Ni0 3.011868 1_455
+Er0 Ni0 3.011872 1_555
+Er1 Ni1 2.772975 1_665
+Er1 Ni1 3.011868 1_655
+Er1 Ni1 3.011872 1_555
+Al0 Ni1 2.438062 1_556
+Al0 Ni0 2.478398 1_455
+Al0 Ni0 2.478401 1_555
+Al0 Er1 3.050479 1_456
+Al0 Er1 3.050485 1_556
+Al0 Er0 3.125680 1_555
+Al0 Er0 3.258041 1_565
+Al0 Er0 3.258042 1_665
+Al1 Ni0 2.438062 1_554
+Al1 Ni1 2.478398 1_655
+Al1 Ni1 2.478401 1_555
+Al1 Er0 3.050479 1_654
+Al1 Er0 3.050485 1_554
+Al1 Er1 3.125680 1_555
+Al1 Er1 3.258041 1_545
+Al1 Er1 3.258042 1_445
+Al2 Ni0 2.438062 1_555
+Al2 Ni1 2.478398 1_655
+Al2 Ni1 2.478401 1_555
+Al2 Er0 3.050479 1_655
+Al2 Er0 3.050485 1_555
+Al2 Er1 3.125680 1_555
+Al2 Er1 3.258041 1_545
+Al2 Er1 3.258042 1_445
+Al3 Ni1 2.438062 1_555
+Al3 Ni0 2.478398 1_455
+Al3 Ni0 2.478401 1_555
+Al3 Er1 3.050479 1_455
+Al3 Er1 3.050485 1_555
+Al3 Er0 3.125680 1_555
+Al3 Er0 3.258041 1_565
+Al3 Er0 3.258042 1_665

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H5PbCBr3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96885000
+_cell_length_b   6.19973000
+_cell_length_c   6.15940700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99999040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H5PbCBr3N2
+_chemical_formula_sum   'H5 Pb1 C1 Br3 N2'
+_cell_volume   227.93044769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.74207100  0.28965500  0.50000000  1
+  H  H1  1  0.74207100  0.71034500  0.50000000  1
+  H  H2  1  0.29077400  0.50000000  0.50000000  1
+  H  H3  1  0.47233800  0.82078200  0.50000000  1
+  H  H4  1  0.47233800  0.17921800  0.50000000  1
+  Pb  Pb0  1  0.04426200  0.00000000  0.00000000  1
+  C  C0  1  0.47346900  0.49999900  0.50000000  1
+  Br  Br0  1  0.02830200  0.50000000  0.00000000  1
+  Br  Br1  1  0.54287900  0.00000000  0.00000000  1
+  Br  Br2  1  0.07746900  0.00000000  0.50000000  1
+  N  N0  1  0.57275800  0.68833500  0.50000000  1
+  N  N1  1  0.57275800  0.31166700  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 N1 1.019776 1_555
+H1 N0 1.019775 1_555
+H3 N0 1.016629 1_555
+H4 N1 1.016639 1_555
+C0 H2 1.090479 1_555
+C0 N1 1.309401 1_555
+C0 N0 1.309423 1_555
+Br0 Pb0 3.101328 1_555
+Br0 Pb0 3.101328 1_565
+Br1 Pb0 2.976170 1_555
+Br1 Pb0 2.992680 1_655
+Br2 Pb0 3.086075 1_555
+Br2 Pb0 3.086075 1_556

@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_SmAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87603290
+_cell_length_b   3.92631767
+_cell_length_c   17.33764946
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAsS
+_chemical_formula_sum   'Sm4 As4 S4'
+_cell_volume   263.85365052
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.25000000  0.23438344  0.85438211  1
+  Sm  Sm1  1  0.75000000  0.73438344  0.64561789  1
+  Sm  Sm2  1  0.75000000  0.76561656  0.14561789  1
+  Sm  Sm3  1  0.25000000  0.26561656  0.35438211  1
+  As  As0  1  0.25000000  0.79086863  0.49809339  1
+  As  As1  1  0.75000000  0.20913137  0.50190661  1
+  As  As2  1  0.25000000  0.70913137  0.99809339  1
+  As  As3  1  0.75000000  0.29086863  0.00190661  1
+  S  S0  1  0.25000000  0.23719593  0.68676253  1
+  S  S1  1  0.25000000  0.26280407  0.18676253  1
+  S  S2  1  0.75000000  0.76280407  0.31323747  1
+  S  S3  1  0.75000000  0.73719593  0.81323747  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 As1 2.541103 1_465
+As0 As1 2.541103 1_565
+As0 As1 2.996218 1_555
+As0 As1 2.996218 1_455
+As0 Sm3 3.111702 1_565
+As0 Sm1 3.216686 1_455
+As0 Sm1 3.216686 1_555
+As0 Sm3 3.234387 1_555
+As1 Sm1 3.111702 1_545
+As1 Sm3 3.216686 1_655
+As1 Sm3 3.216686 1_555
+As1 Sm1 3.234387 1_555
+As2 As3 2.541103 1_456
+As2 As3 2.541103 1_556
+As2 As3 2.996218 1_566
+As2 As3 2.996218 1_466
+As2 Sm0 3.111702 1_555
+As2 Sm2 3.216686 1_456
+As2 Sm2 3.216686 1_556
+As2 Sm0 3.234387 1_565
+As3 Sm2 3.111702 1_555
+As3 Sm0 3.216686 1_554
+As3 Sm0 3.216686 1_654
+As3 Sm2 3.234387 1_545
+S0 Sm1 2.841749 1_555
+S0 Sm1 2.841749 1_455
+S0 Sm1 2.856965 1_545
+S0 Sm1 2.856965 1_445
+S0 Sm0 2.906151 1_555
+S1 Sm2 2.841749 1_445
+S1 Sm2 2.841749 1_545
+S1 Sm2 2.856965 1_455
+S1 Sm2 2.856965 1_555
+S1 Sm3 2.906151 1_555
+S2 Sm3 2.841749 1_555
+S2 Sm3 2.841749 1_655
+S2 Sm3 2.856965 1_665
+S2 Sm3 2.856965 1_565
+S2 Sm2 2.906151 1_555
+S3 Sm0 2.841749 1_565
+S3 Sm0 2.841749 1_665
+S3 Sm0 2.856965 1_655
+S3 Sm0 2.856965 1_555
+S3 Sm1 2.906151 1_555

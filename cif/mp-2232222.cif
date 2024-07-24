@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MgMn2P2(O4F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23206587
+_cell_length_b   5.47331981
+_cell_length_c   7.31828607
+_cell_angle_alpha   106.11930895
+_cell_angle_beta   107.58285534
+_cell_angle_gamma   97.49099114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn2P2(O4F)2
+_chemical_formula_sum   'Mg1 Mn2 P2 O8 F2'
+_cell_volume   186.60118493
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99038900  0.33068300  0.71067200  1
+  Mn  Mn0  1  0.01048100  0.01347600  0.01767100  1
+  Mn  Mn1  1  0.48512200  0.50514600  0.48957600  1
+  P  P0  1  0.43053800  0.10259500  0.75369500  1
+  P  P1  1  0.58402100  0.89498500  0.25495000  1
+  O  O0  1  0.26666500  0.83723200  0.14345900  1
+  O  O1  1  0.71943300  0.87304600  0.09267200  1
+  O  O2  1  0.69505600  0.16323100  0.42906500  1
+  O  O3  1  0.64429100  0.67148500  0.34236500  1
+  O  O4  1  0.26203600  0.16484600  0.89966100  1
+  O  O5  1  0.34091800  0.81922100  0.62187600  1
+  O  O6  1  0.33808400  0.30008500  0.63814600  1
+  O  O7  1  0.75154100  0.19267200  0.86088200  1
+  F  F0  1  0.14806500  0.35056800  0.26662700  1
+  F  F1  1  0.85211100  0.64323100  0.72868200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.032937 1_555
+Mg0 O6 2.057316 1_655
+Mg0 O7 2.094184 1_555
+Mg0 O4 2.145373 1_655
+Mn0 O1 1.909179 1_445
+Mn0 O0 1.912926 1_545
+Mn0 O4 1.991043 1_554
+Mn0 O7 2.036218 1_454
+Mn1 O3 1.889985 1_555
+Mn1 O6 1.997888 1_555
+Mn1 O5 2.077758 1_555
+Mn1 O2 2.296606 1_555
+O0 P1 1.556948 1_555
+O1 P1 1.542108 1_555
+O2 P1 1.551867 1_545
+O3 P1 1.555109 1_555
+O4 P0 1.574684 1_555
+O5 P0 1.504109 1_565
+O6 P0 1.585628 1_555
+O7 P0 1.566056 1_555
+F0 Mn1 1.895769 1_555
+F0 Mn0 2.058265 1_555
+F1 Mg0 1.929331 1_555
+F1 Mn1 2.043846 1_555
+F1 Mn0 2.321552 1_666

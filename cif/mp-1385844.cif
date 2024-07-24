@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_YMn2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38815201
+_cell_length_b   6.38815201
+_cell_length_c   6.38815201
+_cell_angle_alpha   126.57287272
+_cell_angle_beta   126.57287272
+_cell_angle_gamma   78.94860722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YMn2O4
+_chemical_formula_sum   'Y2 Mn4 O8'
+_cell_volume   162.65616756
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.75000000  0.25000000  0.50000000  1
+  Mn  Mn0  1  0.37500000  0.12500000  0.75000000  1
+  Mn  Mn1  1  0.37500000  0.62500000  0.25000000  1
+  Mn  Mn2  1  0.87500000  0.62500000  0.25000000  1
+  Mn  Mn3  1  0.37500000  0.62500000  0.75000000  1
+  O  O0  1  0.15325100  0.60159100  0.85671900  1
+  O  O1  1  0.74487300  0.29653200  0.14328100  1
+  O  O2  1  0.59674900  0.64840900  0.64328100  1
+  O  O3  1  0.00512700  0.95346800  0.35671900  1
+  O  O4  1  0.35159100  0.99487300  0.94834000  1
+  O  O5  1  0.04653200  0.40325100  0.05166000  1
+  O  O6  1  0.70346800  0.84674900  0.44834000  1
+  O  O7  1  0.39840900  0.25512700  0.55166000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O3 1.932171 1_545
+Mn0 O1 1.932171 1_556
+Mn0 O4 1.961457 1_545
+Mn0 O7 1.961457 1_555
+Mn1 O2 1.932168 1_555
+Mn1 O0 1.932168 1_554
+Mn1 O5 1.961463 1_555
+Mn1 O6 1.961463 1_555
+Mn2 O6 1.932168 1_555
+Mn2 O5 1.932168 1_655
+Mn2 O1 1.961460 1_555
+Mn2 O3 1.961460 1_655
+Mn3 O4 1.932173 1_555
+Mn3 O7 1.932173 1_555
+Mn3 O0 1.961463 1_555
+Mn3 O2 1.961463 1_555
+O0 Y0 2.368595 1_566
+O0 Y1 2.448832 1_455
+O1 Y0 2.368590 1_655
+O1 Y1 2.448835 1_555
+O2 Y1 2.368595 1_555
+O2 Y0 2.448832 1_666
+O3 Y1 2.368590 1_465
+O3 Y0 2.448835 1_565
+O4 Y1 2.368595 1_566
+O4 Y0 2.448833 1_566
+O5 Y1 2.368595 1_454
+O5 Y0 2.448832 1_555
+O6 Y0 2.368595 1_666
+O6 Y1 2.448832 1_565
+O7 Y0 2.368595 1_555
+O7 Y1 2.448833 1_555

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Lu2FeC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93263000
+_cell_length_b   6.44630425
+_cell_length_c   6.44630425
+_cell_angle_alpha   70.37920244
+_cell_angle_beta   67.50556855
+_cell_angle_gamma   67.50556855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2FeC4
+_chemical_formula_sum   'Lu4 Fe2 C8'
+_cell_volume   170.60890853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.14570400  0.20006300  0.50852800  1
+  Lu  Lu1  1  0.85429600  0.79993700  0.49147200  1
+  Lu  Lu2  1  0.64570400  0.50852800  0.20006300  1
+  Lu  Lu3  1  0.35429600  0.49147200  0.79993700  1
+  Fe  Fe0  1  0.75000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.25000000  0.00000000  0.00000000  1
+  C  C0  1  0.36964500  0.78836300  0.47234700  1
+  C  C1  1  0.63035500  0.21163700  0.52765300  1
+  C  C2  1  0.86964500  0.47234700  0.78836300  1
+  C  C3  1  0.13035500  0.52765300  0.21163700  1
+  C  C4  1  0.42222400  0.90929500  0.24625800  1
+  C  C5  1  0.57777600  0.09070500  0.75374200  1
+  C  C6  1  0.92222400  0.24625800  0.90929500  1
+  C  C7  1  0.07777600  0.75374200  0.09070500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 C4 1.378967 1_555
+C0 Lu3 2.324283 1_555
+C0 Lu1 2.470609 1_455
+C0 Lu1 2.470614 1_555
+C0 Lu0 2.508654 1_565
+C0 Lu2 2.570422 1_555
+C1 C5 1.378967 1_555
+C1 Lu2 2.324283 1_555
+C1 Lu0 2.470609 1_655
+C1 Lu0 2.470614 1_555
+C1 Lu1 2.508654 1_545
+C1 Lu3 2.570422 1_555
+C2 C6 1.378967 1_555
+C2 Lu1 2.324283 1_555
+C2 Lu3 2.470609 1_555
+C2 Lu3 2.470614 1_655
+C2 Lu2 2.508654 1_556
+C2 Lu0 2.570422 1_655
+C3 C7 1.378967 1_555
+C3 Lu0 2.324283 1_555
+C3 Lu2 2.470609 1_555
+C3 Lu2 2.470614 1_455
+C3 Lu3 2.508654 1_554
+C3 Lu1 2.570422 1_455
+C4 Fe0 1.900531 1_565
+C4 Fe1 1.900534 1_565
+C4 Lu2 2.462614 1_555
+C4 Lu0 2.576722 1_565
+C5 Fe1 1.900531 1_556
+C5 Fe0 1.900534 1_556
+C5 Lu3 2.462614 1_555
+C5 Lu1 2.576722 1_545
+C6 Fe1 1.900531 1_656
+C6 Fe0 1.900534 1_556
+C6 Lu0 2.462614 1_655
+C6 Lu2 2.576722 1_556
+C7 Fe0 1.900531 1_465
+C7 Fe1 1.900534 1_565
+C7 Lu1 2.462614 1_455
+C7 Lu3 2.576722 1_554

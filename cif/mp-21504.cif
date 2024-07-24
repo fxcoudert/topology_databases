@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_V4GaSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21573991
+_cell_length_b   7.21570978
+_cell_length_c   7.21568643
+_cell_angle_alpha   60.00011656
+_cell_angle_beta   60.00025473
+_cell_angle_gamma   60.00033250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4GaSe8
+_chemical_formula_sum   'V4 Ga1 Se8'
+_cell_volume   265.65921930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.60410998  0.18767744  0.60410679  1
+  V  V1  1  0.60411326  0.60411096  0.60411018  1
+  V  V2  1  0.60411326  0.60411096  0.18766660  1
+  V  V3  1  0.18767965  0.60410748  0.60410693  1
+  Ga  Ga0  1  0.00000393  0.00000243  -0.00000318  1
+  Se  Se0  1  0.86345167  0.86346800  0.86347700  1
+  Se  Se1  1  0.86345167  0.86346800  0.40960333  1
+  Se  Se2  1  0.40962157  0.86345446  0.86346198  1
+  Se  Se3  1  0.86344368  0.40961595  0.86346968  1
+  Se  Se4  1  0.36919628  0.36917901  0.36917849  1
+  Se  Se5  1  0.36919628  0.36917901  0.89244622  1
+  Se  Se6  1  0.89242060  0.36919273  0.36919334  1
+  Se  Se7  1  0.36920015  0.89243256  0.36918364  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Se0 2.413235 1_444
+Ga0 Se1 2.413236 1_445
+Ga0 Se3 2.413287 1_454
+Ga0 Se2 2.413324 1_544
+Se0 V2 2.687574 1_556
+Se0 V0 2.687672 1_565
+Se0 V3 2.687781 1_655
+Se1 V1 2.687573 1_555
+Se1 V0 2.687677 1_565
+Se1 V3 2.687785 1_655
+Se2 V1 2.687586 1_555
+Se2 V2 2.687591 1_556
+Se2 V0 2.687684 1_565
+Se3 V1 2.687553 1_555
+Se3 V2 2.687565 1_556
+Se3 V3 2.687777 1_655
+Se4 V0 2.428059 1_555
+Se4 V2 2.428088 1_555
+Se4 V3 2.428123 1_555
+Se5 V0 2.428053 1_555
+Se5 V1 2.428087 1_555
+Se5 V3 2.428117 1_555
+Se6 V0 2.427958 1_555
+Se6 V2 2.427991 1_555
+Se6 V1 2.427996 1_555
+Se7 V2 2.428025 1_555
+Se7 V1 2.428030 1_555
+Se7 V3 2.428058 1_555

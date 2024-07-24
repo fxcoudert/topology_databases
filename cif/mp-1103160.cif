@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_ScCoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78923190
+_cell_length_b   6.26523978
+_cell_length_c   6.93466581
+_cell_angle_alpha   90.02526581
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCoP
+_chemical_formula_sum   'Sc4 Co4 P4'
+_cell_volume   164.63204623
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25000000  0.01047105  0.81150276  1
+  Sc  Sc1  1  0.25000000  0.51047818  0.68863916  1
+  Sc  Sc2  1  0.75000000  0.98954036  0.18849425  1
+  Sc  Sc3  1  0.75000000  0.48951772  0.31136004  1
+  Co  Co0  1  0.25000000  0.15043182  0.43830903  1
+  Co  Co1  1  0.25000000  0.65043511  0.06170294  1
+  Co  Co2  1  0.75000000  0.84958239  0.56169855  1
+  Co  Co3  1  0.75000000  0.34956684  0.93830795  1
+  P  P0  1  0.25000000  0.28204202  0.11362110  1
+  P  P1  1  0.25000000  0.78201739  0.38636340  1
+  P  P2  1  0.75000000  0.71793219  0.88635833  1
+  P  P3  1  0.75000000  0.21798593  0.61364149  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 P3 2.290545 1_455
+Co0 P3 2.290545 1_555
+Co0 P1 2.335988 1_545
+Co0 P0 2.398180 1_555
+Co0 Sc0 2.732863 1_555
+Co0 Sc2 2.757769 1_545
+Co0 Sc2 2.757769 1_445
+Co0 Sc1 2.845807 1_555
+Co0 Sc3 2.979856 1_555
+Co0 Sc3 2.979856 1_455
+Co1 P2 2.290721 1_554
+Co1 P2 2.290721 1_454
+Co1 P0 2.336140 1_555
+Co1 P1 2.397258 1_555
+Co1 Sc1 2.731270 1_554
+Co1 Sc3 2.757700 1_455
+Co1 Sc3 2.757700 1_555
+Co1 Sc0 2.846419 1_564
+Co1 Sc2 2.979066 1_555
+Co1 Sc2 2.979066 1_455
+Co2 P1 2.290567 1_555
+Co2 P1 2.290567 1_655
+Co2 P3 2.335917 1_565
+Co2 P2 2.398083 1_555
+Co2 Sc2 2.732927 1_555
+Co2 Sc0 2.757716 1_665
+Co2 Sc0 2.757716 1_565
+Co2 Sc3 2.845933 1_555
+Co2 Sc1 2.979920 1_555
+Co2 Sc1 2.979920 1_655
+Co3 P0 2.290638 1_656
+Co3 P0 2.290638 1_556
+Co3 P2 2.336002 1_555
+Co3 P3 2.397294 1_555
+Co3 Sc3 2.731181 1_556
+Co3 Sc1 2.757737 1_655
+Co3 Sc1 2.757737 1_555
+Co3 Sc2 2.846313 1_546
+Co3 Sc0 2.979052 1_555
+Co3 Sc0 2.979052 1_655
+P0 Sc3 2.675450 1_555
+P0 Sc3 2.675450 1_455
+P0 Sc2 2.686707 1_445
+P0 Sc2 2.686707 1_545
+P0 Sc0 2.698372 1_554
+P1 Sc2 2.676645 1_455
+P1 Sc2 2.676645 1_555
+P1 Sc3 2.686561 1_555
+P1 Sc3 2.686561 1_455
+P1 Sc1 2.700259 1_555
+P2 Sc1 2.675314 1_655
+P2 Sc1 2.675314 1_555
+P2 Sc0 2.686843 1_565
+P2 Sc0 2.686843 1_665
+P2 Sc2 2.698614 1_556
+P3 Sc0 2.676592 1_655
+P3 Sc0 2.676592 1_555
+P3 Sc1 2.686521 1_555
+P3 Sc1 2.686521 1_655
+P3 Sc3 2.700261 1_555

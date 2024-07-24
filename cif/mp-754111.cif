@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LuWO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04422052
+_cell_length_b   5.37950499
+_cell_length_c   5.16948899
+_cell_angle_alpha   89.99982940
+_cell_angle_beta   83.08692034
+_cell_angle_gamma   90.00029442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuWO4
+_chemical_formula_sum   'Lu2 W2 O8'
+_cell_volume   139.25637706
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.49999884  0.26502513  0.75000238  1
+  Lu  Lu1  1  0.50000194  0.73499389  0.24999800  1
+  W  W0  1  -0.00000217  0.80251511  0.75000727  1
+  W  W1  1  -0.00000462  0.19747599  0.25000189  1
+  O  O0  1  0.23894158  0.06563974  0.48932842  1
+  O  O1  1  0.23895665  0.93435741  0.98938242  1
+  O  O2  1  0.25992298  0.58163649  0.60345650  1
+  O  O3  1  0.25989480  0.41836346  0.10345924  1
+  O  O4  1  0.74007757  0.58163822  0.89653999  1
+  O  O5  1  0.74010309  0.41835966  0.39653606  1
+  O  O6  1  0.76106425  0.06564019  0.01067127  1
+  O  O7  1  0.76104608  0.93435472  0.51061757  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O3 2.225581 1_556
+Lu0 O5 2.225603 1_555
+Lu0 O0 2.264411 1_555
+Lu0 O6 2.264422 1_556
+Lu0 O4 2.272042 1_555
+Lu0 O2 2.272050 1_555
+Lu0 O1 2.457056 1_545
+Lu0 O7 2.457104 1_545
+Lu1 O4 2.225557 1_554
+Lu1 O2 2.225561 1_555
+Lu1 O1 2.264118 1_554
+Lu1 O7 2.264119 1_555
+Lu1 O3 2.272196 1_555
+Lu1 O5 2.272199 1_555
+Lu1 O6 2.456899 1_565
+Lu1 O0 2.456917 1_565
+O0 W1 1.960957 1_555
+O0 W0 2.209352 1_545
+O1 W0 1.961188 1_555
+O1 W1 2.209219 1_566
+O2 W0 1.861653 1_555
+O3 W1 1.861573 1_555
+O4 W0 1.861589 1_655
+O5 W1 1.861534 1_655
+O6 W1 1.960917 1_655
+O6 W0 2.209301 1_644
+O7 W0 1.961213 1_655
+O7 W1 2.209176 1_665

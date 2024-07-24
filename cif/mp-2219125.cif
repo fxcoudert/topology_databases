@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgV2(CuO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58098705
+_cell_length_b   5.85083533
+_cell_length_c   6.58098815
+_cell_angle_alpha   120.71360766
+_cell_angle_beta   128.03410807
+_cell_angle_gamma   85.47047486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2(CuO4)2
+_chemical_formula_sum   'Mg1 V2 Cu2 O8'
+_cell_volume   160.85913125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  -0.00000000  -0.00000000  1
+  V  V0  1  0.79415466  0.56342021  0.26926455  1
+  V  V1  1  0.20584334  0.43657979  0.73073545  1
+  Cu  Cu0  1  0.50000100  -0.00000000  0.50000000  1
+  Cu  Cu1  1  -0.00000000  -0.00000000  -0.00000000  1
+  O  O0  1  0.28330520  0.83483074  0.05152254  1
+  O  O1  1  0.15045430  0.67391023  0.52433087  1
+  O  O2  1  0.84954570  0.32608877  0.47567013  1
+  O  O3  1  0.35042064  0.32608877  0.97654307  1
+  O  O4  1  0.76220155  0.81376501  0.55156346  1
+  O  O5  1  0.71669480  0.16516926  0.94847746  1
+  O  O6  1  0.64957936  0.67391023  0.02345693  1
+  O  O7  1  0.23779845  0.18623499  0.44843654  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 2.056876 1_554
+Mg0 O0 2.056876 1_545
+Mg0 O3 2.109466 1_554
+Mg0 O1 2.109470 1_544
+Mg0 O2 2.109471 1_555
+Mg0 O6 2.109471 1_545
+Cu0 O4 1.907648 1_545
+Cu0 O7 1.907657 1_555
+Cu0 O0 1.948366 1_545
+Cu0 O5 1.948368 1_555
+Cu1 O7 1.907653 1_555
+Cu1 O4 1.907653 1_444
+Cu1 O0 1.948354 1_545
+Cu1 O5 1.948354 1_454
+O0 V1 1.995655 1_554
+O1 V0 1.736230 1_455
+O1 V1 2.267767 1_555
+O2 V1 1.736220 1_655
+O2 V0 2.267774 1_555
+O3 V1 1.736225 1_555
+O3 V0 2.267759 1_556
+O4 V0 1.814985 1_555
+O5 V0 1.995659 1_556
+O6 V0 1.736221 1_555
+O6 V1 2.267768 1_554
+O7 V1 1.814994 1_555

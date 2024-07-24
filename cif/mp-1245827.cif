@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ge2SN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41173213
+_cell_length_b   8.11485970
+_cell_length_c   4.65075190
+_cell_angle_alpha   89.99999993
+_cell_angle_beta   81.04157096
+_cell_angle_gamma   129.25799232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge2SN2
+_chemical_formula_sum   'Ge4 S2 N4'
+_cell_volume   183.53819487
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.02694974  0.79729815  0.92044005  1
+  Ge  Ge1  1  0.02694974  0.22965159  0.92044005  1
+  Ge  Ge2  1  0.40207966  0.35825035  0.22044824  1
+  Ge  Ge3  1  0.40207966  0.04382931  0.22044824  1
+  S  S0  1  0.35426299  0.67713199  0.43870290  1
+  S  S1  1  0.88048277  0.94024188  0.66875912  1
+  N  N0  1  0.21993967  0.77924993  0.55860777  1
+  N  N1  1  0.21993967  0.44068874  0.55860777  1
+  N  N2  1  0.75295806  0.17281563  0.18077243  1
+  N  N3  1  0.75295806  0.58014243  0.18077243  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 N3 1.754120 1_456
+Ge0 N0 1.991298 1_555
+Ge0 S1 2.306201 1_455
+Ge1 N2 1.754120 1_456
+Ge1 N1 1.991294 1_555
+Ge1 S1 2.306195 1_445
+Ge2 N3 1.755381 1_555
+Ge2 N1 2.168297 1_555
+Ge3 N2 1.755381 1_555
+Ge3 N0 2.168302 1_545
+N0 S0 1.578957 1_555
+N1 S0 1.578971 1_555

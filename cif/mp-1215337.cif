@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_ZrTiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21438833
+_cell_length_b   5.23088730
+_cell_length_c   8.41077400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.56404043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiNi
+_chemical_formula_sum   'Zr4 Ti4 Ni4'
+_cell_volume   199.79552282
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.32205800  0.32134400  0.56947700  1
+  Zr  Zr1  1  0.65472200  0.65531900  0.45800800  1
+  Zr  Zr2  1  0.65472200  0.65531900  0.04199200  1
+  Zr  Zr3  1  0.32205800  0.32134400  0.93052300  1
+  Ti  Ti0  1  0.86076900  0.86061800  0.75000000  1
+  Ti  Ti1  1  0.15724200  0.66173300  0.25000000  1
+  Ti  Ti2  1  0.66241600  0.15611500  0.25000000  1
+  Ti  Ti3  1  0.16766600  0.16986900  0.25000000  1
+  Ni  Ni0  1  0.00070500  0.00091400  0.50122900  1
+  Ni  Ni1  1  0.00070500  0.00091400  0.99877100  1
+  Ni  Ni2  1  0.84106000  0.35537500  0.75000000  1
+  Ni  Ni3  1  0.35587800  0.84113500  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr3 3.036676 1_555
+Zr0 Zr1 3.149363 1_555
+Zr0 Zr1 3.172455 1_455
+Zr0 Zr1 3.175775 1_545
+Zr1 Zr2 3.499017 1_555
+Zr2 Zr3 3.149363 1_554
+Zr2 Zr3 3.172455 1_654
+Zr2 Zr3 3.175775 1_564
+Ti0 Zr3 3.057804 1_565
+Ti0 Zr0 3.057804 1_565
+Ti0 Zr0 3.062552 1_655
+Ti0 Zr3 3.062552 1_655
+Ti0 Zr2 3.077828 1_556
+Ti0 Zr1 3.077828 1_555
+Ti1 Ti3 2.546612 1_555
+Ti1 Ti2 2.605132 1_465
+Ti1 Ti2 2.661989 1_555
+Ti1 Ti3 2.685132 1_565
+Ti1 Zr0 3.102432 1_555
+Ti1 Zr3 3.102432 1_554
+Ti1 Zr2 3.115361 1_555
+Ti1 Zr1 3.115361 1_555
+Ti1 Zr2 3.164565 1_455
+Ti1 Zr1 3.164565 1_455
+Ti2 Ti3 2.545232 1_555
+Ti2 Ti3 2.670663 1_655
+Ti2 Zr3 3.099890 1_554
+Ti2 Zr0 3.099890 1_555
+Ti2 Zr2 3.127011 1_555
+Ti2 Zr1 3.127011 1_555
+Ti2 Zr2 3.166707 1_545
+Ti2 Zr1 3.166707 1_545
+Ti3 Zr3 3.020455 1_554
+Ti3 Zr0 3.020455 1_555
+Ti3 Zr2 3.160248 1_455
+Ti3 Zr1 3.160248 1_455
+Ti3 Zr2 3.168037 1_545
+Ti3 Zr1 3.168037 1_545
+Ni0 Ti0 2.444442 1_445
+Ni0 Ti3 2.600035 1_555
+Ni0 Ti2 2.613044 1_455
+Ni0 Ti1 2.618314 1_545
+Ni0 Ni3 2.642919 1_545
+Ni0 Ni2 2.644181 1_455
+Ni0 Zr0 2.950823 1_555
+Ni0 Zr1 2.995112 1_545
+Ni0 Zr1 3.005764 1_455
+Ni0 Zr0 3.135532 1_455
+Ni0 Zr1 3.140147 1_445
+Ni0 Zr0 3.149429 1_545
+Ni1 Ti0 2.444442 1_445
+Ni1 Ti3 2.600035 1_556
+Ni1 Ti2 2.613044 1_456
+Ni1 Ti1 2.618314 1_546
+Ni1 Ni3 2.642919 1_545
+Ni1 Ni2 2.644181 1_455
+Ni1 Zr3 2.950823 1_555
+Ni1 Zr2 2.995112 1_546
+Ni1 Zr2 3.005764 1_456
+Ni1 Zr3 3.135532 1_455
+Ni1 Zr2 3.140147 1_446
+Ni1 Zr3 3.149429 1_545
+Ni2 Ti0 2.539090 1_545
+Ni2 Ni3 2.557044 1_555
+Ni2 Ti0 2.694862 1_555
+Ni2 Ni3 2.710077 1_645
+Ni2 Zr1 2.817568 1_555
+Ni2 Zr2 2.817568 1_556
+Ni2 Zr0 2.861611 1_655
+Ni2 Zr3 2.861611 1_655
+Ni2 Zr3 3.183472 1_555
+Ni2 Zr0 3.183472 1_555
+Ni3 Ti0 2.533161 1_455
+Ni3 Ti0 2.684251 1_555
+Ni3 Zr1 2.813472 1_555
+Ni3 Zr2 2.813472 1_556
+Ni3 Zr3 2.865447 1_565
+Ni3 Zr0 2.865447 1_565
+Ni3 Zr0 3.193827 1_555
+Ni3 Zr3 3.193827 1_555

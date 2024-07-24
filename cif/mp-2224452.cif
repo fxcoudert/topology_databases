@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaMgNiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.97758467
+_cell_length_b   5.24862147
+_cell_length_c   6.25396961
+_cell_angle_alpha   64.72463250
+_cell_angle_beta   61.80770744
+_cell_angle_gamma   62.83890543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgNiO2
+_chemical_formula_sum   'Na1 Mg1 Ni1 O2'
+_cell_volume   73.80903851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50005343  0.49999281  0.49996213  1
+  Mg  Mg0  1  0.50001136  -0.00002918  0.50002664  1
+  Ni  Ni0  1  0.00000224  0.00001293  -0.00000240  1
+  O  O0  1  0.25816614  -0.03792501  0.26762318  1
+  O  O1  1  0.74176483  0.03794945  0.73238945  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.212863 1_555
+Na0 O0 2.212880 1_565
+Mg0 O0 1.996235 1_655
+Mg0 O1 1.996332 1_455
+Mg0 O1 2.009086 1_555
+Mg0 O0 2.009279 1_555
+Ni0 O0 2.055048 1_555
+Ni0 O1 2.055104 1_454
+Ni0 O1 2.084014 1_554
+Ni0 O0 2.084203 1_455

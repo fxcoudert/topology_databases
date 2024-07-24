@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Ni3(PbS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95421347
+_cell_length_b   6.95421347
+_cell_length_c   6.95421347
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni3(PbS)2
+_chemical_formula_sum   'Ni6 Pb4 S4'
+_cell_volume   258.89410591
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.99161410  0.25000000  0.74161410  1
+  Ni  Ni1  1  0.75000000  0.75838590  0.50838590  1
+  Ni  Ni2  1  0.74161410  0.99161410  0.25000000  1
+  Ni  Ni3  1  0.50838590  0.75000000  0.75838590  1
+  Ni  Ni4  1  0.25000000  0.74161410  0.99161410  1
+  Ni  Ni5  1  0.75838590  0.50838590  0.75000000  1
+  Pb  Pb0  1  0.49281207  -0.00000000  0.50000000  1
+  Pb  Pb1  1  0.50000000  0.49281207  -0.00000000  1
+  Pb  Pb2  1  0.00000000  0.50000000  0.49281207  1
+  Pb  Pb3  1  0.00718793  0.00718793  0.00718793  1
+  S  S0  1  0.02996191  0.00000000  0.50000000  1
+  S  S1  1  0.50000000  0.02996191  0.00000000  1
+  S  S2  1  0.00000000  0.50000000  0.02996191  1
+  S  S3  1  0.47003809  0.47003809  0.47003809  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 S2 2.139448 1_656
+Ni0 S0 2.139448 1_655
+Ni0 Pb0 2.832791 1_555
+Ni0 Pb2 2.832791 1_655
+Ni0 Pb3 2.888160 1_656
+Ni0 Pb1 2.888160 1_656
+Ni1 S0 2.139448 1_665
+Ni1 S3 2.139448 1_555
+Ni1 Pb0 2.832791 1_565
+Ni1 Pb3 2.832791 1_666
+Ni1 Pb2 2.888160 1_655
+Ni1 Pb1 2.888160 1_555
+Ni2 S1 2.139448 1_565
+Ni2 S0 2.139448 1_665
+Ni2 Pb0 2.832791 1_565
+Ni2 Pb1 2.832791 1_555
+Ni2 Pb2 2.888160 1_665
+Ni2 Pb3 2.888160 1_665
+Ni3 S1 2.139448 1_566
+Ni3 S3 2.139448 1_555
+Ni3 Pb1 2.832791 1_556
+Ni3 Pb3 2.832791 1_666
+Ni3 Pb2 2.888160 1_555
+Ni3 Pb0 2.888160 1_565
+Ni4 S1 2.139448 1_566
+Ni4 S2 2.139448 1_556
+Ni4 Pb1 2.832791 1_556
+Ni4 Pb2 2.832791 1_555
+Ni4 Pb0 2.888160 1_566
+Ni4 Pb3 2.888160 1_566
+Ni5 S2 2.139448 1_656
+Ni5 S3 2.139448 1_555
+Ni5 Pb3 2.832791 1_666
+Ni5 Pb2 2.832791 1_655
+Ni5 Pb1 2.888160 1_556
+Ni5 Pb0 2.888160 1_555
+Pb0 S0 3.218759 1_555
+Pb1 S1 3.218759 1_555
+Pb2 S2 3.218759 1_555
+Pb3 S3 3.218759 1_555

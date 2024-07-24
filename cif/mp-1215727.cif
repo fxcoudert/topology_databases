@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ZnCu4Sn2HgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77190571
+_cell_length_b   6.77190571
+_cell_length_c   7.84268039
+_cell_angle_alpha   89.98025138
+_cell_angle_beta   89.98025138
+_cell_angle_gamma   109.31360720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu4Sn2HgS8
+_chemical_formula_sum   'Zn1 Cu4 Sn2 Hg1 S8'
+_cell_volume   339.41460212
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50027800  0.49972200  0.50000000  1
+  Cu  Cu0  1  0.00217800  0.99782200  0.50000000  1
+  Cu  Cu1  1  0.49794500  0.50205500  0.00000000  1
+  Cu  Cu2  1  0.00195800  0.50203400  0.74666100  1
+  Cu  Cu3  1  0.49796600  0.99804200  0.25333900  1
+  Sn  Sn0  1  0.00023200  0.50039800  0.25375100  1
+  Sn  Sn1  1  0.49960200  0.99976800  0.74624900  1
+  Hg  Hg0  1  0.99949800  0.00050200  0.00000000  1
+  S  S0  1  0.36798800  0.60933800  0.75365500  1
+  S  S1  1  0.85912800  0.11569300  0.27278900  1
+  S  S2  1  0.88430700  0.14087200  0.72721100  1
+  S  S3  1  0.39066200  0.63201200  0.24634500  1
+  S  S4  1  0.85961500  0.59837600  0.98761200  1
+  S  S5  1  0.36269100  0.12567200  0.48875800  1
+  S  S6  1  0.87432800  0.63730900  0.51124200  1
+  S  S7  1  0.40162400  0.14038500  0.01238800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 S2 2.294031 1_465
+Cu0 S1 2.294031 1_465
+Cu0 S5 2.306347 1_565
+Cu0 S6 2.306347 1_455
+Cu1 S4 2.318730 1_554
+Cu1 S7 2.318730 1_555
+Cu1 S0 2.336256 1_554
+Cu1 S3 2.336256 1_555
+Cu2 S4 2.311143 1_455
+Cu2 S2 2.313255 1_455
+Cu2 S0 2.341747 1_555
+Cu2 S6 2.349200 1_455
+Cu3 S7 2.311143 1_565
+Cu3 S1 2.313255 1_565
+Cu3 S3 2.341747 1_555
+Cu3 S5 2.349200 1_565
+Hg0 S2 2.565023 1_554
+Hg0 S1 2.565023 1_555
+Hg0 S4 2.572213 1_544
+Hg0 S7 2.572213 1_655
+S0 Zn0 2.398063 1_555
+S0 Sn1 2.495864 1_555
+S1 Sn0 2.464817 1_655
+S2 Sn1 2.464817 1_545
+S3 Zn0 2.398063 1_555
+S3 Sn0 2.495864 1_555
+S4 Sn0 2.474253 1_656
+S5 Zn0 2.393992 1_555
+S5 Sn1 2.487489 1_545
+S6 Zn0 2.393992 1_555
+S6 Sn0 2.487489 1_655
+S7 Sn1 2.474253 1_544

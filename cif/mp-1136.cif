@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Na3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02701600
+_cell_length_b   5.02701501
+_cell_length_c   8.95782500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3As
+_chemical_formula_sum   'Na6 As2'
+_cell_volume   196.04405843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.91954500  1
+  Na  Na1  1  0.66666700  0.33333300  0.41954500  1
+  Na  Na2  1  0.00000000  0.00000000  0.25000000  1
+  Na  Na3  1  0.00000000  0.00000000  0.75000000  1
+  Na  Na4  1  0.33333300  0.66666700  0.58045500  1
+  Na  Na5  1  0.66666700  0.33333300  0.08045500  1
+  As  As0  1  0.66666700  0.33333300  0.75000000  1
+  As  As1  1  0.33333300  0.66666700  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Na3 2.902346 1_655
+As0 Na3 2.902350 1_665
+As0 Na3 2.902351 1_555
+As0 Na5 2.960158 1_556
+As0 Na1 2.960158 1_555
+As0 Na4 3.275702 1_545
+As0 Na0 3.275702 1_545
+As0 Na4 3.275703 1_655
+As0 Na0 3.275703 1_655
+As0 Na0 3.275710 1_555
+As0 Na4 3.275710 1_555
+As1 Na2 2.902346 1_565
+As1 Na2 2.902350 1_555
+As1 Na2 2.902351 1_665
+As1 Na4 2.960158 1_555
+As1 Na0 2.960158 1_554
+As1 Na1 3.275702 1_565
+As1 Na5 3.275702 1_565
+As1 Na1 3.275703 1_455
+As1 Na5 3.275703 1_455
+As1 Na5 3.275710 1_555
+As1 Na1 3.275710 1_555

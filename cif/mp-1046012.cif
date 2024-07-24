@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_CaSnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60020800
+_cell_length_b   8.91160837
+_cell_length_c   10.48995916
+_cell_angle_alpha   88.92256969
+_cell_angle_beta   86.18240370
+_cell_angle_gamma   79.60638584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnO2
+_chemical_formula_sum   'Ca4 Sn4 O8'
+_cell_volume   330.29130884
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.80191100  0.35670000  0.55929900  1
+  Ca  Ca1  1  0.19808900  0.64330000  0.44070100  1
+  Ca  Ca2  1  0.29992800  0.34311800  0.22847300  1
+  Ca  Ca3  1  0.70007200  0.65688200  0.77152700  1
+  Sn  Sn0  1  0.08425500  0.98926500  0.68700100  1
+  Sn  Sn1  1  0.37299200  0.29247700  0.88905400  1
+  Sn  Sn2  1  0.62700800  0.70752300  0.11094600  1
+  Sn  Sn3  1  0.91574500  0.01073500  0.31299900  1
+  O  O0  1  0.49090900  0.89318300  0.23245000  1
+  O  O1  1  0.12928400  0.80205300  0.80015200  1
+  O  O2  1  0.87071600  0.19794700  0.19984800  1
+  O  O3  1  0.50909100  0.10681700  0.76755000  1
+  O  O4  1  0.68775600  0.62118000  0.56218000  1
+  O  O5  1  0.84846100  0.38517700  0.78935100  1
+  O  O6  1  0.31224400  0.37882000  0.43782000  1
+  O  O7  1  0.15153900  0.61482300  0.21064900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O6 2.201790 1_655
+Ca0 O6 2.221454 1_555
+Ca0 O4 2.318730 1_555
+Ca0 O5 2.451210 1_555
+Ca1 O4 2.201790 1_455
+Ca1 O4 2.221454 1_555
+Ca1 O6 2.318730 1_555
+Ca1 O7 2.451210 1_555
+Ca2 O2 2.224716 1_455
+Ca2 O2 2.227080 1_555
+Ca2 O6 2.229377 1_555
+Ca2 O7 2.390132 1_555
+Ca3 O1 2.224716 1_655
+Ca3 O1 2.227080 1_555
+Ca3 O4 2.229377 1_555
+Ca3 O5 2.390132 1_555
+O0 Sn2 2.075022 1_555
+O0 Sn3 2.221315 1_565
+O0 Sn3 2.262037 1_465
+O1 Sn0 2.017949 1_555
+O2 Sn3 2.017949 1_555
+O3 Sn1 2.075022 1_555
+O3 Sn0 2.221315 1_545
+O3 Sn0 2.262037 1_645
+O5 Sn1 2.223933 1_555
+O5 Sn1 2.238318 1_655
+O7 Sn2 2.223933 1_555
+O7 Sn2 2.238318 1_455

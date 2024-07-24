@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_MgV2Pb(OF4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47101463
+_cell_length_b   7.75776489
+_cell_length_c   6.68679759
+_cell_angle_alpha   109.56811911
+_cell_angle_beta   114.71862702
+_cell_angle_gamma   84.40256369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV2Pb(OF4)2
+_chemical_formula_sum   'Mg1 V2 Pb1 O2 F8'
+_cell_volume   242.61265259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.50000000  0.00000000  1
+  V  V0  1  0.31308578  0.29235304  0.70582585  1
+  V  V1  1  0.68691422  0.70764696  0.29417415  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.16958338  0.18189237  0.42479898  1
+  O  O1  1  0.83041662  0.81810763  0.57520102  1
+  F  F0  1  0.56289102  0.13459807  0.84912477  1
+  F  F1  1  0.43710898  0.86540193  0.15087523  1
+  F  F2  1  0.10599308  0.24141565  0.86794435  1
+  F  F3  1  0.89400692  0.75858435  0.13205565  1
+  F  F4  1  0.13495168  0.51957227  0.77381762  1
+  F  F5  1  0.86504832  0.48042773  0.22618238  1
+  F  F6  1  0.61464784  0.44086720  0.76939092  1
+  F  F7  1  0.38535216  0.55913280  0.23060908  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 V0 1.643379 1_555
+O0 Pb0 2.507392 1_555
+O1 V1 1.643379 1_555
+O1 Pb0 2.507392 1_666
+F0 V0 1.909913 1_555
+F0 Pb0 2.455167 1_656
+F1 V1 1.909913 1_555
+F1 Pb0 2.455167 1_565
+F2 V0 2.004127 1_555
+F2 Mg0 2.038367 1_556
+F2 Pb0 2.524176 1_556
+F3 V1 2.004127 1_555
+F3 Mg0 2.038367 1_655
+F3 Pb0 2.524176 1_665
+F4 V0 1.939657 1_555
+F4 Mg0 1.991288 1_556
+F5 V1 1.939657 1_555
+F5 Mg0 1.991288 1_655
+F6 V0 1.919996 1_555
+F6 Mg0 2.007240 1_656
+F7 V1 1.919996 1_555
+F7 Mg0 2.007240 1_555

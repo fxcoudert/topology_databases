@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_NaBi(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93042318
+_cell_length_b   6.93042318
+_cell_length_c   6.93042318
+_cell_angle_alpha   134.48190163
+_cell_angle_beta   134.48190163
+_cell_angle_gamma   66.33628203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBi(WO4)2
+_chemical_formula_sum   'Na1 Bi1 W2 O8'
+_cell_volume   166.80166064
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.25000000  0.75000000  0.50000000  1
+  W  W0  1  0.00000000  0.00000000  0.00000000  1
+  W  W1  1  0.75000000  0.25000000  0.50000000  1
+  O  O0  1  0.67103900  0.06003700  0.90735000  1
+  O  O1  1  0.15268700  0.76369000  0.09265000  1
+  O  O2  1  0.50842500  0.92297000  0.09956800  1
+  O  O3  1  0.82340200  0.40885800  0.90043200  1
+  O  O4  1  0.07703000  0.17659800  0.58545600  1
+  O  O5  1  0.59114200  0.49157500  0.41454400  1
+  O  O6  1  0.23631000  0.32896100  0.38899700  1
+  O  O7  1  0.93996300  0.84731300  0.61100300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O5 2.513705 1_555
+Na0 O2 2.513708 1_555
+Na0 O3 2.513710 1_554
+Na0 O4 2.513710 1_554
+Na0 O0 2.556594 1_554
+Na0 O1 2.556595 1_555
+Na0 O7 2.556595 1_555
+Na0 O6 2.556598 1_554
+Bi0 O6 2.467709 1_555
+Bi0 O0 2.467711 1_565
+Bi0 O7 2.467716 1_455
+Bi0 O1 2.467716 1_555
+Bi0 O5 2.494962 1_555
+Bi0 O3 2.494963 1_454
+Bi0 O4 2.494963 1_565
+Bi0 O2 2.494965 1_556
+O0 W0 1.828814 1_656
+O1 W0 1.828807 1_565
+O2 W1 1.833574 1_565
+O3 W1 1.833572 1_555
+O4 W1 1.833572 1_455
+O5 W1 1.833578 1_555
+O6 W0 1.828811 1_555
+O7 W0 1.828807 1_666

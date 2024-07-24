@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_MgV4(OF)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17107299
+_cell_length_b   9.37981753
+_cell_length_c   5.19790792
+_cell_angle_alpha   103.19302953
+_cell_angle_beta   119.44122734
+_cell_angle_gamma   75.44814463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV4(OF)6
+_chemical_formula_sum   'Mg1 V4 O6 F6'
+_cell_volume   210.86936455
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.38953900  0.80747800  0.58671900  1
+  V  V0  1  0.98297400  0.00716200  0.00864400  1
+  V  V1  1  0.71510600  0.76129800  0.24054900  1
+  V  V2  1  0.55868800  0.47987400  0.51847200  1
+  V  V3  1  0.27712300  0.25581800  0.73837700  1
+  O  O0  1  0.34289300  0.88502300  0.23034300  1
+  O  O1  1  0.73416200  0.86841700  0.99949000  1
+  O  O2  1  0.29994800  0.36848800  0.53781700  1
+  O  O3  1  0.68084200  0.64223000  0.44882100  1
+  O  O4  1  0.64549700  0.12285900  0.81060600  1
+  O  O5  1  0.88894200  0.38027000  0.72124900  1
+  F  F0  1  0.12793000  0.64358100  0.30954100  1
+  F  F1  1  0.03085300  0.12099800  0.39932400  1
+  F  F2  1  0.48684200  0.37913200  0.12684000  1
+  F  F3  1  0.22622800  0.13357000  0.97884700  1
+  F  F4  1  0.50315900  0.63318200  0.84970200  1
+  F  F5  1  0.99677700  0.88204600  0.61965700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.026392 1_555
+Mg0 O1 2.073448 1_555
+Mg0 O3 2.136905 1_555
+O0 V0 1.878065 1_465
+O0 V1 1.964563 1_555
+O1 V1 1.826216 1_556
+O1 V0 2.025903 1_566
+O2 V3 1.704154 1_555
+O2 V2 1.942804 1_555
+O3 V1 1.813998 1_555
+O3 V2 1.951686 1_555
+O4 V0 1.753580 1_556
+O4 V3 1.908343 1_555
+O5 V2 1.666878 1_555
+O5 V3 2.023405 1_655
+F0 V1 2.036811 1_455
+F0 Mg0 2.094565 1_555
+F0 V2 2.272290 1_555
+F1 V3 1.978003 1_555
+F1 V0 1.993503 1_455
+F2 V2 1.931260 1_555
+F2 V3 2.000669 1_554
+F3 V0 2.009211 1_456
+F3 V3 2.018843 1_555
+F4 V1 2.032533 1_556
+F4 V2 2.064691 1_555
+F4 Mg0 2.152777 1_555
+F5 Mg0 2.053488 1_655
+F5 V1 2.067859 1_555
+F5 V0 2.118292 1_566

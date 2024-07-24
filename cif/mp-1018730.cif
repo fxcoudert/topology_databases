@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_In2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69136452
+_cell_length_b   4.69136452
+_cell_length_c   6.90190200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Cu
+_chemical_formula_sum   'In4 Cu2'
+_cell_volume   131.55208806
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.33333300  0.66666700  0.75000000  1
+  In  In1  1  0.66666700  0.33333300  0.25000000  1
+  In  In2  1  0.00000000  0.00000000  0.50000000  1
+  In  In3  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.33333300  0.66666700  0.25000000  1
+  Cu  Cu1  1  0.66666700  0.33333300  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In2 3.211472 1_565
+In0 In3 3.211472 1_566
+In0 In2 3.211475 1_555
+In0 In3 3.211475 1_556
+In0 In2 3.211475 1_665
+In0 In3 3.211475 1_666
+In1 In2 3.211472 1_655
+In1 In3 3.211472 1_655
+In1 In2 3.211475 1_555
+In1 In3 3.211475 1_555
+In1 In2 3.211475 1_665
+In1 In3 3.211475 1_665
+In2 In3 3.450951 1_555
+In2 In3 3.450951 1_556
+Cu0 In1 2.708558 1_455
+Cu0 In1 2.708558 1_565
+Cu0 In1 2.708566 1_555
+Cu0 In2 3.211472 1_565
+Cu0 In3 3.211472 1_565
+Cu0 In2 3.211475 1_555
+Cu0 In3 3.211475 1_555
+Cu0 In2 3.211475 1_665
+Cu0 In3 3.211475 1_665
+Cu1 In0 2.708558 1_545
+Cu1 In0 2.708558 1_655
+Cu1 In0 2.708566 1_555
+Cu1 In2 3.211472 1_655
+Cu1 In3 3.211472 1_656
+Cu1 In2 3.211475 1_555
+Cu1 In3 3.211475 1_556
+Cu1 In2 3.211475 1_665
+Cu1 In3 3.211475 1_666

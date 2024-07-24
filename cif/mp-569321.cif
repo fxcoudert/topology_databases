@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Mn2Ru(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07953410
+_cell_length_b   6.07953410
+_cell_length_c   6.77942100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Ru(CN)6
+_chemical_formula_sum   'Mn2 Ru1 C6 N6'
+_cell_volume   217.00204596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.66666700  0.33333300  0.50000000  1
+  Mn  Mn1  1  0.33333300  0.66666700  0.50000000  1
+  Ru  Ru0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.00000000  0.74535800  0.81200300  1
+  C  C1  1  0.00000000  0.25464200  0.18799700  1
+  C  C2  1  0.25464200  0.25464200  0.81200300  1
+  C  C3  1  0.74535800  0.00000000  0.81200300  1
+  C  C4  1  0.25464200  0.00000000  0.18799700  1
+  C  C5  1  0.74535800  0.74535800  0.18799700  1
+  N  N0  1  0.38421800  0.00000000  0.31891700  1
+  N  N1  1  0.61578200  0.61578200  0.31891700  1
+  N  N2  1  0.38421800  0.38421800  0.68108300  1
+  N  N3  1  0.00000000  0.38421800  0.31891700  1
+  N  N4  1  0.00000000  0.61578200  0.68108300  1
+  N  N5  1  0.61578200  0.00000000  0.68108300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N3 2.254467 1_655
+Mn0 N5 2.254467 1_555
+Mn0 N4 2.254469 1_655
+Mn0 N0 2.254469 1_555
+Mn0 N2 2.254472 1_555
+Mn0 N1 2.254472 1_555
+Mn1 N0 2.254467 1_565
+Mn1 N4 2.254467 1_555
+Mn1 N3 2.254469 1_555
+Mn1 N5 2.254469 1_565
+Mn1 N2 2.254472 1_555
+Mn1 N1 2.254472 1_555
+C0 N4 1.186733 1_555
+C0 Ru0 2.005245 1_566
+C1 N3 1.186733 1_555
+C1 Ru0 2.005245 1_555
+C2 N2 1.186733 1_555
+C2 Ru0 2.005245 1_556
+C3 N5 1.186733 1_555
+C3 Ru0 2.005245 1_656
+C4 N0 1.186733 1_555
+C4 Ru0 2.005245 1_555
+C5 N1 1.186733 1_555
+C5 Ru0 2.005245 1_665

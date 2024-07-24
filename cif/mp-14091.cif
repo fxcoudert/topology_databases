@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_AlAgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97520594
+_cell_length_b   5.97520573
+_cell_length_c   6.94428435
+_cell_angle_alpha   115.48181073
+_cell_angle_beta   115.48181733
+_cell_angle_gamma   90.00001148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAgSe2
+_chemical_formula_sum   'Al2 Ag2 Se4'
+_cell_volume   196.76109454
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al1  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag0  1  0.25000000  0.75000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.83754852  0.87500000  0.25000000  1
+  Se  Se1  1  0.62500000  0.16245148  0.75000000  1
+  Se  Se2  1  0.41245148  0.37500000  0.25000000  1
+  Se  Se3  1  0.12500000  0.58754852  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Se2 2.396376 1_555
+Al0 Se0 2.396376 1_555
+Al0 Se3 2.396376 1_554
+Al0 Se1 2.396376 1_554
+Al1 Se1 2.396376 1_555
+Al1 Se3 2.396376 1_655
+Al1 Se2 2.396376 1_555
+Al1 Se0 2.396376 1_545
+Ag0 Se3 2.660780 1_555
+Ag0 Se1 2.660780 1_565
+Ag0 Se0 2.660780 1_455
+Ag0 Se2 2.660781 1_555
+Ag1 Se0 2.660780 1_445
+Ag1 Se2 2.660780 1_555
+Ag1 Se1 2.660780 1_454
+Ag1 Se3 2.660781 1_544

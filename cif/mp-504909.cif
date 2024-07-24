@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_Ni2SnP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53650642
+_cell_length_b   5.03193096
+_cell_length_c   13.05777839
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2SnP
+_chemical_formula_sum   'Ni8 Sn4 P4'
+_cell_volume   232.36912269
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.25000000  0.50212786  0.11414963  1
+  Ni  Ni1  1  0.75000000  0.49787214  0.88585037  1
+  Ni  Ni2  1  0.75000000  0.00212786  0.38585037  1
+  Ni  Ni3  1  0.25000000  0.99787214  0.61414963  1
+  Ni  Ni4  1  0.75000000  0.51535252  0.42280950  1
+  Ni  Ni5  1  0.25000000  0.48464748  0.57719050  1
+  Ni  Ni6  1  0.25000000  0.01535252  0.07719050  1
+  Ni  Ni7  1  0.75000000  0.98464748  0.92280950  1
+  Sn  Sn0  1  0.25000000  0.29866322  0.29528355  1
+  Sn  Sn1  1  0.75000000  0.70133678  0.70471645  1
+  Sn  Sn2  1  0.75000000  0.79866322  0.20471645  1
+  Sn  Sn3  1  0.25000000  0.20133678  0.79528355  1
+  P  P0  1  0.75000000  0.28935243  0.04170471  1
+  P  P1  1  0.25000000  0.71064757  0.95829529  1
+  P  P2  1  0.25000000  0.78935243  0.45829529  1
+  P  P3  1  0.75000000  0.21064757  0.54170471  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 P0 2.273305 1_555
+Ni0 P0 2.273305 1_455
+Ni0 P1 2.289676 1_554
+Ni0 Ni6 2.496510 1_555
+Ni0 Sn0 2.577287 1_555
+Ni0 Sn2 2.598416 1_555
+Ni0 Sn2 2.598416 1_455
+Ni0 Ni6 2.627217 1_565
+Ni1 P1 2.273305 1_555
+Ni1 P1 2.273305 1_655
+Ni1 P0 2.289676 1_556
+Ni1 Ni7 2.496510 1_555
+Ni1 Sn1 2.577287 1_555
+Ni1 Sn3 2.598416 1_555
+Ni1 Sn3 2.598416 1_655
+Ni1 Ni7 2.627217 1_545
+Ni2 P2 2.273305 1_545
+Ni2 P2 2.273305 1_645
+Ni2 P3 2.289676 1_555
+Ni2 Ni4 2.496510 1_545
+Ni2 Sn2 2.577287 1_545
+Ni2 Sn0 2.598416 1_555
+Ni2 Sn0 2.598416 1_655
+Ni2 Ni4 2.627217 1_555
+Ni3 P3 2.273305 1_465
+Ni3 P3 2.273305 1_565
+Ni3 P2 2.289676 1_555
+Ni3 Ni5 2.496510 1_565
+Ni3 Sn3 2.577287 1_565
+Ni3 Sn1 2.598416 1_555
+Ni3 Sn1 2.598416 1_455
+Ni3 Ni5 2.627217 1_555
+Ni4 P3 2.182005 1_555
+Ni4 P2 2.289623 1_555
+Ni4 P2 2.289623 1_655
+Ni4 Sn0 2.662429 1_655
+Ni4 Sn0 2.662429 1_555
+Ni5 P2 2.182005 1_555
+Ni5 P3 2.289623 1_455
+Ni5 P3 2.289623 1_555
+Ni5 Sn1 2.662429 1_555
+Ni5 Sn1 2.662429 1_455
+Ni6 P1 2.182005 1_544
+Ni6 P0 2.289623 1_455
+Ni6 P0 2.289623 1_555
+Ni6 Sn2 2.662429 1_445
+Ni6 Sn2 2.662429 1_545
+Ni7 P0 2.182005 1_566
+Ni7 P1 2.289623 1_655
+Ni7 P1 2.289623 1_555
+Ni7 Sn3 2.662429 1_565
+Ni7 Sn3 2.662429 1_665

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Na2MgTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.07593892
+_cell_length_b   5.58980270
+_cell_length_c   6.66841947
+_cell_angle_alpha   114.77935779
+_cell_angle_beta   103.33444680
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgTiO3
+_chemical_formula_sum   'Na2 Mg1 Ti1 O3'
+_cell_volume   100.68487312
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75034037  0.61260921  0.50068074  1
+  Na  Na1  1  0.24965963  0.11192847  0.49931926  1
+  Mg  Mg0  1  0.50000000  0.71503474  -0.00000000  1
+  Ti  Ti0  1  0.00000000  0.15710244  -0.00000000  1
+  O  O0  1  0.60582726  0.13018583  0.21165551  1
+  O  O1  1  0.39417274  0.91853131  0.78834449  1
+  O  O2  1  0.00000000  0.49523300  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.454358 1_555
+Na0 O1 2.454359 1_655
+Na0 O0 2.536196 1_555
+Na1 O0 2.454355 1_555
+Na1 O0 2.454357 1_455
+Na1 O1 2.536192 1_545
+Mg0 O2 1.968483 1_555
+Mg0 O2 1.968483 1_655
+Mg0 O0 2.127394 1_565
+Mg0 O1 2.127399 1_554
+O0 Ti0 2.110000 1_555
+O0 Ti0 2.110003 1_655
+O1 Ti0 2.109998 1_666
+O1 Ti0 2.110001 1_566
+O2 Ti0 1.890083 1_555

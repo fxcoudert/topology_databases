@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_LuCuGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31468627
+_cell_length_b   4.31468627
+_cell_length_c   7.15950500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCuGe
+_chemical_formula_sum   'Lu2 Cu2 Ge2'
+_cell_volume   115.42823530
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00000000  0.00000000  0.22872000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.77128000  1
+  Cu  Cu0  1  0.33333300  0.66666700  0.02114900  1
+  Cu  Cu1  1  0.66666700  0.33333300  0.97885100  1
+  Ge  Ge0  1  0.66666700  0.33333300  0.54771500  1
+  Ge  Ge1  1  0.33333300  0.66666700  0.45228500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Cu1 2.509422 1_454
+Cu0 Cu1 2.509422 1_564
+Cu0 Cu1 2.509430 1_554
+Cu0 Lu0 2.900690 1_565
+Cu0 Lu0 2.900693 1_555
+Cu0 Lu0 2.900693 1_665
+Cu0 Lu1 3.066887 1_564
+Cu0 Lu1 3.066890 1_664
+Cu0 Lu1 3.066890 1_554
+Cu0 Ge1 3.086720 1_555
+Cu1 Lu1 2.900690 1_655
+Cu1 Lu1 2.900693 1_555
+Cu1 Lu1 2.900693 1_665
+Cu1 Lu0 3.066887 1_656
+Cu1 Lu0 3.066890 1_666
+Cu1 Lu0 3.066890 1_556
+Cu1 Ge0 3.086720 1_555
+Ge0 Ge1 2.583079 1_545
+Ge0 Ge1 2.583079 1_655
+Ge0 Ge1 2.583087 1_555
+Ge0 Lu1 2.960990 1_655
+Ge0 Lu1 2.960993 1_555
+Ge0 Lu1 2.960993 1_665
+Ge0 Lu0 3.379563 1_655
+Ge0 Lu0 3.379566 1_555
+Ge0 Lu0 3.379566 1_665
+Ge1 Lu0 2.960990 1_565
+Ge1 Lu0 2.960993 1_555
+Ge1 Lu0 2.960993 1_665
+Ge1 Lu1 3.379563 1_565
+Ge1 Lu1 3.379566 1_665
+Ge1 Lu1 3.379566 1_555

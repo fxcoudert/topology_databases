@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_PrNiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.63619950
+_cell_length_b   8.63619950
+_cell_length_c   4.20442689
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   28.67425432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiGe2
+_chemical_formula_sum   'Pr2 Ni2 Ge4'
+_cell_volume   150.46618405
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.89175542  0.89175542  0.75000100  1
+  Pr  Pr1  1  0.10824458  0.10824458  0.24999900  1
+  Ni  Ni0  1  0.68279033  0.68279033  0.75000100  1
+  Ni  Ni1  1  0.31720967  0.31720967  0.24999900  1
+  Ge  Ge0  1  0.74985014  0.74985014  0.24999900  1
+  Ge  Ge1  1  0.25015086  0.25015086  0.75000100  1
+  Ge  Ge2  1  0.54337774  0.54337774  0.75000100  1
+  Ge  Ge3  1  0.45662326  0.45662326  0.24999900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Pr1 3.247907 1_566
+Ni0 Pr1 3.247907 1_656
+Ni0 Pr1 3.247917 1_655
+Ni0 Pr1 3.247917 1_565
+Ni1 Pr0 3.247907 1_544
+Ni1 Pr0 3.247907 1_454
+Ni1 Pr0 3.247917 1_545
+Ni1 Pr0 3.247917 1_455
+Ge0 Ni0 2.382986 1_554
+Ge0 Ni0 2.383000 1_555
+Ge0 Ni1 2.417448 1_655
+Ge0 Ni1 2.417448 1_565
+Ge0 Pr0 3.171514 1_554
+Ge0 Pr0 3.171526 1_555
+Ge0 Pr1 3.191999 1_655
+Ge0 Pr1 3.191999 1_565
+Ge1 Ni1 2.382978 1_556
+Ge1 Ni1 2.382993 1_555
+Ge1 Ni0 2.417456 1_455
+Ge1 Ni0 2.417456 1_545
+Ge1 Pr1 3.171527 1_556
+Ge1 Pr1 3.171538 1_555
+Ge1 Pr0 3.191987 1_545
+Ge1 Pr0 3.191987 1_455
+Ge2 Ni0 2.332994 1_555
+Ge2 Ge3 2.554791 1_556
+Ge2 Ge3 2.554805 1_555
+Ge2 Pr1 3.189203 1_566
+Ge2 Pr1 3.189203 1_656
+Ge2 Pr1 3.189215 1_565
+Ge2 Pr1 3.189215 1_655
+Ge2 Pr0 3.318343 1_455
+Ge2 Pr0 3.318343 1_545
+Ge3 Ni1 2.333011 1_555
+Ge3 Pr0 3.189209 1_454
+Ge3 Pr0 3.189209 1_544
+Ge3 Pr0 3.189220 1_455
+Ge3 Pr0 3.189220 1_545
+Ge3 Pr1 3.318330 1_655
+Ge3 Pr1 3.318330 1_565

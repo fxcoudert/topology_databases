@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_Pr5AgSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.60499912
+_cell_length_b   9.60499912
+_cell_length_c   6.87883515
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr5AgSn3
+_chemical_formula_sum   'Pr10 Ag2 Sn6'
+_cell_volume   549.59170672
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.27484413  -0.00000000  0.75000000  1
+  Pr  Pr1  1  0.72515587  0.00000000  0.25000000  1
+  Pr  Pr2  1  -0.00000000  0.27484413  0.75000000  1
+  Pr  Pr3  1  0.00000000  0.72515587  0.25000000  1
+  Pr  Pr4  1  0.72515587  0.72515587  0.75000000  1
+  Pr  Pr5  1  0.27484413  0.27484413  0.25000000  1
+  Pr  Pr6  1  0.33333300  0.66666700  0.50000000  1
+  Pr  Pr7  1  0.66666700  0.33333300  0.50000000  1
+  Pr  Pr8  1  0.66666700  0.33333300  0.00000000  1
+  Pr  Pr9  1  0.33333300  0.66666700  0.00000000  1
+  Ag  Ag0  1  0.00000000  -0.00000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  -0.00000000  0.00000000  1
+  Sn  Sn0  1  0.62116945  -0.00000000  0.75000000  1
+  Sn  Sn1  1  0.37883055  0.00000000  0.25000000  1
+  Sn  Sn2  1  -0.00000000  0.62116945  0.75000000  1
+  Sn  Sn3  1  0.00000000  0.37883055  0.25000000  1
+  Sn  Sn4  1  0.37883055  0.37883055  0.75000000  1
+  Sn  Sn5  1  0.62116945  0.62116945  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Sn2 3.256258 1_545
+Pr0 Sn4 3.256258 1_555
+Pr0 Sn0 3.326454 1_555
+Pr0 Sn1 3.581504 1_556
+Pr0 Sn1 3.581504 1_555
+Pr1 Sn3 3.256258 1_655
+Pr1 Sn5 3.256258 1_545
+Pr1 Sn1 3.326454 1_555
+Pr1 Sn0 3.581504 1_555
+Pr1 Sn0 3.581504 1_554
+Pr2 Sn0 3.256258 1_455
+Pr2 Sn4 3.256258 1_555
+Pr2 Sn2 3.326454 1_555
+Pr2 Sn3 3.581504 1_555
+Pr2 Sn3 3.581504 1_556
+Pr3 Sn1 3.256258 1_565
+Pr3 Sn5 3.256258 1_455
+Pr3 Sn3 3.326454 1_555
+Pr3 Sn2 3.581504 1_554
+Pr3 Sn2 3.581504 1_555
+Pr4 Sn2 3.256258 1_655
+Pr4 Sn0 3.256258 1_565
+Pr4 Sn4 3.326454 1_555
+Pr4 Sn5 3.581504 1_555
+Pr4 Sn5 3.581504 1_556
+Pr5 Sn3 3.256258 1_555
+Pr5 Sn1 3.256258 1_555
+Pr5 Sn5 3.326454 1_555
+Pr5 Sn4 3.581504 1_554
+Pr5 Sn4 3.581504 1_555
+Pr6 Sn1 3.464084 1_565
+Pr6 Sn2 3.464084 1_555
+Pr6 Sn3 3.464087 1_555
+Pr6 Sn0 3.464087 1_565
+Pr6 Sn5 3.464092 1_555
+Pr6 Sn4 3.464092 1_555
+Pr7 Sn0 3.464084 1_555
+Pr7 Sn3 3.464084 1_655
+Pr7 Sn2 3.464087 1_655
+Pr7 Sn1 3.464087 1_555
+Pr7 Sn5 3.464092 1_555
+Pr7 Sn4 3.464092 1_555
+Pr8 Sn0 3.464084 1_554
+Pr8 Sn3 3.464084 1_655
+Pr8 Sn2 3.464087 1_654
+Pr8 Sn1 3.464087 1_555
+Pr8 Sn5 3.464092 1_555
+Pr8 Sn4 3.464092 1_554
+Pr9 Sn2 3.464084 1_554
+Pr9 Sn1 3.464084 1_565
+Pr9 Sn3 3.464087 1_555
+Pr9 Sn0 3.464087 1_564
+Pr9 Sn5 3.464092 1_555
+Pr9 Sn4 3.464092 1_554
+Ag0 Pr4 3.150611 1_445
+Ag0 Pr5 3.150611 1_555
+Ag0 Pr1 3.150611 1_455
+Ag0 Pr3 3.150611 1_545
+Ag0 Pr0 3.150611 1_555
+Ag0 Pr2 3.150611 1_555
+Ag1 Pr4 3.150611 1_444
+Ag1 Pr5 3.150611 1_555
+Ag1 Pr1 3.150611 1_455
+Ag1 Pr3 3.150611 1_545
+Ag1 Pr2 3.150611 1_554
+Ag1 Pr0 3.150611 1_554

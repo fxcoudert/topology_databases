@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_U2Si3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73009700
+_cell_length_b   4.17003073
+_cell_length_c   7.06992892
+_cell_angle_alpha   89.98831514
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Si3Ir
+_chemical_formula_sum   'U2 Si3 Ir1'
+_cell_volume   109.97004923
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.99996700  0.00085800  1
+  U  U1  1  0.00000000  0.49998200  0.49942700  1
+  Si  Si0  1  0.50000000  0.49997500  0.83104300  1
+  Si  Si1  1  0.50000000  0.49996500  0.16022800  1
+  Si  Si2  1  0.50000000  0.99996100  0.67464300  1
+  Ir  Ir0  1  0.50000000  0.99995000  0.33380100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.327315 1_556
+Si0 Si2 2.359822 1_555
+Si0 Si2 2.360323 1_545
+Si0 U1 2.995846 1_555
+Si0 U1 2.995846 1_655
+Si0 U0 3.044044 1_546
+Si0 U0 3.044044 1_646
+Si0 U0 3.044334 1_556
+Si0 U0 3.044334 1_656
+Si1 U0 3.015676 1_655
+Si1 U0 3.015676 1_555
+Si1 U0 3.015982 1_545
+Si1 U0 3.015982 1_645
+Si1 U1 3.037985 1_655
+Si1 U1 3.037985 1_555
+Si2 U0 2.966059 1_656
+Si2 U0 2.966059 1_556
+Si2 U1 3.059337 1_565
+Si2 U1 3.059337 1_665
+Si2 U1 3.059562 1_555
+Si2 U1 3.059562 1_655
+Ir0 Si2 2.409729 1_555
+Ir0 Si1 2.419173 1_565
+Ir0 Si1 2.419497 1_555
+Ir0 U0 3.003194 1_655
+Ir0 U0 3.003194 1_555
+Ir0 U1 3.032375 1_555
+Ir0 U1 3.032375 1_655
+Ir0 U1 3.032887 1_665
+Ir0 U1 3.032887 1_565

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_RbMgIn(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05461684
+_cell_length_b   6.05461704
+_cell_length_c   10.30725165
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMgIn(WO4)2
+_chemical_formula_sum   'Rb1 Mg1 In1 W2 O8'
+_cell_volume   327.22528878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.52725118  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.18053923  1
+  In  In0  1  0.00000000  0.00000000  0.90248844  1
+  W  W0  1  0.33333400  0.66666700  0.31386221  1
+  W  W1  1  0.66666600  0.33333400  0.71699603  1
+  O  O0  1  0.83249115  0.16750885  0.77235448  1
+  O  O1  1  0.83249115  0.66498431  0.77235448  1
+  O  O2  1  0.33501669  0.16750885  0.77235448  1
+  O  O3  1  0.66244719  0.83122310  0.25646757  1
+  O  O4  1  0.33333400  0.66666700  0.48611256  1
+  O  O5  1  0.66666600  0.33333400  0.54461820  1
+  O  O6  1  0.16877590  0.33755281  0.25646757  1
+  O  O7  1  0.16877590  0.83122310  0.25646757  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 1.935246 1_545
+Mg0 O3 1.935246 1_445
+Mg0 O6 1.935246 1_555
+In0 O1 2.210187 1_445
+In0 O2 2.210192 1_555
+In0 O0 2.210196 1_455
+In0 Mg0 2.865939 1_556
+O0 W1 1.830211 1_555
+O0 Rb0 3.077047 1_655
+O1 W1 1.830211 1_555
+O1 Rb0 3.077041 1_665
+O2 W1 1.830206 1_555
+O2 Rb0 3.077044 1_555
+O3 W0 1.824273 1_555
+O3 Rb0 3.304931 1_665
+O4 W0 1.775428 1_555
+O4 Rb0 3.521255 1_665
+O4 Rb0 3.521260 1_565
+O4 Rb0 3.521260 1_555
+O5 W1 1.776742 1_555
+O5 Rb0 3.500212 1_555
+O5 Rb0 3.500212 1_665
+O5 Rb0 3.500222 1_655
+O6 W0 1.824278 1_555
+O6 Rb0 3.304931 1_555
+O7 W0 1.824278 1_555
+O7 Rb0 3.304931 1_565

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_TbH3(CO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19638071
+_cell_length_b   6.19638071
+_cell_length_c   6.19638062
+_cell_angle_alpha   115.53872582
+_cell_angle_beta   115.53872582
+_cell_angle_gamma   115.53873704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbH3(CO2)3
+_chemical_formula_sum   'Tb1 H3 C3 O6'
+_cell_volume   126.37138174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.99952300  0.99952300  0.99952300  1
+  H  H0  1  0.36001000  0.84548000  0.36001000  1
+  H  H1  1  0.36001000  0.36001000  0.84548000  1
+  H  H2  1  0.84548000  0.36001000  0.36001000  1
+  C  C0  1  0.60607100  0.14622200  0.60607100  1
+  C  C1  1  0.60607100  0.60607100  0.14622200  1
+  C  C2  1  0.14622200  0.60607100  0.60607100  1
+  O  O0  1  0.88566200  0.28254600  0.88566200  1
+  O  O1  1  0.88566200  0.88566200  0.28254600  1
+  O  O2  1  0.28254600  0.88566200  0.88566200  1
+  O  O3  1  0.58685800  0.33602600  0.58685800  1
+  O  O4  1  0.58685800  0.58685800  0.33602600  1
+  O  O5  1  0.33602600  0.58685800  0.58685800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 H0 1.103566 1_545
+C0 O0 1.266783 1_555
+C0 O3 1.280932 1_555
+C1 H1 1.103566 1_554
+C1 O1 1.266783 1_555
+C1 O4 1.280932 1_555
+C2 H2 1.103566 1_455
+C2 O2 1.266783 1_555
+C2 O5 1.280932 1_555
+O0 Tb0 2.403240 1_545
+O1 Tb0 2.403239 1_554
+O2 Tb0 2.403240 1_455
+O3 Tb0 2.492551 1_555
+O3 Tb0 2.516149 1_444
+O4 Tb0 2.492552 1_555
+O4 Tb0 2.516149 1_444
+O5 Tb0 2.492551 1_555
+O5 Tb0 2.516149 1_444

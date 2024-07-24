@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_PaGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28267978
+_cell_length_b   6.28267927
+_cell_length_c   4.43648700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaGa3
+_chemical_formula_sum   'Pa2 Ga6'
+_cell_volume   151.65602330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.33333300  0.66666700  0.75000000  1
+  Pa  Pa1  1  0.66666700  0.33333300  0.25000000  1
+  Ga  Ga0  1  0.14691790  0.29383581  0.25000000  1
+  Ga  Ga1  1  0.70616419  0.85308210  0.25000000  1
+  Ga  Ga2  1  0.14691790  0.85308310  0.25000000  1
+  Ga  Ga3  1  0.85308210  0.70616419  0.75000000  1
+  Ga  Ga4  1  0.29383581  0.14691790  0.75000000  1
+  Ga  Ga5  1  0.85308210  0.14691690  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga5 2.734338 1_455
+Ga0 Ga5 2.734338 1_454
+Ga0 Ga4 2.734338 1_555
+Ga0 Ga4 2.734338 1_554
+Ga0 Ga2 2.769108 1_545
+Ga0 Ga1 2.769114 1_445
+Ga0 Pa0 3.005937 1_554
+Ga0 Pa0 3.005937 1_555
+Ga0 Pa1 3.148679 1_455
+Ga0 Pa1 3.148685 1_555
+Ga1 Ga5 2.734334 1_564
+Ga1 Ga5 2.734334 1_565
+Ga1 Ga3 2.734338 1_555
+Ga1 Ga3 2.734338 1_554
+Ga1 Ga2 2.769111 1_655
+Ga1 Pa0 3.005937 1_555
+Ga1 Pa0 3.005937 1_554
+Ga1 Pa1 3.148679 1_565
+Ga1 Pa1 3.148685 1_555
+Ga2 Ga4 2.734334 1_564
+Ga2 Ga4 2.734334 1_565
+Ga2 Ga3 2.734338 1_455
+Ga2 Ga3 2.734338 1_454
+Ga2 Pa0 3.005937 1_555
+Ga2 Pa0 3.005937 1_554
+Ga2 Pa1 3.148680 1_565
+Ga2 Pa1 3.148686 1_455
+Ga3 Ga5 2.769108 1_565
+Ga3 Ga4 2.769114 1_665
+Ga3 Pa1 3.005937 1_556
+Ga3 Pa1 3.005937 1_555
+Ga3 Pa0 3.148679 1_655
+Ga3 Pa0 3.148685 1_555
+Ga4 Ga5 2.769111 1_455
+Ga4 Pa1 3.005937 1_556
+Ga4 Pa1 3.005937 1_555
+Ga4 Pa0 3.148679 1_545
+Ga4 Pa0 3.148685 1_555
+Ga5 Pa1 3.005937 1_556
+Ga5 Pa1 3.005937 1_555
+Ga5 Pa0 3.148680 1_545
+Ga5 Pa0 3.148686 1_655

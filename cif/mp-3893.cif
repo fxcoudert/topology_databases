@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Tb(CoB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53782980
+_cell_length_b   3.53783027
+_cell_length_c   5.33959998
+_cell_angle_alpha   109.34661171
+_cell_angle_beta   109.34662524
+_cell_angle_gamma   90.00000514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(CoB)2
+_chemical_formula_sum   'Tb1 Co2 B2'
+_cell_volume   59.04325205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  -0.00000000  0.00000000  -0.00000000  1
+  Co  Co0  1  0.25000000  0.75000000  0.50000000  1
+  Co  Co1  1  0.75000000  0.25000000  0.50000000  1
+  B  B0  1  0.65535771  0.65535771  0.31071743  1
+  B  B1  1  0.34464229  0.34464229  0.68928257  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Tb0 2.948281 1_565
+Co0 Tb0 2.948281 1_666
+Co0 Tb0 2.948281 1_566
+Co0 Tb0 2.948282 1_555
+Co1 Tb0 2.948281 1_656
+Co1 Tb0 2.948281 1_555
+Co1 Tb0 2.948281 1_655
+Co1 Tb0 2.948282 1_666
+B0 Co1 1.981498 1_555
+B0 Co0 1.981498 1_555
+B0 Co0 1.981504 1_655
+B0 Co1 1.981504 1_565
+B0 Tb0 2.899403 1_555
+B0 Tb0 2.899407 1_565
+B0 Tb0 2.899408 1_655
+B0 Tb0 2.899412 1_665
+B1 Co0 1.981498 1_555
+B1 Co1 1.981498 1_555
+B1 Co1 1.981504 1_455
+B1 Co0 1.981504 1_545
+B1 Tb0 2.899403 1_666
+B1 Tb0 2.899407 1_656
+B1 Tb0 2.899408 1_566
+B1 Tb0 2.899412 1_556

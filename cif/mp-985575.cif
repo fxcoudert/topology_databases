@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_LiAg(CO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69992500
+_cell_length_b   5.53048872
+_cell_length_c   10.02920666
+_cell_angle_alpha   93.29240237
+_cell_angle_beta   91.01802817
+_cell_angle_gamma   92.56978550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg(CO2)2
+_chemical_formula_sum   'Li2 Ag2 C4 O8'
+_cell_volume   204.63422529
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.96788600  0.42168100  0.13999700  1
+  Li  Li1  1  0.03211400  0.57831900  0.86000300  1
+  Ag  Ag0  1  0.62185800  0.89294000  0.33814200  1
+  Ag  Ag1  1  0.37814200  0.10706000  0.66185800  1
+  C  C0  1  0.89174000  0.93722200  0.05538600  1
+  C  C1  1  0.10826000  0.06277800  0.94461400  1
+  C  C2  1  0.08695400  0.43668400  0.43632300  1
+  C  C3  1  0.91304600  0.56331600  0.56367700  1
+  O  O0  1  0.21859900  0.92172000  0.85072400  1
+  O  O1  1  0.78140100  0.07828000  0.14927600  1
+  O  O2  1  0.15753100  0.29025900  0.95700600  1
+  O  O3  1  0.84246900  0.70974100  0.04299400  1
+  O  O4  1  0.94867700  0.46292400  0.67398100  1
+  O  O5  1  0.05132300  0.53707600  0.32601900  1
+  O  O6  1  0.74748800  0.75590200  0.54842900  1
+  O  O7  1  0.25251200  0.24409800  0.45157100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 1.951501 1_655
+Li0 O3 1.981936 1_555
+Li0 O1 1.999169 1_555
+Li0 O2 2.080158 1_654
+Li1 O4 1.951501 1_455
+Li1 O2 1.981936 1_555
+Li1 O0 1.999169 1_555
+Li1 O3 2.080158 1_456
+Ag0 O1 2.279366 1_565
+Ag0 O6 2.327818 1_555
+Ag0 O5 2.583196 1_655
+Ag0 O7 2.640591 1_565
+Ag0 O5 2.816932 1_555
+Ag1 O0 2.279366 1_545
+Ag1 O7 2.327818 1_555
+Ag1 O4 2.583196 1_455
+Ag1 O6 2.640591 1_545
+Ag1 O4 2.816932 1_555
+C0 O3 1.261791 1_555
+C0 O1 1.272707 1_565
+C1 O2 1.261791 1_555
+C1 O0 1.272707 1_545
+C2 O7 1.267643 1_555
+C2 O5 1.273339 1_555
+C3 O6 1.267643 1_555
+C3 O4 1.273339 1_555

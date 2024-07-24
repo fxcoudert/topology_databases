@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Sc2Fe3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98824307
+_cell_length_b   4.98824307
+_cell_length_c   7.92026200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.96733129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Fe3Si
+_chemical_formula_sum   'Sc4 Fe6 Si2'
+_cell_volume   170.72938183
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.66670200  0.33329800  0.06246200  1
+  Sc  Sc1  1  0.33329800  0.66670200  0.93753800  1
+  Sc  Sc2  1  0.33329800  0.66670200  0.56246200  1
+  Sc  Sc3  1  0.66670200  0.33329800  0.43753800  1
+  Fe  Fe0  1  0.82896500  0.65786000  0.75000000  1
+  Fe  Fe1  1  0.82894200  0.17105800  0.75000000  1
+  Fe  Fe2  1  0.34214000  0.17103500  0.75000000  1
+  Fe  Fe3  1  0.17103500  0.34214000  0.25000000  1
+  Fe  Fe4  1  0.17105800  0.82894200  0.25000000  1
+  Fe  Fe5  1  0.65786000  0.82896500  0.25000000  1
+  Si  Si0  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si1  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Si1 2.921377 1_655
+Sc0 Si1 2.923230 1_555
+Sc0 Si1 2.923230 1_665
+Sc0 Sc3 2.970700 1_555
+Sc0 Sc1 3.045316 1_554
+Sc0 Sc1 3.045795 1_544
+Sc0 Sc1 3.045795 1_654
+Sc1 Si1 2.921377 1_566
+Sc1 Si1 2.923230 1_556
+Sc1 Si1 2.923230 1_666
+Sc1 Sc2 2.970700 1_555
+Sc2 Si0 2.921377 1_565
+Sc2 Si0 2.923230 1_665
+Sc2 Si0 2.923230 1_555
+Sc2 Sc3 3.045316 1_555
+Sc2 Sc3 3.045795 1_455
+Sc2 Sc3 3.045795 1_565
+Sc3 Si0 2.921377 1_655
+Sc3 Si0 2.923230 1_665
+Sc3 Si0 2.923230 1_555
+Fe0 Fe1 2.428229 1_555
+Fe0 Fe2 2.429600 1_555
+Fe0 Si1 2.471165 1_666
+Fe0 Si0 2.471165 1_665
+Fe0 Fe1 2.560014 1_565
+Fe0 Fe2 2.561106 1_665
+Fe0 Sc3 2.844590 1_555
+Fe0 Sc0 2.844590 1_556
+Fe0 Sc1 2.902807 1_655
+Fe0 Sc2 2.902807 1_655
+Fe0 Sc2 2.903523 1_555
+Fe0 Sc1 2.903523 1_555
+Fe1 Fe2 2.428229 1_555
+Fe1 Si0 2.470667 1_655
+Fe1 Si1 2.470667 1_656
+Fe1 Fe2 2.560014 1_655
+Fe1 Sc3 2.844074 1_555
+Fe1 Sc0 2.844074 1_556
+Fe1 Sc1 2.904215 1_655
+Fe1 Sc1 2.904215 1_545
+Fe1 Sc2 2.904215 1_545
+Fe1 Sc2 2.904215 1_655
+Fe2 Si0 2.471165 1_555
+Fe2 Si1 2.471165 1_556
+Fe2 Sc0 2.844590 1_556
+Fe2 Sc3 2.844590 1_555
+Fe2 Sc1 2.902807 1_545
+Fe2 Sc2 2.902807 1_545
+Fe2 Sc2 2.903523 1_555
+Fe2 Sc1 2.903523 1_555
+Fe3 Fe4 2.428229 1_555
+Fe3 Fe5 2.429600 1_555
+Fe3 Si1 2.471165 1_555
+Fe3 Si0 2.471165 1_555
+Fe3 Fe4 2.560014 1_545
+Fe3 Fe5 2.561106 1_445
+Fe3 Sc2 2.844590 1_555
+Fe3 Sc1 2.844590 1_554
+Fe3 Sc3 2.902807 1_455
+Fe3 Sc0 2.902807 1_455
+Fe3 Sc3 2.903523 1_555
+Fe3 Sc0 2.903523 1_555
+Fe4 Fe5 2.428229 1_555
+Fe4 Si0 2.470667 1_565
+Fe4 Si1 2.470667 1_565
+Fe4 Fe5 2.560014 1_455
+Fe4 Sc1 2.844074 1_554
+Fe4 Sc2 2.844074 1_555
+Fe4 Sc3 2.904215 1_565
+Fe4 Sc0 2.904215 1_565
+Fe4 Sc3 2.904215 1_455
+Fe4 Sc0 2.904215 1_455
+Fe5 Si1 2.471165 1_665
+Fe5 Si0 2.471165 1_665
+Fe5 Sc2 2.844590 1_555
+Fe5 Sc1 2.844590 1_554
+Fe5 Sc3 2.902807 1_565
+Fe5 Sc0 2.902807 1_565
+Fe5 Sc0 2.903523 1_555
+Fe5 Sc3 2.903523 1_555

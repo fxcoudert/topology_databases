@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LiTi2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.65135652
+_cell_length_b   10.65135652
+_cell_length_c   10.65135652
+_cell_angle_alpha   120.43529149
+_cell_angle_beta   119.98251125
+_cell_angle_gamma   89.63900154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTi2Ir
+_chemical_formula_sum   'Li1 Ti2 Ir1'
+_cell_volume   851.74268021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.29155400  0.29155400  1
+  Ti  Ti1  1  0.00000000  0.70844600  0.70844600  1
+  Ir  Ir0  1  0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Ti0 3.084991 1_555
+Li0 Ti1 3.084991 1_544
+Ir0 Ti1 2.205609 1_555
+Ir0 Ti0 2.205609 1_555

@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Li2MnNiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82086248
+_cell_length_b   5.87966080
+_cell_length_c   5.87964658
+_cell_angle_alpha   90.19218154
+_cell_angle_beta   60.34209851
+_cell_angle_gamma   60.34171519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnNiO4
+_chemical_formula_sum   'Li4 Mn2 Ni2 O8'
+_cell_volume   143.51547376
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.49999800  1
+  Li  Li1  1  0.50000000  0.50000100  0.99999800  1
+  Li  Li2  1  0.50000000  0.50000100  0.49999800  1
+  Li  Li3  1  0.00000000  0.50000100  0.49999800  1
+  Mn  Mn0  1  0.49997800  0.00000900  0.00004500  1
+  Mn  Mn1  1  0.00002200  0.99998000  0.99998100  1
+  Ni  Ni0  1  0.49999800  0.00000100  0.49999900  1
+  Ni  Ni1  1  0.00000000  0.50000100  0.99999700  1
+  O  O0  1  0.00501800  0.23154200  0.76830500  1
+  O  O1  1  0.49497300  0.23170100  0.76846000  1
+  O  O2  1  0.50502400  0.76830200  0.23153500  1
+  O  O3  1  0.99498400  0.76845800  0.23169200  1
+  O  O4  1  0.02624200  0.22323500  0.22436100  1
+  O  O5  1  0.47375500  0.77563600  0.77676800  1
+  O  O6  1  0.52624400  0.22436500  0.22323000  1
+  O  O7  1  0.97376100  0.77676400  0.77563400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O7 2.083340 1_445
+Li0 O4 2.083340 1_555
+Li0 O3 2.100807 1_445
+Li0 O0 2.100820 1_555
+Li0 O2 2.102211 1_545
+Li0 O1 2.102223 1_455
+Li1 O5 2.083312 1_555
+Li1 O6 2.083324 1_556
+Li1 O2 2.100799 1_556
+Li1 O1 2.100811 1_555
+Li1 O3 2.102176 1_456
+Li1 O0 2.102185 1_655
+Li2 O6 2.188426 1_555
+Li2 O5 2.188427 1_555
+Li2 O7 2.189496 1_455
+Li2 O4 2.189509 1_655
+Li2 O1 2.235536 1_555
+Li2 O2 2.235544 1_555
+Li3 O7 2.188425 1_455
+Li3 O4 2.188430 1_555
+Li3 O6 2.189517 1_555
+Li3 O5 2.189521 1_455
+Li3 O3 2.235540 1_455
+Li3 O0 2.235552 1_555
+Mn0 O2 1.929202 1_545
+Mn0 O1 1.929537 1_554
+Mn0 O6 1.967748 1_555
+Mn0 O5 1.968014 1_544
+Mn0 O4 1.968131 1_555
+Mn0 O7 1.968316 1_544
+Mn1 O3 1.929353 1_456
+Mn1 O0 1.929374 1_565
+Mn1 O7 1.967817 1_455
+Mn1 O4 1.967939 1_566
+Mn1 O5 1.968116 1_555
+Mn1 O6 1.968298 1_466
+Ni0 O1 2.061246 1_555
+Ni0 O2 2.061251 1_545
+Ni0 O0 2.061306 1_555
+Ni0 O3 2.061330 1_545
+Ni0 O6 2.092731 1_555
+Ni0 O5 2.092735 1_545
+Ni1 O0 2.061235 1_555
+Ni1 O3 2.061246 1_456
+Ni1 O1 2.061275 1_555
+Ni1 O2 2.061287 1_456
+Ni1 O7 2.092700 1_455
+Ni1 O4 2.092717 1_556

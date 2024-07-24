@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BiTeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56617461
+_cell_length_b   6.56617461
+_cell_length_c   6.56617461
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiTeIr
+_chemical_formula_sum   'Bi4 Te4 Ir4'
+_cell_volume   283.09831364
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.13121954  0.86878046  0.36878046  1
+  Bi  Bi1  1  0.86878046  0.36878046  0.13121954  1
+  Bi  Bi2  1  0.36878046  0.13121954  0.86878046  1
+  Bi  Bi3  1  0.63121954  0.63121954  0.63121954  1
+  Te  Te0  1  0.87476585  0.12523415  0.62523415  1
+  Te  Te1  1  0.12523415  0.62523415  0.87476585  1
+  Te  Te2  1  0.62523415  0.87476585  0.12523415  1
+  Te  Te3  1  0.37476585  0.37476585  0.37476585  1
+  Ir  Ir0  1  0.49314986  0.50685014  0.00685014  1
+  Ir  Ir1  1  0.50685014  0.00685014  0.49314986  1
+  Ir  Ir2  1  0.00685014  0.49314986  0.50685014  1
+  Ir  Ir3  1  0.99314986  0.99314986  0.99314986  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Ir2 2.751763 1_555
+Bi0 Ir1 2.751763 1_565
+Bi0 Ir3 2.751763 1_454
+Bi0 Te0 2.916634 1_465
+Bi1 Ir2 2.751763 1_655
+Bi1 Ir0 2.751763 1_555
+Bi1 Ir3 2.751763 1_544
+Bi1 Te1 2.916634 1_654
+Bi2 Ir3 2.751763 1_445
+Bi2 Ir1 2.751763 1_555
+Bi2 Ir0 2.751763 1_556
+Bi2 Te2 2.916634 1_546
+Bi3 Ir0 2.751763 1_556
+Bi3 Ir2 2.751763 1_655
+Bi3 Ir1 2.751763 1_565
+Bi3 Te3 2.916634 1_555
+Ir0 Te2 2.681887 1_555
+Ir0 Te3 2.681887 1_555
+Ir0 Te1 2.681887 1_554
+Ir1 Te3 2.681887 1_555
+Ir1 Te0 2.681887 1_555
+Ir1 Te2 2.681887 1_545
+Ir2 Te1 2.681887 1_555
+Ir2 Te3 2.681887 1_555
+Ir2 Te0 2.681887 1_455
+Ir3 Te2 2.681887 1_556
+Ir3 Te1 2.681887 1_655
+Ir3 Te0 2.681887 1_565

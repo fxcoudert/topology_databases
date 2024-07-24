@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_MgMo3W(SeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22819600
+_cell_length_b   3.22825342
+_cell_length_c   43.52548700
+_cell_angle_alpha   90.00006954
+_cell_angle_beta   90.00130894
+_cell_angle_gamma   119.99969711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMo3W(SeS3)2
+_chemical_formula_sum   'Mg1 Mo3 W1 Se2 S6'
+_cell_volume   392.82861007
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99991300  0.99998100  0.18732600  1
+  Mo  Mo0  1  0.33337300  0.66667400  0.08730200  1
+  Mo  Mo1  1  0.66658200  0.33309600  0.28763500  1
+  Mo  Mo2  1  0.66685600  0.33375600  0.65889900  1
+  W  W0  1  0.33326100  0.66657800  0.46912600  1
+  Se  Se0  1  0.33347000  0.66695400  0.69820600  1
+  Se  Se1  1  0.33346800  0.66699000  0.61960400  1
+  S  S0  1  0.33325300  0.66640300  0.32316000  1
+  S  S1  1  0.66670200  0.33334900  0.05177600  1
+  S  S2  1  0.66658000  0.33324800  0.43326700  1
+  S  S3  1  0.66672100  0.33332900  0.12318800  1
+  S  S4  1  0.66658800  0.33322000  0.50498800  1
+  S  S5  1  0.33323500  0.66642100  0.25177100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 S1 2.421706 1_455
+Mo0 S1 2.421723 1_555
+Mo0 S1 2.421790 1_565
+Mo0 S3 2.431747 1_565
+Mo0 S3 2.431765 1_455
+Mo0 S3 2.431812 1_555
+Mo1 S0 2.421657 1_555
+Mo1 S0 2.421679 1_655
+Mo1 S0 2.421801 1_545
+Mo1 S5 2.431152 1_555
+Mo1 S5 2.431152 1_655
+Mo1 S5 2.431175 1_545
+Mo2 Se1 2.529525 1_555
+Mo2 Se1 2.529549 1_655
+Mo2 Se0 2.529832 1_555
+Mo2 Se0 2.529838 1_655
+Mo2 Se1 2.529838 1_545
+Mo2 Se0 2.530302 1_545
+S2 W0 2.430993 1_555
+S2 W0 2.431008 1_655
+S2 W0 2.431059 1_545
+S4 W0 2.431048 1_545
+S4 W0 2.431124 1_555
+S4 W0 2.431139 1_655

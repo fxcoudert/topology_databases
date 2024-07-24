@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_MnSnN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76864600
+_cell_length_b   7.54432000
+_cell_length_c   5.09993600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSnN2
+_chemical_formula_sum   'Mn4 Sn4 N8'
+_cell_volume   221.95182278
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.51158700  0.87538800  0.99086000  1
+  Mn  Mn1  1  0.48841300  0.12461200  0.49086000  1
+  Mn  Mn2  1  0.98841300  0.37538800  0.49086000  1
+  Mn  Mn3  1  0.01158700  0.62461200  0.99086000  1
+  Sn  Sn0  1  0.58674600  0.37246500  0.01189700  1
+  Sn  Sn1  1  0.41325400  0.62753500  0.51189700  1
+  Sn  Sn2  1  0.91325400  0.87246500  0.51189700  1
+  Sn  Sn3  1  0.08674600  0.12753500  0.01189700  1
+  N  N0  1  0.73392700  0.25411400  0.39159800  1
+  N  N1  1  0.26607300  0.74588600  0.89159800  1
+  N  N2  1  0.76607300  0.75411400  0.89159800  1
+  N  N3  1  0.23392700  0.24588600  0.39159800  1
+  N  N4  1  0.52297500  0.89991200  0.34664400  1
+  N  N5  1  0.47702500  0.10008800  0.84664400  1
+  N  N6  1  0.97702500  0.39991200  0.84664400  1
+  N  N7  1  0.02297500  0.60008800  0.34664400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N1 1.793506 1_555
+Mn0 N2 1.802361 1_555
+Mn0 N4 1.825067 1_556
+Mn0 N5 1.858610 1_565
+Mn1 N0 1.793506 1_555
+Mn1 N3 1.802361 1_555
+Mn1 N5 1.825067 1_555
+Mn1 N4 1.858610 1_545
+Mn2 N3 1.793506 1_655
+Mn2 N0 1.802361 1_555
+Mn2 N6 1.825067 1_555
+Mn2 N7 1.858610 1_655
+Mn3 N2 1.793506 1_455
+Mn3 N1 1.802361 1_555
+Mn3 N7 1.825067 1_556
+Mn3 N6 1.858610 1_455
+N0 Sn0 2.295198 1_555
+N1 Sn1 2.295198 1_555
+N2 Sn2 2.295198 1_555
+N3 Sn3 2.295198 1_555
+N4 Sn1 2.309438 1_555
+N4 Sn2 2.412856 1_555
+N5 Sn0 2.309438 1_556
+N5 Sn3 2.412856 1_556
+N6 Sn3 2.309438 1_656
+N6 Sn0 2.412856 1_556
+N7 Sn2 2.309438 1_455
+N7 Sn1 2.412856 1_555

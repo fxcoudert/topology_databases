@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgCo2(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97004272
+_cell_length_b   4.97057124
+_cell_length_c   6.53438551
+_cell_angle_alpha   93.50108417
+_cell_angle_beta   93.49529362
+_cell_angle_gamma   67.79951663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo2(PO4)2
+_chemical_formula_sum   'Mg1 Co2 P2 O8'
+_cell_volume   149.05387857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.00000000  0.50000000  1
+  P  P0  1  0.66572000  0.66570700  0.71454500  1
+  P  P1  1  0.33428000  0.33429300  0.28545500  1
+  O  O0  1  0.32214300  0.76757000  0.74365900  1
+  O  O1  1  0.75501700  0.75507300  0.52514100  1
+  O  O2  1  0.67785700  0.23243000  0.25634100  1
+  O  O3  1  0.23223500  0.23217500  0.07322400  1
+  O  O4  1  0.24498300  0.24492700  0.47485900  1
+  O  O5  1  0.76776500  0.76782500  0.92677600  1
+  O  O6  1  0.76760500  0.32216700  0.74361800  1
+  O  O7  1  0.23239500  0.67783300  0.25638200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.135196 1_554
+Mg0 O2 2.135196 1_555
+Mg0 O6 2.135247 1_554
+Mg0 O7 2.135247 1_555
+Mg0 O5 2.294871 1_554
+Mg0 O3 2.294871 1_555
+Co0 O3 1.940307 1_555
+Co0 O5 1.940307 1_444
+Co0 O2 2.323079 1_455
+Co0 O0 2.323079 1_544
+Co0 O6 2.323576 1_454
+Co0 O7 2.323576 1_545
+Co1 O1 2.039755 1_445
+Co1 O4 2.039755 1_555
+Co1 O7 2.224329 1_545
+Co1 O6 2.224329 1_455
+Co1 O2 2.224664 1_455
+Co1 O0 2.224664 1_545
+O0 P0 1.607142 1_555
+O1 P0 1.486314 1_555
+O2 P1 1.607142 1_555
+O3 P1 1.568719 1_555
+O4 P1 1.486314 1_555
+O5 P0 1.568719 1_555
+O6 P0 1.607117 1_555
+O7 P1 1.607117 1_555

@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Zr3Mn8Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24112713
+_cell_length_b   5.24112855
+_cell_length_c   8.28454364
+_cell_angle_alpha   89.99986938
+_cell_angle_beta   90.00016226
+_cell_angle_gamma   119.99859770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Mn8Al
+_chemical_formula_sum   'Zr3 Mn8 Al1'
+_cell_volume   197.08558665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33333673  0.66666502  0.44165209  1
+  Zr  Zr1  1  0.33333411  0.66666681  0.06690330  1
+  Zr  Zr2  1  0.66666994  0.33333095  0.92851356  1
+  Mn  Mn0  1  -0.00000293  0.00000224  0.50028144  1
+  Mn  Mn1  1  0.00000588  0.99999602  0.00231473  1
+  Mn  Mn2  1  0.16790249  0.33581242  0.74408871  1
+  Mn  Mn3  1  0.16790681  0.83209406  0.74408385  1
+  Mn  Mn4  1  0.66418744  0.83209629  0.74408923  1
+  Mn  Mn5  1  0.83154562  0.66308370  0.25762201  1
+  Mn  Mn6  1  0.83153949  0.16846133  0.25761466  1
+  Mn  Mn7  1  0.33691716  0.16845568  0.25762350  1
+  Al  Al0  1  0.66665825  0.33333647  0.55521293  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 3.104623 1_555
+Zr1 Zr2 3.235886 1_554
+Zr1 Zr2 3.235908 1_454
+Zr1 Zr2 3.235910 1_564
+Mn0 Mn7 2.525880 1_555
+Mn0 Mn5 2.525885 1_445
+Mn0 Mn6 2.525904 1_455
+Mn0 Mn3 2.530391 1_545
+Mn0 Mn2 2.530426 1_555
+Mn0 Mn4 2.530429 1_445
+Mn0 Zr0 3.064714 1_445
+Mn0 Zr0 3.064726 1_555
+Mn0 Zr0 3.064728 1_545
+Mn1 Mn6 2.610020 1_465
+Mn1 Mn5 2.610032 1_455
+Mn1 Mn7 2.610037 1_565
+Mn1 Mn3 2.626759 1_554
+Mn1 Mn2 2.626775 1_564
+Mn1 Mn4 2.626776 1_454
+Mn1 Zr1 3.072849 1_555
+Mn1 Zr1 3.072974 1_565
+Mn1 Zr1 3.072978 1_455
+Mn1 Zr2 3.087114 1_464
+Mn1 Zr2 3.087149 1_564
+Mn1 Zr2 3.087153 1_454
+Mn2 Mn3 2.601065 1_555
+Mn2 Mn4 2.601145 1_555
+Mn2 Mn3 2.640064 1_545
+Mn2 Mn4 2.640094 1_445
+Mn2 Zr0 2.921131 1_555
+Mn2 Zr2 3.033428 1_455
+Mn2 Zr2 3.033494 1_555
+Mn2 Zr1 3.067170 1_556
+Mn3 Mn4 2.601064 1_555
+Mn3 Mn4 2.640063 1_455
+Mn3 Zr0 2.921100 1_555
+Mn3 Zr2 3.033529 1_565
+Mn3 Zr2 3.033530 1_455
+Mn3 Zr1 3.067185 1_556
+Mn4 Zr0 2.921129 1_555
+Mn4 Zr2 3.033433 1_565
+Mn4 Zr2 3.033486 1_555
+Mn4 Zr1 3.067165 1_556
+Mn5 Mn6 2.592363 1_555
+Mn5 Mn7 2.592465 1_555
+Mn5 Mn6 2.648765 1_565
+Mn5 Mn7 2.648774 1_665
+Mn5 Zr0 3.031836 1_655
+Mn5 Zr0 3.031839 1_555
+Mn5 Zr1 3.060068 1_655
+Mn5 Zr1 3.060087 1_555
+Mn5 Zr2 3.110330 1_554
+Mn6 Mn7 2.592364 1_555
+Mn6 Mn7 2.648763 1_655
+Mn6 Zr0 3.031915 1_545
+Mn6 Zr0 3.031918 1_655
+Mn6 Zr1 3.060093 1_545
+Mn6 Zr1 3.060095 1_655
+Mn6 Zr2 3.110226 1_554
+Mn7 Zr0 3.031831 1_545
+Mn7 Zr0 3.031833 1_555
+Mn7 Zr1 3.060076 1_545
+Mn7 Zr1 3.060093 1_555
+Mn7 Zr2 3.110342 1_554
+Al0 Mn7 2.884139 1_555
+Al0 Mn5 2.884165 1_555
+Al0 Mn6 2.884227 1_555
+Al0 Mn2 3.052175 1_555
+Al0 Mn4 3.052183 1_555
+Al0 Mn3 3.052214 1_545
+Al0 Mn4 3.052221 1_545
+Al0 Mn2 3.052224 1_655
+Al0 Mn3 3.052240 1_655
+Al0 Mn0 3.060005 1_655
+Al0 Mn0 3.060012 1_555
+Al0 Mn0 3.060034 1_665
+Al0 Zr2 3.092625 1_555
+Al0 Zr0 3.168750 1_555
+Al0 Zr0 3.168908 1_545
+Al0 Zr0 3.168938 1_655

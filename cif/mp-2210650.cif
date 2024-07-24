@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MgAgPdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95513300
+_cell_length_b   3.28942200
+_cell_length_c   6.05944100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAgPdO2
+_chemical_formula_sum   'Mg1 Ag1 Pd1 O2'
+_cell_volume   78.83394246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag0  1  0.50000000  0.50000000  0.50000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.50000000  0.00000000  0.20838500  1
+  O  O1  1  0.50000000  0.00000000  0.79161500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.073518 1_555
+Mg0 O1 2.073518 1_564
+Mg0 O1 2.073518 1_554
+Mg0 O0 2.073518 1_565
+Mg0 Pd0 2.572128 1_565
+Mg0 Pd0 2.572128 1_655
+Mg0 Pd0 2.572128 1_555
+Mg0 Pd0 2.572128 1_665
+Ag0 O1 2.414011 1_565
+Ag0 O1 2.414011 1_555
+Ag0 O0 2.414011 1_555
+Ag0 O0 2.414011 1_565
+O0 Pd0 2.346310 1_555
+O0 Pd0 2.346310 1_655
+O1 Pd0 2.346310 1_656
+O1 Pd0 2.346310 1_556

@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Na3BiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24227216
+_cell_length_b   8.78615043
+_cell_length_c   8.60308290
+_cell_angle_alpha   79.17877299
+_cell_angle_beta   102.75210336
+_cell_angle_gamma   131.92157202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3BiF6
+_chemical_formula_sum   'Na3 Bi1 F6'
+_cell_volume   341.89063053
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na2  1  0.00000000  0.50000000  0.00000000  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  F  F0  1  0.03043500  0.27987100  0.92997500  1
+  F  F1  1  0.96956500  0.72012900  0.07002500  1
+  F  F2  1  0.95547100  0.94858900  0.74120800  1
+  F  F3  1  0.04452900  0.05141100  0.25879200  1
+  F  F4  1  0.49899300  0.74949800  0.98786100  1
+  F  F5  1  0.50100700  0.25050200  0.01213900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 F3 2.274828 1_555
+Bi0 F2 2.274828 1_444
+Bi0 F0 2.305577 1_554
+Bi0 F1 2.305577 1_445
+Bi0 F4 2.319555 1_444
+Bi0 F5 2.319555 1_555
+F0 Na1 2.185869 1_556
+F0 Na2 2.262460 1_556
+F1 Na1 2.185869 1_555
+F1 Na2 2.262460 1_655
+F2 Na0 2.079033 1_665
+F3 Na0 2.079033 1_555
+F4 Na1 2.179112 1_556
+F4 Na2 2.335020 1_556
+F5 Na1 2.179112 1_555
+F5 Na2 2.335020 1_655

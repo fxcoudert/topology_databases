@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BiI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65692236
+_cell_length_b   7.72961558
+_cell_length_c   13.19971174
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiI3
+_chemical_formula_sum   'Bi4 I12'
+_cell_volume   781.22581538
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.25139193  0.94400198  0.25000000  1
+  Bi  Bi1  1  0.24860807  0.44400198  0.25000000  1
+  Bi  Bi2  1  0.74860807  0.05599802  0.75000000  1
+  Bi  Bi3  1  0.75139193  0.55599802  0.75000000  1
+  I  I0  1  0.93261930  0.18670048  0.25000000  1
+  I  I1  1  0.56738070  0.68670048  0.25000000  1
+  I  I2  1  0.06738070  0.81329952  0.75000000  1
+  I  I3  1  0.43261930  0.31329952  0.75000000  1
+  I  I4  1  0.09250727  0.69907873  0.08997383  1
+  I  I5  1  0.40749273  0.19907873  0.41002617  1
+  I  I6  1  0.90749273  0.30092127  0.58997383  1
+  I  I7  1  0.59250727  0.80092127  0.91002617  1
+  I  I8  1  0.90749273  0.30092127  0.91002617  1
+  I  I9  1  0.59250727  0.80092127  0.58997383  1
+  I  I10  1  0.09250727  0.69907873  0.41002617  1
+  I  I11  1  0.40749273  0.19907873  0.08997383  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 I0 3.078447 1_465
+Bi0 I4 3.086407 1_555
+Bi0 I10 3.086407 1_555
+Bi0 I5 3.126951 1_565
+Bi0 I11 3.126951 1_565
+Bi0 I1 3.132009 1_555
+Bi1 I1 3.078447 1_555
+Bi1 I5 3.086407 1_555
+Bi1 I11 3.086407 1_555
+Bi1 I10 3.126951 1_555
+Bi1 I4 3.126951 1_555
+Bi1 I0 3.132009 1_455
+Bi2 I2 3.078447 1_645
+Bi2 I8 3.086407 1_555
+Bi2 I6 3.086407 1_555
+Bi2 I9 3.126951 1_545
+Bi2 I7 3.126951 1_545
+Bi2 I3 3.132009 1_555
+Bi3 I3 3.078447 1_555
+Bi3 I7 3.086407 1_555
+Bi3 I9 3.086407 1_555
+Bi3 I6 3.126951 1_555
+Bi3 I8 3.126951 1_555
+Bi3 I2 3.132009 1_655

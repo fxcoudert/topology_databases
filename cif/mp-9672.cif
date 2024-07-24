@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_K2NiP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55337962
+_cell_length_b   6.40759583
+_cell_length_c   7.56808620
+_cell_angle_alpha   115.04499066
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiP2
+_chemical_formula_sum   'K4 Ni2 P4'
+_cell_volume   243.98047300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.41547978  0.83095956  1
+  K  K1  1  0.75000000  0.78755597  0.57511295  1
+  K  K2  1  0.25000000  0.58452022  0.16904044  1
+  K  K3  1  0.25000000  0.21244403  0.42488705  1
+  Ni  Ni0  1  -0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.00000000  0.00000000  1
+  P  P0  1  0.75000000  0.26939656  0.20052308  1
+  P  P1  1  0.25000000  0.06887347  0.79947692  1
+  P  P2  1  0.25000000  0.73060344  0.79947692  1
+  P  P3  1  0.75000000  0.93112653  0.20052308  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P0 3.303834 1_556
+K0 P3 3.303835 1_556
+K0 P2 3.500173 1_555
+K0 P2 3.500173 1_655
+K0 P1 3.500173 1_655
+K0 P1 3.500173 1_555
+K1 Ni0 3.227145 1_666
+K1 Ni1 3.227145 1_566
+K1 P0 3.330338 1_555
+K1 P3 3.330342 1_555
+K1 P2 3.354257 1_655
+K1 P2 3.354257 1_555
+K1 P1 3.354259 1_665
+K1 P1 3.354259 1_565
+K2 P2 3.303834 1_554
+K2 P1 3.303835 1_554
+K2 P0 3.500173 1_555
+K2 P0 3.500173 1_455
+K2 P3 3.500173 1_455
+K2 P3 3.500173 1_555
+K3 Ni1 3.227145 1_555
+K3 Ni0 3.227145 1_555
+K3 P2 3.330338 1_555
+K3 P1 3.330342 1_555
+K3 P0 3.354257 1_455
+K3 P0 3.354257 1_555
+K3 P3 3.354259 1_445
+K3 P3 3.354259 1_545
+Ni0 P3 2.234351 1_445
+Ni0 P1 2.234351 1_554
+Ni0 P2 2.234352 1_544
+Ni0 P0 2.234352 1_455
+Ni1 P3 2.234351 1_545
+Ni1 P1 2.234351 1_554
+Ni1 P0 2.234352 1_555
+Ni1 P2 2.234352 1_544
+P0 P3 2.167498 1_545
+P1 P2 2.167498 1_545

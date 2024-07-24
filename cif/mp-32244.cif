@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiNbWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77535400
+_cell_length_b   4.77535400
+_cell_length_c   9.43008800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNbWO6
+_chemical_formula_sum   'Li2 Nb2 W2 O12'
+_cell_volume   215.04378169
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.42530100  1
+  Li  Li1  1  0.50000000  0.00000000  0.57469900  1
+  Nb  Nb0  1  0.00000000  0.50000000  0.09193900  1
+  Nb  Nb1  1  0.50000000  0.00000000  0.90806100  1
+  W  W0  1  0.50000000  0.00000000  0.26640100  1
+  W  W1  1  0.00000000  0.50000000  0.73359900  1
+  O  O0  1  0.28757900  0.78757900  0.77286900  1
+  O  O1  1  0.70000400  0.20000400  0.39106600  1
+  O  O2  1  0.20000400  0.29999600  0.60893400  1
+  O  O3  1  0.79999600  0.70000400  0.60893400  1
+  O  O4  1  0.71242100  0.21242100  0.77286900  1
+  O  O5  1  0.78757900  0.71242100  0.22713100  1
+  O  O6  1  0.21242100  0.28757900  0.22713100  1
+  O  O7  1  0.30514000  0.80514000  0.08046200  1
+  O  O8  1  0.69486000  0.19486000  0.08046200  1
+  O  O9  1  0.80514000  0.69486000  0.91953800  1
+  O  O10  1  0.19486000  0.30514000  0.91953800  1
+  O  O11  1  0.29999600  0.79999600  0.39106600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O11 2.051545 1_555
+Li0 O1 2.051545 1_455
+Li0 O2 2.196154 1_555
+Li0 O3 2.196154 1_455
+Li0 O5 2.355891 1_455
+Li0 O6 2.355891 1_555
+Li1 O2 2.051545 1_555
+Li1 O3 2.051545 1_545
+Li1 O11 2.196154 1_545
+Li1 O1 2.196154 1_555
+Li1 O0 2.355891 1_545
+Li1 O4 2.355891 1_555
+Nb0 O5 1.919181 1_455
+Nb0 O6 1.919181 1_555
+Nb0 O8 2.063564 1_455
+Nb0 O7 2.063564 1_555
+Nb0 O10 2.091612 1_554
+Nb0 O9 2.091612 1_454
+Nb1 O4 1.919181 1_555
+Nb1 O0 1.919181 1_545
+Nb1 O9 2.063564 1_545
+Nb1 O10 2.063564 1_555
+Nb1 O7 2.091612 1_546
+Nb1 O8 2.091612 1_556
+O0 W1 1.977118 1_555
+O1 W0 1.790652 1_555
+O2 W1 1.790652 1_555
+O3 W1 1.790652 1_655
+O4 W1 1.977118 1_655
+O5 W0 1.977118 1_565
+O6 W0 1.977118 1_555
+O7 W0 2.192314 1_565
+O8 W0 2.192314 1_555
+O9 W1 2.192314 1_655
+O10 W1 2.192314 1_555
+O11 W0 1.790652 1_565

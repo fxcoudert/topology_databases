@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_EuTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57824062
+_cell_length_b   6.57823197
+_cell_length_c   5.11528666
+_cell_angle_alpha   69.61322005
+_cell_angle_beta   69.61321429
+_cell_angle_gamma   114.71542019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTaO4
+_chemical_formula_sum   'Eu2 Ta2 O8'
+_cell_volume   153.51907795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.63099279  0.36900721  0.75000000  1
+  Eu  Eu1  1  0.36900721  0.63099279  0.25000000  1
+  Ta  Ta0  1  0.10072866  0.89927134  0.75000000  1
+  Ta  Ta1  1  0.89927134  0.10072866  0.25000000  1
+  O  O0  1  0.79361795  0.73342585  0.20556016  1
+  O  O1  1  0.26657315  0.20638205  0.29443984  1
+  O  O2  1  0.20638205  0.26657415  0.79443984  1
+  O  O3  1  0.73342685  0.79361795  0.70556016  1
+  O  O4  1  0.36502468  0.94505580  0.83548577  1
+  O  O5  1  0.05494520  0.63497632  0.66451423  1
+  O  O6  1  0.63497532  0.05494420  0.16451423  1
+  O  O7  1  0.94505480  0.36502368  0.33548577  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 O4 2.359465 1_545
+Eu0 O5 2.359474 1_655
+Eu0 O0 2.403239 1_555
+Eu0 O1 2.403244 1_556
+Eu0 O6 2.407657 1_556
+Eu0 O7 2.407660 1_555
+Eu0 O3 2.486892 1_555
+Eu0 O2 2.486897 1_555
+Eu1 O6 2.359465 1_565
+Eu1 O7 2.359474 1_455
+Eu1 O2 2.403239 1_555
+Eu1 O3 2.403244 1_554
+Eu1 O4 2.407657 1_554
+Eu1 O5 2.407660 1_555
+Eu1 O1 2.486892 1_555
+Eu1 O0 2.486897 1_555
+O0 Ta0 1.951332 1_654
+O0 Ta1 2.336930 1_565
+O1 Ta0 1.951333 1_545
+O1 Ta1 2.336927 1_455
+O2 Ta1 1.951332 1_456
+O2 Ta0 2.336930 1_545
+O3 Ta1 1.951333 1_565
+O3 Ta0 2.336927 1_655
+O4 Ta0 1.867682 1_555
+O5 Ta0 1.867674 1_555
+O6 Ta1 1.867682 1_555
+O7 Ta1 1.867674 1_555

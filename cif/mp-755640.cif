@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_V4O5F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08048066
+_cell_length_b   5.25184416
+_cell_length_c   8.84817466
+_cell_angle_alpha   73.45020207
+_cell_angle_beta   90.59682836
+_cell_angle_gamma   60.89887820
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4O5F7
+_chemical_formula_sum   'V4 O5 F7'
+_cell_volume   194.58531091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.73310881  0.51560551  0.26362055  1
+  V  V1  1  0.46929079  0.99224414  0.50215475  1
+  V  V2  1  0.28893659  0.49716886  0.76115853  1
+  V  V3  1  0.03247407  0.99276910  0.00434541  1
+  O  O0  1  0.56284584  0.71893826  0.38308313  1
+  O  O1  1  0.40410837  0.76139348  0.08284832  1
+  O  O2  1  0.42053283  0.73906979  0.67117271  1
+  O  O3  1  0.57124016  0.24756724  0.91362931  1
+  O  O4  1  0.10355189  0.22528943  0.41016973  1
+  F  F0  1  0.91105521  0.76108984  0.58476168  1
+  F  F1  1  0.91591725  0.76093063  0.17445219  1
+  F  F2  1  0.94756966  0.28289779  0.11321010  1
+  F  F3  1  0.59256952  0.23036680  0.32643278  1
+  F  F4  1  0.45537253  0.26316471  0.61802504  1
+  F  F5  1  0.02283172  0.74940654  0.87406757  1
+  F  F6  1  0.06859678  0.26209888  0.81686919  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 V0 1.664181 1_555
+O0 V1 1.898557 1_555
+O1 V3 1.668551 1_555
+O1 V0 1.920378 1_555
+O2 V2 1.719283 1_555
+O2 V1 1.805846 1_555
+O3 V2 1.648899 1_555
+O3 V3 2.055421 1_646
+O4 V1 1.673894 1_545
+O4 V0 1.892030 1_455
+F0 V1 1.963485 1_555
+F0 V2 2.039535 1_655
+F1 V0 1.935246 1_555
+F1 V3 1.942793 1_655
+F2 V3 1.908170 1_645
+F2 V0 2.028185 1_555
+F3 V0 1.907131 1_555
+F3 V1 2.011994 1_545
+F4 V2 1.930665 1_555
+F4 V1 1.953269 1_545
+F5 V2 1.902823 1_555
+F5 V3 1.965647 1_556
+F6 V3 1.925680 1_546
+F6 V2 2.007314 1_555

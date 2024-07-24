@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_La(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83296175
+_cell_length_b   6.51528241
+_cell_length_c   6.53498826
+_cell_angle_alpha   60.07333875
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(HO)3
+_chemical_formula_sum   'La2 H6 O6'
+_cell_volume   141.43719921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.00000000  0.33309350  0.33741907  1
+  La  La1  1  0.50000000  0.66505627  0.67215263  1
+  H  H0  1  0.00000000  0.86732882  0.86236027  1
+  H  H1  1  0.00000000  0.85772314  0.28264243  1
+  H  H2  1  0.00000000  0.27253669  0.87197537  1
+  H  H3  1  0.50000000  0.13047216  0.14754406  1
+  H  H4  1  0.50000000  0.14020065  0.72720999  1
+  H  H5  1  0.50000000  0.72509936  0.13809729  1
+  O  O0  1  0.00000000  0.91786860  0.69600074  1
+  O  O1  1  -0.00000000  0.69022665  0.39618868  1
+  O  O2  1  0.00000000  0.38773781  0.92399689  1
+  O  O3  1  0.50000000  0.07999108  0.31390018  1
+  O  O4  1  0.50000000  0.30762418  0.61357523  1
+  O  O5  1  0.50000000  0.60998309  0.08597117  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 O1 2.540327 1_555
+La0 O2 2.542882 1_554
+La0 O0 2.546470 1_545
+La0 O4 2.580405 1_555
+La0 O4 2.580405 1_455
+La0 O3 2.582387 1_455
+La0 O3 2.582387 1_555
+La0 O5 2.582577 1_455
+La0 O5 2.582577 1_555
+La1 O4 2.541495 1_555
+La1 O5 2.544364 1_556
+La1 O3 2.544490 1_565
+La1 O1 2.580122 1_555
+La1 O1 2.580122 1_655
+La1 O0 2.581938 1_555
+La1 O0 2.581938 1_655
+La1 O2 2.584388 1_655
+La1 O2 2.584388 1_555
+H0 O0 0.965998 1_555
+H1 O1 0.966199 1_555
+H2 O2 0.966189 1_555
+H3 O3 0.966061 1_555
+H4 O4 0.965963 1_555
+H5 O5 0.966169 1_555

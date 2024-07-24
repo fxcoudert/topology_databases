@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Na2Mg(NiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21625619
+_cell_length_b   3.20649990
+_cell_length_c   12.73173079
+_cell_angle_alpha   90.06499623
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.10070148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mg(NiO2)2
+_chemical_formula_sum   'Na2 Mg1 Ni2 O4'
+_cell_volume   113.59467718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66638369  0.33276639  0.18104214  1
+  Na  Na1  1  0.33292731  0.66585562  0.81140374  1
+  Mg  Mg0  1  0.66660897  0.33321695  0.40122939  1
+  Ni  Ni0  1  0.00540999  0.01081998  0.59883286  1
+  Ni  Ni1  1  0.99899948  0.99799896  0.99122155  1
+  O  O0  1  0.33299270  0.66598340  0.35388356  1
+  O  O1  1  0.66527232  0.33054664  0.56684546  1
+  O  O2  1  0.66632344  0.33264887  0.90483593  1
+  O  O3  1  0.33174910  0.66349620  0.07195536  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O3 2.315192 1_555
+Na0 O3 2.315194 1_655
+Na0 O3 2.317153 1_545
+Na1 O2 2.197912 1_565
+Na1 O2 2.204179 1_555
+Na1 O2 2.204181 1_455
+Mg0 O0 1.945895 1_545
+Mg0 O0 1.950141 1_555
+Mg0 O0 1.950143 1_655
+Mg0 O1 2.108602 1_555
+Ni0 O1 1.881369 1_555
+Ni0 O1 1.881375 1_455
+Ni0 O1 1.930060 1_445
+Ni1 O3 2.111830 1_666
+Ni1 O3 2.122776 1_556
+Ni1 O3 2.122781 1_656
+Ni1 O2 2.147342 1_555
+Ni1 O2 2.158754 1_665
+Ni1 O2 2.158759 1_565

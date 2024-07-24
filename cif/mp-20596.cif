@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_U(SiNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00267918
+_cell_length_b   4.00267984
+_cell_length_c   5.43742331
+_cell_angle_alpha   111.59648971
+_cell_angle_beta   111.59650739
+_cell_angle_gamma   89.99998651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U(SiNi)2
+_chemical_formula_sum   'U1 Si2 Ni2'
+_cell_volume   74.38307697
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.62743833  0.62743833  0.25487667  1
+  Si  Si1  1  0.37256167  0.37256167  0.74512333  1
+  Ni  Ni0  1  0.75000000  0.25000000  0.50000000  1
+  Ni  Ni1  1  0.25000000  0.75000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.366642 1_554
+Si0 U0 3.067730 1_565
+Si0 U0 3.067730 1_655
+Si0 U0 3.067731 1_665
+Si0 U0 3.067731 1_555
+Si1 U0 3.067730 1_656
+Si1 U0 3.067730 1_566
+Si1 U0 3.067731 1_556
+Si1 U0 3.067731 1_666
+Ni0 Si1 2.302280 1_655
+Ni0 Si0 2.302280 1_555
+Ni0 Si1 2.302280 1_555
+Ni0 Si0 2.302280 1_545
+Ni0 U0 3.064975 1_555
+Ni0 U0 3.064975 1_656
+Ni0 U0 3.064975 1_655
+Ni0 U0 3.064976 1_666
+Ni1 Si0 2.302280 1_455
+Ni1 Si1 2.302280 1_555
+Ni1 Si0 2.302280 1_555
+Ni1 Si1 2.302280 1_565
+Ni1 U0 3.064975 1_666
+Ni1 U0 3.064975 1_565
+Ni1 U0 3.064975 1_566
+Ni1 U0 3.064976 1_555

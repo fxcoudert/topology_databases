@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_LiYO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19430873
+_cell_length_b   6.10281534
+_cell_length_c   6.29745274
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.62729474
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYO2
+_chemical_formula_sum   'Li4 Y4 O8'
+_cell_volume   206.93666791
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.29505876  0.65869105  0.07113261  1
+  Li  Li1  1  0.70494124  0.15869105  0.42886739  1
+  Li  Li2  1  0.70494124  0.34130895  0.92886739  1
+  Li  Li3  1  0.29505876  0.84130895  0.57113261  1
+  Y  Y0  1  0.23152771  0.13176506  0.97572640  1
+  Y  Y1  1  0.23152771  0.36823494  0.47572640  1
+  Y  Y2  1  0.76847229  0.86823494  0.02427360  1
+  Y  Y3  1  0.76847229  0.63176506  0.52427360  1
+  O  O0  1  0.45233669  0.39300499  0.26333033  1
+  O  O1  1  0.98507896  0.17614755  0.14788400  1
+  O  O2  1  0.54766331  0.89300499  0.23666967  1
+  O  O3  1  0.54766331  0.60699501  0.73666967  1
+  O  O4  1  0.01492104  0.82385245  0.85211600  1
+  O  O5  1  0.01492104  0.67614755  0.35211600  1
+  O  O6  1  0.98507896  0.32385245  0.64788400  1
+  O  O7  1  0.45233669  0.10699501  0.76333033  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 1.887611 1_554
+Li0 O0 1.969080 1_555
+Li0 O2 1.991767 1_555
+Li1 O6 1.887611 1_555
+Li1 O2 1.969080 1_545
+Li1 O0 1.991767 1_555
+Li2 O1 1.887611 1_556
+Li2 O3 1.969080 1_555
+Li2 O7 1.991767 1_555
+Li3 O5 1.887611 1_555
+Li3 O7 1.969080 1_565
+Li3 O3 1.991767 1_555
+O0 Y0 2.289894 1_554
+O0 Y3 2.340219 1_555
+O0 Y1 2.343388 1_555
+O1 Y1 2.202492 1_655
+O1 Y2 2.214651 1_545
+O1 Y0 2.283761 1_654
+O2 Y3 2.289894 1_555
+O2 Y0 2.340219 1_564
+O2 Y2 2.343388 1_555
+O3 Y2 2.289894 1_556
+O3 Y1 2.340219 1_555
+O3 Y3 2.343388 1_555
+O4 Y3 2.202492 1_455
+O4 Y0 2.214651 1_565
+O4 Y2 2.283761 1_456
+O5 Y2 2.202492 1_455
+O5 Y1 2.214651 1_555
+O5 Y3 2.283761 1_455
+O6 Y0 2.202492 1_655
+O6 Y3 2.214651 1_555
+O6 Y1 2.283761 1_655
+O7 Y1 2.289894 1_555
+O7 Y2 2.340219 1_546
+O7 Y0 2.343388 1_555

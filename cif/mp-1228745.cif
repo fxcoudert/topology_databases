@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_AsRhS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80635051
+_cell_length_b   5.80635051
+_cell_length_c   5.80635051
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsRhS
+_chemical_formula_sum   'As4 Rh4 S4'
+_cell_volume   195.75359545
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.11533530  0.88466470  0.38466470  1
+  As  As1  1  0.88466470  0.38466470  0.11533530  1
+  As  As2  1  0.38466470  0.11533530  0.88466470  1
+  As  As3  1  0.61533530  0.61533530  0.61533530  1
+  Rh  Rh0  1  0.49764154  0.50235846  0.00235846  1
+  Rh  Rh1  1  0.50235846  0.00235846  0.49764154  1
+  Rh  Rh2  1  0.00235846  0.49764154  0.50235846  1
+  Rh  Rh3  1  0.99764154  0.99764154  0.99764154  1
+  S  S0  1  0.88701934  0.11298066  0.61298066  1
+  S  S1  1  0.11298066  0.61298066  0.88701934  1
+  S  S2  1  0.61298066  0.88701934  0.11298066  1
+  S  S3  1  0.38701934  0.38701934  0.38701934  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 S0 2.296149 1_465
+As0 Rh1 2.438685 1_565
+As0 Rh2 2.438685 1_555
+As0 Rh3 2.438685 1_454
+As1 S1 2.296149 1_654
+As1 Rh2 2.438685 1_655
+As1 Rh3 2.438685 1_544
+As1 Rh0 2.438685 1_555
+As2 S2 2.296149 1_546
+As2 Rh0 2.438685 1_556
+As2 Rh1 2.438685 1_555
+As2 Rh3 2.438685 1_445
+As3 S3 2.296149 1_555
+As3 Rh2 2.438685 1_655
+As3 Rh1 2.438685 1_565
+As3 Rh0 2.438685 1_556
+Rh0 S3 2.418569 1_555
+Rh0 S1 2.418569 1_554
+Rh0 S2 2.418569 1_555
+Rh1 S3 2.418569 1_555
+Rh1 S0 2.418569 1_555
+Rh1 S2 2.418569 1_545
+Rh2 S0 2.418569 1_455
+Rh2 S3 2.418569 1_555
+Rh2 S1 2.418569 1_555
+Rh3 S1 2.418569 1_655
+Rh3 S0 2.418569 1_565
+Rh3 S2 2.418569 1_556

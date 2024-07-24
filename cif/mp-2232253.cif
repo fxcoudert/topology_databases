@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_Sm2MgMo2(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55359296
+_cell_length_b   6.55359201
+_cell_length_c   7.28163463
+_cell_angle_alpha   76.87870450
+_cell_angle_beta   76.87870243
+_cell_angle_gamma   68.07130630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2MgMo2(ClO4)2
+_chemical_formula_sum   'Sm2 Mg1 Mo2 Cl2 O8'
+_cell_volume   279.01786025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.25737900  0.25826700  0.87628900  1
+  Sm  Sm1  1  0.74173300  0.74262100  0.12371100  1
+  Mg  Mg0  1  0.73137600  0.26862400  0.00000000  1
+  Mo  Mo0  1  0.63974500  0.66885900  0.70920700  1
+  Mo  Mo1  1  0.33114100  0.36025500  0.29079300  1
+  Cl  Cl0  1  0.01388100  0.04130400  0.20904700  1
+  Cl  Cl1  1  0.95869600  0.98611900  0.79095300  1
+  O  O0  1  0.10976000  0.50060000  0.14135400  1
+  O  O1  1  0.71115300  0.70179400  0.45338900  1
+  O  O2  1  0.50715000  0.44358300  0.80523700  1
+  O  O3  1  0.29820600  0.28884700  0.54661100  1
+  O  O4  1  0.55641700  0.49285000  0.19476300  1
+  O  O5  1  0.49940000  0.89024000  0.85864600  1
+  O  O6  1  0.88195700  0.49841000  0.85710200  1
+  O  O7  1  0.50159000  0.11804300  0.14289800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O6 2.063179 1_554
+Mg0 O7 2.063179 1_555
+Mg0 O4 2.105895 1_555
+Mg0 O2 2.105895 1_554
+Mo0 O1 1.797949 1_555
+Mo0 O5 1.844095 1_555
+Mo0 O2 1.907185 1_555
+Mo0 O6 1.957763 1_555
+Mo1 O3 1.797949 1_555
+Mo1 O0 1.844095 1_555
+Mo1 O4 1.907185 1_555
+Mo1 O7 1.957763 1_555
+Cl0 Mg0 2.480749 1_455
+Cl0 Sm0 2.968887 1_554
+Cl0 Sm1 3.325925 1_445
+Cl1 Mg0 2.480749 1_566
+Cl1 Sm1 2.968887 1_556
+Cl1 Sm0 3.325926 1_665
+O0 Sm1 2.353797 1_455
+O0 Sm0 2.565121 1_554
+O1 Sm1 2.324780 1_555
+O2 Sm0 2.288477 1_555
+O3 Sm0 2.324780 1_555
+O4 Sm1 2.288477 1_555
+O5 Sm0 2.353796 1_565
+O5 Sm1 2.565121 1_556
+O6 Sm0 2.390373 1_655
+O6 Sm1 2.583982 1_556
+O7 Sm1 2.390373 1_545
+O7 Sm0 2.583983 1_554

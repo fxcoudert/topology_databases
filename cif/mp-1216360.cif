@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_VFe(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.73517561
+_cell_length_b   11.73517561
+_cell_length_c   11.73517610
+_cell_angle_alpha   14.89434091
+_cell_angle_beta   14.89434091
+_cell_angle_gamma   14.89433800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFe(CuO2)2
+_chemical_formula_sum   'V1 Fe1 Cu2 O4'
+_cell_volume   92.98875647
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.25004900  0.25004900  0.25004900  1
+  Cu  Cu1  1  0.74995100  0.74995100  0.74995100  1
+  O  O0  1  0.69684500  0.69684500  0.69684500  1
+  O  O1  1  0.19683300  0.19683300  0.19683300  1
+  O  O2  1  0.30315500  0.30315500  0.30315500  1
+  O  O3  1  0.80316700  0.80316700  0.80316700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O2 2.046502 1_455
+Fe0 O2 2.046502 1_545
+Fe0 O0 2.046502 1_544
+Fe0 O0 2.046502 1_454
+Fe0 O2 2.046502 1_554
+Fe0 O0 2.046502 1_445
+Cu0 O2 1.848567 1_555
+Cu0 O1 1.852396 1_555
+Cu1 O0 1.848567 1_555
+Cu1 O3 1.852396 1_555
+O1 V0 2.046287 1_545
+O1 V0 2.046287 1_455
+O1 V0 2.046288 1_554
+O3 V0 2.046287 1_565
+O3 V0 2.046287 1_655
+O3 V0 2.046288 1_556

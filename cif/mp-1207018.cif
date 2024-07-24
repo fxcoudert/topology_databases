@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_TbFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95895857
+_cell_length_b   4.25369044
+_cell_length_c   7.91620116
+_cell_angle_alpha   76.31035841
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbFeSi2
+_chemical_formula_sum   'Tb2 Fe2 Si4'
+_cell_volume   129.52319675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.60607044  0.79225080  1
+  Tb  Tb1  1  0.75000000  0.39392956  0.20774920  1
+  Fe  Fe0  1  0.25000000  0.88548653  0.39121909  1
+  Fe  Fe1  1  0.75000000  0.11451347  0.60878091  1
+  Si  Si0  1  0.25000000  0.95656788  0.09857909  1
+  Si  Si1  1  0.75000000  0.04343212  0.90142091  1
+  Si  Si2  1  0.25000000  0.32785704  0.49600660  1
+  Si  Si3  1  0.75000000  0.67214296  0.50399340  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Si2 2.228843 1_565
+Fe0 Si0 2.264179 1_555
+Fe0 Si3 2.270553 1_455
+Fe0 Si3 2.270553 1_555
+Fe0 Si2 2.320149 1_555
+Fe0 Tb1 3.036198 1_465
+Fe0 Tb1 3.036198 1_565
+Fe0 Tb0 3.115297 1_555
+Fe1 Si3 2.228843 1_545
+Fe1 Si1 2.264179 1_555
+Fe1 Si2 2.270553 1_555
+Fe1 Si2 2.270553 1_655
+Fe1 Si3 2.320149 1_555
+Fe1 Tb0 3.036198 1_545
+Fe1 Tb0 3.036198 1_645
+Fe1 Tb1 3.115297 1_555
+Si0 Si1 2.493557 1_464
+Si0 Si1 2.493557 1_564
+Si0 Tb1 2.981157 1_565
+Si0 Tb1 2.981157 1_465
+Si0 Tb1 3.068233 1_455
+Si0 Tb1 3.068233 1_555
+Si0 Tb0 3.132806 1_554
+Si0 Tb0 3.215942 1_564
+Si1 Tb0 2.981157 1_645
+Si1 Tb0 2.981157 1_545
+Si1 Tb0 3.068233 1_655
+Si1 Tb0 3.068233 1_555
+Si1 Tb1 3.132806 1_556
+Si1 Tb1 3.215942 1_546
+Si2 Si3 2.472019 1_455
+Si2 Si3 2.472019 1_555
+Si2 Tb0 2.865967 1_555
+Si2 Tb1 2.983430 1_455
+Si2 Tb1 2.983430 1_555
+Si3 Tb1 2.865967 1_555
+Si3 Tb0 2.983430 1_555
+Si3 Tb0 2.983430 1_655

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgTi2(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82083401
+_cell_length_b   5.82158467
+_cell_length_c   5.82032333
+_cell_angle_alpha   52.07294293
+_cell_angle_beta   52.07423291
+_cell_angle_gamma   52.07574644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(NiO3)2
+_chemical_formula_sum   'Mg1 Ti2 Ni2 O6'
+_cell_volume   113.48107406
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000100  0.50000200  0.50000100  1
+  Ti  Ti0  1  0.14892200  0.14892600  0.14916800  1
+  Ti  Ti1  1  0.85108700  0.85108800  0.85083900  1
+  Ni  Ni0  1  0.66892600  0.66892800  0.66893200  1
+  Ni  Ni1  1  0.33106100  0.33105300  0.33107400  1
+  O  O0  1  0.91709900  0.25777800  0.55756200  1
+  O  O1  1  0.55746900  0.91718500  0.25766300  1
+  O  O2  1  0.25763200  0.55759900  0.91709500  1
+  O  O3  1  0.08291200  0.74223100  0.44241600  1
+  O  O4  1  0.44251500  0.08282600  0.74234100  1
+  O  O5  1  0.74237700  0.44238300  0.08291200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 2.050649 1_555
+Mg0 O5 2.050678 1_555
+Mg0 O0 2.050832 1_555
+Mg0 O3 2.050848 1_555
+Mg0 O1 2.051169 1_555
+Mg0 O4 2.051182 1_555
+Ni0 O3 2.096225 1_655
+Ni0 O5 2.096330 1_556
+Ni0 O4 2.096477 1_565
+Ni0 O0 2.177607 1_555
+Ni0 O1 2.177881 1_555
+Ni0 O2 2.177982 1_555
+Ni1 O0 2.096049 1_455
+Ni1 O2 2.096257 1_554
+Ni1 O1 2.096331 1_545
+Ni1 O3 2.177684 1_555
+Ni1 O4 2.177895 1_555
+Ni1 O5 2.178098 1_555
+O0 Ti1 2.002669 1_545
+O0 Ti0 2.174889 1_655
+O1 Ti1 2.003169 1_554
+O1 Ti0 2.174653 1_565
+O2 Ti1 2.002419 1_455
+O2 Ti0 2.175897 1_556
+O3 Ti0 2.002686 1_565
+O3 Ti1 2.175053 1_455
+O4 Ti0 2.003188 1_556
+O4 Ti1 2.174797 1_545
+O5 Ti0 2.002417 1_655
+O5 Ti1 2.176063 1_554

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_NaPOF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47003481
+_cell_length_b   7.47003481
+_cell_length_c   7.47003481
+_cell_angle_alpha   133.02103282
+_cell_angle_beta   107.88048401
+_cell_angle_gamma   90.61311907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPOF6
+_chemical_formula_sum   'Na2 P2 O2 F12'
+_cell_volume   275.12779416
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.50000000  0.00000000  1
+  Na  Na1  1  0.50000000  0.50000000  0.50000000  1
+  P  P0  1  0.00000000  0.00000000  0.00000000  1
+  P  P1  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.25000000  0.72523300  0.47523300  1
+  O  O1  1  0.75000000  0.27476700  0.52476700  1
+  F  F0  1  0.00792500  0.73609500  0.72817000  1
+  F  F1  1  0.99207500  0.26390500  0.27183000  1
+  F  F2  1  0.50792500  0.77975500  0.27183000  1
+  F  F3  1  0.49207500  0.22024500  0.72817000  1
+  F  F4  1  0.97751700  0.12082400  0.87791300  1
+  F  F5  1  0.75708900  0.87917600  0.85669400  1
+  F  F6  1  0.47751700  0.59960400  0.85669400  1
+  F  F7  1  0.25708900  0.40039600  0.87791300  1
+  F  F8  1  0.02248300  0.87917600  0.12208700  1
+  F  F9  1  0.24291100  0.12082400  0.14330600  1
+  F  F10  1  0.52248300  0.40039600  0.14330600  1
+  F  F11  1  0.74291100  0.59960400  0.12208700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.575354 1_454
+Na0 O0 2.575354 1_555
+Na1 O1 2.575354 1_555
+Na1 O0 2.575354 1_555
+F0 P0 1.620840 1_566
+F1 P0 1.620840 1_655
+F2 P1 1.620840 1_555
+F3 P1 1.620840 1_556
+F4 P0 1.645275 1_656
+F4 Na0 2.292091 1_656
+F5 P0 1.645275 1_666
+F5 Na1 2.292091 1_555
+F6 P1 1.645268 1_556
+F6 Na1 2.292098 1_555
+F7 P1 1.645275 1_556
+F7 Na0 2.292091 1_556
+F8 P0 1.645275 1_565
+F8 Na0 2.292091 1_555
+F9 P0 1.645275 1_555
+F9 Na1 2.292091 1_555
+F10 P1 1.645268 1_555
+F10 Na1 2.292098 1_555
+F11 P1 1.645275 1_555
+F11 Na0 2.292091 1_655

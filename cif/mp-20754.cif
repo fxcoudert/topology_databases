@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiCeSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.76164378
+_cell_length_b   9.76164378
+_cell_length_c   4.58097400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.15108171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCeSn2
+_chemical_formula_sum   'Li2 Ce2 Sn4'
+_cell_volume   197.14946830
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67664100  0.32335900  0.25000000  1
+  Li  Li1  1  0.32335900  0.67664100  0.75000000  1
+  Ce  Ce0  1  0.10633600  0.89366400  0.75000000  1
+  Ce  Ce1  1  0.89366400  0.10633600  0.25000000  1
+  Sn  Sn0  1  0.74957800  0.25042200  0.75000000  1
+  Sn  Sn1  1  0.25042200  0.74957800  0.25000000  1
+  Sn  Sn2  1  0.54420100  0.45579900  0.25000000  1
+  Sn  Sn3  1  0.45579900  0.54420100  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn2 2.515016 1_555
+Li0 Sn1 2.664422 1_655
+Li0 Sn1 2.664422 1_545
+Li0 Sn0 2.676701 1_555
+Li0 Sn0 2.676701 1_554
+Li1 Sn3 2.515016 1_555
+Li1 Sn0 2.664422 1_565
+Li1 Sn0 2.664422 1_455
+Li1 Sn1 2.676701 1_556
+Li1 Sn1 2.676701 1_555
+Ce0 Sn2 3.431423 1_455
+Ce0 Sn2 3.431423 1_456
+Ce0 Sn2 3.431423 1_565
+Ce0 Sn2 3.431423 1_566
+Ce0 Li0 3.487816 1_455
+Ce0 Li0 3.487816 1_566
+Ce0 Li0 3.487816 1_565
+Ce0 Li0 3.487816 1_456
+Ce0 Sn0 3.540519 1_565
+Ce0 Sn0 3.540519 1_455
+Ce0 Sn1 3.568328 1_556
+Ce0 Sn1 3.568328 1_555
+Ce0 Sn3 3.648028 1_455
+Ce0 Sn3 3.648028 1_565
+Ce1 Sn3 3.431423 1_544
+Ce1 Sn3 3.431423 1_545
+Ce1 Sn3 3.431423 1_655
+Ce1 Sn3 3.431423 1_654
+Ce1 Li1 3.487816 1_654
+Ce1 Li1 3.487816 1_545
+Ce1 Li1 3.487816 1_655
+Ce1 Li1 3.487816 1_544
+Ce1 Sn1 3.540519 1_545
+Ce1 Sn1 3.540519 1_655
+Ce1 Sn0 3.568328 1_554
+Ce1 Sn0 3.568328 1_555
+Ce1 Sn2 3.648028 1_545
+Ce1 Sn2 3.648028 1_655

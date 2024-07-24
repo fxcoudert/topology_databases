@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_RbCrNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36995976
+_cell_length_b   7.36995976
+_cell_length_c   7.36995976
+_cell_angle_alpha   120.44287446
+_cell_angle_beta   120.16549906
+_cell_angle_gamma   89.47410503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCrNiF6
+_chemical_formula_sum   'Rb2 Cr2 Ni2 F12'
+_cell_volume   281.74480161
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37017100  0.12017100  0.25000000  1
+  Rb  Rb1  1  0.62982900  0.87982900  0.75000000  1
+  Cr  Cr0  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni0  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  0.00000000  0.50000000  1
+  F  F0  1  0.31677500  0.56677500  0.75000000  1
+  F  F1  1  0.92536800  0.17536800  0.75000000  1
+  F  F2  1  0.32931300  0.18581900  0.75982400  1
+  F  F3  1  0.92599500  0.56948900  0.74017600  1
+  F  F4  1  0.32931300  0.56948900  0.14349400  1
+  F  F5  1  0.92599500  0.18581900  0.35650600  1
+  F  F6  1  0.68322500  0.43322500  0.25000000  1
+  F  F7  1  0.07463200  0.82463200  0.25000000  1
+  F  F8  1  0.67068700  0.81418100  0.24017600  1
+  F  F9  1  0.07400500  0.43051100  0.25982400  1
+  F  F10  1  0.67068700  0.43051100  0.85650600  1
+  F  F11  1  0.07400500  0.81418100  0.64349400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 F3 1.933770 1_455
+Cr0 F5 1.933770 1_455
+Cr0 F9 1.933770 1_555
+Cr0 F11 1.933770 1_555
+Cr0 F0 1.966374 1_555
+Cr0 F6 1.966374 1_455
+Cr1 F4 1.933770 1_555
+Cr1 F2 1.933770 1_554
+Cr1 F10 1.933770 1_554
+Cr1 F8 1.933770 1_555
+Cr1 F6 1.966374 1_555
+Cr1 F0 1.966374 1_554
+F0 Rb1 3.277807 1_555
+F1 Ni1 1.989988 1_655
+F1 Ni0 1.989988 1_656
+F1 Rb1 3.094417 1_545
+F2 Ni1 2.040977 1_555
+F2 Rb1 3.146456 1_545
+F3 Ni0 2.040977 1_656
+F3 Rb1 3.146456 1_555
+F4 Ni0 2.040977 1_555
+F4 Rb1 3.146456 1_555
+F5 Ni1 2.040977 1_655
+F5 Rb1 3.146456 1_544
+F6 Rb0 3.277807 1_555
+F7 Ni1 1.989988 1_565
+F7 Ni0 1.989988 1_555
+F7 Rb0 3.094417 1_565
+F8 Ni1 2.040977 1_665
+F8 Rb0 3.146456 1_565
+F9 Ni0 2.040977 1_555
+F9 Rb0 3.146456 1_555
+F10 Ni0 2.040977 1_656
+F10 Rb0 3.146456 1_555
+F11 Ni1 2.040977 1_565
+F11 Rb0 3.146456 1_566

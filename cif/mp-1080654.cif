@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LaPdPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85592562
+_cell_length_b   7.85592562
+_cell_length_c   4.21893333
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPdPb
+_chemical_formula_sum   'La3 Pd3 Pb3'
+_cell_volume   225.49037277
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.41148897  0.41148897  0.50000000  1
+  La  La1  1  0.58851103  0.00000000  0.50000000  1
+  La  La2  1  0.00000000  0.58851103  0.50000000  1
+  Pd  Pd0  1  0.66666700  0.33333300  0.00000000  1
+  Pd  Pd1  1  0.33333300  0.66666700  0.00000000  1
+  Pd  Pd2  1  0.00000000  0.00000000  0.50000000  1
+  Pb  Pb0  1  0.74670387  0.74670387  0.00000000  1
+  Pb  Pb1  1  0.25329613  -0.00000000  0.00000000  1
+  Pb  Pb2  1  -0.00000000  0.25329613  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Pd1 3.174323 1_556
+La0 Pd0 3.174323 1_555
+La0 Pd0 3.174323 1_556
+La0 Pd1 3.174323 1_555
+La0 Pd2 3.232627 1_555
+La0 Pb0 3.374132 1_556
+La0 Pb0 3.374132 1_555
+La0 Pb2 3.525167 1_555
+La0 Pb1 3.525167 1_556
+La0 Pb2 3.525167 1_556
+La0 Pb1 3.525167 1_555
+La1 Pd0 3.174317 1_556
+La1 Pd0 3.174317 1_555
+La1 Pd1 3.174319 1_546
+La1 Pd1 3.174319 1_545
+La1 Pd2 3.232627 1_655
+La1 Pb1 3.374132 1_555
+La1 Pb1 3.374132 1_556
+La1 Pb2 3.525167 1_655
+La1 Pb2 3.525167 1_656
+La1 Pb0 3.525167 1_545
+La1 Pb0 3.525167 1_546
+La2 Pd1 3.174317 1_556
+La2 Pd1 3.174317 1_555
+La2 Pd0 3.174319 1_456
+La2 Pd0 3.174319 1_455
+La2 Pd2 3.232627 1_565
+La2 Pb2 3.374132 1_556
+La2 Pb2 3.374132 1_555
+La2 Pb1 3.525167 1_565
+La2 Pb1 3.525167 1_566
+La2 Pb0 3.525167 1_456
+La2 Pb0 3.525167 1_455
+Pb0 Pd2 2.899906 1_664
+Pb0 Pd2 2.899906 1_665
+Pb0 Pd0 2.983147 1_555
+Pb0 Pd1 2.983147 1_555
+Pb1 Pd2 2.899906 1_555
+Pb1 Pd2 2.899906 1_554
+Pb1 Pd1 2.983139 1_545
+Pb1 Pd0 2.983144 1_555
+Pb2 Pd2 2.899906 1_554
+Pb2 Pd2 2.899906 1_555
+Pb2 Pd0 2.983139 1_455
+Pb2 Pd1 2.983144 1_555

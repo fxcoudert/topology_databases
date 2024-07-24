@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_GdMgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48240033
+_cell_length_b   7.48328598
+_cell_length_c   4.27713595
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99049393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdMgAu
+_chemical_formula_sum   'Gd3 Mg3 Au3'
+_cell_volume   207.42378860
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.41268451  0.99997458  -0.00000000  1
+  Gd  Gd1  1  0.00003274  0.41270431  -0.00000000  1
+  Gd  Gd2  1  0.58731753  0.58732353  -0.00000000  1
+  Mg  Mg0  1  0.99999117  0.75718703  0.50000000  1
+  Mg  Mg1  1  0.75719244  -0.00000645  0.50000000  1
+  Mg  Mg2  1  0.24292231  0.24285365  0.50000000  1
+  Au  Au0  1  0.99971612  0.00009152  0.00000000  1
+  Au  Au1  1  0.66690945  0.33340597  0.50000000  1
+  Au  Au2  1  0.33323274  0.66646486  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Mg1 2.804484 1_555
+Au0 Mg1 2.804484 1_554
+Au0 Mg2 2.807192 1_654
+Au0 Mg2 2.807192 1_655
+Au0 Mg0 2.807372 1_545
+Au0 Mg0 2.807372 1_544
+Au0 Gd1 3.086516 1_655
+Au0 Gd2 3.087741 1_545
+Au0 Gd0 3.090432 1_645
+Au1 Mg1 2.892483 1_555
+Au1 Mg0 2.892569 1_555
+Au1 Mg2 2.893863 1_555
+Au1 Gd1 3.108019 1_656
+Au1 Gd1 3.108019 1_655
+Au1 Gd2 3.109653 1_555
+Au1 Gd2 3.109653 1_556
+Au1 Gd0 3.110105 1_546
+Au1 Gd0 3.110105 1_545
+Au2 Mg2 2.892070 1_555
+Au2 Mg0 2.893181 1_455
+Au2 Mg1 2.894352 1_565
+Au2 Gd1 3.108416 1_556
+Au2 Gd1 3.108416 1_555
+Au2 Gd2 3.108739 1_555
+Au2 Gd2 3.108739 1_556
+Au2 Gd0 3.110045 1_555
+Au2 Gd0 3.110045 1_556

@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_TmSiPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45923625
+_cell_length_b   6.93611490
+_cell_length_c   7.21097695
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmSiPd2
+_chemical_formula_sum   'Tm4 Si4 Pd8'
+_cell_volume   273.05005923
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.35826687  0.75000000  0.02752491  1
+  Tm  Tm1  1  0.14173313  0.75000000  0.52752491  1
+  Tm  Tm2  1  0.64173313  0.25000000  0.97247509  1
+  Tm  Tm3  1  0.85826687  0.25000000  0.47247509  1
+  Si  Si0  1  0.64090254  0.75000000  0.37832093  1
+  Si  Si1  1  0.85909746  0.75000000  0.87832093  1
+  Si  Si2  1  0.35909746  0.25000000  0.62167907  1
+  Si  Si3  1  0.14090254  0.25000000  0.12167907  1
+  Pd  Pd0  1  0.90685019  0.55151509  0.17902869  1
+  Pd  Pd1  1  0.59314981  0.94848491  0.67902869  1
+  Pd  Pd2  1  0.09314981  0.05151509  0.82097131  1
+  Pd  Pd3  1  0.40685019  0.44848491  0.32097131  1
+  Pd  Pd4  1  0.09314981  0.44848491  0.82097131  1
+  Pd  Pd5  1  0.40685019  0.05151509  0.32097131  1
+  Pd  Pd6  1  0.90685019  0.94848491  0.17902869  1
+  Pd  Pd7  1  0.59314981  0.55151509  0.67902869  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Tm1 2.929788 1_555
+Si0 Tm1 2.938225 1_655
+Si0 Tm0 2.963032 1_555
+Si1 Tm0 2.929788 1_656
+Si1 Tm0 2.938225 1_556
+Si1 Tm1 2.963032 1_655
+Si2 Tm3 2.929788 1_555
+Si2 Tm3 2.938225 1_455
+Si2 Tm2 2.963032 1_555
+Si3 Tm2 2.929788 1_454
+Si3 Tm2 2.938225 1_554
+Si3 Tm3 2.963032 1_455
+Pd0 Si0 2.463433 1_555
+Pd0 Si3 2.485433 1_655
+Pd0 Si1 2.581714 1_554
+Pd0 Tm2 2.947367 1_554
+Pd0 Tm3 2.986916 1_555
+Pd0 Tm0 3.026896 1_655
+Pd0 Tm1 3.139227 1_655
+Pd1 Si1 2.463433 1_555
+Pd1 Si2 2.485433 1_565
+Pd1 Si0 2.581714 1_555
+Pd1 Tm3 2.947367 1_565
+Pd1 Tm2 2.986916 1_565
+Pd1 Tm1 3.026896 1_555
+Pd1 Tm0 3.139227 1_556
+Pd2 Si2 2.463433 1_555
+Pd2 Si1 2.485433 1_445
+Pd2 Si3 2.581714 1_556
+Pd2 Tm0 2.947367 1_546
+Pd2 Tm1 2.986916 1_545
+Pd2 Tm2 3.026896 1_455
+Pd2 Tm3 3.139227 1_455
+Pd3 Si3 2.463433 1_555
+Pd3 Si0 2.485433 1_555
+Pd3 Si2 2.581714 1_555
+Pd3 Tm1 2.947367 1_555
+Pd3 Tm0 2.986916 1_555
+Pd3 Tm3 3.026896 1_555
+Pd3 Tm2 3.139227 1_554
+Pd4 Si2 2.463433 1_555
+Pd4 Si1 2.485433 1_455
+Pd4 Si3 2.581714 1_556
+Pd4 Tm0 2.947367 1_556
+Pd4 Tm1 2.986916 1_555
+Pd4 Tm2 3.026896 1_455
+Pd4 Tm3 3.139227 1_455
+Pd5 Si3 2.463433 1_555
+Pd5 Si0 2.485433 1_545
+Pd5 Si2 2.581714 1_555
+Pd5 Tm1 2.947367 1_545
+Pd5 Tm0 2.986916 1_545
+Pd5 Tm3 3.026896 1_555
+Pd5 Tm2 3.139227 1_554
+Pd6 Si0 2.463433 1_555
+Pd6 Si3 2.485433 1_665
+Pd6 Si1 2.581714 1_554
+Pd6 Tm2 2.947367 1_564
+Pd6 Tm3 2.986916 1_565
+Pd6 Tm0 3.026896 1_655
+Pd6 Tm1 3.139227 1_655
+Pd7 Si1 2.463433 1_555
+Pd7 Si2 2.485433 1_555
+Pd7 Si0 2.581714 1_555
+Pd7 Tm3 2.947367 1_555
+Pd7 Tm2 2.986916 1_555
+Pd7 Tm1 3.026896 1_555
+Pd7 Tm0 3.139227 1_556

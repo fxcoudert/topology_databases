@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_NaZnSO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52383397
+_cell_length_b   5.52383397
+_cell_length_c   7.24571038
+_cell_angle_alpha   104.42532060
+_cell_angle_beta   104.42532060
+_cell_angle_gamma   103.65882467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZnSO4F
+_chemical_formula_sum   'Na2 Zn2 S2 O8 F2'
+_cell_volume   196.60655246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33660100  0.66339900  0.25000000  1
+  Na  Na1  1  0.66339900  0.33660100  0.75000000  1
+  Zn  Zn0  1  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.67963900  0.32036100  0.25000000  1
+  S  S1  1  0.32036100  0.67963900  0.75000000  1
+  O  O0  1  0.67750500  0.12112800  0.35778000  1
+  O  O1  1  0.87887200  0.32249500  0.14222000  1
+  O  O2  1  0.32249500  0.87887200  0.64222000  1
+  O  O3  1  0.12112800  0.67750500  0.85778000  1
+  O  O4  1  0.74223900  0.58676300  0.39904300  1
+  O  O5  1  0.41323700  0.25776100  0.10095700  1
+  O  O6  1  0.25776100  0.41323700  0.60095700  1
+  O  O7  1  0.58676300  0.74223900  0.89904300  1
+  F  F0  1  0.08573600  0.91426400  0.25000000  1
+  F  F1  1  0.91426400  0.08573600  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O5 2.415824 1_555
+Na0 O4 2.415824 1_555
+Na0 O0 2.565870 1_565
+Na0 O1 2.565870 1_455
+Na0 O3 2.822769 1_554
+Na0 O2 2.822769 1_555
+Na1 O6 2.415824 1_555
+Na1 O7 2.415824 1_555
+Na1 O3 2.565870 1_655
+Na1 O2 2.565870 1_545
+Na1 O0 2.822769 1_555
+Na1 O1 2.822769 1_556
+O0 S0 1.499282 1_555
+O0 Zn0 2.162136 1_655
+O1 S0 1.499282 1_555
+O1 Zn1 2.162136 1_655
+O2 S1 1.499282 1_555
+O2 Zn0 2.162136 1_565
+O3 S1 1.499282 1_555
+O3 Zn1 2.162136 1_566
+O4 S0 1.494368 1_555
+O4 Zn0 2.210670 1_665
+O5 S0 1.494368 1_555
+O5 Zn1 2.210670 1_555
+O6 S1 1.494368 1_555
+O6 Zn0 2.210670 1_555
+O7 S1 1.494368 1_555
+O7 Zn1 2.210670 1_666
+F0 Zn1 1.958513 1_565
+F0 Zn0 1.958513 1_565
+F0 Na0 2.178861 1_555
+F1 Zn0 1.958513 1_655
+F1 Zn1 1.958513 1_656
+F1 Na1 2.178861 1_555

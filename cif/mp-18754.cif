@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_DyCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91597514
+_cell_length_b   5.91597704
+_cell_length_c   5.91596594
+_cell_angle_alpha   106.16981625
+_cell_angle_beta   106.16979259
+_cell_angle_gamma   116.29733565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCrO4
+_chemical_formula_sum   'Dy2 Cr2 O8'
+_cell_volume   157.67213739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.37500000  0.62499900  0.75000000  1
+  Dy  Dy1  1  0.62499900  0.37499900  0.25000000  1
+  Cr  Cr0  1  0.87499900  0.12500000  0.75000000  1
+  Cr  Cr1  1  0.12500000  0.87500000  0.25000000  1
+  O  O0  1  0.29889160  0.23264102  0.43375142  1
+  O  O1  1  0.86513740  0.29886068  0.56627572  1
+  O  O2  1  0.23258296  0.29886068  0.93372328  1
+  O  O3  1  0.29889060  0.86514218  0.06624958  1
+  O  O4  1  0.13485782  0.70110840  0.43375042  1
+  O  O5  1  0.70113832  0.76741704  0.56627472  1
+  O  O6  1  0.76735898  0.70110740  0.06624858  1
+  O  O7  1  0.70113932  0.13486160  0.93372328  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 O0 2.297158 1_555
+Dy0 O6 2.297162 1_556
+Dy0 O4 2.297167 1_555
+Dy0 O3 2.297169 1_556
+Dy0 O2 2.419005 1_555
+Dy0 O1 2.419010 1_455
+Dy0 O7 2.419012 1_565
+Dy0 O5 2.419014 1_555
+Dy1 O1 2.297383 1_555
+Dy1 O5 2.297392 1_555
+Dy1 O7 2.297392 1_554
+Dy1 O2 2.297392 1_554
+Dy1 O3 2.418944 1_545
+Dy1 O0 2.418950 1_555
+Dy1 O4 2.418953 1_655
+Dy1 O6 2.418957 1_555
+Cr0 O7 1.697992 1_555
+Cr0 O5 1.697996 1_545
+Cr0 O2 1.697999 1_655
+Cr0 O1 1.698002 1_555
+Cr1 O3 1.698263 1_555
+Cr1 O6 1.698266 1_455
+Cr1 O0 1.698267 1_565
+Cr1 O4 1.698269 1_555

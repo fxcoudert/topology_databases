@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_LaMg2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34303328
+_cell_length_b   5.67776677
+_cell_length_c   8.32730735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.48611625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMg2Pd
+_chemical_formula_sum   'La2 Mg4 Pd2'
+_cell_volume   189.72922008
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.56056247  0.12112394  0.25000000  1
+  La  La1  1  0.43943753  0.87887606  0.75000000  1
+  Mg  Mg0  1  0.84625214  0.69250628  0.44591863  1
+  Mg  Mg1  1  0.15374786  0.30749372  0.55408137  1
+  Mg  Mg2  1  0.15374786  0.30749372  0.94591863  1
+  Mg  Mg3  1  0.84625214  0.69250628  0.05408137  1
+  Pd  Pd0  1  0.27751288  0.55502677  0.25000000  1
+  Pd  Pd1  1  0.72248712  0.44497323  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Pd0 2.969802 1_545
+La0 Pd0 3.145949 1_655
+La0 Pd0 3.145955 1_555
+La1 Pd1 2.969802 1_565
+La1 Pd1 3.145949 1_455
+La1 Pd1 3.145955 1_555
+Mg0 Pd0 2.810224 1_555
+Mg0 Pd0 2.810227 1_655
+Mg0 Pd1 2.845742 1_555
+Mg1 Pd1 2.810224 1_555
+Mg1 Pd1 2.810227 1_455
+Mg1 Pd0 2.845742 1_555
+Mg2 Pd1 2.810224 1_555
+Mg2 Pd1 2.810227 1_455
+Mg2 Pd0 2.845742 1_556
+Mg3 Pd0 2.810224 1_555
+Mg3 Pd0 2.810227 1_655
+Mg3 Pd1 2.845742 1_554

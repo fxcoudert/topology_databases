@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CrFeB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.93763500
+_cell_length_b   4.11291400
+_cell_length_c   5.49128000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFeB2
+_chemical_formula_sum   'Cr2 Fe2 B4'
+_cell_volume   66.34696352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.12606100  0.67968500  1
+  Cr  Cr1  1  0.00000000  0.87393900  0.17968500  1
+  Fe  Fe0  1  0.50000000  0.36423700  0.32113800  1
+  Fe  Fe1  1  0.50000000  0.63576300  0.82113800  1
+  B  B0  1  0.00000000  0.62838200  0.53436900  1
+  B  B1  1  0.00000000  0.37161800  0.03436900  1
+  B  B2  1  0.50000000  0.85621000  0.46480900  1
+  B  B3  1  0.50000000  0.14379000  0.96480900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 B2 1.783639 1_455
+B0 B2 1.783639 1_555
+B0 Fe1 2.153629 1_455
+B0 Fe1 2.153629 1_555
+B0 Fe0 2.169962 1_555
+B0 Fe0 2.169962 1_455
+B0 Cr1 2.193952 1_555
+B0 Cr0 2.196953 1_565
+B0 Cr0 2.214752 1_555
+B1 B3 1.783639 1_554
+B1 B3 1.783639 1_454
+B1 Fe0 2.153629 1_555
+B1 Fe0 2.153629 1_455
+B1 Fe1 2.169962 1_554
+B1 Fe1 2.169962 1_454
+B1 Cr0 2.193952 1_554
+B1 Cr1 2.196953 1_545
+B1 Cr1 2.214752 1_555
+B2 Cr1 2.148056 1_555
+B2 Cr1 2.148056 1_655
+B2 Fe1 2.156560 1_555
+B2 Fe0 2.171806 1_555
+B2 Cr0 2.186667 1_565
+B2 Cr0 2.186667 1_665
+B2 Fe0 2.233453 1_565
+B3 Cr0 2.148056 1_555
+B3 Cr0 2.148056 1_655
+B3 Fe0 2.156560 1_556
+B3 Fe1 2.171806 1_555
+B3 Cr1 2.186667 1_546
+B3 Cr1 2.186667 1_646
+B3 Fe1 2.233453 1_545

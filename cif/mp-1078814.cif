@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_Ce2C2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60533366
+_cell_length_b   7.60524723
+_cell_length_c   6.60007364
+_cell_angle_alpha   79.39668106
+_cell_angle_beta   79.39673043
+_cell_angle_gamma   31.55845227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2C2Cl
+_chemical_formula_sum   'Ce4 C4 Cl2'
+_cell_volume   196.10986024
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.84194064  0.45817185  0.34897058  1
+  Ce  Ce1  1  0.54181554  0.15806688  0.15107778  1
+  Ce  Ce2  1  0.15805936  0.54182815  0.65102942  1
+  Ce  Ce3  1  0.45818446  0.84193312  0.84892222  1
+  C  C0  1  0.35403742  0.08901010  0.47207303  1
+  C  C1  1  0.91099913  0.64594612  0.02791436  1
+  C  C2  1  0.64596258  0.91098990  0.52792697  1
+  C  C3  1  0.08900087  0.35405388  0.97208564  1
+  Cl  Cl0  1  0.20480936  0.79519453  0.25001507  1
+  Cl  Cl1  1  0.79519064  0.20480547  0.74998493  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Cl1 3.128727 1_555
+Ce0 Cl0 3.139811 1_555
+Ce0 Cl0 3.209391 1_645
+Ce1 Cl1 3.129103 1_554
+Ce1 Cl0 3.139749 1_555
+Ce1 Cl0 3.209511 1_645
+Ce2 Cl0 3.128727 1_555
+Ce2 Cl1 3.139811 1_555
+Ce2 Cl1 3.209391 1_465
+Ce3 Cl0 3.129103 1_556
+Ce3 Cl1 3.139749 1_555
+Ce3 Cl1 3.209511 1_465
+C0 C2 1.375863 1_545
+C0 Ce0 2.324060 1_455
+C0 Ce1 2.561065 1_555
+C0 Ce3 2.610204 1_545
+C0 Ce0 2.726267 1_545
+C0 Ce2 2.752780 1_555
+C1 C3 1.375628 1_654
+C1 Ce1 2.324279 1_565
+C1 Ce0 2.561324 1_555
+C1 Ce2 2.610413 1_654
+C1 Ce1 2.726385 1_655
+C1 Ce3 2.752891 1_554
+C2 Ce2 2.324060 1_655
+C2 Ce3 2.561065 1_555
+C2 Ce1 2.610204 1_565
+C2 Ce2 2.726267 1_565
+C2 Ce0 2.752780 1_555
+C3 Ce3 2.324279 1_545
+C3 Ce2 2.561324 1_555
+C3 Ce0 2.610413 1_456
+C3 Ce3 2.726385 1_455
+C3 Ce1 2.752891 1_556

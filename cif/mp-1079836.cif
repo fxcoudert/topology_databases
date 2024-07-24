@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_GaSi3C3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11166100
+_cell_length_b   5.10562400
+_cell_length_c   5.39894773
+_cell_angle_alpha   89.75162667
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSi3C3N
+_chemical_formula_sum   'Ga1 Si3 C3 N1'
+_cell_volume   85.77212051
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.49146700  0.16328500  1
+  Si  Si0  1  0.00000000  0.99181100  0.33728400  1
+  Si  Si1  1  0.00000000  0.50262800  0.66534100  1
+  Si  Si2  1  0.50000000  0.99861700  0.83087200  1
+  C  C0  1  0.50000000  0.09613500  0.16929400  1
+  C  C1  1  0.50000000  0.62909500  0.81537000  1
+  C  C2  1  0.00000000  0.12820400  0.66451900  1
+  N  N0  1  0.00000000  0.63394400  0.35403500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 N0 2.004209 1_655
+Ga0 N0 2.004209 1_555
+C0 Si0 1.876890 1_545
+C0 Si0 1.876890 1_645
+C0 Si2 1.895827 1_544
+C0 Ga0 2.018537 1_555
+C1 Si1 1.870337 1_655
+C1 Si1 1.870337 1_555
+C1 Si2 1.888858 1_555
+C1 Ga0 2.002649 1_556
+C2 Si0 1.901819 1_545
+C2 Si1 1.911693 1_555
+C2 Si2 1.913071 1_545
+C2 Si2 1.913071 1_445
+N0 Si1 1.806812 1_555
+N0 Si0 1.828980 1_555

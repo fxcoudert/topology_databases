@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_MnCr2(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35774446
+_cell_length_b   7.35774446
+_cell_length_c   7.35774446
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCr2(SeS)2
+_chemical_formula_sum   'Mn2 Cr4 Se4 S4'
+_cell_volume   281.65606198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.75000000  0.75000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr0  1  0.63855500  0.12048200  0.12048200  1
+  Cr  Cr1  1  0.12048200  0.63855500  0.12048200  1
+  Cr  Cr2  1  0.12048200  0.12048200  0.63855500  1
+  Cr  Cr3  1  0.12048200  0.12048200  0.12048200  1
+  Se  Se0  1  0.90561700  0.36479400  0.36479400  1
+  Se  Se1  1  0.36479400  0.90561700  0.36479400  1
+  Se  Se2  1  0.36479400  0.36479400  0.90561700  1
+  Se  Se3  1  0.36479400  0.36479400  0.36479400  1
+  S  S0  1  0.34152400  0.88615900  0.88615900  1
+  S  S1  1  0.88615900  0.34152400  0.88615900  1
+  S  S2  1  0.88615900  0.88615900  0.34152400  1
+  S  S3  1  0.88615900  0.88615900  0.88615900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 S2 2.453949 1_555
+Mn0 S1 2.453949 1_555
+Mn0 S0 2.453949 1_555
+Mn0 S3 2.453955 1_555
+Mn1 Se2 2.436774 1_555
+Mn1 Se1 2.436774 1_555
+Mn1 Se0 2.436774 1_555
+Mn1 Se3 2.436780 1_555
+Cr0 S2 2.440187 1_545
+Cr0 S1 2.440187 1_554
+Cr0 S3 2.440187 1_544
+Cr0 Se3 2.551387 1_555
+Cr0 Se2 2.551397 1_554
+Cr0 Se1 2.551397 1_545
+Cr1 S3 2.440187 1_454
+Cr1 S0 2.440187 1_554
+Cr1 S2 2.440187 1_455
+Cr1 Se3 2.551387 1_555
+Cr1 Se2 2.551397 1_554
+Cr1 Se0 2.551397 1_455
+Cr2 S3 2.440187 1_445
+Cr2 S0 2.440187 1_545
+Cr2 S1 2.440187 1_455
+Cr2 Se3 2.551387 1_555
+Cr2 Se1 2.551397 1_545
+Cr2 Se0 2.551397 1_455
+Cr3 S0 2.440187 1_544
+Cr3 S1 2.440187 1_454
+Cr3 S2 2.440187 1_445
+Cr3 Se2 2.551386 1_554
+Cr3 Se1 2.551386 1_545
+Cr3 Se0 2.551386 1_455

@@ -1,0 +1,109 @@
+# generated using pymatgen
+data_HoAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12908819
+_cell_length_b   6.12863074
+_cell_length_c   7.84492379
+_cell_angle_alpha   67.00744838
+_cell_angle_beta   67.04638743
+_cell_angle_gamma   60.00246736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAl3
+_chemical_formula_sum   'Ho3 Al9'
+_cell_volume   227.81746070
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  -0.00000000  0.00000000  1
+  Ho  Ho1  1  0.21819704  0.21825810  0.34528775  1
+  Ho  Ho2  1  0.78180296  0.78174190  0.65471225  1
+  Al  Al0  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al1  1  0.50000000  -0.00000000  0.00000000  1
+  Al  Al2  1  0.00000000  0.50000000  0.00000000  1
+  Al  Al3  1  0.29681884  0.29693814  0.66843191  1
+  Al  Al4  1  0.29681884  0.73781111  0.66843191  1
+  Al  Al5  1  0.73796218  0.29695244  0.66813193  1
+  Al  Al6  1  0.70318116  0.70306186  0.33156809  1
+  Al  Al7  1  0.70318116  0.26218889  0.33156809  1
+  Al  Al8  1  0.26203782  0.70304756  0.33186807  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Al4 2.861967 1_554
+Al0 Al7 2.861967 1_555
+Al0 Al8 2.865021 1_555
+Al0 Al5 2.865021 1_554
+Al0 Ho1 2.996845 1_555
+Al0 Ho2 2.996845 1_554
+Al0 Al1 3.064315 1_565
+Al0 Al1 3.064315 1_555
+Al0 Ho0 3.064544 1_565
+Al0 Ho0 3.064544 1_655
+Al0 Al2 3.064544 1_555
+Al0 Al2 3.064544 1_655
+Al1 Al6 2.861967 1_545
+Al1 Al3 2.861967 1_554
+Al1 Al5 2.865017 1_554
+Al1 Al8 2.865017 1_545
+Al1 Ho2 2.996848 1_544
+Al1 Ho1 2.996848 1_555
+Al1 Al2 3.064544 1_555
+Al1 Al2 3.064544 1_645
+Al1 Ho0 3.064544 1_555
+Al1 Ho0 3.064544 1_655
+Al2 Al4 2.863282 1_554
+Al2 Al7 2.863282 1_455
+Al2 Al3 2.863282 1_554
+Al2 Al6 2.863282 1_455
+Al2 Ho2 2.994974 1_454
+Al2 Ho1 2.994974 1_555
+Al2 Ho0 3.064315 1_565
+Al2 Ho0 3.064315 1_555
+Al3 Al4 2.701948 1_555
+Al3 Al5 2.702933 1_555
+Al3 Al8 2.825953 1_555
+Al3 Al7 2.829821 1_555
+Al3 Ho1 3.005208 1_555
+Al3 Ho0 3.051031 1_556
+Al3 Ho2 3.072554 1_455
+Al3 Ho2 3.073757 1_545
+Al4 Al5 2.702936 1_555
+Al4 Al8 2.825950 1_555
+Al4 Al6 2.829821 1_555
+Al4 Ho1 3.005211 1_565
+Al4 Ho0 3.051032 1_566
+Al4 Ho2 3.072557 1_455
+Al4 Ho2 3.073754 1_555
+Al5 Al7 2.825950 1_555
+Al5 Al6 2.825953 1_555
+Al5 Ho1 3.005170 1_655
+Al5 Ho0 3.050694 1_656
+Al5 Ho2 3.072875 1_545
+Al5 Ho2 3.072875 1_555
+Al6 Al7 2.701948 1_555
+Al6 Al8 2.702933 1_555
+Al6 Ho2 3.005208 1_555
+Al6 Ho0 3.051031 1_665
+Al6 Ho1 3.072554 1_655
+Al6 Ho1 3.073757 1_565
+Al7 Al8 2.702936 1_555
+Al7 Ho2 3.005211 1_545
+Al7 Ho0 3.051032 1_655
+Al7 Ho1 3.072557 1_655
+Al7 Ho1 3.073754 1_555
+Al8 Ho2 3.005170 1_455
+Al8 Ho0 3.050694 1_565
+Al8 Ho1 3.072875 1_565
+Al8 Ho1 3.072875 1_555

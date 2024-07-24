@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Tb(GaCo2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41375523
+_cell_length_b   6.41375523
+_cell_length_c   6.41375523
+_cell_angle_alpha   98.53191204
+_cell_angle_beta   98.53191204
+_cell_angle_gamma   134.69071605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(GaCo2)4
+_chemical_formula_sum   'Tb1 Ga4 Co8'
+_cell_volume   173.09392823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga0  1  0.34377800  0.00000000  0.34377800  1
+  Ga  Ga1  1  0.65622200  0.00000000  0.65622200  1
+  Ga  Ga2  1  0.00000000  0.34377800  0.34377800  1
+  Ga  Ga3  1  0.00000000  0.65622200  0.65622200  1
+  Co  Co0  1  0.27494500  0.50000000  0.77494500  1
+  Co  Co1  1  0.72505500  0.50000000  0.22505500  1
+  Co  Co2  1  0.50000000  0.27494500  0.77494500  1
+  Co  Co3  1  0.50000000  0.72505500  0.22505500  1
+  Co  Co4  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co5  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co6  1  0.00000000  0.50000000  0.00000000  1
+  Co  Co7  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga1 2.615336 1_555
+Ga0 Tb0 2.877620 1_555
+Ga1 Tb0 2.877620 1_656
+Ga2 Ga3 2.615336 1_555
+Ga2 Tb0 2.877620 1_555
+Ga3 Tb0 2.877620 1_566
+Co0 Co5 2.438956 1_555
+Co0 Co7 2.438956 1_566
+Co0 Co6 2.438956 1_556
+Co0 Co4 2.438956 1_555
+Co0 Ga3 2.647009 1_555
+Co0 Ga2 2.647009 1_555
+Co0 Ga1 2.662815 1_455
+Co0 Ga1 2.662815 1_565
+Co0 Co3 2.664152 1_556
+Co0 Co2 2.664152 1_555
+Co0 Tb0 3.106741 1_556
+Co0 Tb0 3.106741 1_666
+Co1 Co6 2.438956 1_655
+Co1 Co5 2.438956 1_665
+Co1 Co7 2.438956 1_555
+Co1 Co4 2.438956 1_555
+Co1 Ga3 2.647009 1_655
+Co1 Ga2 2.647009 1_655
+Co1 Ga0 2.662815 1_555
+Co1 Ga0 2.662815 1_665
+Co1 Co3 2.664152 1_555
+Co1 Co2 2.664152 1_554
+Co1 Tb0 3.106741 1_665
+Co1 Tb0 3.106741 1_555
+Co2 Co6 2.438956 1_656
+Co2 Co5 2.438956 1_555
+Co2 Co7 2.438956 1_556
+Co2 Co4 2.438956 1_555
+Co2 Ga1 2.647009 1_555
+Co2 Ga0 2.647009 1_555
+Co2 Ga3 2.662815 1_545
+Co2 Ga3 2.662815 1_655
+Co2 Tb0 3.106741 1_556
+Co2 Tb0 3.106741 1_666
+Co3 Co7 2.438956 1_565
+Co3 Co5 2.438956 1_665
+Co3 Co4 2.438956 1_555
+Co3 Co6 2.438956 1_555
+Co3 Ga1 2.647009 1_565
+Co3 Ga0 2.647009 1_565
+Co3 Ga2 2.662815 1_665
+Co3 Ga2 2.662815 1_555
+Co3 Tb0 3.106741 1_665
+Co3 Tb0 3.106741 1_555
+Co4 Co5 2.470422 1_555
+Co4 Co5 2.470422 1_665
+Co4 Ga2 2.553643 1_555
+Co4 Ga0 2.553643 1_555
+Co4 Ga3 2.553643 1_655
+Co4 Ga1 2.553643 1_565
+Co4 Tb0 3.206878 1_555
+Co4 Tb0 3.206878 1_666
+Co5 Ga2 2.553643 1_555
+Co5 Ga3 2.553643 1_545
+Co5 Ga1 2.553643 1_455
+Co5 Ga0 2.553643 1_555
+Co5 Tb0 3.206878 1_555
+Co5 Tb0 3.206878 1_556
+Co6 Co7 2.470422 1_565
+Co6 Co7 2.470422 1_455
+Co6 Ga0 2.553643 1_565
+Co6 Ga2 2.553643 1_555
+Co6 Ga1 2.553643 1_454
+Co6 Ga3 2.553643 1_554
+Co6 Tb0 3.206878 1_565
+Co6 Tb0 3.206878 1_555
+Co7 Ga3 2.553643 1_544
+Co7 Ga0 2.553643 1_555
+Co7 Ga2 2.553643 1_655
+Co7 Ga1 2.553643 1_554
+Co7 Tb0 3.206878 1_655
+Co7 Tb0 3.206878 1_555

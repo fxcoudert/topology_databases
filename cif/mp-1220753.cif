@@ -1,0 +1,98 @@
+# generated using pymatgen
+data_NaHf6(NCl)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26107525
+_cell_length_b   6.26107525
+_cell_length_c   10.18569842
+_cell_angle_alpha   84.11957935
+_cell_angle_beta   84.11957935
+_cell_angle_gamma   119.99794210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHf6(NCl)6
+_chemical_formula_sum   'Na1 Hf6 N6 Cl6'
+_cell_volume   338.46579222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf0  1  0.20797300  0.20797300  0.37518500  1
+  Hf  Hf1  1  0.54181800  0.87488100  0.37541300  1
+  Hf  Hf2  1  0.87488100  0.54181800  0.37541300  1
+  Hf  Hf3  1  0.12511900  0.45818200  0.62458700  1
+  Hf  Hf4  1  0.45818200  0.12511900  0.62458700  1
+  Hf  Hf5  1  0.79202700  0.79202700  0.62481500  1
+  N  N0  1  0.13699100  0.13699100  0.58900100  1
+  N  N1  1  0.47027200  0.80355200  0.58932700  1
+  N  N2  1  0.80355200  0.47027200  0.58932700  1
+  N  N3  1  0.19644800  0.52972800  0.41067300  1
+  N  N4  1  0.52972800  0.19644800  0.41067300  1
+  N  N5  1  0.86300900  0.86300900  0.41099900  1
+  Cl  Cl0  1  0.06096100  0.72739000  0.81714400  1
+  Cl  Cl1  1  0.39451000  0.39451000  0.81714600  1
+  Cl  Cl2  1  0.72739000  0.06096100  0.81714400  1
+  Cl  Cl3  1  0.27261000  0.93903900  0.18285600  1
+  Cl  Cl4  1  0.60549000  0.60549000  0.18285400  1
+  Cl  Cl5  1  0.93903900  0.27261000  0.18285600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 N5 2.115516 1_445
+Hf0 N3 2.117411 1_555
+Hf0 N4 2.117411 1_555
+Hf0 N0 2.131659 1_555
+Hf1 N5 2.115265 1_555
+Hf1 N4 2.117382 1_565
+Hf1 N3 2.117568 1_555
+Hf1 N1 2.132635 1_555
+Hf2 N5 2.115265 1_555
+Hf2 N3 2.117382 1_655
+Hf2 N4 2.117568 1_555
+Hf2 N2 2.132635 1_555
+Hf3 N0 2.115265 1_555
+Hf3 N2 2.117382 1_455
+Hf3 N1 2.117568 1_555
+Hf3 N3 2.132635 1_555
+Hf4 N0 2.115265 1_555
+Hf4 N1 2.117382 1_545
+Hf4 N2 2.117568 1_555
+Hf4 N4 2.132635 1_555
+Hf5 N0 2.115516 1_665
+Hf5 N1 2.117411 1_555
+Hf5 N2 2.117411 1_555
+Hf5 N5 2.131659 1_555
+Cl0 Na0 2.772197 1_566
+Cl0 Hf5 2.834001 1_455
+Cl0 Hf4 2.835515 1_565
+Cl0 Hf3 2.835872 1_555
+Cl1 Na0 2.772207 1_556
+Cl1 Hf5 2.834530 1_555
+Cl1 Hf3 2.835612 1_555
+Cl1 Hf4 2.835612 1_555
+Cl2 Na0 2.772197 1_656
+Cl2 Hf5 2.834001 1_545
+Cl2 Hf3 2.835515 1_655
+Cl2 Hf4 2.835872 1_555
+Cl3 Na0 2.772197 1_565
+Cl3 Hf0 2.834001 1_565
+Cl3 Hf2 2.835515 1_455
+Cl3 Hf1 2.835872 1_555
+Cl4 Na0 2.772207 1_665
+Cl4 Hf0 2.834530 1_555
+Cl4 Hf1 2.835612 1_555
+Cl4 Hf2 2.835612 1_555
+Cl5 Na0 2.772197 1_655
+Cl5 Hf0 2.834001 1_655
+Cl5 Hf1 2.835515 1_545
+Cl5 Hf2 2.835872 1_555

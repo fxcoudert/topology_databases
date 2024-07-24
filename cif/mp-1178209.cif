@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_FeSbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57185000
+_cell_length_b   5.71205975
+_cell_length_c   5.57134755
+_cell_angle_alpha   60.81295942
+_cell_angle_beta   90.00005374
+_cell_angle_gamma   90.00003313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSbO4
+_chemical_formula_sum   'Fe2 Sb2 O8'
+_cell_volume   154.80421156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.49999800  0.00000500  0.49999800  1
+  Fe  Fe1  1  0.99999900  0.00000100  0.00000000  1
+  Sb  Sb0  1  0.24999600  0.50000000  0.50000000  1
+  Sb  Sb1  1  0.75000800  0.50000000  0.00000000  1
+  O  O0  1  0.25001400  0.10250800  0.69873100  1
+  O  O1  1  0.74998500  0.10250800  0.19876700  1
+  O  O2  1  0.25001400  0.89749100  0.30127000  1
+  O  O3  1  0.74998500  0.89749100  0.80123400  1
+  O  O4  1  0.00000000  0.41686300  0.79156700  1
+  O  O5  1  0.50000000  0.41685200  0.29157300  1
+  O  O6  1  0.50000000  0.58314700  0.70842800  1
+  O  O7  1  0.00000000  0.58313500  0.20843300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O0 2.034971 1_555
+Fe0 O1 2.034980 1_555
+Fe0 O2 2.034985 1_545
+Fe0 O3 2.034990 1_545
+Fe0 O5 2.078738 1_555
+Fe0 O6 2.078793 1_545
+Fe1 O1 2.035228 1_555
+Fe1 O0 2.035229 1_654
+Fe1 O2 2.035229 1_645
+Fe1 O3 2.035232 1_544
+Fe1 O4 2.078813 1_654
+Fe1 O7 2.078833 1_645
+O0 Sb0 1.982218 1_555
+O1 Sb1 1.982218 1_555
+O2 Sb0 1.982213 1_555
+O3 Sb1 1.982213 1_556
+O4 Sb1 2.012982 1_456
+O4 Sb0 2.013000 1_555
+O5 Sb0 2.013038 1_555
+O5 Sb1 2.013059 1_555
+O6 Sb0 2.013037 1_555
+O6 Sb1 2.013055 1_556
+O7 Sb1 2.012975 1_455
+O7 Sb0 2.013000 1_555

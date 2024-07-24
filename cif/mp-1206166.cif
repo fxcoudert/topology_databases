@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_ErCdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63888873
+_cell_length_b   7.63888873
+_cell_length_c   3.93278871
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCdAu
+_chemical_formula_sum   'Er3 Cd3 Au3'
+_cell_volume   198.74288260
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.59433804  0.00000000  -0.00000000  1
+  Er  Er1  1  0.00000000  0.59433804  0.00000000  1
+  Er  Er2  1  0.40566196  0.40566196  -0.00000000  1
+  Cd  Cd0  1  0.26002819  -0.00000000  0.50000000  1
+  Cd  Cd1  1  -0.00000000  0.26002819  0.50000000  1
+  Cd  Cd2  1  0.73997181  0.73997181  0.50000000  1
+  Au  Au0  1  0.33333300  0.66666700  0.50000000  1
+  Au  Au1  1  0.66666700  0.33333300  0.50000000  1
+  Au  Au2  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Er0 3.223100 1_556
+Cd0 Er0 3.223100 1_555
+Cd0 Er1 3.355527 1_546
+Cd0 Er1 3.355527 1_545
+Cd0 Er2 3.355527 1_556
+Cd0 Er2 3.355527 1_555
+Cd1 Er1 3.223100 1_556
+Cd1 Er1 3.223100 1_555
+Cd1 Er0 3.355527 1_455
+Cd1 Er0 3.355527 1_456
+Cd1 Er2 3.355527 1_556
+Cd1 Er2 3.355527 1_555
+Cd2 Er2 3.223100 1_555
+Cd2 Er2 3.223100 1_556
+Cd2 Er1 3.355527 1_656
+Cd2 Er0 3.355527 1_566
+Cd2 Er1 3.355527 1_655
+Cd2 Er0 3.355527 1_565
+Au0 Cd0 2.867580 1_565
+Au0 Cd1 2.867585 1_555
+Au0 Cd2 2.867588 1_555
+Au0 Er1 3.041172 1_555
+Au0 Er1 3.041172 1_556
+Au0 Er0 3.041174 1_565
+Au0 Er0 3.041174 1_566
+Au0 Er2 3.041178 1_556
+Au0 Er2 3.041178 1_555
+Au1 Cd1 2.867580 1_655
+Au1 Cd0 2.867585 1_555
+Au1 Cd2 2.867588 1_555
+Au1 Er0 3.041172 1_556
+Au1 Er0 3.041172 1_555
+Au1 Er1 3.041174 1_656
+Au1 Er1 3.041174 1_655
+Au1 Er2 3.041178 1_555
+Au1 Er2 3.041178 1_556
+Au2 Cd2 2.795031 1_445
+Au2 Cd2 2.795031 1_444
+Au2 Cd0 2.795031 1_554
+Au2 Cd1 2.795031 1_554
+Au2 Cd1 2.795031 1_555
+Au2 Cd0 2.795031 1_555
+Au2 Er2 3.098806 1_555
+Au2 Er0 3.098807 1_455
+Au2 Er1 3.098807 1_545

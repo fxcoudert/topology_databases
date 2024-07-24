@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_ZnFeO2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36775862
+_cell_length_b   7.36775862
+_cell_length_c   7.36775862
+_cell_angle_alpha   133.98233674
+_cell_angle_beta   117.83597714
+_cell_angle_gamma   80.71307748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFeO2F5
+_chemical_formula_sum   'Zn2 Fe2 O4 F10'
+_cell_volume   246.00616341
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.00000000  1
+  O  O0  1  0.53460900  0.95182000  0.41721100  1
+  O  O1  1  0.46539100  0.04818000  0.58278900  1
+  O  O2  1  0.03460900  0.61739800  0.58278900  1
+  O  O3  1  0.96539100  0.38260200  0.41721100  1
+  F  F0  1  0.75000000  0.38345500  0.63345500  1
+  F  F1  1  0.25000000  0.61654500  0.36654500  1
+  F  F2  1  0.44411400  0.59562500  0.78839000  1
+  F  F3  1  0.19276600  0.40437500  0.84848900  1
+  F  F4  1  0.94411400  0.15572400  0.84848900  1
+  F  F5  1  0.69276600  0.84427600  0.78839000  1
+  F  F6  1  0.55588600  0.40437500  0.21161000  1
+  F  F7  1  0.80723400  0.59562500  0.15151100  1
+  F  F8  1  0.05588600  0.84427600  0.15151100  1
+  F  F9  1  0.30723400  0.15572400  0.21161000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 O1 1.230291 1_565
+O0 Zn0 2.434238 1_555
+O1 Zn0 2.434238 1_556
+O2 O3 1.230291 1_455
+O2 Zn1 2.434238 1_566
+O3 Zn1 2.434238 1_655
+F0 Fe0 2.016843 1_555
+F0 Fe1 2.016843 1_656
+F1 Fe0 2.016843 1_555
+F1 Fe1 2.016843 1_555
+F2 Fe0 1.955739 1_555
+F2 Zn0 1.982205 1_556
+F3 Fe1 1.955746 1_556
+F3 Zn0 1.982198 1_556
+F4 Fe1 1.955739 1_656
+F4 Zn1 1.982205 1_656
+F5 Fe0 1.955742 1_555
+F5 Zn1 1.982199 1_666
+F6 Fe0 1.955739 1_555
+F6 Zn0 1.982205 1_555
+F7 Fe1 1.955746 1_655
+F7 Zn0 1.982198 1_555
+F8 Fe1 1.955739 1_555
+F8 Zn1 1.982205 1_565
+F9 Fe0 1.955742 1_555
+F9 Zn1 1.982199 1_555

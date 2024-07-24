@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm2TiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00901400
+_cell_length_b   3.00901400
+_cell_length_c   14.51065700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2TiGe2
+_chemical_formula_sum   'Sm2 Ti1 Ge2'
+_cell_volume   131.38188640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50000000  0.50000000  0.62369700  1
+  Sm  Sm1  1  0.50000000  0.50000000  0.37630300  1
+  Ti  Ti0  1  0.50000000  0.50000000  0.00000000  1
+  Ge  Ge0  1  0.50000000  0.50000000  0.17326600  1
+  Ge  Ge1  1  0.50000000  0.50000000  0.82673400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ti0 2.514203 1_555
+Ge0 Sm1 2.946200 1_555
+Ge1 Ti0 2.514203 1_556
+Ge1 Sm0 2.946200 1_555

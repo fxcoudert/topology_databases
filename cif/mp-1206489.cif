@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CsScI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73154169
+_cell_length_b   8.50374129
+_cell_length_c   8.49815062
+_cell_angle_alpha   120.03089266
+_cell_angle_beta   90.01295808
+_cell_angle_gamma   89.99840060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScI3
+_chemical_formula_sum   'Cs2 Sc2 I6'
+_cell_volume   421.15731079
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25018387  0.66692428  0.33349285  1
+  Cs  Cs1  1  0.75013727  0.33371941  0.66682316  1
+  Sc  Sc0  1  -0.00019890  -0.00003704  -0.00002431  1
+  Sc  Sc1  1  0.50007653  0.99998071  0.99997320  1
+  I  I0  1  0.74998437  0.83283915  0.16716920  1
+  I  I1  1  0.24990376  0.16687172  0.83271324  1
+  I  I2  1  0.74998337  0.33420376  0.16748910  1
+  I  I3  1  0.24995494  0.66580152  0.83252030  1
+  I  I4  1  0.74997082  0.83278698  0.66563144  1
+  I  I5  1  0.25000298  0.16690951  0.33421182  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 I4 4.157663 1_555
+Cs0 I0 4.160088 1_555
+Cs0 I4 4.160954 1_455
+Cs0 I0 4.161679 1_455
+Cs0 I2 4.161878 1_555
+Cs0 I2 4.163673 1_455
+Cs0 I1 4.244962 1_565
+Cs0 I3 4.245597 1_555
+Cs0 I5 4.248691 1_565
+Cs0 I1 4.252024 1_554
+Cs0 I3 4.252570 1_554
+Cs0 I5 4.255058 1_555
+Cs1 I3 4.158825 1_655
+Cs1 I5 4.161108 1_655
+Cs1 I3 4.161198 1_555
+Cs1 I1 4.161490 1_655
+Cs1 I5 4.161600 1_555
+Cs1 I1 4.164611 1_555
+Cs1 I2 4.245479 1_555
+Cs1 I0 4.246222 1_556
+Cs1 I4 4.249019 1_555
+Cs1 I0 4.250775 1_545
+Cs1 I2 4.252675 1_556
+Cs1 I4 4.254741 1_545
+I0 Sc0 2.981414 1_665
+I0 Sc1 2.981476 1_554
+I1 Sc1 2.981348 1_545
+I1 Sc0 2.981612 1_556
+I2 Sc1 2.980562 1_544
+I2 Sc0 2.980606 1_655
+I3 Sc1 2.981112 1_555
+I3 Sc0 2.981401 1_566
+I4 Sc0 2.979469 1_666
+I4 Sc1 2.980377 1_555
+I5 Sc0 2.980225 1_555
+I5 Sc1 2.980433 1_544

@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_MgAl2H4Pb2(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60528775
+_cell_length_b   7.61452524
+_cell_length_c   4.83067777
+_cell_angle_alpha   95.97251750
+_cell_angle_beta   98.58085971
+_cell_angle_gamma   112.37646450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl2H4Pb2(O2F3)2
+_chemical_formula_sum   'Mg1 Al2 H4 Pb2 O4 F6'
+_cell_volume   251.79865157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.50000000  1
+  Al  Al0  1  0.15889000  0.67189200  0.15271400  1
+  Al  Al1  1  0.84111000  0.32810800  0.84728600  1
+  H  H0  1  0.15810700  0.49943400  0.66263700  1
+  H  H1  1  0.84189300  0.50056600  0.33736300  1
+  H  H2  1  0.10645700  0.83509900  0.76570400  1
+  H  H3  1  0.89354300  0.16490100  0.23429600  1
+  Pb  Pb0  1  0.74148100  0.77746400  0.92161700  1
+  Pb  Pb1  1  0.25851900  0.22253600  0.07838300  1
+  O  O0  1  0.09975300  0.48292100  0.83305200  1
+  O  O1  1  0.90024700  0.51707900  0.16694800  1
+  O  O2  1  0.07982100  0.84545900  0.95883800  1
+  O  O3  1  0.92017900  0.15454100  0.04116200  1
+  F  F0  1  0.22259400  0.84748000  0.49022800  1
+  F  F1  1  0.77740600  0.15252000  0.50977300  1
+  F  F2  1  0.25764200  0.53397400  0.37346100  1
+  F  F3  1  0.74235800  0.46602600  0.62653900  1
+  F  F4  1  0.41501600  0.82716500  0.12919800  1
+  F  F5  1  0.58498400  0.17283500  0.87080200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 F2 1.843538 1_555
+Al0 O0 1.869467 1_554
+Al0 F0 1.870310 1_555
+Al0 F4 1.882986 1_555
+Al0 O1 1.885574 1_455
+Al0 O2 1.918354 1_554
+Al1 F3 1.843538 1_555
+Al1 O1 1.869467 1_556
+Al1 F1 1.870306 1_555
+Al1 F5 1.882986 1_555
+Al1 O0 1.885574 1_655
+Al1 O3 1.918354 1_556
+H0 O0 0.989209 1_555
+H1 O1 0.989209 1_555
+H2 O2 0.985362 1_555
+H3 O3 0.985362 1_555
+O2 Pb0 2.397878 1_455
+O2 Pb1 2.621896 1_566
+O3 Pb1 2.397878 1_655
+O3 Pb0 2.621896 1_544
+F0 Mg0 1.973676 1_565
+F1 Mg0 1.973675 1_555
+F2 Pb1 2.639526 1_555
+F3 Pb0 2.639526 1_555
+F4 Mg0 1.968388 1_565
+F5 Mg0 1.968388 1_555

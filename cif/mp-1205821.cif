@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03292349
+_cell_length_b   6.03292349
+_cell_length_c   6.03292349
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCo
+_chemical_formula_sum   'La4 Co4'
+_cell_volume   169.02913216
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.98102500  0.98102500  0.98102500  1
+  La  La1  1  0.51897500  0.00000000  0.50000000  1
+  La  La2  1  0.50000000  0.51897500  0.00000000  1
+  La  La3  1  0.00000000  0.50000000  0.51897500  1
+  Co  Co0  1  0.41598000  0.41598000  0.41598000  1
+  Co  Co1  1  0.08402000  0.00000000  0.50000000  1
+  Co  Co2  1  0.50000000  0.08402000  0.00000000  1
+  Co  Co3  1  0.00000000  0.50000000  0.08402000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 La0 2.624050 1_444
+Co0 La3 2.935751 1_555
+Co0 La2 2.935751 1_555
+Co0 La1 2.935751 1_555
+Co0 Co1 2.956327 1_555
+Co0 Co3 2.956327 1_555
+Co0 Co2 2.956327 1_555
+Co0 La1 3.193257 1_565
+Co0 La2 3.193257 1_556
+Co0 La3 3.193257 1_655
+Co0 La0 3.408873 1_555
+Co1 La1 2.624050 1_555
+Co1 La0 2.935751 1_444
+Co1 La2 2.935751 1_556
+Co1 La3 2.935751 1_545
+Co1 Co2 2.956327 1_556
+Co1 Co3 2.956327 1_545
+Co1 La2 3.193257 1_445
+Co1 La3 3.193257 1_555
+Co1 La0 3.193257 1_445
+Co1 La1 3.408873 1_455
+Co2 La2 2.624050 1_555
+Co2 La3 2.935751 1_655
+Co2 La1 2.935751 1_554
+Co2 La0 2.935751 1_444
+Co2 Co3 2.956327 1_655
+Co2 La1 3.193257 1_555
+Co2 La0 3.193257 1_544
+Co2 La3 3.193257 1_544
+Co2 La2 3.408873 1_545
+Co3 La3 2.624050 1_555
+Co3 La0 2.935751 1_444
+Co3 La1 2.935751 1_565
+Co3 La2 2.935751 1_455
+Co3 La1 3.193257 1_454
+Co3 La2 3.193257 1_555
+Co3 La0 3.193257 1_454
+Co3 La3 3.408873 1_554

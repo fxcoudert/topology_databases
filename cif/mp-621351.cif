@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SmInAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75565171
+_cell_length_b   7.75565171
+_cell_length_c   4.09771731
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInAu
+_chemical_formula_sum   'Sm3 In3 Au3'
+_cell_volume   213.45641336
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.00000000  0.59159960  0.50000000  1
+  Sm  Sm1  1  0.59159960  -0.00000000  0.50000000  1
+  Sm  Sm2  1  0.40840040  0.40840040  0.50000000  1
+  In  In0  1  0.00000000  0.25467699  -0.00000000  1
+  In  In1  1  0.25467699  0.00000000  -0.00000000  1
+  In  In2  1  0.74532301  0.74532301  0.00000000  1
+  Au  Au0  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au1  1  0.66666700  0.33333300  0.00000000  1
+  Au  Au2  1  0.33333300  0.66666700  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Sm0 3.320523 1_554
+In0 Sm0 3.320523 1_555
+In0 Sm1 3.446077 1_455
+In0 Sm1 3.446077 1_454
+In0 Sm2 3.446077 1_555
+In0 Sm2 3.446077 1_554
+In1 Sm1 3.320523 1_554
+In1 Sm1 3.320523 1_555
+In1 Sm0 3.446077 1_544
+In1 Sm0 3.446077 1_545
+In1 Sm2 3.446077 1_555
+In1 Sm2 3.446077 1_554
+In2 Sm2 3.320523 1_555
+In2 Sm2 3.320523 1_554
+In2 Sm0 3.446077 1_654
+In2 Sm0 3.446077 1_655
+In2 Sm1 3.446077 1_564
+In2 Sm1 3.446077 1_565
+Au0 In2 2.845906 1_446
+Au0 In2 2.845906 1_445
+Au0 In1 2.845906 1_555
+Au0 In1 2.845906 1_556
+Au0 In0 2.845906 1_555
+Au0 In0 2.845906 1_556
+Au0 Sm2 3.167411 1_555
+Au0 Sm1 3.167411 1_455
+Au0 Sm0 3.167411 1_545
+Au1 In0 2.938116 1_655
+Au1 In1 2.938121 1_555
+Au1 In2 2.938123 1_555
+Au1 Sm1 3.116890 1_555
+Au1 Sm1 3.116890 1_554
+Au1 Sm0 3.116892 1_654
+Au1 Sm0 3.116892 1_655
+Au1 Sm2 3.116896 1_554
+Au1 Sm2 3.116896 1_555
+Au2 In1 2.938116 1_565
+Au2 In0 2.938121 1_555
+Au2 In2 2.938123 1_555
+Au2 Sm0 3.116890 1_555
+Au2 Sm0 3.116890 1_554
+Au2 Sm1 3.116892 1_565
+Au2 Sm1 3.116892 1_564
+Au2 Sm2 3.116896 1_555
+Au2 Sm2 3.116896 1_554

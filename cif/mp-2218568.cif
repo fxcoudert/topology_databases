@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgZn2(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26595069
+_cell_length_b   5.03591948
+_cell_length_c   6.12926101
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   82.27494191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(WO4)2
+_chemical_formula_sum   'Mg1 Zn2 W2 O8'
+_cell_volume   161.06613993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.25000000  0.05324771  1
+  Zn  Zn0  1  0.50000000  0.25000000  0.59960665  1
+  Zn  Zn1  1  0.50000000  0.75000000  0.41442184  1
+  W  W0  1  -0.00000000  0.25000000  0.17307461  1
+  W  W1  1  -0.00000000  0.75000000  0.84384106  1
+  O  O0  1  0.79192298  0.96344329  0.10090505  1
+  O  O1  1  0.20807702  0.53655671  0.10090505  1
+  O  O2  1  0.21239158  0.04361986  0.91306057  1
+  O  O3  1  0.78760842  0.45638014  0.91306057  1
+  O  O4  1  0.70666973  0.40225811  0.35133895  1
+  O  O5  1  0.29333027  0.09774189  0.35133895  1
+  O  O6  1  0.26464677  0.58765997  0.63947450  1
+  O  O7  1  0.73535323  0.91234003  0.63947450  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O1 1.983571 1_555
+Mg0 O0 1.983571 1_545
+Mg0 O3 2.129660 1_554
+Mg0 O2 2.129660 1_554
+Mg0 O5 2.309741 1_555
+Mg0 O4 2.309741 1_555
+O0 W0 1.975814 1_665
+O0 W1 2.126477 1_654
+O1 W0 1.975814 1_555
+O1 W1 2.126477 1_554
+O2 W1 2.015418 1_545
+O2 W0 2.135052 1_556
+O3 W1 2.015418 1_655
+O3 W0 2.135052 1_656
+O4 W0 1.961971 1_655
+O4 Zn1 1.971867 1_555
+O4 Zn0 2.076595 1_555
+O5 W0 1.961971 1_555
+O5 Zn1 1.971867 1_545
+O5 Zn0 2.076595 1_555
+O6 W1 1.968064 1_555
+O6 Zn0 1.980055 1_555
+O6 Zn1 2.092730 1_555
+O7 W1 1.968064 1_655
+O7 Zn0 1.980055 1_565
+O7 Zn1 2.092730 1_555

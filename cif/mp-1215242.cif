@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_ZrTi2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93029690
+_cell_length_b   5.93029690
+_cell_length_c   4.79499600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.94040478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi2Al
+_chemical_formula_sum   'Zr2 Ti4 Al2'
+_cell_volume   146.12759767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33574400  0.16638500  0.50000000  1
+  Zr  Zr1  1  0.83361500  0.66425600  0.50000000  1
+  Ti  Ti0  1  0.83099600  0.16900400  0.50000000  1
+  Ti  Ti1  1  0.65568300  0.83530300  0.00000000  1
+  Ti  Ti2  1  0.16469700  0.34431700  0.00000000  1
+  Ti  Ti3  1  0.17407600  0.82592400  0.00000000  1
+  Al  Al0  1  0.33372400  0.66627600  0.50000000  1
+  Al  Al1  1  0.67125900  0.32874100  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zr0 Zr1 2.955182 1_555
+Zr0 Zr1 2.980456 1_445
+Ti0 Zr1 2.929271 1_555
+Ti0 Zr0 2.929271 1_555
+Ti0 Ti1 2.948117 1_545
+Ti0 Ti1 2.948117 1_546
+Ti0 Ti2 2.948117 1_655
+Ti0 Ti2 2.948117 1_656
+Ti0 Zr1 3.001087 1_545
+Ti0 Zr0 3.001087 1_655
+Ti1 Ti3 2.828723 1_555
+Ti1 Ti2 2.914315 1_555
+Ti1 Zr1 2.993119 1_555
+Ti1 Zr1 2.993119 1_554
+Ti1 Ti2 3.021323 1_665
+Ti1 Ti3 3.102359 1_655
+Ti2 Ti3 2.828723 1_555
+Ti2 Zr0 2.993119 1_554
+Ti2 Zr0 2.993119 1_555
+Ti2 Ti3 3.102359 1_545
+Ti3 Zr0 2.968407 1_564
+Ti3 Zr0 2.968407 1_565
+Ti3 Zr1 2.968407 1_455
+Ti3 Zr1 2.968407 1_454
+Al0 Ti3 2.904384 1_555
+Al0 Ti3 2.904384 1_556
+Al0 Ti2 2.913388 1_556
+Al0 Ti2 2.913388 1_555
+Al0 Ti1 2.913388 1_556
+Al0 Ti1 2.913388 1_555
+Al0 Zr1 2.959834 1_455
+Al0 Zr0 2.959834 1_565
+Al0 Ti0 2.967951 1_565
+Al0 Ti0 2.967951 1_455
+Al0 Zr0 2.970499 1_555
+Al0 Zr1 2.970499 1_555
+Al1 Ti1 2.881244 1_545
+Al1 Ti2 2.881244 1_655
+Al1 Ti0 2.904900 1_555
+Al1 Ti0 2.904900 1_554
+Al1 Zr0 2.953247 1_555
+Al1 Zr0 2.953247 1_554
+Al1 Zr1 2.953247 1_555
+Al1 Zr1 2.953247 1_554
+Al1 Ti3 2.967960 1_655
+Al1 Ti3 2.967960 1_545
+Al1 Ti1 3.051215 1_555
+Al1 Ti2 3.051215 1_555

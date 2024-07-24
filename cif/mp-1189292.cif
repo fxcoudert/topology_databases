@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_TlC4S4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78425700
+_cell_length_b   9.01674608
+_cell_length_c   9.96828730
+_cell_angle_alpha   111.25504367
+_cell_angle_beta   93.90500669
+_cell_angle_gamma   107.23214855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlC4S4N
+_chemical_formula_sum   'Tl2 C8 S8 N2'
+_cell_volume   532.13615588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.16240400  0.85707700  0.41946100  1
+  Tl  Tl1  1  0.83759600  0.14292300  0.58053900  1
+  C  C0  1  0.03785000  0.77643000  0.74553900  1
+  C  C1  1  0.96215000  0.22357000  0.25446100  1
+  C  C2  1  0.06733500  0.72907400  0.89358500  1
+  C  C3  1  0.93266500  0.27092600  0.10641500  1
+  C  C4  1  0.15337200  0.87485500  0.68777700  1
+  C  C5  1  0.84662800  0.12514500  0.31222300  1
+  C  C6  1  0.86453900  0.65198800  0.74705300  1
+  C  C7  1  0.13546100  0.34801200  0.25294700  1
+  S  S0  1  0.59071900  0.98286000  0.22526700  1
+  S  S1  1  0.40928100  0.01714000  0.77473300  1
+  S  S2  1  0.57508100  0.76602100  0.44388300  1
+  S  S3  1  0.42491900  0.23397900  0.55611700  1
+  S  S4  1  0.62681000  0.76352000  0.10747900  1
+  S  S5  1  0.37319000  0.23648000  0.89252100  1
+  S  S6  1  0.67720300  0.65261400  0.26873800  1
+  S  S7  1  0.32279700  0.34738600  0.73126200  1
+  N  N0  1  0.90373700  0.59969200  0.86712800  1
+  N  N1  1  0.09626300  0.40030800  0.13287200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 C4 1.324097 1_555
+C0 C6 1.369214 1_455
+C0 C2 1.693370 1_555
+C1 C5 1.324097 1_555
+C1 C7 1.369214 1_655
+C1 C3 1.693370 1_555
+C2 N0 1.277607 1_455
+C3 N1 1.277607 1_655
+C4 S1 1.755152 1_565
+C4 Tl0 2.626879 1_555
+C5 S0 1.755152 1_545
+C5 Tl1 2.626879 1_555
+C6 N0 1.471699 1_555
+C7 N1 1.471699 1_555
+S0 S4 1.998103 1_555
+S1 S5 1.998103 1_555
+S2 S6 1.965677 1_555
+S2 Tl1 3.050219 1_565
+S2 Tl0 3.160018 1_555
+S3 S7 1.965677 1_555
+S3 Tl0 3.050219 1_545
+S3 Tl1 3.160018 1_555
+S4 S6 2.234746 1_555
+S5 S7 2.234746 1_555
+S6 Tl0 3.195962 1_655
+S7 Tl1 3.195962 1_455

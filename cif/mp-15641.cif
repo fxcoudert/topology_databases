@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CaMgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43914125
+_cell_length_b   7.50855186
+_cell_length_c   8.33194089
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgGe
+_chemical_formula_sum   'Ca4 Mg4 Ge4'
+_cell_volume   277.71627349
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75000000  0.47961918  0.31984355  1
+  Ca  Ca1  1  0.25000000  0.52038082  0.68015645  1
+  Ca  Ca2  1  0.75000000  0.97961918  0.18015645  1
+  Ca  Ca3  1  0.25000000  0.02038082  0.81984355  1
+  Mg  Mg0  1  0.75000000  0.35780664  0.93720467  1
+  Mg  Mg1  1  0.25000000  0.64219336  0.06279533  1
+  Mg  Mg2  1  0.75000000  0.85780664  0.56279533  1
+  Mg  Mg3  1  0.25000000  0.14219336  0.43720467  1
+  Ge  Ge0  1  0.75000000  0.73012396  0.88519797  1
+  Ge  Ge1  1  0.25000000  0.26987604  0.11480203  1
+  Ge  Ge2  1  0.75000000  0.23012396  0.61480203  1
+  Ge  Ge3  1  0.25000000  0.76987604  0.38519797  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ge2 3.090164 1_555
+Ca0 Ge3 3.157978 1_655
+Ca0 Ge3 3.157978 1_555
+Ca0 Ge1 3.213302 1_655
+Ca0 Ge1 3.213302 1_555
+Ca1 Ge3 3.090164 1_555
+Ca1 Ge2 3.157978 1_555
+Ca1 Ge2 3.157978 1_455
+Ca1 Ge0 3.213302 1_555
+Ca1 Ge0 3.213302 1_455
+Ca2 Ge0 3.090164 1_554
+Ca2 Ge1 3.157978 1_565
+Ca2 Ge1 3.157978 1_665
+Ca2 Ge3 3.213302 1_655
+Ca2 Ge3 3.213302 1_555
+Ca3 Ge1 3.090164 1_556
+Ca3 Ge0 3.157978 1_545
+Ca3 Ge0 3.157978 1_445
+Ca3 Ge2 3.213302 1_455
+Ca3 Ge2 3.213302 1_555
+Ge0 Mg1 2.748091 1_556
+Ge0 Mg1 2.748091 1_656
+Ge0 Mg0 2.828947 1_555
+Ge0 Mg2 2.852194 1_555
+Ge1 Mg0 2.748091 1_554
+Ge1 Mg0 2.748091 1_454
+Ge1 Mg1 2.828947 1_555
+Ge1 Mg3 2.852194 1_555
+Ge2 Mg3 2.748091 1_655
+Ge2 Mg3 2.748091 1_555
+Ge2 Mg2 2.828947 1_545
+Ge2 Mg0 2.852194 1_555
+Ge3 Mg2 2.748091 1_455
+Ge3 Mg2 2.748091 1_555
+Ge3 Mg3 2.828947 1_565
+Ge3 Mg1 2.852194 1_555

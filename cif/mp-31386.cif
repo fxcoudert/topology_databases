@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_HoGaPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44074564
+_cell_length_b   6.90644281
+_cell_length_c   7.53378534
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaPd
+_chemical_formula_sum   'Ho4 Ga4 Pd4'
+_cell_volume   231.05935660
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.25000000  0.48330376  0.80040462  1
+  Ho  Ho1  1  0.75000000  0.51669624  0.19959538  1
+  Ho  Ho2  1  0.25000000  0.98330376  0.69959538  1
+  Ho  Ho3  1  0.75000000  0.01669624  0.30040462  1
+  Ga  Ga0  1  0.25000000  0.82130074  0.07762708  1
+  Ga  Ga1  1  0.75000000  0.17869926  0.92237292  1
+  Ga  Ga2  1  0.25000000  0.32130074  0.42237292  1
+  Ga  Ga3  1  0.75000000  0.67869926  0.57762708  1
+  Pd  Pd0  1  0.75000000  0.78358931  0.90559428  1
+  Pd  Pd1  1  0.25000000  0.21641069  0.09440572  1
+  Pd  Pd2  1  0.75000000  0.28358931  0.59440572  1
+  Pd  Pd3  1  0.25000000  0.71641069  0.40559428  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Pd1 2.881606 1_556
+Ho0 Pd2 3.039921 1_455
+Ho0 Pd2 3.039921 1_555
+Ho0 Pd0 3.139929 1_455
+Ho0 Pd0 3.139929 1_555
+Ho0 Pd3 3.382168 1_555
+Ho1 Pd0 2.881606 1_554
+Ho1 Pd3 3.039921 1_555
+Ho1 Pd3 3.039921 1_655
+Ho1 Pd1 3.139929 1_555
+Ho1 Pd1 3.139929 1_655
+Ho1 Pd2 3.382168 1_555
+Ho2 Pd3 2.881606 1_555
+Ho2 Pd0 3.039921 1_555
+Ho2 Pd0 3.039921 1_455
+Ho2 Pd2 3.139929 1_465
+Ho2 Pd2 3.139929 1_565
+Ho2 Pd1 3.382168 1_566
+Ho3 Pd2 2.881606 1_555
+Ho3 Pd1 3.039921 1_555
+Ho3 Pd1 3.039921 1_655
+Ho3 Pd3 3.139929 1_645
+Ho3 Pd3 3.139929 1_545
+Ho3 Pd0 3.382168 1_544
+Ga0 Pd3 2.574840 1_555
+Ga0 Pd0 2.584116 1_554
+Ga0 Pd0 2.584116 1_454
+Ga0 Pd1 2.731730 1_565
+Ga0 Ho2 3.059905 1_554
+Ga0 Ho3 3.093228 1_465
+Ga0 Ho3 3.093228 1_565
+Ga0 Ho0 3.132283 1_554
+Ga0 Ho1 3.193759 1_555
+Ga0 Ho1 3.193759 1_455
+Ga1 Pd2 2.574840 1_555
+Ga1 Pd1 2.584116 1_656
+Ga1 Pd1 2.584116 1_556
+Ga1 Pd0 2.731730 1_545
+Ga1 Ho3 3.059905 1_556
+Ga1 Ho2 3.093228 1_645
+Ga1 Ho2 3.093228 1_545
+Ga1 Ho1 3.132283 1_556
+Ga1 Ho0 3.193759 1_555
+Ga1 Ho0 3.193759 1_655
+Ga2 Pd1 2.574840 1_555
+Ga2 Pd2 2.584116 1_455
+Ga2 Pd2 2.584116 1_555
+Ga2 Pd3 2.731730 1_555
+Ga2 Ho0 3.059905 1_555
+Ga2 Ho1 3.093228 1_455
+Ga2 Ho1 3.093228 1_555
+Ga2 Ho2 3.132283 1_545
+Ga2 Ho3 3.193759 1_455
+Ga2 Ho3 3.193759 1_555
+Ga3 Pd0 2.574840 1_555
+Ga3 Pd3 2.584116 1_555
+Ga3 Pd3 2.584116 1_655
+Ga3 Pd2 2.731730 1_555
+Ga3 Ho1 3.059905 1_555
+Ga3 Ho0 3.093228 1_655
+Ga3 Ho0 3.093228 1_555
+Ga3 Ho3 3.132283 1_565
+Ga3 Ho2 3.193759 1_655
+Ga3 Ho2 3.193759 1_555

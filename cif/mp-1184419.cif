@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_EuAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48384821
+_cell_length_b   6.48385021
+_cell_length_c   4.78783903
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00007233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAu3
+_chemical_formula_sum   'Eu2 Au6'
+_cell_volume   174.31536442
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333300  0.66666700  0.75000000  1
+  Eu  Eu1  1  0.66666700  0.33333300  0.25000000  1
+  Au  Au0  1  0.15143086  0.30286173  0.25000000  1
+  Au  Au1  1  0.69713927  0.84856914  0.25000000  1
+  Au  Au2  1  0.15143086  0.84856914  0.25000000  1
+  Au  Au3  1  0.84856385  0.69712871  0.75000000  1
+  Au  Au4  1  0.30287129  0.15143615  0.75000000  1
+  Au  Au5  1  0.84856485  0.15143515  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 Au5 2.936502 1_454
+Au0 Au5 2.936502 1_455
+Au0 Au4 2.936503 1_555
+Au0 Au4 2.936503 1_554
+Au0 Au1 2.945558 1_445
+Au0 Au2 2.945565 1_545
+Au0 Eu0 3.147063 1_555
+Au0 Eu0 3.147063 1_554
+Au0 Eu1 3.246433 1_455
+Au0 Eu1 3.246439 1_555
+Au1 Au3 2.936500 1_555
+Au1 Au3 2.936500 1_554
+Au1 Au5 2.936502 1_565
+Au1 Au5 2.936502 1_564
+Au1 Au2 2.945558 1_655
+Au1 Eu0 3.147066 1_554
+Au1 Eu0 3.147066 1_555
+Au1 Eu1 3.246437 1_555
+Au1 Eu1 3.246438 1_565
+Au2 Au3 2.936505 1_455
+Au2 Au3 2.936505 1_454
+Au2 Au4 2.936506 1_565
+Au2 Au4 2.936506 1_564
+Au2 Eu0 3.147061 1_554
+Au2 Eu0 3.147061 1_555
+Au2 Eu1 3.246433 1_565
+Au2 Eu1 3.246433 1_455
+Au3 Au5 2.945652 1_565
+Au3 Au4 2.945658 1_665
+Au3 Eu1 3.147028 1_555
+Au3 Eu1 3.147028 1_556
+Au3 Eu0 3.246433 1_555
+Au3 Eu0 3.246434 1_655
+Au4 Au5 2.945651 1_455
+Au4 Eu1 3.147028 1_556
+Au4 Eu1 3.147028 1_555
+Au4 Eu0 3.246434 1_555
+Au4 Eu0 3.246435 1_545
+Au5 Eu1 3.147029 1_556
+Au5 Eu1 3.147029 1_555
+Au5 Eu0 3.246431 1_545
+Au5 Eu0 3.246431 1_655

@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_HfCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85494567
+_cell_length_b   6.34786613
+_cell_length_c   7.00317574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCoSi
+_chemical_formula_sum   'Hf4 Co4 Si4'
+_cell_volume   171.37246588
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.00375133  0.30510757  1
+  Hf  Hf1  1  0.25000000  0.50375133  0.19489243  1
+  Hf  Hf2  1  0.75000000  0.99624867  0.69489243  1
+  Hf  Hf3  1  0.75000000  0.49624867  0.80510757  1
+  Co  Co0  1  0.25000000  0.15091363  0.93448614  1
+  Co  Co1  1  0.25000000  0.65091363  0.56551386  1
+  Co  Co2  1  0.75000000  0.84908637  0.06551386  1
+  Co  Co3  1  0.75000000  0.34908637  0.43448614  1
+  Si  Si0  1  0.25000000  0.28304212  0.60694944  1
+  Si  Si1  1  0.25000000  0.78304212  0.89305056  1
+  Si  Si2  1  0.75000000  0.71695788  0.39305056  1
+  Si  Si3  1  0.75000000  0.21695788  0.10694944  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Si2 2.721907 1_445
+Hf0 Si2 2.721907 1_545
+Hf0 Si3 2.733619 1_455
+Hf0 Si3 2.733619 1_555
+Hf0 Si0 2.758903 1_555
+Hf1 Si3 2.721907 1_455
+Hf1 Si3 2.721907 1_555
+Hf1 Si2 2.733619 1_455
+Hf1 Si2 2.733619 1_555
+Hf1 Si1 2.758903 1_554
+Hf2 Si0 2.721907 1_565
+Hf2 Si0 2.721907 1_665
+Hf2 Si1 2.733619 1_555
+Hf2 Si1 2.733619 1_655
+Hf2 Si2 2.758903 1_555
+Hf3 Si1 2.721907 1_655
+Hf3 Si1 2.721907 1_555
+Hf3 Si0 2.733619 1_555
+Hf3 Si0 2.733619 1_655
+Hf3 Si3 2.758903 1_556
+Co0 Si3 2.312936 1_456
+Co0 Si3 2.312936 1_556
+Co0 Si1 2.353160 1_545
+Co0 Si0 2.442331 1_555
+Co0 Hf2 2.737604 1_545
+Co0 Hf2 2.737604 1_445
+Co0 Hf0 2.758519 1_556
+Co0 Hf1 2.888309 1_556
+Co0 Hf3 3.056400 1_455
+Co0 Hf3 3.056400 1_555
+Co1 Si2 2.312936 1_555
+Co1 Si2 2.312936 1_455
+Co1 Si0 2.353160 1_555
+Co1 Si1 2.442331 1_555
+Co1 Hf3 2.737604 1_455
+Co1 Hf3 2.737604 1_555
+Co1 Hf1 2.758519 1_555
+Co1 Hf0 2.888309 1_565
+Co1 Hf2 3.056400 1_555
+Co1 Hf2 3.056400 1_455
+Co2 Si1 2.312936 1_554
+Co2 Si1 2.312936 1_654
+Co2 Si3 2.353160 1_565
+Co2 Si2 2.442331 1_555
+Co2 Hf0 2.737604 1_665
+Co2 Hf0 2.737604 1_565
+Co2 Hf2 2.758519 1_554
+Co2 Hf3 2.888309 1_554
+Co2 Hf1 3.056400 1_555
+Co2 Hf1 3.056400 1_655
+Co3 Si0 2.312936 1_555
+Co3 Si0 2.312936 1_655
+Co3 Si2 2.353160 1_555
+Co3 Si3 2.442331 1_555
+Co3 Hf1 2.737604 1_555
+Co3 Hf1 2.737604 1_655
+Co3 Hf3 2.758519 1_555
+Co3 Hf2 2.888309 1_545
+Co3 Hf0 3.056400 1_655
+Co3 Hf0 3.056400 1_555

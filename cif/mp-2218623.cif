@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MgTa2(FeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85662857
+_cell_length_b   6.85662857
+_cell_length_c   7.17058571
+_cell_angle_alpha   73.17161412
+_cell_angle_beta   106.82838588
+_cell_angle_gamma   146.67354428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa2(FeO4)2
+_chemical_formula_sum   'Mg1 Ta2 Fe2 O8'
+_cell_volume   176.55347452
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.31466900  0.68533100  0.48292900  1
+  Ta  Ta0  1  0.10023900  0.89976100  0.20945600  1
+  Ta  Ta1  1  0.90274700  0.09725300  0.81087600  1
+  Fe  Fe0  1  0.18980900  0.81019100  0.79056300  1
+  Fe  Fe1  1  0.79548200  0.20451800  0.15937900  1
+  O  O0  1  0.05539500  0.94460500  0.88328700  1
+  O  O1  1  0.15502300  0.84497700  0.48398800  1
+  O  O2  1  0.38123600  0.61876400  0.78098900  1
+  O  O3  1  0.25429900  0.74570100  0.19113700  1
+  O  O4  1  0.75210200  0.24789800  0.84627100  1
+  O  O5  1  0.61537700  0.38462300  0.18694100  1
+  O  O6  1  0.86036800  0.13963200  0.52300200  1
+  O  O7  1  0.94325600  0.05674400  0.12118300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.000967 1_555
+Mg0 O2 2.050128 1_555
+Mg0 O6 2.050445 1_565
+Mg0 O6 2.050445 1_455
+Mg0 O1 2.099639 1_555
+Fe0 O0 2.066375 1_555
+Fe0 O1 2.105773 1_555
+Fe0 O4 2.120684 1_455
+Fe0 O4 2.120684 1_565
+Fe0 O2 2.536442 1_555
+Fe0 O3 2.738134 1_556
+Fe1 O7 2.040901 1_555
+Fe1 O3 2.069935 1_655
+Fe1 O3 2.069935 1_545
+Fe1 O4 2.142949 1_554
+Fe1 O5 2.433139 1_555
+Fe1 O6 2.486320 1_555
+O0 Ta1 1.913605 1_465
+O0 Ta0 2.232575 1_556
+O1 Ta0 1.880664 1_555
+O2 Ta1 1.988660 1_455
+O2 Ta1 1.988660 1_565
+O3 Ta0 2.067438 1_555
+O4 Ta1 2.069968 1_555
+O5 Ta0 1.987613 1_545
+O5 Ta0 1.987613 1_655
+O6 Ta1 1.968856 1_555
+O7 Ta0 1.965948 1_645
+O7 Ta1 2.125681 1_554

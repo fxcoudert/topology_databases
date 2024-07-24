@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Y(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42057500
+_cell_length_b   5.20857690
+_cell_length_c   9.86568747
+_cell_angle_alpha   85.40877504
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(ClO2)3
+_chemical_formula_sum   'Y2 Cl6 O12'
+_cell_volume   380.09150798
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.23752500  0.25000000  0.75000000  1
+  Y  Y1  1  0.76247500  0.75000000  0.25000000  1
+  Cl  Cl0  1  0.56817600  0.75000000  0.75000000  1
+  Cl  Cl1  1  0.43182400  0.25000000  0.25000000  1
+  Cl  Cl2  1  0.21596300  0.68911900  0.44525000  1
+  Cl  Cl3  1  0.78403700  0.31088100  0.55475000  1
+  Cl  Cl4  1  0.21596300  0.81088100  0.05475000  1
+  Cl  Cl5  1  0.78403700  0.18911900  0.94525000  1
+  O  O0  1  0.22071200  0.07887800  0.95776800  1
+  O  O1  1  0.77928800  0.92112200  0.04223200  1
+  O  O2  1  0.22071200  0.42112200  0.54223200  1
+  O  O3  1  0.77928800  0.57887800  0.45776800  1
+  O  O4  1  0.03570100  0.86542700  0.72179300  1
+  O  O5  1  0.96429900  0.13457300  0.27820700  1
+  O  O6  1  0.03570100  0.63457300  0.77820700  1
+  O  O7  1  0.96429900  0.36542700  0.22179300  1
+  O  O8  1  0.44862100  0.51972300  0.81026500  1
+  O  O9  1  0.55137900  0.48027700  0.18973500  1
+  O  O10  1  0.44862100  0.98027700  0.68973500  1
+  O  O11  1  0.55137900  0.01972300  0.31026500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 O10 1.570030 1_555
+Cl0 O8 1.570030 1_555
+Cl1 O9 1.570030 1_555
+Cl1 O11 1.570030 1_555
+Cl2 O2 1.628303 1_555
+Cl3 O3 1.628303 1_555
+Cl4 O0 1.628303 1_564
+Cl5 O1 1.628303 1_546
+O0 Y0 2.172343 1_555
+O1 Y1 2.172343 1_555
+O2 Y0 2.172343 1_555
+O3 Y1 2.172343 1_555
+O4 O6 1.283916 1_555
+O4 Y0 2.534158 1_565
+O5 O7 1.283916 1_555
+O5 Y1 2.534158 1_545
+O6 Y0 2.534158 1_555
+O7 Y1 2.534158 1_555
+O8 Y0 2.216904 1_555
+O9 Y1 2.216904 1_555
+O10 Y0 2.216904 1_565
+O11 Y1 2.216904 1_545

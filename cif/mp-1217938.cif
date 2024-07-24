@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_TaMnNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24104567
+_cell_length_b   5.24104567
+_cell_length_c   5.65004822
+_cell_angle_alpha   62.72533871
+_cell_angle_beta   62.72533871
+_cell_angle_gamma   60.35124417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnNO2
+_chemical_formula_sum   'Ta2 Mn2 N2 O4'
+_cell_volume   114.36967745
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.49746200  0.99623700  0.50937500  1
+  Ta  Ta1  1  0.99623700  0.49746200  0.00937500  1
+  Mn  Mn0  1  0.22903300  0.68824000  0.38678000  1
+  Mn  Mn1  1  0.68824000  0.22903300  0.88678000  1
+  N  N0  1  0.38550900  0.63288300  0.69235600  1
+  N  N1  1  0.63288300  0.38550900  0.19235600  1
+  O  O0  1  0.76793200  0.89859900  0.71164000  1
+  O  O1  1  0.12422900  0.27821700  0.70233900  1
+  O  O2  1  0.27821700  0.12422900  0.20233900  1
+  O  O3  1  0.89859900  0.76793200  0.21164000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N0 2.083462 1_555
+Mn0 N1 2.085181 1_555
+Mn0 O2 2.127897 1_565
+Mn0 O3 2.151527 1_455
+Mn0 O1 2.203912 1_555
+Mn0 O0 2.361768 1_455
+Mn1 N1 2.083462 1_556
+Mn1 N0 2.085181 1_555
+Mn1 O1 2.127897 1_655
+Mn1 O0 2.151527 1_545
+Mn1 O2 2.203912 1_556
+Mn1 O3 2.361768 1_546
+N0 Ta0 1.945449 1_555
+N0 Ta1 2.189213 1_456
+N1 Ta1 1.945449 1_555
+N1 Ta0 2.189213 1_545
+O0 Ta0 1.951508 1_555
+O0 Ta1 2.190015 1_556
+O1 Ta0 1.964982 1_545
+O1 Ta1 2.185765 1_456
+O2 Ta1 1.964982 1_455
+O2 Ta0 2.185765 1_545
+O3 Ta1 1.951508 1_555
+O3 Ta0 2.190015 1_555

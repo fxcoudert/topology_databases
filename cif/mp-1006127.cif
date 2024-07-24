@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Pa3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15004234
+_cell_length_b   6.15004234
+_cell_length_c   5.55707200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3Mo
+_chemical_formula_sum   'Pa6 Mo2'
+_cell_volume   182.02575911
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.82597600  0.17402400  0.75000000  1
+  Pa  Pa1  1  0.34804800  0.17402400  0.75000000  1
+  Pa  Pa2  1  0.82597600  0.65195200  0.75000000  1
+  Pa  Pa3  1  0.17402400  0.82597600  0.25000000  1
+  Pa  Pa4  1  0.65195200  0.82597600  0.25000000  1
+  Pa  Pa5  1  0.17402400  0.34804800  0.25000000  1
+  Mo  Mo0  1  0.66666700  0.33333300  0.25000000  1
+  Mo  Mo1  1  0.33333300  0.66666700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pa0 Pa2 2.939277 1_555
+Pa0 Pa1 2.939277 1_555
+Pa0 Pa1 3.210765 1_655
+Pa0 Pa2 3.210765 1_545
+Pa0 Pa4 3.340150 1_546
+Pa0 Pa4 3.340150 1_545
+Pa0 Pa5 3.340150 1_656
+Pa0 Pa5 3.340150 1_655
+Pa1 Pa2 2.939277 1_555
+Pa1 Pa2 3.210765 1_445
+Pa1 Pa3 3.340150 1_545
+Pa1 Pa3 3.340150 1_546
+Pa1 Pa5 3.340150 1_555
+Pa1 Pa5 3.340150 1_556
+Pa2 Pa3 3.340150 1_656
+Pa2 Pa3 3.340150 1_655
+Pa2 Pa4 3.340150 1_555
+Pa2 Pa4 3.340150 1_556
+Pa3 Pa4 2.939277 1_555
+Pa3 Pa5 2.939277 1_555
+Pa3 Pa5 3.210765 1_565
+Pa3 Pa4 3.210765 1_455
+Pa4 Pa5 2.939277 1_555
+Pa4 Pa5 3.210765 1_665
+Mo0 Pa5 3.076017 1_655
+Mo0 Pa4 3.076017 1_545
+Mo0 Pa3 3.076019 1_545
+Mo0 Pa3 3.076019 1_655
+Mo0 Pa5 3.076023 1_555
+Mo0 Pa4 3.076023 1_555
+Mo0 Pa0 3.255769 1_554
+Mo0 Pa0 3.255769 1_555
+Mo0 Pa2 3.255772 1_555
+Mo0 Pa1 3.255772 1_555
+Mo0 Pa1 3.255772 1_554
+Mo0 Pa2 3.255772 1_554
+Mo1 Pa1 3.076017 1_565
+Mo1 Pa2 3.076017 1_455
+Mo1 Pa0 3.076019 1_455
+Mo1 Pa0 3.076019 1_565
+Mo1 Pa1 3.076023 1_555
+Mo1 Pa2 3.076023 1_555
+Mo1 Pa3 3.255769 1_556
+Mo1 Pa3 3.255769 1_555
+Mo1 Pa5 3.255772 1_555
+Mo1 Pa5 3.255772 1_556
+Mo1 Pa4 3.255772 1_556
+Mo1 Pa4 3.255772 1_555

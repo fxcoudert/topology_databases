@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_MnGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92131068
+_cell_length_b   4.92131068
+_cell_length_c   4.92131068
+_cell_angle_alpha   104.95800314
+_cell_angle_beta   104.95800314
+_cell_angle_gamma   118.93244547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGe2
+_chemical_formula_sum   'Mn2 Ge4'
+_cell_volume   89.84926416
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.75000000  0.00000000  1
+  Mn  Mn1  1  0.25000000  0.25000000  0.00000000  1
+  Ge  Ge0  1  0.65855032  0.15855032  0.81710163  1
+  Ge  Ge1  1  0.15855032  0.34144968  0.50000000  1
+  Ge  Ge2  1  0.84144968  0.65855032  0.50000000  1
+  Ge  Ge3  1  0.34144968  0.84144968  0.18289837  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Mn1 2.500253 1_665
+Mn0 Mn1 2.500253 1_555
+Ge0 Mn0 2.579900 1_546
+Ge0 Mn1 2.579900 1_556
+Ge0 Mn1 2.579902 1_656
+Ge0 Mn0 2.579902 1_556
+Ge1 Mn1 2.579902 1_556
+Ge1 Mn0 2.579902 1_556
+Ge1 Mn0 2.579902 1_445
+Ge1 Mn1 2.579902 1_555
+Ge2 Mn1 2.579902 1_555
+Ge2 Mn0 2.579902 1_556
+Ge2 Mn1 2.579902 1_666
+Ge2 Mn0 2.579902 1_555
+Ge3 Mn0 2.579900 1_555
+Ge3 Mn1 2.579900 1_565
+Ge3 Mn1 2.579902 1_555
+Ge3 Mn0 2.579902 1_455

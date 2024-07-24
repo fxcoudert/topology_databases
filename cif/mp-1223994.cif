@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_In2AgSe3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14477689
+_cell_length_b   8.14477689
+_cell_length_c   8.14477734
+_cell_angle_alpha   60.83631863
+_cell_angle_beta   60.83631863
+_cell_angle_gamma   60.83631217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2AgSe3Br
+_chemical_formula_sum   'In4 Ag2 Se6 Br2'
+_cell_volume   389.25711009
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.00000000  0.50000000  0.00000000  1
+  In  In2  1  0.50000000  0.00000000  0.00000000  1
+  In  In3  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag0  1  0.59174000  0.59174000  0.59174000  1
+  Ag  Ag1  1  0.40826000  0.40826000  0.40826000  1
+  Se  Se0  1  0.24138000  0.78731600  0.24138000  1
+  Se  Se1  1  0.78731600  0.24138000  0.24138000  1
+  Se  Se2  1  0.24138000  0.24138000  0.78731600  1
+  Se  Se3  1  0.75862000  0.21268400  0.75862000  1
+  Se  Se4  1  0.21268400  0.75862000  0.75862000  1
+  Se  Se5  1  0.75862000  0.75862000  0.21268400  1
+  Br  Br0  1  0.25571500  0.25571500  0.25571500  1
+  Br  Br1  1  0.74428500  0.74428500  0.74428500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Se1 2.803502 1_455
+In0 Se0 2.803502 1_545
+In0 Se3 2.803502 1_454
+In0 Se4 2.803502 1_544
+In0 Se2 2.803502 1_554
+In0 Se5 2.803502 1_445
+In1 Se2 2.739308 1_554
+In1 Se5 2.739308 1_455
+In1 Se4 2.739308 1_554
+In1 Se1 2.739308 1_455
+In2 Se2 2.739308 1_554
+In2 Se5 2.739308 1_545
+In2 Se0 2.739308 1_545
+In2 Se3 2.739308 1_554
+In3 Se0 2.739308 1_545
+In3 Se4 2.739308 1_545
+In3 Se3 2.739308 1_455
+In3 Se1 2.739308 1_455
+Ag0 Se4 2.616761 1_555
+Ag0 Se3 2.616761 1_555
+Ag0 Se5 2.616761 1_555
+Ag0 Br1 3.023979 1_555
+Ag1 Se1 2.616761 1_555
+Ag1 Se0 2.616761 1_555
+Ag1 Se2 2.616761 1_555
+Ag1 Br0 3.023979 1_555
+Br0 In2 2.963878 1_555
+Br0 In1 2.963878 1_555
+Br0 In3 2.963878 1_555
+Br1 In1 2.963878 1_656
+Br1 In2 2.963878 1_566
+Br1 In3 2.963878 1_665

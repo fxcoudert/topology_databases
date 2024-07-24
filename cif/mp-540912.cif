@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_As3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37736142
+_cell_length_b   7.37736111
+_cell_length_c   7.37736139
+_cell_angle_alpha   109.47122417
+_cell_angle_beta   109.47122334
+_cell_angle_gamma   109.47121485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   As3Ir
+_chemical_formula_sum   'As12 Ir4'
+_cell_volume   309.08737581
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.49298688  0.14511912  0.34786776  1
+  As  As1  1  0.14511912  0.65213224  0.79725035  1
+  As  As2  1  0.34786776  0.20274965  0.85488188  1
+  As  As3  1  0.85488188  0.65213224  0.50701312  1
+  As  As4  1  0.65213224  0.79725035  0.14511912  1
+  As  As5  1  0.85488188  0.34786776  0.20274965  1
+  As  As6  1  0.65213224  0.50701312  0.85488188  1
+  As  As7  1  0.34786776  0.49298688  0.14511912  1
+  As  As8  1  0.14511912  0.34786776  0.49298688  1
+  As  As9  1  0.79725035  0.14511912  0.65213224  1
+  As  As10  1  0.20274965  0.85488188  0.34786776  1
+  As  As11  1  0.50701312  0.85488188  0.65213224  1
+  Ir  Ir0  1  0.50000000  0.50000000  0.50000000  1
+  Ir  Ir1  1  0.00000000  0.50000000  0.00000000  1
+  Ir  Ir2  1  0.00000000  0.00000000  0.50000000  1
+  Ir  Ir3  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Ir0 2.455351 1_555
+As0 Ir3 2.455352 1_555
+As0 As10 2.472428 1_545
+As0 As9 2.591916 1_555
+As1 Ir3 2.455351 1_566
+As1 Ir1 2.455358 1_556
+As1 As3 2.472427 1_455
+As1 As8 2.591916 1_555
+As2 Ir2 2.455355 1_555
+As2 Ir3 2.455355 1_556
+As2 As7 2.472427 1_556
+As2 As6 2.591916 1_555
+As3 Ir2 2.455351 1_665
+As3 Ir0 2.455358 1_555
+As3 As5 2.591916 1_555
+As4 Ir2 2.455351 1_665
+As4 Ir3 2.455358 1_565
+As4 As6 2.472427 1_554
+As4 As7 2.591916 1_555
+As5 Ir3 2.455355 1_555
+As5 Ir1 2.455355 1_655
+As5 As8 2.472427 1_655
+As6 Ir1 2.455351 1_656
+As6 Ir0 2.455358 1_555
+As7 Ir0 2.455352 1_555
+As7 Ir1 2.455352 1_555
+As8 Ir2 2.455352 1_555
+As8 Ir0 2.455352 1_555
+As9 Ir1 2.455351 1_656
+As9 Ir2 2.455358 1_655
+As10 Ir1 2.455355 1_555
+As10 Ir2 2.455355 1_565
+As10 As11 2.591916 1_555
+As11 Ir3 2.455351 1_566
+As11 Ir0 2.455358 1_555
+As11 As9 2.472428 1_565

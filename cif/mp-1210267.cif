@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na2ZrS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65743556
+_cell_length_b   6.65743556
+_cell_length_c   6.92211821
+_cell_angle_alpha   80.68250689
+_cell_angle_beta   80.68250689
+_cell_angle_gamma   120.04400021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZrS3
+_chemical_formula_sum   'Na4 Zr2 S6'
+_cell_volume   251.24889085
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.65851130  0.34148870  0.50000000  1
+  Na  Na1  1  0.34148870  0.65851130  0.50000000  1
+  Na  Na2  1  0.50000000  0.50000000  -0.00000000  1
+  Na  Na3  1  0.00000000  0.00000000  0.50000000  1
+  Zr  Zr0  1  0.83184274  0.16815726  -0.00000000  1
+  Zr  Zr1  1  0.16815726  0.83184274  -0.00000000  1
+  S  S0  1  0.78540674  0.78540674  0.22279992  1
+  S  S1  1  0.21459326  0.21459326  0.77720008  1
+  S  S2  1  0.42495752  0.06413416  0.22301196  1
+  S  S3  1  0.57504248  0.93586584  0.77698804  1
+  S  S4  1  0.93586584  0.57504248  0.77698804  1
+  S  S5  1  0.06413416  0.42495752  0.22301196  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S5 2.784431 1_655
+Na0 S3 2.784431 1_545
+Na0 S1 2.875500 1_555
+Na0 S0 2.875500 1_555
+Na0 S4 2.956380 1_555
+Na0 S2 2.956380 1_555
+Na1 S4 2.784431 1_455
+Na1 S2 2.784431 1_565
+Na1 S1 2.875500 1_555
+Na1 S0 2.875500 1_555
+Na1 S3 2.956380 1_555
+Na1 S5 2.956380 1_555
+Na2 S1 2.807454 1_554
+Na2 S0 2.807454 1_555
+Na2 S3 2.810863 1_554
+Na2 S4 2.810863 1_554
+Na2 S5 2.810863 1_555
+Na2 S2 2.810863 1_555
+Na3 S0 2.737783 1_445
+Na3 S1 2.737783 1_555
+Na3 S3 2.937916 1_445
+Na3 S4 2.937916 1_445
+Na3 S5 2.937916 1_555
+Na3 S2 2.937916 1_555
+S0 Zr0 2.598345 1_565
+S0 Zr1 2.598345 1_655
+S1 Zr0 2.598345 1_456
+S1 Zr1 2.598345 1_546
+S2 Zr0 2.573259 1_555
+S2 Zr1 2.584120 1_545
+S3 Zr1 2.573259 1_556
+S3 Zr0 2.584120 1_566
+S4 Zr0 2.573259 1_556
+S4 Zr1 2.584120 1_656
+S5 Zr1 2.573259 1_555
+S5 Zr0 2.584120 1_455

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_NaAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97282382
+_cell_length_b   5.97282382
+_cell_length_c   5.98051300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   143.10892251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAuO2
+_chemical_formula_sum   'Na2 Au2 O4'
+_cell_volume   128.07461803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.28738100  0.71261900  0.25000000  1
+  Na  Na1  1  0.71261900  0.28738100  0.75000000  1
+  Au  Au0  1  0.99670000  0.00330000  0.75000000  1
+  Au  Au1  1  0.00330000  0.99670000  0.25000000  1
+  O  O0  1  0.87780100  0.12219900  0.49325700  1
+  O  O1  1  0.12219900  0.87780100  0.50674300  1
+  O  O2  1  0.87780100  0.12219900  0.00674300  1
+  O  O3  1  0.12219900  0.87780100  0.99325700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.421028 1_555
+Na0 O3 2.421028 1_554
+Na0 O0 2.595716 1_455
+Na0 O2 2.595716 1_455
+Na0 O0 2.595716 1_565
+Na0 O2 2.595716 1_565
+Na1 O2 2.421028 1_556
+Na1 O0 2.421028 1_555
+Na1 O3 2.595716 1_545
+Na1 O1 2.595716 1_545
+Na1 O3 2.595716 1_655
+Na1 O1 2.595716 1_655
+Au0 O1 2.034441 1_645
+Au0 O3 2.034441 1_645
+Au0 O2 2.042790 1_556
+Au0 O0 2.042790 1_555
+Au1 O2 2.034441 1_465
+Au1 O0 2.034441 1_465
+Au1 O1 2.042790 1_555
+Au1 O3 2.042790 1_554

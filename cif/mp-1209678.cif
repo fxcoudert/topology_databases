@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_SnPt(N2Cl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59526065
+_cell_length_b   7.59526065
+_cell_length_c   12.26452100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   100.47034373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPt(N2Cl3)2
+_chemical_formula_sum   'Sn2 Pt2 N8 Cl12'
+_cell_volume   695.73472552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.50000000  0.50000000  0.00000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.50000000  1
+  N  N0  1  0.14726000  0.10256300  0.12239600  1
+  N  N1  1  0.85274000  0.89743700  0.87760400  1
+  N  N2  1  0.35274000  0.39743700  0.62239600  1
+  N  N3  1  0.39743700  0.35274000  0.37760400  1
+  N  N4  1  0.64726000  0.60256300  0.37760400  1
+  N  N5  1  0.60256300  0.64726000  0.62239600  1
+  N  N6  1  0.10256300  0.14726000  0.87760400  1
+  N  N7  1  0.89743700  0.85274000  0.12239600  1
+  Cl  Cl0  1  0.82590300  0.17409700  0.38638100  1
+  Cl  Cl1  1  0.17409700  0.82590300  0.61361900  1
+  Cl  Cl2  1  0.67409700  0.32590300  0.88638100  1
+  Cl  Cl3  1  0.32590300  0.67409700  0.11361900  1
+  Cl  Cl4  1  0.82324700  0.63113500  0.10720900  1
+  Cl  Cl5  1  0.17675300  0.36886500  0.89279100  1
+  Cl  Cl6  1  0.67675300  0.86886500  0.60720900  1
+  Cl  Cl7  1  0.86886500  0.67675300  0.39279100  1
+  Cl  Cl8  1  0.32324700  0.13113500  0.39279100  1
+  Cl  Cl9  1  0.13113500  0.32324700  0.60720900  1
+  Cl  Cl10  1  0.63113500  0.82324700  0.89279100  1
+  Cl  Cl11  1  0.36886500  0.17675300  0.10720900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+N0 Pt0 1.947957 1_555
+N1 Pt0 1.947957 1_666
+N2 Pt1 1.947957 1_555
+N3 Pt1 1.947957 1_555
+N4 Pt1 1.947957 1_555
+N5 Pt1 1.947957 1_555
+N6 Pt0 1.947957 1_556
+N7 Pt0 1.947957 1_665
+Cl0 Sn1 2.464612 1_655
+Cl1 Sn1 2.464612 1_565
+Cl2 Sn0 2.464612 1_556
+Cl3 Sn0 2.464612 1_555
+Cl4 N7 1.685375 1_555
+Cl4 Sn0 2.803547 1_555
+Cl5 N6 1.685375 1_555
+Cl5 Sn0 2.803547 1_556
+Cl6 N5 1.685375 1_555
+Cl6 Sn1 2.803547 1_665
+Cl7 N4 1.685375 1_555
+Cl7 Sn1 2.803547 1_665
+Cl8 N3 1.685375 1_555
+Cl8 Sn1 2.803547 1_555
+Cl9 N2 1.685375 1_555
+Cl9 Sn1 2.803547 1_555
+Cl10 N1 1.685375 1_555
+Cl10 Sn0 2.803547 1_556
+Cl11 N0 1.685375 1_555
+Cl11 Sn0 2.803547 1_555

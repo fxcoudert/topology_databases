@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_YbGaPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30876000
+_cell_length_b   7.14410900
+_cell_length_c   7.78500000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbGaPd
+_chemical_formula_sum   'Yb4 Ga4 Pd4'
+_cell_volume   239.63982477
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.25000000  0.98107700  0.31214400  1
+  Yb  Yb1  1  0.25000000  0.48107700  0.18785600  1
+  Yb  Yb2  1  0.75000000  0.01892300  0.68785600  1
+  Yb  Yb3  1  0.75000000  0.51892300  0.81214400  1
+  Ga  Ga0  1  0.25000000  0.33820600  0.57256600  1
+  Ga  Ga1  1  0.25000000  0.83820600  0.92743400  1
+  Ga  Ga2  1  0.75000000  0.66179400  0.42743400  1
+  Ga  Ga3  1  0.75000000  0.16179400  0.07256600  1
+  Pd  Pd0  1  0.25000000  0.21245900  0.89113100  1
+  Pd  Pd1  1  0.25000000  0.71245900  0.60886900  1
+  Pd  Pd2  1  0.75000000  0.78754100  0.10886900  1
+  Pd  Pd3  1  0.75000000  0.28754100  0.39113100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Pd3 2.601431 1_555
+Ga0 Pd3 2.601431 1_455
+Ga0 Pd0 2.637721 1_555
+Ga0 Pd1 2.688600 1_555
+Ga0 Yb3 3.128394 1_555
+Ga0 Yb3 3.128394 1_455
+Ga0 Yb1 3.164116 1_555
+Ga0 Yb0 3.258799 1_545
+Ga0 Yb2 3.263410 1_555
+Ga0 Yb2 3.263410 1_455
+Ga1 Pd2 2.601431 1_556
+Ga1 Pd2 2.601431 1_456
+Ga1 Pd1 2.637721 1_555
+Ga1 Pd0 2.688600 1_565
+Ga1 Yb2 3.128394 1_565
+Ga1 Yb2 3.128394 1_465
+Ga1 Yb0 3.164116 1_556
+Ga1 Yb1 3.258799 1_556
+Ga1 Yb3 3.263410 1_455
+Ga1 Yb3 3.263410 1_555
+Ga2 Pd1 2.601431 1_555
+Ga2 Pd1 2.601431 1_655
+Ga2 Pd2 2.637721 1_555
+Ga2 Pd3 2.688600 1_555
+Ga2 Yb1 3.128394 1_655
+Ga2 Yb1 3.128394 1_555
+Ga2 Yb3 3.164116 1_555
+Ga2 Yb2 3.258799 1_565
+Ga2 Yb0 3.263410 1_555
+Ga2 Yb0 3.263410 1_655
+Ga3 Pd0 2.601431 1_554
+Ga3 Pd0 2.601431 1_654
+Ga3 Pd3 2.637721 1_555
+Ga3 Pd2 2.688600 1_545
+Ga3 Yb0 3.128394 1_545
+Ga3 Yb0 3.128394 1_645
+Ga3 Yb2 3.164116 1_554
+Ga3 Yb3 3.258799 1_554
+Ga3 Yb1 3.263410 1_655
+Ga3 Yb1 3.263410 1_555
+Pd0 Yb1 3.003135 1_556
+Pd0 Yb2 3.009542 1_455
+Pd0 Yb2 3.009542 1_555
+Pd0 Yb3 3.132571 1_455
+Pd0 Yb3 3.132571 1_555
+Pd1 Yb0 3.003135 1_555
+Pd1 Yb3 3.009542 1_555
+Pd1 Yb3 3.009542 1_455
+Pd1 Yb2 3.132571 1_465
+Pd1 Yb2 3.132571 1_565
+Pd2 Yb3 3.003135 1_554
+Pd2 Yb0 3.009542 1_555
+Pd2 Yb0 3.009542 1_655
+Pd2 Yb1 3.132571 1_555
+Pd2 Yb1 3.132571 1_655
+Pd3 Yb2 3.003135 1_555
+Pd3 Yb1 3.009542 1_655
+Pd3 Yb1 3.009542 1_555
+Pd3 Yb0 3.132571 1_645
+Pd3 Yb0 3.132571 1_545

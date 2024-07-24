@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_Ti(FeN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24158705
+_cell_length_b   5.07103421
+_cell_length_c   7.85688377
+_cell_angle_alpha   66.70201801
+_cell_angle_beta   83.42456501
+_cell_angle_gamma   65.07020951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(FeN)4
+_chemical_formula_sum   'Ti2 Fe8 N8'
+_cell_volume   173.59566930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.78701600  0.78370200  0.78699100  1
+  Ti  Ti1  1  0.21298400  0.21629800  0.21300900  1
+  Fe  Fe0  1  0.68324800  0.63595600  0.21726100  1
+  Fe  Fe1  1  0.31675200  0.36404400  0.78273900  1
+  Fe  Fe2  1  0.76024200  0.19579700  0.02698400  1
+  Fe  Fe3  1  0.23975800  0.80420300  0.97301600  1
+  Fe  Fe4  1  0.73405400  0.47060400  0.59097500  1
+  Fe  Fe5  1  0.26594600  0.52939600  0.40902500  1
+  Fe  Fe6  1  0.27781800  0.97489800  0.61257400  1
+  Fe  Fe7  1  0.72218200  0.02510200  0.38742600  1
+  N  N0  1  0.99674700  0.66812800  0.58266900  1
+  N  N1  1  0.00325300  0.33187200  0.41733100  1
+  N  N2  1  0.88199900  0.78892600  0.02542900  1
+  N  N3  1  0.11800100  0.21107400  0.97457100  1
+  N  N4  1  0.52742000  0.57149200  0.81019300  1
+  N  N5  1  0.47258000  0.42850800  0.18980700  1
+  N  N6  1  0.46538100  0.80554100  0.39330500  1
+  N  N7  1  0.53461900  0.19445900  0.60669500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 N2 1.831801 1_555
+Fe0 N5 1.893629 1_555
+Fe0 N6 1.925626 1_555
+Fe0 N1 2.041626 1_655
+Fe1 N3 1.831801 1_555
+Fe1 N4 1.893629 1_555
+Fe1 N7 1.925626 1_555
+Fe1 N0 2.041626 1_455
+Fe2 N2 1.890125 1_545
+Fe2 N3 1.900639 1_654
+Fe2 N4 1.992306 1_554
+Fe2 N5 2.134256 1_555
+Fe3 N3 1.890125 1_565
+Fe3 N2 1.900639 1_456
+Fe3 N5 1.992306 1_556
+Fe3 N4 2.134256 1_555
+Fe4 N6 1.917799 1_555
+Fe4 N1 1.956721 1_655
+Fe4 N0 1.998473 1_555
+Fe4 N7 2.033875 1_555
+Fe4 N4 2.050379 1_555
+Fe5 N7 1.917799 1_555
+Fe5 N0 1.956721 1_455
+Fe5 N1 1.998473 1_555
+Fe5 N6 2.033875 1_555
+Fe5 N5 2.050379 1_555
+Fe6 N1 1.952958 1_565
+Fe6 N4 2.000941 1_555
+Fe6 N7 2.064492 1_565
+Fe6 N6 2.177780 1_555
+Fe7 N0 1.952958 1_545
+Fe7 N5 2.000941 1_555
+Fe7 N6 2.064492 1_545
+Fe7 N7 2.177780 1_555
+N0 Ti0 1.981418 1_555
+N1 Ti1 1.981418 1_555
+N2 Ti0 2.005517 1_554
+N3 Ti1 2.005517 1_556
+N4 Ti0 2.016231 1_555
+N5 Ti1 2.016231 1_555
+N6 Ti1 1.966646 1_565
+N7 Ti0 1.966646 1_545

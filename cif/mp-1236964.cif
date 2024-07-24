@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MgTe3(ClO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.09456172
+_cell_length_b   9.29698070
+_cell_length_c   10.90820778
+_cell_angle_alpha   82.33363093
+_cell_angle_beta   96.34345215
+_cell_angle_gamma   100.48054038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe3(ClO)6
+_chemical_formula_sum   'Mg1 Te3 Cl6 O6'
+_cell_volume   993.73463341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Te  Te0  1  -0.00000000  -0.00000000  0.50000000  1
+  Te  Te1  1  0.50000000  0.50000000  -0.00000000  1
+  Te  Te2  1  -0.00000000  0.50000000  -0.00000000  1
+  Cl  Cl0  1  0.77562318  0.96624540  0.57717933  1
+  Cl  Cl1  1  0.22437682  0.03375460  0.42282067  1
+  Cl  Cl2  1  0.49664418  0.70348284  0.83085980  1
+  Cl  Cl3  1  0.50335582  0.29651716  0.16914020  1
+  Cl  Cl4  1  0.90444118  0.28946625  0.86509218  1
+  Cl  Cl5  1  0.09555882  0.71053375  0.13490782  1
+  O  O0  1  0.99973932  0.16625908  0.86462187  1
+  O  O1  1  0.00026068  0.83374092  0.13537813  1
+  O  O2  1  0.85184836  0.85972092  0.88503453  1
+  O  O3  1  0.14815164  0.14027908  0.11496547  1
+  O  O4  1  0.78487736  0.91951846  0.95366087  1
+  O  O5  1  0.21512264  0.08048154  0.04633913  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 1.990367 1_454
+Mg0 O1 1.990367 1_545
+Mg0 O5 2.190502 1_555
+Mg0 O4 2.190502 1_444
+Mg0 O2 2.196021 1_444
+Mg0 O3 2.196021 1_555
+Cl0 Te0 2.455547 1_665
+Cl1 Te0 2.455547 1_555
+Cl2 Te1 2.462173 1_556
+Cl3 Te1 2.462173 1_555
+Cl4 O0 1.625135 1_555
+Cl4 Te2 2.587506 1_656
+Cl5 O1 1.625135 1_555
+Cl5 Te2 2.587506 1_555
+O2 O4 1.298494 1_555
+O3 O5 1.298494 1_555

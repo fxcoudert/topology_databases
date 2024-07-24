@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_TeMo6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38739282
+_cell_length_b   7.38739282
+_cell_length_c   6.21650900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   130.46891002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeMo6
+_chemical_formula_sum   'Te2 Mo12'
+_cell_volume   258.09264484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.50000000  0.50000000  0.50000000  1
+  Te  Te1  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.75469500  0.24530500  0.50000000  1
+  Mo  Mo1  1  0.74530500  0.25469500  0.00000000  1
+  Mo  Mo2  1  0.24530500  0.75469500  0.50000000  1
+  Mo  Mo3  1  0.25469500  0.74530500  0.00000000  1
+  Mo  Mo4  1  0.38310200  0.11477000  0.24971900  1
+  Mo  Mo5  1  0.11689800  0.38523000  0.74971900  1
+  Mo  Mo6  1  0.88523000  0.61689800  0.75028100  1
+  Mo  Mo7  1  0.61477000  0.88310200  0.25028100  1
+  Mo  Mo8  1  0.61689800  0.88523000  0.75028100  1
+  Mo  Mo9  1  0.88310200  0.61477000  0.25028100  1
+  Mo  Mo10  1  0.11477000  0.38310200  0.24971900  1
+  Mo  Mo11  1  0.38523000  0.11689800  0.74971900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 Mo8 2.649107 1_545
+Mo0 Mo10 2.649107 1_655
+Mo0 Mo5 2.654744 1_655
+Mo0 Mo7 2.654744 1_545
+Mo0 Mo11 2.720008 1_555
+Mo0 Mo9 2.720008 1_555
+Mo0 Mo6 2.729480 1_555
+Mo0 Mo4 2.729480 1_555
+Mo1 Mo9 2.649107 1_555
+Mo1 Mo11 2.649107 1_554
+Mo1 Mo6 2.654744 1_554
+Mo1 Mo4 2.654744 1_555
+Mo1 Mo10 2.720008 1_655
+Mo1 Mo8 2.720008 1_544
+Mo1 Mo7 2.729480 1_545
+Mo1 Mo5 2.729480 1_654
+Mo2 Mo6 2.649107 1_455
+Mo2 Mo4 2.649107 1_565
+Mo2 Mo9 2.654744 1_455
+Mo2 Mo5 2.720008 1_555
+Mo2 Mo7 2.720008 1_555
+Mo2 Mo8 2.729480 1_555
+Mo3 Mo5 2.649107 1_554
+Mo3 Mo7 2.649107 1_555
+Mo3 Mo8 2.654744 1_554
+Mo3 Mo4 2.720008 1_565
+Mo3 Mo6 2.720008 1_454
+Mo3 Mo9 2.729480 1_455
+Mo4 Te1 2.832594 1_555
+Mo4 Te0 2.841691 1_555
+Mo5 Te0 2.832594 1_555
+Mo5 Te1 2.841691 1_556
+Mo6 Te1 2.832594 1_666
+Mo6 Te0 2.841691 1_555
+Mo7 Te0 2.832594 1_555
+Mo7 Te1 2.841691 1_665
+Mo8 Te1 2.832594 1_666
+Mo8 Te0 2.841691 1_555
+Mo9 Te0 2.832594 1_555
+Mo9 Te1 2.841691 1_665
+Mo10 Mo3 2.654744 1_555
+Mo10 Mo2 2.729480 1_555
+Mo10 Te1 2.832594 1_555
+Mo10 Te0 2.841691 1_555
+Mo11 Mo2 2.654744 1_545
+Mo11 Mo3 2.729480 1_546
+Mo11 Te0 2.832594 1_555
+Mo11 Te1 2.841691 1_556

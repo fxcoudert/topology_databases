@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_GaFeAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34644800
+_cell_length_b   6.81194400
+_cell_length_c   7.86829100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaFeAs2
+_chemical_formula_sum   'Ga4 Fe4 As8'
+_cell_volume   340.15918982
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00740100  0.58285600  0.37413500  1
+  Ga  Ga1  1  0.50740100  0.41714400  0.62586500  1
+  Ga  Ga2  1  0.50740100  0.91714400  0.87413500  1
+  Ga  Ga3  1  0.00740100  0.08285600  0.12586500  1
+  Fe  Fe0  1  0.00120900  0.58380000  0.87714100  1
+  Fe  Fe1  1  0.50120900  0.91620000  0.37714100  1
+  Fe  Fe2  1  0.00120900  0.08380000  0.62285900  1
+  Fe  Fe3  1  0.50120900  0.41620000  0.12285900  1
+  As  As0  1  0.40686700  0.09518800  0.14557200  1
+  As  As1  1  0.40686700  0.59518800  0.35442800  1
+  As  As2  1  0.90686700  0.90481200  0.85442800  1
+  As  As3  1  0.90686700  0.40481200  0.64557200  1
+  As  As4  1  0.85772300  0.42885000  0.10611200  1
+  As  As5  1  0.35772300  0.57115000  0.89388800  1
+  As  As6  1  0.35772300  0.07115000  0.60611200  1
+  As  As7  1  0.85772300  0.92885000  0.39388800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Fe1 2.272652 1_545
+As0 Fe3 2.274236 1_555
+As0 Ga2 2.537605 1_544
+As0 Ga3 2.541317 1_555
+As1 Fe3 2.272652 1_555
+As1 Fe1 2.274236 1_555
+As1 Ga1 2.537605 1_555
+As1 Ga0 2.541317 1_555
+As2 Fe2 2.272652 1_665
+As2 Fe0 2.274236 1_655
+As2 Ga3 2.537605 1_666
+As2 Ga2 2.541317 1_555
+As3 Fe0 2.272652 1_655
+As3 Fe2 2.274236 1_655
+As3 Ga0 2.537605 1_655
+As3 Ga1 2.541317 1_555
+As4 Fe3 2.268069 1_555
+As4 Fe0 2.277969 1_654
+As4 Ga0 2.539746 1_655
+As4 Ga3 2.545869 1_655
+As5 Fe0 2.268069 1_555
+As5 Fe3 2.277969 1_556
+As5 Ga1 2.539746 1_555
+As5 Ga2 2.545869 1_555
+As6 Fe2 2.268069 1_555
+As6 Fe1 2.277969 1_545
+As6 Ga2 2.539746 1_545
+As6 Ga1 2.545869 1_555
+As7 Fe1 2.268069 1_555
+As7 Fe2 2.277969 1_665
+As7 Ga3 2.539746 1_665
+As7 Ga0 2.545869 1_655

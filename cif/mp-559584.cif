@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiCaNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14801408
+_cell_length_b   5.14801408
+_cell_length_c   9.87019300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaNiF6
+_chemical_formula_sum   'Li2 Ca2 Ni2 F12'
+_cell_volume   226.53521591
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.25000000  1
+  Li  Li1  1  0.66666700  0.33333300  0.75000000  1
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni0  1  0.33333300  0.66666700  0.75000000  1
+  Ni  Ni1  1  0.66666700  0.33333300  0.25000000  1
+  F  F0  1  0.36676800  0.01890600  0.14031700  1
+  F  F1  1  0.63323200  0.65213800  0.64031700  1
+  F  F2  1  0.34786200  0.98109400  0.64031700  1
+  F  F3  1  0.01890600  0.36676800  0.64031700  1
+  F  F4  1  0.98109400  0.63323200  0.35968300  1
+  F  F5  1  0.98109400  0.34786200  0.14031700  1
+  F  F6  1  0.65213800  0.63323200  0.14031700  1
+  F  F7  1  0.65213800  0.01890600  0.35968300  1
+  F  F8  1  0.01890600  0.65213800  0.85968300  1
+  F  F9  1  0.36676800  0.34786200  0.35968300  1
+  F  F10  1  0.63323200  0.98109400  0.85968300  1
+  F  F11  1  0.34786200  0.36676800  0.85968300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F6 2.304090 1_445
+Ca0 F11 2.304090 1_554
+Ca0 F0 2.304090 1_555
+Ca0 F10 2.304090 1_444
+Ca0 F5 2.304090 1_455
+Ca0 F8 2.304090 1_544
+Ca1 F1 2.304090 1_445
+Ca1 F9 2.304090 1_555
+Ca1 F4 2.304090 1_445
+Ca1 F3 2.304090 1_555
+Ca1 F2 2.304090 1_545
+Ca1 F7 2.304090 1_455
+F0 Ni1 1.917458 1_555
+F0 Li0 2.043939 1_545
+F1 Ni0 1.917461 1_555
+F1 Li1 2.043943 1_555
+F2 Ni0 1.917456 1_555
+F2 Li1 2.043941 1_565
+F3 Ni0 1.917458 1_555
+F3 Li1 2.043939 1_455
+F4 Ni1 1.917458 1_555
+F4 Li0 2.043939 1_655
+F5 Ni1 1.917456 1_555
+F5 Li0 2.043941 1_655
+F6 Ni1 1.917461 1_555
+F6 Li0 2.043943 1_555
+F7 Ni1 1.917456 1_555
+F7 Li0 2.043941 1_545
+F8 Ni0 1.917456 1_555
+F8 Li1 2.043941 1_455
+F9 Ni1 1.917461 1_555
+F9 Li0 2.043943 1_555
+F10 Ni0 1.917458 1_555
+F10 Li1 2.043939 1_565
+F11 Ni0 1.917461 1_555
+F11 Li1 2.043943 1_555

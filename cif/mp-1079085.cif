@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LuInPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62258804
+_cell_length_b   7.62258804
+_cell_length_c   3.70943057
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuInPd
+_chemical_formula_sum   'Lu3 In3 Pd3'
+_cell_volume   186.65635819
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  1.00000000  0.40600151  0.50000000  1
+  Lu  Lu1  1  0.59399849  0.59399849  0.50000000  1
+  Lu  Lu2  1  0.40600151  1.00000000  0.50000000  1
+  In  In0  1  1.00000000  0.73631896  0.00000000  1
+  In  In1  1  0.26368104  0.26368104  -0.00000000  1
+  In  In2  1  0.73631896  1.00000000  0.00000000  1
+  Pd  Pd0  1  0.33333300  0.66666700  -0.00000000  1
+  Pd  Pd1  1  0.66666700  0.33333300  0.00000000  1
+  Pd  Pd2  1  -0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pd1 2.965692 1_555
+Lu0 Pd1 2.965692 1_556
+Lu0 Pd0 2.965694 1_655
+Lu0 Pd0 2.965694 1_656
+Lu0 Pd2 3.094782 1_655
+Lu1 Pd0 2.965698 1_556
+Lu1 Pd1 2.965698 1_556
+Lu1 Pd1 2.965698 1_555
+Lu1 Pd0 2.965698 1_555
+Lu1 Pd2 3.094782 1_665
+Lu2 Pd0 2.965692 1_555
+Lu2 Pd0 2.965692 1_556
+Lu2 Pd1 2.965694 1_565
+Lu2 Pd1 2.965694 1_566
+Lu2 Pd2 3.094782 1_565
+In0 Pd2 2.734921 1_664
+In0 Pd2 2.734921 1_665
+In0 Pd0 2.843742 1_655
+In0 Pd1 2.843747 1_555
+In0 Lu0 3.127244 1_554
+In0 Lu0 3.127244 1_555
+In0 Lu1 3.291986 1_554
+In0 Lu1 3.291986 1_555
+In0 Lu2 3.291986 1_655
+In0 Lu2 3.291986 1_654
+In1 Pd2 2.734921 1_555
+In1 Pd2 2.734921 1_554
+In1 Pd1 2.843750 1_555
+In1 Pd0 2.843750 1_555
+In1 Lu1 3.127244 1_555
+In1 Lu1 3.127244 1_554
+In1 Lu2 3.291986 1_544
+In1 Lu0 3.291986 1_455
+In1 Lu0 3.291986 1_454
+In1 Lu2 3.291986 1_545
+In2 Pd2 2.734921 1_665
+In2 Pd2 2.734921 1_664
+In2 Pd1 2.843742 1_565
+In2 Pd0 2.843747 1_555
+In2 Lu2 3.127244 1_555
+In2 Lu2 3.127244 1_554
+In2 Lu1 3.291986 1_555
+In2 Lu1 3.291986 1_554
+In2 Lu0 3.291986 1_565
+In2 Lu0 3.291986 1_564

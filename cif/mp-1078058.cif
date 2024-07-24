@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78083522
+_cell_length_b   6.78083522
+_cell_length_c   6.14926418
+_cell_angle_alpha   62.59615125
+_cell_angle_beta   62.59615125
+_cell_angle_gamma   29.65039865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(CrS2)2
+_chemical_formula_sum   'Ti1 Cr2 S4'
+_cell_volume   123.00334859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  -0.00000000  1
+  Cr  Cr0  1  0.73607611  0.73607611  0.24964579  1
+  Cr  Cr1  1  0.26392389  0.26392389  0.75035421  1
+  S  S0  1  0.63508678  0.63508678  0.70487916  1
+  S  S1  1  0.36491322  0.36491322  0.29512084  1
+  S  S2  1  0.87075597  0.87075597  0.81108479  1
+  S  S3  1  0.12924403  0.12924403  0.18891521  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 S3 2.368431 1_565
+Cr0 S3 2.368431 1_655
+Cr0 S2 2.419979 1_554
+Cr0 S0 2.461726 1_555
+Cr0 S1 2.528092 1_565
+Cr0 S1 2.528092 1_655
+Cr1 S2 2.368431 1_455
+Cr1 S2 2.368431 1_545
+Cr1 S3 2.419979 1_556
+Cr1 S1 2.461726 1_555
+Cr1 S0 2.528092 1_545
+Cr1 S0 2.528092 1_455
+S0 Ti0 2.525822 1_656
+S0 Ti0 2.525822 1_566
+S1 Ti0 2.525822 1_565
+S1 Ti0 2.525822 1_655
+S2 Ti0 2.468786 1_666
+S3 Ti0 2.468786 1_555

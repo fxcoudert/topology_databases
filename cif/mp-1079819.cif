@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_LuAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77774489
+_cell_length_b   6.77774489
+_cell_length_c   3.83606144
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAlNi
+_chemical_formula_sum   'Lu3 Al3 Ni3'
+_cell_volume   152.61127620
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  -0.00000000  0.41557486  0.50000000  1
+  Lu  Lu1  1  0.58442514  0.58442514  0.50000000  1
+  Lu  Lu2  1  0.41557486  -0.00000000  0.50000000  1
+  Al  Al0  1  0.00000000  0.76284867  -0.00000000  1
+  Al  Al1  1  0.23715133  0.23715133  0.00000000  1
+  Al  Al2  1  0.76284867  0.00000000  0.00000000  1
+  Ni  Ni0  1  0.33333300  0.66666700  0.00000000  1
+  Ni  Ni1  1  0.66666700  0.33333300  0.00000000  1
+  Ni  Ni2  1  0.00000000  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Ni1 2.799001 1_456
+Lu0 Ni1 2.799001 1_455
+Lu0 Ni0 2.799003 1_556
+Lu0 Ni0 2.799003 1_555
+Lu0 Ni2 2.816660 1_555
+Lu1 Ni1 2.799006 1_556
+Lu1 Ni0 2.799006 1_556
+Lu1 Ni0 2.799006 1_555
+Lu1 Ni1 2.799006 1_555
+Lu1 Ni2 2.816660 1_665
+Lu2 Ni0 2.799001 1_546
+Lu2 Ni0 2.799001 1_545
+Lu2 Ni1 2.799003 1_555
+Lu2 Ni1 2.799003 1_556
+Lu2 Ni2 2.816660 1_555
+Al0 Ni2 2.502483 1_565
+Al0 Ni2 2.502483 1_564
+Al0 Ni0 2.646120 1_555
+Al0 Ni1 2.646124 1_455
+Al0 Al2 2.784014 1_465
+Al0 Al1 2.784014 1_565
+Al0 Lu0 3.036265 1_554
+Al0 Lu0 3.036265 1_555
+Al0 Lu1 3.109443 1_455
+Al0 Lu1 3.109443 1_454
+Al0 Lu2 3.109443 1_565
+Al0 Lu2 3.109443 1_564
+Al1 Ni2 2.502483 1_555
+Al1 Ni2 2.502483 1_554
+Al1 Ni0 2.646126 1_555
+Al1 Ni1 2.646126 1_555
+Al1 Al2 2.784014 1_455
+Al1 Lu1 3.036265 1_554
+Al1 Lu1 3.036265 1_555
+Al1 Lu0 3.109443 1_554
+Al1 Lu2 3.109443 1_555
+Al1 Lu2 3.109443 1_554
+Al1 Lu0 3.109443 1_555
+Al2 Ni2 2.502483 1_654
+Al2 Ni2 2.502483 1_655
+Al2 Ni1 2.646120 1_555
+Al2 Ni0 2.646124 1_545
+Al2 Lu2 3.036265 1_555
+Al2 Lu2 3.036265 1_554
+Al2 Lu1 3.109443 1_545
+Al2 Lu1 3.109443 1_544
+Al2 Lu0 3.109443 1_655
+Al2 Lu0 3.109443 1_654

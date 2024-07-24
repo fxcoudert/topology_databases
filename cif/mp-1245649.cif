@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_KPdN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.60840100
+_cell_length_b   3.74924700
+_cell_length_c   6.46000100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPdN
+_chemical_formula_sum   'K4 Pd4 N4'
+_cell_volume   256.93695070
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66060200  0.25000000  0.08693200  1
+  K  K1  1  0.16060200  0.25000000  0.41306800  1
+  K  K2  1  0.33939800  0.75000000  0.91306800  1
+  K  K3  1  0.83939800  0.75000000  0.58693200  1
+  Pd  Pd0  1  0.55411900  0.25000000  0.61298700  1
+  Pd  Pd1  1  0.05411900  0.25000000  0.88701300  1
+  Pd  Pd2  1  0.44588100  0.75000000  0.38701300  1
+  Pd  Pd3  1  0.94588100  0.75000000  0.11298700  1
+  N  N0  1  0.92374700  0.25000000  0.19651000  1
+  N  N1  1  0.42374700  0.25000000  0.30349000  1
+  N  N2  1  0.07625300  0.75000000  0.80349000  1
+  N  N3  1  0.57625300  0.75000000  0.69651000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N1 2.875852 1_555
+K0 N0 2.879900 1_555
+K0 N3 3.267417 1_544
+K0 N3 3.267417 1_554
+K1 N0 2.875852 1_455
+K1 N1 2.879900 1_555
+K1 N2 3.267417 1_555
+K1 N2 3.267417 1_545
+K2 N3 2.875852 1_555
+K2 N2 2.879900 1_555
+K2 N1 3.267417 1_566
+K2 N1 3.267417 1_556
+K3 N2 2.875852 1_655
+K3 N3 2.879900 1_555
+K3 N0 3.267417 1_555
+K3 N0 3.267417 1_565
+N0 Pd3 1.964808 1_555
+N0 Pd3 1.964808 1_545
+N0 Pd1 2.431090 1_654
+N1 Pd2 1.964808 1_545
+N1 Pd2 1.964808 1_555
+N1 Pd0 2.431090 1_555
+N2 Pd1 1.964808 1_555
+N2 Pd1 1.964808 1_565
+N2 Pd3 2.431090 1_456
+N3 Pd0 1.964808 1_565
+N3 Pd0 1.964808 1_555
+N3 Pd2 2.431090 1_555

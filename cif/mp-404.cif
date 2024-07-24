@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_MnTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17065013
+_cell_length_b   6.75345133
+_cell_length_c   7.23689257
+_cell_angle_alpha   89.99992610
+_cell_angle_beta   90.00000059
+_cell_angle_gamma   89.99999916
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTe
+_chemical_formula_sum   'Mn4 Te4'
+_cell_volume   203.83636176
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000013  -0.00023303  0.74785505  1
+  Mn  Mn1  1  0.25000021  0.49977506  0.75214282  1
+  Mn  Mn2  1  0.75000020  0.00024481  0.25214185  1
+  Mn  Mn3  1  0.75000012  0.50024464  0.24785357  1
+  Te  Te0  1  0.24999980  0.25140783  0.41656662  1
+  Te  Te1  1  0.24999986  0.75138603  0.08342940  1
+  Te  Te2  1  0.74999984  0.74859112  0.58346600  1
+  Te  Te3  1  0.74999984  0.24858354  0.91654570  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Te0 2.938724 1_555
+Mn0 Te2 2.939614 1_545
+Mn0 Te2 2.939616 1_445
+Mn0 Te3 2.943224 1_555
+Mn0 Te3 2.943226 1_455
+Mn0 Te1 2.951516 1_546
+Mn1 Te1 2.938600 1_556
+Mn1 Te3 2.939714 1_555
+Mn1 Te3 2.939716 1_455
+Mn1 Te2 2.943179 1_555
+Mn1 Te2 2.943181 1_455
+Mn1 Te0 2.951477 1_555
+Mn2 Te2 2.938985 1_545
+Mn2 Te0 2.939669 1_655
+Mn2 Te0 2.939671 1_555
+Mn2 Te1 2.943452 1_645
+Mn2 Te1 2.943454 1_545
+Mn2 Te3 2.951483 1_554
+Mn3 Te3 2.938922 1_554
+Mn3 Te1 2.939581 1_655
+Mn3 Te1 2.939583 1_555
+Mn3 Te0 2.943368 1_655
+Mn3 Te0 2.943370 1_555
+Mn3 Te2 2.951614 1_555

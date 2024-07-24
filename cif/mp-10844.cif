@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Te2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54262500
+_cell_length_b   6.54262500
+_cell_length_c   6.54262500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2Ir
+_chemical_formula_sum   'Te8 Ir4'
+_cell_volume   280.06322556
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.36701400  0.13298600  0.86701400  1
+  Te  Te1  1  0.13298600  0.86701400  0.36701400  1
+  Te  Te2  1  0.86701400  0.36701400  0.13298600  1
+  Te  Te3  1  0.63298600  0.63298600  0.63298600  1
+  Te  Te4  1  0.36701400  0.36701400  0.36701400  1
+  Te  Te5  1  0.13298600  0.63298600  0.86701400  1
+  Te  Te6  1  0.86701400  0.13298600  0.63298600  1
+  Te  Te7  1  0.63298600  0.86701400  0.13298600  1
+  Ir  Ir0  1  0.00000000  0.50000000  0.50000000  1
+  Ir  Ir1  1  0.50000000  0.50000000  0.00000000  1
+  Ir  Ir2  1  0.50000000  0.00000000  0.50000000  1
+  Ir  Ir3  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 Te7 3.014037 1_546
+Te1 Te6 3.014037 1_465
+Te2 Te5 3.014037 1_654
+Te3 Te4 3.014037 1_555
+Ir0 Te3 2.698147 1_455
+Ir0 Te4 2.698147 1_555
+Ir0 Te1 2.698147 1_555
+Ir0 Te5 2.698147 1_555
+Ir0 Te2 2.698147 1_455
+Ir0 Te6 2.698147 1_455
+Ir1 Te7 2.698147 1_555
+Ir1 Te4 2.698147 1_555
+Ir1 Te3 2.698147 1_554
+Ir1 Te2 2.698147 1_555
+Ir1 Te0 2.698147 1_554
+Ir1 Te5 2.698147 1_554
+Ir2 Te0 2.698147 1_555
+Ir2 Te6 2.698147 1_555
+Ir2 Te3 2.698147 1_545
+Ir2 Te4 2.698147 1_555
+Ir2 Te1 2.698147 1_545
+Ir2 Te7 2.698147 1_545
+Ir3 Te6 2.698147 1_454
+Ir3 Te7 2.698147 1_445
+Ir3 Te5 2.698147 1_544
+Ir3 Te1 2.698147 1_545
+Ir3 Te2 2.698147 1_455
+Ir3 Te0 2.698147 1_554

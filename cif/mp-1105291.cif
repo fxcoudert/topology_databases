@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li2MnSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44093148
+_cell_length_b   6.82269206
+_cell_length_c   7.97531014
+_cell_angle_alpha   89.99997822
+_cell_angle_beta   90.20685304
+_cell_angle_gamma   90.00001773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnSnS4
+_chemical_formula_sum   'Li4 Mn2 Sn2 S8'
+_cell_volume   350.46866886
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.60888731  0.33751841  0.77163483  1
+  Li  Li1  1  0.10888867  0.66248165  0.27163481  1
+  Li  Li2  1  0.60576132  0.83246440  0.52235053  1
+  Li  Li3  1  0.10576196  0.16753625  0.02235184  1
+  Mn  Mn0  1  0.10699542  0.17173036  0.52499944  1
+  Mn  Mn1  1  0.60699603  0.82826905  0.02499995  1
+  Sn  Sn0  1  0.10623680  0.67020582  0.77238563  1
+  Sn  Sn1  1  0.60623678  0.32979436  0.27238535  1
+  S  S0  1  0.22939346  0.33824851  0.77269653  1
+  S  S1  1  0.72939387  0.66175175  0.27269656  1
+  S  S2  1  0.22761438  0.83689650  0.52568940  1
+  S  S3  1  0.72761462  0.16310375  0.02568924  1
+  S  S4  1  0.23295632  0.83192206  0.02018390  1
+  S  S5  1  0.73295614  0.16807806  0.52018392  1
+  S  S6  1  0.73212483  0.67545076  0.77495709  1
+  S  S7  1  0.23212507  0.32454930  0.27495698  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S6 2.438533 1_555
+Li0 S0 2.444344 1_555
+Li0 S5 2.451166 1_555
+Li0 S3 2.468802 1_556
+Li1 S7 2.438531 1_555
+Li1 S1 2.444350 1_455
+Li1 S4 2.451163 1_555
+Li1 S2 2.468801 1_555
+Li2 S6 2.420094 1_555
+Li2 S5 2.432017 1_565
+Li2 S2 2.436048 1_555
+Li2 S1 2.442638 1_555
+Li3 S7 2.420083 1_555
+Li3 S4 2.432020 1_545
+Li3 S3 2.436050 1_455
+Li3 S0 2.442643 1_554
+Mn0 S7 2.392687 1_555
+Mn0 S0 2.409033 1_555
+Mn0 S5 2.409458 1_455
+Mn0 S2 2.412958 1_545
+Mn1 S6 2.392687 1_554
+Mn1 S1 2.409026 1_555
+Mn1 S4 2.409461 1_555
+Mn1 S3 2.412962 1_565
+S0 Sn0 2.399737 1_555
+S1 Sn1 2.399738 1_555
+S2 Sn0 2.405550 1_555
+S3 Sn1 2.405550 1_555
+S4 Sn0 2.403647 1_554
+S5 Sn1 2.403648 1_555
+S6 Sn0 2.410057 1_655
+S7 Sn1 2.410055 1_555

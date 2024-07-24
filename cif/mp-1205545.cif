@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_HoRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80124694
+_cell_length_b   5.80124694
+_cell_length_c   7.30206200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.33307067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoRe2SiC
+_chemical_formula_sum   'Ho2 Re4 Si2 C2'
+_cell_volume   156.86611336
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.54338000  0.45662000  0.25000000  1
+  Ho  Ho1  1  0.45662000  0.54338000  0.75000000  1
+  Re  Re0  1  0.82615800  0.17384200  0.06078600  1
+  Re  Re1  1  0.17384200  0.82615800  0.93921400  1
+  Re  Re2  1  0.17384200  0.82615800  0.56078600  1
+  Re  Re3  1  0.82615800  0.17384200  0.43921400  1
+  Si  Si0  1  0.26535200  0.73464800  0.25000000  1
+  Si  Si1  1  0.73464800  0.26535200  0.75000000  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+  C  C1  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ho0 Si0 3.034472 1_555
+Ho0 Si0 3.121451 1_545
+Ho0 Si0 3.121451 1_655
+Ho1 Si1 3.034472 1_555
+Ho1 Si1 3.121451 1_455
+Ho1 Si1 3.121451 1_565
+Re0 Si1 2.479437 1_554
+Re0 Si0 2.494707 1_655
+Re0 Si0 2.494707 1_545
+Re1 Si0 2.479437 1_556
+Re1 Si1 2.494707 1_565
+Re1 Si1 2.494707 1_455
+Re2 Si0 2.479437 1_555
+Re2 Si1 2.494707 1_565
+Re2 Si1 2.494707 1_455
+Re3 Si1 2.479437 1_555
+Re3 Si0 2.494707 1_655
+Re3 Si0 2.494707 1_545
+C0 Re1 1.948584 1_544
+C0 Re0 1.948584 1_455
+C0 Ho1 2.725956 1_444
+C0 Ho0 2.725956 1_555
+C0 Ho1 2.725956 1_554
+C0 Ho0 2.725956 1_445
+C1 Re3 1.948584 1_455
+C1 Re2 1.948584 1_545
+C1 Ho0 2.725956 1_555
+C1 Ho1 2.725956 1_445
+C1 Ho1 2.725956 1_555
+C1 Ho0 2.725956 1_445

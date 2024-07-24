@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Y(MnS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44823409
+_cell_length_b   7.44823409
+_cell_length_c   7.27563793
+_cell_angle_alpha   61.01121100
+_cell_angle_beta   61.01121100
+_cell_angle_gamma   62.53171772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(MnS2)2
+_chemical_formula_sum   'Y2 Mn4 S8'
+_cell_volume   294.99630250
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.50000000  0.00000000  1
+  Y  Y1  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.50000000  1
+  S  S0  1  0.69922500  0.28285900  0.25352800  1
+  S  S1  1  0.26176100  0.26176100  0.72682700  1
+  S  S2  1  0.28285900  0.69922500  0.25352800  1
+  S  S3  1  0.76053400  0.76053400  0.73052900  1
+  S  S4  1  0.71714100  0.30077500  0.74647200  1
+  S  S5  1  0.73823900  0.73823900  0.27317300  1
+  S  S6  1  0.23946600  0.23946600  0.26947100  1
+  S  S7  1  0.30077500  0.71714100  0.74647200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 S0 2.459942 1_555
+Mn0 S2 2.459942 1_555
+Mn0 S7 2.459942 1_555
+Mn0 S4 2.459942 1_555
+Mn0 S5 2.499758 1_555
+Mn0 S1 2.499758 1_555
+Mn1 S4 2.549328 1_455
+Mn1 S2 2.549328 1_555
+Mn1 S1 2.600408 1_555
+Mn1 S5 2.600408 1_455
+Mn1 S6 2.611929 1_555
+Mn1 S3 2.611929 1_455
+Mn2 S0 2.401571 1_555
+Mn2 S7 2.401571 1_554
+Mn2 S4 2.401571 1_554
+Mn2 S2 2.401571 1_555
+Mn2 S6 2.733792 1_555
+Mn2 S3 2.733792 1_554
+Mn3 S7 2.549328 1_545
+Mn3 S0 2.549328 1_555
+Mn3 S5 2.600408 1_545
+Mn3 S1 2.600408 1_555
+Mn3 S6 2.611929 1_555
+Mn3 S3 2.611929 1_545
+S0 Y0 2.735389 1_655
+S1 Y1 2.714964 1_556
+S1 Y0 2.714964 1_556
+S2 Y1 2.735389 1_565
+S3 Y0 2.701770 1_656
+S3 Y1 2.701770 1_566
+S4 Y1 2.735389 1_556
+S5 Y1 2.714964 1_565
+S5 Y0 2.714964 1_655
+S6 Y1 2.701770 1_555
+S6 Y0 2.701770 1_555
+S7 Y0 2.735389 1_556

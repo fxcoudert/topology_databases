@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_TbIn2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64920572
+_cell_length_b   5.64920572
+_cell_length_c   7.29381533
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.84890881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbIn2Ni
+_chemical_formula_sum   'Tb2 In4 Ni2'
+_cell_volume   165.02767533
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.56862603  0.43137397  0.75000000  1
+  Tb  Tb1  1  0.43137397  0.56862603  0.25000000  1
+  In  In0  1  0.85583057  0.14416943  0.54989646  1
+  In  In1  1  0.85583057  0.14416943  0.95010354  1
+  In  In2  1  0.14416943  0.85583057  0.04989646  1
+  In  In3  1  0.14416943  0.85583057  0.45010354  1
+  Ni  Ni0  1  0.71212048  0.28787952  0.25000000  1
+  Ni  Ni1  1  0.28787952  0.71212048  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Ni0 2.651888 1_555
+In0 Ni1 2.708536 1_545
+In0 Ni1 2.708536 1_655
+In0 Tb1 3.179501 1_545
+In0 Tb1 3.179501 1_655
+In0 Tb0 3.332875 1_555
+In0 Tb0 3.429594 1_545
+In0 Tb0 3.429594 1_655
+In1 Ni0 2.651888 1_556
+In1 Ni1 2.708536 1_545
+In1 Ni1 2.708536 1_655
+In1 Tb1 3.179501 1_546
+In1 Tb1 3.179501 1_656
+In1 Tb0 3.332875 1_555
+In1 Tb0 3.429594 1_545
+In1 Tb0 3.429594 1_655
+In2 Ni1 2.651888 1_554
+In2 Ni0 2.708536 1_565
+In2 Ni0 2.708536 1_455
+In2 Tb0 3.179501 1_454
+In2 Tb0 3.179501 1_564
+In2 Tb1 3.332875 1_555
+In2 Tb1 3.429594 1_565
+In2 Tb1 3.429594 1_455
+In3 Ni1 2.651888 1_555
+In3 Ni0 2.708536 1_565
+In3 Ni0 2.708536 1_455
+In3 Tb0 3.179501 1_455
+In3 Tb0 3.179501 1_565
+In3 Tb1 3.332875 1_555
+In3 Tb1 3.429594 1_565
+In3 Tb1 3.429594 1_455
+Ni0 Tb1 2.928933 1_555
+Ni0 Tb1 3.152080 1_545
+Ni0 Tb1 3.152080 1_655
+Ni1 Tb0 2.928933 1_555
+Ni1 Tb0 3.152080 1_455
+Ni1 Tb0 3.152080 1_565

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na2PtSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70726898
+_cell_length_b   5.66997668
+_cell_length_c   11.29234677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.08200472
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PtSe2
+_chemical_formula_sum   'Na4 Pt2 Se4'
+_cell_volume   224.32367677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43698504  0.87397108  0.86809466  1
+  Na  Na1  1  0.56301496  0.12602892  0.36809466  1
+  Na  Na2  1  0.82547292  0.65094484  0.59927022  1
+  Na  Na3  1  0.17452708  0.34905516  0.09927022  1
+  Pt  Pt0  1  0.13618371  0.27236541  0.75169544  1
+  Pt  Pt1  1  0.86381629  0.72763459  0.25169544  1
+  Se  Se0  1  0.55123764  0.10247529  0.62964209  1
+  Se  Se1  1  0.44876236  0.89752471  0.12964209  1
+  Se  Se2  1  0.72135637  0.44271373  0.87359659  1
+  Se  Se3  1  0.27864363  0.55728627  0.37359659  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se1 2.956180 1_556
+Na0 Se0 2.958003 1_565
+Na0 Se2 2.963087 1_455
+Na0 Se2 2.963088 1_555
+Na0 Se2 3.048196 1_565
+Na0 Pt0 3.117830 1_565
+Na0 Pt0 3.117836 1_665
+Na1 Se0 2.956180 1_555
+Na1 Se1 2.958003 1_545
+Na1 Se3 2.963087 1_655
+Na1 Se3 2.963088 1_555
+Na1 Se3 3.048196 1_545
+Na1 Pt1 3.117830 1_545
+Na1 Pt1 3.117836 1_445
+Na2 Se0 2.958875 1_555
+Na2 Se0 3.067167 1_665
+Na2 Se0 3.067170 1_565
+Na2 Se3 3.190939 1_555
+Na2 Se3 3.190939 1_655
+Na2 Pt0 3.242497 1_555
+Na2 Pt0 3.242499 1_655
+Na2 Se2 3.292610 1_555
+Na3 Se1 2.958875 1_555
+Na3 Se1 3.067167 1_445
+Na3 Se1 3.067170 1_545
+Na3 Se2 3.190939 1_554
+Na3 Se2 3.190939 1_454
+Na3 Pt1 3.242497 1_555
+Na3 Pt1 3.242499 1_455
+Na3 Se3 3.292610 1_555
+Pt0 Se2 2.482746 1_555
+Pt0 Se2 2.482755 1_455
+Pt0 Se0 2.482800 1_555
+Pt0 Se0 2.482805 1_455
+Pt1 Se3 2.482746 1_555
+Pt1 Se3 2.482755 1_655
+Pt1 Se1 2.482800 1_555
+Pt1 Se1 2.482805 1_655

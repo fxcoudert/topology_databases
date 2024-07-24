@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_AgBiTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42279850
+_cell_length_b   4.42279850
+_cell_length_c   21.39425300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgBiTe2
+_chemical_formula_sum   'Ag3 Bi3 Te6'
+_cell_volume   362.42824277
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.66666700  0.33333300  0.36173900  1
+  Ag  Ag1  1  0.33333300  0.66666700  0.63826100  1
+  Ag  Ag2  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi0  1  0.33333300  0.66666700  0.18907900  1
+  Bi  Bi1  1  0.66666700  0.33333300  0.81092100  1
+  Bi  Bi2  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.66666700  0.33333300  0.08782500  1
+  Te  Te1  1  0.33333300  0.66666700  0.91217500  1
+  Te  Te2  1  0.66666700  0.33333300  0.57982400  1
+  Te  Te3  1  0.33333300  0.66666700  0.42017600  1
+  Te  Te4  1  0.00000000  0.00000000  0.27177900  1
+  Te  Te5  1  0.00000000  0.00000000  0.72822100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 Te3 2.843134 1_545
+Ag0 Te3 2.843134 1_655
+Ag0 Te3 2.843141 1_555
+Ag0 Te4 3.197586 1_655
+Ag0 Te4 3.197589 1_555
+Ag0 Te4 3.197589 1_665
+Ag1 Te2 2.843134 1_455
+Ag1 Te2 2.843134 1_565
+Ag1 Te2 2.843141 1_555
+Ag1 Te5 3.197586 1_565
+Ag1 Te5 3.197589 1_665
+Ag1 Te5 3.197589 1_555
+Ag2 Te3 3.071948 1_545
+Ag2 Te2 3.071948 1_455
+Ag2 Te3 3.071951 1_445
+Ag2 Te2 3.071951 1_445
+Ag2 Te2 3.071951 1_555
+Ag2 Te3 3.071951 1_555
+Bi0 Te4 3.106575 1_565
+Bi0 Te4 3.106578 1_665
+Bi0 Te4 3.106578 1_555
+Bi0 Te0 3.348585 1_455
+Bi0 Te0 3.348585 1_565
+Bi0 Te0 3.348591 1_555
+Bi1 Te5 3.106575 1_655
+Bi1 Te5 3.106578 1_555
+Bi1 Te5 3.106578 1_665
+Bi1 Te1 3.348585 1_545
+Bi1 Te1 3.348585 1_655
+Bi1 Te1 3.348591 1_555
+Bi2 Te0 3.170303 1_455
+Bi2 Te1 3.170303 1_544
+Bi2 Te0 3.170306 1_555
+Bi2 Te0 3.170306 1_445
+Bi2 Te1 3.170306 1_554
+Bi2 Te1 3.170306 1_444

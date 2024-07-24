@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SmInCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51480449
+_cell_length_b   7.51480449
+_cell_length_c   4.01796695
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInCu
+_chemical_formula_sum   'Sm3 In3 Cu3'
+_cell_volume   196.50444938
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.41279512  0.41279512  0.50000000  1
+  Sm  Sm1  1  0.58720488  1.00000000  0.50000000  1
+  Sm  Sm2  1  1.00000000  0.58720488  0.50000000  1
+  In  In0  1  0.75090375  0.75090375  0.00000000  1
+  In  In1  1  0.24909625  1.00000000  -0.00000000  1
+  In  In2  1  1.00000000  0.24909625  0.00000000  1
+  Cu  Cu0  1  0.66666700  0.33333300  -0.00000000  1
+  Cu  Cu1  1  0.33333300  0.66666700  -0.00000000  1
+  Cu  Cu2  1  0.00000000  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Sm0 3.239102 1_555
+In0 Sm0 3.239102 1_554
+In0 Sm2 3.369885 1_555
+In0 Sm2 3.369885 1_554
+In0 Sm1 3.369885 1_555
+In0 Sm1 3.369885 1_554
+In1 Sm1 3.239102 1_555
+In1 Sm1 3.239102 1_554
+In1 Sm0 3.369885 1_565
+In1 Sm0 3.369885 1_564
+In1 Sm2 3.369885 1_454
+In1 Sm2 3.369885 1_455
+In2 Sm2 3.239102 1_555
+In2 Sm2 3.239102 1_554
+In2 Sm0 3.369885 1_655
+In2 Sm0 3.369885 1_654
+In2 Sm1 3.369885 1_544
+In2 Sm1 3.369885 1_545
+Cu0 In2 2.874210 1_555
+Cu0 In1 2.874215 1_545
+Cu0 In0 2.874217 1_555
+Cu0 Sm1 3.028445 1_545
+Cu0 Sm1 3.028445 1_544
+Cu0 Sm2 3.028447 1_555
+Cu0 Sm2 3.028447 1_554
+Cu0 Sm0 3.028450 1_555
+Cu0 Sm0 3.028450 1_554
+Cu1 In1 2.874210 1_555
+Cu1 In2 2.874215 1_455
+Cu1 In0 2.874217 1_555
+Cu1 Sm2 3.028445 1_455
+Cu1 Sm2 3.028445 1_454
+Cu1 Sm1 3.028447 1_554
+Cu1 Sm1 3.028447 1_555
+Cu1 Sm0 3.028450 1_555
+Cu1 Sm0 3.028450 1_554
+Cu2 In2 2.745917 1_456
+Cu2 In1 2.745917 1_545
+Cu2 In2 2.745917 1_455
+Cu2 In1 2.745917 1_546
+Cu2 In0 2.745917 1_445
+Cu2 In0 2.745917 1_446
+Cu2 Sm2 3.102075 1_445
+Cu2 Sm1 3.102075 1_445
+Cu2 Sm0 3.102075 1_555

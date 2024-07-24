@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_Mn3Fe9P4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41575100
+_cell_length_b   6.73302431
+_cell_length_c   6.74981263
+_cell_angle_alpha   83.71094541
+_cell_angle_beta   70.92430186
+_cell_angle_gamma   70.88372701
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Fe9P4
+_chemical_formula_sum   'Mn3 Fe9 P4'
+_cell_volume   179.20182188
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.16153800  0.17995300  0.97415600  1
+  Mn  Mn1  1  0.31629200  0.81966300  0.02510100  1
+  Mn  Mn2  1  0.86527400  0.97321400  0.81523300  1
+  Fe  Fe0  1  0.65790700  0.02563900  0.18668800  1
+  Fe  Fe1  1  0.62749500  0.39070700  0.33004800  1
+  Fe  Fe2  1  0.34939400  0.60863100  0.66956700  1
+  Fe  Fe3  1  0.04191400  0.33012900  0.60900800  1
+  Fe  Fe4  1  0.98159700  0.67024400  0.39161800  1
+  Fe  Fe5  1  0.58521500  0.38951500  0.95150500  1
+  Fe  Fe6  1  0.92579800  0.61009900  0.04869000  1
+  Fe  Fe7  1  0.46450800  0.95205900  0.60884300  1
+  Fe  Fe8  1  0.02552300  0.04955500  0.38986400  1
+  P  P0  1  0.19967100  0.33786700  0.24717800  1
+  P  P1  1  0.78354000  0.66160900  0.75233100  1
+  P  P2  1  0.55018100  0.24896400  0.66390700  1
+  P  P3  1  0.46415300  0.75215100  0.33626400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 P0 2.303104 1_556
+Mn0 P2 2.346588 1_555
+Mn1 P1 2.299451 1_554
+Mn1 P3 2.353070 1_555
+Mn2 P2 2.290804 1_565
+Mn2 P1 2.345974 1_555
+Fe0 P3 2.280797 1_545
+Fe0 P0 2.354233 1_555
+Fe0 Mn2 2.393937 1_544
+Fe0 Fe7 2.733397 1_545
+Fe1 P0 2.276602 1_555
+Fe1 P3 2.301603 1_555
+Fe1 P2 2.311906 1_555
+Fe1 P0 2.313912 1_655
+Fe2 P1 2.286959 1_455
+Fe2 P2 2.289930 1_555
+Fe2 P1 2.303492 1_555
+Fe2 P3 2.313252 1_555
+Fe2 Fe7 2.489814 1_555
+Fe3 P2 2.273567 1_555
+Fe3 P1 2.302732 1_455
+Fe3 P0 2.310105 1_555
+Fe3 P2 2.314676 1_455
+Fe3 Fe7 2.617268 1_545
+Fe4 P3 2.277802 1_655
+Fe4 P1 2.303629 1_555
+Fe4 P0 2.310606 1_655
+Fe4 P3 2.313453 1_555
+Fe4 Fe7 2.558781 1_555
+Fe5 P0 2.239902 1_556
+Fe5 P2 2.320026 1_555
+Fe5 P1 2.381654 1_555
+Fe5 Mn0 2.519115 1_655
+Fe6 P1 2.245666 1_554
+Fe6 P3 2.319791 1_555
+Fe6 P0 2.384604 1_655
+Fe6 Mn1 2.520804 1_655
+Fe7 P2 2.242222 1_565
+Fe7 P1 2.327975 1_555
+Fe7 P3 2.396367 1_555
+Fe7 Mn2 2.519891 1_455
+Fe7 Mn2 2.629216 1_555
+Fe7 Fe8 2.683269 1_565
+Fe7 Fe8 2.685482 1_665
+Fe7 Mn0 2.748192 1_565
+Fe7 Mn1 2.783638 1_556
+Fe8 P3 2.247781 1_545
+Fe8 P0 2.317596 1_555
+Fe8 P2 2.406334 1_455

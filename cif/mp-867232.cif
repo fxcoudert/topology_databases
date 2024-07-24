@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_TbAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27593259
+_cell_length_b   6.27584824
+_cell_length_c   4.58651812
+_cell_angle_alpha   90.00001436
+_cell_angle_beta   89.99994043
+_cell_angle_gamma   119.98586487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl3
+_chemical_formula_sum   'Tb2 Al6'
+_cell_volume   156.46827315
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.33340364  0.66662287  0.75000285  1
+  Tb  Tb1  1  0.66660490  0.33338255  0.25000169  1
+  Al  Al0  1  0.70962834  0.85484509  0.24999217  1
+  Al  Al1  1  0.14523492  0.85475590  0.25000538  1
+  Al  Al2  1  0.85484237  0.70961964  0.75000274  1
+  Al  Al3  1  0.29037247  0.14516563  0.75000211  1
+  Al  Al4  1  0.85476251  0.14522816  0.74998484  1
+  Al  Al5  1  0.14515485  0.29038316  0.25000421  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Al5 2.733937 1_665
+Al0 Al1 2.734117 1_655
+Al0 Al2 2.783938 1_554
+Al0 Al4 2.783963 1_565
+Al0 Al4 2.784018 1_564
+Al0 Al2 2.784020 1_555
+Al0 Tb0 3.072674 1_554
+Al0 Tb0 3.072744 1_555
+Al0 Tb1 3.146375 1_555
+Al0 Tb1 3.146879 1_565
+Al1 Al5 2.734182 1_565
+Al1 Al2 2.784020 1_455
+Al1 Al2 2.784043 1_454
+Al1 Al3 2.784061 1_565
+Al1 Al3 2.784085 1_564
+Al1 Tb0 3.072680 1_555
+Al1 Tb0 3.072695 1_554
+Al1 Tb1 3.147193 1_565
+Al1 Tb1 3.147207 1_455
+Al2 Al3 2.733973 1_665
+Al2 Al4 2.734063 1_565
+Al2 Tb1 3.072731 1_556
+Al2 Tb1 3.072740 1_555
+Al2 Tb0 3.146344 1_555
+Al2 Tb0 3.146972 1_655
+Al3 Al4 2.734055 1_455
+Al3 Al5 2.783959 1_555
+Al3 Al5 2.783973 1_556
+Al3 Tb1 3.072737 1_555
+Al3 Tb1 3.072737 1_556
+Al3 Tb0 3.146321 1_555
+Al3 Tb0 3.146940 1_545
+Al4 Al5 2.783957 1_655
+Al4 Al5 2.784106 1_656
+Al4 Tb1 3.072668 1_555
+Al4 Tb1 3.072781 1_556
+Al4 Tb0 3.147096 1_545
+Al4 Tb0 3.147313 1_655
+Al5 Tb0 3.072741 1_555
+Al5 Tb0 3.072749 1_554
+Al5 Tb1 3.146408 1_555
+Al5 Tb1 3.146911 1_455

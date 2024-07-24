@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Sr2Cu3(BrO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51879000
+_cell_length_b   5.51879000
+_cell_length_c   7.88278039
+_cell_angle_alpha   110.49058851
+_cell_angle_beta   110.49058851
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Cu3(BrO2)2
+_chemical_formula_sum   'Sr2 Cu3 Br2 O4'
+_cell_volume   208.60229811
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.36939100  0.36939100  0.73878200  1
+  Sr  Sr1  1  0.63060900  0.63060900  0.26121800  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  Br  Br0  1  0.25000000  0.75000000  0.50000000  1
+  Br  Br1  1  0.75000000  0.25000000  0.50000000  1
+  O  O0  1  0.75017200  0.75017200  0.00000100  1
+  O  O1  1  0.24982800  0.24982800  0.99999900  1
+  O  O2  1  0.75017200  0.24982800  0.00000000  1
+  O  O3  1  0.24982800  0.75017200  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O0 1.951187 1_455
+Cu0 O1 1.951187 1_554
+Cu0 O3 1.951187 1_555
+Cu0 O2 1.951187 1_455
+Cu1 O3 1.949844 1_545
+Cu1 O2 1.949844 1_455
+Cu1 O1 1.949848 1_554
+Cu1 O0 1.949848 1_445
+Cu2 O0 1.951187 1_545
+Cu2 O1 1.951187 1_554
+Cu2 O2 1.951187 1_555
+Cu2 O3 1.951187 1_545
+Br0 Sr1 3.207632 1_555
+Br0 Sr0 3.207632 1_555
+Br0 Sr1 3.207632 1_455
+Br0 Sr0 3.207632 1_565
+Br1 Sr1 3.207632 1_555
+Br1 Sr0 3.207632 1_555
+Br1 Sr1 3.207632 1_545
+Br1 Sr0 3.207632 1_655
+O0 Sr1 2.648246 1_555
+O0 Sr0 2.648255 1_554
+O1 Sr0 2.648246 1_555
+O1 Sr1 2.648255 1_556
+O2 Sr1 2.648254 1_555
+O2 Sr0 2.648254 1_554
+O3 Sr1 2.648254 1_555
+O3 Sr0 2.648254 1_554

@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_GdIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28368947
+_cell_length_b   6.98499366
+_cell_length_c   6.98498661
+_cell_angle_alpha   109.99544302
+_cell_angle_beta   71.60694342
+_cell_angle_gamma   71.60687528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdIO
+_chemical_formula_sum   'Gd4 I4 O4'
+_cell_volume   278.88416864
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.25000000  0.97623375  0.02376625  1
+  Gd  Gd1  1  0.75000000  0.72623375  0.27376525  1
+  Gd  Gd2  1  0.25000000  0.27376625  0.72623475  1
+  Gd  Gd3  1  0.75000000  0.02376625  0.97623375  1
+  I  I0  1  0.50000000  0.50000000  -0.00000000  1
+  I  I1  1  -0.00000000  0.50000000  0.50000000  1
+  I  I2  1  0.50000000  0.50000000  0.50000000  1
+  I  I3  1  -0.00000000  0.00000000  0.50000000  1
+  O  O0  1  0.48291606  0.00854247  0.75854247  1
+  O  O1  1  0.01708394  0.24145853  0.99145853  1
+  O  O2  1  0.98291606  0.75854147  0.00854147  1
+  O  O3  1  0.51708394  0.99145753  0.24145753  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 O1 2.214774 1_564
+Gd0 O0 2.214775 1_564
+Gd0 O3 2.827464 1_555
+Gd0 O2 2.827472 1_455
+Gd0 I3 3.165099 1_565
+Gd0 I0 3.165100 1_555
+Gd0 I2 3.378808 1_554
+Gd0 I1 3.378808 1_565
+Gd1 O3 2.214770 1_555
+Gd1 O2 2.214771 1_555
+Gd1 O1 2.827463 1_654
+Gd1 O0 2.827473 1_565
+Gd1 I1 3.165105 1_655
+Gd1 I2 3.165106 1_555
+Gd1 I0 3.378807 1_555
+Gd1 I3 3.378814 1_665
+Gd2 O0 2.214770 1_555
+Gd2 O1 2.214771 1_555
+Gd2 O2 2.827463 1_456
+Gd2 O3 2.827473 1_545
+Gd2 I1 3.165105 1_555
+Gd2 I2 3.165106 1_555
+Gd2 I0 3.378807 1_556
+Gd2 I3 3.378814 1_555
+Gd3 O2 2.214774 1_546
+Gd3 O3 2.214775 1_546
+Gd3 O0 2.827464 1_555
+Gd3 O1 2.827472 1_655
+Gd3 I3 3.165099 1_655
+Gd3 I0 3.165100 1_556
+Gd3 I2 3.378808 1_556
+Gd3 I1 3.378808 1_645

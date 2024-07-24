@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_NdSbAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62032974
+_cell_length_b   4.62032974
+_cell_length_c   16.85175092
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001724
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSbAu
+_chemical_formula_sum   'Nd4 Sb4 Au4'
+_cell_volume   311.54553431
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.00000000  0.50000000  1
+  Nd  Nd1  1  0.00000000  0.00000000  -0.00000000  1
+  Nd  Nd2  1  0.00000000  0.00000000  0.25000000  1
+  Nd  Nd3  1  -0.00000000  0.00000000  0.75000000  1
+  Sb  Sb0  1  0.33333300  0.66666700  0.38980917  1
+  Sb  Sb1  1  0.66666700  0.33333300  0.61019083  1
+  Sb  Sb2  1  0.66666700  0.33333300  0.88980917  1
+  Sb  Sb3  1  0.33333300  0.66666700  0.11019083  1
+  Au  Au0  1  0.66666700  0.33333300  0.33837240  1
+  Au  Au1  1  0.33333300  0.66666700  0.66162760  1
+  Au  Au2  1  0.33333300  0.66666700  0.83837240  1
+  Au  Au3  1  0.66666700  0.33333300  0.16162760  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 Sb1 3.250217 1_455
+Nd0 Sb0 3.250217 1_545
+Nd0 Sb1 3.250220 1_555
+Nd0 Sb1 3.250220 1_445
+Nd0 Sb0 3.250220 1_555
+Nd0 Sb0 3.250220 1_445
+Nd1 Sb2 3.250217 1_454
+Nd1 Sb3 3.250217 1_545
+Nd1 Sb2 3.250220 1_554
+Nd1 Sb2 3.250220 1_444
+Nd1 Sb3 3.250220 1_555
+Nd1 Sb3 3.250220 1_445
+Au0 Sb0 2.804842 1_545
+Au0 Sb0 2.804842 1_655
+Au0 Sb0 2.804851 1_555
+Au0 Nd2 3.055095 1_655
+Au0 Nd2 3.055098 1_665
+Au0 Nd2 3.055098 1_555
+Au1 Sb1 2.804842 1_455
+Au1 Sb1 2.804842 1_565
+Au1 Sb1 2.804851 1_555
+Au1 Nd3 3.055095 1_565
+Au1 Nd3 3.055098 1_555
+Au1 Nd3 3.055098 1_665
+Au2 Sb2 2.804842 1_455
+Au2 Sb2 2.804842 1_565
+Au2 Sb2 2.804851 1_555
+Au2 Nd3 3.055095 1_565
+Au2 Nd3 3.055098 1_555
+Au2 Nd3 3.055098 1_665
+Au3 Sb3 2.804842 1_545
+Au3 Sb3 2.804842 1_655
+Au3 Sb3 2.804851 1_555
+Au3 Nd2 3.055095 1_655
+Au3 Nd2 3.055098 1_665
+Au3 Nd2 3.055098 1_555

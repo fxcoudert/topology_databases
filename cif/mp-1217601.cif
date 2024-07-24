@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_TbAlNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32333198
+_cell_length_b   5.37616349
+_cell_length_c   8.45595200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.32657942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAlNi
+_chemical_formula_sum   'Tb4 Al4 Ni4'
+_cell_volume   208.88658111
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.66548900  0.33273100  0.54440200  1
+  Tb  Tb1  1  0.33999100  0.66998300  0.42526200  1
+  Tb  Tb2  1  0.33999100  0.66998300  0.07473800  1
+  Tb  Tb3  1  0.66548900  0.33273100  0.95559800  1
+  Al  Al0  1  0.99216500  0.99606100  0.48902600  1
+  Al  Al1  1  0.99216500  0.99606100  0.01097400  1
+  Al  Al2  1  0.17273800  0.34021500  0.75000000  1
+  Al  Al3  1  0.17272300  0.83250400  0.75000000  1
+  Ni  Ni0  1  0.66302400  0.83150900  0.75000000  1
+  Ni  Ni1  1  0.83234500  0.66486400  0.25000000  1
+  Ni  Ni2  1  0.83228000  0.16754300  0.25000000  1
+  Ni  Ni3  1  0.33159800  0.16581500  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tb0 Tb1 3.236872 1_555
+Tb0 Tb1 3.236961 1_545
+Tb0 Tb1 3.258894 1_655
+Tb1 Tb2 2.964014 1_555
+Tb2 Tb3 3.236872 1_554
+Tb2 Tb3 3.236961 1_564
+Tb2 Tb3 3.258894 1_454
+Al0 Ni1 2.539620 1_555
+Al0 Ni2 2.540069 1_565
+Al0 Ni3 2.552989 1_665
+Al0 Ni0 2.675285 1_555
+Al0 Al3 2.724045 1_655
+Al0 Al2 2.724184 1_665
+Al0 Tb1 3.044792 1_555
+Al0 Tb0 3.114175 1_565
+Al0 Tb0 3.114203 1_555
+Al0 Tb0 3.129088 1_665
+Al0 Tb1 3.173362 1_655
+Al0 Tb1 3.173551 1_665
+Al1 Ni1 2.539620 1_555
+Al1 Ni2 2.540069 1_565
+Al1 Ni3 2.552989 1_665
+Al1 Ni0 2.675285 1_554
+Al1 Al3 2.724045 1_654
+Al1 Al2 2.724184 1_664
+Al1 Tb2 3.044792 1_555
+Al1 Tb3 3.114175 1_564
+Al1 Tb3 3.114203 1_554
+Al1 Tb3 3.129088 1_664
+Al1 Tb2 3.173362 1_655
+Al1 Tb2 3.173551 1_665
+Al2 Ni0 2.612786 1_555
+Al2 Al3 2.646666 1_555
+Al2 Ni0 2.710738 1_445
+Al2 Al3 2.729497 1_545
+Al2 Tb2 3.143588 1_556
+Al2 Tb1 3.143588 1_555
+Al2 Tb3 3.164049 1_555
+Al2 Tb0 3.164049 1_555
+Al2 Tb3 3.194645 1_455
+Al2 Tb0 3.194645 1_455
+Al3 Ni0 2.612740 1_555
+Al3 Ni0 2.710600 1_455
+Al3 Tb2 3.143610 1_556
+Al3 Tb1 3.143610 1_555
+Al3 Tb0 3.164140 1_565
+Al3 Tb3 3.164140 1_565
+Al3 Tb3 3.194705 1_455
+Al3 Tb0 3.194705 1_455
+Ni0 Tb2 3.121458 1_556
+Ni0 Tb1 3.121458 1_555
+Ni0 Tb0 3.201263 1_565
+Ni0 Tb3 3.201263 1_565
+Ni0 Tb0 3.201357 1_555
+Ni0 Tb3 3.201357 1_555
+Ni1 Ni3 2.661136 1_555
+Ni1 Ni3 2.662403 1_665
+Ni1 Ni2 2.673504 1_555
+Ni1 Ni2 2.702659 1_565
+Ni1 Tb3 2.927973 1_554
+Ni1 Tb0 2.927973 1_555
+Ni1 Tb1 3.023143 1_555
+Ni1 Tb2 3.023143 1_555
+Ni1 Tb1 3.069982 1_655
+Ni1 Tb2 3.069982 1_655
+Ni2 Ni3 2.660618 1_555
+Ni2 Ni3 2.662738 1_655
+Ni2 Tb3 2.927569 1_554
+Ni2 Tb0 2.927569 1_555
+Ni2 Tb2 3.023287 1_545
+Ni2 Tb1 3.023287 1_545
+Ni2 Tb1 3.070010 1_655
+Ni2 Tb2 3.070010 1_655
+Ni3 Tb3 2.924228 1_554
+Ni3 Tb0 2.924228 1_555
+Ni3 Tb1 3.069658 1_555
+Ni3 Tb2 3.069658 1_555
+Ni3 Tb1 3.069924 1_545
+Ni3 Tb2 3.069924 1_545

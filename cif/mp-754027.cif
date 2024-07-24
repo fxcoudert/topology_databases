@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_NaSmO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68580457
+_cell_length_b   4.68580464
+_cell_length_c   6.28853716
+_cell_angle_alpha   68.09786065
+_cell_angle_beta   68.09786073
+_cell_angle_gamma   89.98730434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSmO2
+_chemical_formula_sum   'Na2 Sm2 O4'
+_cell_volume   117.30524783
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49989109  0.50010891  1.00000001  1
+  Na  Na1  1  0.25010891  0.74989110  0.49999999  1
+  Sm  Sm0  1  -0.00002238  1.00002234  1.00000002  1
+  Sm  Sm1  1  0.75002238  0.24997760  0.49999998  1
+  O  O0  1  0.22084778  0.22082796  0.55830479  1
+  O  O1  1  0.52915222  0.02917204  0.94169521  1
+  O  O2  1  0.97082793  0.47084779  0.05830482  1
+  O  O3  1  0.77917206  0.77915225  0.44169518  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O1 2.362969 1_565
+Na0 O2 2.362969 1_456
+Na0 O2 2.364069 1_556
+Na0 O1 2.364069 1_555
+Na1 O3 2.362969 1_555
+Na1 O0 2.362969 1_555
+Na1 O3 2.364069 1_455
+Na1 O0 2.364069 1_565
+O0 Sm0 2.359782 1_545
+O0 Sm1 2.363486 1_555
+O0 Sm1 2.363551 1_455
+O1 Sm1 2.359782 1_555
+O1 Sm0 2.363486 1_545
+O1 Sm0 2.363551 1_645
+O2 Sm1 2.359782 1_555
+O2 Sm0 2.363486 1_654
+O2 Sm0 2.363551 1_644
+O3 Sm0 2.359782 1_654
+O3 Sm1 2.363487 1_555
+O3 Sm1 2.363551 1_565

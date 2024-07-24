@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_RbAs4(HO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18405848
+_cell_length_b   7.03726252
+_cell_length_c   7.84021669
+_cell_angle_alpha   62.98254859
+_cell_angle_beta   80.23851654
+_cell_angle_gamma   84.68050258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAs4(HO4)3
+_chemical_formula_sum   'Rb1 As4 H3 O12'
+_cell_volume   251.08002865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00177773  0.99493417  0.00099935  1
+  As  As0  1  0.84296044  0.68197331  0.68125738  1
+  As  As1  1  0.15094989  0.32874961  0.30977587  1
+  As  As2  1  0.39971716  0.87887844  0.43172760  1
+  As  As3  1  0.59626892  0.12751696  0.56472109  1
+  H  H0  1  0.49128746  0.65065932  0.29552818  1
+  H  H1  1  0.50488262  0.35049242  0.70541614  1
+  H  H2  1  0.98035240  0.49646421  0.98202786  1
+  O  O0  1  0.89227722  0.46123218  0.88620089  1
+  O  O1  1  0.09572059  0.54073119  0.10831641  1
+  O  O2  1  0.77310482  0.88967083  0.73844120  1
+  O  O3  1  0.22466896  0.11259540  0.26177556  1
+  O  O4  1  0.57967098  0.62834298  0.60623273  1
+  O  O5  1  0.41780529  0.37209380  0.39189792  1
+  O  O6  1  0.31034268  0.96359743  0.62139686  1
+  O  O7  1  0.69040230  0.03537959  0.37904660  1
+  O  O8  1  0.10945535  0.71015173  0.50963084  1
+  O  O9  1  0.88992855  0.28903365  0.49105286  1
+  O  O10  1  0.49991695  0.80649994  0.24301954  1
+  O  O11  1  0.49551068  0.19500382  0.75653414  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 O0 1.690629 1_555
+As0 O2 1.706059 1_555
+As0 O4 1.709049 1_555
+As0 O8 1.713638 1_655
+As1 O1 1.653962 1_555
+As1 O3 1.721933 1_555
+As1 O5 1.726287 1_555
+As1 O9 1.728058 1_455
+As2 O10 1.758750 1_555
+As2 O6 1.817151 1_555
+As2 O7 1.826958 1_565
+As2 O8 1.846047 1_555
+As2 O3 1.856415 1_565
+As2 O4 1.946000 1_555
+As3 O11 1.759685 1_555
+As3 O7 1.826386 1_555
+As3 O6 1.831177 1_545
+As3 O9 1.835572 1_555
+As3 O2 1.888046 1_545
+As3 O5 1.914495 1_555
+H0 O10 0.983301 1_555
+H1 O11 0.982406 1_555
+H2 O0 1.068153 1_555
+H2 O1 1.396664 1_656
+O0 Rb0 3.007470 1_646
+O1 Rb0 2.927233 1_555
+O2 Rb0 2.926978 1_656
+O3 Rb0 2.952529 1_545
+O6 Rb0 3.222035 1_556
+O7 Rb0 3.245095 1_645
+O10 Rb0 2.967711 1_655
+O10 Rb0 3.281497 1_555
+O11 Rb0 2.959749 1_546
+O11 Rb0 3.333599 1_646

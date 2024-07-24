@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Mn2GaCu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88674264
+_cell_length_b   4.88674264
+_cell_length_c   7.81681554
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2GaCu3
+_chemical_formula_sum   'Mn4 Ga2 Cu6'
+_cell_volume   161.65884650
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333300  0.66666700  0.43823787  1
+  Mn  Mn1  1  0.66666700  0.33333300  0.56176213  1
+  Mn  Mn2  1  0.66666700  0.33333300  0.93823787  1
+  Mn  Mn3  1  0.33333300  0.66666700  0.06176213  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  -0.00000000  1
+  Cu  Cu0  1  0.82871181  0.17128819  0.25000000  1
+  Cu  Cu1  1  0.82871181  0.65742461  0.25000000  1
+  Cu  Cu2  1  0.34257539  0.17128819  0.25000000  1
+  Cu  Cu3  1  0.17128819  0.82871181  0.75000000  1
+  Cu  Cu4  1  0.17128819  0.34257539  0.75000000  1
+  Cu  Cu5  1  0.65742461  0.82871181  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Mn3 2.942841 1_555
+Mn0 Mn1 2.982011 1_455
+Mn0 Mn1 2.982011 1_565
+Mn0 Mn1 2.982018 1_555
+Mn1 Mn2 2.942841 1_555
+Mn2 Mn3 2.982011 1_546
+Mn2 Mn3 2.982011 1_656
+Mn2 Mn3 2.982018 1_556
+Ga0 Mn1 2.862367 1_455
+Ga0 Mn0 2.862367 1_545
+Ga0 Mn1 2.862372 1_445
+Ga0 Mn0 2.862372 1_555
+Ga0 Mn0 2.862372 1_445
+Ga0 Mn1 2.862372 1_555
+Ga1 Mn3 2.862367 1_545
+Ga1 Mn2 2.862367 1_454
+Ga1 Mn3 2.862372 1_555
+Ga1 Mn2 2.862372 1_444
+Ga1 Mn3 2.862372 1_445
+Ga1 Mn2 2.862372 1_554
+Cu0 Cu2 2.375624 1_555
+Cu0 Cu1 2.375624 1_555
+Cu0 Ga0 2.433275 1_655
+Cu0 Ga1 2.433275 1_655
+Cu0 Cu2 2.511119 1_655
+Cu0 Cu1 2.511119 1_545
+Cu0 Mn1 2.796442 1_555
+Cu0 Mn2 2.796442 1_554
+Cu0 Mn0 2.852486 1_545
+Cu0 Mn0 2.852486 1_655
+Cu0 Mn3 2.852486 1_545
+Cu0 Mn3 2.852486 1_655
+Cu1 Cu2 2.375624 1_555
+Cu1 Ga1 2.433273 1_665
+Cu1 Ga0 2.433273 1_665
+Cu1 Cu2 2.511119 1_665
+Cu1 Mn2 2.796446 1_554
+Cu1 Mn1 2.796446 1_555
+Cu1 Mn3 2.852485 1_655
+Cu1 Mn0 2.852485 1_655
+Cu1 Mn3 2.852485 1_555
+Cu1 Mn0 2.852485 1_555
+Cu2 Ga1 2.433273 1_555
+Cu2 Ga0 2.433273 1_555
+Cu2 Mn2 2.796446 1_554
+Cu2 Mn1 2.796446 1_555
+Cu2 Mn3 2.852485 1_545
+Cu2 Mn0 2.852485 1_545
+Cu2 Mn3 2.852485 1_555
+Cu2 Mn0 2.852485 1_555
+Cu3 Cu5 2.375624 1_555
+Cu3 Cu4 2.375624 1_555
+Cu3 Ga1 2.433275 1_566
+Cu3 Ga0 2.433275 1_565
+Cu3 Cu4 2.511119 1_565
+Cu3 Cu5 2.511119 1_455
+Cu3 Mn3 2.796442 1_556
+Cu3 Mn0 2.796442 1_555
+Cu3 Mn1 2.852486 1_565
+Cu3 Mn1 2.852486 1_455
+Cu3 Mn2 2.852486 1_565
+Cu3 Mn2 2.852486 1_455
+Cu4 Cu5 2.375624 1_555
+Cu4 Ga1 2.433273 1_556
+Cu4 Ga0 2.433273 1_555
+Cu4 Cu5 2.511119 1_445
+Cu4 Mn3 2.796446 1_556
+Cu4 Mn0 2.796446 1_555
+Cu4 Mn2 2.852485 1_455
+Cu4 Mn1 2.852485 1_455
+Cu4 Mn1 2.852485 1_555
+Cu4 Mn2 2.852485 1_555
+Cu5 Ga1 2.433273 1_666
+Cu5 Ga0 2.433273 1_665
+Cu5 Mn3 2.796446 1_556
+Cu5 Mn0 2.796446 1_555
+Cu5 Mn1 2.852485 1_565
+Cu5 Mn2 2.852485 1_565
+Cu5 Mn2 2.852485 1_555
+Cu5 Mn1 2.852485 1_555

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_KInTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18700477
+_cell_length_b   7.18700464
+_cell_length_c   7.18700495
+_cell_angle_alpha   105.32631429
+_cell_angle_beta   105.32630404
+_cell_angle_gamma   118.12314303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KInTe2
+_chemical_formula_sum   'K2 In2 Te4'
+_cell_volume   280.81921088
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.25000000  -0.00000000  1
+  K  K1  1  0.75000000  0.75000000  -0.00000000  1
+  In  In0  1  0.75000000  0.25000000  0.50000000  1
+  In  In1  1  0.25000000  0.75000000  0.50000000  1
+  Te  Te0  1  0.17421384  0.32578616  0.50000000  1
+  Te  Te1  1  0.32578616  0.82578616  0.15157132  1
+  Te  Te2  1  0.67421384  0.17421384  0.84842868  1
+  Te  Te3  1  0.82578616  0.67421384  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te2 3.712985 1_554
+K0 Te1 3.712985 1_545
+K0 Te3 3.712989 1_444
+K0 Te0 3.712989 1_555
+K0 Te3 3.712989 1_555
+K0 Te1 3.712989 1_555
+K0 Te0 3.712989 1_554
+K0 Te2 3.712989 1_454
+K1 Te1 3.712985 1_555
+K1 Te2 3.712985 1_564
+K1 Te0 3.712989 1_665
+K1 Te3 3.712989 1_554
+K1 Te0 3.712989 1_554
+K1 Te2 3.712989 1_554
+K1 Te3 3.712989 1_555
+K1 Te1 3.712989 1_655
+In0 Te3 2.833106 1_555
+In0 Te0 2.833106 1_655
+In0 Te1 2.833108 1_545
+In0 Te2 2.833113 1_555
+In1 Te0 2.833106 1_555
+In1 Te3 2.833106 1_455
+In1 Te2 2.833108 1_565
+In1 Te1 2.833113 1_555

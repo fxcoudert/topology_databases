@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Ta3AlCr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86400707
+_cell_length_b   4.86400707
+_cell_length_c   7.99090200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3AlCr8
+_chemical_formula_sum   'Ta3 Al1 Cr8'
+_cell_volume   163.72491289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.44128500  1
+  Ta  Ta1  1  0.00000000  0.00000000  0.06085700  1
+  Ta  Ta2  1  0.33333300  0.66666700  0.93667700  1
+  Al  Al0  1  0.33333300  0.66666700  0.56337800  1
+  Cr  Cr0  1  0.66666700  0.33333300  0.49974900  1
+  Cr  Cr1  1  0.66666700  0.33333300  0.99909000  1
+  Cr  Cr2  1  0.83594000  0.67188100  0.74835200  1
+  Cr  Cr3  1  0.83594000  0.16406000  0.74835200  1
+  Cr  Cr4  1  0.32811900  0.16406000  0.74835200  1
+  Cr  Cr5  1  0.49609000  0.99218100  0.25130300  1
+  Cr  Cr6  1  0.49609000  0.50391000  0.25130300  1
+  Cr  Cr7  1  0.00781900  0.50391000  0.25130300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ta1 3.039963 1_555
+Ta1 Ta2 2.978398 1_544
+Ta1 Ta2 2.978401 1_554
+Ta1 Ta2 2.978401 1_444
+Al0 Cr5 2.845870 1_555
+Al0 Cr7 2.845870 1_555
+Al0 Cr6 2.845870 1_555
+Al0 Cr3 2.846037 1_565
+Al0 Cr3 2.846037 1_455
+Al0 Cr2 2.846038 1_555
+Al0 Cr4 2.846038 1_555
+Al0 Cr2 2.846038 1_455
+Al0 Cr4 2.846038 1_565
+Al0 Cr0 2.853891 1_455
+Al0 Cr0 2.853891 1_565
+Al0 Cr0 2.853900 1_555
+Al0 Ta0 2.972883 1_565
+Al0 Ta0 2.972886 1_555
+Al0 Ta0 2.972886 1_665
+Al0 Ta2 2.982996 1_555
+Cr0 Cr3 2.445429 1_555
+Cr0 Cr4 2.445433 1_555
+Cr0 Cr2 2.445433 1_555
+Cr0 Cr7 2.450830 1_655
+Cr0 Cr5 2.450830 1_545
+Cr0 Cr6 2.450835 1_555
+Cr0 Ta0 2.846828 1_655
+Cr0 Ta0 2.846832 1_665
+Cr0 Ta0 2.846832 1_555
+Cr1 Cr3 2.459308 1_555
+Cr1 Cr4 2.459313 1_555
+Cr1 Cr2 2.459313 1_555
+Cr1 Cr5 2.475277 1_546
+Cr1 Cr7 2.475277 1_656
+Cr1 Cr6 2.475282 1_556
+Cr1 Ta1 2.851278 1_656
+Cr1 Ta1 2.851282 1_556
+Cr1 Ta1 2.851282 1_666
+Cr1 Ta2 2.852176 1_545
+Cr1 Ta2 2.852176 1_655
+Cr1 Ta2 2.852185 1_555
+Cr2 Cr4 2.393962 1_665
+Cr2 Cr3 2.393962 1_565
+Cr2 Cr4 2.470044 1_555
+Cr2 Cr3 2.470045 1_555
+Cr2 Ta0 2.816238 1_665
+Cr2 Ta1 2.854179 1_666
+Cr2 Ta2 2.860036 1_555
+Cr2 Ta2 2.860036 1_655
+Cr3 Cr4 2.393962 1_655
+Cr3 Cr4 2.470045 1_555
+Cr3 Ta0 2.816241 1_655
+Cr3 Ta1 2.854181 1_656
+Cr3 Ta2 2.860036 1_545
+Cr3 Ta2 2.860036 1_655
+Cr4 Ta0 2.816238 1_555
+Cr4 Ta1 2.854179 1_556
+Cr4 Ta2 2.860036 1_555
+Cr4 Ta2 2.860036 1_545
+Cr5 Cr7 2.374953 1_555
+Cr5 Cr6 2.374954 1_555
+Cr5 Cr7 2.489053 1_665
+Cr5 Cr6 2.489053 1_565
+Cr5 Ta2 2.863750 1_554
+Cr5 Ta0 2.867128 1_565
+Cr5 Ta0 2.867133 1_665
+Cr5 Ta1 2.869093 1_565
+Cr5 Ta1 2.869098 1_665
+Cr6 Cr7 2.374954 1_555
+Cr6 Cr7 2.489053 1_655
+Cr6 Ta2 2.863750 1_554
+Cr6 Ta0 2.867130 1_555
+Cr6 Ta0 2.867130 1_665
+Cr6 Ta1 2.869095 1_555
+Cr6 Ta1 2.869095 1_665
+Cr7 Ta2 2.863750 1_554
+Cr7 Ta0 2.867128 1_565
+Cr7 Ta0 2.867133 1_555
+Cr7 Ta1 2.869093 1_565
+Cr7 Ta1 2.869098 1_555

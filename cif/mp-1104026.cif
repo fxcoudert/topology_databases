@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Be(B6C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24178117
+_cell_length_b   5.24178117
+_cell_length_c   5.24178135
+_cell_angle_alpha   64.60019878
+_cell_angle_beta   64.60019878
+_cell_angle_gamma   64.60020474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be(B6C)2
+_chemical_formula_sum   'Be1 B12 C2'
+_cell_volume   112.10667598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.50000000  0.50000000  0.50000000  1
+  B  B0  1  0.67949300  0.19671100  0.19671100  1
+  B  B1  1  0.19671100  0.19671100  0.67949300  1
+  B  B2  1  0.19671100  0.67949300  0.19671100  1
+  B  B3  1  0.32050700  0.80328900  0.80328900  1
+  B  B4  1  0.80328900  0.80328900  0.32050700  1
+  B  B5  1  0.80328900  0.32050700  0.80328900  1
+  B  B6  1  0.33268700  0.00265600  0.00265600  1
+  B  B7  1  0.00265600  0.00265600  0.33268700  1
+  B  B8  1  0.00265600  0.33268700  0.00265600  1
+  B  B9  1  0.66731300  0.99734400  0.99734400  1
+  B  B10  1  0.99734400  0.99734400  0.66731300  1
+  B  B11  1  0.99734400  0.66731300  0.99734400  1
+  C  C0  1  0.63482700  0.63482700  0.63482700  1
+  C  C1  1  0.36517300  0.36517300  0.36517300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Be0 C1 1.668489 1_555
+Be0 C0 1.668489 1_555
+B0 C1 1.564232 1_555
+B0 B9 1.799899 1_544
+B0 B8 1.829701 1_655
+B0 B7 1.829702 1_655
+B1 C1 1.564232 1_555
+B1 B10 1.799899 1_445
+B1 B6 1.829702 1_556
+B1 B8 1.829702 1_556
+B2 C1 1.564232 1_555
+B2 B6 1.829701 1_565
+B2 B7 1.829702 1_565
+B3 C0 1.564232 1_555
+B3 B6 1.799899 1_566
+B4 C0 1.564232 1_555
+B4 B7 1.799899 1_665
+B4 B9 1.829702 1_554
+B5 C0 1.564232 1_555
+B5 B8 1.799899 1_656
+B5 B9 1.829701 1_545
+B6 B9 1.730625 1_544
+B6 B7 1.848811 1_555
+B6 B8 1.848811 1_555
+B7 B8 1.848811 1_555
+B10 B7 1.730625 1_665
+B10 B3 1.829702 1_655
+B10 B5 1.829702 1_565
+B10 B9 1.848811 1_555
+B10 B11 1.848811 1_555
+B11 B8 1.730625 1_656
+B11 B2 1.799899 1_656
+B11 B3 1.829701 1_655
+B11 B4 1.829702 1_556
+B11 B9 1.848811 1_555

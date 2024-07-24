@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Ba(CoN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22932233
+_cell_length_b   6.03746440
+_cell_length_c   9.07281078
+_cell_angle_alpha   89.99999868
+_cell_angle_beta   43.26144105
+_cell_angle_gamma   61.01371210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(CoN)2
+_chemical_formula_sum   'Ba2 Co4 N4'
+_cell_volume   165.35642461
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00000000  0.00000000  0.25000000  1
+  Ba  Ba1  1  -0.00000000  0.00000000  0.75000000  1
+  Co  Co0  1  0.73575406  0.50000000  0.63212197  1
+  Co  Co1  1  0.26424594  0.50000000  0.36787803  1
+  Co  Co2  1  0.26424594  0.23575406  0.86787803  1
+  Co  Co3  1  0.73575406  0.76424594  0.13212197  1
+  N  N0  1  0.67228368  0.50000000  0.16385716  1
+  N  N1  1  0.32771632  0.50000000  0.83614284  1
+  N  N2  1  0.32771632  0.17228368  0.33614284  1
+  N  N3  1  0.67228368  0.82771632  0.66385716  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 N2 3.200318 1_455
+Ba0 N3 3.200318 1_445
+Ba0 N0 3.200318 1_545
+Ba0 N1 3.200319 1_544
+Ba0 N2 3.200331 1_555
+Ba0 N3 3.200331 1_544
+Ba0 N0 3.200331 1_455
+Ba0 N1 3.200332 1_455
+Ba0 Co3 3.273232 1_545
+Ba0 Co2 3.273232 1_554
+Ba0 Co1 3.273232 1_455
+Ba0 Co0 3.273232 1_455
+Ba0 Co3 3.273244 1_445
+Ba0 Co1 3.273244 1_545
+Ba0 Co2 3.273245 1_455
+Ba0 Co0 3.273245 1_544
+Ba1 N3 3.200318 1_545
+Ba1 N2 3.200318 1_555
+Ba1 N1 3.200318 1_455
+Ba1 N0 3.200319 1_456
+Ba1 N3 3.200331 1_445
+Ba1 N2 3.200331 1_456
+Ba1 N1 3.200331 1_545
+Ba1 N0 3.200332 1_545
+Ba1 Co2 3.273232 1_455
+Ba1 Co3 3.273232 1_446
+Ba1 Co0 3.273232 1_545
+Ba1 Co1 3.273232 1_545
+Ba1 Co2 3.273244 1_555
+Ba1 Co0 3.273244 1_455
+Ba1 Co3 3.273245 1_545
+Ba1 Co1 3.273245 1_456
+Co0 N1 1.741967 1_555
+Co0 N3 1.797218 1_555
+Co0 N2 1.797218 1_655
+Co1 N0 1.741967 1_555
+Co1 N2 1.797218 1_555
+Co1 N3 1.797218 1_455
+Co2 N3 1.741967 1_545
+Co2 N1 1.797218 1_555
+Co2 N0 1.797218 1_456
+Co3 N2 1.741967 1_565
+Co3 N0 1.797218 1_555
+Co3 N1 1.797218 1_654

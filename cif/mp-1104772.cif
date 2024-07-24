@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Yb(MnGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18551996
+_cell_length_b   5.18656607
+_cell_length_c   8.13187800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99332858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(MnGe)6
+_chemical_formula_sum   'Yb1 Mn6 Ge6'
+_cell_volume   189.41872211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.99999500  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.49998800  0.00000000  0.25072200  1
+  Mn  Mn1  1  0.50000400  0.49998700  0.25063300  1
+  Mn  Mn2  1  0.00001600  0.50001300  0.25063300  1
+  Mn  Mn3  1  0.49998800  0.00000000  0.74927800  1
+  Mn  Mn4  1  0.50000400  0.49998700  0.74936700  1
+  Mn  Mn5  1  0.00001600  0.50001300  0.74936700  1
+  Ge  Ge0  1  0.33332500  0.66668100  0.00000000  1
+  Ge  Ge1  1  0.66664500  0.33331900  0.00000000  1
+  Ge  Ge2  1  0.33321300  0.66657100  0.50000000  1
+  Ge  Ge3  1  0.66664200  0.33342900  0.50000000  1
+  Ge  Ge4  1  0.99998200  0.00000000  0.34097100  1
+  Ge  Ge5  1  0.99998200  0.00000000  0.65902900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Mn2 2.528774 1_555
+Ge0 Mn5 2.528774 1_554
+Ge0 Mn1 2.528944 1_555
+Ge0 Mn4 2.528944 1_554
+Ge0 Mn0 2.529562 1_565
+Ge0 Mn3 2.529562 1_564
+Ge0 Yb0 2.993983 1_465
+Ge0 Yb0 2.994078 1_565
+Ge0 Yb0 2.994731 1_455
+Ge1 Mn1 2.528774 1_555
+Ge1 Mn4 2.528774 1_554
+Ge1 Mn5 2.528939 1_654
+Ge1 Mn2 2.528939 1_655
+Ge1 Mn3 2.529562 1_554
+Ge1 Mn0 2.529562 1_555
+Ge1 Yb0 2.993988 1_455
+Ge1 Yb0 2.994073 1_555
+Ge1 Yb0 2.994731 1_565
+Ge2 Mn5 2.520185 1_555
+Ge2 Mn2 2.520185 1_555
+Ge2 Mn0 2.520401 1_565
+Ge2 Mn3 2.520401 1_565
+Ge2 Mn4 2.520660 1_555
+Ge2 Mn1 2.520660 1_555
+Ge3 Mn1 2.520182 1_555
+Ge3 Mn4 2.520182 1_555
+Ge3 Mn0 2.520401 1_555
+Ge3 Mn3 2.520401 1_555
+Ge3 Mn5 2.520657 1_655
+Ge3 Mn2 2.520657 1_655
+Ge4 Ge5 2.586409 1_555
+Ge4 Mn0 2.694595 1_555
+Ge4 Mn0 2.694655 1_655
+Ge4 Mn1 2.695303 1_545
+Ge4 Mn2 2.695306 1_655
+Ge4 Mn2 2.695345 1_645
+Ge4 Mn1 2.695348 1_655
+Ge4 Yb0 2.772735 1_555
+Ge5 Mn3 2.694595 1_555
+Ge5 Mn3 2.694655 1_655
+Ge5 Mn4 2.695303 1_545
+Ge5 Mn5 2.695306 1_655
+Ge5 Mn5 2.695345 1_645
+Ge5 Mn4 2.695348 1_655
+Ge5 Yb0 2.772735 1_556

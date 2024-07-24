@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_DyAl2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01816168
+_cell_length_b   5.49429294
+_cell_length_c   6.83750295
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.44863380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyAl2Ni
+_chemical_formula_sum   'Dy2 Al4 Ni2'
+_cell_volume   140.49724703
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.05960424  0.11920948  0.75000000  1
+  Dy  Dy1  1  0.94039576  0.88079052  0.25000000  1
+  Al  Al0  1  0.66076777  0.32153654  0.44482725  1
+  Al  Al1  1  0.33923223  0.67846346  0.94482725  1
+  Al  Al2  1  0.33923223  0.67846346  0.55517275  1
+  Al  Al3  1  0.66076777  0.32153654  0.05517275  1
+  Ni  Ni0  1  0.21556467  0.43113035  0.25000000  1
+  Ni  Ni1  1  0.78443533  0.56886965  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 Ni1 2.814322 1_445
+Dy0 Ni1 3.053513 1_455
+Dy0 Ni1 3.053518 1_555
+Dy1 Ni0 2.814322 1_665
+Dy1 Ni0 3.053513 1_655
+Dy1 Ni0 3.053518 1_555
+Al0 Ni1 2.440026 1_555
+Al0 Ni0 2.474889 1_655
+Al0 Ni0 2.474889 1_555
+Al0 Dy0 3.075858 1_555
+Al0 Dy0 3.075858 1_655
+Al0 Dy1 3.154940 1_555
+Al0 Dy1 3.300144 1_445
+Al0 Dy1 3.300149 1_545
+Al1 Ni0 2.440026 1_556
+Al1 Ni1 2.474889 1_455
+Al1 Ni1 2.474889 1_555
+Al1 Dy1 3.075858 1_556
+Al1 Dy1 3.075858 1_456
+Al1 Dy0 3.154940 1_555
+Al1 Dy0 3.300144 1_665
+Al1 Dy0 3.300149 1_565
+Al2 Ni0 2.440026 1_555
+Al2 Ni1 2.474889 1_455
+Al2 Ni1 2.474889 1_555
+Al2 Dy1 3.075858 1_555
+Al2 Dy1 3.075858 1_455
+Al2 Dy0 3.154940 1_555
+Al2 Dy0 3.300144 1_665
+Al2 Dy0 3.300149 1_565
+Al3 Ni1 2.440026 1_554
+Al3 Ni0 2.474889 1_655
+Al3 Ni0 2.474889 1_555
+Al3 Dy0 3.075858 1_554
+Al3 Dy0 3.075858 1_654
+Al3 Dy1 3.154940 1_555
+Al3 Dy1 3.300144 1_445
+Al3 Dy1 3.300149 1_545

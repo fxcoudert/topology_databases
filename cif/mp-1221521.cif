@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MnZnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89624100
+_cell_length_b   6.87918400
+_cell_length_c   6.90667291
+_cell_angle_alpha   89.82857712
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnTe4
+_chemical_formula_sum   'Mn2 Zn2 Te8'
+_cell_volume   327.65462403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.50000000  1
+  Zn  Zn0  1  0.50000000  0.00000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.88464700  0.12087900  0.38382800  1
+  Te  Te1  1  0.38464700  0.87912100  0.11617200  1
+  Te  Te2  1  0.12066600  0.38483000  0.88006700  1
+  Te  Te3  1  0.62066600  0.61517000  0.61993300  1
+  Te  Te4  1  0.11535300  0.87912100  0.61617200  1
+  Te  Te5  1  0.61535300  0.12087900  0.88382800  1
+  Te  Te6  1  0.87933400  0.61517000  0.11993300  1
+  Te  Te7  1  0.37933400  0.38483000  0.38006700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Te5 2.844472 1_554
+Mn0 Te1 2.844472 1_555
+Mn0 Te6 2.856767 1_555
+Mn0 Te2 2.856767 1_554
+Mn0 Te7 2.863273 1_555
+Mn0 Te3 2.863273 1_554
+Mn1 Te0 2.844472 1_455
+Mn1 Te4 2.844472 1_555
+Mn1 Te3 2.856767 1_455
+Mn1 Te7 2.856767 1_555
+Mn1 Te6 2.863273 1_455
+Mn1 Te2 2.863273 1_555
+Te0 Te4 2.802920 1_645
+Te0 Zn1 2.892257 1_655
+Te0 Zn0 2.892689 1_555
+Te1 Te5 2.802920 1_564
+Te1 Zn0 2.892257 1_565
+Te1 Zn1 2.892689 1_565
+Te2 Te6 2.835653 1_456
+Te2 Zn1 2.893746 1_556
+Te3 Te7 2.835653 1_555
+Te3 Zn0 2.893746 1_565
+Te4 Zn1 2.892257 1_566
+Te4 Zn0 2.892689 1_565
+Te5 Zn0 2.892257 1_555
+Te5 Zn1 2.892689 1_656
+Te6 Zn1 2.893746 1_665
+Te7 Zn0 2.893746 1_555

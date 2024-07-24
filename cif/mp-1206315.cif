@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SmCdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74298730
+_cell_length_b   7.74298730
+_cell_length_c   4.07368205
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCdAu
+_chemical_formula_sum   'Sm3 Cd3 Au3'
+_cell_volume   211.51192964
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.59238689  -0.00000000  -0.00000000  1
+  Sm  Sm1  1  -0.00000000  0.59238689  -0.00000000  1
+  Sm  Sm2  1  0.40761311  0.40761311  0.00000000  1
+  Cd  Cd0  1  0.25432373  -0.00000000  0.50000000  1
+  Cd  Cd1  1  -0.00000000  0.25432373  0.50000000  1
+  Cd  Cd2  1  0.74567627  0.74567627  0.50000000  1
+  Au  Au0  1  0.33333300  0.66666700  0.50000000  1
+  Au  Au1  1  0.66666700  0.33333300  0.50000000  1
+  Au  Au2  1  -0.00000000  -0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Sm0 3.316723 1_556
+Cd0 Sm0 3.316723 1_555
+Cd0 Sm2 3.431130 1_555
+Cd0 Sm2 3.431130 1_556
+Cd0 Sm1 3.431130 1_545
+Cd0 Sm1 3.431130 1_546
+Cd1 Sm1 3.316723 1_556
+Cd1 Sm1 3.316723 1_555
+Cd1 Sm2 3.431130 1_555
+Cd1 Sm2 3.431130 1_556
+Cd1 Sm0 3.431130 1_456
+Cd1 Sm0 3.431130 1_455
+Cd2 Sm2 3.316723 1_555
+Cd2 Sm2 3.316723 1_556
+Cd2 Sm1 3.431130 1_655
+Cd2 Sm1 3.431130 1_656
+Cd2 Sm0 3.431130 1_565
+Cd2 Sm0 3.431130 1_566
+Au0 Cd0 2.935090 1_565
+Au0 Cd1 2.935095 1_555
+Au0 Cd2 2.935098 1_555
+Au0 Sm1 3.107505 1_555
+Au0 Sm1 3.107505 1_556
+Au0 Sm0 3.107507 1_566
+Au0 Sm0 3.107507 1_565
+Au0 Sm2 3.107511 1_555
+Au0 Sm2 3.107511 1_556
+Au1 Cd1 2.935090 1_655
+Au1 Cd0 2.935095 1_555
+Au1 Cd2 2.935098 1_555
+Au1 Sm0 3.107505 1_556
+Au1 Sm0 3.107505 1_555
+Au1 Sm1 3.107507 1_655
+Au1 Sm1 3.107507 1_656
+Au1 Sm2 3.107511 1_555
+Au1 Sm2 3.107511 1_556
+Au2 Cd1 2.833120 1_555
+Au2 Cd0 2.833120 1_555
+Au2 Cd0 2.833120 1_554
+Au2 Cd1 2.833120 1_554
+Au2 Cd2 2.833120 1_445
+Au2 Cd2 2.833120 1_444
+Au2 Sm0 3.156143 1_455
+Au2 Sm1 3.156143 1_545
+Au2 Sm2 3.156143 1_555

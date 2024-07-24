@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_MnHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17588617
+_cell_length_b   5.17622559
+_cell_length_c   4.75201786
+_cell_angle_alpha   99.43877381
+_cell_angle_beta   105.58764711
+_cell_angle_gamma   83.86383477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnHO2
+_chemical_formula_sum   'Mn2 H2 O4'
+_cell_volume   74.06459228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.56378650  0.48895319  0.01877444  1
+  Mn  Mn1  1  0.06378622  0.98895340  0.01877437  1
+  H  H0  1  0.32350774  0.74209786  0.55472079  1
+  H  H1  1  0.82350778  0.24209779  0.55472083  1
+  O  O0  1  0.42961065  0.77766565  0.78247093  1
+  O  O1  1  0.92961076  0.27766543  0.78247090  1
+  O  O2  1  0.68161115  0.19457023  0.22882035  1
+  O  O3  1  0.18161121  0.69457046  0.22882041  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O3 1.904921 1_555
+Mn0 O2 1.906432 1_555
+Mn0 O0 1.957802 1_554
+Mn0 O1 1.957952 1_554
+Mn0 O3 2.241549 1_655
+Mn0 O1 2.316504 1_454
+Mn1 O2 1.904920 1_465
+Mn1 O3 1.906432 1_555
+Mn1 O1 1.957800 1_464
+Mn1 O0 1.957952 1_554
+Mn1 O2 2.241548 1_565
+Mn1 O0 2.316504 1_454
+H0 O0 1.034734 1_555
+H0 O3 1.478409 1_555
+H1 O1 1.034733 1_555
+H1 O2 1.478410 1_555

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ErZnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04927948
+_cell_length_b   6.88966051
+_cell_length_c   8.12489684
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErZnPt
+_chemical_formula_sum   'Er4 Zn4 Pt4'
+_cell_volume   226.66967956
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.25000000  0.04539683  0.31469168  1
+  Er  Er1  1  0.25000000  0.54539683  0.18530832  1
+  Er  Er2  1  0.75000000  0.95460317  0.68530932  1
+  Er  Er3  1  0.75000000  0.45460317  0.81469068  1
+  Zn  Zn0  1  0.25000000  0.63430892  0.56317366  1
+  Zn  Zn1  1  0.25000000  0.13430892  0.93682634  1
+  Zn  Zn2  1  0.75000000  0.36569108  0.43682734  1
+  Zn  Zn3  1  0.75000000  0.86569108  0.06317266  1
+  Pt  Pt0  1  0.25000000  0.24900652  0.62261890  1
+  Pt  Pt1  1  0.25000000  0.74900652  0.87738110  1
+  Pt  Pt2  1  0.75000000  0.75099348  0.37738210  1
+  Pt  Pt3  1  0.75000000  0.25099348  0.12261790  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Pt0 2.868317 1_555
+Er0 Pt2 2.910802 1_545
+Er0 Pt2 2.910802 1_445
+Er0 Pt3 2.922503 1_455
+Er0 Pt3 2.922503 1_555
+Er1 Pt1 2.868317 1_554
+Er1 Pt3 2.910802 1_455
+Er1 Pt3 2.910802 1_555
+Er1 Pt2 2.922503 1_455
+Er1 Pt2 2.922503 1_555
+Er2 Pt2 2.868317 1_555
+Er2 Pt0 2.910802 1_565
+Er2 Pt0 2.910802 1_665
+Er2 Pt1 2.922494 1_555
+Er2 Pt1 2.922494 1_655
+Er3 Pt3 2.868317 1_556
+Er3 Pt1 2.910802 1_555
+Er3 Pt1 2.910802 1_655
+Er3 Pt0 2.922494 1_655
+Er3 Pt0 2.922494 1_555
+Pt0 Zn2 2.650312 1_455
+Pt0 Zn2 2.650312 1_555
+Pt0 Zn1 2.672410 1_555
+Pt0 Zn0 2.698183 1_555
+Pt1 Zn3 2.650312 1_456
+Pt1 Zn3 2.650312 1_556
+Pt1 Zn0 2.672410 1_555
+Pt1 Zn1 2.698183 1_565
+Pt2 Zn0 2.650312 1_555
+Pt2 Zn0 2.650312 1_655
+Pt2 Zn3 2.672425 1_555
+Pt2 Zn2 2.698183 1_555
+Pt3 Zn1 2.650312 1_554
+Pt3 Zn1 2.650312 1_654
+Pt3 Zn2 2.672425 1_555
+Pt3 Zn3 2.698183 1_545

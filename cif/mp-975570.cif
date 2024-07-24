@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_PuNiC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77153816
+_cell_length_b   3.77153816
+_cell_length_c   3.67597196
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.36892830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuNiC2
+_chemical_formula_sum   'Pu1 Ni1 C2'
+_cell_volume   50.16943616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.99989302  0.00010698  -0.00000000  1
+  Ni  Ni0  1  0.39086134  0.60913866  0.50000000  1
+  C  C0  1  0.84987011  0.45562346  0.50000000  1
+  C  C1  1  0.54437654  0.15012989  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 C1 1.380867 1_555
+C0 Ni0 1.957671 1_655
+C0 Ni0 1.974114 1_555
+C0 Pu0 2.682864 1_555
+C0 Pu0 2.682864 1_556
+C0 Pu0 2.694524 1_565
+C0 Pu0 2.694524 1_566
+C1 Ni0 1.957671 1_545
+C1 Ni0 1.974114 1_555
+C1 Pu0 2.682864 1_555
+C1 Pu0 2.682864 1_556
+C1 Pu0 2.694524 1_456
+C1 Pu0 2.694524 1_455

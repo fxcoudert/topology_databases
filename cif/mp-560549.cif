@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_AuSeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49358700
+_cell_length_b   9.99119200
+_cell_length_c   10.90349885
+_cell_angle_alpha   82.05733780
+_cell_angle_beta   88.32462871
+_cell_angle_gamma   88.44212798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AuSeClO3
+_chemical_formula_sum   'Au4 Se4 Cl4 O12'
+_cell_volume   484.49081089
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00472000  0.57897200  0.18621300  1
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au2  1  0.99528000  0.42102800  0.81378700  1
+  Au  Au3  1  0.00000000  0.00000000  0.50000000  1
+  Se  Se0  1  0.71985600  0.86445200  0.27041000  1
+  Se  Se1  1  0.20790900  0.71167400  0.90417000  1
+  Se  Se2  1  0.79209100  0.28832600  0.09583000  1
+  Se  Se3  1  0.28014400  0.13554800  0.72959000  1
+  Cl  Cl0  1  0.33779800  0.49578800  0.66223300  1
+  Cl  Cl1  1  0.66220200  0.50421200  0.33776700  1
+  Cl  Cl2  1  0.27897600  0.19094100  0.44419200  1
+  Cl  Cl3  1  0.72102400  0.80905900  0.55580800  1
+  O  O0  1  0.65519600  0.95066900  0.12254000  1
+  O  O1  1  0.67877700  0.35424000  0.94848900  1
+  O  O2  1  0.03301100  0.76202100  0.24493100  1
+  O  O3  1  0.08087700  0.17276000  0.06852500  1
+  O  O4  1  0.07115300  0.39625600  0.12906000  1
+  O  O5  1  0.91912300  0.82724000  0.93147500  1
+  O  O6  1  0.32122300  0.64576000  0.05151100  1
+  O  O7  1  0.96698900  0.23797900  0.75506900  1
+  O  O8  1  0.93040400  0.99247500  0.31851800  1
+  O  O9  1  0.92884700  0.60374400  0.87094000  1
+  O  O10  1  0.34480400  0.04933100  0.87746000  1
+  O  O11  1  0.06959600  0.00752500  0.68148200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 O4 2.020885 1_555
+Au0 O2 2.027769 1_555
+Au0 O6 2.069729 1_555
+Au0 Cl1 2.286960 1_455
+Au1 O3 2.018930 1_555
+Au1 O5 2.018930 1_444
+Au1 O0 2.041388 1_445
+Au1 O10 2.041388 1_554
+Au2 O9 2.020885 1_555
+Au2 O7 2.027769 1_555
+Au2 O1 2.069729 1_555
+Au2 Cl0 2.286960 1_655
+Au3 O8 2.024263 1_445
+Au3 O11 2.024263 1_555
+Au3 Cl2 2.312106 1_555
+Au3 Cl3 2.312106 1_445
+O0 Se0 1.748118 1_555
+O1 Se2 1.735259 1_556
+O2 Se0 1.755601 1_455
+O3 Se2 1.759762 1_455
+O4 Se2 1.753475 1_455
+O5 Se1 1.759762 1_655
+O6 Se1 1.735259 1_554
+O7 Se3 1.755601 1_655
+O8 Se0 1.756881 1_555
+O9 Se1 1.753475 1_655
+O10 Se3 1.748118 1_555
+O11 Se3 1.756881 1_555

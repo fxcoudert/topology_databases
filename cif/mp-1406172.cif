@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Mg2CuN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67290834
+_cell_length_b   5.67290834
+_cell_length_c   6.92098764
+_cell_angle_alpha   60.93579301
+_cell_angle_beta   60.93579301
+_cell_angle_gamma   42.02350880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2CuN2
+_chemical_formula_sum   'Mg4 Cu2 N4'
+_cell_volume   127.32372847
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.32892600  0.32892600  0.03439500  1
+  Mg  Mg1  1  0.67107400  0.67107400  0.96560500  1
+  Mg  Mg2  1  0.96248300  0.96248300  0.23393900  1
+  Mg  Mg3  1  0.03751700  0.03751700  0.76606100  1
+  Cu  Cu0  1  0.64403800  0.64403800  0.39111900  1
+  Cu  Cu1  1  0.35596200  0.35596200  0.60888100  1
+  N  N0  1  0.82508000  0.82508000  0.09802700  1
+  N  N1  1  0.17492000  0.17492000  0.90197300  1
+  N  N2  1  0.52139200  0.52139200  0.70137000  1
+  N  N3  1  0.47860800  0.47860800  0.29863000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 N0 2.077113 1_455
+Mg0 N0 2.077113 1_545
+Mg0 N2 2.139570 1_554
+Mg0 N1 2.248658 1_554
+Mg1 N1 2.077113 1_565
+Mg1 N1 2.077113 1_655
+Mg1 N3 2.139570 1_556
+Mg1 N0 2.248658 1_556
+Mg2 N0 2.104144 1_555
+Mg2 N3 2.108713 1_655
+Mg2 N3 2.108713 1_565
+Mg2 N1 2.227305 1_664
+Mg3 N1 2.104144 1_555
+Mg3 N2 2.108713 1_545
+Mg3 N2 2.108713 1_455
+Mg3 N0 2.227305 1_446
+Cu0 N2 1.842560 1_555
+Cu0 N0 1.934757 1_555
+Cu0 N3 2.155698 1_555
+Cu1 N3 1.842560 1_555
+Cu1 N1 1.934757 1_555
+Cu1 N2 2.155698 1_555

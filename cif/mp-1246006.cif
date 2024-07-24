@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Na(OsN2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52183445
+_cell_length_b   5.36236200
+_cell_length_c   9.36887158
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   84.16927987
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(OsN2)3
+_chemical_formula_sum   'Na2 Os6 N12'
+_cell_volume   275.97776369
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os0  1  0.93055100  0.50468400  0.25295500  1
+  Os  Os1  1  0.43055100  0.99531600  0.75295500  1
+  Os  Os2  1  0.06944900  0.49531600  0.74704500  1
+  Os  Os3  1  0.56944900  0.00468400  0.24704500  1
+  Os  Os4  1  0.00000000  0.00000000  0.50000000  1
+  Os  Os5  1  0.50000000  0.50000000  0.00000000  1
+  N  N0  1  0.31995800  0.00520600  0.38163500  1
+  N  N1  1  0.81995800  0.49479400  0.88163500  1
+  N  N2  1  0.68004200  0.99479400  0.61836500  1
+  N  N3  1  0.18004200  0.50520600  0.11836500  1
+  N  N4  1  0.83601300  0.83240800  0.32942400  1
+  N  N5  1  0.33601300  0.66759200  0.82942400  1
+  N  N6  1  0.16398700  0.16759200  0.67057600  1
+  N  N7  1  0.66398700  0.33240800  0.17057600  1
+  N  N8  1  0.93713500  0.31508000  0.40832600  1
+  N  N9  1  0.43713500  0.18492000  0.90832600  1
+  N  N10  1  0.06286500  0.68492000  0.59167400  1
+  N  N11  1  0.56286500  0.81508000  0.09167400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+N0 Os3 1.770587 1_555
+N0 Os4 1.988439 1_555
+N1 Os2 1.770587 1_655
+N1 Os5 1.988439 1_556
+N2 Os1 1.770587 1_555
+N2 Os4 1.988439 1_665
+N3 Os0 1.770587 1_455
+N3 Os5 1.988439 1_555
+N4 Os0 1.948886 1_555
+N4 Os3 1.961240 1_565
+N4 Os4 2.115549 1_665
+N4 Na0 2.927678 1_555
+N5 Os1 1.948886 1_555
+N5 Os2 1.961240 1_555
+N5 Os5 2.115549 1_556
+N5 Na1 2.927678 1_566
+N6 Os2 1.948886 1_555
+N6 Os1 1.961240 1_545
+N6 Os4 2.115549 1_555
+N6 Na0 2.927678 1_555
+N7 Os3 1.948886 1_555
+N7 Os0 1.961240 1_555
+N7 Os5 2.115549 1_555
+N7 Na1 2.927678 1_655
+N8 Os0 1.778967 1_555
+N8 Os4 1.942527 1_655
+N8 Na0 2.669477 1_555
+N9 Os1 1.778967 1_545
+N9 Os5 1.942527 1_556
+N9 Na1 2.669477 1_556
+N10 Os2 1.778967 1_555
+N10 Os4 1.942527 1_565
+N10 Na0 2.669477 1_555
+N11 Os3 1.778967 1_565
+N11 Os5 1.942527 1_555
+N11 Na1 2.669477 1_665

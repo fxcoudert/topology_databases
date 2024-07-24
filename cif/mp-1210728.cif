@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_Mg(AuF6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96319900
+_cell_length_b   5.96319900
+_cell_length_c   7.03618800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AuF6)2
+_chemical_formula_sum   'Mg1 Au2 F12'
+_cell_volume   250.20503215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au0  1  0.00000000  0.50000000  0.21628600  1
+  Au  Au1  1  0.50000000  0.00000000  0.78371400  1
+  F  F0  1  0.24176900  0.20432100  0.80064300  1
+  F  F1  1  0.75823100  0.79567900  0.80064300  1
+  F  F2  1  0.20432100  0.75823100  0.19935700  1
+  F  F3  1  0.79567900  0.24176900  0.19935700  1
+  F  F4  1  0.00000000  0.50000000  0.49113200  1
+  F  F5  1  0.50000000  0.00000000  0.50886800  1
+  F  F6  1  0.00000000  0.50000000  0.93968300  1
+  F  F7  1  0.50000000  0.00000000  0.06031700  1
+  F  F8  1  0.20432100  0.24176900  0.19935700  1
+  F  F9  1  0.79567900  0.75823100  0.19935700  1
+  F  F10  1  0.24176900  0.79567900  0.80064300  1
+  F  F11  1  0.75823100  0.20432100  0.80064300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Au0 F4 1.933868 1_555
+Au0 F6 1.946231 1_554
+Au0 F3 1.967217 1_455
+Au0 F9 1.967217 1_455
+Au0 F2 1.967217 1_555
+Au0 F8 1.967217 1_555
+Au1 F5 1.933868 1_555
+Au1 F7 1.946231 1_556
+Au1 F1 1.967217 1_545
+Au1 F10 1.967217 1_545
+Au1 F11 1.967217 1_555
+Au1 F0 1.967217 1_555
+F0 Mg0 2.351737 1_556
+F1 Mg0 2.351737 1_666
+F2 Mg0 2.351737 1_565
+F3 Mg0 2.351737 1_655
+F8 Mg0 2.351737 1_555
+F9 Mg0 2.351737 1_665
+F10 Mg0 2.351737 1_566
+F11 Mg0 2.351737 1_656

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaCa(WO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86905909
+_cell_length_b   5.86905909
+_cell_length_c   7.51963900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa(WO2)4
+_chemical_formula_sum   'Ba1 Ca1 W4 O8'
+_cell_volume   224.31826221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca0  1  0.00000000  0.00000000  0.50000000  1
+  W  W0  1  0.33333300  0.66666700  0.72643600  1
+  W  W1  1  0.66666700  0.33333300  0.72643600  1
+  W  W2  1  0.33333300  0.66666700  0.27356400  1
+  W  W3  1  0.66666700  0.33333300  0.27356400  1
+  O  O0  1  0.30322300  0.30322300  0.70535700  1
+  O  O1  1  0.69677700  0.00000000  0.70535700  1
+  O  O2  1  0.00000000  0.69677700  0.70535700  1
+  O  O3  1  0.69677700  0.69677700  0.29464300  1
+  O  O4  1  0.00000000  0.30322300  0.29464300  1
+  O  O5  1  0.30322300  0.00000000  0.29464300  1
+  O  O6  1  0.33333300  0.66666700  0.00000000  1
+  O  O7  1  0.66666700  0.33333300  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O4 2.841834 1_555
+Ba0 O5 2.841834 1_555
+Ba0 O1 2.841834 1_454
+Ba0 O2 2.841834 1_544
+Ba0 O0 2.841834 1_554
+Ba0 O3 2.841834 1_445
+Ba0 O6 3.388499 1_545
+Ba0 O7 3.388499 1_455
+Ba0 O7 3.388505 1_445
+Ba0 O6 3.388505 1_555
+Ba0 O6 3.388505 1_445
+Ba0 O7 3.388505 1_555
+Ca0 O4 2.356201 1_555
+Ca0 O5 2.356201 1_555
+Ca0 O2 2.356201 1_545
+Ca0 O1 2.356201 1_455
+Ca0 O3 2.356201 1_445
+Ca0 O0 2.356201 1_555
+O0 W1 2.056552 1_555
+O0 W0 2.056552 1_555
+O1 W1 2.056547 1_555
+O1 W0 2.056550 1_545
+O2 W0 2.056547 1_555
+O2 W1 2.056550 1_455
+O3 W3 2.056552 1_555
+O3 W2 2.056552 1_555
+O4 W3 2.056547 1_455
+O4 W2 2.056550 1_555
+O5 W2 2.056547 1_545
+O5 W3 2.056550 1_555
+O6 W2 2.057103 1_555
+O6 W0 2.057103 1_554
+O7 W3 2.057103 1_555
+O7 W1 2.057103 1_554

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Zn(OF)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56512464
+_cell_length_b   6.56512464
+_cell_length_c   9.40369353
+_cell_angle_alpha   50.00627481
+_cell_angle_beta   50.00627481
+_cell_angle_gamma   26.34596855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(OF)2
+_chemical_formula_sum   'Zn2 O4 F4'
+_cell_volume   135.11976301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.13045700  0.86954300  0.25000000  1
+  Zn  Zn1  1  0.86954300  0.13045700  0.75000000  1
+  O  O0  1  0.98162500  0.73968900  0.53300900  1
+  O  O1  1  0.26031100  0.01837500  0.96699100  1
+  O  O2  1  0.01837500  0.26031100  0.46699100  1
+  O  O3  1  0.73968900  0.98162500  0.03300900  1
+  F  F0  1  0.52480400  0.26526200  0.25014800  1
+  F  F1  1  0.73473800  0.47519600  0.24985200  1
+  F  F2  1  0.47519600  0.73473800  0.74985200  1
+  F  F3  1  0.26526200  0.52480400  0.75014800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Zn0 1.999551 1_655
+O1 Zn0 1.999551 1_546
+O2 Zn1 1.999551 1_455
+O3 Zn1 1.999551 1_564
+F0 Zn0 2.007667 1_555
+F0 Zn0 2.010724 1_645
+F1 Zn0 2.007667 1_555
+F1 Zn0 2.010724 1_645
+F2 Zn1 2.007667 1_555
+F2 Zn1 2.010724 1_465
+F3 Zn1 2.007667 1_555
+F3 Zn1 2.010724 1_465

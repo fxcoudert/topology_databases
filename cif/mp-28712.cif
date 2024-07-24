@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Si2Hg6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10424152
+_cell_length_b   7.05429007
+_cell_length_c   7.05428828
+_cell_angle_alpha   65.34758896
+_cell_angle_beta   71.96548011
+_cell_angle_gamma   71.96547613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2Hg6O7
+_chemical_formula_sum   'Si2 Hg6 O7'
+_cell_volume   256.72798792
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.10234140  0.35327145  0.35327145  1
+  Si  Si1  1  0.89765860  0.64672855  0.64672855  1
+  Hg  Hg0  1  0.41770505  0.87584070  0.35631748  1
+  Hg  Hg1  1  0.58229495  0.64368252  0.12415930  1
+  Hg  Hg2  1  0.58229495  0.12415930  0.64368252  1
+  Hg  Hg3  1  0.41770505  0.35631748  0.87584070  1
+  Hg  Hg4  1  0.04676163  0.88526830  0.88526830  1
+  Hg  Hg5  1  0.95323837  0.11473170  0.11473170  1
+  O  O0  1  -0.00000000  0.50000000  0.50000000  1
+  O  O1  1  0.26127685  0.12994227  0.48424195  1
+  O  O2  1  0.73872315  0.51575805  0.87005773  1
+  O  O3  1  0.73872315  0.87005773  0.51575805  1
+  O  O4  1  0.26127685  0.48424195  0.12994227  1
+  O  O5  1  0.12026220  0.69349458  0.69349458  1
+  O  O6  1  0.87973780  0.30650542  0.30650542  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 O1 2.166865 1_565
+Hg0 O3 2.526565 1_555
+Hg0 O5 2.613132 1_555
+Hg1 O2 2.166865 1_554
+Hg1 O4 2.526565 1_555
+Hg1 O6 2.613132 1_555
+Hg2 O3 2.166865 1_545
+Hg2 O1 2.526565 1_555
+Hg2 O6 2.613132 1_555
+Hg3 O4 2.166865 1_556
+Hg3 O2 2.526565 1_555
+Hg3 O5 2.613132 1_555
+Hg4 O5 2.153297 1_555
+Hg5 O6 2.153297 1_555
+O0 Si1 1.620493 1_455
+O0 Si0 1.620493 1_555
+O1 Si0 1.634378 1_555
+O2 Si1 1.634378 1_555
+O3 Si1 1.634378 1_555
+O4 Si0 1.634378 1_555
+O5 Si1 1.646208 1_455
+O6 Si0 1.646208 1_655

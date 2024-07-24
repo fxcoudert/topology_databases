@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Mg(CoO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02741809
+_cell_length_b   6.02741809
+_cell_length_c   6.02741809
+_cell_angle_alpha   121.43785649
+_cell_angle_beta   121.43785649
+_cell_angle_gamma   87.52709400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CoO2)2
+_chemical_formula_sum   'Mg2 Co4 O8'
+_cell_volume   151.32021324
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25000000  0.75000000  0.50000000  1
+  Mg  Mg1  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co0  1  0.87500000  0.62500000  0.75000000  1
+  Co  Co1  1  0.87500000  0.12500000  0.25000000  1
+  Co  Co2  1  0.37500000  0.12500000  0.25000000  1
+  Co  Co3  1  0.87500000  0.12500000  0.75000000  1
+  O  O0  1  0.62239500  0.36842900  0.71676400  1
+  O  O1  1  0.09436900  0.37760500  0.74603500  1
+  O  O2  1  0.63157100  0.34833400  0.25396600  1
+  O  O3  1  0.09833400  0.34436900  0.21676400  1
+  O  O4  1  0.11842900  0.90166600  0.24603500  1
+  O  O5  1  0.65563100  0.87239500  0.75396500  1
+  O  O6  1  0.65166600  0.90563100  0.28323600  1
+  O  O7  1  0.12760500  0.88157100  0.78323600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O7 1.984599 1_555
+Mg0 O4 1.984599 1_555
+Mg0 O5 1.984599 1_555
+Mg0 O3 1.984599 1_555
+Mg1 O0 1.984599 1_554
+Mg1 O6 1.984599 1_555
+Mg1 O1 1.984599 1_554
+Mg1 O2 1.984604 1_555
+Co0 O1 1.948857 1_655
+Co0 O5 1.948857 1_555
+Co0 O2 2.075281 1_555
+Co0 O4 2.075285 1_656
+Co0 O7 2.076463 1_655
+Co0 O0 2.076463 1_555
+Co1 O4 1.948853 1_645
+Co1 O2 1.948853 1_555
+Co1 O5 2.075285 1_544
+Co1 O1 2.075285 1_655
+Co1 O3 2.076459 1_655
+Co1 O6 2.076459 1_545
+Co2 O0 1.948857 1_555
+Co2 O7 1.948857 1_544
+Co2 O3 2.075285 1_555
+Co2 O6 2.075285 1_545
+Co2 O2 2.076459 1_555
+Co2 O4 2.076463 1_545
+Co3 O3 1.948857 1_656
+Co3 O6 1.948857 1_545
+Co3 O0 2.075281 1_555
+Co3 O7 2.075281 1_645
+Co3 O1 2.076459 1_655
+Co3 O5 2.076459 1_545

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Lu2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65337601
+_cell_length_b   6.94302305
+_cell_length_c   8.54049246
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Pt
+_chemical_formula_sum   'Lu8 Pt4'
+_cell_volume   275.93047415
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.64420259  0.57857370  1
+  Lu  Lu1  1  0.75000000  0.14420159  0.92142630  1
+  Lu  Lu2  1  0.25000000  0.35579841  0.42142530  1
+  Lu  Lu3  1  0.25000000  0.85579841  0.07857570  1
+  Lu  Lu4  1  0.75000000  0.51091101  0.16733560  1
+  Lu  Lu5  1  0.75000000  0.01090901  0.33266440  1
+  Lu  Lu6  1  0.25000000  0.48908999  0.83266540  1
+  Lu  Lu7  1  0.25000000  0.98908899  0.66733360  1
+  Pt  Pt0  1  0.75000000  0.24149789  0.59548242  1
+  Pt  Pt1  1  0.75000000  0.74149889  0.90451658  1
+  Pt  Pt2  1  0.25000000  0.75850011  0.40451458  1
+  Pt  Pt3  1  0.25000000  0.25850211  0.09548442  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pt0 2.799715 1_555
+Lu0 Pt1 2.864507 1_555
+Lu0 Pt2 2.872815 1_555
+Lu0 Pt2 2.872815 1_655
+Lu1 Pt1 2.799701 1_545
+Lu1 Pt0 2.864515 1_555
+Lu1 Pt3 2.872816 1_556
+Lu1 Pt3 2.872816 1_656
+Lu2 Pt2 2.799695 1_555
+Lu2 Pt3 2.864490 1_555
+Lu2 Pt0 2.872811 1_455
+Lu2 Pt0 2.872811 1_555
+Lu3 Pt3 2.799708 1_565
+Lu3 Pt2 2.864477 1_555
+Lu3 Pt1 2.872818 1_554
+Lu3 Pt1 2.872818 1_454
+Lu4 Pt1 2.757059 1_554
+Lu4 Pt3 2.976781 1_655
+Lu4 Pt3 2.976781 1_555
+Lu5 Pt0 2.757056 1_555
+Lu5 Pt2 2.976779 1_645
+Lu5 Pt2 2.976779 1_545
+Lu6 Pt3 2.757059 1_556
+Lu6 Pt1 2.976781 1_555
+Lu6 Pt1 2.976781 1_455
+Lu7 Pt2 2.757063 1_555
+Lu7 Pt0 2.976781 1_565
+Lu7 Pt0 2.976781 1_465

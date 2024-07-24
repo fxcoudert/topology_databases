@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Ta5(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50380121
+_cell_length_b   7.21274549
+_cell_length_c   7.21274549
+_cell_angle_alpha   86.61785021
+_cell_angle_beta   75.94284813
+_cell_angle_gamma   75.94284813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5(NiP)4
+_chemical_formula_sum   'Ta5 Ni4 P4'
+_cell_volume   171.52697657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.86883748  0.32586627  0.93646078  1
+  Ta  Ta1  1  0.13116252  0.67413373  0.06353922  1
+  Ta  Ta2  1  0.19470275  0.93646078  0.67413373  1
+  Ta  Ta3  1  0.80529725  0.06353922  0.32586627  1
+  Ta  Ta4  1  0.50000000  -0.00000000  0.00000000  1
+  Ni  Ni0  1  0.61074283  0.47602704  0.30248731  1
+  Ni  Ni1  1  0.38925717  0.52397296  0.69751269  1
+  Ni  Ni2  1  0.08676986  0.30248731  0.52397296  1
+  Ni  Ni3  1  0.91323014  0.69751269  0.47602704  1
+  P  P0  1  0.75976854  0.68517778  0.79528715  1
+  P  P1  1  0.24023146  0.31482222  0.20471285  1
+  P  P2  1  0.44494531  0.79528715  0.31482222  1
+  P  P3  1  0.55505469  0.20471285  0.68517778  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 P1 2.193017 1_655
+Ni0 P1 2.193023 1_555
+Ni0 P2 2.235450 1_555
+Ni1 P0 2.193017 1_455
+Ni1 P0 2.193023 1_555
+Ni1 P3 2.235450 1_555
+Ni2 P3 2.193020 1_455
+Ni2 P3 2.193020 1_555
+Ni2 P1 2.235450 1_555
+Ni3 P2 2.193020 1_655
+Ni3 P2 2.193020 1_555
+Ni3 P0 2.235450 1_555
+P0 Ta1 2.568624 1_656
+P0 Ta1 2.568634 1_556
+P0 Ta2 2.622756 1_655
+P0 Ta2 2.622761 1_555
+P0 Ta4 2.627468 1_566
+P0 Ta0 2.701098 1_555
+P1 Ta0 2.568624 1_454
+P1 Ta0 2.568634 1_554
+P1 Ta3 2.622756 1_455
+P1 Ta3 2.622761 1_555
+P1 Ta4 2.627468 1_555
+P1 Ta1 2.701098 1_555
+P2 Ta3 2.568629 1_465
+P2 Ta3 2.568629 1_565
+P2 Ta1 2.622756 1_655
+P2 Ta1 2.622761 1_555
+P2 Ta4 2.627468 1_565
+P2 Ta2 2.701098 1_555
+P3 Ta2 2.568629 1_645
+P3 Ta2 2.568629 1_545
+P3 Ta0 2.622756 1_455
+P3 Ta0 2.622761 1_555
+P3 Ta4 2.627468 1_556
+P3 Ta3 2.701098 1_555

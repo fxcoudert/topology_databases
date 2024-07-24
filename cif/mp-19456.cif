@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_AlV2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84381375
+_cell_length_b   5.84396867
+_cell_length_c   5.90556721
+_cell_angle_alpha   59.66320621
+_cell_angle_beta   59.65034791
+_cell_angle_gamma   60.70230209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlV2O4
+_chemical_formula_sum   'Al2 V4 O8'
+_cell_volume   142.59549423
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.62503445  0.62501630  0.62497812  1
+  Al  Al1  1  0.37498418  0.37498804  0.37500607  1
+  V  V0  1  -0.00001048  -0.00001034  0.00000263  1
+  V  V1  1  -0.00001054  -0.00000960  0.50001838  1
+  V  V2  1  -0.00002244  0.50003353  -0.00000633  1
+  V  V3  1  0.50002789  -0.00002338  -0.00000167  1
+  O  O0  1  0.25161050  0.75352935  0.74739583  1
+  O  O1  1  0.25248342  0.25252830  0.74859687  1
+  O  O2  1  0.24640898  0.74860183  0.25250885  1
+  O  O3  1  0.25252681  0.25262770  0.24643936  1
+  O  O4  1  0.74752226  0.74747933  0.25137621  1
+  O  O5  1  0.74838590  0.24646692  0.25261049  1
+  O  O6  1  0.75358299  0.25138952  0.74750121  1
+  O  O7  1  0.74747408  0.74738149  0.75357398  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 O7 1.788444 1_555
+Al0 O0 1.788571 1_555
+Al0 O4 1.789638 1_555
+Al0 O6 1.789813 1_555
+Al1 O3 1.788362 1_555
+Al1 O5 1.788467 1_555
+Al1 O1 1.789582 1_555
+Al1 O2 1.789755 1_555
+O0 V2 2.065229 1_556
+O0 V0 2.084006 1_566
+O0 V1 2.084086 1_565
+O1 V0 2.064837 1_556
+O1 V2 2.083312 1_556
+O1 V3 2.083872 1_556
+O2 V3 2.064678 1_565
+O2 V1 2.083294 1_565
+O2 V0 2.083785 1_565
+O3 V1 2.065417 1_555
+O3 V2 2.084072 1_555
+O3 V3 2.084112 1_555
+O4 V0 2.064612 1_665
+O4 V2 2.083004 1_655
+O4 V3 2.083564 1_565
+O5 V2 2.065350 1_655
+O5 V0 2.084080 1_655
+O5 V1 2.084139 1_655
+O6 V3 2.064572 1_556
+O6 V1 2.083228 1_655
+O6 V0 2.083712 1_656
+O7 V1 2.065211 1_665
+O7 V2 2.083772 1_656
+O7 V3 2.083808 1_566

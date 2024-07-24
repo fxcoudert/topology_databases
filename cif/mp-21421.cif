@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pu2SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89982832
+_cell_length_b   3.89982849
+_cell_length_c   6.64821478
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu2SO2
+_chemical_formula_sum   'Pu2 S1 O2'
+_cell_volume   87.56423464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.66666700  0.33333300  0.72393923  1
+  Pu  Pu1  1  0.33333300  0.66666700  0.27606077  1
+  S  S0  1  -0.00000000  0.00000000  -0.00000000  1
+  O  O0  1  0.33333300  0.66666700  0.62965179  1
+  O  O1  1  0.66666700  0.33333300  0.37034821  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pu0 S0 2.904808 1_656
+Pu0 S0 2.904811 1_556
+Pu0 S0 2.904811 1_666
+Pu1 S0 2.904808 1_565
+Pu1 S0 2.904811 1_665
+Pu1 S0 2.904811 1_555
+O0 Pu0 2.337194 1_455
+O0 Pu0 2.337195 1_565
+O0 Pu0 2.337200 1_555
+O0 Pu1 2.350749 1_555
+O1 Pu1 2.337194 1_655
+O1 Pu1 2.337195 1_545
+O1 Pu1 2.337200 1_555
+O1 Pu0 2.350749 1_555

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ba2LiZn2(SO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99254053
+_cell_length_b   6.19245907
+_cell_length_c   7.53333282
+_cell_angle_alpha   100.30011594
+_cell_angle_beta   90.10985139
+_cell_angle_gamma   90.22197874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiZn2(SO)2
+_chemical_formula_sum   'Ba2 Li1 Zn2 S2 O2'
+_cell_volume   183.24791515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.58256700  0.26907700  0.18911000  1
+  Ba  Ba1  1  0.58299000  0.67311300  0.81639700  1
+  Li  Li0  1  0.57948800  0.11873400  0.56987400  1
+  Zn  Zn0  1  0.08603600  0.76763200  0.18584300  1
+  Zn  Zn1  1  0.07625300  0.19037100  0.83072600  1
+  S  S0  1  0.58747200  0.79563900  0.35028800  1
+  S  S1  1  0.08302400  0.32976600  0.55658700  1
+  O  O0  1  0.08338400  0.47318600  0.01640700  1
+  O  O1  1  0.08878500  0.96581600  0.99402800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O0 2.803556 1_555
+Ba0 O0 2.804780 1_655
+Ba0 O1 2.923398 1_544
+Ba0 O1 2.970705 1_644
+Ba0 S1 3.376118 1_655
+Ba0 S1 3.381954 1_555
+Ba1 O1 2.853019 1_555
+Ba1 O1 2.871917 1_655
+Ba1 O0 2.905392 1_556
+Ba1 O0 2.910172 1_656
+Ba1 S1 3.286316 1_555
+Ba1 S1 3.301014 1_655
+Li0 S0 2.357452 1_545
+Li0 S1 2.390142 1_555
+Li0 S1 2.405538 1_655
+S0 Zn0 2.337154 1_655
+S0 Zn0 2.341738 1_555
+S1 Zn1 2.376623 1_555
+O0 Zn0 2.030138 1_555
+O0 Zn1 2.036659 1_554
+O1 Zn1 2.015339 1_565
+O1 Zn0 2.056314 1_556

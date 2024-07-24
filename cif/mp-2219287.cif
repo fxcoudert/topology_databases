@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MgTe2Mo2W2(Se2S)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34269504
+_cell_length_b   3.34289422
+_cell_length_c   45.73178139
+_cell_angle_alpha   90.00839972
+_cell_angle_beta   89.98320389
+_cell_angle_gamma   119.99959939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe2Mo2W2(Se2S)2
+_chemical_formula_sum   'Mg1 Te2 Mo2 W2 Se4 S2'
+_cell_volume   442.55767437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00041900  0.00004600  0.36169000  1
+  Te  Te0  1  0.66672900  0.33325100  0.05217400  1
+  Te  Te1  1  0.66638000  0.33314900  0.13516100  1
+  Mo  Mo0  1  0.33322100  0.66650300  0.09364900  1
+  Mo  Mo1  1  0.66643500  0.33341700  0.27526300  1
+  W  W0  1  0.33326500  0.66671700  0.47890700  1
+  W  W1  1  0.66689200  0.33336000  0.65795200  1
+  Se  Se0  1  0.33334100  0.66661300  0.69457000  1
+  Se  Se1  1  0.66676900  0.33344600  0.44222000  1
+  Se  Se2  1  0.66653200  0.33339300  0.51556400  1
+  Se  Se3  1  0.33373200  0.66673200  0.62132300  1
+  S  S0  1  0.33303300  0.66659900  0.30932700  1
+  S  S1  1  0.33325100  0.66677000  0.24248000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 3.074086 1_545
+Mg0 S0 3.075405 1_555
+Mg0 S0 3.077227 1_445
+Mo0 Te0 2.705826 1_555
+Mo0 Te0 2.705927 1_455
+Mo0 Te0 2.706194 1_565
+Mo0 Te1 2.707147 1_455
+Mo0 Te1 2.707170 1_565
+Mo0 Te1 2.707190 1_555
+Mo1 S1 2.443857 1_555
+Mo1 S1 2.443858 1_655
+Mo1 S1 2.443863 1_545
+Mo1 S0 2.479729 1_555
+Mo1 S0 2.480341 1_655
+Mo1 S0 2.480618 1_545
+Se0 W1 2.555011 1_455
+Se0 W1 2.555180 1_555
+Se0 W1 2.555429 1_565
+Se1 W0 2.557184 1_655
+Se1 W0 2.557185 1_555
+Se1 W0 2.557458 1_545
+Se2 W0 2.556159 1_655
+Se2 W0 2.556442 1_545
+Se2 W0 2.556526 1_555
+Se3 W1 2.555498 1_565
+Se3 W1 2.555553 1_455
+Se3 W1 2.555557 1_555

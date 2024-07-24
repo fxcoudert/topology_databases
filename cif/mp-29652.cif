@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_TaSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52664896
+_cell_length_b   10.10898692
+_cell_length_c   10.75011511
+_cell_angle_alpha   108.14838277
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSe3
+_chemical_formula_sum   'Ta4 Se12'
+_cell_volume   364.18516607
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.75000000  0.04581668  0.33236334  1
+  Ta  Ta1  1  0.25000000  0.95418332  0.66763666  1
+  Ta  Ta2  1  0.75000000  0.37360852  0.80920376  1
+  Ta  Ta3  1  0.25000000  0.62639148  0.19079624  1
+  Se  Se0  1  0.75000000  0.11795605  0.60153706  1
+  Se  Se1  1  0.25000000  0.88204395  0.39846294  1
+  Se  Se2  1  0.75000000  0.74684772  0.60616962  1
+  Se  Se3  1  0.25000000  0.25315228  0.39383038  1
+  Se  Se4  1  0.25000000  0.57208910  0.91787708  1
+  Se  Se5  1  0.75000000  0.42791090  0.08212292  1
+  Se  Se6  1  0.25000000  0.20334810  0.86625696  1
+  Se  Se7  1  0.75000000  0.79665190  0.13374304  1
+  Se  Se8  1  0.25000000  0.07446459  0.16307490  1
+  Se  Se9  1  0.75000000  0.92553541  0.83692510  1
+  Se  Se10  1  0.25000000  0.41650053  0.64280757  1
+  Se  Se11  1  0.75000000  0.58349947  0.35719243  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Se0 Ta1 2.662335 1_545
+Se0 Ta1 2.662335 1_645
+Se0 Ta0 2.755076 1_555
+Se0 Ta2 2.840546 1_555
+Se1 Ta0 2.662335 1_465
+Se1 Ta0 2.662335 1_565
+Se1 Ta1 2.755076 1_555
+Se1 Ta3 2.840546 1_555
+Se2 Ta1 2.660110 1_655
+Se2 Ta1 2.660110 1_555
+Se3 Ta0 2.660110 1_455
+Se3 Ta0 2.660110 1_555
+Se4 Ta2 2.653241 1_555
+Se4 Ta2 2.653241 1_455
+Se4 Ta3 2.811739 1_556
+Se5 Ta3 2.653241 1_655
+Se5 Ta3 2.653241 1_555
+Se5 Ta2 2.811739 1_554
+Se6 Ta2 2.665613 1_555
+Se6 Ta2 2.665613 1_455
+Se6 Ta1 2.748284 1_545
+Se7 Ta3 2.665613 1_655
+Se7 Ta3 2.665613 1_555
+Se7 Ta0 2.748284 1_565
+Se8 Ta0 2.614083 1_555
+Se8 Ta0 2.614083 1_455
+Se9 Ta1 2.614083 1_655
+Se9 Ta1 2.614083 1_555
+Se10 Ta2 2.642010 1_455
+Se10 Ta2 2.642010 1_555
+Se11 Ta3 2.642010 1_555
+Se11 Ta3 2.642010 1_655

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ZrMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80542529
+_cell_length_b   6.67374170
+_cell_length_c   7.71797363
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnSi
+_chemical_formula_sum   'Zr4 Mn4 Si4'
+_cell_volume   196.00894187
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.25000000  0.53164466  0.67643626  1
+  Zr  Zr1  1  0.25000000  0.03164466  0.82356374  1
+  Zr  Zr2  1  0.75000000  0.96835534  0.17643626  1
+  Zr  Zr3  1  0.75000000  0.46835534  0.32356374  1
+  Mn  Mn0  1  0.75000000  0.36580831  0.94163611  1
+  Mn  Mn1  1  0.25000000  0.13419169  0.44163611  1
+  Mn  Mn2  1  0.75000000  0.86580831  0.55836389  1
+  Mn  Mn3  1  0.25000000  0.63419169  0.05836389  1
+  Si  Si0  1  0.25000000  0.26152707  0.12732500  1
+  Si  Si1  1  0.25000000  0.76152707  0.37267500  1
+  Si  Si2  1  0.75000000  0.73847293  0.87267500  1
+  Si  Si3  1  0.75000000  0.23847293  0.62732500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Si0 2.481643 1_656
+Mn0 Si0 2.481643 1_556
+Mn0 Si2 2.543380 1_555
+Mn0 Si3 2.570387 1_555
+Mn1 Si3 2.481643 1_555
+Mn1 Si3 2.481643 1_455
+Mn1 Si1 2.543380 1_545
+Mn1 Si0 2.570387 1_555
+Mn2 Si1 2.481643 1_555
+Mn2 Si1 2.481643 1_655
+Mn2 Si3 2.543380 1_565
+Mn2 Si2 2.570387 1_555
+Mn3 Si2 2.481643 1_554
+Mn3 Si2 2.481643 1_454
+Mn3 Si0 2.543380 1_555
+Mn3 Si1 2.570387 1_555
+Si0 Zr2 2.755374 1_445
+Si0 Zr2 2.755374 1_545
+Si0 Zr3 2.796337 1_455
+Si0 Zr3 2.796337 1_555
+Si0 Zr1 2.801786 1_554
+Si1 Zr3 2.755374 1_455
+Si1 Zr3 2.755374 1_555
+Si1 Zr2 2.796337 1_555
+Si1 Zr2 2.796337 1_455
+Si1 Zr0 2.801786 1_555
+Si2 Zr1 2.755374 1_565
+Si2 Zr1 2.755374 1_665
+Si2 Zr0 2.796337 1_555
+Si2 Zr0 2.796337 1_655
+Si2 Zr2 2.801786 1_556
+Si3 Zr0 2.755374 1_655
+Si3 Zr0 2.755374 1_555
+Si3 Zr1 2.796337 1_655
+Si3 Zr1 2.796337 1_555
+Si3 Zr3 2.801786 1_555

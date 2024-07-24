@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_SrGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05351013
+_cell_length_b   7.05351013
+_cell_length_c   5.77136400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGeO3
+_chemical_formula_sum   'Sr3 Ge3 O9'
+_cell_volume   248.66787413
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.33749300  0.50000000  1
+  Sr  Sr1  1  0.33749300  0.00000000  0.50000000  1
+  Sr  Sr2  1  0.66250700  0.66250700  0.50000000  1
+  Ge  Ge0  1  0.26922400  0.26922400  0.00000000  1
+  Ge  Ge1  1  0.73077600  0.00000000  0.00000000  1
+  Ge  Ge2  1  0.00000000  0.73077600  0.00000000  1
+  O  O0  1  0.75715000  0.75715000  0.00000000  1
+  O  O1  1  0.36313100  0.36313100  0.27817400  1
+  O  O2  1  0.63686900  0.00000000  0.72182600  1
+  O  O3  1  0.63686900  0.00000000  0.27817400  1
+  O  O4  1  0.00000000  0.63686900  0.72182600  1
+  O  O5  1  0.00000000  0.24285000  0.00000000  1
+  O  O6  1  0.36313100  0.36313100  0.72182600  1
+  O  O7  1  0.00000000  0.63686900  0.27817400  1
+  O  O8  1  0.24285000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 O6 1.736718 1_554
+Ge0 O1 1.736718 1_555
+Ge0 O5 1.813131 1_555
+Ge0 O8 1.813131 1_555
+Ge1 O3 1.736718 1_555
+Ge1 O2 1.736718 1_554
+Ge1 O5 1.813131 1_655
+Ge1 O0 1.813131 1_545
+Ge2 O7 1.736718 1_555
+Ge2 O4 1.736718 1_554
+Ge2 O8 1.813131 1_565
+Ge2 O0 1.813131 1_455
+O0 Sr2 2.961892 1_555
+O0 Sr2 2.961892 1_554
+O1 Sr2 2.469430 1_555
+O1 Sr0 2.787298 1_555
+O1 Sr1 2.787298 1_555
+O2 Sr1 2.469430 1_555
+O2 Sr0 2.787298 1_655
+O2 Sr2 2.787298 1_545
+O3 Sr1 2.469430 1_555
+O3 Sr0 2.787298 1_655
+O3 Sr2 2.787298 1_545
+O4 Sr0 2.469430 1_555
+O4 Sr1 2.787298 1_565
+O4 Sr2 2.787298 1_455
+O5 Sr0 2.961892 1_555
+O5 Sr0 2.961892 1_554
+O6 Sr2 2.469430 1_555
+O6 Sr0 2.787298 1_555
+O6 Sr1 2.787298 1_555
+O7 Sr0 2.469430 1_555
+O7 Sr1 2.787298 1_565
+O7 Sr2 2.787298 1_455
+O8 Sr1 2.961892 1_554
+O8 Sr1 2.961892 1_555

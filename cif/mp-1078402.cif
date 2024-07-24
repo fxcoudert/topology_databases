@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_ScGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72887763
+_cell_length_b   6.72887763
+_cell_length_c   3.93786050
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999835
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGePd
+_chemical_formula_sum   'Sc3 Ge3 Pd3'
+_cell_volume   154.41028587
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.00000000  0.57661535  -0.00000000  1
+  Sc  Sc1  1  0.42338465  0.42338465  0.00000000  1
+  Sc  Sc2  1  0.57661535  -0.00000000  0.00000000  1
+  Ge  Ge0  1  0.33333300  0.66666700  0.50000000  1
+  Ge  Ge1  1  0.66666700  0.33333300  0.50000000  1
+  Ge  Ge2  1  0.00000000  -0.00000000  -0.00000000  1
+  Pd  Pd0  1  -0.00000000  0.24876972  0.50000000  1
+  Pd  Pd1  1  0.75123028  0.75123028  0.50000000  1
+  Pd  Pd2  1  0.24876972  -0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Pd2 2.575056 1_565
+Ge0 Pd0 2.575060 1_555
+Ge0 Pd1 2.575063 1_555
+Ge0 Sc0 2.813468 1_555
+Ge0 Sc0 2.813468 1_556
+Ge0 Sc2 2.813469 1_566
+Ge0 Sc2 2.813469 1_565
+Ge0 Sc1 2.813473 1_555
+Ge0 Sc1 2.813473 1_556
+Ge1 Pd0 2.575056 1_655
+Ge1 Pd2 2.575060 1_555
+Ge1 Pd1 2.575063 1_555
+Ge1 Sc2 2.813468 1_555
+Ge1 Sc2 2.813468 1_556
+Ge1 Sc0 2.813469 1_656
+Ge1 Sc0 2.813469 1_655
+Ge1 Sc1 2.813473 1_555
+Ge1 Sc1 2.813473 1_556
+Ge2 Pd2 2.584331 1_555
+Ge2 Pd2 2.584331 1_554
+Ge2 Pd0 2.584331 1_555
+Ge2 Pd0 2.584331 1_554
+Ge2 Pd1 2.584331 1_444
+Ge2 Pd1 2.584331 1_445
+Ge2 Sc2 2.848904 1_455
+Ge2 Sc0 2.848904 1_545
+Ge2 Sc1 2.848904 1_555
+Pd0 Pd2 2.899351 1_555
+Pd0 Pd1 2.899351 1_445
+Pd0 Sc0 2.956902 1_555
+Pd0 Sc0 2.956902 1_556
+Pd0 Sc1 3.166405 1_555
+Pd0 Sc1 3.166405 1_556
+Pd0 Sc2 3.166405 1_455
+Pd0 Sc2 3.166405 1_456
+Pd1 Pd2 2.899351 1_665
+Pd1 Sc1 2.956902 1_555
+Pd1 Sc1 2.956902 1_556
+Pd1 Sc2 3.166405 1_566
+Pd1 Sc2 3.166405 1_565
+Pd1 Sc0 3.166405 1_655
+Pd1 Sc0 3.166405 1_656
+Pd2 Sc2 2.956902 1_556
+Pd2 Sc2 2.956902 1_555
+Pd2 Sc1 3.166405 1_555
+Pd2 Sc1 3.166405 1_556
+Pd2 Sc0 3.166405 1_545
+Pd2 Sc0 3.166405 1_546

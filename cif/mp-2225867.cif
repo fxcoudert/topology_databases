@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgFeHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14784848
+_cell_length_b   3.14776656
+_cell_length_c   7.06163280
+_cell_angle_alpha   90.04335077
+_cell_angle_beta   89.96403898
+_cell_angle_gamma   120.01166036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgFeHO2
+_chemical_formula_sum   'Mg1 Fe1 H1 O2'
+_cell_volume   60.58999513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00008996  0.99980192  0.32808162  1
+  Fe  Fe0  1  0.99980213  0.00026061  0.96372602  1
+  H  H0  1  0.66660787  0.33336758  0.68678870  1
+  O  O0  1  0.33344622  0.66642041  0.17059119  1
+  O  O1  1  0.66655282  0.33344948  0.82678446  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.130167 1_555
+Mg0 O0 2.130727 1_455
+Mg0 O0 2.130840 1_565
+Fe0 O1 2.058353 1_545
+Fe0 O1 2.058440 1_655
+Fe0 O1 2.058878 1_555
+Fe0 O0 2.329863 1_656
+Fe0 O0 2.330571 1_546
+Fe0 O0 2.334437 1_646
+H0 O1 0.988598 1_555

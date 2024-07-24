@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Rb(SiPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42648672
+_cell_length_b   6.42648672
+_cell_length_c   6.42648672
+_cell_angle_alpha   97.37517744
+_cell_angle_beta   97.37517744
+_cell_angle_gamma   138.01055547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb(SiPt)4
+_chemical_formula_sum   'Rb1 Si4 Pt4'
+_cell_volume   165.77153368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.29902169  0.29902169  0.00000000  1
+  Si  Si0  1  0.38563705  0.88720650  0.27255866  1
+  Si  Si1  1  0.61464785  0.11307840  0.72744134  1
+  Si  Si2  1  0.11307840  0.38563705  0.49842955  1
+  Si  Si3  1  0.88720650  0.61464785  0.50157045  1
+  Pt  Pt0  1  0.17152293  0.67544724  0.84676591  1
+  Pt  Pt1  1  0.82868133  0.32475602  0.15323409  1
+  Pt  Pt2  1  0.32475602  0.17152293  0.49607569  1
+  Pt  Pt3  1  0.67544724  0.82868133  0.50392431  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pt0 Si1 2.411279 1_455
+Pt0 Si1 2.411634 1_565
+Pt0 Si3 2.467391 1_455
+Pt0 Si2 2.508974 1_555
+Pt0 Si0 2.554734 1_556
+Pt0 Rb0 3.293034 1_556
+Pt0 Rb0 3.405719 1_566
+Pt1 Si0 2.411277 1_545
+Pt1 Si0 2.411636 1_655
+Pt1 Si2 2.467387 1_655
+Pt1 Si3 2.508978 1_555
+Pt1 Si1 2.554734 1_554
+Pt1 Rb0 3.293039 1_555
+Pt1 Rb0 3.405715 1_655
+Pt2 Si3 2.411281 1_445
+Pt2 Si3 2.411636 1_555
+Pt2 Si0 2.467401 1_545
+Pt2 Si1 2.508974 1_555
+Pt2 Si2 2.554727 1_555
+Pt2 Rb0 3.293032 1_556
+Pt2 Rb0 3.405718 1_555
+Pt3 Si2 2.411277 1_555
+Pt3 Si2 2.411636 1_665
+Pt3 Si1 2.467396 1_565
+Pt3 Si0 2.508969 1_555
+Pt3 Si3 2.554733 1_555
+Pt3 Rb0 3.293034 1_555
+Pt3 Rb0 3.405719 1_666

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CoBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18090900
+_cell_length_b   4.14651900
+_cell_length_c   11.28897800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoBi3
+_chemical_formula_sum   'Co4 Bi12'
+_cell_volume   429.75799928
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.08792300  0.25000000  0.47832800  1
+  Co  Co1  1  0.58792300  0.25000000  0.02167200  1
+  Co  Co2  1  0.91207700  0.75000000  0.52167200  1
+  Co  Co3  1  0.41207700  0.75000000  0.97832800  1
+  Bi  Bi0  1  0.41003200  0.25000000  0.82304100  1
+  Bi  Bi1  1  0.91003200  0.25000000  0.67695900  1
+  Bi  Bi2  1  0.58996800  0.75000000  0.17695900  1
+  Bi  Bi3  1  0.08996800  0.75000000  0.32304100  1
+  Bi  Bi4  1  0.30426700  0.25000000  0.10517700  1
+  Bi  Bi5  1  0.80426700  0.25000000  0.39482300  1
+  Bi  Bi6  1  0.69573300  0.75000000  0.89482300  1
+  Bi  Bi7  1  0.19573300  0.75000000  0.60517700  1
+  Bi  Bi8  1  0.37816600  0.25000000  0.41222700  1
+  Bi  Bi9  1  0.87816600  0.25000000  0.08777300  1
+  Bi  Bi10  1  0.62183400  0.75000000  0.58777300  1
+  Bi  Bi11  1  0.12183400  0.75000000  0.91222700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Co2 2.672864 1_445
+Co0 Co2 2.672864 1_455
+Co1 Co3 2.672864 1_554
+Co1 Co3 2.672864 1_544
+Bi0 Co3 2.715120 1_555
+Bi0 Co3 2.715120 1_545
+Bi0 Co1 2.774065 1_556
+Bi1 Co2 2.715120 1_555
+Bi1 Co2 2.715120 1_545
+Bi1 Co0 2.774065 1_655
+Bi2 Co1 2.715120 1_555
+Bi2 Co1 2.715120 1_565
+Bi2 Co3 2.774065 1_554
+Bi3 Co0 2.715120 1_565
+Bi3 Co0 2.715120 1_555
+Bi3 Co2 2.774065 1_455
+Bi4 Co3 2.707159 1_544
+Bi4 Co3 2.707159 1_554
+Bi4 Co1 2.769588 1_555
+Bi5 Co2 2.707159 1_555
+Bi5 Co2 2.707159 1_545
+Bi5 Co0 2.769588 1_655
+Bi6 Co1 2.707159 1_556
+Bi6 Co1 2.707159 1_566
+Bi6 Co3 2.769588 1_555
+Bi7 Co0 2.707159 1_555
+Bi7 Co0 2.707159 1_565
+Bi7 Co2 2.769588 1_455
+Bi8 Co0 2.767206 1_555
+Bi9 Co1 2.767206 1_555
+Bi10 Co2 2.767206 1_555
+Bi11 Co3 2.767206 1_555

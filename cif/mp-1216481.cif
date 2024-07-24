@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_V3Cr3Si2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57323864
+_cell_length_b   4.57323249
+_cell_length_c   4.57325167
+_cell_angle_alpha   89.96312850
+_cell_angle_beta   89.96313250
+_cell_angle_gamma   89.96311076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3Cr3Si2
+_chemical_formula_sum   'V3 Cr3 Si2'
+_cell_volume   95.64713727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000166  0.74972748  0.25027278  1
+  V  V1  1  0.74972881  0.25027264  -0.00000190  1
+  V  V2  1  0.25027120  0.00000045  0.74972729  1
+  Cr  Cr0  1  0.49999767  0.74976564  0.25023429  1
+  Cr  Cr1  1  0.74976805  0.25023440  0.50000273  1
+  Cr  Cr2  1  0.25023249  0.50000023  0.74976586  1
+  Si  Si0  1  0.25083059  0.25083264  0.25082915  1
+  Si  Si1  1  0.74916954  0.74916752  0.74917079  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 V0 2.286601 1_555
+Cr0 V0 2.286638 1_655
+Cr0 Si0 2.551103 1_555
+Cr0 Si1 2.551135 1_555
+Cr0 Si0 2.558528 1_565
+Cr0 Si1 2.558532 1_554
+Cr1 V1 2.286605 1_556
+Cr1 V1 2.286647 1_555
+Cr1 Si1 2.551107 1_555
+Cr1 Si0 2.551138 1_555
+Cr1 Si0 2.558527 1_655
+Cr1 Si1 2.558531 1_545
+Cr2 V2 2.286615 1_555
+Cr2 V2 2.286617 1_565
+Cr2 Si1 2.551122 1_555
+Cr2 Si0 2.551127 1_555
+Cr2 Si1 2.558514 1_455
+Cr2 Si0 2.558522 1_556
+Si0 V0 2.553037 1_555
+Si0 V1 2.553060 1_555
+Si0 V2 2.553065 1_555
+Si0 V1 2.563390 1_455
+Si0 V0 2.563395 1_545
+Si0 V2 2.563396 1_554
+Si1 V1 2.553036 1_556
+Si1 V2 2.553062 1_565
+Si1 V0 2.553065 1_655
+Si1 V2 2.563391 1_665
+Si1 V1 2.563393 1_566
+Si1 V0 2.563397 1_656

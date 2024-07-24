@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LuCoGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52394573
+_cell_length_b   8.52394573
+_cell_length_c   4.04207270
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   27.26348552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCoGe2
+_chemical_formula_sum   'Lu2 Co2 Ge4'
+_cell_volume   134.53329733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.88883912  0.88883912  0.75000000  1
+  Lu  Lu1  1  0.11116088  0.11116088  0.24999900  1
+  Co  Co0  1  0.67802030  0.67802030  0.75000000  1
+  Co  Co1  1  0.32197970  0.32197970  0.24999900  1
+  Ge  Ge0  1  0.25097174  0.25097174  0.75000000  1
+  Ge  Ge1  1  0.74902826  0.74902826  0.24999900  1
+  Ge  Ge2  1  0.54416221  0.54416221  0.75000000  1
+  Ge  Ge3  1  0.45583679  0.45583679  0.24999900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Ge2 2.217716 1_555
+Co0 Ge1 2.338498 1_556
+Co0 Ge1 2.338505 1_555
+Co0 Ge0 2.344481 1_565
+Co0 Ge0 2.344481 1_655
+Co0 Lu1 3.057347 1_566
+Co0 Lu1 3.057347 1_656
+Co0 Lu1 3.057353 1_565
+Co0 Lu1 3.057353 1_655
+Co1 Ge3 2.217699 1_555
+Co1 Ge0 2.338498 1_554
+Co1 Ge0 2.338505 1_555
+Co1 Ge1 2.344481 1_455
+Co1 Ge1 2.344481 1_545
+Co1 Lu0 3.057347 1_544
+Co1 Lu0 3.057347 1_454
+Co1 Lu0 3.057353 1_545
+Co1 Lu0 3.057353 1_455
+Ge0 Lu0 3.041889 1_455
+Ge0 Lu0 3.041889 1_545
+Ge0 Lu1 3.074085 1_556
+Ge0 Lu1 3.074090 1_555
+Ge1 Lu1 3.041889 1_565
+Ge1 Lu1 3.041889 1_655
+Ge1 Lu0 3.074085 1_554
+Ge1 Lu0 3.074090 1_555
+Ge2 Ge3 2.495186 1_556
+Ge2 Ge3 2.495192 1_555
+Ge2 Lu1 3.058184 1_566
+Ge2 Lu1 3.058184 1_656
+Ge2 Lu1 3.058189 1_565
+Ge2 Lu1 3.058189 1_655
+Ge2 Lu0 3.264640 1_545
+Ge2 Lu0 3.264640 1_455
+Ge3 Lu0 3.058178 1_544
+Ge3 Lu0 3.058178 1_454
+Ge3 Lu0 3.058183 1_545
+Ge3 Lu0 3.058183 1_455
+Ge3 Lu1 3.264653 1_655
+Ge3 Lu1 3.264653 1_565

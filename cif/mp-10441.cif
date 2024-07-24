@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Sr(Cu2As)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23754250
+_cell_length_b   8.23754250
+_cell_length_c   8.23754293
+_cell_angle_alpha   29.22865379
+_cell_angle_beta   29.22865379
+_cell_angle_gamma   29.22865445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(Cu2As)2
+_chemical_formula_sum   'Sr1 Cu4 As2'
+_cell_volume   117.92227765
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.44079617  0.44079617  0.44079617  1
+  Cu  Cu1  1  0.14499975  0.14499975  0.14499975  1
+  Cu  Cu2  1  0.55920383  0.55920383  0.55920383  1
+  Cu  Cu3  1  0.85500025  0.85500025  0.85500025  1
+  As  As0  1  0.24761718  0.24761718  0.24761718  1
+  As  As1  1  0.75238282  0.75238282  0.75238282  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cu1 2.425933 1_555
+As0 Cu2 2.454405 1_455
+As0 Cu2 2.454405 1_545
+As0 Cu2 2.454405 1_554
+As0 Cu3 2.779208 1_445
+As0 Cu3 2.779208 1_544
+As0 Cu3 2.779208 1_454
+As0 Sr0 3.141020 1_565
+As0 Sr0 3.141020 1_655
+As0 Sr0 3.141020 1_556
+As1 Cu3 2.425933 1_555
+As1 Cu0 2.454405 1_655
+As1 Cu0 2.454405 1_565
+As1 Cu0 2.454405 1_556
+As1 Cu1 2.779208 1_665
+As1 Cu1 2.779208 1_566
+As1 Cu1 2.779208 1_656
+As1 Sr0 3.141020 1_566
+As1 Sr0 3.141020 1_656
+As1 Sr0 3.141020 1_665

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Li(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10178128
+_cell_length_b   8.24594645
+_cell_length_c   6.29790700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   95.09972364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(SeO3)2
+_chemical_formula_sum   'Li2 Se4 O12'
+_cell_volume   315.62458228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.91190900  0.31609800  0.80449900  1
+  Li  Li1  1  0.41190900  0.81609800  0.19550100  1
+  Se  Se0  1  0.51457900  0.82774600  0.71116900  1
+  Se  Se1  1  0.01457900  0.32774600  0.28883100  1
+  Se  Se2  1  0.89491500  0.68887100  0.07151700  1
+  Se  Se3  1  0.39491500  0.18887100  0.92848300  1
+  O  O0  1  0.34647200  0.67438800  0.79098500  1
+  O  O1  1  0.84647200  0.17438800  0.20901500  1
+  O  O2  1  0.08788300  0.80338300  0.20084700  1
+  O  O3  1  0.58788300  0.30338300  0.79915300  1
+  O  O4  1  0.78447700  0.79828600  0.73212100  1
+  O  O5  1  0.28447700  0.29828600  0.26787900  1
+  O  O6  1  0.65956800  0.67405600  0.20217200  1
+  O  O7  1  0.15956800  0.17405600  0.79782800  1
+  O  O8  1  0.46645900  0.91909900  0.48640700  1
+  O  O9  1  0.96645900  0.41909900  0.51359300  1
+  O  O10  1  0.98874000  0.47307300  0.07009300  1
+  O  O11  1  0.48874000  0.97307300  0.92990700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 1.970873 1_555
+Li0 O7 1.992966 1_655
+Li0 O9 2.034330 1_555
+Li0 O10 2.141324 1_556
+Li1 O2 1.970873 1_555
+Li1 O6 1.992966 1_555
+Li1 O8 2.034330 1_555
+Li1 O11 2.141324 1_554
+O0 Se0 1.635057 1_555
+O1 Se1 1.635057 1_655
+O2 Se2 1.656435 1_455
+O3 Se3 1.656435 1_555
+O4 Se0 1.691062 1_555
+O4 Se2 2.438246 1_556
+O5 Se1 1.691062 1_555
+O5 Se3 2.438246 1_554
+O6 Se2 1.650158 1_555
+O7 Se3 1.650158 1_555
+O8 Se0 1.642165 1_555
+O9 Se1 1.642165 1_655
+O10 Se1 1.841811 1_655
+O10 Se2 1.917139 1_555
+O11 Se0 1.841811 1_555
+O11 Se3 1.917139 1_565

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Hf2CoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56458800
+_cell_length_b   5.15298951
+_cell_length_c   7.45570740
+_cell_angle_alpha   111.37535793
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2CoP
+_chemical_formula_sum   'Hf4 Co2 P2'
+_cell_volume   127.52822811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.25000000  0.79111594  0.56351709  1
+  Hf  Hf1  1  0.75000000  0.20888406  0.43648291  1
+  Hf  Hf2  1  0.25000000  0.78559909  0.08171729  1
+  Hf  Hf3  1  0.75000000  0.21440091  0.91828271  1
+  Co  Co0  1  0.25000000  0.35091587  0.71068834  1
+  Co  Co1  1  0.75000000  0.64908413  0.28931166  1
+  P  P0  1  0.25000000  0.34934972  0.21106353  1
+  P  P1  1  0.75000000  0.65065028  0.78893647  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 P1 2.722475 1_455
+Hf0 P1 2.722475 1_555
+Hf0 P0 2.779712 1_555
+Hf1 P0 2.722475 1_655
+Hf1 P0 2.722475 1_555
+Hf1 P1 2.779712 1_555
+Hf2 P1 2.705295 1_554
+Hf2 P1 2.705295 1_454
+Hf2 P0 2.706822 1_565
+Hf2 P0 2.750226 1_555
+Hf3 P0 2.705295 1_656
+Hf3 P0 2.705295 1_556
+Hf3 P1 2.706822 1_545
+Hf3 P1 2.750226 1_555
+Co0 P1 2.290339 1_555
+Co0 P1 2.290339 1_455
+Co0 Hf1 2.607887 1_555
+Co0 Hf1 2.607887 1_455
+Co0 Hf3 2.619289 1_455
+Co0 Hf3 2.619289 1_555
+Co0 Hf0 2.686608 1_545
+Co0 Hf2 2.855308 1_556
+Co0 Hf0 2.857225 1_555
+Co1 P0 2.290339 1_555
+Co1 P0 2.290339 1_655
+Co1 Hf0 2.607887 1_655
+Co1 Hf0 2.607887 1_555
+Co1 Hf2 2.619289 1_655
+Co1 Hf2 2.619289 1_555
+Co1 Hf1 2.686608 1_565
+Co1 Hf3 2.855308 1_554
+Co1 Hf1 2.857225 1_555

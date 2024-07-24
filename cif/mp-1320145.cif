@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_LiFeMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11409378
+_cell_length_b   7.06203233
+_cell_length_c   7.13712466
+_cell_angle_alpha   89.81401738
+_cell_angle_beta   91.97105808
+_cell_angle_gamma   89.97829328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeMoClO4
+_chemical_formula_sum   'Li2 Fe2 Mo2 Cl2 O8'
+_cell_volume   257.60974960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49947800  0.49449200  0.50426100  1
+  Li  Li1  1  0.49997400  0.00500200  0.50486800  1
+  Fe  Fe0  1  0.81902300  0.74925700  0.75243200  1
+  Fe  Fe1  1  0.18034700  0.25012400  0.25020000  1
+  Mo  Mo0  1  0.99925900  0.24998000  0.73549200  1
+  Mo  Mo1  1  0.00136100  0.75023100  0.26337100  1
+  Cl  Cl0  1  0.31254000  0.74986400  0.72165800  1
+  Cl  Cl1  1  0.68653100  0.25007700  0.27425300  1
+  O  O0  1  0.15332400  0.25001500  0.96114200  1
+  O  O1  1  0.84298200  0.75091700  0.03800800  1
+  O  O2  1  0.25101100  0.24992600  0.56069500  1
+  O  O3  1  0.75553100  0.74980700  0.44083100  1
+  O  O4  1  0.79522700  0.45667100  0.70541300  1
+  O  O5  1  0.79559300  0.04355700  0.70692000  1
+  O  O6  1  0.20386500  0.54217400  0.29022100  1
+  O  O7  1  0.20395300  0.95790600  0.29023400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O4 2.065884 1_555
+Li0 O6 2.137748 1_555
+Li0 O2 2.189111 1_555
+Li0 O3 2.282085 1_555
+Li1 O5 2.071763 1_555
+Li1 O7 2.143183 1_545
+Li1 O2 2.193007 1_555
+Li1 O3 2.282443 1_545
+Fe0 O1 2.037732 1_556
+Fe0 O4 2.097309 1_555
+Fe0 O5 2.105275 1_565
+Fe0 O3 2.236427 1_555
+Fe1 O0 2.062921 1_554
+Fe1 O7 2.085303 1_545
+Fe1 O6 2.086018 1_555
+Fe1 O2 2.233009 1_555
+Mo0 O0 1.768387 1_655
+Mo0 O5 1.799999 1_555
+Mo0 O4 1.801904 1_555
+Mo0 O2 1.823316 1_655
+Mo1 O1 1.775806 1_455
+Mo1 O7 1.802903 1_555
+Mo1 O6 1.803182 1_555
+Mo1 O3 1.815000 1_455
+Cl0 Fe0 2.540950 1_455
+Cl0 Li1 2.577697 1_565
+Cl0 Li0 2.587028 1_555
+Cl0 Fe0 2.591960 1_555
+Cl1 Fe1 2.537133 1_655
+Cl1 Fe1 2.588460 1_555
+Cl1 Li1 2.589503 1_555
+Cl1 Li0 2.591217 1_555

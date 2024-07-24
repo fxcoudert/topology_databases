@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_SrMg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50676951
+_cell_length_b   6.50677111
+_cell_length_c   10.23334223
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00007473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg2
+_chemical_formula_sum   'Sr4 Mg8'
+_cell_volume   375.21375920
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33333300  0.66666700  0.93955098  1
+  Sr  Sr1  1  0.33333300  0.66666700  0.56044902  1
+  Sr  Sr2  1  0.66666700  0.33333300  0.06044902  1
+  Sr  Sr3  1  0.66666700  0.33333300  0.43955098  1
+  Mg  Mg0  1  0.83385650  0.16614350  0.75000000  1
+  Mg  Mg1  1  0.66771200  0.83385650  0.25000000  1
+  Mg  Mg2  1  0.33228800  0.16614350  0.75000000  1
+  Mg  Mg3  1  0.83385650  0.66771200  0.75000000  1
+  Mg  Mg4  1  0.16614350  0.33228800  0.25000000  1
+  Mg  Mg5  1  0.16614350  0.83385650  0.25000000  1
+  Mg  Mg6  1  0.00000000  0.00000000  0.50000000  1
+  Mg  Mg7  1  0.00000000  0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Sr1 3.879480 1_555
+Sr0 Sr2 3.955158 1_456
+Sr0 Sr2 3.955159 1_566
+Sr0 Sr2 3.955173 1_556
+Sr1 Sr3 3.955158 1_455
+Sr1 Sr3 3.955159 1_565
+Sr1 Sr3 3.955173 1_555
+Sr2 Sr3 3.879480 1_555
+Mg0 Mg6 3.170353 1_655
+Mg0 Mg7 3.170353 1_656
+Mg0 Mg2 3.243179 1_655
+Mg0 Mg3 3.243180 1_545
+Mg0 Mg2 3.263591 1_555
+Mg0 Mg3 3.263591 1_555
+Mg0 Sr3 3.693675 1_555
+Mg0 Sr2 3.693675 1_556
+Mg0 Sr0 3.787759 1_545
+Mg0 Sr1 3.787759 1_545
+Mg0 Sr1 3.787759 1_655
+Mg0 Sr0 3.787759 1_655
+Mg1 Mg6 3.170355 1_665
+Mg1 Mg7 3.170355 1_665
+Mg1 Mg4 3.243176 1_665
+Mg1 Mg5 3.243179 1_655
+Mg1 Mg4 3.263587 1_555
+Mg1 Mg5 3.263591 1_555
+Mg1 Sr0 3.693674 1_554
+Mg1 Sr1 3.693674 1_555
+Mg1 Sr3 3.787757 1_565
+Mg1 Sr2 3.787757 1_565
+Mg1 Sr3 3.787768 1_555
+Mg1 Sr2 3.787768 1_555
+Mg2 Mg7 3.170355 1_556
+Mg2 Mg6 3.170355 1_555
+Mg2 Mg3 3.243176 1_445
+Mg2 Mg3 3.263587 1_555
+Mg2 Sr3 3.693674 1_555
+Mg2 Sr2 3.693674 1_556
+Mg2 Sr0 3.787757 1_545
+Mg2 Sr1 3.787757 1_545
+Mg2 Sr0 3.787768 1_555
+Mg2 Sr1 3.787768 1_555
+Mg3 Mg7 3.170356 1_666
+Mg3 Mg6 3.170356 1_665
+Mg3 Sr3 3.693674 1_555
+Mg3 Sr2 3.693674 1_556
+Mg3 Sr1 3.787756 1_655
+Mg3 Sr0 3.787756 1_655
+Mg3 Sr1 3.787767 1_555
+Mg3 Sr0 3.787767 1_555
+Mg4 Mg6 3.170356 1_555
+Mg4 Mg7 3.170356 1_555
+Mg4 Mg5 3.243180 1_545
+Mg4 Mg5 3.263591 1_555
+Mg4 Sr1 3.693674 1_555
+Mg4 Sr0 3.693674 1_554
+Mg4 Sr3 3.787756 1_455
+Mg4 Sr2 3.787756 1_455
+Mg4 Sr3 3.787767 1_555
+Mg4 Sr2 3.787767 1_555
+Mg5 Mg7 3.170353 1_565
+Mg5 Mg6 3.170353 1_565
+Mg5 Sr0 3.693675 1_554
+Mg5 Sr1 3.693675 1_555
+Mg5 Sr3 3.787759 1_565
+Mg5 Sr2 3.787759 1_565
+Mg5 Sr3 3.787759 1_455
+Mg5 Sr2 3.787759 1_455
+Mg6 Sr3 3.807273 1_455
+Mg6 Sr1 3.807273 1_545
+Mg6 Sr3 3.807274 1_555
+Mg6 Sr1 3.807274 1_445
+Mg6 Sr3 3.807275 1_445
+Mg6 Sr1 3.807275 1_555
+Mg7 Sr2 3.807273 1_455
+Mg7 Sr0 3.807273 1_544
+Mg7 Sr0 3.807274 1_444
+Mg7 Sr2 3.807274 1_555
+Mg7 Sr2 3.807275 1_445
+Mg7 Sr0 3.807275 1_554

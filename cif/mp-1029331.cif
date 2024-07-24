@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_LiHf2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51661744
+_cell_length_b   6.57642292
+_cell_length_c   4.33060357
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.30405648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHf2N3
+_chemical_formula_sum   'Li2 Hf4 N6'
+_cell_volume   160.23309718
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.63089229  0.43133500  1
+  Li  Li1  1  1.00000000  0.36910771  0.93133500  1
+  Hf  Hf0  1  0.31907740  0.33562167  0.43133200  1
+  Hf  Hf1  1  0.68092260  0.01654327  0.43133200  1
+  Hf  Hf2  1  0.68092260  0.66437833  0.93133200  1
+  Hf  Hf3  1  0.31907740  0.98345673  0.93133200  1
+  N  N0  1  0.36643758  0.33070720  0.93133200  1
+  N  N1  1  0.63356242  0.96427063  0.93133200  1
+  N  N2  1  0.63356242  0.66929280  0.43133200  1
+  N  N3  1  0.36643758  0.03572937  0.43133200  1
+  N  N4  1  0.00000000  0.68981379  0.93133500  1
+  N  N5  1  1.00000000  0.31018621  0.43133500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N5 2.109099 1_455
+Li0 N4 2.199701 1_555
+Li0 N4 2.199701 1_554
+Li0 N3 2.524789 1_565
+Li0 N2 2.524793 1_455
+Li1 N4 2.109099 1_655
+Li1 N5 2.199701 1_555
+Li1 N5 2.199701 1_556
+Li1 N1 2.524789 1_545
+Li1 N0 2.524793 1_655
+Hf0 N5 2.000121 1_455
+Hf0 N2 2.115852 1_555
+Hf0 N3 2.144567 1_555
+Hf0 N0 2.189725 1_554
+Hf0 N0 2.189725 1_555
+Hf1 N5 2.000124 1_555
+Hf1 N3 2.115852 1_555
+Hf1 N2 2.144553 1_545
+Hf1 N1 2.189724 1_544
+Hf1 N1 2.189724 1_545
+Hf2 N4 2.000121 1_655
+Hf2 N0 2.115852 1_555
+Hf2 N1 2.144567 1_555
+Hf2 N2 2.189725 1_555
+Hf2 N2 2.189725 1_556
+Hf3 N4 2.000124 1_555
+Hf3 N1 2.115852 1_555
+Hf3 N0 2.144553 1_565
+Hf3 N3 2.189724 1_565
+Hf3 N3 2.189724 1_566

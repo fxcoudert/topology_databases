@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Li2Pr2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.57054313
+_cell_length_b   9.57054313
+_cell_length_c   6.85054145
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.09327079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Pr2Si3
+_chemical_formula_sum   'Li4 Pr4 Si6'
+_cell_volume   283.95826127
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.81133430  0.18866570  0.55981630  1
+  Li  Li1  1  0.18866570  0.81133430  0.44018370  1
+  Li  Li2  1  0.18866570  0.81133430  0.05981630  1
+  Li  Li3  1  0.81133430  0.18866570  0.94018370  1
+  Pr  Pr0  1  0.55233176  0.44766824  0.25000000  1
+  Pr  Pr1  1  0.44766824  0.55233176  0.75000000  1
+  Pr  Pr2  1  0.34117230  0.65882770  0.25000000  1
+  Pr  Pr3  1  0.65882770  0.34117230  0.75000000  1
+  Si  Si0  1  0.94294560  0.05705440  0.07661325  1
+  Si  Si1  1  0.05705440  0.94294560  0.92338675  1
+  Si  Si2  1  0.05705440  0.94294560  0.57661325  1
+  Si  Si3  1  0.94294560  0.05705440  0.42338675  1
+  Si  Si4  1  0.71960182  0.28039818  0.25000000  1
+  Si  Si5  1  0.28039818  0.71960182  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si3 2.622266 1_555
+Li0 Si5 2.643286 1_655
+Li0 Si5 2.643286 1_545
+Li0 Si4 2.724112 1_555
+Li0 Pr3 3.123715 1_555
+Li0 Pr2 3.125861 1_655
+Li0 Pr2 3.125861 1_545
+Li1 Si2 2.622266 1_555
+Li1 Si4 2.643286 1_455
+Li1 Si4 2.643286 1_565
+Li1 Si5 2.724112 1_555
+Li1 Pr2 3.123715 1_555
+Li1 Pr3 3.125861 1_455
+Li1 Pr3 3.125861 1_565
+Li2 Si1 2.622266 1_554
+Li2 Si4 2.643286 1_455
+Li2 Si4 2.643286 1_565
+Li2 Si5 2.724112 1_554
+Li2 Pr2 3.123715 1_555
+Li2 Pr3 3.125861 1_454
+Li2 Pr3 3.125861 1_564
+Li3 Si0 2.622266 1_556
+Li3 Si5 2.643286 1_655
+Li3 Si5 2.643286 1_545
+Li3 Si4 2.724112 1_556
+Li3 Pr3 3.123715 1_555
+Li3 Pr2 3.125861 1_546
+Li3 Pr2 3.125861 1_656
+Pr0 Si4 3.113874 1_555
+Pr0 Si1 3.157830 1_654
+Pr0 Si1 3.157830 1_544
+Pr0 Si2 3.157830 1_545
+Pr0 Si2 3.157830 1_655
+Pr0 Si3 3.242728 1_565
+Pr0 Si0 3.242728 1_565
+Pr0 Si3 3.242728 1_455
+Pr0 Si0 3.242728 1_455
+Pr1 Si5 3.113874 1_555
+Pr1 Si3 3.157830 1_455
+Pr1 Si3 3.157830 1_565
+Pr1 Si0 3.157830 1_566
+Pr1 Si0 3.157830 1_456
+Pr1 Si1 3.242728 1_655
+Pr1 Si2 3.242728 1_655
+Pr1 Si1 3.242728 1_545
+Pr1 Si2 3.242728 1_545
+Pr2 Si0 3.155662 1_455
+Pr2 Si3 3.155662 1_455
+Pr2 Si0 3.155662 1_565
+Pr2 Si3 3.155662 1_565
+Pr2 Si4 3.174845 1_565
+Pr2 Si4 3.174845 1_455
+Pr3 Si1 3.155662 1_655
+Pr3 Si2 3.155662 1_655
+Pr3 Si2 3.155662 1_545
+Pr3 Si1 3.155662 1_545
+Pr3 Si5 3.174845 1_655
+Pr3 Si5 3.174845 1_545
+Si0 Si1 2.369430 1_644
+Si0 Si3 2.375586 1_555
+Si1 Si2 2.375586 1_555
+Si2 Si3 2.369430 1_465

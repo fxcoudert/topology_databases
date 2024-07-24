@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Na3(GePt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61252386
+_cell_length_b   6.61252358
+_cell_length_c   6.61252425
+_cell_angle_alpha   109.47122581
+_cell_angle_beta   109.47122494
+_cell_angle_gamma   109.47122585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3(GePt)4
+_chemical_formula_sum   'Na3 Ge4 Pt4'
+_cell_volume   222.57674880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.50000000  -0.00000000  0.50000000  1
+  Na  Na2  1  0.50000000  0.50000000  -0.00000000  1
+  Ge  Ge0  1  -0.00000000  0.36744060  -0.00000000  1
+  Ge  Ge1  1  0.36744060  -0.00000000  -0.00000000  1
+  Ge  Ge2  1  -0.00000000  -0.00000000  0.36744060  1
+  Ge  Ge3  1  0.63255940  0.63255940  0.63255940  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.72268700  1
+  Pt  Pt1  1  0.72268700  0.00000000  0.00000000  1
+  Pt  Pt2  1  0.27731300  0.27731300  0.27731300  1
+  Pt  Pt3  1  0.00000000  0.72268700  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Pt1 3.139107 1_455
+Na0 Pt0 3.139107 1_565
+Na0 Pt3 3.139107 1_556
+Na0 Pt2 3.139107 1_555
+Na1 Pt3 3.139107 1_545
+Na1 Pt0 3.139107 1_655
+Na1 Pt1 3.139107 1_556
+Na1 Pt2 3.139107 1_555
+Na2 Pt0 3.139107 1_554
+Na2 Pt1 3.139107 1_565
+Na2 Pt3 3.139107 1_655
+Na2 Pt2 3.139107 1_555
+Ge0 Pt3 2.349075 1_555
+Ge0 Pt1 2.509140 1_455
+Ge0 Pt0 2.509140 1_554
+Ge0 Pt2 2.509140 1_555
+Ge0 Na1 3.125321 1_454
+Ge0 Na2 3.125322 1_555
+Ge0 Na0 3.125322 1_555
+Ge1 Pt1 2.349075 1_555
+Ge1 Pt3 2.509140 1_545
+Ge1 Pt0 2.509140 1_554
+Ge1 Pt2 2.509140 1_555
+Ge1 Na0 3.125321 1_544
+Ge1 Na2 3.125322 1_555
+Ge1 Na1 3.125322 1_555
+Ge2 Pt0 2.349075 1_555
+Ge2 Pt3 2.509140 1_545
+Ge2 Pt2 2.509140 1_555
+Ge2 Pt1 2.509140 1_455
+Ge2 Na2 3.125321 1_445
+Ge2 Na0 3.125322 1_555
+Ge2 Na1 3.125322 1_555
+Ge3 Pt2 2.349075 1_555
+Ge3 Pt0 2.509140 1_665
+Ge3 Pt1 2.509140 1_566
+Ge3 Pt3 2.509140 1_656
+Ge3 Na1 3.125322 1_565
+Ge3 Na0 3.125322 1_655
+Ge3 Na2 3.125322 1_556

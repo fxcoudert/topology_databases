@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaMnCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13552773
+_cell_length_b   4.13552773
+_cell_length_c   7.19320400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnCuSe2
+_chemical_formula_sum   'Na1 Mn1 Cu1 Se2'
+_cell_volume   106.54054226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66666700  0.33333300  0.98791500  1
+  Mn  Mn0  1  0.33333300  0.66666700  0.39253100  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.62600600  1
+  Se  Se0  1  0.00000000  0.00000000  0.25789100  1
+  Se  Se1  1  0.33333300  0.66666700  0.73565800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se1 2.998899 1_545
+Na0 Se1 2.998899 1_655
+Na0 Se1 2.998904 1_555
+Na0 Se0 3.077692 1_656
+Na0 Se0 3.077695 1_556
+Na0 Se0 3.077695 1_666
+Mn0 Se1 2.468183 1_555
+Mn0 Se0 2.576593 1_565
+Mn0 Se0 2.576596 1_555
+Mn0 Se0 2.576596 1_665
+Cu0 Se1 2.514553 1_545
+Cu0 Se1 2.514557 1_555
+Cu0 Se1 2.514557 1_445
+Cu0 Se0 2.647926 1_555

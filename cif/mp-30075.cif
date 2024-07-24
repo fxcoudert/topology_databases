@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Ti4FeS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51125244
+_cell_length_b   6.51125244
+_cell_length_c   8.02558433
+_cell_angle_alpha   54.29651346
+_cell_angle_beta   54.29651346
+_cell_angle_gamma   62.95227070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4FeS8
+_chemical_formula_sum   'Ti4 Fe1 S8'
+_cell_volume   220.98467079
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.73841192  0.26158808  0.50000000  1
+  Ti  Ti1  1  0.26158808  0.73841192  0.50000000  1
+  Ti  Ti2  1  0.73865018  0.73865018  0.00657694  1
+  Ti  Ti3  1  0.26134982  0.26134982  0.99342306  1
+  Fe  Fe0  1  0.00000000  -0.00000000  0.00000000  1
+  S  S0  1  0.44162698  0.95937820  0.83488693  1
+  S  S1  1  0.04062180  0.55837302  0.16511307  1
+  S  S2  1  0.55837302  0.04062180  0.16511307  1
+  S  S3  1  0.95937820  0.44162698  0.83488693  1
+  S  S4  1  0.54947429  0.54947429  0.66516384  1
+  S  S5  1  0.45052571  0.45052571  0.33483616  1
+  S  S6  1  0.03482396  0.03482396  0.67736115  1
+  S  S7  1  0.96517604  0.96517604  0.32263885  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 S2 2.316150 1_455
+Fe0 S0 2.316150 1_544
+Fe0 S1 2.316150 1_545
+Fe0 S3 2.316150 1_454
+Fe0 S7 2.341756 1_445
+Fe0 S6 2.341756 1_554
+S0 Ti3 2.437298 1_565
+S0 Ti2 2.444504 1_556
+S0 Ti0 2.460361 1_565
+S1 Ti2 2.437298 1_455
+S1 Ti3 2.444504 1_554
+S1 Ti0 2.460361 1_455
+S2 Ti2 2.437298 1_545
+S2 Ti3 2.444504 1_554
+S2 Ti1 2.460361 1_545
+S3 Ti3 2.437298 1_655
+S3 Ti2 2.444504 1_556
+S3 Ti1 2.460361 1_655
+S4 Ti3 2.375529 1_555
+S4 Ti0 2.384064 1_555
+S4 Ti1 2.384064 1_555
+S5 Ti2 2.375529 1_555
+S5 Ti1 2.384064 1_555
+S5 Ti0 2.384064 1_555
+S6 Ti2 2.430414 1_446
+S6 Ti1 2.468387 1_545
+S6 Ti0 2.468387 1_455
+S7 Ti3 2.430414 1_664
+S7 Ti0 2.468387 1_565
+S7 Ti1 2.468387 1_655

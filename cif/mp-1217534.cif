@@ -1,0 +1,116 @@
+# generated using pymatgen
+data_TbScSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15455601
+_cell_length_b   8.61384899
+_cell_length_c   9.13283157
+_cell_angle_alpha   57.98473781
+_cell_angle_beta   90.00445404
+_cell_angle_gamma   89.99861916
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbScSi
+_chemical_formula_sum   'Tb6 Sc6 Si6'
+_cell_volume   410.53255460
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.75000200  0.27598900  0.70146700  1
+  Tb  Tb1  1  0.75005200  0.72405600  0.97734500  1
+  Tb  Tb2  1  0.74997600  0.99995100  0.30774000  1
+  Tb  Tb3  1  0.24999000  0.74623700  0.25101300  1
+  Tb  Tb4  1  0.24994400  0.25384400  0.99705900  1
+  Tb  Tb5  1  0.24999100  0.99997800  0.75188200  1
+  Sc  Sc0  1  0.49953500  0.30642600  0.35091400  1
+  Sc  Sc1  1  0.49952600  0.69356800  0.65724200  1
+  Sc  Sc2  1  0.00056900  0.69330800  0.65741500  1
+  Sc  Sc3  1  0.00053600  0.30669000  0.35077800  1
+  Sc  Sc4  1  0.75000200  0.64261400  0.35389500  1
+  Sc  Sc5  1  0.74993100  0.35727300  0.99654500  1
+  Si  Si0  1  0.55838300  0.00004600  0.02212900  1
+  Si  Si1  1  0.94154700  0.00004000  0.02218100  1
+  Si  Si2  1  0.75026100  0.99997600  0.61959900  1
+  Si  Si3  1  0.24989400  0.40614300  0.58323700  1
+  Si  Si4  1  0.24995000  0.59388700  0.98921100  1
+  Si  Si5  1  0.24991200  0.99997300  0.41034900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Si5 2.846788 1_545
+Sc0 Si2 2.915799 1_545
+Sc0 Si3 3.087573 1_555
+Sc0 Tb2 3.256386 1_545
+Sc0 Si4 3.275571 1_554
+Sc1 Si5 2.845987 1_555
+Sc1 Si2 2.916148 1_555
+Sc1 Si4 3.086935 1_555
+Sc1 Tb2 3.255547 1_555
+Sc1 Si3 3.274336 1_555
+Sc2 Si5 2.846957 1_555
+Sc2 Si2 2.915979 1_455
+Sc2 Si4 3.085307 1_555
+Sc2 Tb2 3.257190 1_455
+Sc2 Si3 3.272465 1_555
+Sc3 Si5 2.847360 1_545
+Sc3 Si2 2.916095 1_445
+Sc3 Si3 3.086139 1_555
+Sc3 Tb2 3.258070 1_445
+Sc3 Si4 3.274117 1_554
+Sc4 Tb2 2.876866 1_555
+Sc4 Tb0 3.069289 1_555
+Sc4 Tb1 3.124205 1_554
+Sc4 Si1 3.187130 1_565
+Sc4 Si0 3.187301 1_565
+Sc4 Tb3 3.203099 1_555
+Sc4 Tb3 3.203139 1_655
+Sc5 Tb2 2.876792 1_546
+Sc5 Tb1 3.070055 1_555
+Sc5 Tb0 3.123036 1_555
+Sc5 Si1 3.185961 1_556
+Sc5 Si0 3.186035 1_556
+Sc5 Tb4 3.202907 1_555
+Sc5 Tb4 3.203018 1_655
+Si0 Si1 2.358204 1_555
+Si0 Tb4 2.811470 1_554
+Si0 Tb3 2.811951 1_545
+Si0 Tb2 2.862105 1_545
+Si0 Tb0 2.870029 1_554
+Si0 Tb1 2.870795 1_544
+Si0 Tb5 3.113661 1_544
+Si1 Tb4 2.811272 1_654
+Si1 Tb3 2.811691 1_645
+Si1 Tb2 2.861809 1_545
+Si1 Tb0 2.869898 1_554
+Si1 Tb1 2.870605 1_544
+Si1 Tb5 3.114445 1_644
+Si2 Tb1 2.844321 1_555
+Si2 Tb0 2.845441 1_565
+Si2 Tb2 2.848270 1_555
+Si2 Tb5 3.304302 1_655
+Si2 Tb5 3.307570 1_555
+Si3 Tb3 2.891996 1_555
+Si3 Tb5 2.983158 1_545
+Si3 Tb0 3.256612 1_455
+Si3 Tb0 3.257658 1_555
+Si3 Tb4 3.278360 1_555
+Si4 Tb4 2.891720 1_555
+Si4 Tb5 2.982457 1_555
+Si4 Tb1 3.256637 1_455
+Si4 Tb1 3.257890 1_555
+Si4 Tb3 3.281152 1_556
+Si5 Tb5 3.119186 1_555
+Si5 Tb3 3.204199 1_555
+Si5 Tb4 3.205818 1_564
+Si5 Tb2 3.216385 1_455
+Si5 Tb2 3.217278 1_555

@@ -1,0 +1,121 @@
+# generated using pymatgen
+data_GdTm(FeNi4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93194100
+_cell_length_b   4.91893000
+_cell_length_c   8.51682900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdTm(FeNi4)2
+_chemical_formula_sum   'Gd1 Tm1 Fe2 Ni8'
+_cell_volume   164.72350034
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.50000000  0.99992800  1
+  Tm  Tm0  1  0.00000000  0.00000000  0.50017200  1
+  Fe  Fe0  1  0.00000000  0.50000000  0.33518200  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.83161500  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.16836200  1
+  Ni  Ni1  1  0.00000000  0.50000000  0.66464000  1
+  Ni  Ni2  1  0.50000000  0.50000000  0.50027600  1
+  Ni  Ni3  1  0.50000000  0.00000000  0.00025100  1
+  Ni  Ni4  1  0.50000000  0.75304600  0.25247900  1
+  Ni  Ni5  1  0.50000000  0.24877400  0.74734900  1
+  Ni  Ni6  1  0.50000000  0.24695400  0.25247900  1
+  Ni  Ni7  1  0.50000000  0.75122600  0.74734900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 Ni0 2.847249 1_566
+Gd0 Ni0 2.847249 1_556
+Gd0 Ni1 2.855591 1_555
+Gd0 Ni3 3.148653 1_566
+Gd0 Ni3 3.148653 1_466
+Gd0 Ni3 3.148653 1_456
+Gd0 Ni3 3.148653 1_556
+Gd0 Ni7 3.165390 1_455
+Gd0 Ni7 3.165390 1_555
+Gd0 Ni5 3.165390 1_555
+Gd0 Ni5 3.165390 1_455
+Gd0 Ni6 3.168734 1_556
+Gd0 Ni4 3.168734 1_456
+Gd0 Ni4 3.168734 1_556
+Gd0 Ni6 3.168734 1_456
+Fe0 Ni2 2.417042 1_455
+Fe0 Ni2 2.417042 1_555
+Fe0 Ni4 2.431150 1_455
+Fe0 Ni6 2.431150 1_455
+Fe0 Ni4 2.431150 1_555
+Fe0 Ni6 2.431150 1_555
+Fe0 Ni1 2.805937 1_555
+Fe0 Tm0 2.832584 1_565
+Fe0 Tm0 2.832584 1_555
+Fe0 Ni0 2.840348 1_555
+Fe0 Ni0 2.840348 1_565
+Fe0 Gd0 2.855301 1_554
+Fe1 Ni5 2.424366 1_455
+Fe1 Ni5 2.424366 1_555
+Fe1 Ni7 2.424366 1_545
+Fe1 Ni7 2.424366 1_445
+Fe1 Ni3 2.434715 1_556
+Fe1 Ni3 2.434715 1_456
+Fe1 Tm0 2.822843 1_555
+Fe1 Ni1 2.841009 1_555
+Fe1 Ni1 2.841009 1_545
+Fe1 Gd0 2.846730 1_555
+Fe1 Gd0 2.846730 1_545
+Fe1 Ni0 2.868017 1_556
+Ni0 Ni6 2.419483 1_455
+Ni0 Ni4 2.419483 1_545
+Ni0 Ni4 2.419483 1_445
+Ni0 Ni6 2.419483 1_555
+Ni0 Ni3 2.432080 1_455
+Ni0 Ni3 2.432080 1_555
+Ni0 Tm0 2.825969 1_555
+Ni1 Ni2 2.413431 1_455
+Ni1 Ni2 2.413431 1_555
+Ni1 Ni7 2.426593 1_455
+Ni1 Ni7 2.426593 1_555
+Ni1 Ni5 2.426593 1_455
+Ni1 Ni5 2.426593 1_555
+Ni1 Tm0 2.830381 1_565
+Ni1 Tm0 2.830381 1_555
+Ni2 Ni7 2.440307 1_555
+Ni2 Ni5 2.440307 1_555
+Ni2 Ni6 2.450162 1_555
+Ni2 Ni4 2.450162 1_555
+Ni2 Tm0 3.148652 1_565
+Ni2 Tm0 3.148652 1_655
+Ni2 Tm0 3.148652 1_555
+Ni2 Tm0 3.148652 1_665
+Ni3 Ni6 2.467854 1_555
+Ni3 Ni4 2.467854 1_545
+Ni3 Ni5 2.477263 1_554
+Ni3 Ni7 2.477263 1_544
+Ni4 Ni6 2.429499 1_565
+Ni4 Ni6 2.489431 1_555
+Ni4 Tm0 3.129041 1_565
+Ni4 Tm0 3.129041 1_665
+Ni5 Ni7 2.447404 1_545
+Ni5 Ni7 2.471526 1_555
+Ni5 Tm0 3.129569 1_655
+Ni5 Tm0 3.129569 1_555
+Ni6 Tm0 3.129041 1_655
+Ni6 Tm0 3.129041 1_555
+Ni7 Tm0 3.129569 1_665
+Ni7 Tm0 3.129569 1_565

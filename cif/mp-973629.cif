@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LuAlPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27153696
+_cell_length_b   7.27429042
+_cell_length_c   3.70043667
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98748418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAlPd
+_chemical_formula_sum   'Lu3 Al3 Pd3'
+_cell_volume   169.53337895
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.58821303  0.00000100  0.49999900  1
+  Lu  Lu1  1  0.00044193  0.58864437  0.49999900  1
+  Lu  Lu2  1  0.41179655  0.41135563  0.49999900  1
+  Al  Al0  1  0.24919716  0.00000000  0.00000000  1
+  Al  Al1  1  0.00004210  0.24971416  0.00000000  1
+  Al  Al2  1  0.75032794  0.75028584  -0.00000000  1
+  Pd  Pd0  1  0.99952807  1.00000000  0.49999900  1
+  Pd  Pd1  1  0.33326405  0.66617087  0.00000000  1
+  Pd  Pd2  1  0.66709318  0.33382913  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pd2 2.873482 1_555
+Lu0 Pd2 2.873487 1_556
+Lu0 Pd1 2.873491 1_545
+Lu0 Pd1 2.873496 1_546
+Lu0 Pd0 2.990896 1_545
+Lu1 Pd1 2.869502 1_555
+Lu1 Pd1 2.869506 1_556
+Lu1 Pd2 2.871124 1_455
+Lu1 Pd2 2.871128 1_456
+Lu1 Pd0 2.995647 1_455
+Lu2 Pd2 2.869507 1_555
+Lu2 Pd2 2.869512 1_556
+Lu2 Pd1 2.871120 1_555
+Lu2 Pd1 2.871125 1_556
+Lu2 Pd0 2.995643 1_445
+Al0 Pd0 2.592153 1_445
+Al0 Pd0 2.592158 1_444
+Al0 Pd2 2.784700 1_555
+Al0 Pd1 2.784700 1_545
+Al0 Lu0 3.082259 1_555
+Al0 Lu0 3.082264 1_554
+Al0 Lu1 3.199780 1_545
+Al0 Lu2 3.199781 1_555
+Al0 Lu1 3.199784 1_544
+Al0 Lu2 3.199785 1_554
+Al1 Pd0 2.591557 1_445
+Al1 Pd0 2.591563 1_444
+Al1 Pd1 2.776850 1_555
+Al1 Pd2 2.777895 1_455
+Al1 Lu1 3.081349 1_555
+Al1 Lu1 3.081354 1_554
+Al1 Lu2 3.201754 1_555
+Al1 Lu2 3.201758 1_554
+Al1 Lu0 3.202043 1_455
+Al1 Lu0 3.202047 1_454
+Al2 Pd0 2.591557 1_555
+Al2 Pd0 2.591562 1_554
+Al2 Pd2 2.776850 1_555
+Al2 Pd1 2.777895 1_555
+Al2 Lu2 3.081352 1_555
+Al2 Lu2 3.081356 1_554
+Al2 Lu1 3.201759 1_655
+Al2 Lu1 3.201764 1_654
+Al2 Lu0 3.202050 1_565
+Al2 Lu0 3.202054 1_564

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_La(CdAs)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44832368
+_cell_length_b   4.44866833
+_cell_length_c   21.66896124
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.06541503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(CdAs)3
+_chemical_formula_sum   'La2 Cd6 As6'
+_cell_volume   371.11497855
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00254175  0.00206038  0.49995392  1
+  La  La1  1  0.00254175  0.00206038  0.00004608  1
+  Cd  Cd0  1  0.66719658  0.33242470  0.12696973  1
+  Cd  Cd1  1  0.33343062  0.66687003  0.87305851  1
+  Cd  Cd2  1  0.33343062  0.66687003  0.62694149  1
+  Cd  Cd3  1  0.66719658  0.33242470  0.37303027  1
+  Cd  Cd4  1  0.72827504  0.36668725  0.75000000  1
+  Cd  Cd5  1  0.36336498  0.72951428  0.25000000  1
+  As  As0  1  0.66835977  0.33465990  0.57893438  1
+  As  As1  1  0.33497197  0.66769843  0.42096195  1
+  As  As2  1  0.33497197  0.66769843  0.07903805  1
+  As  As3  1  0.66835977  0.33465990  0.92106562  1
+  As  As4  1  0.39858688  0.70179245  0.75000000  1
+  As  As5  1  0.69807273  0.39978016  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cd2 2.763662 1_655
+As0 Cd2 2.773493 1_555
+As0 Cd2 2.773545 1_545
+As0 La0 3.082108 1_555
+As0 La0 3.087340 1_665
+As0 La0 3.087390 1_655
+As1 Cd3 2.762001 1_565
+As1 Cd3 2.772697 1_455
+As1 Cd3 2.774166 1_555
+As1 La0 3.081837 1_555
+As1 La0 3.087564 1_565
+As1 La0 3.087855 1_665
+As2 Cd0 2.762001 1_565
+As2 Cd0 2.772697 1_455
+As2 Cd0 2.774166 1_555
+As2 La1 3.081837 1_555
+As2 La1 3.087564 1_565
+As2 La1 3.087855 1_665
+As3 Cd1 2.763662 1_655
+As3 Cd1 2.773493 1_555
+As3 Cd1 2.773545 1_545
+As3 La1 3.082108 1_556
+As3 La1 3.087340 1_666
+As3 La1 3.087390 1_656
+As4 Cd4 2.559969 1_565
+As4 Cd4 2.561996 1_555
+As4 Cd4 2.580581 1_455
+As4 Cd2 2.678341 1_555
+As4 Cd1 2.678341 1_555
+As5 Cd5 2.560635 1_555
+As5 Cd5 2.561304 1_655
+As5 Cd5 2.580607 1_545
+As5 Cd3 2.678552 1_555
+As5 Cd0 2.678552 1_555

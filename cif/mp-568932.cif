@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Cd2Os(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45403142
+_cell_length_b   6.45403142
+_cell_length_c   6.63650000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Os(CN)6
+_chemical_formula_sum   'Cd2 Os1 C6 N6'
+_cell_volume   239.40427827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.33333300  0.66666700  0.50000000  1
+  Cd  Cd1  1  0.66666700  0.33333300  0.50000000  1
+  Os  Os0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.00000000  0.75205300  0.81585200  1
+  C  C1  1  0.24794700  0.24794700  0.81585200  1
+  C  C2  1  0.75205300  0.00000000  0.81585200  1
+  C  C3  1  0.24794700  0.00000000  0.18414800  1
+  C  C4  1  0.75205300  0.75205300  0.18414800  1
+  C  C5  1  0.00000000  0.24794700  0.18414800  1
+  N  N0  1  0.61512100  0.61512100  0.30326500  1
+  N  N1  1  0.00000000  0.38487900  0.30326500  1
+  N  N2  1  0.61512100  0.00000000  0.69673500  1
+  N  N3  1  0.38487900  0.00000000  0.30326500  1
+  N  N4  1  0.00000000  0.61512100  0.69673500  1
+  N  N5  1  0.38487900  0.38487900  0.69673500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 N3 2.393306 1_565
+Cd0 N4 2.393306 1_555
+Cd0 N1 2.393308 1_555
+Cd0 N2 2.393308 1_565
+Cd0 N0 2.393311 1_555
+Cd0 N5 2.393311 1_555
+Cd1 N2 2.393306 1_555
+Cd1 N1 2.393306 1_655
+Cd1 N4 2.393308 1_655
+Cd1 N3 2.393308 1_555
+Cd1 N0 2.393311 1_555
+Cd1 N5 2.393311 1_555
+C0 N4 1.185732 1_555
+C0 Os0 2.013541 1_566
+C1 N5 1.185732 1_555
+C1 Os0 2.013541 1_556
+C2 N2 1.185732 1_555
+C2 Os0 2.013541 1_656
+C3 N3 1.185732 1_555
+C3 Os0 2.013541 1_555
+C4 N0 1.185732 1_555
+C4 Os0 2.013541 1_665
+C5 N1 1.185732 1_555
+C5 Os0 2.013541 1_555

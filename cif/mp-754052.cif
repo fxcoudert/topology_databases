@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_Li3(Fe2S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45565300
+_cell_length_b   6.45565300
+_cell_length_c   6.21371558
+_cell_angle_alpha   89.89810404
+_cell_angle_beta   89.89810404
+_cell_angle_gamma   120.23199881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3(Fe2S3)2
+_chemical_formula_sum   'Li3 Fe4 S6'
+_cell_volume   223.73789923
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.64824100  0.35175900  0.00000000  1
+  Li  Li2  1  0.35175900  0.64824100  0.00000000  1
+  Fe  Fe0  1  0.66403300  0.99307300  0.61250800  1
+  Fe  Fe1  1  0.99307300  0.66403300  0.61250800  1
+  Fe  Fe2  1  0.33596700  0.00692700  0.38749200  1
+  Fe  Fe3  1  0.00692700  0.33596700  0.38749200  1
+  S  S0  1  0.68636800  0.68636800  0.76209500  1
+  S  S1  1  0.33134600  0.98302100  0.74321800  1
+  S  S2  1  0.98302100  0.33134600  0.74321800  1
+  S  S3  1  0.66865400  0.01697900  0.25678200  1
+  S  S4  1  0.01697900  0.66865400  0.25678200  1
+  S  S5  1  0.31363200  0.31363200  0.23790500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S5 2.505449 1_555
+Li0 S0 2.505449 1_444
+Li0 S1 2.712564 1_544
+Li0 S2 2.712564 1_454
+Li0 S4 2.712564 1_545
+Li0 S3 2.712564 1_455
+Li1 S5 2.522684 1_555
+Li1 S0 2.522684 1_554
+Li1 S3 2.740325 1_555
+Li1 S2 2.740325 1_554
+Li1 S1 2.742023 1_544
+Li1 S4 2.742023 1_655
+Li2 S5 2.522684 1_555
+Li2 S0 2.522684 1_554
+Li2 S4 2.740325 1_555
+Li2 S1 2.740325 1_554
+Li2 S2 2.742023 1_454
+Li2 S3 2.742023 1_565
+Fe0 S3 2.214589 1_565
+Fe0 S0 2.255324 1_555
+Fe0 S1 2.264906 1_555
+Fe0 S2 2.270001 1_565
+Fe1 S4 2.214589 1_655
+Fe1 S0 2.255324 1_555
+Fe1 S2 2.264906 1_555
+Fe1 S1 2.270001 1_655
+Fe2 S1 2.214589 1_545
+Fe2 S5 2.255324 1_555
+Fe2 S3 2.264906 1_555
+Fe2 S4 2.270001 1_545
+Fe3 S2 2.214589 1_455
+Fe3 S5 2.255324 1_555
+Fe3 S4 2.264906 1_555
+Fe3 S3 2.270001 1_455

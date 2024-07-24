@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_KMgSb(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.10827473
+_cell_length_b   10.12710134
+_cell_length_c   10.12811455
+_cell_angle_alpha   29.98144309
+_cell_angle_beta   29.99580814
+_cell_angle_gamma   29.98872183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMgSb(PO4)2
+_chemical_formula_sum   'K1 Mg1 Sb1 P2 O8'
+_cell_volume   229.43115958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52461100  0.52988800  0.53184000  1
+  Mg  Mg0  1  0.39663600  0.39263700  0.39272900  1
+  Sb  Sb0  1  0.99026800  0.98833700  0.98822800  1
+  P  P0  1  0.74213300  0.73997900  0.73943400  1
+  P  P1  1  0.26201300  0.26278500  0.26285100  1
+  O  O0  1  0.79206800  0.79454300  0.79096000  1
+  O  O1  1  0.00455200  0.44742500  0.70763300  1
+  O  O2  1  0.20800300  0.21269600  0.21132300  1
+  O  O3  1  0.70955500  0.00003400  0.44752200  1
+  O  O4  1  0.23689700  0.02751700  0.58311400  1
+  O  O5  1  0.45026500  0.70617700  0.00075700  1
+  O  O6  1  0.58339400  0.23636600  0.02783600  1
+  O  O7  1  0.02817600  0.58304600  0.23720300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O2 3.046912 1_556
+K0 O2 3.059365 1_655
+K0 O2 3.060902 1_565
+K0 O4 3.264035 1_565
+K0 O6 3.265973 1_556
+K0 O7 3.279937 1_655
+Mg0 O1 1.883949 1_555
+Mg0 O5 1.884935 1_555
+Mg0 O3 1.885231 1_555
+O0 P0 1.507128 1_555
+O1 P0 1.573980 1_455
+O1 Sb0 2.697300 1_445
+O2 P1 1.503188 1_555
+O3 P0 1.574996 1_545
+O3 Sb0 2.685843 1_544
+O4 P1 1.579750 1_555
+O4 Sb0 2.093544 1_445
+O5 P0 1.575104 1_554
+O5 Sb0 2.679525 1_454
+O6 P1 1.579432 1_555
+O6 Sb0 2.092346 1_544
+O7 P1 1.580464 1_555
+O7 Sb0 2.090739 1_454

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_PrMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98453700
+_cell_length_b   3.98453700
+_cell_length_c   7.64727300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMnSi
+_chemical_formula_sum   'Pr2 Mn2 Si2'
+_cell_volume   121.41219824
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.50000000  0.32477800  1
+  Pr  Pr1  1  0.50000000  0.00000000  0.67522200  1
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si0  1  0.00000000  0.50000000  0.82046700  1
+  Si  Si1  1  0.50000000  0.00000000  0.17953300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Si1 3.028528 1_465
+Pr0 Si1 3.028528 1_455
+Pr0 Si1 3.028528 1_565
+Pr0 Si1 3.028528 1_555
+Pr1 Si0 3.028528 1_555
+Pr1 Si0 3.028528 1_645
+Pr1 Si0 3.028528 1_655
+Pr1 Si0 3.028528 1_545
+Mn0 Si0 2.419523 1_554
+Mn0 Si1 2.419523 1_455
+Mn0 Si1 2.419523 1_555
+Mn0 Si0 2.419523 1_544
+Mn1 Si0 2.419523 1_554
+Mn1 Si1 2.419523 1_565
+Mn1 Si1 2.419523 1_555
+Mn1 Si0 2.419523 1_654

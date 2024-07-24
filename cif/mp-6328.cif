@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Na2Ti2Sb2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15277600
+_cell_length_b   4.15277600
+_cell_length_c   8.89398561
+_cell_angle_alpha   103.50084996
+_cell_angle_beta   103.50084996
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ti2Sb2O
+_chemical_formula_sum   'Na2 Ti2 Sb2 O1'
+_cell_volume   144.78067385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68278900  0.68278900  0.36557800  1
+  Na  Na1  1  0.31721100  0.31721100  0.63442200  1
+  Ti  Ti0  1  0.00000000  0.50000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.00000000  1
+  Sb  Sb0  1  0.12082600  0.12082600  0.24165200  1
+  Sb  Sb1  1  0.87917400  0.87917400  0.75834800  1
+  O  O0  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O0 3.069118 1_555
+Na0 Sb0 3.115315 1_555
+Na0 Sb0 3.115315 1_655
+Na0 Sb0 3.115315 1_565
+Na0 Sb0 3.115315 1_665
+Na0 Sb1 3.297402 1_555
+Na1 O0 3.069118 1_556
+Na1 Sb1 3.115315 1_445
+Na1 Sb1 3.115315 1_455
+Na1 Sb1 3.115315 1_555
+Na1 Sb1 3.115315 1_545
+Na1 Sb0 3.297402 1_555
+Sb0 Ti1 2.902951 1_455
+Sb0 Ti0 2.902951 1_545
+Sb0 Ti1 2.902951 1_555
+Sb0 Ti0 2.902951 1_555
+Sb1 Ti0 2.902951 1_666
+Sb1 Ti1 2.902951 1_566
+Sb1 Ti0 2.902951 1_656
+Sb1 Ti1 2.902951 1_666
+O0 Ti0 2.076388 1_555
+O0 Ti1 2.076388 1_565
+O0 Ti0 2.076388 1_655
+O0 Ti1 2.076388 1_555

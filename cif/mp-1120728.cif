@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_GaSeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80587905
+_cell_length_b   5.57993424
+_cell_length_c   15.06543023
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSeCl
+_chemical_formula_sum   'Ga4 Se4 Cl4'
+_cell_volume   319.93783503
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.53217696  0.18971816  1
+  Ga  Ga1  1  -0.00000000  0.96782304  0.68971816  1
+  Ga  Ga2  1  -0.00000000  0.03217696  0.31028184  1
+  Ga  Ga3  1  0.50000000  0.46782304  0.81028184  1
+  Se  Se0  1  0.50000000  0.23912115  0.67258741  1
+  Se  Se1  1  -0.00000000  0.73912115  0.82741259  1
+  Se  Se2  1  0.00000000  0.26087885  0.17258741  1
+  Se  Se3  1  0.50000000  0.76087885  0.32741259  1
+  Cl  Cl0  1  0.50000000  0.23353357  0.92385485  1
+  Cl  Cl1  1  0.00000000  0.73353357  0.57614515  1
+  Cl  Cl2  1  0.50000000  0.76646643  0.07614515  1
+  Cl  Cl3  1  -0.00000000  0.26646643  0.42385485  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Se3 2.435525 1_555
+Ga0 Se2 2.445292 1_555
+Ga0 Se2 2.445292 1_655
+Ga1 Se1 2.435525 1_555
+Ga1 Se0 2.445292 1_565
+Ga1 Se0 2.445292 1_465
+Ga2 Se2 2.435525 1_555
+Ga2 Se3 2.445292 1_445
+Ga2 Se3 2.445292 1_545
+Ga3 Se0 2.435525 1_555
+Ga3 Se1 2.445292 1_555
+Ga3 Se1 2.445292 1_655
+Cl0 Ga3 2.153299 1_555
+Cl1 Ga1 2.153299 1_555
+Cl2 Ga0 2.153299 1_555
+Cl3 Ga2 2.153299 1_555

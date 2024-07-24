@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_TaGeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43496471
+_cell_length_b   3.83345445
+_cell_length_c   7.42821063
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaGeRh
+_chemical_formula_sum   'Ta4 Ge4 Rh4'
+_cell_volume   183.24017025
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.52821655  0.75000000  0.17803020  1
+  Ta  Ta1  1  0.02821655  0.75000000  0.32196980  1
+  Ta  Ta2  1  0.97178445  0.25000000  0.67802920  1
+  Ta  Ta3  1  0.47178445  0.25000000  0.82196980  1
+  Ge  Ge0  1  0.24054782  0.25000000  0.12416366  1
+  Ge  Ge1  1  0.74054882  0.25000000  0.37583634  1
+  Ge  Ge2  1  0.25945218  0.75000000  0.62416366  1
+  Ge  Ge3  1  0.75945118  0.75000000  0.87583634  1
+  Rh  Rh0  1  0.85655672  0.25000000  0.06296950  1
+  Rh  Rh1  1  0.35655772  0.25000000  0.43703050  1
+  Rh  Rh2  1  0.64344228  0.75000000  0.56296850  1
+  Rh  Rh3  1  0.14344228  0.75000000  0.93703050  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Rh1 2.440995 1_555
+Ge0 Rh3 2.448793 1_554
+Ge0 Rh3 2.448793 1_544
+Ge0 Rh0 2.512432 1_455
+Ge0 Ta3 2.693156 1_554
+Ge0 Ta0 2.694561 1_545
+Ge0 Ta0 2.694561 1_555
+Ge0 Ta1 2.774836 1_555
+Ge0 Ta1 2.774836 1_545
+Ge1 Rh0 2.440991 1_555
+Ge1 Rh2 2.448790 1_555
+Ge1 Rh2 2.448790 1_545
+Ge1 Rh1 2.512432 1_555
+Ge1 Ta2 2.693146 1_555
+Ge1 Ta1 2.694557 1_655
+Ge1 Ta1 2.694557 1_645
+Ge1 Ta0 2.774839 1_545
+Ge1 Ta0 2.774839 1_555
+Ge2 Rh3 2.440995 1_555
+Ge2 Rh1 2.448793 1_555
+Ge2 Rh1 2.448793 1_565
+Ge2 Rh2 2.512427 1_555
+Ge2 Ta1 2.693152 1_555
+Ge2 Ta2 2.694556 1_455
+Ge2 Ta2 2.694556 1_465
+Ge2 Ta3 2.774839 1_565
+Ge2 Ta3 2.774839 1_555
+Ge3 Rh2 2.441000 1_555
+Ge3 Rh0 2.448793 1_556
+Ge3 Rh0 2.448793 1_566
+Ge3 Rh3 2.512432 1_655
+Ge3 Ta0 2.693149 1_556
+Ge3 Ta3 2.694553 1_565
+Ge3 Ta3 2.694553 1_555
+Ge3 Ta2 2.774847 1_565
+Ge3 Ta2 2.774847 1_555
+Rh0 Rh3 2.820831 1_644
+Rh0 Rh3 2.820831 1_654
+Rh0 Ta1 2.931802 1_655
+Rh0 Ta1 2.931802 1_645
+Rh0 Ta2 2.953992 1_554
+Rh0 Ta0 2.978005 1_545
+Rh0 Ta0 2.978005 1_555
+Rh0 Ta3 3.055382 1_554
+Rh1 Rh2 2.820824 1_545
+Rh1 Rh2 2.820824 1_555
+Rh1 Ta0 2.931800 1_555
+Rh1 Ta0 2.931800 1_545
+Rh1 Ta3 2.953984 1_555
+Rh1 Ta1 2.978010 1_555
+Rh1 Ta1 2.978010 1_545
+Rh1 Ta2 3.055383 1_455
+Rh2 Ta3 2.931802 1_565
+Rh2 Ta3 2.931802 1_555
+Rh2 Ta0 2.953975 1_555
+Rh2 Ta2 2.978014 1_555
+Rh2 Ta2 2.978014 1_565
+Rh2 Ta1 3.055388 1_655
+Rh3 Ta2 2.931802 1_455
+Rh3 Ta2 2.931802 1_465
+Rh3 Ta1 2.953982 1_556
+Rh3 Ta3 2.978014 1_565
+Rh3 Ta3 2.978014 1_555
+Rh3 Ta0 3.055393 1_556

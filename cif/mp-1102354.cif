@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_ThTc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22876892
+_cell_length_b   5.22876944
+_cell_length_c   9.80636085
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02639321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTc2
+_chemical_formula_sum   'Th4 Tc8'
+_cell_volume   232.12497954
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.66665522  0.33334478  0.56437089  1
+  Th  Th1  1  0.33334478  0.66665622  0.43562911  1
+  Th  Th2  1  0.33334478  0.66665522  0.06437089  1
+  Th  Th3  1  0.66665522  0.33334478  0.93562911  1
+  Tc  Tc0  1  0.00000000  -0.00000000  0.50000000  1
+  Tc  Tc1  1  0.00000000  -0.00000000  -0.00000000  1
+  Tc  Tc2  1  0.16950160  0.33891932  0.75000000  1
+  Tc  Tc3  1  0.16952522  0.83047478  0.75000000  1
+  Tc  Tc4  1  0.66108068  0.83049840  0.75000000  1
+  Tc  Tc5  1  0.83049840  0.66108068  0.25000000  1
+  Tc  Tc6  1  0.83047478  0.16952522  0.25000000  1
+  Tc  Tc7  1  0.33891932  0.16950160  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tc0 Tc4 2.892123 1_445
+Tc0 Tc7 2.892123 1_555
+Tc0 Tc2 2.892123 1_555
+Tc0 Tc5 2.892123 1_445
+Tc0 Tc6 2.892763 1_455
+Tc0 Tc3 2.892763 1_545
+Tc0 Th0 3.083286 1_555
+Tc0 Th1 3.083286 1_445
+Tc0 Th0 3.083286 1_445
+Tc0 Th1 3.083290 1_555
+Tc0 Th1 3.084612 1_545
+Tc0 Th0 3.084617 1_455
+Tc1 Tc4 2.892123 1_444
+Tc1 Tc7 2.892123 1_555
+Tc1 Tc2 2.892123 1_554
+Tc1 Tc5 2.892123 1_445
+Tc1 Tc6 2.892763 1_455
+Tc1 Tc3 2.892763 1_544
+Tc1 Th2 3.083286 1_445
+Tc1 Th3 3.083286 1_554
+Tc1 Th2 3.083286 1_555
+Tc1 Th3 3.083286 1_444
+Tc1 Th2 3.084617 1_545
+Tc1 Th3 3.084617 1_454
+Tc2 Tc4 2.569328 1_555
+Tc2 Tc3 2.570168 1_555
+Tc2 Tc4 2.657355 1_445
+Tc2 Tc3 2.658601 1_545
+Tc2 Th0 3.185553 1_555
+Tc2 Th3 3.185553 1_555
+Tc2 Th0 3.186041 1_455
+Tc2 Th3 3.186041 1_455
+Tc2 Th2 3.421280 1_556
+Tc2 Th1 3.421282 1_555
+Tc3 Tc4 2.570168 1_555
+Tc3 Tc4 2.658601 1_455
+Tc3 Th0 3.184947 1_455
+Tc3 Th3 3.184947 1_455
+Tc3 Th3 3.184947 1_565
+Tc3 Th0 3.184947 1_565
+Tc3 Th1 3.421345 1_555
+Tc3 Th2 3.421347 1_556
+Tc4 Th0 3.185553 1_555
+Tc4 Th3 3.185553 1_555
+Tc4 Th3 3.186041 1_565
+Tc4 Th0 3.186041 1_565
+Tc4 Th2 3.421280 1_556
+Tc4 Th1 3.421280 1_555
+Tc5 Tc7 2.569328 1_555
+Tc5 Tc6 2.570168 1_555
+Tc5 Tc7 2.657355 1_665
+Tc5 Tc6 2.658601 1_565
+Tc5 Th2 3.185553 1_555
+Tc5 Th1 3.185555 1_555
+Tc5 Th1 3.186039 1_655
+Tc5 Th2 3.186041 1_655
+Tc5 Th0 3.421280 1_555
+Tc5 Th3 3.421280 1_554
+Tc6 Tc7 2.570168 1_555
+Tc6 Tc7 2.658601 1_655
+Tc6 Th1 3.184945 1_545
+Tc6 Th2 3.184947 1_655
+Tc6 Th2 3.184947 1_545
+Tc6 Th1 3.184949 1_655
+Tc6 Th3 3.421347 1_554
+Tc6 Th0 3.421347 1_555
+Tc7 Th2 3.185553 1_555
+Tc7 Th1 3.185557 1_555
+Tc7 Th1 3.186037 1_545
+Tc7 Th2 3.186041 1_545
+Tc7 Th0 3.421280 1_555
+Tc7 Th3 3.421280 1_554

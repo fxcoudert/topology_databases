@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MgTe4Mo2(WS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35885700
+_cell_length_b   3.36223872
+_cell_length_c   44.00560403
+_cell_angle_alpha   89.99583195
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.96672429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe4Mo2(WS2)2
+_chemical_formula_sum   'Mg1 Te4 Mo2 W2 S4'
+_cell_volume   430.53077610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99992300  0.99984600  0.36709000  1
+  Te  Te0  1  0.33327100  0.66654300  0.70113600  1
+  Te  Te1  1  0.66659200  0.33318400  0.05083600  1
+  Te  Te2  1  0.66656100  0.33312200  0.13681200  1
+  Te  Te3  1  0.33337100  0.66674400  0.61479500  1
+  Mo  Mo0  1  0.33348800  0.66697500  0.09381900  1
+  Mo  Mo1  1  0.66672500  0.33345000  0.27727700  1
+  W  W0  1  0.33338900  0.66677700  0.47672200  1
+  W  W1  1  0.66644400  0.33288800  0.65796700  1
+  S  S0  1  0.33350100  0.66700400  0.31242300  1
+  S  S1  1  0.66665900  0.33331700  0.44217200  1
+  S  S2  1  0.66658500  0.33316900  0.51113300  1
+  S  S3  1  0.33349100  0.66698300  0.24330100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S0 3.089974 1_655
+Mg0 S0 3.089978 1_555
+Mg0 S0 3.092360 1_665
+Te0 W1 2.715523 1_455
+Te0 W1 2.715525 1_555
+Te0 W1 2.715743 1_565
+Te3 W1 2.715645 1_565
+Te3 W1 2.715710 1_455
+Te3 W1 2.715714 1_555
+Mo0 Te1 2.709741 1_565
+Mo0 Te1 2.709945 1_555
+Mo0 Te1 2.709948 1_455
+Mo0 Te2 2.710146 1_565
+Mo0 Te2 2.710203 1_555
+Mo0 Te2 2.710206 1_455
+Mo1 S3 2.449382 1_655
+Mo1 S3 2.449384 1_555
+Mo1 S3 2.450387 1_545
+Mo1 S0 2.481268 1_655
+Mo1 S0 2.481273 1_555
+Mo1 S0 2.481890 1_545
+S1 W0 2.464899 1_555
+S1 W0 2.464899 1_655
+S1 W0 2.465849 1_545
+S2 W0 2.461200 1_555
+S2 W0 2.461200 1_655
+S2 W0 2.461943 1_545

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_MgMnPbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48556818
+_cell_length_b   4.46919433
+_cell_length_c   4.46911224
+_cell_angle_alpha   83.04011703
+_cell_angle_beta   97.11817167
+_cell_angle_gamma   97.11751951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMnPbO3
+_chemical_formula_sum   'Mg1 Mn1 Pb1 O3'
+_cell_volume   87.70523771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24815530  0.75711744  0.75712957  1
+  Mn  Mn0  1  0.54319752  0.45958989  0.45959241  1
+  Pb  Pb0  1  0.87951182  0.12427454  0.12430653  1
+  O  O0  1  0.03499521  0.47213376  0.47205838  1
+  O  O1  1  0.53041351  0.96686316  0.47005874  1
+  O  O2  1  0.53039363  0.47002122  0.96685437  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O2 1.986097 1_555
+Mg0 O1 1.986115 1_555
+Mg0 O0 1.987228 1_555
+Mn0 O1 2.190683 1_545
+Mn0 O2 2.190699 1_554
+Mn0 O0 2.193695 1_655
+Mn0 O2 2.281086 1_555
+Mn0 O1 2.281187 1_555
+Mn0 O0 2.294911 1_555
+O0 Pb0 2.316665 1_455
+O1 Pb0 2.323329 1_565
+O2 Pb0 2.323402 1_556

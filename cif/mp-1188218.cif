@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_LiH2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82587100
+_cell_length_b   4.70710900
+_cell_length_c   5.29998800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiH2N
+_chemical_formula_sum   'Li4 H8 N4'
+_cell_volume   95.44638052
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.07207600  0.50000000  0.25000000  1
+  Li  Li1  1  0.07207600  0.00000000  0.25000000  1
+  Li  Li2  1  0.92792400  0.00000000  0.75000000  1
+  Li  Li3  1  0.92792400  0.50000000  0.75000000  1
+  H  H0  1  0.50000000  0.50000000  0.50000000  1
+  H  H1  1  0.50000000  0.00000000  0.50000000  1
+  H  H2  1  0.50000000  0.00000000  0.00000000  1
+  H  H3  1  0.50000000  0.50000000  0.00000000  1
+  H  H4  1  0.63647000  0.25000000  0.22023900  1
+  H  H5  1  0.36353000  0.25000000  0.72023900  1
+  H  H6  1  0.36353000  0.75000000  0.77976100  1
+  H  H7  1  0.63647000  0.75000000  0.27976100  1
+  N  N0  1  0.31572500  0.75000000  0.97196600  1
+  N  N1  1  0.68427500  0.75000000  0.47196600  1
+  N  N2  1  0.31572500  0.25000000  0.52803400  1
+  N  N3  1  0.68427500  0.25000000  0.02803400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N0 2.103610 1_554
+Li0 N2 2.103610 1_555
+Li0 N1 2.229363 1_455
+Li0 N3 2.229363 1_455
+Li1 N0 2.103610 1_544
+Li1 N2 2.103610 1_555
+Li1 N1 2.229363 1_445
+Li1 N3 2.229363 1_455
+Li2 N3 2.103610 1_556
+Li2 N1 2.103610 1_545
+Li2 N2 2.229363 1_655
+Li2 N0 2.229363 1_645
+Li3 N3 2.103610 1_556
+Li3 N1 2.103610 1_555
+Li3 N2 2.229363 1_655
+Li3 N0 2.229363 1_655
+H0 N1 1.379827 1_555
+H0 N2 1.379827 1_555
+H0 Li3 2.106177 1_555
+H0 Li0 2.106177 1_555
+H1 N1 1.379827 1_545
+H1 N2 1.379827 1_555
+H1 Li1 2.106177 1_555
+H1 Li2 2.106177 1_555
+H2 N3 1.379827 1_555
+H2 N0 1.379827 1_544
+H2 Li1 2.106177 1_555
+H2 Li2 2.106177 1_554
+H3 N3 1.379827 1_555
+H3 N0 1.379827 1_554
+H3 Li3 2.106177 1_554
+H3 Li0 2.106177 1_555
+H4 N3 1.034973 1_555
+H4 Li1 2.046252 1_655
+H4 Li0 2.046252 1_655
+H5 N2 1.034973 1_555
+H5 Li2 2.046252 1_455
+H5 Li3 2.046252 1_455
+H6 N0 1.034973 1_555
+H6 Li2 2.046252 1_465
+H6 Li3 2.046252 1_455
+H7 N1 1.034973 1_555
+H7 Li1 2.046252 1_665
+H7 Li0 2.046252 1_655

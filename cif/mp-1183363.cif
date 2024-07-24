@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ba3Th
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44401568
+_cell_length_b   8.44401568
+_cell_length_c   6.52575200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Th
+_chemical_formula_sum   'Ba6 Th2'
+_cell_volume   402.95752484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17581900  0.35163800  0.25000000  1
+  Ba  Ba1  1  0.64836200  0.82418100  0.25000000  1
+  Ba  Ba2  1  0.17581900  0.82418100  0.25000000  1
+  Ba  Ba3  1  0.82418100  0.64836200  0.75000000  1
+  Ba  Ba4  1  0.35163800  0.17581900  0.75000000  1
+  Ba  Ba5  1  0.82418100  0.17581900  0.75000000  1
+  Th  Th0  1  0.33333300  0.66666700  0.75000000  1
+  Th  Th1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Ba2 3.990161 1_555
+Ba0 Ba1 3.990161 1_555
+Ba0 Th0 3.994183 1_554
+Ba0 Th0 3.994183 1_555
+Ba0 Ba4 4.154351 1_554
+Ba0 Ba4 4.154351 1_555
+Ba0 Ba5 4.154351 1_455
+Ba0 Ba5 4.154351 1_454
+Ba0 Th1 4.224125 1_455
+Ba0 Th1 4.224134 1_555
+Ba0 Ba2 4.453855 1_545
+Ba0 Ba1 4.453855 1_445
+Ba1 Ba2 3.990161 1_555
+Ba1 Th0 3.994183 1_554
+Ba1 Th0 3.994183 1_555
+Ba1 Ba3 4.154351 1_555
+Ba1 Ba3 4.154351 1_554
+Ba1 Ba5 4.154351 1_564
+Ba1 Ba5 4.154351 1_565
+Ba1 Th1 4.224125 1_565
+Ba1 Th1 4.224134 1_555
+Ba1 Ba2 4.453855 1_655
+Ba2 Th0 3.994179 1_555
+Ba2 Th0 3.994179 1_554
+Ba2 Ba3 4.154351 1_455
+Ba2 Ba4 4.154351 1_565
+Ba2 Ba4 4.154351 1_564
+Ba2 Ba3 4.154351 1_454
+Ba2 Th1 4.224129 1_455
+Ba2 Th1 4.224129 1_565
+Ba3 Ba5 3.990161 1_555
+Ba3 Ba4 3.990161 1_555
+Ba3 Th1 3.994183 1_555
+Ba3 Th1 3.994183 1_556
+Ba3 Th0 4.224125 1_655
+Ba3 Th0 4.224134 1_555
+Ba3 Ba5 4.453855 1_565
+Ba3 Ba4 4.453855 1_665
+Ba4 Ba5 3.990161 1_555
+Ba4 Th1 3.994183 1_555
+Ba4 Th1 3.994183 1_556
+Ba4 Th0 4.224125 1_545
+Ba4 Th0 4.224134 1_555
+Ba4 Ba5 4.453855 1_455
+Ba5 Th1 3.994179 1_556
+Ba5 Th1 3.994179 1_555
+Ba5 Th0 4.224129 1_655
+Ba5 Th0 4.224129 1_545

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CuTeSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91302000
+_cell_length_b   8.01072700
+_cell_length_c   12.42845619
+_cell_angle_alpha   63.96826472
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTeSBr
+_chemical_formula_sum   'Cu4 Te4 S4 Br4'
+_cell_volume   439.52180976
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.87092800  0.80622000  0.25171500  1
+  Cu  Cu1  1  0.12907200  0.19378000  0.74828500  1
+  Cu  Cu2  1  0.37092800  0.19378000  0.24828500  1
+  Cu  Cu3  1  0.62907200  0.80622000  0.75171500  1
+  Te  Te0  1  0.50405700  0.70901800  0.14646900  1
+  Te  Te1  1  0.49594300  0.29098200  0.85353100  1
+  Te  Te2  1  0.00405700  0.29098200  0.35353100  1
+  Te  Te3  1  0.99594300  0.70901800  0.64646900  1
+  S  S0  1  0.69024100  0.41665800  0.17044900  1
+  S  S1  1  0.30975900  0.58334200  0.82955100  1
+  S  S2  1  0.19024100  0.58334200  0.32955100  1
+  S  S3  1  0.80975900  0.41665800  0.67044900  1
+  Br  Br0  1  0.64813700  0.91434500  0.38672800  1
+  Br  Br1  1  0.35186300  0.08565500  0.61327200  1
+  Br  Br2  1  0.14813700  0.08565500  0.11327200  1
+  Br  Br3  1  0.85186300  0.91434500  0.88672800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 S2 2.251362 1_655
+Cu0 Te0 2.541671 1_555
+Cu1 S3 2.251362 1_455
+Cu1 Te1 2.541671 1_555
+Cu2 S0 2.251362 1_555
+Cu2 Te2 2.541671 1_555
+Cu3 S1 2.251362 1_555
+Cu3 Te3 2.541671 1_555
+S0 Te0 2.407888 1_555
+S0 Te2 2.560762 1_655
+S1 Te1 2.407888 1_555
+S1 Te3 2.560762 1_455
+S2 Te2 2.407888 1_555
+S2 Te0 2.560762 1_555
+S3 Te3 2.407888 1_555
+S3 Te1 2.560762 1_555
+Br0 Cu0 2.457590 1_555
+Br0 Cu2 2.538804 1_565
+Br1 Cu1 2.457590 1_555
+Br1 Cu3 2.538804 1_545
+Br2 Cu2 2.457590 1_555
+Br2 Cu0 2.538804 1_445
+Br3 Cu3 2.457590 1_555
+Br3 Cu1 2.538804 1_665

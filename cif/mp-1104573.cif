@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_RbCu2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81420736
+_cell_length_b   5.81420736
+_cell_length_c   8.33993524
+_cell_angle_alpha   98.85092101
+_cell_angle_beta   104.38230885
+_cell_angle_gamma   115.02433295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCu2(SeO5)2
+_chemical_formula_sum   'Rb1 Cu2 Se2 O10'
+_cell_volume   236.44684968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.79744100  0.93725100  0.73469100  1
+  Se  Se1  1  0.20255900  0.06274900  0.26530900  1
+  O  O0  1  0.00060700  0.82812400  0.82873000  1
+  O  O1  1  0.99939300  0.17187600  0.17127000  1
+  O  O2  1  0.68794900  0.83447300  0.52242300  1
+  O  O3  1  0.31205100  0.16552700  0.47757700  1
+  O  O4  1  0.51410200  0.82668300  0.79375100  1
+  O  O5  1  0.96706800  0.27964900  0.79375100  1
+  O  O6  1  0.48589800  0.17331700  0.20624900  1
+  O  O7  1  0.03293200  0.72035100  0.20624900  1
+  O  O8  1  0.64105300  0.31487200  0.95592500  1
+  O  O9  1  0.35894700  0.68512800  0.04407500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O9 1.801644 1_555
+Cu0 O8 1.801644 1_454
+Cu0 O7 1.894070 1_555
+Cu0 O5 1.894070 1_454
+Cu0 O0 2.552507 1_554
+Cu0 O1 2.552507 1_455
+Cu1 O8 1.801644 1_554
+Cu1 O9 1.801644 1_545
+Cu1 O6 1.894070 1_555
+Cu1 O4 1.894070 1_544
+Cu1 O0 2.552503 1_544
+Cu1 O1 2.552503 1_555
+O0 Se0 1.655290 1_455
+O0 Rb0 3.088027 1_555
+O1 Se1 1.655290 1_655
+O1 Rb0 3.088027 1_655
+O2 Se0 1.639843 1_555
+O2 Rb0 3.185941 1_655
+O3 Se1 1.639843 1_555
+O3 Rb0 3.185941 1_555
+O4 Se0 1.724636 1_555
+O4 Rb0 2.944698 1_555
+O5 Se0 1.724631 1_545
+O5 Rb0 2.944698 1_655
+O6 Se1 1.724636 1_555
+O6 Rb0 2.944698 1_655
+O7 Se1 1.724631 1_565
+O7 Rb0 2.944698 1_555

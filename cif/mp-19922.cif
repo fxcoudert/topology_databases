@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_LuNiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14482152
+_cell_length_b   6.69442508
+_cell_length_c   7.15249107
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuNiGe
+_chemical_formula_sum   'Lu4 Ni4 Ge4'
+_cell_volume   198.46157973
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.25000000  0.50693949  0.29257914  1
+  Lu  Lu1  1  0.75000000  0.49306051  0.70742086  1
+  Lu  Lu2  1  0.25000000  0.00693949  0.20742086  1
+  Lu  Lu3  1  0.75000000  0.99306051  0.79257914  1
+  Ni  Ni0  1  0.25000000  0.80768791  0.58013613  1
+  Ni  Ni1  1  0.75000000  0.69231209  0.08013613  1
+  Ni  Ni2  1  0.25000000  0.30768791  0.91986387  1
+  Ni  Ni3  1  0.75000000  0.19231209  0.41986387  1
+  Ge  Ge0  1  0.25000000  0.19956157  0.59000095  1
+  Ge  Ge1  1  0.75000000  0.30043843  0.09000095  1
+  Ge  Ge2  1  0.25000000  0.69956157  0.90999905  1
+  Ge  Ge3  1  0.75000000  0.80043843  0.40999905  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Ni1 2.853725 1_555
+Lu0 Ni1 2.853725 1_455
+Lu0 Ni0 2.878150 1_555
+Lu0 Ni2 2.980929 1_554
+Lu0 Ni3 3.091926 1_455
+Lu0 Ni3 3.091926 1_555
+Lu1 Ni2 2.853725 1_655
+Lu1 Ni2 2.853725 1_555
+Lu1 Ni3 2.878150 1_555
+Lu1 Ni1 2.980929 1_556
+Lu1 Ni0 3.091926 1_655
+Lu1 Ni0 3.091926 1_555
+Lu2 Ni3 2.853725 1_455
+Lu2 Ni3 2.853725 1_555
+Lu2 Ni2 2.878150 1_554
+Lu2 Ni0 2.980929 1_545
+Lu2 Ni1 3.091926 1_445
+Lu2 Ni1 3.091926 1_545
+Lu3 Ni0 2.853725 1_555
+Lu3 Ni0 2.853725 1_655
+Lu3 Ni1 2.878150 1_556
+Lu3 Ni3 2.980929 1_565
+Lu3 Ni2 3.091926 1_565
+Lu3 Ni2 3.091926 1_665
+Ge0 Ni3 2.403767 1_455
+Ge0 Ni3 2.403767 1_555
+Ge0 Ni2 2.467882 1_555
+Ge0 Ni0 2.624318 1_545
+Ge0 Lu3 2.881901 1_445
+Ge0 Lu3 2.881901 1_545
+Ge0 Lu0 2.959669 1_555
+Ge0 Lu1 2.976691 1_555
+Ge0 Lu1 2.976691 1_455
+Ge0 Lu2 3.025010 1_555
+Ge1 Ni2 2.403767 1_654
+Ge1 Ni2 2.403767 1_554
+Ge1 Ni3 2.467882 1_555
+Ge1 Ni1 2.624318 1_555
+Ge1 Lu0 2.881901 1_555
+Ge1 Lu0 2.881901 1_655
+Ge1 Lu3 2.959669 1_544
+Ge1 Lu2 2.976691 1_555
+Ge1 Lu2 2.976691 1_655
+Ge1 Lu1 3.025010 1_554
+Ge2 Ni1 2.403767 1_456
+Ge2 Ni1 2.403767 1_556
+Ge2 Ni0 2.467882 1_555
+Ge2 Ni2 2.624318 1_555
+Ge2 Lu1 2.881901 1_455
+Ge2 Lu1 2.881901 1_555
+Ge2 Lu2 2.959669 1_566
+Ge2 Lu3 2.976691 1_455
+Ge2 Lu3 2.976691 1_555
+Ge2 Lu0 3.025010 1_556
+Ge3 Ni0 2.403767 1_655
+Ge3 Ni0 2.403767 1_555
+Ge3 Ni1 2.467882 1_555
+Ge3 Ni3 2.624318 1_565
+Ge3 Lu2 2.881901 1_565
+Ge3 Lu2 2.881901 1_665
+Ge3 Lu1 2.959669 1_555
+Ge3 Lu0 2.976691 1_555
+Ge3 Lu0 2.976691 1_655
+Ge3 Lu3 3.025010 1_555

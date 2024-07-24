@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_TbMoC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41601100
+_cell_length_b   5.71835400
+_cell_length_c   10.81560700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMoC2
+_chemical_formula_sum   'Tb4 Mo4 C8'
+_cell_volume   211.27163631
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.25000000  0.08552600  0.86257900  1
+  Tb  Tb1  1  0.25000000  0.58552600  0.63742100  1
+  Tb  Tb2  1  0.75000000  0.91447400  0.13742100  1
+  Tb  Tb3  1  0.75000000  0.41447400  0.36257900  1
+  Mo  Mo0  1  0.25000000  0.40354000  0.10925600  1
+  Mo  Mo1  1  0.25000000  0.90354000  0.39074400  1
+  Mo  Mo2  1  0.75000000  0.59646000  0.89074400  1
+  Mo  Mo3  1  0.75000000  0.09646000  0.60925600  1
+  C  C0  1  0.25000000  0.15940100  0.24714100  1
+  C  C1  1  0.25000000  0.65940100  0.25285900  1
+  C  C2  1  0.75000000  0.84059900  0.75285900  1
+  C  C3  1  0.75000000  0.34059900  0.74714100  1
+  C  C4  1  0.25000000  0.72113300  0.98331100  1
+  C  C5  1  0.25000000  0.22113300  0.51668900  1
+  C  C6  1  0.75000000  0.27886700  0.01668900  1
+  C  C7  1  0.75000000  0.77886700  0.48331100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 Mo0 2.042799 1_555
+C0 Mo1 2.133766 1_545
+C0 Tb2 2.507416 1_445
+C0 Tb2 2.507416 1_545
+C0 Tb3 2.569751 1_455
+C0 Tb3 2.569751 1_555
+C1 Mo1 2.042799 1_555
+C1 Mo0 2.133766 1_555
+C1 Tb3 2.507416 1_455
+C1 Tb3 2.507416 1_555
+C1 Tb2 2.569751 1_555
+C1 Tb2 2.569751 1_455
+C2 Mo2 2.042799 1_555
+C2 Mo3 2.133766 1_565
+C2 Tb0 2.507416 1_565
+C2 Tb0 2.507416 1_665
+C2 Tb1 2.569751 1_555
+C2 Tb1 2.569751 1_655
+C3 Mo3 2.042799 1_555
+C3 Mo2 2.133766 1_555
+C3 Tb1 2.507416 1_655
+C3 Tb1 2.507416 1_555
+C3 Tb0 2.569751 1_555
+C3 Tb0 2.569751 1_655
+C4 Mo2 2.104253 1_555
+C4 Mo2 2.104253 1_455
+C4 Mo0 2.270190 1_556
+C4 Tb0 2.459067 1_565
+C4 Tb2 2.630174 1_556
+C4 Tb2 2.630174 1_456
+C5 Mo3 2.104253 1_455
+C5 Mo3 2.104253 1_555
+C5 Mo1 2.270190 1_545
+C5 Tb1 2.459067 1_555
+C5 Tb3 2.630174 1_455
+C5 Tb3 2.630174 1_555
+C6 Mo0 2.104253 1_655
+C6 Mo0 2.104253 1_555
+C6 Mo2 2.270190 1_554
+C6 Tb2 2.459067 1_545
+C6 Tb0 2.630174 1_654
+C6 Tb0 2.630174 1_554
+C7 Mo1 2.104253 1_555
+C7 Mo1 2.104253 1_655
+C7 Mo3 2.270190 1_565
+C7 Tb3 2.459067 1_555
+C7 Tb1 2.630174 1_555
+C7 Tb1 2.630174 1_655

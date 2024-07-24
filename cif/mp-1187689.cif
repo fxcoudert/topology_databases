@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_YbU3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33700900
+_cell_length_b   6.33700994
+_cell_length_c   5.30164900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001074
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbU3
+_chemical_formula_sum   'Yb2 U6'
+_cell_volume   184.37849625
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.33333400  0.66666800  0.75000000  1
+  Yb  Yb1  1  0.66666700  0.33333300  0.24999900  1
+  U  U0  1  0.14619700  0.29239500  0.24999900  1
+  U  U1  1  0.70760700  0.85380300  0.24999900  1
+  U  U2  1  0.14619600  0.85380300  0.24999900  1
+  U  U3  1  0.85380400  0.70760500  0.75000000  1
+  U  U4  1  0.29239400  0.14619700  0.75000000  1
+  U  U5  1  0.85380300  0.14619700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+U0 U1 2.779355 1_445
+U0 U2 2.779359 1_545
+U0 U5 3.098674 1_454
+U0 U4 3.098677 1_554
+U0 U5 3.098683 1_455
+U0 U4 3.098686 1_555
+U0 Yb1 3.176453 1_455
+U0 Yb1 3.176466 1_555
+U0 Yb0 3.353478 1_554
+U0 Yb0 3.353487 1_555
+U0 U2 3.557651 1_555
+U0 U1 3.557654 1_555
+U1 U2 2.779342 1_655
+U1 U5 3.098674 1_564
+U1 U3 3.098677 1_554
+U1 U5 3.098683 1_565
+U1 U3 3.098686 1_555
+U1 Yb1 3.176461 1_555
+U1 Yb1 3.176461 1_565
+U1 Yb0 3.353478 1_554
+U1 Yb0 3.353487 1_555
+U1 U2 3.557667 1_555
+U2 U3 3.098668 1_454
+U2 U4 3.098674 1_564
+U2 U3 3.098677 1_455
+U2 U4 3.098683 1_565
+U2 Yb1 3.176458 1_455
+U2 Yb1 3.176464 1_565
+U2 Yb0 3.353479 1_554
+U2 Yb0 3.353487 1_555
+U3 U4 2.779355 1_665
+U3 U5 2.779365 1_565
+U3 Yb0 3.176450 1_655
+U3 Yb0 3.176469 1_555
+U3 Yb1 3.353475 1_556
+U3 Yb1 3.353483 1_555
+U3 U5 3.557645 1_555
+U3 U4 3.557654 1_555
+U4 U5 2.779355 1_455
+U4 Yb0 3.176455 1_545
+U4 Yb0 3.176467 1_555
+U4 Yb1 3.353478 1_556
+U4 Yb1 3.353487 1_555
+U4 U5 3.557654 1_555
+U5 Yb0 3.176454 1_545
+U5 Yb0 3.176467 1_655
+U5 Yb1 3.353475 1_556
+U5 Yb1 3.353484 1_555

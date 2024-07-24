@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiVNiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83437482
+_cell_length_b   5.87347503
+_cell_length_c   5.87344721
+_cell_angle_alpha   60.87314788
+_cell_angle_beta   60.22015483
+_cell_angle_gamma   60.21964832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVNiO4
+_chemical_formula_sum   'Li2 V2 Ni2 O8'
+_cell_volume   143.71641782
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99999700  0.50000000  0.50000100  1
+  Li  Li1  1  0.50000100  0.50000000  0.50000000  1
+  V  V0  1  0.12664600  0.12335600  0.12335600  1
+  V  V1  1  0.87335400  0.87664500  0.87664800  1
+  Ni  Ni0  1  0.50000200  0.50000100  0.00000000  1
+  Ni  Ni1  1  0.50000300  0.99999500  0.49999500  1
+  O  O0  1  0.75193700  0.24719900  0.24719400  1
+  O  O1  1  0.25367200  0.24719400  0.24719900  1
+  O  O2  1  0.74632600  0.75280700  0.75280100  1
+  O  O3  1  0.24806100  0.75280200  0.75280700  1
+  O  O4  1  0.75205700  0.76093600  0.23494500  1
+  O  O5  1  0.75206000  0.23494400  0.76093600  1
+  O  O6  1  0.24794000  0.76505700  0.23906200  1
+  O  O7  1  0.24794300  0.23906400  0.76505600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 2.092910 1_555
+Li0 O1 2.092915 1_655
+Li0 O4 2.139412 1_555
+Li0 O5 2.139421 1_555
+Li0 O7 2.139432 1_655
+Li0 O6 2.139450 1_655
+Li1 O0 2.092910 1_555
+Li1 O3 2.092919 1_555
+Li1 O5 2.139408 1_555
+Li1 O4 2.139417 1_555
+Li1 O6 2.139425 1_555
+Li1 O7 2.139426 1_555
+Ni0 O0 2.080011 1_555
+Ni0 O3 2.080032 1_554
+Ni0 O2 2.080037 1_554
+Ni0 O1 2.080065 1_555
+Ni0 O6 2.088174 1_555
+Ni0 O5 2.088186 1_554
+Ni1 O1 2.080003 1_565
+Ni1 O2 2.080012 1_555
+Ni1 O3 2.080058 1_555
+Ni1 O0 2.080069 1_565
+Ni1 O4 2.088136 1_555
+Ni1 O7 2.088223 1_565
+O0 V0 1.787019 1_655
+O1 V0 1.787009 1_555
+O2 V1 1.787038 1_555
+O3 V1 1.787010 1_455
+O4 V1 1.731318 1_554
+O5 V1 1.731327 1_545
+O6 V0 1.731327 1_565
+O7 V0 1.731333 1_556

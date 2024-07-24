@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_MgCo2(BiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33687361
+_cell_length_b   6.33687388
+_cell_length_c   6.59501332
+_cell_angle_alpha   58.66775727
+_cell_angle_beta   58.66776098
+_cell_angle_gamma   90.10935821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo2(BiO4)2
+_chemical_formula_sum   'Mg1 Co2 Bi2 O8'
+_cell_volume   179.25715367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.35263000  0.64737000  0.75000000  1
+  Co  Co0  1  0.99365600  0.49451400  0.50599800  1
+  Co  Co1  1  0.50548600  0.00634500  0.99400200  1
+  Bi  Bi0  1  0.99475500  0.00535800  0.50627900  1
+  Bi  Bi1  1  0.99464200  0.00524500  0.99372100  1
+  O  O0  1  0.74531700  0.77095200  0.99163900  1
+  O  O1  1  0.23348600  0.76671000  0.47567100  1
+  O  O2  1  0.76097500  0.23911300  0.95975800  1
+  O  O3  1  0.75851200  0.76060300  0.49031100  1
+  O  O4  1  0.22904800  0.25468300  0.50836100  1
+  O  O5  1  0.23329000  0.76651400  0.02432900  1
+  O  O6  1  0.76088700  0.23902500  0.54024200  1
+  O  O7  1  0.23939700  0.24148800  0.00968900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O3 2.048674 1_555
+Mg0 O7 2.048674 1_556
+Mg0 O1 2.101187 1_555
+Mg0 O5 2.101187 1_556
+Co0 O6 2.027821 1_555
+Co0 O2 2.028239 1_555
+Co0 O4 2.131475 1_655
+Co0 O1 2.154061 1_655
+Co0 O5 2.155613 1_655
+Co0 O3 2.250046 1_555
+Co1 O2 2.027816 1_555
+Co1 O6 2.028239 1_555
+Co1 O0 2.131480 1_545
+Co1 O5 2.154065 1_546
+Co1 O1 2.155612 1_546
+Co1 O7 2.250041 1_556
+Bi0 O6 2.108809 1_555
+Bi0 O1 2.150571 1_645
+Bi0 O0 2.176043 1_545
+Bi0 O4 2.176121 1_655
+Bi0 O7 2.232142 1_655
+Bi0 O3 2.232203 1_545
+Bi1 O2 2.108809 1_555
+Bi1 O5 2.150571 1_646
+Bi1 O4 2.176043 1_655
+Bi1 O0 2.176121 1_545
+Bi1 O3 2.232142 1_546
+Bi1 O7 2.232203 1_656

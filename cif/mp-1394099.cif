@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_MoWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42466100
+_cell_length_b   5.36452400
+_cell_length_c   9.32640870
+_cell_angle_alpha   54.85925402
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoWO6
+_chemical_formula_sum   'Mo2 W2 O12'
+_cell_volume   221.93908791
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.00000000  0.50000000  0.00000000  1
+  Mo  Mo1  1  0.50000000  0.50000000  0.50000000  1
+  W  W0  1  0.00000000  0.00000000  0.50000000  1
+  W  W1  1  0.50000000  0.00000000  0.00000000  1
+  O  O0  1  0.27724400  0.74951300  0.52763900  1
+  O  O1  1  0.77724400  0.25048700  0.97236100  1
+  O  O2  1  0.72275600  0.25048700  0.47236100  1
+  O  O3  1  0.22275600  0.74951300  0.02763900  1
+  O  O4  1  0.22367900  0.30635600  0.47154300  1
+  O  O5  1  0.72367900  0.69364400  0.02845700  1
+  O  O6  1  0.77632100  0.69364400  0.52845700  1
+  O  O7  1  0.27632100  0.30635600  0.97154300  1
+  O  O8  1  0.49398900  0.19470000  0.74949300  1
+  O  O9  1  0.99398900  0.80530000  0.75050700  1
+  O  O10  1  0.00601100  0.19470000  0.24949300  1
+  O  O11  1  0.50601100  0.80530000  0.25050700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O9 1.926322 1_454
+Mo0 O10 1.926322 1_555
+Mo0 O7 1.927118 1_554
+Mo0 O5 1.927118 1_455
+Mo0 O1 1.927549 1_454
+Mo0 O3 1.927549 1_555
+Mo1 O8 1.926322 1_555
+Mo1 O11 1.926322 1_555
+Mo1 O4 1.927118 1_555
+Mo1 O6 1.927118 1_555
+Mo1 O0 1.927549 1_555
+Mo1 O2 1.927549 1_555
+O0 W0 1.932674 1_565
+O1 W1 1.932674 1_556
+O2 W0 1.932674 1_655
+O3 W1 1.932674 1_565
+O4 W0 1.934312 1_555
+O5 W1 1.934312 1_565
+O6 W0 1.934312 1_665
+O7 W1 1.934312 1_556
+O8 W1 1.934243 1_556
+O9 W0 1.934243 1_665
+O10 W0 1.934243 1_555
+O11 W1 1.934243 1_565

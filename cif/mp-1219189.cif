@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Sm(CuTe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32919991
+_cell_length_b   8.32919991
+_cell_length_c   8.32920023
+_cell_angle_alpha   53.64113518
+_cell_angle_beta   53.64113518
+_cell_angle_gamma   53.64113951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(CuTe)3
+_chemical_formula_sum   'Sm2 Cu6 Te6'
+_cell_volume   347.83040000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.83367600  0.83367600  0.83367600  1
+  Sm  Sm1  1  0.16632400  0.16632400  0.16632400  1
+  Cu  Cu0  1  0.27685600  0.96780600  0.62510900  1
+  Cu  Cu1  1  0.62510900  0.27685600  0.96780600  1
+  Cu  Cu2  1  0.96780600  0.62510900  0.27685600  1
+  Cu  Cu3  1  0.03219400  0.37489100  0.72314400  1
+  Cu  Cu4  1  0.37489100  0.72314400  0.03219400  1
+  Cu  Cu5  1  0.72314400  0.03219400  0.37489100  1
+  Te  Te0  1  0.09051500  0.73853300  0.41585200  1
+  Te  Te1  1  0.73853300  0.41585200  0.09051500  1
+  Te  Te2  1  0.41585200  0.09051500  0.73853300  1
+  Te  Te3  1  0.58414800  0.90948500  0.26146700  1
+  Te  Te4  1  0.26146700  0.58414800  0.90948500  1
+  Te  Te5  1  0.90948500  0.26146700  0.58414800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sm0 Te5 3.121762 1_565
+Sm0 Te3 3.121762 1_556
+Sm0 Te4 3.121762 1_655
+Sm0 Te1 3.122243 1_556
+Sm0 Te0 3.122243 1_655
+Sm0 Te2 3.122243 1_565
+Sm1 Te0 3.121762 1_545
+Sm1 Te2 3.121762 1_554
+Sm1 Te1 3.121762 1_455
+Sm1 Te4 3.122243 1_554
+Sm1 Te5 3.122243 1_455
+Sm1 Te3 3.122243 1_545
+Cu0 Te5 2.614647 1_465
+Cu0 Te4 2.643782 1_555
+Cu0 Te3 2.653196 1_555
+Cu0 Te2 2.668736 1_565
+Cu1 Te3 2.614646 1_546
+Cu1 Te5 2.643783 1_555
+Cu1 Te4 2.653196 1_555
+Cu1 Te1 2.668736 1_556
+Cu2 Te4 2.614646 1_654
+Cu2 Te3 2.643783 1_555
+Cu2 Te5 2.653196 1_555
+Cu2 Te0 2.668736 1_655
+Cu3 Te1 2.614646 1_456
+Cu3 Te2 2.643783 1_555
+Cu3 Te0 2.653196 1_555
+Cu3 Te5 2.668736 1_455
+Cu4 Te2 2.614646 1_564
+Cu4 Te0 2.643783 1_555
+Cu4 Te1 2.653196 1_555
+Cu4 Te4 2.668736 1_554
+Cu5 Te0 2.614647 1_645
+Cu5 Te1 2.643782 1_555
+Cu5 Te2 2.653196 1_555
+Cu5 Te3 2.668736 1_545

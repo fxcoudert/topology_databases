@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_ScAl2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99251549
+_cell_length_b   5.14507455
+_cell_length_c   6.66535673
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.82974621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAl2Ni
+_chemical_formula_sum   'Sc2 Al4 Ni2'
+_cell_volume   126.19242520
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.43367282  0.86734464  0.75000000  1
+  Sc  Sc1  1  0.56632718  0.13265536  0.25000000  1
+  Al  Al0  1  0.14834634  0.29668968  0.94848066  1
+  Al  Al1  1  0.85165366  0.70331032  0.05151934  1
+  Al  Al2  1  0.85165366  0.70331032  0.44848066  1
+  Al  Al3  1  0.14834634  0.29668968  0.55151934  1
+  Ni  Ni0  1  0.71019144  0.42038089  0.75000000  1
+  Ni  Ni1  1  0.28980856  0.57961911  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Ni1 2.416417 1_556
+Al0 Ni0 2.465614 1_555
+Al0 Ni0 2.465618 1_455
+Al1 Ni0 2.416417 1_554
+Al1 Ni1 2.465614 1_555
+Al1 Ni1 2.465618 1_655
+Al2 Ni0 2.416417 1_555
+Al2 Ni1 2.465614 1_555
+Al2 Ni1 2.465618 1_655
+Al3 Ni1 2.416417 1_555
+Al3 Ni0 2.465614 1_555
+Al3 Ni0 2.465618 1_455
+Ni0 Sc0 2.622508 1_545
+Ni0 Sc0 2.911591 1_655
+Ni0 Sc0 2.911594 1_555
+Ni1 Sc1 2.622508 1_565
+Ni1 Sc1 2.911591 1_455
+Ni1 Sc1 2.911594 1_555

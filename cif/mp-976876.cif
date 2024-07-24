@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_K2PtC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13836879
+_cell_length_b   5.13830985
+_cell_length_c   5.19454330
+_cell_angle_alpha   90.00006215
+_cell_angle_beta   90.00030520
+_cell_angle_gamma   120.00039560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PtC2
+_chemical_formula_sum   'K2 Pt1 C2'
+_cell_volume   118.77412289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33330263  0.66666419  0.27823630  1
+  K  K1  1  0.66663630  0.33333248  0.72176522  1
+  Pt  Pt0  1  0.99998925  0.00000063  -0.00000143  1
+  C  C0  1  0.99998704  0.00000158  0.37788510  1
+  C  C1  1  0.99998578  -0.00000088  0.62211381  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Pt0 3.299903 1_465
+K0 Pt0 3.299924 1_455
+K0 Pt0 3.300061 1_565
+K1 Pt0 3.299893 1_456
+K1 Pt0 3.299932 1_566
+K1 Pt0 3.300033 1_556
+C0 C1 1.268657 1_555
+C0 Pt0 1.962948 1_555
+C0 K0 3.011389 1_645
+C0 K0 3.011398 1_655
+C0 K0 3.011522 1_545
+C1 Pt0 1.962939 1_556
+C1 K1 3.011375 1_655
+C1 K1 3.011418 1_545
+C1 K1 3.011523 1_555

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_TaCu3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48655743
+_cell_length_b   5.48655743
+_cell_length_c   5.48655743
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCu3S4
+_chemical_formula_sum   'Ta1 Cu3 S4'
+_cell_volume   165.15806594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  -0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  -0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  1  -0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  S  S0  1  0.24285373  0.75714727  0.75714727  1
+  S  S1  1  0.75714727  0.75714727  0.24285373  1
+  S  S2  1  0.75714727  0.24285373  0.75714727  1
+  S  S3  1  0.24285373  0.24285373  0.24285373  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 S1 2.353977 1_445
+Cu0 S3 2.353983 1_555
+Cu0 S0 2.353983 1_545
+Cu0 S2 2.353983 1_455
+Cu1 S2 2.353977 1_454
+Cu1 S3 2.353983 1_555
+Cu1 S1 2.353983 1_455
+Cu1 S0 2.353983 1_554
+Cu2 S0 2.353977 1_544
+Cu2 S3 2.353983 1_555
+Cu2 S2 2.353983 1_554
+Cu2 S1 2.353983 1_545
+S0 Ta0 2.307832 1_566
+S1 Ta0 2.307832 1_665
+S2 Ta0 2.307832 1_656
+S3 Ta0 2.307838 1_555

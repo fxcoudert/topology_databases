@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li2Si2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76947858
+_cell_length_b   5.79075704
+_cell_length_c   7.85954847
+_cell_angle_alpha   111.61634732
+_cell_angle_beta   89.99658948
+_cell_angle_gamma   90.00923973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Si2O5
+_chemical_formula_sum   'Li4 Si4 O10'
+_cell_volume   201.80564733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.59453239  0.70526832  0.11468048  1
+  Li  Li1  1  0.09453239  0.59058784  0.88531952  1
+  Li  Li2  1  0.09471422  0.40229409  0.11435086  1
+  Li  Li3  1  0.59471422  0.28794322  0.88564914  1
+  Si  Si0  1  0.09458141  0.98865368  0.29547092  1
+  Si  Si1  1  0.09459775  0.00512409  0.70448957  1
+  Si  Si2  1  0.59459775  0.30063452  0.29551043  1
+  Si  Si3  1  0.59458141  0.69318076  0.70452908  1
+  O  O0  1  0.49798387  0.39944095  0.14213392  1
+  O  O1  1  0.99798387  0.25730603  0.85786608  1
+  O  O2  1  0.53635748  0.49699489  0.49997575  1
+  O  O3  1  0.49813575  0.59418538  0.85786428  1
+  O  O4  1  0.03635748  0.99701914  0.50002425  1
+  O  O5  1  0.93105625  0.76467802  0.72554005  1
+  O  O6  1  0.43105625  0.03913797  0.27445995  1
+  O  O7  1  0.43104388  0.95468189  0.72553278  1
+  O  O8  1  0.93104388  0.22915011  0.27446722  1
+  O  O9  1  0.99813575  0.73632010  0.14213572  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 1.917346 1_555
+Li0 O3 1.934613 1_554
+Li0 O9 1.937985 1_555
+Li0 O6 2.033313 1_565
+Li1 O1 1.917351 1_455
+Li1 O9 1.934613 1_456
+Li1 O3 1.937985 1_555
+Li1 O5 2.033313 1_455
+Li2 O9 1.921016 1_455
+Li2 O1 1.932465 1_454
+Li2 O0 1.936514 1_555
+Li2 O8 2.031648 1_455
+Li3 O3 1.921022 1_555
+Li3 O0 1.932464 1_556
+Li3 O1 1.936514 1_555
+Li3 O7 2.031652 1_545
+O0 Si2 1.581516 1_555
+O1 Si1 1.581512 1_655
+O2 Si2 1.614406 1_555
+O2 Si3 1.614531 1_555
+O3 Si3 1.581599 1_555
+O4 Si1 1.614406 1_565
+O4 Si0 1.614535 1_555
+O5 Si3 1.650316 1_555
+O5 Si1 1.656450 1_665
+O6 Si0 1.650313 1_545
+O6 Si2 1.656450 1_555
+O7 Si1 1.650281 1_565
+O7 Si3 1.656772 1_555
+O8 Si2 1.650279 1_555
+O8 Si0 1.656767 1_645
+O9 Si0 1.581611 1_655

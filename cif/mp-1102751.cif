@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NiC2(SN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72321800
+_cell_length_b   6.72321800
+_cell_length_c   5.47736348
+_cell_angle_alpha   76.38456061
+_cell_angle_beta   76.38456061
+_cell_angle_gamma   72.02860437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiC2(SN3)2
+_chemical_formula_sum   'Ni1 C2 S2 N6'
+_cell_volume   225.31235865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.23518100  0.23518100  0.54706200  1
+  C  C1  1  0.76481900  0.76481900  0.45293800  1
+  S  S0  1  0.36024600  0.36024600  0.30753000  1
+  S  S1  1  0.63975400  0.63975400  0.69247000  1
+  N  N0  1  0.90295500  0.24845400  0.15619000  1
+  N  N1  1  0.24845400  0.90295500  0.15619000  1
+  N  N2  1  0.09704500  0.75154600  0.84381000  1
+  N  N3  1  0.75154600  0.09704500  0.84381000  1
+  N  N4  1  0.14165400  0.14165400  0.72568900  1
+  N  N5  1  0.85834600  0.85834600  0.27431100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 N4 1.188591 1_555
+C0 S0 1.591504 1_555
+C1 N5 1.188591 1_555
+C1 S1 1.591504 1_555
+N0 Ni0 1.919723 1_655
+N1 Ni0 1.919723 1_565
+N2 Ni0 1.919723 1_566
+N3 Ni0 1.919723 1_656
+N4 Ni0 1.812136 1_556
+N5 Ni0 1.812136 1_665

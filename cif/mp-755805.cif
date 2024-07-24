@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Sc(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10707969
+_cell_length_b   6.01562670
+_cell_length_c   6.10706900
+_cell_angle_alpha   126.20808802
+_cell_angle_beta   79.87436483
+_cell_angle_gamma   127.08012686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(CuO2)2
+_chemical_formula_sum   'Sc2 Cu4 O8'
+_cell_volume   138.64131445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.87611569  0.74999954  0.62611660  1
+  Sc  Sc1  1  0.12388431  0.25000046  0.37388340  1
+  Cu  Cu0  1  0.50000000  0.00000000  -0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  -0.00000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.50000000  -0.00000000  1
+  O  O0  1  0.82436840  0.70117128  0.22986992  1
+  O  O1  1  0.47130801  0.20117678  0.37680469  1
+  O  O2  1  0.73552556  0.89550682  0.01990135  1
+  O  O3  1  0.87559814  0.39549346  0.65997514  1
+  O  O4  1  0.12440186  0.60450654  0.34002486  1
+  O  O5  1  0.26447444  0.10449318  0.98009865  1
+  O  O6  1  0.52869199  0.79882322  0.62319531  1
+  O  O7  1  0.17563160  0.29882872  0.77013008  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O1 1.901170 1_555
+Cu0 O6 1.901170 1_544
+Cu0 O2 1.928944 1_545
+Cu0 O5 1.928944 1_554
+Cu1 O5 1.826884 1_554
+Cu1 O2 1.826884 1_555
+Cu1 O7 1.854533 1_554
+Cu1 O0 1.854533 1_555
+Cu2 O3 1.826876 1_555
+Cu2 O4 1.826876 1_545
+Cu2 O1 1.854489 1_555
+Cu2 O6 1.854489 1_545
+Cu3 O0 1.901157 1_455
+Cu3 O7 1.901157 1_554
+Cu3 O3 1.928973 1_454
+Cu3 O4 1.928973 1_555
+O0 Sc1 2.207352 1_665
+O0 Sc0 2.315012 1_555
+O1 Sc0 2.207349 1_555
+O1 Sc1 2.315023 1_555
+O2 Sc0 2.231603 1_554
+O2 Sc1 2.259082 1_665
+O3 Sc1 2.231594 1_655
+O3 Sc0 2.259041 1_555
+O4 Sc0 2.231594 1_455
+O4 Sc1 2.259041 1_555
+O5 Sc1 2.231603 1_556
+O5 Sc0 2.259082 1_445
+O6 Sc1 2.207349 1_555
+O6 Sc0 2.315023 1_555
+O7 Sc0 2.207352 1_445
+O7 Sc1 2.315012 1_555

@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Pr(CuSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09546555
+_cell_length_b   4.09546557
+_cell_length_c   5.72270664
+_cell_angle_alpha   110.96673602
+_cell_angle_beta   110.96672773
+_cell_angle_gamma   90.00001338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(CuSi)2
+_chemical_formula_sum   'Pr1 Cu2 Si2'
+_cell_volume   82.78879084
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Cu  Cu0  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu1  1  0.75000000  0.25000000  0.50000000  1
+  Si  Si0  1  0.62245397  0.62245397  0.24490894  1
+  Si  Si1  1  0.37754603  0.37754603  0.75509106  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Si1 3.138105 1_444
+Pr0 Si0 3.138105 1_555
+Pr0 Si0 3.138108 1_455
+Pr0 Si1 3.138108 1_544
+Pr0 Si1 3.138108 1_454
+Pr0 Si0 3.138108 1_545
+Pr0 Si0 3.138110 1_445
+Pr0 Si1 3.138110 1_554
+Cu0 Si0 2.403858 1_555
+Cu0 Si1 2.403858 1_555
+Cu0 Si1 2.403862 1_565
+Cu0 Si0 2.403862 1_455
+Cu0 Pr0 3.206859 1_566
+Cu0 Pr0 3.206859 1_555
+Cu0 Pr0 3.206860 1_565
+Cu0 Pr0 3.206860 1_666
+Cu1 Si1 2.403858 1_555
+Cu1 Si0 2.403858 1_555
+Cu1 Si0 2.403862 1_545
+Cu1 Si1 2.403862 1_655
+Cu1 Pr0 3.206859 1_655
+Cu1 Pr0 3.206859 1_666
+Cu1 Pr0 3.206860 1_656
+Cu1 Pr0 3.206860 1_555
+Si0 Si1 2.417684 1_554

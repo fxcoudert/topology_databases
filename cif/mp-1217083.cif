@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_U2CoSe2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23688900
+_cell_length_b   7.13483735
+_cell_length_c   7.99088945
+_cell_angle_alpha   96.87835245
+_cell_angle_beta   67.02994093
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2CoSe2S3
+_chemical_formula_sum   'U4 Co2 Se4 S6'
+_cell_volume   324.61162412
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.67650500  0.58225000  0.19553100  1
+  U  U1  1  0.87203600  0.91775000  0.80446900  1
+  U  U2  1  0.32349500  0.41775000  0.80446900  1
+  U  U3  1  0.12796400  0.08225000  0.19553100  1
+  Co  Co0  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.00000000  0.50000000  0.50000000  1
+  Se  Se0  1  0.30194400  0.69251200  0.56163200  1
+  Se  Se1  1  0.86357600  0.80748800  0.43836800  1
+  Se  Se2  1  0.69805600  0.30748800  0.43836800  1
+  Se  Se3  1  0.13642400  0.19251200  0.56163200  1
+  S  S0  1  0.08401700  0.75000000  0.00000000  1
+  S  S1  1  0.91598300  0.25000000  0.00000000  1
+  S  S2  1  0.52948200  0.92511000  0.18006300  1
+  S  S3  1  0.70954400  0.57489000  0.81993700  1
+  S  S4  1  0.47051800  0.07489000  0.81993700  1
+  S  S5  1  0.29045600  0.42511000  0.18006300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 S4 2.482199 1_555
+Co0 S2 2.482199 1_545
+Co0 Se3 2.497485 1_555
+Co0 Se1 2.497485 1_545
+Co0 Se2 2.522989 1_555
+Co0 Se0 2.522989 1_545
+Co1 S5 2.482201 1_555
+Co1 S3 2.482201 1_455
+Co1 Se2 2.497485 1_455
+Co1 Se0 2.497485 1_555
+Co1 Se3 2.522989 1_555
+Co1 Se1 2.522989 1_455
+Se0 U1 2.954568 1_455
+Se0 U2 2.956583 1_555
+Se0 U0 2.957920 1_555
+Se1 U0 2.954569 1_555
+Se1 U3 2.956583 1_665
+Se1 U1 2.957921 1_555
+Se2 U3 2.954568 1_655
+Se2 U0 2.956583 1_555
+Se2 U2 2.957920 1_555
+Se3 U2 2.954569 1_555
+Se3 U1 2.956583 1_445
+Se3 U3 2.957921 1_555
+S0 U2 2.753728 1_554
+S0 U3 2.753728 1_565
+S0 U0 2.771640 1_455
+S0 U1 2.771640 1_454
+S1 U0 2.753728 1_555
+S1 U1 2.753728 1_544
+S1 U2 2.771640 1_654
+S1 U3 2.771640 1_655
+S2 U0 2.645965 1_555
+S2 U3 2.696043 1_565
+S2 U1 2.921084 1_554
+S3 U1 2.645967 1_555
+S3 U2 2.696038 1_555
+S3 U0 2.921086 1_556
+S4 U2 2.645965 1_555
+S4 U1 2.696043 1_545
+S4 U3 2.921084 1_556
+S5 U3 2.645967 1_555
+S5 U0 2.696038 1_555
+S5 U2 2.921086 1_554

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Zn(ReO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71483887
+_cell_length_b   5.71482591
+_cell_length_c   6.38512902
+_cell_angle_alpha   89.99927910
+_cell_angle_beta   90.00128176
+_cell_angle_gamma   119.99875086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(ReO4)2
+_chemical_formula_sum   'Zn1 Re2 O8'
+_cell_volume   180.59793089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000022  -0.00000070  -0.00000175  1
+  Re  Re0  1  0.33333868  0.66666937  0.27787720  1
+  Re  Re1  1  0.66666141  0.33332980  0.72212321  1
+  O  O0  1  0.66665572  0.33333424  0.45218898  1
+  O  O1  1  0.33334203  0.66666841  0.54780287  1
+  O  O2  1  0.81337241  0.14850233  0.81285524  1
+  O  O3  1  0.14851620  0.33515385  0.18714642  1
+  O  O4  1  0.66484921  0.81336307  0.18714682  1
+  O  O5  1  0.18663894  0.85149317  0.18714621  1
+  O  O6  1  0.85148807  0.66485823  0.81285893  1
+  O  O7  1  0.33513810  0.18662823  0.81285688  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Re1 1.723565 1_555
+O1 Re0 1.723510 1_555
+O2 Re1 1.743502 1_555
+O2 Zn0 2.047109 1_656
+O3 Re0 1.743435 1_555
+O3 Zn0 2.047268 1_555
+O4 Re0 1.743420 1_555
+O4 Zn0 2.047276 1_665
+O5 Re0 1.743432 1_555
+O5 Zn0 2.047185 1_565
+O6 Re1 1.743505 1_555
+O6 Zn0 2.047180 1_666
+O7 Re1 1.743486 1_555
+O7 Zn0 2.047196 1_556

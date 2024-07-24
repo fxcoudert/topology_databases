@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CeNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18552134
+_cell_length_b   5.54209023
+_cell_length_c   6.75398468
+_cell_angle_alpha   112.13355057
+_cell_angle_beta   110.36674558
+_cell_angle_gamma   95.01823358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNbO4
+_chemical_formula_sum   'Ce2 Nb2 O8'
+_cell_volume   163.12876495
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.88151395  0.13207999  0.76328952  1
+  Ce  Ce1  1  0.11848417  0.86791952  0.23670933  1
+  Nb  Nb0  1  0.35054071  0.60065301  0.70058882  1
+  Nb  Nb1  1  0.64945719  0.39934503  0.29941046  1
+  O  O0  1  0.30169348  0.14319931  0.08636882  1
+  O  O1  1  0.78491621  0.44332598  0.08677792  1
+  O  O2  1  0.69830500  0.85679876  0.91363213  1
+  O  O3  1  0.21508386  0.55667612  0.91322479  1
+  O  O4  1  0.50576484  0.70625538  0.43792246  1
+  O  O5  1  0.93173141  0.23133059  0.43754402  1
+  O  O6  1  0.49423342  0.29374318  0.56207353  1
+  O  O7  1  0.06827577  0.76867314  0.56245620  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 O3 2.414090 1_655
+Ce0 O2 2.417937 1_545
+Ce0 O6 2.452611 1_555
+Ce0 O7 2.455842 1_645
+Ce0 O1 2.464333 1_556
+Ce0 O0 2.465456 1_656
+Ce0 O5 2.548793 1_555
+Ce0 O4 2.549964 1_545
+Ce1 O1 2.414079 1_455
+Ce1 O0 2.417920 1_565
+Ce1 O4 2.452607 1_555
+Ce1 O5 2.455830 1_465
+Ce1 O3 2.464315 1_554
+Ce1 O2 2.465444 1_454
+Ce1 O7 2.548771 1_555
+Ce1 O6 2.549956 1_565
+Nb0 O2 1.882678 1_555
+Nb0 O3 1.884475 1_555
+Nb0 O7 1.955110 1_555
+Nb0 O6 1.957402 1_555
+Nb0 O4 2.414861 1_555
+Nb0 O5 2.420505 1_455
+Nb1 O0 1.882675 1_555
+Nb1 O1 1.884469 1_555
+Nb1 O5 1.955120 1_555
+Nb1 O4 1.957396 1_555
+Nb1 O6 2.414838 1_555
+Nb1 O7 2.420549 1_655

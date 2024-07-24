@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_TaCoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34012100
+_cell_length_b   7.79036400
+_cell_length_c   8.53987768
+_cell_angle_alpha   65.45687171
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCoTe2
+_chemical_formula_sum   'Ta4 Co4 Te8'
+_cell_volume   383.69021750
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.97857700  0.30908900  0.48550100  1
+  Ta  Ta1  1  0.47857700  0.19091100  0.51449900  1
+  Ta  Ta2  1  0.02142300  0.69091100  0.51449900  1
+  Ta  Ta3  1  0.52142300  0.80908900  0.48550100  1
+  Co  Co0  1  0.84958300  0.94265500  0.60039000  1
+  Co  Co1  1  0.15041700  0.05734500  0.39961000  1
+  Co  Co2  1  0.65041700  0.44265500  0.60039000  1
+  Co  Co3  1  0.34958300  0.55734500  0.39961000  1
+  Te  Te0  1  0.25676000  0.36002700  0.72037100  1
+  Te  Te1  1  0.24324000  0.86002700  0.72037100  1
+  Te  Te2  1  0.75676000  0.13997300  0.27962900  1
+  Te  Te3  1  0.74324000  0.63997300  0.27962900  1
+  Te  Te4  1  0.25086800  0.90104600  0.20007600  1
+  Te  Te5  1  0.75086800  0.59895400  0.79992400  1
+  Te  Te6  1  0.74913200  0.09895400  0.79992400  1
+  Te  Te7  1  0.24913200  0.40104600  0.20007600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Te7 2.818930 1_655
+Ta0 Te0 2.820011 1_655
+Ta0 Te3 2.863023 1_555
+Ta0 Te6 2.890377 1_555
+Ta0 Te2 2.954456 1_555
+Ta1 Te6 2.818930 1_555
+Ta1 Te2 2.820011 1_555
+Ta1 Te1 2.863023 1_545
+Ta1 Te7 2.890377 1_555
+Ta1 Te0 2.954456 1_555
+Ta2 Te5 2.818930 1_455
+Ta2 Te3 2.820011 1_455
+Ta2 Te0 2.863023 1_555
+Ta2 Te4 2.890377 1_555
+Ta2 Te1 2.954456 1_555
+Ta3 Te4 2.818930 1_555
+Ta3 Te1 2.820011 1_555
+Ta3 Te2 2.863023 1_565
+Ta3 Te5 2.890377 1_555
+Ta3 Te3 2.954456 1_555
+Co0 Co1 2.470517 1_665
+Co0 Te6 2.552547 1_565
+Co0 Te5 2.583458 1_555
+Co0 Te2 2.591277 1_565
+Co0 Ta2 2.601207 1_655
+Co0 Te1 2.673099 1_655
+Co0 Ta3 2.687422 1_555
+Co0 Ta0 2.730156 1_565
+Co0 Ta1 2.938170 1_565
+Co1 Te4 2.552547 1_545
+Co1 Te7 2.583458 1_555
+Co1 Te1 2.591277 1_545
+Co1 Ta0 2.601207 1_455
+Co1 Te2 2.673099 1_455
+Co1 Ta1 2.687422 1_555
+Co1 Ta2 2.730156 1_545
+Co1 Ta3 2.938170 1_545
+Co2 Co3 2.470517 1_555
+Co2 Te5 2.552547 1_555
+Co2 Te6 2.583458 1_555
+Co2 Te3 2.591277 1_555
+Co2 Ta1 2.601207 1_555
+Co2 Te0 2.673099 1_555
+Co2 Ta0 2.687422 1_555
+Co2 Ta3 2.730156 1_555
+Co2 Ta2 2.938170 1_655
+Co3 Te7 2.552547 1_555
+Co3 Te4 2.583458 1_555
+Co3 Te0 2.591277 1_555
+Co3 Ta3 2.601207 1_555
+Co3 Te3 2.673099 1_555
+Co3 Ta2 2.687422 1_555
+Co3 Ta1 2.730156 1_555
+Co3 Ta0 2.938170 1_455

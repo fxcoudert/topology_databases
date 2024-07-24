@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Sr3Ca(NCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36772388
+_cell_length_b   7.36772388
+_cell_length_c   6.67312603
+_cell_angle_alpha   81.34313183
+_cell_angle_beta   81.34313183
+_cell_angle_gamma   30.29875745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca(NCl)2
+_chemical_formula_sum   'Sr3 Ca1 N2 Cl2'
+_cell_volume   180.51755450
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.84956100  0.84956100  0.38146700  1
+  Sr  Sr1  1  0.15676600  0.15676600  0.61516600  1
+  Sr  Sr2  1  0.65419200  0.65419200  0.11464200  1
+  Ca  Ca0  1  0.33827900  0.33827900  0.89006200  1
+  N  N0  1  0.75395400  0.75395400  0.75489000  1
+  N  N1  1  0.25214500  0.25214500  0.24256800  1
+  Cl  Cl0  1  0.49955700  0.49955700  0.50789300  1
+  Cl  Cl1  1  0.99554700  0.99554700  0.99331200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 N1 2.477001 1_556
+Ca0 N0 2.509371 1_455
+Ca0 N0 2.509371 1_545
+Ca0 Cl1 3.109081 1_455
+Ca0 Cl1 3.109081 1_545
+Ca0 Cl0 3.153000 1_555
+N0 Sr2 2.591191 1_556
+N0 Sr1 2.624799 1_565
+N0 Sr1 2.624799 1_655
+N0 Sr0 2.646119 1_555
+N1 Sr2 2.597712 1_455
+N1 Sr2 2.597712 1_545
+N1 Sr0 2.624285 1_545
+N1 Sr0 2.624285 1_455
+N1 Sr1 2.640185 1_555
+Cl0 Sr0 3.087404 1_545
+Cl0 Sr0 3.087404 1_455
+Cl0 Sr1 3.117513 1_655
+Cl0 Sr1 3.117513 1_565
+Cl0 Sr2 3.150227 1_555
+Cl1 Sr0 3.056682 1_556
+Cl1 Sr1 3.133882 1_665
+Cl1 Sr2 3.166120 1_566
+Cl1 Sr2 3.166120 1_656

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_LaAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97729069
+_cell_length_b   4.07495410
+_cell_length_c   17.78833694
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAsS
+_chemical_formula_sum   'La4 As4 S4'
+_cell_volume   288.30050423
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.76743946  0.14650432  1
+  La  La1  1  0.25000000  0.73256054  0.64650432  1
+  La  La2  1  0.75000000  0.23256054  0.85349568  1
+  La  La3  1  0.75000000  0.26743946  0.35349568  1
+  As  As0  1  0.75000000  0.80334973  0.49748804  1
+  As  As1  1  0.75000000  0.69665027  0.99748804  1
+  As  As2  1  0.25000000  0.19665027  0.50251196  1
+  As  As3  1  0.25000000  0.30334973  0.00251196  1
+  S  S0  1  0.25000000  0.76437682  0.31434311  1
+  S  S1  1  0.25000000  0.73562318  0.81434311  1
+  S  S2  1  0.75000000  0.23562318  0.68565689  1
+  S  S3  1  0.75000000  0.26437682  0.18565689  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 S3 2.922393 1_465
+La0 S3 2.922393 1_565
+La0 S3 2.939743 1_455
+La0 S3 2.939743 1_555
+La0 S0 2.985599 1_555
+La1 S2 2.922393 1_455
+La1 S2 2.922393 1_555
+La1 S2 2.939743 1_465
+La1 S2 2.939743 1_565
+La1 S1 2.985599 1_555
+La2 S1 2.922393 1_645
+La2 S1 2.922393 1_545
+La2 S1 2.939743 1_655
+La2 S1 2.939743 1_555
+La2 S2 2.985599 1_555
+La3 S0 2.922393 1_555
+La3 S0 2.922393 1_655
+La3 S0 2.939743 1_645
+La3 S0 2.939743 1_545
+La3 S3 2.985599 1_555
+As0 As2 2.555638 1_565
+As0 As2 2.555638 1_665
+As0 La3 3.183884 1_565
+As0 La1 3.326320 1_555
+As0 La1 3.326320 1_655
+As0 La3 3.365964 1_555
+As1 As3 2.555638 1_556
+As1 As3 2.555638 1_656
+As1 La2 3.183884 1_555
+As1 La0 3.326320 1_556
+As1 La0 3.326320 1_656
+As1 La2 3.365964 1_565
+As2 La1 3.183884 1_545
+As2 La3 3.326320 1_455
+As2 La3 3.326320 1_555
+As2 La1 3.365964 1_555
+As3 La0 3.183884 1_555
+As3 La2 3.326320 1_554
+As3 La2 3.326320 1_454
+As3 La0 3.365964 1_545

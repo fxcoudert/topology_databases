@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_CrFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04700635
+_cell_length_b   5.04612804
+_cell_length_c   5.40981962
+_cell_angle_alpha   62.18937193
+_cell_angle_beta   117.81455598
+_cell_angle_gamma   120.00422549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFeO3
+_chemical_formula_sum   'Cr2 Fe2 O6'
+_cell_volume   100.51694795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.65480789  0.34518953  0.96434396  1
+  Cr  Cr1  1  0.34519248  0.65480997  0.03565728  1
+  Fe  Fe0  1  0.85883921  0.14110360  0.57653756  1
+  Fe  Fe1  1  0.14115982  0.85889701  0.42346018  1
+  O  O0  1  0.44514919  0.25311041  0.24650776  1
+  O  O1  1  0.05454062  0.55492829  0.24652772  1
+  O  O2  1  0.74688657  0.94542947  0.24661984  1
+  O  O3  1  0.55485124  0.74688889  0.75349310  1
+  O  O4  1  0.94545766  0.44507298  0.75347249  1
+  O  O5  1  0.25311431  0.05457084  0.75338111  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 O5 1.998058 1_555
+Cr0 O3 1.998171 1_555
+Cr0 O4 1.998235 1_555
+Cr0 O2 2.004514 1_546
+Cr0 O1 2.004656 1_656
+Cr0 O0 2.004860 1_556
+Cr1 O2 1.998061 1_555
+Cr1 O0 1.998172 1_555
+Cr1 O1 1.998243 1_555
+Cr1 O5 2.004516 1_564
+Cr1 O4 2.004660 1_454
+Cr1 O3 2.004862 1_554
+Fe0 O5 1.941205 1_655
+Fe0 O3 1.941334 1_545
+Fe0 O4 1.941367 1_555
+Fe0 O2 2.150585 1_545
+Fe0 O0 2.150871 1_555
+Fe0 O1 2.151183 1_655
+Fe1 O2 1.941198 1_455
+Fe1 O0 1.941329 1_565
+Fe1 O1 1.941352 1_555
+Fe1 O5 2.150597 1_565
+Fe1 O3 2.150882 1_555
+Fe1 O4 2.151191 1_455

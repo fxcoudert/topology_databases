@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_LiZn(SbO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55285413
+_cell_length_b   8.65188528
+_cell_length_c   10.53483647
+_cell_angle_alpha   51.71722890
+_cell_angle_beta   59.69903532
+_cell_angle_gamma   65.81575143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZn(SbO2)4
+_chemical_formula_sum   'Li1 Zn1 Sb4 O8'
+_cell_volume   217.20405298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99343400  0.33996600  0.23137200  1
+  Zn  Zn0  1  0.32931900  0.03855300  0.17401200  1
+  Sb  Sb0  1  0.30140800  0.26823000  0.54882500  1
+  Sb  Sb1  1  0.22690300  0.73762100  0.11337800  1
+  Sb  Sb2  1  0.95181600  0.38153600  0.85982700  1
+  Sb  Sb3  1  0.35370800  0.85579100  0.54510100  1
+  O  O0  1  0.84866300  0.68078300  0.73325300  1
+  O  O1  1  0.74082900  0.35688400  0.71338800  1
+  O  O2  1  0.54282100  0.74125000  0.23357000  1
+  O  O3  1  0.25249400  0.42472700  0.30919300  1
+  O  O4  1  0.07472400  0.02480700  0.65094700  1
+  O  O5  1  0.99882100  0.04016800  0.06246300  1
+  O  O6  1  0.99283000  0.05440200  0.38437900  1
+  O  O7  1  0.29122700  0.36258700  0.00533500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O6 1.941302 1_555
+Li0 O7 1.969264 1_655
+Li0 O3 2.028911 1_655
+Li0 O3 2.263884 1_555
+O0 Sb2 2.013330 1_555
+O0 Sb3 2.087950 1_655
+O0 Sb3 2.632629 1_555
+O1 Sb0 2.114794 1_655
+O1 Sb2 2.166332 1_555
+O1 Sb2 2.416110 1_455
+O2 Sb1 2.091963 1_555
+O2 Sb1 2.095867 1_655
+O2 Zn0 2.113590 1_565
+O3 Sb0 2.061810 1_555
+O3 Sb1 2.158752 1_555
+O4 Sb0 1.987335 1_555
+O4 Sb3 2.020332 1_545
+O5 Zn0 2.029425 1_655
+O5 Zn0 2.055565 1_555
+O5 Sb1 2.181084 1_645
+O5 Sb2 2.334806 1_554
+O6 Zn0 1.981969 1_655
+O6 Sb3 2.060064 1_645
+O6 Sb3 2.586111 1_545
+O7 Sb2 2.063605 1_554
+O7 Zn0 2.189651 1_555
+O7 Sb2 2.285327 1_454

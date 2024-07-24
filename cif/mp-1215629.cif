@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Zn3PBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00656214
+_cell_length_b   6.59711089
+_cell_length_c   6.93344290
+_cell_angle_alpha   89.36936200
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3PBr3
+_chemical_formula_sum   'Zn3 P1 Br3'
+_cell_volume   183.25182245
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.47408863  0.70061264  1
+  Zn  Zn1  1  0.50000000  0.50049095  0.12529157  1
+  Zn  Zn2  1  0.50000000  0.02618432  0.84895113  1
+  P  P0  1  0.50000000  0.37090249  0.82260283  1
+  Br  Br0  1  0.00000000  0.86933168  0.67139635  1
+  Br  Br1  1  0.50000000  0.86717339  0.16775177  1
+  Br  Br2  1  0.00000000  0.38782754  0.33004572  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 Zn1 2.274819 1_556
+P0 Zn0 2.275797 1_555
+P0 Zn0 2.275797 1_655
+P0 Zn2 2.279465 1_555
+Br0 Zn2 2.574385 1_565
+Br0 Zn2 2.574385 1_465
+Br0 Zn0 2.613095 1_555
+Br1 Zn2 2.436225 1_564
+Br1 Zn1 2.440107 1_555
+Br2 Zn1 2.560809 1_555
+Br2 Zn1 2.560809 1_455
+Br2 Zn0 2.637680 1_555

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_AgNO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20176848
+_cell_length_b   6.20168496
+_cell_length_c   6.20168693
+_cell_angle_alpha   49.08953044
+_cell_angle_beta   49.08691654
+_cell_angle_gamma   49.08856255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgNO3
+_chemical_formula_sum   'Ag2 N2 O6'
+_cell_volume   125.10450403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99658301  0.99654992  0.99655336  1
+  Ag  Ag1  1  0.49653529  0.49655383  0.49658726  1
+  N  N0  1  0.22297904  0.22306326  0.22306707  1
+  N  N1  1  0.72303754  0.72305146  0.72297607  1
+  O  O0  1  0.66413008  0.99176169  0.51141723  1
+  O  O1  1  0.49169870  0.16408355  0.01155259  1
+  O  O2  1  0.51150091  0.66410847  0.99168150  1
+  O  O3  1  0.99173699  0.51140594  0.66412393  1
+  O  O4  1  0.16411448  0.01146882  0.49174686  1
+  O  O5  1  0.01148297  0.49175107  0.16409512  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O3 2.404161 1_565
+Ag0 O0 2.404210 1_556
+Ag0 O2 2.404401 1_655
+Ag0 O4 2.524891 1_665
+Ag0 O5 2.524929 1_656
+Ag0 O1 2.525159 1_566
+Ag1 O4 2.404415 1_565
+Ag1 O5 2.404608 1_655
+Ag1 O1 2.404691 1_556
+Ag1 O0 2.524966 1_545
+Ag1 O3 2.525083 1_455
+Ag1 O2 2.525318 1_554
+N0 O5 1.264216 1_555
+N0 O1 1.264298 1_555
+N0 O4 1.264337 1_555
+N1 O2 1.264292 1_555
+N1 O0 1.264388 1_555
+N1 O3 1.264481 1_555

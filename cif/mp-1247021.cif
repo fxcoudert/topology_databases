@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Mn(PbN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33738228
+_cell_length_b   6.44306880
+_cell_length_c   9.33427265
+_cell_angle_alpha   82.62031217
+_cell_angle_beta   83.99192831
+_cell_angle_gamma   69.87798287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(PbN)4
+_chemical_formula_sum   'Mn2 Pb8 N8'
+_cell_volume   354.16112296
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.73085100  0.91389200  0.78961300  1
+  Mn  Mn1  1  0.26914900  0.08610800  0.21038700  1
+  Pb  Pb0  1  0.80743100  0.62832000  0.17738500  1
+  Pb  Pb1  1  0.19256900  0.37168000  0.82261500  1
+  Pb  Pb2  1  0.72516600  0.23137900  0.01353200  1
+  Pb  Pb3  1  0.27483400  0.76862100  0.98646800  1
+  Pb  Pb4  1  0.71918000  0.47159000  0.62524100  1
+  Pb  Pb5  1  0.28082000  0.52841000  0.37475900  1
+  Pb  Pb6  1  0.24100700  0.99147800  0.59172500  1
+  Pb  Pb7  1  0.75899300  0.00852200  0.40827500  1
+  N  N0  1  0.93709400  0.85030600  0.65468500  1
+  N  N1  1  0.06290600  0.14969400  0.34531500  1
+  N  N2  1  0.84343100  0.86164800  0.96281300  1
+  N  N3  1  0.15656900  0.13835200  0.03718700  1
+  N  N4  1  0.54953600  0.76665600  0.78023900  1
+  N  N5  1  0.45046400  0.23334400  0.21976000  1
+  N  N6  1  0.41724700  0.79713500  0.22777300  1
+  N  N7  1  0.58275300  0.20286500  0.77222700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 N0 1.697629 1_555
+Mn0 N4 1.737906 1_555
+Mn0 N7 1.767972 1_565
+Mn0 N2 1.781141 1_555
+Mn1 N1 1.697629 1_555
+Mn1 N5 1.737904 1_555
+Mn1 N6 1.767972 1_545
+Mn1 N3 1.781141 1_555
+N0 Pb6 2.390257 1_655
+N0 Pb7 2.598629 1_565
+N1 Pb7 2.390257 1_455
+N1 Pb6 2.598629 1_545
+N2 Pb2 2.334039 1_566
+N2 Pb0 2.385465 1_556
+N2 Pb3 2.616767 1_655
+N3 Pb3 2.334039 1_544
+N3 Pb1 2.385465 1_554
+N3 Pb2 2.616767 1_455
+N4 Pb4 2.416201 1_555
+N4 Pb3 2.454800 1_555
+N4 Pb6 2.671030 1_555
+N5 Pb5 2.416207 1_555
+N5 Pb2 2.454793 1_555
+N5 Pb7 2.671036 1_555
+N6 Pb0 2.357152 1_555
+N6 Pb5 2.408137 1_555
+N6 Pb3 2.562729 1_554
+N7 Pb1 2.357152 1_555
+N7 Pb4 2.408137 1_555
+N7 Pb2 2.562729 1_556

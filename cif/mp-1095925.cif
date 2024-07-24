@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaCaMg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.24593954
+_cell_length_b   14.03181735
+_cell_length_c   14.03181760
+_cell_angle_alpha   59.82792618
+_cell_angle_beta   59.49391628
+_cell_angle_gamma   59.49391877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaMg2
+_chemical_formula_sum   'Ba1 Ca1 Mg2'
+_cell_volume   1965.53132336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  -0.00000000  0.00000000  1
+  Ca  Ca0  1  -0.00000000  -0.00000000  0.00000000  1
+  Mg  Mg0  1  0.75463942  0.00000000  1.00000000  1
+  Mg  Mg1  1  0.24536058  1.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Mg0 3.627578 1_554
+Ba0 Mg1 3.627578 1_545
+Ca0 Mg1 3.495392 1_545
+Ca0 Mg0 3.495392 1_454

@@ -1,0 +1,121 @@
+# generated using pymatgen
+data_Ca2(ZnAu3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63830345
+_cell_length_b   5.63830345
+_cell_length_c   9.88622561
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   123.90291644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2(ZnAu3)3
+_chemical_formula_sum   'Ca2 Zn3 Au9'
+_cell_volume   260.85374347
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.50000000  0.75593488  1
+  Ca  Ca1  1  0.50000000  -0.00000000  0.24406512  1
+  Zn  Zn0  1  0.00000000  -0.00000000  0.50000000  1
+  Zn  Zn1  1  0.00000000  -0.00000000  0.00000000  1
+  Zn  Zn2  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au0  1  0.00000000  0.50000000  0.05838663  1
+  Au  Au1  1  0.50000000  -0.00000000  0.54417856  1
+  Au  Au2  1  0.50000000  -0.00000000  0.94161337  1
+  Au  Au3  1  0.00000000  0.50000000  0.45582144  1
+  Au  Au4  1  0.70251193  0.80241716  0.74115404  1
+  Au  Au5  1  0.19758284  0.29748807  0.25884596  1
+  Au  Au6  1  0.80241716  0.70251193  0.25884596  1
+  Au  Au7  1  0.29748807  0.19758284  0.74115404  1
+  Au  Au8  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Zn0 Zn2 2.651240 1_445
+Zn0 Zn2 2.651240 1_555
+Au0 Au5 2.809154 1_555
+Au0 Au6 2.809154 1_455
+Au0 Zn1 2.877638 1_565
+Au0 Au8 2.877638 1_455
+Au0 Zn1 2.877638 1_555
+Au0 Au8 2.877638 1_555
+Au0 Au2 2.891681 1_564
+Au0 Au2 2.891681 1_454
+Au0 Ca0 2.990106 1_554
+Au0 Ca1 3.224704 1_455
+Au0 Ca1 3.224704 1_565
+Au1 Au7 2.784963 1_555
+Au1 Au4 2.784963 1_545
+Au1 Au3 2.791435 1_655
+Au1 Au3 2.791435 1_545
+Au1 Zn0 2.852784 1_655
+Au1 Zn2 2.852784 1_555
+Au1 Zn2 2.852784 1_545
+Au1 Zn0 2.852784 1_555
+Au1 Ca1 2.966989 1_555
+Au1 Ca0 3.378120 1_545
+Au1 Ca0 3.378120 1_655
+Au2 Au7 2.809154 1_555
+Au2 Au4 2.809154 1_545
+Au2 Au8 2.877638 1_546
+Au2 Zn1 2.877638 1_556
+Au2 Zn1 2.877638 1_656
+Au2 Au8 2.877638 1_556
+Au2 Ca1 2.990106 1_556
+Au2 Ca0 3.224704 1_655
+Au2 Ca0 3.224704 1_545
+Au3 Au5 2.784963 1_555
+Au3 Au6 2.784963 1_455
+Au3 Zn0 2.852784 1_565
+Au3 Zn2 2.852784 1_455
+Au3 Zn2 2.852784 1_555
+Au3 Zn0 2.852784 1_555
+Au3 Ca0 2.966989 1_555
+Au3 Ca1 3.378120 1_455
+Au3 Ca1 3.378120 1_565
+Au4 Zn0 2.766566 1_665
+Au4 Zn2 2.779061 1_555
+Au4 Au7 2.807089 1_665
+Au4 Au7 2.856033 1_555
+Au4 Zn1 2.918641 1_666
+Au4 Au8 2.930488 1_556
+Au4 Ca0 2.988781 1_655
+Au4 Ca0 3.308323 1_665
+Au4 Ca0 3.329203 1_555
+Au5 Zn0 2.766566 1_555
+Au5 Zn2 2.779061 1_555
+Au5 Au6 2.807089 1_445
+Au5 Au6 2.856033 1_555
+Au5 Zn1 2.918641 1_555
+Au5 Au8 2.930488 1_555
+Au5 Ca1 2.988781 1_555
+Au5 Ca1 3.308323 1_455
+Au5 Ca1 3.329203 1_565
+Au6 Zn0 2.766566 1_665
+Au6 Zn2 2.779061 1_555
+Au6 Zn1 2.918641 1_665
+Au6 Au8 2.930488 1_555
+Au6 Ca1 2.988781 1_565
+Au6 Ca1 3.308323 1_665
+Au6 Ca1 3.329203 1_555
+Au7 Zn0 2.766566 1_555
+Au7 Zn2 2.779061 1_555
+Au7 Zn1 2.918641 1_556
+Au7 Au8 2.930488 1_556
+Au7 Ca0 2.988781 1_555
+Au7 Ca0 3.308323 1_545
+Au7 Ca0 3.329203 1_655
+Au8 Zn1 2.651240 1_665
+Au8 Zn1 2.651240 1_555

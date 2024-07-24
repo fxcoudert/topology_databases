@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_BaCaCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30593928
+_cell_length_b   5.30593928
+_cell_length_c   13.13828200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaCO3
+_chemical_formula_sum   'Ba2 Ca2 C2 O6'
+_cell_volume   320.32718835
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666700  0.33333300  0.49987000  1
+  Ba  Ba1  1  0.33333300  0.66666700  0.99987000  1
+  Ca  Ca0  1  0.66666700  0.33333300  0.80615200  1
+  Ca  Ca1  1  0.33333300  0.66666700  0.30615200  1
+  C  C0  1  0.00000000  0.00000000  0.92282000  1
+  C  C1  1  0.00000000  0.00000000  0.42282000  1
+  O  O0  1  0.85889700  0.71779500  0.92439000  1
+  O  O1  1  0.28220500  0.14110300  0.92439000  1
+  O  O2  1  0.85889700  0.14110300  0.92439000  1
+  O  O3  1  0.14110300  0.28220500  0.42439000  1
+  O  O4  1  0.71779500  0.85889700  0.42439000  1
+  O  O5  1  0.14110300  0.85889700  0.42439000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O3 2.841983 1_655
+Ba0 O4 2.841983 1_545
+Ba0 O3 2.841983 1_555
+Ba0 O4 2.841983 1_555
+Ba0 O5 2.841983 1_655
+Ba0 O5 2.841983 1_545
+Ba1 O0 2.841983 1_455
+Ba1 O1 2.841983 1_565
+Ba1 O1 2.841983 1_555
+Ba1 O0 2.841983 1_555
+Ba1 O2 2.841983 1_455
+Ba1 O2 2.841983 1_565
+Ca0 O2 2.352477 1_555
+Ca0 O0 2.352484 1_555
+Ca0 O1 2.352484 1_555
+Ca1 O5 2.352477 1_555
+Ca1 O4 2.352484 1_555
+Ca1 O3 2.352484 1_555
+C0 O1 1.296918 1_555
+C0 O0 1.296918 1_445
+C0 O2 1.296923 1_455
+C1 O3 1.296918 1_555
+C1 O4 1.296918 1_445
+C1 O5 1.296923 1_545

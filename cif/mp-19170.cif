@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_PrNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32505307
+_cell_length_b   5.32506337
+_cell_length_c   5.32512414
+_cell_angle_alpha   61.61702793
+_cell_angle_beta   61.61688650
+_cell_angle_gamma   61.62421106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiO3
+_chemical_formula_sum   'Pr2 Ni2 O6'
+_cell_volume   110.65153943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75003459  0.74995968  0.74999559  1
+  Pr  Pr1  1  0.24996541  0.25004032  0.25000441  1
+  Ni  Ni0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.00000000  -0.00000000  -0.00000000  1
+  O  O0  1  0.19002079  0.74966053  0.31003491  1
+  O  O1  1  0.75026448  0.31003701  0.19001359  1
+  O  O2  1  0.31026648  0.18977830  0.74996104  1
+  O  O3  1  0.80998021  0.25033947  0.68996509  1
+  O  O4  1  0.68973352  0.81022170  0.25003896  1
+  O  O5  1  0.24973452  0.68996299  0.80998641  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 O0 1.933517 1_555
+Ni0 O3 1.933521 1_555
+Ni0 O2 1.933601 1_555
+Ni0 O4 1.933601 1_555
+Ni0 O1 1.933606 1_555
+Ni0 O5 1.933606 1_555
+Ni1 O5 1.933923 1_544
+Ni1 O1 1.933923 1_455
+Ni1 O4 1.933941 1_445
+Ni1 O2 1.933941 1_554
+Ni1 O3 1.934005 1_454
+Ni1 O0 1.934009 1_545
+O0 Pr0 2.399922 1_455
+O0 Pr1 2.680808 1_555
+O0 Pr1 2.684318 1_565
+O1 Pr0 2.399912 1_554
+O1 Pr1 2.681004 1_655
+O1 Pr1 2.684120 1_555
+O2 Pr0 2.399182 1_545
+O2 Pr1 2.682663 1_555
+O2 Pr1 2.682924 1_556
+O3 Pr1 2.399919 1_655
+O3 Pr0 2.680806 1_555
+O3 Pr0 2.684320 1_545
+O4 Pr1 2.399182 1_565
+O4 Pr0 2.682663 1_555
+O4 Pr0 2.682924 1_554
+O5 Pr1 2.399912 1_556
+O5 Pr0 2.680999 1_455
+O5 Pr0 2.684125 1_555

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Al3(MoSe2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.73057193
+_cell_length_b   27.34187623
+_cell_length_c   24.54810310
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.14440188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3(MoSe2)4
+_chemical_formula_sum   'Al6 Mo8 Se16'
+_cell_volume   7969.51207355
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33332352  0.83332352  0.98044874  1
+  Al  Al1  1  0.33332352  0.33332352  0.76955126  1
+  Al  Al2  1  0.66689963  0.66689963  0.21067960  1
+  Al  Al3  1  0.66641504  0.66641504  0.53951696  1
+  Al  Al4  1  0.66641504  0.16641504  0.21048304  1
+  Al  Al5  1  0.66689963  0.16689963  0.53932040  1
+  Mo  Mo0  1  0.33337954  0.83337954  0.37236612  1
+  Mo  Mo1  1  0.33334278  0.83334278  0.87158041  1
+  Mo  Mo2  1  0.33337954  0.33337954  0.37763388  1
+  Mo  Mo3  1  0.33334278  0.33334278  0.87841959  1
+  Mo  Mo4  1  0.66728773  0.66728773  0.10429349  1
+  Mo  Mo5  1  0.66611666  0.66611666  0.64589789  1
+  Mo  Mo6  1  0.66611666  0.16611666  0.10410211  1
+  Mo  Mo7  1  0.66728773  0.16728773  0.64570651  1
+  Se  Se0  1  0.33332830  0.83332830  0.07431815  1
+  Se  Se1  1  0.33334380  0.83334380  0.16985851  1
+  Se  Se2  1  0.33334747  0.83334747  0.67063345  1
+  Se  Se3  1  0.33334368  0.83334368  0.58086775  1
+  Se  Se4  1  0.66718596  0.66718596  0.45102686  1
+  Se  Se5  1  0.66668168  0.66668168  0.92018575  1
+  Se  Se6  1  0.33334747  0.33334747  0.07936655  1
+  Se  Se7  1  0.33334380  0.33334380  0.58014149  1
+  Se  Se8  1  0.66603545  0.66603545  0.29918491  1
+  Se  Se9  1  0.66663575  0.66663575  0.82970172  1
+  Se  Se10  1  0.33332830  0.33332830  0.67568185  1
+  Se  Se11  1  0.33334368  0.33334368  0.16913225  1
+  Se  Se12  1  0.66663575  0.16663575  0.92029828  1
+  Se  Se13  1  0.66718596  0.16718596  0.29897314  1
+  Se  Se14  1  0.66603545  0.16603545  0.45081509  1
+  Se  Se15  1  0.66668168  0.16668168  0.82981425  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Se0 2.304316 1_556
+Al0 Mo1 2.672511 1_555
+Al1 Se10 2.304316 1_555
+Al1 Mo3 2.672511 1_555
+Al2 Se8 2.172734 1_555
+Al2 Mo4 2.611593 1_555
+Al3 Se4 2.172341 1_555
+Al3 Mo5 2.611460 1_555
+Al4 Se13 2.172341 1_555
+Al4 Mo6 2.611460 1_555
+Al5 Se14 2.172734 1_555
+Al5 Mo7 2.611593 1_555
+Se0 Se1 2.345335 1_555
+Se2 Se3 2.203578 1_555
+Se5 Se9 2.221212 1_555
+Se10 Se7 2.345335 1_555
+Se11 Se6 2.203578 1_555
+Se12 Se15 2.221212 1_555

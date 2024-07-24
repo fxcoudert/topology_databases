@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_SrSnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94529768
+_cell_length_b   4.94222037
+_cell_length_c   8.31539394
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02061298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSnHg
+_chemical_formula_sum   'Sr2 Sn2 Hg2'
+_cell_volume   175.96964629
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00017610  0.00035220  0.75190258  1
+  Sr  Sr1  1  -0.00017610  -0.00035220  0.25190258  1
+  Sn  Sn0  1  0.66670124  0.33340249  0.96957446  1
+  Sn  Sn1  1  0.33329876  0.66659751  0.46957446  1
+  Hg  Hg0  1  0.66671624  0.33343249  0.54852296  1
+  Hg  Hg1  1  0.33328376  0.66656651  0.04852296  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Sr0 3.379549 1_555
+Sn0 Sr0 3.379550 1_655
+Sn0 Sr0 3.379582 1_665
+Sn0 Sr1 3.693201 1_666
+Sn0 Sr1 3.696661 1_556
+Sn0 Sr1 3.696662 1_656
+Sn1 Sr1 3.379549 1_665
+Sn1 Sr1 3.379550 1_565
+Sn1 Sr1 3.379582 1_555
+Sn1 Sr0 3.693201 1_555
+Sn1 Sr0 3.696661 1_665
+Sn1 Sr0 3.696662 1_565
+Hg0 Sn1 2.928063 1_545
+Hg0 Sn1 2.928742 1_655
+Hg0 Sn1 2.928742 1_555
+Hg0 Sr0 3.317339 1_665
+Hg0 Sr0 3.317471 1_555
+Hg0 Sr0 3.317472 1_655
+Hg0 Sr1 3.769767 1_665
+Hg0 Sr1 3.773303 1_555
+Hg0 Sr1 3.773304 1_655
+Hg1 Sn0 2.928067 1_564
+Hg1 Sn0 2.928738 1_554
+Hg1 Sn0 2.928742 1_454
+Hg1 Sr1 3.317335 1_555
+Hg1 Sr1 3.317471 1_665
+Hg1 Sr1 3.317475 1_565
+Hg1 Sr0 3.769764 1_554
+Hg1 Sr0 3.773303 1_664
+Hg1 Sr0 3.773307 1_564

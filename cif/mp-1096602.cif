@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr2CdGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.05848460
+_cell_length_b   13.33171291
+_cell_length_c   13.33171326
+_cell_angle_alpha   60.49929267
+_cell_angle_beta   60.67567088
+_cell_angle_gamma   60.67567038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CdGe
+_chemical_formula_sum   'Sr2 Cd1 Ge1'
+_cell_volume   1664.00750116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.77345350  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.22654650  1.00000000  1.00000000  1
+  Cd  Cd0  1  0.50000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Sr1 3.570888 1_544
+Cd0 Sr0 3.570888 1_555
+Ge0 Sr0 2.958354 1_455
+Ge0 Sr1 2.958354 1_544

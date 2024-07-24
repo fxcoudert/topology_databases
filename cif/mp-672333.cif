@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_PbCSNCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32480000
+_cell_length_b   9.82383700
+_cell_length_c   10.26429100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbCSNCl
+_chemical_formula_sum   'Pb4 C4 S4 N4 Cl4'
+_cell_volume   436.09000443
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.25000000  0.91992600  0.80967300  1
+  Pb  Pb1  1  0.75000000  0.41992600  0.69032700  1
+  Pb  Pb2  1  0.25000000  0.58007400  0.30967300  1
+  Pb  Pb3  1  0.75000000  0.08007400  0.19032700  1
+  C  C0  1  0.25000000  0.14092900  0.48342800  1
+  C  C1  1  0.75000000  0.85907100  0.51657200  1
+  C  C2  1  0.25000000  0.35907100  0.98342800  1
+  C  C3  1  0.75000000  0.64092900  0.01657200  1
+  S  S0  1  0.25000000  0.30942600  0.13625700  1
+  S  S1  1  0.75000000  0.69057400  0.86374300  1
+  S  S2  1  0.25000000  0.19057400  0.63625700  1
+  S  S3  1  0.75000000  0.80942600  0.36374300  1
+  N  N0  1  0.75000000  0.89626000  0.62669100  1
+  N  N1  1  0.25000000  0.10374000  0.37330900  1
+  N  N2  1  0.25000000  0.39626000  0.87330900  1
+  N  N3  1  0.75000000  0.60374000  0.12669100  1
+  Cl  Cl0  1  0.75000000  0.10401500  0.90274200  1
+  Cl  Cl1  1  0.75000000  0.39598500  0.40274200  1
+  Cl  Cl2  1  0.25000000  0.89598500  0.09725800  1
+  Cl  Cl3  1  0.25000000  0.60401500  0.59725800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pb0 S1 3.171833 1_455
+Pb0 S1 3.171833 1_555
+Pb0 S2 3.199625 1_565
+Pb1 S2 3.171833 1_555
+Pb1 S2 3.171833 1_655
+Pb1 S1 3.199625 1_555
+Pb2 S3 3.171833 1_555
+Pb2 S3 3.171833 1_455
+Pb2 S0 3.199625 1_555
+Pb3 S0 3.171833 1_555
+Pb3 S0 3.171833 1_655
+Pb3 S3 3.199625 1_545
+C0 N1 1.187870 1_555
+C0 S2 1.642747 1_555
+C1 N0 1.187870 1_555
+C1 S3 1.642747 1_555
+C2 N2 1.187870 1_555
+C2 S0 1.642747 1_556
+C3 N3 1.187870 1_555
+C3 S1 1.642747 1_554
+N0 Pb0 2.873602 1_655
+N0 Pb0 2.873602 1_555
+N1 Pb3 2.873602 1_555
+N1 Pb3 2.873602 1_455
+N2 Pb1 2.873602 1_455
+N2 Pb1 2.873602 1_555
+N3 Pb2 2.873602 1_555
+N3 Pb2 2.873602 1_655
+Cl0 Pb3 2.961211 1_556
+Cl0 Pb0 2.976420 1_645
+Cl0 Pb0 2.976420 1_545
+Cl1 Pb1 2.961211 1_555
+Cl1 Pb2 2.976420 1_555
+Cl1 Pb2 2.976420 1_655
+Cl2 Pb0 2.961211 1_554
+Cl2 Pb3 2.976420 1_565
+Cl2 Pb3 2.976420 1_465
+Cl3 Pb2 2.961211 1_555
+Cl3 Pb1 2.976420 1_555
+Cl3 Pb1 2.976420 1_455

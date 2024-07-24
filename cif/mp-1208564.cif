@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_TaVP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38372513
+_cell_length_b   6.38902104
+_cell_length_c   7.67343775
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaVP
+_chemical_formula_sum   'Ta4 V4 P4'
+_cell_volume   165.88968000
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.53690041  0.16652209  1
+  Ta  Ta1  1  0.75000000  0.46309959  0.83347791  1
+  Ta  Ta2  1  0.75000000  0.96309959  0.66652209  1
+  Ta  Ta3  1  0.25000000  0.03690041  0.33347791  1
+  V  V0  1  0.25000000  0.63788955  0.55774659  1
+  V  V1  1  0.75000000  0.36211045  0.44225341  1
+  V  V2  1  0.75000000  0.86211045  0.05774659  1
+  V  V3  1  0.25000000  0.13788955  0.94225341  1
+  P  P0  1  0.25000000  0.76196934  0.85931806  1
+  P  P1  1  0.75000000  0.23803066  0.14068194  1
+  P  P2  1  0.75000000  0.73803066  0.35931806  1
+  P  P3  1  0.25000000  0.26196934  0.64068194  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 V2 2.364349 1_556
+P0 V2 2.364349 1_456
+P0 V0 2.446112 1_555
+P0 V3 2.484646 1_565
+P0 Ta1 2.558876 1_455
+P0 Ta1 2.558876 1_555
+P0 Ta2 2.588887 1_455
+P0 Ta2 2.588887 1_555
+P0 Ta0 2.761281 1_556
+P1 V3 2.364349 1_554
+P1 V3 2.364349 1_654
+P1 V1 2.446112 1_555
+P1 V2 2.484646 1_545
+P1 Ta0 2.558876 1_555
+P1 Ta0 2.558876 1_655
+P1 Ta3 2.588887 1_655
+P1 Ta3 2.588887 1_555
+P1 Ta1 2.761281 1_554
+P2 V0 2.364349 1_555
+P2 V0 2.364349 1_655
+P2 V2 2.446112 1_555
+P2 V1 2.484646 1_555
+P2 Ta3 2.558876 1_565
+P2 Ta3 2.558876 1_665
+P2 Ta0 2.588887 1_655
+P2 Ta0 2.588887 1_555
+P2 Ta2 2.761281 1_555
+P3 V1 2.364349 1_555
+P3 V1 2.364349 1_455
+P3 V3 2.446112 1_555
+P3 V0 2.484646 1_555
+P3 Ta2 2.558876 1_445
+P3 Ta2 2.558876 1_545
+P3 Ta1 2.588887 1_455
+P3 Ta1 2.588887 1_555
+P3 Ta3 2.761281 1_555

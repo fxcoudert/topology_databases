@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_NbOF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66848100
+_cell_length_b   5.66848100
+_cell_length_c   9.78158200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbOF3
+_chemical_formula_sum   'Nb4 O4 F12'
+_cell_volume   314.29863188
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.60675600  0.91483300  0.49967000  1
+  Nb  Nb1  1  0.91483300  0.39324400  0.24967000  1
+  Nb  Nb2  1  0.08516700  0.60675600  0.74967000  1
+  Nb  Nb3  1  0.39324400  0.08516700  0.99967000  1
+  O  O0  1  0.57399300  0.17249500  0.59016900  1
+  O  O1  1  0.82750500  0.57399300  0.84016900  1
+  O  O2  1  0.17249500  0.42600700  0.34016900  1
+  O  O3  1  0.42600700  0.82750500  0.09016900  1
+  F  F0  1  0.56279800  0.29783100  0.12739800  1
+  F  F1  1  0.65506500  0.07190100  0.88050000  1
+  F  F2  1  0.70216900  0.56279800  0.37739800  1
+  F  F3  1  0.81027700  0.06878000  0.34354800  1
+  F  F4  1  0.92809900  0.65506500  0.13050000  1
+  F  F5  1  0.93122000  0.81027700  0.59354800  1
+  F  F6  1  0.06878000  0.18972300  0.09354800  1
+  F  F7  1  0.07190100  0.34493500  0.63050000  1
+  F  F8  1  0.18972300  0.93122000  0.84354800  1
+  F  F9  1  0.29783100  0.43720200  0.87739800  1
+  F  F10  1  0.34493500  0.92809900  0.38050000  1
+  F  F11  1  0.43720200  0.70216900  0.62739800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 O0 1.717942 1_565
+Nb1 O2 1.717942 1_655
+Nb2 O1 1.717942 1_455
+Nb3 O3 1.717942 1_546
+F0 Nb3 1.984409 1_554
+F0 Nb1 2.388514 1_555
+F1 Nb3 1.888671 1_555
+F2 Nb1 1.984409 1_555
+F2 Nb0 2.388514 1_555
+F3 Nb0 2.103456 1_545
+F3 Nb1 2.139443 1_555
+F4 Nb1 1.888671 1_555
+F5 Nb2 2.103456 1_655
+F5 Nb0 2.139443 1_555
+F6 Nb1 2.103456 1_455
+F6 Nb3 2.139443 1_554
+F7 Nb2 1.888671 1_555
+F8 Nb3 2.103456 1_565
+F8 Nb2 2.139443 1_555
+F9 Nb2 1.984409 1_555
+F9 Nb3 2.388514 1_555
+F10 Nb0 1.888671 1_555
+F11 Nb0 1.984409 1_555
+F11 Nb2 2.388514 1_555

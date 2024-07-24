@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_SmNiGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13327889
+_cell_length_b   4.10147712
+_cell_length_c   10.99297637
+_cell_angle_alpha   100.75150090
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmNiGe3
+_chemical_formula_sum   'Sm2 Ni2 Ge6'
+_cell_volume   183.08753191
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50000000  0.83149407  0.66298715  1
+  Sm  Sm1  1  0.50000000  0.16850593  0.33701285  1
+  Ni  Ni0  1  -0.00000000  0.60886600  0.21773299  1
+  Ni  Ni1  1  -0.00000000  0.39113400  0.78226701  1
+  Ge  Ge0  1  0.00000000  0.05695008  0.11390117  1
+  Ge  Ge1  1  -0.00000000  0.94304992  0.88609883  1
+  Ge  Ge2  1  -0.00000000  0.28412514  0.56825029  1
+  Ge  Ge3  1  0.00000000  0.71587486  0.43174971  1
+  Ge  Ge4  1  0.50000000  0.44303489  0.88606877  1
+  Ge  Ge5  1  0.50000000  0.55696511  0.11393123  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Sm1 3.183715 1_555
+Ni0 Sm1 3.183715 1_455
+Ni0 Sm1 3.183716 1_565
+Ni0 Sm1 3.183716 1_465
+Ni1 Sm0 3.183715 1_555
+Ni1 Sm0 3.183715 1_455
+Ni1 Sm0 3.183716 1_445
+Ni1 Sm0 3.183716 1_545
+Ge0 Ni0 2.337312 1_545
+Ge0 Ni0 2.337313 1_555
+Ge0 Ge1 2.460265 1_544
+Ge0 Ge5 2.911448 1_445
+Ge0 Ge5 2.911448 1_545
+Ge0 Ge5 2.911448 1_555
+Ge0 Ge5 2.911448 1_455
+Ge0 Sm1 3.174461 1_555
+Ge0 Sm1 3.174461 1_455
+Ge1 Ni1 2.337312 1_565
+Ge1 Ni1 2.337313 1_555
+Ge1 Ge4 2.911448 1_565
+Ge1 Ge4 2.911448 1_465
+Ge1 Ge4 2.911448 1_455
+Ge1 Ge4 2.911448 1_555
+Ge1 Sm0 3.174461 1_555
+Ge1 Sm0 3.174461 1_455
+Ge2 Ni1 2.311381 1_555
+Ge2 Ge3 2.525631 1_555
+Ge2 Ge3 2.525631 1_545
+Ge2 Sm0 3.085996 1_445
+Ge2 Sm0 3.085996 1_545
+Ge2 Sm0 3.085999 1_555
+Ge2 Sm0 3.085999 1_455
+Ge2 Sm1 3.241578 1_555
+Ge2 Sm1 3.241578 1_455
+Ge3 Ni0 2.311381 1_555
+Ge3 Sm1 3.085996 1_565
+Ge3 Sm1 3.085996 1_465
+Ge3 Sm1 3.085999 1_555
+Ge3 Sm1 3.085999 1_455
+Ge3 Sm0 3.241578 1_455
+Ge3 Sm0 3.241578 1_555
+Ge4 Ni1 2.351121 1_555
+Ge4 Ni1 2.351121 1_655
+Ge4 Ge5 2.460915 1_556
+Ge4 Sm0 3.163884 1_555
+Ge4 Sm0 3.163885 1_545
+Ge5 Ni0 2.351121 1_555
+Ge5 Ni0 2.351121 1_655
+Ge5 Sm1 3.163884 1_555
+Ge5 Sm1 3.163885 1_565

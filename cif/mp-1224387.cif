@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HgCN2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47099778
+_cell_length_b   5.47099778
+_cell_length_c   5.35190500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgCN2O3
+_chemical_formula_sum   'Hg1 C1 N2 O3'
+_cell_volume   138.73055268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.66666700  0.33333300  0.00795100  1
+  C  C0  1  0.66666700  0.33333300  0.39493700  1
+  N  N0  1  0.66666700  0.33333300  0.61221200  1
+  N  N1  1  0.33333300  0.66666700  0.99621000  1
+  O  O0  1  0.19909800  0.39819700  0.99622700  1
+  O  O1  1  0.19909800  0.80090200  0.99622700  1
+  O  O2  1  0.60180300  0.80090200  0.99622700  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 N0 2.117958 1_554
+C0 N0 1.162835 1_555
+C0 Hg0 2.071112 1_555
+N1 O1 1.272017 1_555
+N1 O0 1.272017 1_555
+N1 O2 1.272017 1_555

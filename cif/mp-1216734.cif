@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_TiMoAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41950000
+_cell_length_b   6.11190500
+_cell_length_c   6.44743800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMoAs2
+_chemical_formula_sum   'Ti2 Mo2 As4'
+_cell_volume   134.74925657
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.50450200  0.43522900  1
+  Ti  Ti1  1  0.00000000  0.00450200  0.56477100  1
+  Mo  Mo0  1  0.50000000  0.49215100  0.06083300  1
+  Mo  Mo1  1  0.50000000  0.99215100  0.93916700  1
+  As  As0  1  0.50000000  0.30391400  0.68039100  1
+  As  As1  1  0.50000000  0.80391400  0.31960900  1
+  As  As2  1  0.00000000  0.69943200  0.82520800  1
+  As  As3  1  0.00000000  0.19943200  0.17479200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 Ti0 2.959026 1_555
+Mo0 Ti0 2.959026 1_655
+Mo1 Ti1 2.959026 1_565
+Mo1 Ti1 2.959026 1_665
+As0 Mo1 2.532686 1_545
+As0 Ti1 2.612999 1_555
+As0 Ti1 2.612999 1_655
+As0 Ti0 2.631495 1_555
+As0 Ti0 2.631495 1_655
+As0 Mo0 2.709284 1_556
+As1 Mo0 2.532686 1_555
+As1 Ti0 2.612999 1_655
+As1 Ti0 2.612999 1_555
+As1 Ti1 2.631495 1_565
+As1 Ti1 2.631495 1_665
+As1 Mo1 2.709284 1_554
+As2 Ti1 2.509209 1_565
+As2 Mo1 2.581447 1_455
+As2 Mo1 2.581447 1_555
+As2 Mo0 2.614600 1_456
+As2 Mo0 2.614600 1_556
+As2 Ti0 2.782347 1_555
+As3 Ti0 2.509209 1_555
+As3 Mo0 2.581447 1_455
+As3 Mo0 2.581447 1_555
+As3 Mo1 2.614600 1_444
+As3 Mo1 2.614600 1_544
+As3 Ti1 2.782347 1_555

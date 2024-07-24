@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Sr(SnHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90163230
+_cell_length_b   6.90163230
+_cell_length_c   10.11597196
+_cell_angle_alpha   63.91965192
+_cell_angle_beta   63.91965192
+_cell_angle_gamma   42.03482102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(SnHg)2
+_chemical_formula_sum   'Sr2 Sn4 Hg4'
+_cell_volume   284.61568570
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.17462849  0.17462849  0.28355812  1
+  Sr  Sr1  1  0.82537151  0.82537151  0.71644188  1
+  Sn  Sn0  1  0.12521592  0.12521592  0.94225208  1
+  Sn  Sn1  1  0.87478408  0.87478408  0.05774792  1
+  Sn  Sn2  1  0.43863048  0.43863048  0.40971657  1
+  Sn  Sn3  1  0.56136952  0.56136952  0.59028343  1
+  Hg  Hg0  1  0.15552665  0.15552665  0.64244144  1
+  Hg  Hg1  1  0.84447335  0.84447335  0.35755856  1
+  Hg  Hg2  1  0.39091835  0.39091835  0.90829286  1
+  Hg  Hg3  1  0.60908165  0.60908165  0.09170714  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Sn1 2.868135 1_446
+Sn0 Sr1 3.528053 1_455
+Sn0 Sr1 3.528053 1_545
+Sn0 Sr0 3.794294 1_556
+Sn1 Sr0 3.528053 1_565
+Sn1 Sr0 3.528053 1_655
+Sn1 Sr1 3.794294 1_554
+Sn2 Sn3 2.925509 1_555
+Sn2 Sr0 3.653351 1_655
+Sn2 Sr0 3.653351 1_565
+Sn2 Sr1 3.690406 1_545
+Sn2 Sr1 3.690406 1_455
+Sn3 Sr1 3.653351 1_545
+Sn3 Sr1 3.653351 1_455
+Sn3 Sr0 3.690406 1_565
+Sn3 Sr0 3.690406 1_655
+Hg0 Sn0 2.869697 1_555
+Hg0 Sn3 2.912085 1_455
+Hg0 Sn3 2.912085 1_545
+Hg0 Sn2 3.280199 1_555
+Hg0 Sr0 3.521237 1_555
+Hg0 Sr1 3.608294 1_545
+Hg0 Sr1 3.608294 1_455
+Hg0 Sr1 3.956969 1_445
+Hg1 Sn1 2.869697 1_555
+Hg1 Sn2 2.912085 1_655
+Hg1 Sn2 2.912085 1_565
+Hg1 Sn3 3.280199 1_555
+Hg1 Sr1 3.521237 1_555
+Hg1 Sr0 3.608294 1_655
+Hg1 Sr0 3.608294 1_565
+Hg1 Sr0 3.956969 1_665
+Hg2 Sn1 2.856567 1_456
+Hg2 Sn1 2.856567 1_546
+Hg2 Sn3 2.918470 1_555
+Hg2 Sn0 3.275821 1_555
+Hg2 Sr1 3.485796 1_455
+Hg2 Sr1 3.485796 1_545
+Hg2 Sr0 3.494644 1_556
+Hg3 Sn0 2.856567 1_564
+Hg3 Sn0 2.856567 1_654
+Hg3 Sn2 2.918470 1_555
+Hg3 Sn1 3.275821 1_555
+Hg3 Sr0 3.485796 1_655
+Hg3 Sr0 3.485796 1_565
+Hg3 Sr1 3.494644 1_554

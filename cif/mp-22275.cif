@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_YSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55762597
+_cell_length_b   7.19839485
+_cell_length_c   7.98962636
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSnPt
+_chemical_formula_sum   'Y4 Sn4 Pt4'
+_cell_volume   262.12039634
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.75000000  0.99006503  0.30231760  1
+  Y  Y1  1  0.25000000  0.00993497  0.69768240  1
+  Y  Y2  1  0.75000000  0.49006503  0.19768240  1
+  Y  Y3  1  0.25000000  0.50993497  0.80231760  1
+  Sn  Sn0  1  0.75000000  0.32015544  0.58422213  1
+  Sn  Sn1  1  0.25000000  0.17984456  0.08422213  1
+  Sn  Sn2  1  0.25000000  0.67984456  0.41577787  1
+  Sn  Sn3  1  0.75000000  0.82015544  0.91577787  1
+  Pt  Pt0  1  0.25000000  0.78422223  0.08945011  1
+  Pt  Pt1  1  0.25000000  0.28422223  0.41054989  1
+  Pt  Pt2  1  0.75000000  0.71577777  0.58945011  1
+  Pt  Pt3  1  0.75000000  0.21577777  0.91054989  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Y3 3.177350 1_555
+Sn0 Y3 3.177350 1_655
+Sn0 Y0 3.273967 1_545
+Sn0 Y1 3.316840 1_555
+Sn0 Y1 3.316840 1_655
+Sn0 Y2 3.321681 1_555
+Sn1 Y0 3.177350 1_445
+Sn1 Y0 3.177350 1_545
+Sn1 Y3 3.273967 1_554
+Sn1 Y2 3.316840 1_455
+Sn1 Y2 3.316840 1_555
+Sn1 Y1 3.321681 1_554
+Sn2 Y2 3.177350 1_555
+Sn2 Y2 3.177350 1_455
+Sn2 Y1 3.273967 1_565
+Sn2 Y0 3.316840 1_555
+Sn2 Y0 3.316840 1_455
+Sn2 Y3 3.321681 1_555
+Sn3 Y1 3.177350 1_665
+Sn3 Y1 3.177350 1_565
+Sn3 Y2 3.273967 1_556
+Sn3 Y3 3.316840 1_555
+Sn3 Y3 3.316840 1_655
+Sn3 Y0 3.321681 1_556
+Pt0 Sn3 2.680534 1_454
+Pt0 Sn3 2.680534 1_554
+Pt0 Sn2 2.713340 1_555
+Pt0 Sn1 2.848152 1_565
+Pt0 Y3 3.026743 1_554
+Pt0 Y0 3.206404 1_455
+Pt0 Y0 3.206404 1_555
+Pt0 Y2 3.228683 1_455
+Pt0 Y2 3.228683 1_555
+Pt0 Y1 3.526650 1_564
+Pt1 Sn0 2.680534 1_555
+Pt1 Sn0 2.680534 1_455
+Pt1 Sn1 2.713340 1_555
+Pt1 Sn2 2.848152 1_555
+Pt1 Y1 3.026743 1_555
+Pt1 Y2 3.206404 1_455
+Pt1 Y2 3.206404 1_555
+Pt1 Y0 3.228683 1_545
+Pt1 Y0 3.228683 1_445
+Pt1 Y3 3.526650 1_555
+Pt2 Sn2 2.680534 1_555
+Pt2 Sn2 2.680534 1_655
+Pt2 Sn3 2.713340 1_555
+Pt2 Sn0 2.848152 1_555
+Pt2 Y0 3.026743 1_555
+Pt2 Y3 3.206404 1_655
+Pt2 Y3 3.206404 1_555
+Pt2 Y1 3.228683 1_565
+Pt2 Y1 3.228683 1_665
+Pt2 Y2 3.526650 1_555
+Pt3 Sn1 2.680534 1_656
+Pt3 Sn1 2.680534 1_556
+Pt3 Sn0 2.713340 1_555
+Pt3 Sn3 2.848152 1_545
+Pt3 Y2 3.026743 1_556
+Pt3 Y1 3.206404 1_555
+Pt3 Y1 3.206404 1_655
+Pt3 Y3 3.228683 1_555
+Pt3 Y3 3.228683 1_655
+Pt3 Y0 3.526650 1_546

@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Cd2As3I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45498076
+_cell_length_b   6.45498171
+_cell_length_c   8.05244912
+_cell_angle_alpha   96.90556553
+_cell_angle_beta   96.90557185
+_cell_angle_gamma   97.22482197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2As3I
+_chemical_formula_sum   'Cd4 As6 I2'
+_cell_volume   327.30547542
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.85579701  0.14430930  0.00020642  1
+  Cd  Cd1  1  0.36741962  0.65504552  0.92259572  1
+  Cd  Cd2  1  0.14430930  0.85579701  0.50020642  1
+  Cd  Cd3  1  0.65504552  0.36741962  0.42259572  1
+  As  As0  1  0.68038517  0.58546716  0.74253879  1
+  As  As1  1  0.58546716  0.68038517  0.24253879  1
+  As  As2  1  0.54661431  0.96490849  0.46185982  1
+  As  As3  1  0.96490849  0.54661431  0.96185982  1
+  As  As4  1  0.83153867  0.92654759  0.68076136  1
+  As  As5  1  0.92654759  0.83153867  0.18076136  1
+  I  I0  1  0.12800306  0.38236210  0.46333989  1
+  I  I1  1  0.38236210  0.12800306  0.96333989  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 I1 3.021895 1_554
+Cd0 I1 3.460824 1_654
+Cd1 I1 3.019074 1_565
+Cd1 I1 3.469037 1_555
+Cd2 I0 3.021895 1_555
+Cd2 I0 3.460824 1_565
+Cd3 I0 3.019073 1_655
+Cd3 I0 3.469036 1_555
+As0 As4 2.426222 1_555
+As0 As3 2.448954 1_555
+As0 Cd1 2.676013 1_555
+As0 Cd3 2.759354 1_555
+As1 As5 2.426222 1_555
+As1 As2 2.448954 1_555
+As1 Cd3 2.676013 1_555
+As1 Cd1 2.759354 1_554
+As2 As4 2.447637 1_555
+As2 Cd2 2.668374 1_555
+As2 Cd3 2.670927 1_565
+As3 As5 2.447637 1_556
+As3 Cd0 2.668374 1_556
+As3 Cd1 2.670927 1_655
+As4 Cd2 2.678916 1_655
+As4 Cd0 2.755990 1_566
+As5 Cd0 2.678916 1_565
+As5 Cd2 2.755989 1_655

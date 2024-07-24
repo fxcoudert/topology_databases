@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsDyCdSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47040954
+_cell_length_b   8.47040954
+_cell_length_c   11.20570500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.55935005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsDyCdSe3
+_chemical_formula_sum   'Cs2 Dy2 Cd2 Se6'
+_cell_volume   395.17615330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.74407900  0.25592100  0.25000000  1
+  Cs  Cs1  1  0.25592100  0.74407900  0.75000000  1
+  Dy  Dy0  1  0.00000000  0.00000000  0.50000000  1
+  Dy  Dy1  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd0  1  0.53977000  0.46023000  0.75000000  1
+  Cd  Cd1  1  0.46023000  0.53977000  0.25000000  1
+  Se  Se0  1  0.06006100  0.93993900  0.25000000  1
+  Se  Se1  1  0.93993900  0.06006100  0.75000000  1
+  Se  Se2  1  0.61680400  0.38319600  0.54479200  1
+  Se  Se3  1  0.61680400  0.38319600  0.95520800  1
+  Se  Se4  1  0.38319600  0.61680400  0.04479200  1
+  Se  Se5  1  0.38319600  0.61680400  0.45520800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se0 3.704506 1_545
+Cs0 Se0 3.704506 1_655
+Cs0 Se4 3.887922 1_655
+Cs0 Se5 3.887922 1_655
+Cs0 Se5 3.887922 1_545
+Cs0 Se4 3.887922 1_545
+Cs0 Se3 3.906522 1_554
+Cs0 Se2 3.906522 1_555
+Cs1 Se1 3.704506 1_455
+Cs1 Se1 3.704506 1_565
+Cs1 Se2 3.887922 1_565
+Cs1 Se3 3.887922 1_565
+Cs1 Se2 3.887922 1_455
+Cs1 Se3 3.887922 1_455
+Cs1 Se4 3.906522 1_556
+Cs1 Se5 3.906522 1_555
+Dy0 Se5 2.923552 1_555
+Dy0 Se2 2.923552 1_445
+Dy0 Se5 2.923552 1_445
+Dy0 Se2 2.923552 1_555
+Dy0 Se0 2.969245 1_545
+Dy0 Se1 2.969245 1_455
+Dy1 Se4 2.923552 1_445
+Dy1 Se3 2.923552 1_554
+Dy1 Se4 2.923552 1_555
+Dy1 Se3 2.923552 1_444
+Dy1 Se0 2.969245 1_545
+Dy1 Se1 2.969245 1_454
+Cd0 Se2 2.623130 1_555
+Cd0 Se3 2.623130 1_555
+Cd0 Se1 2.703352 1_455
+Cd0 Se1 2.703352 1_565
+Cd1 Se5 2.623130 1_555
+Cd1 Se4 2.623130 1_555
+Cd1 Se0 2.703352 1_655
+Cd1 Se0 2.703352 1_545

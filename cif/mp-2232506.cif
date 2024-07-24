@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_MgZn2(FeS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30282844
+_cell_length_b   7.29415614
+_cell_length_c   7.31658831
+_cell_angle_alpha   60.03099167
+_cell_angle_beta   60.04814085
+_cell_angle_gamma   60.13725763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2(FeS2)4
+_chemical_formula_sum   'Mg1 Zn2 Fe4 S8'
+_cell_volume   276.03760054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.37676600  0.37305000  0.37409800  1
+  Zn  Zn0  1  0.87510100  0.87496500  0.87508900  1
+  Zn  Zn1  1  0.12603900  0.12387500  0.12380900  1
+  Fe  Fe0  1  0.52391300  0.52375700  0.52442300  1
+  Fe  Fe1  1  0.52423900  0.52462900  0.92597900  1
+  Fe  Fe2  1  0.92800900  0.52448000  0.52357300  1
+  Fe  Fe3  1  0.52502200  0.92615500  0.52451300  1
+  S  S0  1  0.74204100  0.74128200  0.74099200  1
+  S  S1  1  0.25163600  0.25202800  0.74539300  1
+  S  S2  1  0.25081300  0.74515500  0.25202700  1
+  S  S3  1  0.74769700  0.25072300  0.25169100  1
+  S  S4  1  0.74148200  0.27601400  0.74094000  1
+  S  S5  1  0.27580900  0.74119000  0.74094200  1
+  S  S6  1  0.24977600  0.25195700  0.25072500  1
+  S  S7  1  0.74129000  0.74110600  0.27617900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S6 2.214321 1_555
+Mg0 S3 2.214715 1_555
+Mg0 S2 2.218751 1_555
+Mg0 S1 2.218761 1_555
+Fe0 S7 2.254498 1_555
+Fe0 S5 2.256142 1_555
+Fe0 S4 2.256915 1_555
+Fe0 Mg0 2.671581 1_555
+Fe0 S1 2.830060 1_555
+Fe0 S3 2.844604 1_555
+Fe0 S2 2.846720 1_555
+Fe1 S0 2.252942 1_555
+Fe1 S4 2.254207 1_555
+Fe1 S5 2.254265 1_555
+Fe1 Mg0 2.677760 1_556
+Fe1 S6 2.848141 1_556
+Fe1 S2 2.853781 1_556
+Fe1 S3 2.865926 1_556
+Fe2 S4 2.255012 1_555
+Fe2 S0 2.256763 1_555
+Fe2 S7 2.256982 1_555
+Fe2 Mg0 2.679419 1_655
+Fe2 S2 2.828865 1_655
+Fe2 S6 2.843799 1_655
+Fe2 S1 2.845972 1_655
+Fe3 S5 2.252351 1_555
+Fe3 S7 2.253755 1_555
+Fe3 S0 2.254621 1_555
+Fe3 Mg0 2.664638 1_565
+Fe3 S3 2.846927 1_565
+Fe3 S1 2.852681 1_565
+Fe3 S6 2.865026 1_565
+S0 Zn0 2.389366 1_555
+S1 Zn1 2.261235 1_556
+S2 Zn1 2.258153 1_565
+S3 Zn1 2.259023 1_655
+S4 Zn0 2.391269 1_545
+S5 Zn0 2.392490 1_455
+S6 Zn1 2.257647 1_555
+S7 Zn0 2.396705 1_554

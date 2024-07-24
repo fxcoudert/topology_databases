@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LaInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72094168
+_cell_length_b   7.72094168
+_cell_length_c   4.18449810
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaInPt
+_chemical_formula_sum   'La3 In3 Pt3'
+_cell_volume   216.03024224
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.41395302  0.41395302  0.50000000  1
+  La  La1  1  0.00000000  0.58604698  0.50000000  1
+  La  La2  1  0.58604698  0.00000000  0.50000000  1
+  In  In0  1  0.75506697  0.75506697  -0.00000000  1
+  In  In1  1  0.24493303  1.00000000  -0.00000000  1
+  In  In2  1  1.00000000  0.24493303  0.00000000  1
+  Pt  Pt0  1  0.66666700  0.33333300  0.00000000  1
+  Pt  Pt1  1  0.33333300  0.66666700  0.00000000  1
+  Pt  Pt2  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 Pt1 3.128362 1_556
+La0 Pt0 3.128362 1_556
+La0 Pt0 3.128362 1_555
+La0 Pt1 3.128362 1_555
+La0 Pt2 3.196107 1_555
+La1 Pt1 3.128357 1_555
+La1 Pt1 3.128357 1_556
+La1 Pt0 3.128358 1_455
+La1 Pt0 3.128358 1_456
+La1 Pt2 3.196107 1_565
+La2 Pt0 3.128357 1_556
+La2 Pt0 3.128357 1_555
+La2 Pt1 3.128358 1_546
+La2 Pt1 3.128358 1_545
+La2 Pt2 3.196107 1_655
+In0 Pt2 2.820251 1_665
+In0 Pt2 2.820251 1_664
+In0 Pt1 2.974245 1_555
+In0 Pt0 2.974245 1_555
+In0 La0 3.363628 1_554
+In0 La0 3.363628 1_555
+In0 La1 3.482056 1_654
+In0 La2 3.482056 1_565
+In0 La2 3.482056 1_564
+In0 La1 3.482056 1_655
+In1 Pt2 2.820251 1_565
+In1 Pt2 2.820251 1_564
+In1 Pt1 2.974237 1_555
+In1 Pt0 2.974242 1_565
+In1 La2 3.363628 1_565
+In1 La2 3.363628 1_564
+In1 La0 3.482056 1_565
+In1 La0 3.482056 1_564
+In1 La1 3.482056 1_554
+In1 La1 3.482056 1_555
+In2 Pt2 2.820251 1_655
+In2 Pt2 2.820251 1_654
+In2 Pt0 2.974237 1_555
+In2 Pt1 2.974242 1_655
+In2 La1 3.363628 1_655
+In2 La1 3.363628 1_654
+In2 La0 3.482056 1_655
+In2 La0 3.482056 1_654
+In2 La2 3.482056 1_554
+In2 La2 3.482056 1_555

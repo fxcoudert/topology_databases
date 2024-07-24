@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Li(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07748426
+_cell_length_b   7.07748426
+_cell_length_c   7.07748426
+_cell_angle_alpha   119.99811414
+_cell_angle_beta   119.82358555
+_cell_angle_gamma   90.15454836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(CrS2)2
+_chemical_formula_sum   'Li2 Cr4 S8'
+_cell_volume   251.01726403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr0  1  0.37669700  0.62669700  0.75000000  1
+  Cr  Cr1  1  0.62330300  0.37330300  0.25000000  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.50000000  1
+  S  S0  1  0.74868300  0.23186500  0.98318100  1
+  S  S1  1  0.74868300  0.76550200  0.51681900  1
+  S  S2  1  0.73504700  0.24059800  0.49444900  1
+  S  S3  1  0.25131700  0.76813500  0.01681900  1
+  S  S4  1  0.75385100  0.75940200  0.99444900  1
+  S  S5  1  0.25131700  0.23449800  0.48318100  1
+  S  S6  1  0.24614900  0.24059800  0.00555100  1
+  S  S7  1  0.26495300  0.75940200  0.50555100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S5 2.514875 1_555
+Li0 S1 2.514875 1_445
+Li0 S7 2.535427 1_545
+Li0 S4 2.535427 1_444
+Li0 S2 2.535427 1_455
+Li0 S6 2.535427 1_556
+Li1 S3 2.514869 1_555
+Li1 S0 2.514869 1_454
+Li1 S7 2.535427 1_555
+Li1 S4 2.535427 1_454
+Li1 S2 2.535427 1_454
+Li1 S6 2.535427 1_555
+Cr0 S7 2.183728 1_555
+Cr0 S4 2.183728 1_555
+Cr0 S3 2.266474 1_556
+Cr0 S5 2.266474 1_555
+Cr1 S2 2.183728 1_555
+Cr1 S6 2.183728 1_555
+Cr1 S0 2.266474 1_554
+Cr1 S1 2.266474 1_555
+Cr2 S4 2.405236 1_444
+Cr2 S6 2.405236 1_555
+Cr2 S1 2.423080 1_444
+Cr2 S5 2.423080 1_555
+Cr2 S3 2.423085 1_545
+Cr2 S0 2.423085 1_454
+Cr3 S2 2.405236 1_555
+Cr3 S7 2.405236 1_545
+Cr3 S0 2.423080 1_555
+Cr3 S3 2.423080 1_545
+Cr3 S1 2.423080 1_545
+Cr3 S5 2.423080 1_555

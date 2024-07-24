@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_MnZnPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55340480
+_cell_length_b   6.98104989
+_cell_length_c   8.29658276
+_cell_angle_alpha   89.99807947
+_cell_angle_beta   41.69475634
+_cell_angle_gamma   72.20489370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnPO5
+_chemical_formula_sum   'Mn2 Zn2 P2 O10'
+_cell_volume   190.03203430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49944700  0.48609700  0.99475600  1
+  Mn  Mn1  1  0.49946700  0.98622200  0.99643000  1
+  Zn  Zn0  1  0.50223300  0.23012300  0.68002400  1
+  Zn  Zn1  1  0.50302900  0.73010700  0.30794300  1
+  P  P0  1  0.49847500  0.23617600  0.35745100  1
+  P  P1  1  0.49792500  0.73626900  0.63504800  1
+  O  O0  1  0.46137500  0.06508100  0.26931800  1
+  O  O1  1  0.53537800  0.40875000  0.23348300  1
+  O  O2  1  0.53556900  0.90851100  0.72203100  1
+  O  O3  1  0.45903900  0.56528200  0.76090700  1
+  O  O4  1  0.86192400  0.63138400  0.32972400  1
+  O  O5  1  0.13639600  0.84020100  0.69133500  1
+  O  O6  1  0.13635500  0.33999600  0.66258500  1
+  O  O7  1  0.86203700  0.13116100  0.29932800  1
+  O  O8  1  0.49914200  0.73589500  0.08116300  1
+  O  O9  1  0.49894000  0.23587400  0.91048800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 O9 1.883137 1_555
+Mn0 O8 1.884518 1_556
+Mn0 O6 2.093738 1_655
+Mn0 O4 2.097191 1_456
+Mn0 O3 2.166657 1_555
+Mn0 O1 2.185979 1_556
+Mn1 O9 1.883028 1_565
+Mn1 O8 1.883632 1_556
+Mn1 O5 2.093558 1_655
+Mn1 O7 2.096626 1_466
+Mn1 O0 2.165029 1_566
+Mn1 O2 2.183866 1_555
+O0 P0 1.542468 1_555
+O0 Zn1 2.324793 1_545
+O1 P0 1.545089 1_555
+O1 Zn1 2.243838 1_555
+O2 P1 1.545749 1_555
+O2 Zn0 2.244740 1_565
+O3 P1 1.543552 1_555
+O3 Zn0 2.323575 1_555
+O4 P1 1.577186 1_555
+O4 Zn1 2.044092 1_555
+O5 P1 1.576354 1_555
+O5 Zn1 2.055689 1_555
+O6 P0 1.576274 1_555
+O6 Zn0 2.055280 1_555
+O7 P0 1.577245 1_555
+O7 Zn0 2.043834 1_555
+O8 Zn1 1.897960 1_555
+O9 Zn0 1.898755 1_555

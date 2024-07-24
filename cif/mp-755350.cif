@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_BaLaI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87365700
+_cell_length_b   9.25509200
+_cell_length_c   15.03418859
+_cell_angle_alpha   89.68060716
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaI5
+_chemical_formula_sum   'Ba2 La2 I10'
+_cell_volume   678.12373779
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.07130200  0.84772400  1
+  Ba  Ba1  1  0.25000000  0.92869800  0.15227600  1
+  La  La0  1  0.25000000  0.42601200  0.65076200  1
+  La  La1  1  0.75000000  0.57398800  0.34923800  1
+  I  I0  1  0.25000000  0.07765500  0.66542600  1
+  I  I1  1  0.75000000  0.16064200  0.07383600  1
+  I  I2  1  0.75000000  0.32213900  0.51393300  1
+  I  I3  1  0.25000000  0.36164700  0.86007200  1
+  I  I4  1  0.25000000  0.36778500  0.28892200  1
+  I  I5  1  0.75000000  0.63221500  0.71107800  1
+  I  I6  1  0.75000000  0.63835300  0.13992800  1
+  I  I7  1  0.25000000  0.67786100  0.48606700  1
+  I  I8  1  0.25000000  0.83935800  0.92616400  1
+  I  I9  1  0.75000000  0.92234500  0.33457400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 I8 3.450910 1_545
+Ba0 I8 3.450910 1_645
+Ba0 I1 3.503000 1_556
+Ba0 I3 3.633048 1_655
+Ba0 I3 3.633048 1_555
+Ba0 I0 3.667594 1_555
+Ba0 I0 3.667594 1_655
+Ba1 I1 3.450910 1_465
+Ba1 I1 3.450910 1_565
+Ba1 I8 3.503000 1_554
+Ba1 I6 3.633048 1_455
+Ba1 I6 3.633048 1_555
+Ba1 I9 3.667594 1_455
+Ba1 I9 3.667594 1_555
+I0 La0 3.230379 1_555
+I2 La0 3.334081 1_655
+I2 La0 3.334081 1_555
+I2 La1 3.391096 1_555
+I3 La0 3.199430 1_555
+I4 La1 3.228283 1_555
+I4 La1 3.228283 1_455
+I5 La0 3.228283 1_655
+I5 La0 3.228283 1_555
+I6 La1 3.199430 1_555
+I7 La1 3.334081 1_555
+I7 La1 3.334081 1_455
+I7 La0 3.391096 1_555
+I9 La1 3.230379 1_555

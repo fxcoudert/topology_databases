@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Li5V(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28080558
+_cell_length_b   5.28080558
+_cell_length_c   6.31615539
+_cell_angle_alpha   89.58462797
+_cell_angle_beta   89.58462797
+_cell_angle_gamma   91.41935257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5V(SiO4)2
+_chemical_formula_sum   'Li5 V1 Si2 O8'
+_cell_volume   176.07450933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.80490600  0.82909500  0.26367100  1
+  Li  Li1  1  0.69755700  0.30244300  0.00000000  1
+  Li  Li2  1  0.32780800  0.67219200  0.50000000  1
+  Li  Li3  1  0.68135700  0.31864300  0.50000000  1
+  Li  Li4  1  0.17090500  0.19509400  0.73632900  1
+  V  V0  1  0.32220300  0.67779700  0.00000000  1
+  Si  Si0  1  0.81779000  0.83077100  0.74370700  1
+  Si  Si1  1  0.16922900  0.18221000  0.25629300  1
+  O  O0  1  0.69714000  0.69613200  0.53708400  1
+  O  O1  1  0.69007300  0.69880700  0.96629400  1
+  O  O2  1  0.22002400  0.86616000  0.24237200  1
+  O  O3  1  0.86366100  0.20155500  0.25002600  1
+  O  O4  1  0.13384000  0.77997600  0.75762800  1
+  O  O5  1  0.79844500  0.13633900  0.74997400  1
+  O  O6  1  0.30119300  0.30992700  0.03370600  1
+  O  O7  1  0.30386800  0.30286000  0.46291600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O0 1.935847 1_555
+Li0 O3 1.984760 1_565
+Li0 O1 2.093712 1_554
+Li0 O2 2.199102 1_655
+Li1 O5 1.891607 1_554
+Li1 O3 1.891607 1_555
+Li1 O1 2.103759 1_554
+Li1 O6 2.103759 1_555
+Li2 O0 1.967137 1_555
+Li2 O7 1.967137 1_555
+Li2 O4 2.009767 1_555
+Li2 O2 2.009767 1_555
+Li3 O3 1.955398 1_555
+Li3 O5 1.955398 1_555
+Li3 O0 2.008596 1_555
+Li3 O7 2.008596 1_555
+Li4 O7 1.935847 1_555
+Li4 O5 1.984760 1_455
+Li4 O6 2.093712 1_556
+Li4 O4 2.199102 1_545
+O0 Si0 1.617936 1_555
+O1 Si0 1.692873 1_555
+O1 V0 1.953076 1_556
+O2 Si1 1.699766 1_565
+O2 V0 1.913327 1_555
+O3 Si1 1.620150 1_655
+O4 Si0 1.699766 1_455
+O4 V0 1.913327 1_556
+O5 Si0 1.620150 1_545
+O6 Si1 1.692873 1_555
+O6 V0 1.953076 1_555
+O7 Si1 1.617936 1_555

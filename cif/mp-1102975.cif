@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_EuGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50016743
+_cell_length_b   7.22445526
+_cell_length_c   7.69851106
+_cell_angle_alpha   90.00197053
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGaPt
+_chemical_formula_sum   'Eu4 Ga4 Pt4'
+_cell_volume   250.28828122
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.25000000  0.98399786  0.31149867  1
+  Eu  Eu1  1  0.25000000  0.48400458  0.18846394  1
+  Eu  Eu2  1  0.75000000  0.01608529  0.68853144  1
+  Eu  Eu3  1  0.75000000  0.51607377  0.81153100  1
+  Ga  Ga0  1  0.25000000  0.33702921  0.57565060  1
+  Ga  Ga1  1  0.25000000  0.83700349  0.92433272  1
+  Ga  Ga2  1  0.75000000  0.66294407  0.42434775  1
+  Ga  Ga3  1  0.75000000  0.16299106  0.07566660  1
+  Pt  Pt0  1  0.25000000  0.20458028  0.89725112  1
+  Pt  Pt1  1  0.25000000  0.70454774  0.60271512  1
+  Pt  Pt2  1  0.75000000  0.79534939  0.10284127  1
+  Pt  Pt3  1  0.75000000  0.29539426  0.39717076  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 Pt1 3.017024 1_555
+Eu0 Pt2 3.082294 1_555
+Eu0 Pt2 3.082294 1_455
+Eu0 Ga1 3.164098 1_554
+Eu0 Ga3 3.167248 1_565
+Eu0 Ga3 3.167248 1_465
+Eu0 Pt3 3.249429 1_465
+Eu0 Pt3 3.249429 1_565
+Eu0 Ga0 3.261889 1_565
+Eu0 Ga2 3.346277 1_555
+Eu0 Ga2 3.346277 1_455
+Eu1 Pt0 3.016775 1_554
+Eu1 Pt3 3.082420 1_555
+Eu1 Pt3 3.082420 1_455
+Eu1 Ga0 3.164271 1_555
+Eu1 Ga2 3.167267 1_455
+Eu1 Ga2 3.167267 1_555
+Eu1 Pt2 3.249125 1_555
+Eu1 Pt2 3.249125 1_455
+Eu1 Ga1 3.261716 1_554
+Eu1 Ga3 3.345931 1_455
+Eu1 Ga3 3.345931 1_555
+Eu2 Pt3 3.017167 1_555
+Eu2 Pt0 3.082054 1_555
+Eu2 Pt0 3.082054 1_655
+Eu2 Ga3 3.163660 1_556
+Eu2 Ga1 3.167374 1_645
+Eu2 Ga1 3.167374 1_545
+Eu2 Pt1 3.250361 1_645
+Eu2 Pt1 3.250361 1_545
+Eu2 Ga2 3.262662 1_545
+Eu2 Ga0 3.345791 1_655
+Eu2 Ga0 3.345791 1_555
+Eu3 Pt2 3.016614 1_556
+Eu3 Pt1 3.082422 1_555
+Eu3 Pt1 3.082422 1_655
+Eu3 Ga2 3.163991 1_555
+Eu3 Ga0 3.167562 1_655
+Eu3 Ga0 3.167562 1_555
+Eu3 Pt0 3.250021 1_655
+Eu3 Pt0 3.250021 1_555
+Eu3 Ga3 3.262210 1_556
+Eu3 Ga1 3.345520 1_555
+Eu3 Ga1 3.345520 1_655
+Ga0 Pt3 2.653541 1_455
+Ga0 Pt3 2.653541 1_555
+Ga0 Pt0 2.654350 1_555
+Ga0 Pt1 2.663277 1_555
+Ga1 Pt2 2.653682 1_456
+Ga1 Pt2 2.653682 1_556
+Ga1 Pt1 2.654429 1_555
+Ga1 Pt0 2.663721 1_565
+Ga2 Pt1 2.653067 1_555
+Ga2 Pt1 2.653067 1_655
+Ga2 Pt2 2.653561 1_555
+Ga2 Pt3 2.663570 1_555
+Ga3 Pt0 2.653258 1_654
+Ga3 Pt0 2.653258 1_554
+Ga3 Pt3 2.653478 1_555
+Ga3 Pt2 2.664244 1_545

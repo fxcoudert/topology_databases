@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_V2GaC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.91929843
+_cell_length_b   2.91929843
+_cell_length_c   12.78934063
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2GaC
+_chemical_formula_sum   'V4 Ga2 C2'
+_cell_volume   94.39211115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.33333300  0.66666700  0.41358238  1
+  V  V1  1  0.66666700  0.33333300  0.58641762  1
+  V  V2  1  0.66666700  0.33333300  0.91358238  1
+  V  V3  1  0.33333300  0.66666700  0.08641762  1
+  Ga  Ga0  1  0.33333300  0.66666700  0.75000000  1
+  Ga  Ga1  1  0.66666700  0.33333300  0.25000000  1
+  C  C0  1  -0.00000000  0.00000000  0.50000000  1
+  C  C1  1  -0.00000000  0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 V2 2.686576 1_455
+Ga0 V1 2.686576 1_565
+Ga0 V1 2.686576 1_455
+Ga0 V2 2.686576 1_565
+Ga0 V1 2.686579 1_555
+Ga0 V2 2.686579 1_555
+Ga1 V0 2.686576 1_545
+Ga1 V0 2.686576 1_655
+Ga1 V3 2.686576 1_655
+Ga1 V3 2.686576 1_545
+Ga1 V0 2.686579 1_555
+Ga1 V3 2.686579 1_555
+C0 V0 2.015511 1_545
+C0 V1 2.015511 1_455
+C0 V0 2.015512 1_445
+C0 V0 2.015512 1_555
+C0 V1 2.015512 1_445
+C0 V1 2.015512 1_555
+C1 V3 2.015511 1_545
+C1 V2 2.015511 1_454
+C1 V2 2.015512 1_554
+C1 V2 2.015512 1_444
+C1 V3 2.015512 1_555
+C1 V3 2.015512 1_445

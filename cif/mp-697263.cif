@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_LiAsH2OF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28782853
+_cell_length_b   7.28782853
+_cell_length_c   7.28782853
+_cell_angle_alpha   128.75319648
+_cell_angle_beta   117.29480736
+_cell_angle_gamma   85.15065649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAsH2OF6
+_chemical_formula_sum   'Li2 As2 H4 O2 F12'
+_cell_volume   256.54168579
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.00000000  0.00000000  0.50000000  1
+  As  As0  1  0.50000000  0.50000000  0.00000000  1
+  As  As1  1  0.00000000  0.00000000  0.00000000  1
+  H  H0  1  0.67751600  0.19095200  0.51343600  1
+  H  H1  1  0.32248400  0.80904800  0.48656400  1
+  H  H2  1  0.17751600  0.66408000  0.48656400  1
+  H  H3  1  0.82248400  0.33592000  0.51343600  1
+  O  O0  1  0.75000000  0.16852300  0.41852300  1
+  O  O1  1  0.25000000  0.83147700  0.58147700  1
+  F  F0  1  0.53294300  0.25811500  0.72517200  1
+  F  F1  1  0.46705700  0.74188500  0.27482800  1
+  F  F2  1  0.03294300  0.30777000  0.27482800  1
+  F  F3  1  0.96705700  0.69223000  0.72517200  1
+  F  F4  1  0.94970300  0.07681600  0.79617700  1
+  F  F5  1  0.71936100  0.92318400  0.87288700  1
+  F  F6  1  0.44970300  0.65352600  0.87288700  1
+  F  F7  1  0.21936100  0.34647400  0.79617700  1
+  F  F8  1  0.05029700  0.92318400  0.20382300  1
+  F  F9  1  0.28063900  0.07681600  0.12711300  1
+  F  F10  1  0.55029700  0.34647400  0.12711300  1
+  F  F11  1  0.78063900  0.65352600  0.20382300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.173239 1_544
+Li0 O0 2.173239 1_555
+Li1 O1 2.173239 1_545
+Li1 O0 2.173239 1_455
+As0 F0 1.768042 1_554
+As0 F1 1.768042 1_555
+As0 F7 1.777995 1_554
+As0 F11 1.777995 1_555
+As0 F10 1.777995 1_555
+As0 F6 1.777995 1_554
+As1 F2 1.768037 1_555
+As1 F3 1.768037 1_444
+As1 F5 1.777995 1_444
+As1 F4 1.777995 1_454
+As1 F8 1.777995 1_545
+As1 F9 1.777995 1_555
+H0 O0 0.981427 1_555
+H1 O1 0.981427 1_555
+H2 O1 0.981427 1_555
+H3 O0 0.981427 1_555
+F4 Li1 2.070020 1_655
+F5 Li0 2.070020 1_566
+F6 Li0 2.070020 1_566
+F7 Li1 2.070020 1_555
+F8 Li1 2.070020 1_565
+F9 Li0 2.070020 1_555
+F10 Li0 2.070020 1_555
+F11 Li1 2.070020 1_665

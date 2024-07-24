@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_TmHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95172362
+_cell_length_b   10.67608775
+_cell_length_c   3.43166559
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmHO2
+_chemical_formula_sum   'Tm4 H4 O8'
+_cell_volume   181.41512455
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.09710030  0.85588208  0.25000000  1
+  Tm  Tm1  1  0.40289970  0.35588208  0.25000000  1
+  Tm  Tm2  1  0.59710030  0.64411792  0.75000000  1
+  Tm  Tm3  1  0.90289970  0.14411792  0.75000000  1
+  H  H0  1  0.13465275  0.59902417  0.25000000  1
+  H  H1  1  0.36534725  0.09902417  0.25000000  1
+  H  H2  1  0.63465275  0.90097583  0.75000000  1
+  H  H3  1  0.86534725  0.40097583  0.75000000  1
+  O  O0  1  0.17755052  0.06649168  0.25000000  1
+  O  O1  1  0.15558647  0.30973762  0.75000000  1
+  O  O2  1  0.34441353  0.80973762  0.75000000  1
+  O  O3  1  0.32244948  0.56649168  0.25000000  1
+  O  O4  1  0.67755052  0.43350832  0.75000000  1
+  O  O5  1  0.65558647  0.19026238  0.25000000  1
+  O  O6  1  0.84441353  0.69026238  0.25000000  1
+  O  O7  1  0.82244948  0.93350832  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O3 0.992662 1_555
+H0 O6 1.736176 1_455
+H1 O0 0.992662 1_555
+H1 O5 1.736176 1_555
+H2 O7 0.992662 1_555
+H2 O2 1.736176 1_555
+H3 O4 0.992662 1_555
+H3 O1 1.736176 1_655
+O0 Tm0 2.283504 1_545
+O0 Tm3 2.341044 1_454
+O0 Tm3 2.341044 1_455
+O1 Tm1 2.164830 1_555
+O1 Tm1 2.164830 1_556
+O1 Tm3 2.166106 1_455
+O2 Tm0 2.164830 1_555
+O2 Tm0 2.164830 1_556
+O2 Tm2 2.166106 1_555
+O3 Tm1 2.283504 1_555
+O3 Tm2 2.341044 1_555
+O3 Tm2 2.341044 1_554
+O4 Tm2 2.283504 1_555
+O4 Tm1 2.341044 1_555
+O4 Tm1 2.341044 1_556
+O5 Tm3 2.164830 1_555
+O5 Tm3 2.164830 1_554
+O5 Tm1 2.166106 1_555
+O6 Tm2 2.164830 1_555
+O6 Tm2 2.164830 1_554
+O6 Tm0 2.166106 1_655
+O7 Tm3 2.283504 1_565
+O7 Tm0 2.341044 1_655
+O7 Tm0 2.341044 1_656

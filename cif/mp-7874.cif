@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiGaGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16874396
+_cell_length_b   4.16874290
+_cell_length_c   6.77828802
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaGe
+_chemical_formula_sum   'Li2 Ga2 Ge2'
+_cell_volume   102.01429114
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00000000  -0.00000000  0.75774028  1
+  Li  Li1  1  -0.00000000  -0.00000000  0.25774028  1
+  Ga  Ga0  1  0.66666700  0.33333300  0.55400201  1
+  Ga  Ga1  1  0.33333300  0.66666700  0.05400201  1
+  Ge  Ge0  1  0.33333300  0.66666700  0.43825771  1
+  Ge  Ge1  1  0.66666700  0.33333300  0.93825771  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ge0 2.531464 1_545
+Ga0 Ge0 2.531465 1_655
+Ga0 Ge0 2.531471 1_555
+Ga0 Ge1 2.604596 1_555
+Ga0 Li0 2.774878 1_655
+Ga0 Li0 2.774881 1_665
+Ga0 Li0 2.774881 1_555
+Ga0 Li1 3.134558 1_655
+Ga0 Li1 3.134560 1_665
+Ga0 Li1 3.134561 1_555
+Ga1 Ge1 2.531464 1_564
+Ga1 Ge1 2.531465 1_454
+Ga1 Ge1 2.531471 1_554
+Ga1 Ge0 2.604596 1_555
+Ga1 Li1 2.774878 1_565
+Ga1 Li1 2.774881 1_555
+Ga1 Li1 2.774881 1_665
+Ga1 Li0 3.134558 1_564
+Ga1 Li0 3.134560 1_554
+Ga1 Li0 3.134561 1_664
+Ge0 Li1 2.699998 1_565
+Ge0 Li1 2.700001 1_555
+Ge0 Li1 2.700002 1_665
+Ge1 Li0 2.699998 1_655
+Ge1 Li0 2.700001 1_665
+Ge1 Li0 2.700002 1_555

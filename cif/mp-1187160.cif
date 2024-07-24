@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Sr3Tb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13721843
+_cell_length_b   8.13721843
+_cell_length_c   6.53577200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Tb
+_chemical_formula_sum   'Sr6 Tb2'
+_cell_volume   374.78263296
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.17174900  0.34349900  0.25000000  1
+  Sr  Sr1  1  0.65650100  0.82825100  0.25000000  1
+  Sr  Sr2  1  0.17174900  0.82825100  0.25000000  1
+  Sr  Sr3  1  0.82825100  0.65650100  0.75000000  1
+  Sr  Sr4  1  0.34349900  0.17174900  0.75000000  1
+  Sr  Sr5  1  0.82825100  0.17174900  0.75000000  1
+  Tb  Tb0  1  0.33333300  0.66666700  0.75000000  1
+  Tb  Tb1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Sr1 3.944533 1_555
+Sr0 Sr2 3.944533 1_555
+Sr0 Tb0 3.983155 1_554
+Sr0 Tb0 3.983155 1_555
+Sr0 Sr5 4.066767 1_455
+Sr0 Sr5 4.066767 1_454
+Sr0 Sr4 4.066775 1_554
+Sr0 Sr4 4.066775 1_555
+Sr0 Tb1 4.069232 1_455
+Sr0 Tb1 4.069248 1_555
+Sr0 Sr1 4.192685 1_445
+Sr0 Sr2 4.192686 1_545
+Sr1 Sr2 3.944533 1_555
+Sr1 Tb0 3.983155 1_554
+Sr1 Tb0 3.983155 1_555
+Sr1 Sr5 4.066767 1_564
+Sr1 Sr5 4.066767 1_565
+Sr1 Sr3 4.066775 1_554
+Sr1 Sr3 4.066775 1_555
+Sr1 Tb1 4.069232 1_565
+Sr1 Tb1 4.069248 1_555
+Sr1 Sr2 4.192686 1_655
+Sr2 Tb0 3.983155 1_554
+Sr2 Tb0 3.983155 1_555
+Sr2 Sr4 4.066767 1_564
+Sr2 Sr3 4.066767 1_454
+Sr2 Sr4 4.066767 1_565
+Sr2 Sr3 4.066767 1_455
+Sr2 Tb1 4.069239 1_565
+Sr2 Tb1 4.069239 1_455
+Sr3 Sr4 3.944533 1_555
+Sr3 Sr5 3.944533 1_555
+Sr3 Tb1 3.983155 1_556
+Sr3 Tb1 3.983155 1_555
+Sr3 Tb0 4.069232 1_655
+Sr3 Tb0 4.069248 1_555
+Sr3 Sr4 4.192685 1_665
+Sr3 Sr5 4.192686 1_565
+Sr4 Sr5 3.944533 1_555
+Sr4 Tb1 3.983155 1_556
+Sr4 Tb1 3.983155 1_555
+Sr4 Tb0 4.069232 1_545
+Sr4 Tb0 4.069248 1_555
+Sr4 Sr5 4.192686 1_455
+Sr5 Tb1 3.983155 1_556
+Sr5 Tb1 3.983155 1_555
+Sr5 Tb0 4.069239 1_545
+Sr5 Tb0 4.069239 1_655

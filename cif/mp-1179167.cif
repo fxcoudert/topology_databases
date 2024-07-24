@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TeC4Se4(N4Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36702300
+_cell_length_b   7.87752170
+_cell_length_c   11.57253753
+_cell_angle_alpha   92.98793139
+_cell_angle_beta   102.54329890
+_cell_angle_gamma   97.63888774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeC4Se4(N4Cl)2
+_chemical_formula_sum   'Te1 C4 Se4 N8 Cl2'
+_cell_volume   471.69543091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.00000000  1
+  C  C0  1  0.84169300  0.75564300  0.28265600  1
+  C  C1  1  0.15830700  0.24435700  0.71734400  1
+  C  C2  1  0.52637800  0.31778600  0.34548700  1
+  C  C3  1  0.47362200  0.68221400  0.65451300  1
+  Se  Se0  1  0.99677300  0.68672700  0.12357200  1
+  Se  Se1  1  0.00322700  0.31327300  0.87642800  1
+  Se  Se2  1  0.54077600  0.06607300  0.09509100  1
+  Se  Se3  1  0.45922400  0.93392700  0.90490900  1
+  N  N0  1  0.68262300  0.68263600  0.17992800  1
+  N  N1  1  0.31737700  0.31736400  0.82007200  1
+  N  N2  1  0.09320500  0.79403000  0.28356900  1
+  N  N3  1  0.90679500  0.20597000  0.71643100  1
+  N  N4  1  0.34811800  0.27557300  0.25708800  1
+  N  N5  1  0.65188200  0.72442700  0.74291200  1
+  N  N6  1  0.70580300  0.35897200  0.43350800  1
+  N  N7  1  0.29419700  0.64102800  0.56649200  1
+  Cl  Cl0  1  0.72896700  0.79860000  0.40624400  1
+  Cl  Cl1  1  0.27103300  0.20140000  0.59375600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+C0 N2 1.341140 1_655
+C0 N0 1.352872 1_555
+C0 Cl0 1.704672 1_555
+C1 N3 1.341140 1_455
+C1 N1 1.352872 1_555
+C1 Cl1 1.704672 1_555
+C2 N6 1.235560 1_555
+C2 N4 1.235828 1_555
+C3 N7 1.235560 1_555
+C3 N5 1.235828 1_555
+Se0 Te0 2.915945 1_665
+Se1 Te0 2.915945 1_556
+Se2 Se3 2.311002 1_544
+Se2 Te0 2.838478 1_555
+Se2 Te0 3.002645 1_655
+Se3 Te0 2.838478 1_666
+Se3 Te0 3.002645 1_566
+N0 Se0 1.932489 1_555
+N1 Se1 1.932489 1_555
+N2 Se0 1.927426 1_455
+N3 Se1 1.927426 1_655

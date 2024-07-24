@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiCaSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90118957
+_cell_length_b   4.90118875
+_cell_length_c   10.84939601
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaSn
+_chemical_formula_sum   'Li3 Ca3 Sn3'
+_cell_volume   225.70394942
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.79956917  1
+  Li  Li1  1  0.66666700  0.33333300  0.49068370  1
+  Li  Li2  1  0.33333300  0.66666700  0.19293654  1
+  Ca  Ca0  1  0.00000000  -0.00000000  0.32811309  1
+  Ca  Ca1  1  0.00000000  -0.00000000  0.66182019  1
+  Ca  Ca2  1  0.00000000  -0.00000000  0.99579252  1
+  Sn  Sn0  1  0.33333300  0.66666700  0.49497135  1
+  Sn  Sn1  1  0.66666700  0.33333300  0.14095577  1
+  Sn  Sn2  1  0.66666700  0.33333300  0.85115767  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn2 2.884523 1_565
+Li0 Sn2 2.884523 1_455
+Li0 Sn2 2.884531 1_555
+Li0 Sn0 3.304702 1_555
+Li1 Sn0 2.830082 1_545
+Li1 Sn0 2.830083 1_655
+Li1 Sn0 2.830091 1_555
+Li2 Sn1 2.885351 1_565
+Li2 Sn1 2.885352 1_455
+Li2 Sn1 2.885360 1_555
+Li2 Sn0 3.276895 1_555
+Ca0 Li2 3.187173 1_545
+Ca0 Li2 3.187177 1_555
+Ca0 Li2 3.187177 1_445
+Ca0 Li1 3.334392 1_455
+Ca0 Li1 3.334395 1_445
+Ca0 Li1 3.334396 1_555
+Ca0 Sn0 3.359230 1_545
+Ca0 Sn0 3.359234 1_555
+Ca0 Sn0 3.359234 1_445
+Ca0 Sn1 3.482859 1_455
+Ca0 Sn1 3.482863 1_445
+Ca0 Sn1 3.482863 1_555
+Ca0 Ca2 3.605477 1_554
+Ca0 Ca1 3.620520 1_555
+Ca1 Li0 3.200111 1_545
+Ca1 Li0 3.200115 1_555
+Ca1 Li0 3.200115 1_445
+Ca1 Sn0 3.359175 1_545
+Ca1 Sn0 3.359179 1_555
+Ca1 Sn0 3.359179 1_445
+Ca1 Li1 3.384470 1_455
+Ca1 Li1 3.384474 1_445
+Ca1 Li1 3.384474 1_555
+Ca1 Sn2 3.496702 1_455
+Ca1 Sn2 3.496706 1_445
+Ca1 Sn2 3.496706 1_555
+Ca1 Ca2 3.623398 1_555
+Ca2 Sn2 3.235675 1_455
+Ca2 Sn2 3.235679 1_445
+Ca2 Sn2 3.235679 1_555
+Ca2 Sn1 3.238459 1_456
+Ca2 Sn1 3.238463 1_446
+Ca2 Sn1 3.238463 1_556
+Sn1 Sn2 3.144134 1_554

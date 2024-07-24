@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Na2MgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03746996
+_cell_length_b   5.03823214
+_cell_length_c   9.97509504
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99498257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgSn
+_chemical_formula_sum   'Na4 Mg2 Sn2'
+_cell_volume   219.26043571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66666662  0.33333424  0.07988905  1
+  Na  Na1  1  0.66666662  0.33333424  0.42011095  1
+  Na  Na2  1  0.33333338  0.66666576  0.57988905  1
+  Na  Na3  1  0.33333338  0.66666576  0.92011095  1
+  Mg  Mg0  1  0.99986307  0.99972714  0.25000000  1
+  Mg  Mg1  1  0.00013693  0.00027286  0.75000000  1
+  Sn  Sn0  1  0.33325767  0.66651533  0.25000000  1
+  Sn  Sn1  1  0.66674233  0.33348467  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sn1 3.290675 1_554
+Na0 Na3 3.316581 1_554
+Na0 Na3 3.316589 1_654
+Na0 Na3 3.316982 1_544
+Na0 Sn0 3.367044 1_555
+Na0 Sn0 3.367048 1_655
+Na0 Sn0 3.368287 1_545
+Na0 Na1 3.393746 1_555
+Na1 Sn1 3.290675 1_555
+Na1 Na2 3.316581 1_555
+Na1 Na2 3.316589 1_655
+Na1 Na2 3.316982 1_545
+Na1 Sn0 3.367044 1_555
+Na1 Sn0 3.367048 1_655
+Na1 Sn0 3.368287 1_545
+Na2 Sn0 3.290675 1_555
+Na2 Sn1 3.367044 1_555
+Na2 Sn1 3.367048 1_455
+Na2 Sn1 3.368287 1_565
+Na2 Na3 3.393746 1_555
+Na3 Sn0 3.290675 1_556
+Na3 Sn1 3.367044 1_555
+Na3 Sn1 3.367048 1_455
+Na3 Sn1 3.368287 1_565
+Mg0 Sn0 2.908264 1_555
+Mg0 Sn0 2.908268 1_655
+Mg0 Sn0 2.909502 1_665
+Mg0 Na0 3.366682 1_555
+Mg0 Na1 3.366682 1_555
+Mg0 Na0 3.367849 1_565
+Mg0 Na1 3.367849 1_565
+Mg0 Na1 3.367850 1_665
+Mg0 Na0 3.367850 1_665
+Mg1 Sn1 2.908264 1_555
+Mg1 Sn1 2.908268 1_455
+Mg1 Sn1 2.909502 1_445
+Mg1 Na3 3.366682 1_555
+Mg1 Na2 3.366682 1_555
+Mg1 Na2 3.367849 1_545
+Mg1 Na3 3.367849 1_545
+Mg1 Na2 3.367850 1_445
+Mg1 Na3 3.367850 1_445

@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_NbBr3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.87544428
+_cell_length_b   11.87544428
+_cell_length_c   3.93837323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbBr3O
+_chemical_formula_sum   'Nb4 Br12 O4'
+_cell_volume   555.41371962
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.12396329  0.37603671  0.20216658  1
+  Nb  Nb1  1  0.87603671  0.62396329  0.20216658  1
+  Nb  Nb2  1  0.37603671  0.87603671  0.79783342  1
+  Nb  Nb3  1  0.62396329  0.12396329  0.79783342  1
+  Br  Br0  1  0.60339779  0.89660221  0.73946915  1
+  Br  Br1  1  0.89660221  0.39660221  0.26053085  1
+  Br  Br2  1  0.39660221  0.10339779  0.73946915  1
+  Br  Br3  1  0.82850110  0.10291564  0.74712479  1
+  Br  Br4  1  0.10339779  0.60339779  0.26053085  1
+  Br  Br5  1  0.89708436  0.82850110  0.25287521  1
+  Br  Br6  1  0.17149890  0.89708436  0.74712479  1
+  Br  Br7  1  0.39708436  0.67149890  0.74712479  1
+  Br  Br8  1  0.67149890  0.60291564  0.25287521  1
+  Br  Br9  1  0.10291564  0.17149890  0.25287521  1
+  Br  Br10  1  0.32850110  0.39708436  0.25287521  1
+  Br  Br11  1  0.60291564  0.32850110  0.74712479  1
+  O  O0  1  0.88547262  0.61452738  0.74422145  1
+  O  O1  1  0.61452738  0.11452738  0.25577855  1
+  O  O2  1  0.11452738  0.38547262  0.74422145  1
+  O  O3  1  0.38547262  0.88547262  0.25577855  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 O2 1.810508 1_554
+Nb0 O2 2.140688 1_555
+Nb1 O0 1.810508 1_554
+Nb1 O0 2.140688 1_555
+Nb2 O3 1.810508 1_556
+Nb2 O3 2.140688 1_555
+Nb3 O1 1.810508 1_556
+Nb3 O1 2.140688 1_555
+Br0 Nb2 2.720764 1_555
+Br0 Nb3 2.720764 1_565
+Br1 Nb1 2.720764 1_555
+Br1 Nb0 2.720764 1_655
+Br2 Nb2 2.720764 1_545
+Br2 Nb3 2.720764 1_555
+Br3 Nb3 2.449957 1_555
+Br4 Nb1 2.720764 1_455
+Br4 Nb0 2.720764 1_555
+Br5 Nb1 2.449957 1_555
+Br6 Nb2 2.449957 1_555
+Br7 Nb2 2.449957 1_555
+Br8 Nb1 2.449957 1_555
+Br9 Nb0 2.449957 1_555
+Br10 Nb0 2.449957 1_555
+Br11 Nb3 2.449957 1_555

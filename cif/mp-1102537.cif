@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_NbVP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41151518
+_cell_length_b   6.40890264
+_cell_length_c   7.71269217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbVP
+_chemical_formula_sum   'Nb4 V4 P4'
+_cell_volume   168.63083103
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.75000000  0.46172785  0.66825744  1
+  Nb  Nb1  1  0.75000000  0.96172785  0.83174256  1
+  Nb  Nb2  1  0.25000000  0.53827215  0.33174256  1
+  Nb  Nb3  1  0.25000000  0.03827215  0.16825744  1
+  V  V0  1  0.75000000  0.36418659  0.05727309  1
+  V  V1  1  0.75000000  0.86418659  0.44272691  1
+  V  V2  1  0.25000000  0.63581341  0.94272691  1
+  V  V3  1  0.25000000  0.13581341  0.55727309  1
+  P  P0  1  0.75000000  0.73897109  0.13909912  1
+  P  P1  1  0.75000000  0.23897109  0.36090088  1
+  P  P2  1  0.25000000  0.26102891  0.86090088  1
+  P  P3  1  0.25000000  0.76102891  0.63909912  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 P3 2.576750 1_655
+Nb0 P3 2.576750 1_555
+Nb0 P2 2.602244 1_555
+Nb0 P2 2.602244 1_655
+Nb0 P1 2.767238 1_555
+Nb1 P2 2.576750 1_665
+Nb1 P2 2.576750 1_565
+Nb1 P3 2.602244 1_555
+Nb1 P3 2.602244 1_655
+Nb1 P0 2.767238 1_556
+Nb2 P1 2.576750 1_555
+Nb2 P1 2.576750 1_455
+Nb2 P0 2.602244 1_555
+Nb2 P0 2.602244 1_455
+Nb2 P3 2.767238 1_555
+Nb3 P0 2.576750 1_545
+Nb3 P0 2.576750 1_445
+Nb3 P1 2.602244 1_555
+Nb3 P1 2.602244 1_455
+Nb3 P2 2.767238 1_554
+P0 V2 2.374992 1_554
+P0 V2 2.374992 1_654
+P0 V1 2.475473 1_555
+P0 V0 2.483482 1_555
+P1 V3 2.374992 1_655
+P1 V3 2.374992 1_555
+P1 V0 2.475473 1_555
+P1 V1 2.483482 1_545
+P2 V0 2.374992 1_456
+P2 V0 2.374992 1_556
+P2 V3 2.475473 1_555
+P2 V2 2.483482 1_555
+P3 V1 2.374992 1_555
+P3 V1 2.374992 1_455
+P3 V2 2.475473 1_555
+P3 V3 2.483482 1_565

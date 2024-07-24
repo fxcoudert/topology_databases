@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_PrFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01693859
+_cell_length_b   4.11412113
+_cell_length_c   8.72197611
+_cell_angle_alpha   103.64160883
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrFeSi2
+_chemical_formula_sum   'Pr2 Fe2 Si4'
+_cell_volume   140.07465993
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.89202782  0.78405764  1
+  Pr  Pr1  1  0.75000000  0.10797218  0.21594236  1
+  Fe  Fe0  1  0.75000000  0.74940367  0.49880735  1
+  Fe  Fe1  1  0.25000000  0.25059633  0.50119265  1
+  Si  Si0  1  0.25000000  0.69074288  0.38148576  1
+  Si  Si1  1  0.75000000  0.30925712  0.61851424  1
+  Si  Si2  1  0.75000000  0.46212854  0.92425808  1
+  Si  Si3  1  0.25000000  0.53787146  0.07574192  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Si2 3.110878 1_455
+Pr0 Si2 3.110878 1_555
+Pr0 Si2 3.110881 1_465
+Pr0 Si2 3.110881 1_565
+Pr0 Si1 3.199096 1_555
+Pr0 Si1 3.199096 1_455
+Pr0 Si1 3.199101 1_565
+Pr0 Si1 3.199101 1_465
+Pr0 Si3 3.216165 1_556
+Pr0 Si3 3.216173 1_566
+Pr1 Si3 3.110878 1_655
+Pr1 Si3 3.110878 1_555
+Pr1 Si3 3.110881 1_545
+Pr1 Si3 3.110881 1_645
+Pr1 Si0 3.199096 1_555
+Pr1 Si0 3.199096 1_655
+Pr1 Si0 3.199101 1_645
+Pr1 Si0 3.199101 1_545
+Pr1 Si2 3.216165 1_554
+Pr1 Si2 3.216173 1_544
+Fe0 Si0 2.241160 1_655
+Fe0 Si0 2.241160 1_555
+Fe0 Si1 2.293680 1_555
+Fe0 Si1 2.293680 1_565
+Fe0 Pr0 3.143170 1_555
+Fe0 Pr0 3.143170 1_655
+Fe0 Pr1 3.159066 1_555
+Fe0 Pr1 3.159071 1_565
+Fe1 Si1 2.241160 1_455
+Fe1 Si1 2.241160 1_555
+Fe1 Si0 2.293680 1_555
+Fe1 Si0 2.293680 1_545
+Fe1 Pr1 3.143170 1_455
+Fe1 Pr1 3.143170 1_555
+Fe1 Pr0 3.159066 1_555
+Fe1 Pr0 3.159071 1_545
+Si0 Si3 2.591463 1_555
+Si1 Si2 2.591463 1_555
+Si2 Si3 2.383803 1_656
+Si2 Si3 2.383803 1_556

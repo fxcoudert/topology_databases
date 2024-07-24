@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_LiIn(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78873657
+_cell_length_b   6.78873657
+_cell_length_c   5.45186748
+_cell_angle_alpha   74.84488737
+_cell_angle_beta   74.84488737
+_cell_angle_gamma   85.53187642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn(SiO3)2
+_chemical_formula_sum   'Li2 In2 Si4 O12'
+_cell_volume   234.07467086
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75741400  0.24258600  0.75000000  1
+  Li  Li1  1  0.24258600  0.75741400  0.25000000  1
+  In  In0  1  0.10979600  0.89020400  0.75000000  1
+  In  In1  1  0.89020400  0.10979600  0.25000000  1
+  Si  Si0  1  0.61444500  0.78348800  0.78074500  1
+  Si  Si1  1  0.38555500  0.21651200  0.21925500  1
+  Si  Si2  1  0.78348800  0.61444500  0.28074600  1
+  Si  Si3  1  0.21651200  0.38555500  0.71925500  1
+  O  O0  1  0.33445100  0.36887000  0.95298600  1
+  O  O1  1  0.36887000  0.33445100  0.45298600  1
+  O  O2  1  0.66554900  0.63113000  0.04701400  1
+  O  O3  1  0.63113000  0.66554900  0.54701400  1
+  O  O4  1  0.96111700  0.79435000  0.16399300  1
+  O  O5  1  0.61525700  0.13200600  0.13120700  1
+  O  O6  1  0.03888300  0.20565100  0.83600700  1
+  O  O7  1  0.79435000  0.96111700  0.66399300  1
+  O  O8  1  0.20565000  0.03888300  0.33600700  1
+  O  O9  1  0.38474300  0.86799400  0.86879300  1
+  O  O10  1  0.13200600  0.61525700  0.63120700  1
+  O  O11  1  0.86799400  0.38474300  0.36879300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O11 2.015590 1_555
+Li0 O5 2.015590 1_556
+Li0 O7 2.065507 1_545
+Li0 O6 2.065507 1_655
+Li1 O10 2.015590 1_555
+Li1 O9 2.015590 1_554
+Li1 O8 2.065507 1_565
+Li1 O4 2.065507 1_455
+In0 O10 2.112657 1_555
+In0 O9 2.112657 1_555
+In0 O8 2.163254 1_565
+In0 O4 2.163254 1_456
+In0 O7 2.298680 1_455
+In0 O6 2.298687 1_565
+In1 O5 2.112657 1_555
+In1 O11 2.112657 1_555
+In1 O7 2.163254 1_545
+In1 O6 2.163255 1_654
+In1 O8 2.298680 1_655
+In1 O4 2.298680 1_545
+O0 Si1 1.649196 1_556
+O0 Si3 1.649698 1_555
+O1 Si3 1.649196 1_555
+O1 Si1 1.649698 1_555
+O2 Si0 1.649196 1_554
+O2 Si2 1.649703 1_555
+O3 Si2 1.649192 1_555
+O3 Si0 1.649698 1_555
+O4 Si2 1.665112 1_555
+O5 Si1 1.613829 1_555
+O6 Si3 1.665107 1_555
+O7 Si0 1.665112 1_555
+O8 Si1 1.665112 1_555
+O9 Si0 1.613829 1_555
+O10 Si3 1.613829 1_555
+O11 Si2 1.613828 1_555

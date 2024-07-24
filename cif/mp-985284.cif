@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Ce3Pa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50597781
+_cell_length_b   6.50597781
+_cell_length_c   5.66567800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Pa
+_chemical_formula_sum   'Ce6 Pa2'
+_cell_volume   207.68622075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.83024300  0.16975700  0.75000000  1
+  Ce  Ce1  1  0.33951500  0.16975700  0.75000000  1
+  Ce  Ce2  1  0.83024300  0.66048500  0.75000000  1
+  Ce  Ce3  1  0.16975700  0.83024300  0.25000000  1
+  Ce  Ce4  1  0.66048500  0.83024300  0.25000000  1
+  Ce  Ce5  1  0.16975700  0.33951500  0.25000000  1
+  Pa  Pa0  1  0.66666700  0.33333300  0.25000000  1
+  Pa  Pa1  1  0.33333300  0.66666700  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ce1 3.192665 1_555
+Ce0 Ce2 3.192665 1_555
+Ce0 Pa1 3.253175 1_545
+Ce0 Pa1 3.253175 1_655
+Ce0 Ce2 3.313312 1_545
+Ce0 Ce1 3.313312 1_655
+Ce0 Pa0 3.379746 1_556
+Ce0 Pa0 3.379746 1_555
+Ce0 Ce4 3.418232 1_545
+Ce0 Ce5 3.418232 1_656
+Ce0 Ce4 3.418232 1_546
+Ce0 Ce5 3.418232 1_655
+Ce1 Ce2 3.192666 1_555
+Ce1 Pa1 3.253169 1_545
+Ce1 Pa1 3.253182 1_555
+Ce1 Ce2 3.313312 1_445
+Ce1 Pa0 3.379746 1_556
+Ce1 Pa0 3.379746 1_555
+Ce1 Ce3 3.418232 1_546
+Ce1 Ce3 3.418232 1_545
+Ce1 Ce5 3.418238 1_555
+Ce1 Ce5 3.418238 1_556
+Ce2 Pa1 3.253169 1_655
+Ce2 Pa1 3.253182 1_555
+Ce2 Pa0 3.379746 1_556
+Ce2 Pa0 3.379746 1_555
+Ce2 Ce3 3.418232 1_655
+Ce2 Ce3 3.418232 1_656
+Ce2 Ce4 3.418238 1_555
+Ce2 Ce4 3.418238 1_556
+Ce3 Ce5 3.192665 1_555
+Ce3 Ce4 3.192665 1_555
+Ce3 Pa0 3.253175 1_455
+Ce3 Pa0 3.253175 1_565
+Ce3 Ce4 3.313312 1_455
+Ce3 Ce5 3.313312 1_565
+Ce3 Pa1 3.379746 1_554
+Ce3 Pa1 3.379746 1_555
+Ce4 Ce5 3.192666 1_555
+Ce4 Pa0 3.253169 1_565
+Ce4 Pa0 3.253182 1_555
+Ce4 Ce5 3.313312 1_665
+Ce4 Pa1 3.379746 1_555
+Ce4 Pa1 3.379746 1_554
+Ce5 Pa0 3.253169 1_455
+Ce5 Pa0 3.253182 1_555
+Ce5 Pa1 3.379746 1_555
+Ce5 Pa1 3.379746 1_554

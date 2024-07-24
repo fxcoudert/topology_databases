@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Na2PdS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55543822
+_cell_length_b   5.44190079
+_cell_length_c   10.85656389
+_cell_angle_alpha   89.99999526
+_cell_angle_beta   90.00000228
+_cell_angle_gamma   109.08167359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PdS2
+_chemical_formula_sum   'Na4 Pd2 S4'
+_cell_volume   198.51464713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43042903  0.86352415  0.87584891  1
+  Na  Na1  1  0.56957107  0.13647577  0.37584903  1
+  Na  Na2  1  0.82690382  0.65475766  0.58751496  1
+  Na  Na3  1  0.17309606  0.34524234  0.08751498  1
+  Pd  Pd0  1  0.13300758  0.26780251  0.75159712  1
+  Pd  Pd1  1  0.86699246  0.73219756  0.25159705  1
+  S  S0  1  0.54595174  0.09317230  0.63406671  1
+  S  S1  1  0.45404826  0.90682775  0.13406665  1
+  S  S2  1  0.71908180  0.43927893  0.87097330  1
+  S  S3  1  0.28091819  0.56072105  0.37097330  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S1 2.812198 1_556
+Na0 S2 2.812783 1_455
+Na0 S2 2.816975 1_555
+Na0 S0 2.878388 1_565
+Na0 S2 2.961516 1_565
+Na0 Pd0 3.049458 1_565
+Na0 Pd0 3.050655 1_665
+Na1 S0 2.812197 1_555
+Na1 S3 2.812783 1_655
+Na1 S3 2.816975 1_555
+Na1 S1 2.878390 1_545
+Na1 S3 2.961516 1_545
+Na1 Pd1 3.049458 1_545
+Na1 Pd1 3.050656 1_445
+Na2 S0 2.914683 1_665
+Na2 S0 2.916082 1_565
+Na2 S0 2.932055 1_555
+Na2 S3 2.984529 1_555
+Na2 S3 2.989048 1_655
+Na2 Pd0 3.207874 1_655
+Na2 Pd0 3.208956 1_555
+Na2 S2 3.270835 1_555
+Na3 S1 2.914683 1_445
+Na3 S1 2.916082 1_545
+Na3 S1 2.932056 1_555
+Na3 S2 2.984530 1_554
+Na3 S2 2.989048 1_454
+Na3 Pd1 3.207873 1_455
+Na3 Pd1 3.208956 1_555
+Na3 S3 3.270834 1_555
+Pd0 S0 2.364507 1_455
+Pd0 S0 2.366240 1_555
+Pd0 S2 2.369435 1_455
+Pd0 S2 2.370886 1_555
+Pd1 S1 2.364507 1_655
+Pd1 S1 2.366240 1_555
+Pd1 S3 2.369435 1_655
+Pd1 S3 2.370887 1_555

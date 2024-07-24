@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu2SeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71607972
+_cell_length_b   3.71607972
+_cell_length_c   6.64683631
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2SeO2
+_chemical_formula_sum   'Lu2 Se1 O2'
+_cell_volume   79.49058169
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.33333300  0.66666700  0.29320408  1
+  Lu  Lu1  1  0.66666700  0.33333300  0.70679592  1
+  Se  Se0  1  0.00000000  -0.00000000  0.00000000  1
+  O  O0  1  0.33333300  0.66666700  0.62510293  1
+  O  O1  1  0.66666700  0.33333300  0.37489707  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O0 2.206077 1_555
+Lu0 O1 2.213125 1_455
+Lu0 O1 2.213125 1_565
+Lu0 O1 2.213131 1_555
+Lu0 Se0 2.898483 1_565
+Lu0 Se0 2.898486 1_555
+Lu0 Se0 2.898486 1_665
+Lu1 O1 2.206077 1_555
+Lu1 O0 2.213125 1_545
+Lu1 O0 2.213125 1_655
+Lu1 O0 2.213131 1_555
+Lu1 Se0 2.898483 1_656
+Lu1 Se0 2.898486 1_556
+Lu1 Se0 2.898486 1_666

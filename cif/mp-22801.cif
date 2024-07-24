@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_LuSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16116007
+_cell_length_b   6.70392467
+_cell_length_c   7.32744018
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiRh
+_chemical_formula_sum   'Lu4 Si4 Rh4'
+_cell_volume   204.40703074
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.25000000  0.00238845  0.19150198  1
+  Lu  Lu1  1  0.75000000  0.99761155  0.80849802  1
+  Lu  Lu2  1  0.25000000  0.50238845  0.30849802  1
+  Lu  Lu3  1  0.75000000  0.49761155  0.69150198  1
+  Si  Si0  1  0.25000000  0.29251314  0.89181472  1
+  Si  Si1  1  0.75000000  0.70748686  0.10818528  1
+  Si  Si2  1  0.25000000  0.79251314  0.60818528  1
+  Si  Si3  1  0.75000000  0.20748686  0.39181472  1
+  Rh  Rh0  1  0.75000000  0.84500676  0.43437142  1
+  Rh  Rh1  1  0.25000000  0.15499324  0.56562858  1
+  Rh  Rh2  1  0.75000000  0.34500676  0.06562858  1
+  Rh  Rh3  1  0.25000000  0.65499324  0.93437142  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Si3 2.893738 1_455
+Lu0 Si3 2.893738 1_555
+Lu0 Rh1 2.926065 1_555
+Lu0 Si0 2.933441 1_554
+Lu0 Rh0 2.934112 1_545
+Lu0 Rh0 2.934112 1_445
+Lu0 Si1 2.934287 1_445
+Lu0 Si1 2.934287 1_545
+Lu0 Rh3 2.995612 1_544
+Lu0 Rh2 3.233450 1_555
+Lu0 Rh2 3.233450 1_455
+Lu1 Si2 2.893738 1_555
+Lu1 Si2 2.893738 1_655
+Lu1 Rh0 2.926065 1_555
+Lu1 Si1 2.933441 1_556
+Lu1 Rh1 2.934112 1_565
+Lu1 Rh1 2.934112 1_665
+Lu1 Si0 2.934287 1_565
+Lu1 Si0 2.934287 1_665
+Lu1 Rh2 2.995612 1_566
+Lu1 Rh3 3.233450 1_655
+Lu1 Rh3 3.233450 1_555
+Lu2 Si1 2.893738 1_455
+Lu2 Si1 2.893738 1_555
+Lu2 Rh3 2.926065 1_554
+Lu2 Si2 2.933441 1_555
+Lu2 Rh2 2.934112 1_455
+Lu2 Rh2 2.934112 1_555
+Lu2 Si3 2.934287 1_555
+Lu2 Si3 2.934287 1_455
+Lu2 Rh1 2.995612 1_555
+Lu2 Rh0 3.233450 1_555
+Lu2 Rh0 3.233450 1_455
+Lu3 Si0 2.893738 1_555
+Lu3 Si0 2.893738 1_655
+Lu3 Rh2 2.926065 1_556
+Lu3 Si3 2.933441 1_555
+Lu3 Rh3 2.934112 1_655
+Lu3 Rh3 2.934112 1_555
+Lu3 Si2 2.934287 1_555
+Lu3 Si2 2.934287 1_655
+Lu3 Rh0 2.995612 1_555
+Lu3 Rh1 3.233450 1_555
+Lu3 Rh1 3.233450 1_655
+Rh0 Si3 2.449965 1_565
+Rh0 Si2 2.464699 1_655
+Rh0 Si2 2.464699 1_555
+Rh0 Si1 2.561750 1_555
+Rh1 Si2 2.449965 1_545
+Rh1 Si3 2.464699 1_555
+Rh1 Si3 2.464699 1_455
+Rh1 Si0 2.561750 1_555
+Rh2 Si1 2.449965 1_555
+Rh2 Si0 2.464699 1_654
+Rh2 Si0 2.464699 1_554
+Rh2 Si3 2.561750 1_555
+Rh3 Si0 2.449965 1_555
+Rh3 Si1 2.464699 1_556
+Rh3 Si1 2.464699 1_456
+Rh3 Si2 2.561750 1_555

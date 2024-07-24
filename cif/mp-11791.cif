@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_CeCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52573796
+_cell_length_b   6.78999334
+_cell_length_c   7.20311862
+_cell_angle_alpha   82.87247427
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCuSe2
+_chemical_formula_sum   'Ce4 Cu4 Se8'
+_cell_volume   365.23293903
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.54885795  0.30905435  0.30082610  1
+  Ce  Ce1  1  0.04885795  0.69094565  0.19917390  1
+  Ce  Ce2  1  0.45114205  0.69094565  0.69917390  1
+  Ce  Ce3  1  0.95114205  0.30905435  0.80082610  1
+  Cu  Cu0  1  0.84034115  0.93603652  0.54387949  1
+  Cu  Cu1  1  0.15965885  0.06396348  0.45612051  1
+  Cu  Cu2  1  0.65965885  0.93603652  0.04387949  1
+  Cu  Cu3  1  0.34034115  0.06396348  0.95612051  1
+  Se  Se0  1  0.72438505  0.59038386  0.00232266  1
+  Se  Se1  1  0.77561495  0.59038386  0.50232266  1
+  Se  Se2  1  0.22438505  0.40961614  0.49767734  1
+  Se  Se3  1  0.27561495  0.40961614  -0.00232266  1
+  Se  Se4  1  0.61370696  0.09422073  0.72027477  1
+  Se  Se5  1  0.11370696  0.90577927  0.77972523  1
+  Se  Se6  1  0.38629304  0.90577927  0.27972523  1
+  Se  Se7  1  0.88629304  0.09422073  0.22027477  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Se2 2.946171 1_555
+Ce0 Se0 2.999641 1_555
+Ce0 Se3 3.015462 1_555
+Ce0 Se6 3.020111 1_545
+Ce0 Se7 3.020488 1_555
+Ce0 Se1 3.058715 1_555
+Ce0 Se4 3.225032 1_555
+Ce1 Se0 2.946171 1_455
+Ce1 Se2 2.999641 1_555
+Ce1 Se1 3.015462 1_455
+Ce1 Se7 3.020111 1_465
+Ce1 Se6 3.020488 1_555
+Ce1 Se3 3.058715 1_555
+Ce1 Se5 3.225032 1_554
+Ce2 Se1 2.946171 1_555
+Ce2 Se3 2.999641 1_556
+Ce2 Se0 3.015462 1_556
+Ce2 Se4 3.020111 1_565
+Ce2 Se5 3.020488 1_555
+Ce2 Se2 3.058715 1_555
+Ce2 Se6 3.225032 1_555
+Ce3 Se3 2.946171 1_656
+Ce3 Se1 2.999641 1_555
+Ce3 Se2 3.015462 1_655
+Ce3 Se5 3.020111 1_645
+Ce3 Se4 3.020488 1_555
+Ce3 Se0 3.058715 1_556
+Ce3 Se7 3.225032 1_556
+Cu0 Se1 2.451435 1_555
+Cu0 Se4 2.452700 1_565
+Cu0 Se7 2.466844 1_565
+Cu0 Se5 2.659700 1_655
+Cu1 Se2 2.451435 1_555
+Cu1 Se6 2.452700 1_545
+Cu1 Se5 2.466844 1_545
+Cu1 Se7 2.659700 1_455
+Cu2 Se0 2.451435 1_555
+Cu2 Se7 2.452700 1_565
+Cu2 Se4 2.466844 1_564
+Cu2 Se6 2.659700 1_555
+Cu3 Se3 2.451435 1_556
+Cu3 Se5 2.452700 1_545
+Cu3 Se6 2.466844 1_546
+Cu3 Se4 2.659700 1_555

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_SnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62379122
+_cell_length_b   6.62379053
+_cell_length_c   6.39285790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.78071461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnBi
+_chemical_formula_sum   'Sn4 Bi4'
+_cell_volume   238.43113922
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.33236751  0.33236751  0.83147945  1
+  Sn  Sn1  1  0.66763249  0.66763249  0.16852055  1
+  Sn  Sn2  1  0.83236751  0.83236751  0.66852055  1
+  Sn  Sn3  1  0.16763249  0.16763249  0.33147945  1
+  Bi  Bi0  1  0.19617358  0.80382642  0.00000000  1
+  Bi  Bi1  1  0.69617358  0.30382642  0.50000000  1
+  Bi  Bi2  1  0.30382642  0.69617358  0.50000000  1
+  Bi  Bi3  1  0.80382642  0.19617358  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sn0 Sn1 3.051412 1_556
+Sn0 Sn3 3.368130 1_555
+Sn0 Sn3 3.368130 1_556
+Sn0 Sn2 3.386574 1_445
+Sn0 Sn2 3.386574 1_555
+Sn1 Sn2 3.368130 1_555
+Sn1 Sn2 3.368130 1_554
+Sn1 Sn3 3.386574 1_665
+Sn1 Sn3 3.386574 1_555
+Sn2 Sn3 3.051412 1_665
+Bi0 Sn3 3.288345 1_565
+Bi0 Sn2 3.288345 1_454
+Bi0 Sn0 3.302172 1_564
+Bi0 Sn1 3.302173 1_455
+Bi0 Bi2 3.430698 1_555
+Bi0 Bi2 3.430698 1_554
+Bi0 Bi3 3.454869 1_455
+Bi0 Bi3 3.454869 1_565
+Bi1 Sn1 3.288345 1_555
+Bi1 Sn0 3.288345 1_555
+Bi1 Sn2 3.302172 1_555
+Bi1 Sn3 3.302173 1_555
+Bi1 Bi3 3.430698 1_555
+Bi1 Bi3 3.430698 1_556
+Bi1 Bi2 3.454869 1_545
+Bi1 Bi2 3.454869 1_655
+Bi2 Sn0 3.288345 1_555
+Bi2 Sn1 3.288345 1_555
+Bi2 Sn3 3.302172 1_555
+Bi2 Sn2 3.302173 1_555
+Bi3 Sn2 3.288345 1_544
+Bi3 Sn3 3.288345 1_655
+Bi3 Sn1 3.302172 1_545
+Bi3 Sn0 3.302173 1_654

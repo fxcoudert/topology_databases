@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_MgMnRe2(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99348173
+_cell_length_b   5.75458305
+_cell_length_c   8.09908991
+_cell_angle_alpha   110.80566699
+_cell_angle_beta   107.71092136
+_cell_angle_gamma   89.98709938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMnRe2(HO5)2
+_chemical_formula_sum   'Mg1 Mn1 Re2 H2 O10'
+_cell_volume   246.91531432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn0  1  0.00000000  0.50000000  0.00000000  1
+  Re  Re0  1  0.81944400  0.14261500  0.28537300  1
+  Re  Re1  1  0.18055600  0.85738500  0.71462700  1
+  H  H0  1  0.62241800  0.34182600  0.68361400  1
+  H  H1  1  0.37758200  0.65817400  0.31638600  1
+  O  O0  1  0.78308800  0.81829800  0.14116700  1
+  O  O1  1  0.78304300  0.32253500  0.14106800  1
+  O  O2  1  0.21691200  0.18170200  0.85883300  1
+  O  O3  1  0.21695700  0.67746500  0.85893200  1
+  O  O4  1  0.61028200  0.19878100  0.39759900  1
+  O  O5  1  0.38971800  0.80121900  0.60240200  1
+  O  O6  1  0.09886100  0.22487100  0.44997100  1
+  O  O7  1  0.90113900  0.77512900  0.55002900  1
+  O  O8  1  0.67214100  0.40972500  0.81929200  1
+  O  O9  1  0.32785900  0.59027500  0.18070800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O8 1.963346 1_554
+Mg0 O9 1.963346 1_555
+Mg0 O2 2.207796 1_554
+Mg0 O0 2.207796 1_555
+Mg0 O3 2.207929 1_554
+Mg0 O1 2.207929 1_555
+Mn0 O9 1.995928 1_555
+Mn0 O8 1.995928 1_454
+Mn0 O2 2.401654 1_554
+Mn0 O0 2.401654 1_455
+Mn0 O3 2.402609 1_554
+Mn0 O1 2.402609 1_455
+H0 O8 0.971999 1_555
+H1 O9 0.971999 1_555
+O0 Re0 1.786486 1_565
+O1 Re0 1.786035 1_555
+O2 Re1 1.786486 1_545
+O3 Re1 1.786035 1_555
+O4 Re0 1.728161 1_555
+O5 Re1 1.728155 1_555
+O6 Re0 1.731910 1_455
+O7 Re1 1.731910 1_655

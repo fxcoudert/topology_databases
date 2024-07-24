@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_YSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28156320
+_cell_length_b   7.00880457
+_cell_length_c   7.44169338
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSiPt
+_chemical_formula_sum   'Y4 Si4 Pt4'
+_cell_volume   223.31509557
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.25000000  0.99727189  0.29869657  1
+  Y  Y1  1  0.25000000  0.49727189  0.20130343  1
+  Y  Y2  1  0.75000000  0.00272811  0.70130343  1
+  Y  Y3  1  0.75000000  0.50272811  0.79869657  1
+  Si  Si0  1  0.25000000  0.31324989  0.58703050  1
+  Si  Si1  1  0.25000000  0.81324989  0.91296950  1
+  Si  Si2  1  0.75000000  0.68675011  0.41296950  1
+  Si  Si3  1  0.75000000  0.18675011  0.08703050  1
+  Pt  Pt0  1  0.25000000  0.19914440  0.91540881  1
+  Pt  Pt1  1  0.25000000  0.69914440  0.58459119  1
+  Pt  Pt2  1  0.75000000  0.80085560  0.08459119  1
+  Pt  Pt3  1  0.75000000  0.30085560  0.41540881  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Y3 2.971142 1_555
+Si0 Y3 2.971142 1_455
+Si0 Y0 3.083598 1_545
+Si0 Y1 3.146915 1_555
+Si0 Y2 3.169031 1_455
+Si0 Y2 3.169031 1_555
+Si1 Y2 2.971142 1_465
+Si1 Y2 2.971142 1_565
+Si1 Y1 3.083598 1_556
+Si1 Y0 3.146915 1_556
+Si1 Y3 3.169031 1_555
+Si1 Y3 3.169031 1_455
+Si2 Y1 2.971142 1_555
+Si2 Y1 2.971142 1_655
+Si2 Y2 3.083598 1_565
+Si2 Y3 3.146915 1_555
+Si2 Y0 3.169031 1_555
+Si2 Y0 3.169031 1_655
+Si3 Y0 2.971142 1_545
+Si3 Y0 2.971142 1_645
+Si3 Y3 3.083598 1_554
+Si3 Y2 3.146915 1_554
+Si3 Y1 3.169031 1_555
+Si3 Y1 3.169031 1_655
+Pt0 Si3 2.494317 1_556
+Pt0 Si3 2.494317 1_456
+Pt0 Si0 2.571228 1_555
+Pt0 Si1 2.704720 1_545
+Pt0 Y1 2.982031 1_556
+Pt0 Y2 3.002785 1_455
+Pt0 Y2 3.002785 1_555
+Pt0 Y3 3.140806 1_555
+Pt0 Y3 3.140806 1_455
+Pt0 Y0 3.183955 1_546
+Pt1 Si2 2.494317 1_455
+Pt1 Si2 2.494317 1_555
+Pt1 Si1 2.571228 1_555
+Pt1 Si0 2.704720 1_555
+Pt1 Y0 2.982031 1_555
+Pt1 Y3 3.002785 1_555
+Pt1 Y3 3.002785 1_455
+Pt1 Y2 3.140806 1_465
+Pt1 Y2 3.140806 1_565
+Pt1 Y1 3.183955 1_555
+Pt2 Si1 2.494317 1_654
+Pt2 Si1 2.494317 1_554
+Pt2 Si2 2.571228 1_555
+Pt2 Si3 2.704720 1_565
+Pt2 Y3 2.982031 1_554
+Pt2 Y0 3.002785 1_555
+Pt2 Y0 3.002785 1_655
+Pt2 Y1 3.140806 1_555
+Pt2 Y1 3.140806 1_655
+Pt2 Y2 3.183955 1_564
+Pt3 Si0 2.494317 1_655
+Pt3 Si0 2.494317 1_555
+Pt3 Si3 2.571228 1_555
+Pt3 Si2 2.704720 1_555
+Pt3 Y2 2.982031 1_555
+Pt3 Y1 3.002785 1_655
+Pt3 Y1 3.002785 1_555
+Pt3 Y0 3.140806 1_545
+Pt3 Y0 3.140806 1_645
+Pt3 Y3 3.183955 1_555

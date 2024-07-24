@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TeAsOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36628100
+_cell_length_b   6.41424797
+_cell_length_c   6.53383202
+_cell_angle_alpha   113.35990872
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeAsOs
+_chemical_formula_sum   'Te4 As4 Os4'
+_cell_volume   244.93873659
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.62955100  0.83837800  0.68852000  1
+  Te  Te1  1  0.37044900  0.16162200  0.31148000  1
+  Te  Te2  1  0.12955100  0.16162200  0.81148000  1
+  Te  Te3  1  0.87044900  0.83837800  0.18852000  1
+  As  As0  1  0.36357200  0.63946200  0.88878100  1
+  As  As1  1  0.63642800  0.36053800  0.11121900  1
+  As  As2  1  0.86357200  0.36053800  0.61121900  1
+  As  As3  1  0.13642800  0.63946200  0.38878100  1
+  Os  Os0  1  0.01026300  0.76297200  0.79046900  1
+  Os  Os1  1  0.98973700  0.23702800  0.20953100  1
+  Os  Os2  1  0.51026300  0.23702800  0.70953100  1
+  Os  Os3  1  0.48973700  0.76297200  0.29046900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Os0 2.550094 1_555
+As0 Os2 2.551381 1_555
+As0 Os3 2.551904 1_556
+As0 Te0 2.744299 1_555
+As1 Os1 2.550094 1_555
+As1 Os3 2.551381 1_555
+As1 Os2 2.551904 1_554
+As1 Te1 2.744299 1_555
+As2 Os2 2.550094 1_555
+As2 Os0 2.551381 1_655
+As2 Os1 2.551904 1_555
+As2 Te2 2.744299 1_655
+As3 Os3 2.550094 1_555
+As3 Os1 2.551381 1_455
+As3 Os0 2.551904 1_555
+As3 Te3 2.744299 1_455
+Os0 Te3 2.606301 1_456
+Os0 Te0 2.609131 1_455
+Os0 Te2 2.618328 1_565
+Os1 Te2 2.606301 1_654
+Os1 Te1 2.609131 1_655
+Os1 Te3 2.618328 1_545
+Os2 Te1 2.606301 1_555
+Os2 Te2 2.609131 1_555
+Os2 Te0 2.618328 1_545
+Os3 Te0 2.606301 1_555
+Os3 Te3 2.609131 1_555
+Os3 Te1 2.618328 1_565

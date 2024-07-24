@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Cs2Mg(ReO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00768226
+_cell_length_b   6.67239559
+_cell_length_c   9.49314915
+_cell_angle_alpha   123.31852445
+_cell_angle_beta   108.44668586
+_cell_angle_gamma   89.99998881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Mg(ReO4)2
+_chemical_formula_sum   'Cs2 Mg1 Re2 O8'
+_cell_volume   294.31043677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.15592476  0.77992804  0.31184952  1
+  Cs  Cs1  1  0.84407524  0.22007196  0.68815048  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re0  1  0.38580286  0.66662515  0.77160573  1
+  Re  Re1  1  0.61419714  0.33337485  0.22839427  1
+  O  O0  1  0.66448485  0.17072406  0.32897069  1
+  O  O1  1  0.71309043  0.73513118  0.88229137  1
+  O  O2  1  0.16920094  0.73513118  0.88229137  1
+  O  O3  1  0.33551515  0.82927594  0.67102931  1
+  O  O4  1  0.31969790  0.33843300  0.63939480  1
+  O  O5  1  0.28690957  0.26486882  0.11770863  1
+  O  O6  1  0.83079906  0.26486882  0.11770863  1
+  O  O7  1  0.68030210  0.66156700  0.36060520  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 O3 3.055703 1_555
+Cs0 O5 3.128295 1_555
+Cs0 O6 3.128295 1_455
+Cs0 O4 3.139738 1_565
+Cs0 O7 3.200171 1_555
+Cs0 O7 3.200177 1_455
+Cs1 O0 3.055703 1_555
+Cs1 O1 3.128295 1_555
+Cs1 O2 3.128295 1_655
+Cs1 O7 3.139738 1_545
+Cs1 O4 3.200171 1_555
+Cs1 O4 3.200177 1_655
+Mg0 O6 1.988619 1_455
+Mg0 O2 1.988619 1_544
+Mg0 O1 1.988619 1_444
+Mg0 O5 1.988619 1_555
+O0 Re1 1.771020 1_555
+O1 Re0 1.828660 1_555
+O2 Re0 1.828660 1_555
+O3 Re0 1.771020 1_555
+O4 Re0 1.787034 1_555
+O5 Re1 1.828660 1_555
+O6 Re1 1.828660 1_555
+O7 Re1 1.787034 1_555

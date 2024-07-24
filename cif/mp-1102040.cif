@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_CaSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62387607
+_cell_length_b   7.37953147
+_cell_length_c   7.90536517
+_cell_angle_alpha   90.00431855
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnPt
+_chemical_formula_sum   'Ca4 Sn4 Pt4'
+_cell_volume   269.74717733
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.98205656  0.31200204  1
+  Ca  Ca1  1  0.25000000  0.48207829  0.18796567  1
+  Ca  Ca2  1  0.75000000  0.01794894  0.68799880  1
+  Ca  Ca3  1  0.75000000  0.51792196  0.81203192  1
+  Sn  Sn0  1  0.25000000  0.32989543  0.57745812  1
+  Sn  Sn1  1  0.25000000  0.82991760  0.92256973  1
+  Sn  Sn2  1  0.75000000  0.67010987  0.42254874  1
+  Sn  Sn3  1  0.75000000  0.17008568  0.07742792  1
+  Pt  Pt0  1  0.25000000  0.20680307  0.89897008  1
+  Pt  Pt1  1  0.25000000  0.70681737  0.60103955  1
+  Pt  Pt2  1  0.75000000  0.79319593  0.10102269  1
+  Pt  Pt3  1  0.75000000  0.29317031  0.39896373  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Pt1 3.057319 1_555
+Ca0 Pt2 3.173153 1_455
+Ca0 Pt2 3.173153 1_555
+Ca0 Sn3 3.272547 1_565
+Ca0 Sn3 3.272547 1_465
+Ca0 Sn1 3.276854 1_554
+Ca0 Sn0 3.315406 1_565
+Ca0 Pt3 3.329934 1_565
+Ca0 Pt3 3.329934 1_465
+Ca0 Sn2 3.377629 1_455
+Ca0 Sn2 3.377629 1_555
+Ca1 Pt0 3.057019 1_554
+Ca1 Pt3 3.173495 1_455
+Ca1 Pt3 3.173495 1_555
+Ca1 Sn2 3.272476 1_455
+Ca1 Sn2 3.272476 1_555
+Ca1 Sn0 3.277571 1_555
+Ca1 Sn1 3.315353 1_554
+Ca1 Pt2 3.329995 1_455
+Ca1 Pt2 3.329995 1_555
+Ca1 Sn3 3.377752 1_455
+Ca1 Sn3 3.377752 1_555
+Ca2 Pt3 3.057217 1_555
+Ca2 Pt0 3.173099 1_555
+Ca2 Pt0 3.173099 1_655
+Ca2 Sn1 3.272540 1_545
+Ca2 Sn1 3.272540 1_645
+Ca2 Sn3 3.276825 1_556
+Ca2 Sn2 3.315377 1_545
+Ca2 Pt1 3.330021 1_545
+Ca2 Pt1 3.330021 1_645
+Ca2 Sn0 3.377616 1_555
+Ca2 Sn0 3.377616 1_655
+Ca3 Pt2 3.056984 1_556
+Ca3 Pt1 3.173430 1_555
+Ca3 Pt1 3.173430 1_655
+Ca3 Sn0 3.272419 1_555
+Ca3 Sn0 3.272419 1_655
+Ca3 Sn2 3.277515 1_555
+Ca3 Sn3 3.315336 1_556
+Ca3 Pt0 3.329993 1_555
+Ca3 Pt0 3.329993 1_655
+Ca3 Sn1 3.377768 1_655
+Ca3 Sn1 3.377768 1_555
+Pt0 Sn0 2.699177 1_555
+Pt0 Sn3 2.721914 1_556
+Pt0 Sn3 2.721914 1_456
+Pt0 Sn1 2.787502 1_545
+Pt1 Sn1 2.699203 1_555
+Pt1 Sn2 2.722021 1_455
+Pt1 Sn2 2.722021 1_555
+Pt1 Sn0 2.787733 1_555
+Pt2 Sn2 2.699266 1_555
+Pt2 Sn1 2.721897 1_654
+Pt2 Sn1 2.721897 1_554
+Pt2 Sn3 2.787531 1_565
+Pt3 Sn3 2.699206 1_555
+Pt3 Sn0 2.722049 1_555
+Pt3 Sn0 2.722049 1_655
+Pt3 Sn2 2.787865 1_555

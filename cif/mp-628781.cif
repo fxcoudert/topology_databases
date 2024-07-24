@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_GeTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08965700
+_cell_length_b   11.14210200
+_cell_length_c   13.27400500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeTe
+_chemical_formula_sum   'Ge8 Te8'
+_cell_volume   604.86156941
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.51810800  0.11044600  0.72519000  1
+  Ge  Ge1  1  0.48189200  0.88955400  0.27481000  1
+  Ge  Ge2  1  0.01810800  0.88955400  0.72519000  1
+  Ge  Ge3  1  0.01810800  0.38955400  0.77481000  1
+  Ge  Ge4  1  0.98189200  0.11044600  0.27481000  1
+  Ge  Ge5  1  0.48189200  0.38955400  0.22519000  1
+  Ge  Ge6  1  0.51810800  0.61044600  0.77481000  1
+  Ge  Ge7  1  0.98189200  0.61044600  0.22519000  1
+  Te  Te0  1  0.48167900  0.65510300  0.36192400  1
+  Te  Te1  1  0.01832100  0.65510300  0.63807600  1
+  Te  Te2  1  0.51832100  0.84489700  0.86192400  1
+  Te  Te3  1  0.98167900  0.84489700  0.13807600  1
+  Te  Te4  1  0.51832100  0.34489700  0.63807600  1
+  Te  Te5  1  0.98167900  0.34489700  0.36192400  1
+  Te  Te6  1  0.01832100  0.15510300  0.86192400  1
+  Te  Te7  1  0.48167900  0.15510300  0.13807600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Te6 2.778416 1_555
+Ge0 Te6 2.779698 1_655
+Ge0 Te4 2.856771 1_555
+Ge1 Te3 2.778416 1_555
+Ge1 Te3 2.779698 1_455
+Ge1 Te0 2.856771 1_555
+Ge2 Te2 2.778416 1_455
+Ge2 Te2 2.779698 1_555
+Ge2 Te1 2.856771 1_555
+Ge3 Te4 2.778416 1_455
+Ge3 Te4 2.779698 1_555
+Ge3 Te6 2.856771 1_555
+Ge4 Te7 2.778416 1_655
+Ge4 Te7 2.779698 1_555
+Ge4 Te5 2.856771 1_555
+Ge5 Te5 2.778416 1_555
+Ge5 Te5 2.779698 1_455
+Ge5 Te7 2.856771 1_555
+Ge6 Te1 2.778416 1_555
+Ge6 Te1 2.779698 1_655
+Ge6 Te2 2.856771 1_555
+Ge7 Te0 2.778416 1_655
+Ge7 Te0 2.779698 1_555
+Ge7 Te3 2.856771 1_555

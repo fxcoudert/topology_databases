@@ -1,0 +1,120 @@
+# generated using pymatgen
+data_HfNbSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44878938
+_cell_length_b   5.44877046
+_cell_length_c   8.37611100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.85454170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNbSi
+_chemical_formula_sum   'Hf4 Nb4 Si4'
+_cell_volume   217.19370285
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33254900  0.33257500  0.55233400  1
+  Hf  Hf1  1  0.66326700  0.66326400  0.43806800  1
+  Hf  Hf2  1  0.66326700  0.66326400  0.06193200  1
+  Hf  Hf3  1  0.33254900  0.33257500  0.94766600  1
+  Nb  Nb0  1  0.00008400  0.00007400  0.47571800  1
+  Nb  Nb1  1  0.00008400  0.00007400  0.02428200  1
+  Nb  Nb2  1  0.83189000  0.33812700  0.75000000  1
+  Nb  Nb3  1  0.33814700  0.83186900  0.75000000  1
+  Si  Si0  1  0.83390300  0.83388900  0.75000000  1
+  Si  Si1  1  0.18793800  0.62964300  0.25000000  1
+  Si  Si2  1  0.62963800  0.18793900  0.25000000  1
+  Si  Si3  1  0.18668500  0.18670800  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Si3 2.879522 1_555
+Hf0 Si1 2.900266 1_555
+Hf0 Si2 2.900317 1_555
+Hf0 Nb2 3.178630 1_455
+Hf0 Nb3 3.178738 1_545
+Hf0 Nb0 3.189461 1_555
+Hf0 Nb3 3.197552 1_555
+Hf0 Nb2 3.197673 1_555
+Hf0 Si0 3.218021 1_455
+Hf0 Si0 3.218210 1_545
+Hf0 Nb0 3.240973 1_565
+Hf0 Nb0 3.241153 1_655
+Hf0 Hf1 3.251565 1_555
+Hf0 Hf3 3.311345 1_555
+Hf0 Hf1 3.325841 1_455
+Hf0 Hf1 3.325963 1_545
+Hf1 Nb3 3.037038 1_555
+Hf1 Nb2 3.037077 1_555
+Hf1 Si0 3.065512 1_555
+Hf1 Si2 3.112091 1_555
+Hf1 Si1 3.112097 1_555
+Hf1 Hf2 3.150557 1_555
+Hf1 Nb0 3.172630 1_565
+Hf1 Nb0 3.172653 1_655
+Hf1 Nb0 3.180598 1_665
+Hf1 Si3 3.185035 1_655
+Hf1 Si3 3.185157 1_565
+Hf1 Si2 3.190259 1_565
+Hf1 Si1 3.190266 1_655
+Hf2 Nb3 3.037038 1_554
+Hf2 Nb2 3.037077 1_554
+Hf2 Si0 3.065512 1_554
+Hf2 Si2 3.112091 1_555
+Hf2 Si1 3.112097 1_555
+Hf2 Nb1 3.172630 1_565
+Hf2 Nb1 3.172653 1_655
+Hf2 Nb1 3.180598 1_665
+Hf2 Si3 3.185035 1_655
+Hf2 Si3 3.185157 1_565
+Hf2 Si2 3.190259 1_565
+Hf2 Si1 3.190266 1_655
+Hf2 Hf3 3.251565 1_554
+Hf2 Hf3 3.325841 1_654
+Hf2 Hf3 3.325963 1_564
+Hf3 Si3 2.879522 1_556
+Hf3 Si1 2.900266 1_556
+Hf3 Si2 2.900317 1_556
+Hf3 Nb2 3.178630 1_455
+Hf3 Nb3 3.178738 1_545
+Hf3 Nb1 3.189461 1_556
+Hf3 Nb3 3.197552 1_555
+Hf3 Nb2 3.197673 1_555
+Hf3 Si0 3.218021 1_455
+Hf3 Si0 3.218210 1_545
+Hf3 Nb1 3.240973 1_566
+Hf3 Nb1 3.241153 1_656
+Nb0 Si3 2.578676 1_555
+Nb0 Si1 2.585296 1_545
+Nb0 Si2 2.585349 1_455
+Nb0 Si0 2.777879 1_445
+Nb0 Nb2 2.804743 1_455
+Nb0 Nb3 2.804774 1_545
+Nb1 Si3 2.578676 1_555
+Nb1 Si1 2.585296 1_545
+Nb1 Si2 2.585349 1_455
+Nb1 Si0 2.777879 1_444
+Nb1 Nb2 2.804743 1_454
+Nb1 Nb3 2.804774 1_544
+Nb2 Si0 2.706652 1_555
+Nb2 Nb3 2.724968 1_555
+Nb2 Si0 2.742152 1_545
+Nb2 Nb3 2.794038 1_645
+Nb3 Si0 2.706648 1_555
+Nb3 Si0 2.742176 1_455
+Si1 Si3 2.416784 1_555
+Si1 Si2 2.437756 1_555
+Si2 Si3 2.416831 1_555

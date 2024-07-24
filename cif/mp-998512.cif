@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_InPbCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07929679
+_cell_length_b   7.07929679
+_cell_length_c   10.65292620
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   144.79730391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InPbCl3
+_chemical_formula_sum   'In2 Pb2 Cl6'
+_cell_volume   307.77011515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.74867509  0.25132491  0.75000000  1
+  In  In1  1  0.25132491  0.74867509  0.25000000  1
+  Pb  Pb0  1  -0.00000000  0.00000000  0.50000000  1
+  Pb  Pb1  1  -0.00000000  0.00000000  0.00000000  1
+  Cl  Cl0  1  0.63955430  0.36044570  0.44615335  1
+  Cl  Cl1  1  0.36044570  0.63955430  0.94615335  1
+  Cl  Cl2  1  0.63955430  0.36044570  0.05384665  1
+  Cl  Cl3  1  0.36044570  0.63955430  0.55384665  1
+  Cl  Cl4  1  0.08274587  0.91725413  0.75000000  1
+  Cl  Cl5  1  0.91725413  0.08274587  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Pb0 2.908419 1_555
+Cl0 Pb0 2.908419 1_665
+Cl1 Pb1 2.908419 1_556
+Cl1 Pb1 2.908419 1_666
+Cl2 Pb1 2.908419 1_555
+Cl2 Pb1 2.908419 1_665
+Cl3 Pb0 2.908419 1_555
+Cl3 Pb0 2.908419 1_665
+Cl4 Pb1 2.887881 1_566
+Cl4 Pb0 2.887881 1_565
+Cl4 In0 3.097957 1_565
+Cl4 In0 3.097957 1_455
+Cl5 Pb0 2.887881 1_655
+Cl5 Pb1 2.887881 1_655
+Cl5 In1 3.097957 1_655
+Cl5 In1 3.097957 1_545

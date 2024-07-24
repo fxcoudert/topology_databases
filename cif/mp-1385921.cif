@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Ca2NiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94062766
+_cell_length_b   5.94062766
+_cell_length_c   6.75629514
+_cell_angle_alpha   61.06334675
+_cell_angle_beta   61.06334675
+_cell_angle_gamma   49.45761561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2NiN2
+_chemical_formula_sum   'Ca4 Ni2 N4'
+_cell_volume   153.34637340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.32168100  0.32168100  0.59626400  1
+  Ca  Ca1  1  0.67831900  0.67831900  0.40373600  1
+  Ca  Ca2  1  0.96032400  0.96032400  0.76655000  1
+  Ca  Ca3  1  0.03967600  0.03967600  0.23345000  1
+  Ni  Ni0  1  0.62647400  0.62647400  0.87595500  1
+  Ni  Ni1  1  0.37352600  0.37352600  0.12404500  1
+  N  N0  1  0.81500100  0.81500100  0.60972600  1
+  N  N1  1  0.18499900  0.18499900  0.39027400  1
+  N  N2  1  0.52762800  0.52762800  0.19667900  1
+  N  N3  1  0.47237200  0.47237200  0.80332100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 N2 2.415695 1_555
+Ca0 N0 2.486410 1_455
+Ca0 N0 2.486410 1_545
+Ca0 N1 2.509921 1_555
+Ca0 N3 2.650532 1_555
+Ca1 N3 2.415695 1_555
+Ca1 N1 2.486410 1_565
+Ca1 N1 2.486410 1_655
+Ca1 N0 2.509921 1_555
+Ca1 N2 2.650532 1_555
+Ca2 N0 2.313543 1_555
+Ca2 N1 2.403078 1_665
+Ca2 N3 2.507746 1_655
+Ca2 N3 2.507746 1_565
+Ca3 N1 2.313543 1_555
+Ca3 N0 2.403078 1_445
+Ca3 N2 2.507746 1_545
+Ca3 N2 2.507746 1_455
+N0 Ni0 1.864374 1_555
+N1 Ni1 1.864374 1_555
+N2 Ni0 1.835963 1_554
+N2 Ni1 1.968742 1_555
+N3 Ni1 1.835963 1_556
+N3 Ni0 1.968742 1_555

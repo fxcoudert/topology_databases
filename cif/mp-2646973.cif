@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H5PbCN2Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69551700
+_cell_length_b   5.98127900
+_cell_length_c   5.93554100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99998994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H5PbCN2Cl3
+_chemical_formula_sum   'H5 Pb1 C1 N2 Cl3'
+_cell_volume   202.20296637
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.75175600  0.28085700  0.50000000  1
+  H  H1  1  0.75175600  0.71914300  0.50000000  1
+  H  H2  1  0.27960300  0.50000000  0.50000000  1
+  H  H3  1  0.46743900  0.83079700  0.50000000  1
+  H  H4  1  0.46743900  0.16920300  0.50000000  1
+  Pb  Pb0  1  0.04494500  0.00000000  0.00000000  1
+  C  C0  1  0.47100000  0.49999900  0.50000000  1
+  N  N0  1  0.57462700  0.69508200  0.50000000  1
+  N  N1  1  0.57462700  0.30492000  0.50000000  1
+  Cl  Cl0  1  0.03047800  0.50000000  0.00000000  1
+  Cl  Cl1  1  0.53965300  0.00000000  0.00000000  1
+  Cl  Cl2  1  0.07816600  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 N1 1.019056 1_555
+H1 N0 1.019055 1_555
+H3 N0 1.015695 1_555
+H4 N1 1.015705 1_555
+C0 H2 1.090105 1_555
+C0 N1 1.307601 1_555
+C0 N0 1.307622 1_555
+Cl0 Pb0 2.991774 1_555
+Cl0 Pb0 2.991774 1_565
+Cl1 Pb0 2.817618 1_555
+Cl1 Pb0 2.877899 1_655
+Cl2 Pb0 2.973796 1_555
+Cl2 Pb0 2.973796 1_556

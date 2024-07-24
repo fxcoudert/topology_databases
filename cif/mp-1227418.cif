@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Bi3SbPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76659000
+_cell_length_b   6.76498200
+_cell_length_c   6.76829224
+_cell_angle_alpha   88.90489301
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3SbPt2
+_chemical_formula_sum   'Bi6 Sb2 Pt4'
+_cell_volume   309.76780503
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.12848600  0.12091300  0.62971900  1
+  Bi  Bi1  1  0.62848600  0.87908700  0.37028100  1
+  Bi  Bi2  1  0.12518600  0.87403400  0.12527900  1
+  Bi  Bi3  1  0.62518600  0.12596600  0.87472100  1
+  Bi  Bi4  1  0.87140600  0.38029200  0.37080400  1
+  Bi  Bi5  1  0.37140600  0.61970800  0.62919600  1
+  Sb  Sb0  1  0.87235000  0.62292800  0.87336800  1
+  Sb  Sb1  1  0.37235000  0.37707200  0.12663200  1
+  Pt  Pt0  1  0.49606600  0.25277600  0.48986400  1
+  Pt  Pt1  1  0.99606600  0.74722400  0.51013600  1
+  Pt  Pt2  1  0.50650600  0.73721700  0.00047900  1
+  Pt  Pt3  1  0.00650600  0.26278300  0.99952100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Pt0 2.801066 1_555
+Bi0 Pt1 2.815484 1_445
+Bi0 Pt3 2.821144 1_555
+Bi0 Bi4 3.009720 1_455
+Bi1 Pt1 2.801066 1_555
+Bi1 Pt0 2.815484 1_565
+Bi1 Pt2 2.821144 1_555
+Bi1 Bi5 3.009720 1_555
+Bi2 Pt1 2.863387 1_455
+Bi2 Pt3 2.863581 1_564
+Bi2 Pt2 2.873615 1_555
+Bi2 Sb0 2.971599 1_454
+Bi3 Pt0 2.863387 1_555
+Bi3 Pt2 2.863581 1_546
+Bi3 Pt3 2.873615 1_655
+Bi3 Sb1 2.971599 1_556
+Bi4 Pt0 2.795960 1_555
+Bi4 Pt1 2.802158 1_555
+Bi4 Pt3 2.803378 1_654
+Bi5 Pt1 2.795960 1_455
+Bi5 Pt0 2.802158 1_555
+Bi5 Pt2 2.803378 1_556
+Pt0 Sb1 2.715299 1_555
+Pt1 Sb0 2.715299 1_555
+Pt2 Sb1 2.722041 1_555
+Pt2 Sb0 2.737069 1_554
+Pt3 Sb0 2.722041 1_455
+Pt3 Sb1 2.737069 1_556

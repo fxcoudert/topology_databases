@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_BaZrP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95011394
+_cell_length_b   3.95011394
+_cell_length_c   15.36980400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZrP2
+_chemical_formula_sum   'Ba2 Zr2 P4'
+_cell_volume   207.69125513
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.50000000  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr0  1  0.00000000  0.00000000  0.25000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.75000000  1
+  P  P0  1  0.33333300  0.66666700  0.34924400  1
+  P  P1  1  0.66666700  0.33333300  0.84924400  1
+  P  P2  1  0.33333300  0.66666700  0.15075600  1
+  P  P3  1  0.66666700  0.33333300  0.65075600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 P3 3.251158 1_455
+Ba0 P0 3.251158 1_545
+Ba0 P0 3.251161 1_555
+Ba0 P3 3.251161 1_445
+Ba0 P0 3.251161 1_445
+Ba0 P3 3.251161 1_555
+Ba1 P1 3.251158 1_454
+Ba1 P2 3.251158 1_545
+Ba1 P2 3.251161 1_555
+Ba1 P1 3.251161 1_444
+Ba1 P1 3.251161 1_554
+Ba1 P2 3.251161 1_445
+P0 Zr0 2.743693 1_565
+P0 Zr0 2.743695 1_665
+P0 Zr0 2.743695 1_555
+P1 Zr1 2.743693 1_655
+P1 Zr1 2.743695 1_665
+P1 Zr1 2.743695 1_555
+P2 Zr0 2.743693 1_565
+P2 Zr0 2.743695 1_665
+P2 Zr0 2.743695 1_555
+P3 Zr1 2.743693 1_655
+P3 Zr1 2.743695 1_665
+P3 Zr1 2.743695 1_555

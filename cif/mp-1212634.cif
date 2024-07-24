@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_ErTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03546881
+_cell_length_b   7.47521143
+_cell_length_c   9.84893337
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTeAs
+_chemical_formula_sum   'Er4 Te4 As4'
+_cell_volume   297.10275241
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.25000000  0.73240826  0.84139868  1
+  Er  Er1  1  0.75000000  0.26759174  0.15860132  1
+  Er  Er2  1  0.75000000  0.76759174  0.34139868  1
+  Er  Er3  1  0.25000000  0.23240826  0.65860132  1
+  Te  Te0  1  0.25000000  0.58412089  0.14891104  1
+  Te  Te1  1  0.75000000  0.41587911  0.85108896  1
+  Te  Te2  1  0.75000000  0.91587911  0.64891104  1
+  Te  Te3  1  0.25000000  0.08412089  0.35108896  1
+  As  As0  1  0.25000000  0.59704949  0.53952743  1
+  As  As1  1  0.75000000  0.40295051  0.46047257  1
+  As  As2  1  0.75000000  0.90295051  0.03952743  1
+  As  As3  1  0.25000000  0.09704949  0.96047257  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Er0 Te2 3.089704 1_455
+Er0 Te2 3.089704 1_555
+Er0 Te1 3.111092 1_455
+Er0 Te1 3.111092 1_555
+Er0 Te0 3.225145 1_556
+Er1 Te3 3.089704 1_655
+Er1 Te3 3.089704 1_555
+Er1 Te0 3.111092 1_555
+Er1 Te0 3.111092 1_655
+Er1 Te1 3.225145 1_554
+Er2 Te0 3.089704 1_655
+Er2 Te0 3.089704 1_555
+Er2 Te3 3.111092 1_565
+Er2 Te3 3.111092 1_665
+Er2 Te2 3.225145 1_555
+Er3 Te1 3.089704 1_455
+Er3 Te1 3.089704 1_555
+Er3 Te2 3.111092 1_445
+Er3 Te2 3.111092 1_545
+Er3 Te3 3.225145 1_555
+As0 As1 2.604358 1_555
+As0 As1 2.604358 1_455
+As0 Er3 2.967350 1_555
+As0 Er2 3.082898 1_555
+As0 Er2 3.082898 1_455
+As0 Er0 3.140572 1_555
+As1 Er2 2.967350 1_555
+As1 Er3 3.082898 1_555
+As1 Er3 3.082898 1_655
+As1 Er1 3.140572 1_555
+As2 As3 2.604358 1_564
+As2 As3 2.604358 1_664
+As2 Er1 2.967350 1_565
+As2 Er0 3.082898 1_654
+As2 Er0 3.082898 1_554
+As2 Er2 3.140572 1_555
+As3 Er0 2.967350 1_545
+As3 Er1 3.082898 1_456
+As3 Er1 3.082898 1_556
+As3 Er3 3.140572 1_555

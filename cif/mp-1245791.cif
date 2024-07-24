@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_KNiN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41661800
+_cell_length_b   3.43212200
+_cell_length_c   6.06977700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNiN
+_chemical_formula_sum   'K4 Ni4 N4'
+_cell_volume   217.00122759
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.65823700  0.25000000  0.06961000  1
+  K  K1  1  0.15823700  0.25000000  0.43039000  1
+  K  K2  1  0.34176300  0.75000000  0.93039000  1
+  K  K3  1  0.84176300  0.75000000  0.56961000  1
+  Ni  Ni0  1  0.55505700  0.25000000  0.58625100  1
+  Ni  Ni1  1  0.05505700  0.25000000  0.91374900  1
+  Ni  Ni2  1  0.44494300  0.75000000  0.41374900  1
+  Ni  Ni3  1  0.94494300  0.75000000  0.08625100  1
+  N  N0  1  0.92793700  0.25000000  0.17234400  1
+  N  N1  1  0.42793700  0.25000000  0.32765600  1
+  N  N2  1  0.07206300  0.75000000  0.82765600  1
+  N  N3  1  0.57206300  0.75000000  0.67234400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N1 2.864993 1_555
+K0 N0 2.877735 1_555
+K0 N3 3.092745 1_544
+K0 N3 3.092745 1_554
+K1 N0 2.864993 1_455
+K1 N1 2.877735 1_555
+K1 N2 3.092745 1_545
+K1 N2 3.092745 1_555
+K2 N3 2.864993 1_555
+K2 N2 2.877735 1_555
+K2 N1 3.092745 1_566
+K2 N1 3.092745 1_556
+K3 N2 2.864993 1_655
+K3 N3 2.877735 1_555
+K3 N0 3.092745 1_565
+K3 N0 3.092745 1_555
+N0 Ni3 1.802587 1_545
+N0 Ni3 1.802587 1_555
+N0 Ni1 2.053555 1_654
+N1 Ni2 1.802587 1_545
+N1 Ni2 1.802587 1_555
+N1 Ni0 2.053555 1_555
+N2 Ni1 1.802587 1_565
+N2 Ni1 1.802587 1_555
+N2 Ni3 2.053555 1_456
+N3 Ni0 1.802587 1_555
+N3 Ni0 1.802587 1_565
+N3 Ni2 2.053555 1_555

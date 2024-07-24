@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_RbSnIO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38586036
+_cell_length_b   5.38586036
+_cell_length_c   12.73177200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSnIO6
+_chemical_formula_sum   'Rb2 Sn2 I2 O12'
+_cell_volume   319.83769265
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb1  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn0  1  0.66666700  0.33333300  0.25000000  1
+  Sn  Sn1  1  0.33333300  0.66666700  0.75000000  1
+  I  I0  1  0.33333300  0.66666700  0.25000000  1
+  I  I1  1  0.66666700  0.33333300  0.75000000  1
+  O  O0  1  0.02567000  0.39754600  0.33778900  1
+  O  O1  1  0.37187600  0.39754600  0.16221100  1
+  O  O2  1  0.62812400  0.02567000  0.83778900  1
+  O  O3  1  0.97433000  0.60245400  0.83778900  1
+  O  O4  1  0.60245400  0.97433000  0.16221100  1
+  O  O5  1  0.39754600  0.37187600  0.83778900  1
+  O  O6  1  0.39754600  0.02567000  0.66221100  1
+  O  O7  1  0.02567000  0.62812400  0.16221100  1
+  O  O8  1  0.60245400  0.62812400  0.33778900  1
+  O  O9  1  0.97433000  0.37187600  0.66221100  1
+  O  O10  1  0.62812400  0.60245400  0.66221100  1
+  O  O11  1  0.37187600  0.97433000  0.33778900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+I0 O7 1.922014 1_555
+I0 O11 1.922014 1_555
+I0 O0 1.922015 1_555
+I0 O4 1.922015 1_555
+I0 O1 1.922018 1_555
+I0 O8 1.922018 1_555
+I1 O9 1.922014 1_555
+I1 O2 1.922014 1_555
+I1 O3 1.922015 1_555
+I1 O6 1.922015 1_555
+I1 O5 1.922018 1_555
+I1 O10 1.922018 1_555
+O0 Sn0 2.106836 1_455
+O0 Rb1 2.927919 1_555
+O1 Sn0 2.106841 1_555
+O1 Rb0 2.927919 1_555
+O2 Sn1 2.106838 1_545
+O2 Rb0 2.927919 1_656
+O3 Sn1 2.106836 1_655
+O3 Rb0 2.927919 1_666
+O4 Sn0 2.106836 1_565
+O4 Rb0 2.927919 1_665
+O5 Sn1 2.106841 1_555
+O5 Rb0 2.927919 1_556
+O6 Sn1 2.106836 1_545
+O6 Rb1 2.927919 1_555
+O7 Sn0 2.106838 1_455
+O7 Rb0 2.927919 1_565
+O8 Sn0 2.106841 1_555
+O8 Rb1 2.927919 1_665
+O9 Sn1 2.106838 1_655
+O9 Rb1 2.927919 1_655
+O10 Sn1 2.106841 1_555
+O10 Rb1 2.927919 1_665
+O11 Sn0 2.106838 1_565
+O11 Rb1 2.927919 1_565

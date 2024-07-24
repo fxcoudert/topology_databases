@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LuSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27992853
+_cell_length_b   4.32534535
+_cell_length_c   8.41507617
+_cell_angle_alpha   104.89211358
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSn2
+_chemical_formula_sum   'Lu2 Sn4'
+_cell_volume   150.54884551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.10004023  0.20008046  1
+  Lu  Lu1  1  0.25000000  0.89995977  0.79991954  1
+  Sn  Sn0  1  0.75000000  0.43745307  0.87490613  1
+  Sn  Sn1  1  0.25000000  0.56254693  0.12509387  1
+  Sn  Sn2  1  0.75000000  0.74845054  0.49690308  1
+  Sn  Sn3  1  0.25000000  0.25154946  0.50309692  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Sn1 3.102980 1_555
+Lu0 Sn1 3.102980 1_655
+Lu0 Sn1 3.102980 1_645
+Lu0 Sn1 3.102980 1_545
+Lu0 Sn2 3.240986 1_555
+Lu0 Sn2 3.240992 1_545
+Lu0 Sn3 3.263743 1_655
+Lu0 Sn3 3.263743 1_555
+Lu0 Sn0 3.416182 1_544
+Lu0 Sn0 3.416182 1_554
+Lu1 Sn0 3.102980 1_455
+Lu1 Sn0 3.102980 1_555
+Lu1 Sn0 3.102980 1_565
+Lu1 Sn0 3.102980 1_465
+Lu1 Sn3 3.240986 1_555
+Lu1 Sn3 3.240992 1_565
+Lu1 Sn2 3.263743 1_455
+Lu1 Sn2 3.263743 1_555
+Lu1 Sn1 3.416182 1_566
+Lu1 Sn1 3.416182 1_556
+Sn0 Sn1 2.952826 1_556
+Sn0 Sn1 2.952826 1_656
+Sn2 Sn3 3.042877 1_655
+Sn2 Sn3 3.042877 1_555
+Sn2 Sn3 3.042889 1_665
+Sn2 Sn3 3.042889 1_565

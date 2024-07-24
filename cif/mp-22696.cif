@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_NdInCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57871821
+_cell_length_b   7.57871791
+_cell_length_c   4.06611029
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdInCu
+_chemical_formula_sum   'Nd3 In3 Cu3'
+_cell_volume   202.25594798
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  1.00000000  0.58599927  0.50000000  1
+  Nd  Nd1  1  0.41400073  0.41400073  0.50000000  1
+  Nd  Nd2  1  0.58599927  1.00000000  0.50000000  1
+  In  In0  1  0.75295863  0.75295863  0.00000000  1
+  In  In1  1  1.00000000  0.24704137  -0.00000000  1
+  In  In2  1  0.24704137  1.00000000  0.00000000  1
+  Cu  Cu0  1  0.33333300  0.66666700  -0.00000000  1
+  Cu  Cu1  1  0.00000000  -0.00000000  0.50000000  1
+  Cu  Cu2  1  0.66666700  0.33333300  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Nd1 3.276032 1_555
+In0 Nd1 3.276032 1_554
+In0 Nd2 3.407165 1_555
+In0 Nd2 3.407165 1_554
+In0 Nd0 3.407165 1_554
+In0 Nd0 3.407165 1_555
+In1 Nd0 3.276032 1_555
+In1 Nd0 3.276032 1_554
+In1 Nd1 3.407166 1_654
+In1 Nd1 3.407166 1_655
+In1 Nd2 3.407166 1_544
+In1 Nd2 3.407166 1_545
+In2 Nd2 3.276032 1_554
+In2 Nd2 3.276032 1_555
+In2 Nd1 3.407166 1_564
+In2 Nd1 3.407166 1_565
+In2 Nd0 3.407166 1_454
+In2 Nd0 3.407166 1_455
+Cu0 In2 2.908895 1_555
+Cu0 In1 2.908900 1_455
+Cu0 In0 2.908903 1_555
+Cu0 Nd0 3.056879 1_455
+Cu0 Nd0 3.056879 1_454
+Cu0 Nd2 3.056881 1_554
+Cu0 Nd2 3.056881 1_555
+Cu0 Nd1 3.056884 1_555
+Cu0 Nd1 3.056884 1_554
+Cu1 In1 2.763812 1_455
+Cu1 In1 2.763812 1_456
+Cu1 In2 2.763812 1_545
+Cu1 In2 2.763812 1_546
+Cu1 In0 2.763812 1_445
+Cu1 In0 2.763812 1_446
+Cu1 Nd0 3.137595 1_445
+Cu1 Nd2 3.137595 1_445
+Cu1 Nd1 3.137595 1_555
+Cu2 In1 2.908895 1_555
+Cu2 In2 2.908900 1_545
+Cu2 In0 2.908902 1_555
+Cu2 Nd2 3.056879 1_545
+Cu2 Nd2 3.056879 1_544
+Cu2 Nd0 3.056881 1_555
+Cu2 Nd0 3.056881 1_554
+Cu2 Nd1 3.056885 1_554
+Cu2 Nd1 3.056885 1_555

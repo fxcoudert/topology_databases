@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CuSe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97256990
+_cell_length_b   6.65996101
+_cell_length_c   7.83935619
+_cell_angle_alpha   110.20769561
+_cell_angle_beta   89.99678707
+_cell_angle_gamma   111.92741012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSe2O5
+_chemical_formula_sum   'Cu2 Se4 O10'
+_cell_volume   223.51876103
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se0  1  0.20609963  0.28067525  0.33057011  1
+  Se  Se1  1  0.92535327  0.71929014  0.16937688  1
+  Se  Se2  1  0.79390037  0.71932475  0.66942989  1
+  Se  Se3  1  0.07464673  0.28070886  0.83062312  1
+  O  O0  1  0.39949258  0.25180548  0.49139475  1
+  O  O1  1  0.14756566  0.74814649  0.00848133  1
+  O  O2  1  0.60050742  0.74819452  0.50860525  1
+  O  O3  1  0.85243534  0.25185351  0.99151867  1
+  O  O4  1  0.39723140  0.24977319  0.15401450  1
+  O  O5  1  0.14752292  0.75026036  0.34586401  1
+  O  O6  1  0.11247805  -0.00002432  0.74999701  1
+  O  O7  1  0.88752195  0.00002432  0.25000299  1
+  O  O8  1  0.85247708  0.24973964  0.65413599  1
+  O  O9  1  0.60276860  0.75022681  0.84598550  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O4 1.932190 1_555
+Cu0 O9 1.932190 1_544
+Cu0 O1 1.941840 1_545
+Cu0 O3 1.941843 1_554
+Cu1 O5 1.932103 1_545
+Cu1 O8 1.932103 1_555
+Cu1 O2 1.941866 1_545
+Cu1 O0 1.941866 1_555
+O0 Se0 1.690259 1_555
+O1 Se1 1.690418 1_455
+O2 Se2 1.690259 1_555
+O3 Se3 1.690415 1_655
+O4 Se0 1.676449 1_555
+O5 Se1 1.676324 1_455
+O6 Se2 1.837164 1_445
+O6 Se3 1.837615 1_555
+O7 Se0 1.837164 1_655
+O7 Se1 1.837621 1_545
+O8 Se3 1.676326 1_655
+O9 Se2 1.676449 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LiTiH6(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61518900
+_cell_length_b   6.13591092
+_cell_length_c   6.13591092
+_cell_angle_alpha   120.00000994
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiH6(OF3)2
+_chemical_formula_sum   'Li1 Ti1 H6 O2 F6'
+_cell_volume   183.08512423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  H  H0  1  0.72393700  0.81406900  0.30721700  1
+  H  H1  1  0.72393700  0.49314800  0.18593100  1
+  H  H2  1  0.27606300  0.50685200  0.69278300  1
+  H  H3  1  0.72393700  0.69278300  0.50685200  1
+  H  H4  1  0.27606300  0.30721700  0.81406900  1
+  H  H5  1  0.27606300  0.18593100  0.49314800  1
+  O  O0  1  0.67701500  0.66666700  0.33333300  1
+  O  O1  1  0.32298500  0.33333300  0.66666700  1
+  F  F0  1  0.76586400  0.74989800  0.76175800  1
+  F  F1  1  0.76586400  0.01186000  0.25010200  1
+  F  F2  1  0.23413500  0.98814000  0.23824200  1
+  F  F3  1  0.76586400  0.23824200  0.98814000  1
+  F  F4  1  0.23413500  0.76175800  0.74989800  1
+  F  F5  1  0.23413500  0.25010200  0.01186000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O0 1.028617 1_555
+H1 O0 1.028621 1_555
+H2 O1 1.028623 1_555
+H3 O0 1.028623 1_555
+H4 O1 1.028617 1_555
+H5 O1 1.028621 1_555
+F0 H3 1.440991 1_555
+F0 Ti0 1.994269 1_666
+F0 Li0 2.115965 1_566
+F1 H0 1.440991 1_545
+F1 Ti0 1.994270 1_655
+F1 Li0 2.115965 1_555
+F2 H5 1.440992 1_565
+F2 Ti0 1.994266 1_565
+F2 Li0 2.115969 1_565
+F3 H1 1.440991 1_556
+F3 Ti0 1.994270 1_656
+F3 Li0 2.115965 1_556
+F4 H2 1.440992 1_555
+F4 Ti0 1.994266 1_566
+F4 Li0 2.115969 1_566
+F5 H4 1.440992 1_554
+F5 Ti0 1.994266 1_555
+F5 Li0 2.115969 1_555

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ga4Bi3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18797285
+_cell_length_b   7.37510446
+_cell_length_c   7.37510446
+_cell_angle_alpha   72.92111104
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga4Bi3N
+_chemical_formula_sum   'Ga4 Bi3 N1'
+_cell_volume   217.74754018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.36487400  0.36487400  1
+  Ga  Ga1  1  0.00000000  0.28500400  0.91732500  1
+  Ga  Ga2  1  0.00000000  0.91732500  0.28500400  1
+  Ga  Ga3  1  0.50000000  0.92402000  0.92402000  1
+  Bi  Bi0  1  0.50000000  0.98322300  0.50578600  1
+  Bi  Bi1  1  0.50000000  0.50578600  0.98322300  1
+  Bi  Bi2  1  0.00000000  0.51682900  0.51682900  1
+  N  N0  1  0.00000000  0.00294000  0.00294000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga1 N0 1.988620 1_556
+Ga2 N0 1.988620 1_565
+Ga3 N0 2.293756 1_566
+Ga3 N0 2.293756 1_666
+Bi0 Ga0 2.698976 1_565
+Bi0 Ga2 2.781570 1_655
+Bi0 Ga2 2.781570 1_555
+Bi0 Ga3 2.985604 1_555
+Bi1 Ga0 2.698976 1_556
+Bi1 Ga1 2.781570 1_655
+Bi1 Ga1 2.781570 1_555
+Bi1 Ga3 2.985604 1_555
+Bi2 Ga0 2.763033 1_555
+Bi2 Ga0 2.763033 1_455
+Bi2 Ga2 2.946397 1_555
+Bi2 Ga1 2.946397 1_555

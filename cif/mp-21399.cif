@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_CeMnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05800000
+_cell_length_b   4.05800000
+_cell_length_c   7.22686400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMnGe
+_chemical_formula_sum   'Ce2 Mn2 Ge2'
+_cell_volume   119.00740007
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75000000  0.75000000  0.32939700  1
+  Ce  Ce1  1  0.25000000  0.25000000  0.67060300  1
+  Mn  Mn0  1  0.75000000  0.25000000  0.00000000  1
+  Mn  Mn1  1  0.25000000  0.75000000  0.00000000  1
+  Ge  Ge0  1  0.75000000  0.75000000  0.79705500  1
+  Ge  Ge1  1  0.25000000  0.25000000  0.20294500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 Ge1 3.011446 1_565
+Ce0 Ge1 3.011446 1_555
+Ce0 Ge1 3.011446 1_655
+Ce0 Ge1 3.011446 1_665
+Ce0 Mn1 3.127884 1_555
+Ce0 Mn0 3.127884 1_565
+Ce0 Mn1 3.127884 1_655
+Ce0 Mn0 3.127884 1_555
+Ce0 Ge0 3.379701 1_555
+Ce1 Ge0 3.011446 1_445
+Ce1 Ge0 3.011446 1_545
+Ce1 Ge0 3.011446 1_555
+Ce1 Ge0 3.011446 1_455
+Ce1 Mn1 3.127884 1_546
+Ce1 Mn0 3.127884 1_556
+Ce1 Mn1 3.127884 1_556
+Ce1 Mn0 3.127884 1_456
+Ce1 Ge1 3.379701 1_555
+Ge0 Mn0 2.503582 1_556
+Ge0 Mn1 2.503582 1_656
+Ge0 Mn1 2.503582 1_556
+Ge0 Mn0 2.503582 1_566
+Ge1 Mn1 2.503582 1_555
+Ge1 Mn1 2.503582 1_545
+Ge1 Mn0 2.503582 1_555
+Ge1 Mn0 2.503582 1_455

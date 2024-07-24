@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_MgNi2(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06808890
+_cell_length_b   5.40617560
+_cell_length_c   6.01717776
+_cell_angle_alpha   81.90908068
+_cell_angle_beta   99.97921787
+_cell_angle_gamma   98.88178812
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi2(WO4)2
+_chemical_formula_sum   'Mg1 Ni2 W2 O8'
+_cell_volume   159.31871769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.31703935  0.58211485  0.64333581  1
+  Ni  Ni0  1  0.56207688  0.19394633  0.58597587  1
+  Ni  Ni1  1  0.56983263  0.72701812  0.28518227  1
+  W  W0  1  0.00157307  0.23541102  0.15747927  1
+  W  W1  1  0.97545601  0.78390171  0.87395263  1
+  O  O0  1  0.75174271  0.08342613  0.35100293  1
+  O  O1  1  0.29407342  0.40042726  0.38076589  1
+  O  O2  1  0.23343711  0.91787192  0.67735634  1
+  O  O3  1  0.70719830  0.60545233  0.62536261  1
+  O  O4  1  0.77286678  0.06957740  0.87701314  1
+  O  O5  1  0.17625032  0.46334007  0.92110344  1
+  O  O6  1  0.79153308  0.56356888  0.11103918  1
+  O  O7  1  0.20803036  0.94894198  0.14584561  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.919555 1_555
+Mg0 O1 1.952513 1_555
+Mg0 O2 1.971899 1_555
+Mg0 O3 1.982626 1_555
+Ni0 O4 1.975369 1_555
+Ni0 O1 2.028439 1_555
+Ni0 O0 2.041128 1_555
+Ni0 O2 2.150078 1_545
+Ni0 O3 2.264736 1_555
+Ni1 O6 2.028927 1_555
+Ni1 O0 2.063764 1_565
+Ni1 O3 2.091701 1_555
+Ni1 O1 2.152241 1_555
+Ni1 O7 2.316889 1_555
+O0 W0 1.885389 1_655
+O1 W0 2.009300 1_555
+O2 W1 1.906801 1_455
+O3 W1 2.076754 1_555
+O4 W1 1.985941 1_545
+O4 W0 2.102943 1_656
+O5 W0 1.982747 1_556
+O5 W1 2.103697 1_455
+O6 W1 1.990625 1_554
+O6 W0 2.167746 1_655
+O7 W0 2.013581 1_565
+O7 W1 2.068773 1_454

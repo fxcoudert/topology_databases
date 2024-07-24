@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Rb2Pd3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16363254
+_cell_length_b   6.16356786
+_cell_length_c   7.44338529
+_cell_angle_alpha   102.39982513
+_cell_angle_beta   102.40034334
+_cell_angle_gamma   118.76404967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Pd3S4
+_chemical_formula_sum   'Rb2 Pd3 S4'
+_cell_volume   224.77253878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.84154989  0.84154997  0.68311018  1
+  Rb  Rb1  1  0.15845011  0.15845003  0.31688982  1
+  Pd  Pd0  1  0.50000000  -0.00000000  -0.00000000  1
+  Pd  Pd1  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd2  1  0.00000000  0.50000000  0.00000000  1
+  S  S0  1  0.21827839  0.55444134  0.77270607  1
+  S  S1  1  0.44555572  0.78171794  0.22729390  1
+  S  S2  1  0.55444428  0.21828206  0.77270610  1
+  S  S3  1  0.78172161  0.44555866  0.22729393  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 S1 3.555888 1_555
+Rb0 S3 3.555895 1_555
+Rb0 S0 3.572730 1_655
+Rb0 S2 3.572735 1_565
+Rb0 S2 3.660385 1_555
+Rb0 S0 3.660442 1_555
+Rb0 S0 3.660673 1_665
+Rb0 S2 3.660724 1_665
+Rb1 S2 3.555888 1_555
+Rb1 S0 3.555895 1_555
+Rb1 S3 3.572730 1_455
+Rb1 S1 3.572735 1_545
+Rb1 S1 3.660385 1_555
+Rb1 S3 3.660442 1_555
+Rb1 S3 3.660673 1_445
+Rb1 S1 3.660724 1_445
+Pd0 S2 2.360483 1_554
+Pd0 S1 2.360483 1_545
+Pd0 S3 2.360684 1_555
+Pd0 S0 2.360684 1_544
+Pd0 Rb1 3.751162 1_555
+Pd0 Rb0 3.751162 1_544
+Pd0 Rb0 3.751423 1_444
+Pd0 Rb1 3.751423 1_655
+Pd1 S3 2.352221 1_555
+Pd1 S0 2.352221 1_554
+Pd1 S1 2.352222 1_555
+Pd1 S2 2.352222 1_554
+Pd1 Rb0 3.798307 1_554
+Pd1 Rb1 3.798307 1_555
+Pd1 Rb0 3.798832 1_444
+Pd1 Rb1 3.798832 1_665
+Pd2 S3 2.360483 1_455
+Pd2 S0 2.360483 1_554
+Pd2 S2 2.360684 1_454
+Pd2 S1 2.360684 1_555
+Pd2 Rb1 3.751131 1_555
+Pd2 Rb0 3.751131 1_454
+Pd2 Rb0 3.751401 1_444
+Pd2 Rb1 3.751401 1_565

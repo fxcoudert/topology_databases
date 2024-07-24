@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Na2CS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00436614
+_cell_length_b   6.00436614
+_cell_length_c   8.62865096
+_cell_angle_alpha   75.48971200
+_cell_angle_beta   75.48971200
+_cell_angle_gamma   64.35387760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CS3
+_chemical_formula_sum   'Na4 C2 S6'
+_cell_volume   267.86836379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.83308000  0.43121600  0.39105700  1
+  Na  Na1  1  0.56878400  0.16692000  0.10894300  1
+  Na  Na2  1  0.43121600  0.83308000  0.89105700  1
+  Na  Na3  1  0.16692000  0.56878400  0.60894300  1
+  C  C0  1  0.08867400  0.91132600  0.25000000  1
+  C  C1  1  0.91132600  0.08867400  0.75000000  1
+  S  S0  1  0.35854500  0.64145500  0.25000000  1
+  S  S1  1  0.64145500  0.35854500  0.75000000  1
+  S  S2  1  0.82166000  0.91722000  0.38539000  1
+  S  S3  1  0.08278000  0.17834000  0.11461000  1
+  S  S4  1  0.17834000  0.08278000  0.61461000  1
+  S  S5  1  0.91722000  0.82166000  0.88539000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S2 2.877436 1_555
+Na0 S3 2.880189 1_655
+Na0 S4 2.936456 1_655
+Na0 S0 3.007951 1_555
+Na0 S1 3.013052 1_555
+Na0 S2 3.129271 1_545
+Na1 S3 2.877436 1_555
+Na1 S2 2.880189 1_545
+Na1 S5 2.936456 1_544
+Na1 S0 3.007951 1_555
+Na1 S1 3.013052 1_554
+Na1 S3 3.129271 1_655
+Na2 S5 2.877436 1_555
+Na2 S4 2.880189 1_565
+Na2 S3 2.936456 1_566
+Na2 S1 3.007951 1_555
+Na2 S0 3.013052 1_556
+Na2 S5 3.129271 1_455
+Na3 S4 2.877436 1_555
+Na3 S5 2.880189 1_455
+Na3 S2 2.936456 1_455
+Na3 S1 3.007951 1_555
+Na3 S0 3.013052 1_555
+Na3 S4 3.129271 1_565
+C0 S3 1.723216 1_565
+C0 S2 1.723216 1_455
+C0 S0 1.725846 1_555
+C1 S4 1.723216 1_655
+C1 S5 1.723216 1_545
+C1 S1 1.725846 1_555

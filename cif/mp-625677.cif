@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Y(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38166971
+_cell_length_b   6.38166971
+_cell_length_c   3.51804300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999696
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(HO)3
+_chemical_formula_sum   'Y2 H6 O6'
+_cell_volume   124.07961410
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.66666700  0.33333300  0.31269200  1
+  Y  Y1  1  0.33333300  0.66666700  0.81269200  1
+  H  H0  1  0.14192300  0.86115000  0.35075700  1
+  H  H1  1  0.71922700  0.85807700  0.35075700  1
+  H  H2  1  0.13885000  0.28077300  0.35075700  1
+  H  H3  1  0.85807700  0.13885000  0.85075700  1
+  H  H4  1  0.28077300  0.14192300  0.85075700  1
+  H  H5  1  0.86115000  0.71922700  0.85075700  1
+  O  O0  1  0.08635800  0.69059900  0.30813600  1
+  O  O1  1  0.60424100  0.91364200  0.30813600  1
+  O  O2  1  0.30940100  0.39575900  0.30813600  1
+  O  O3  1  0.91364200  0.30940100  0.80813600  1
+  O  O4  1  0.39575900  0.08635800  0.80813600  1
+  O  O5  1  0.69059900  0.60424100  0.80813600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 O0 0.973084 1_555
+H1 O1 0.973084 1_555
+H2 O2 0.973084 1_555
+H3 O3 0.973084 1_555
+H4 O4 0.973084 1_555
+H5 O5 0.973084 1_555
+O0 Y1 2.405451 1_554
+O0 Y1 2.428780 1_555
+O0 Y0 2.503084 1_455
+O1 Y1 2.405454 1_554
+O1 Y1 2.428782 1_555
+O1 Y0 2.503081 1_565
+O2 Y1 2.405456 1_554
+O2 Y1 2.428784 1_555
+O2 Y0 2.503087 1_555
+O3 Y0 2.405451 1_555
+O3 Y0 2.428780 1_556
+O3 Y1 2.503084 1_655
+O4 Y0 2.405454 1_555
+O4 Y0 2.428782 1_556
+O4 Y1 2.503081 1_545
+O5 Y0 2.405456 1_555
+O5 Y0 2.428784 1_556
+O5 Y1 2.503087 1_555

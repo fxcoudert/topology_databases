@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_K2PbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39260700
+_cell_length_b   5.82223690
+_cell_length_c   5.99432320
+_cell_angle_alpha   108.59595204
+_cell_angle_beta   94.94144819
+_cell_angle_gamma   103.75474577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PbO6
+_chemical_formula_sum   'K2 Pb1 O6'
+_cell_volume   170.56025372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.69072600  0.29612900  0.55485700  1
+  K  K1  1  0.30927400  0.70387100  0.44514300  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.91938900  0.56715800  0.04821600  1
+  O  O1  1  0.44151500  0.03750200  0.91921200  1
+  O  O2  1  0.13429300  0.20220100  0.34653900  1
+  O  O3  1  0.08061100  0.43284200  0.95178400  1
+  O  O4  1  0.55848500  0.96249800  0.08078800  1
+  O  O5  1  0.86570700  0.79779900  0.65346100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O5 2.695047 1_555
+K0 O4 2.797992 1_545
+K0 O3 2.801726 1_655
+K0 O0 2.868213 1_556
+K0 O2 2.877681 1_655
+K0 O2 3.000126 1_555
+K0 O1 3.237968 1_555
+K1 O2 2.695047 1_555
+K1 O1 2.797992 1_565
+K1 O0 2.801726 1_455
+K1 O3 2.868213 1_554
+K1 O5 2.877681 1_455
+K1 O5 3.000126 1_555
+K1 O4 3.237968 1_555
+O0 O3 1.350238 1_654
+O0 Pb0 2.566844 1_665
+O1 O4 1.349864 1_546
+O1 Pb0 2.443321 1_556
+O2 Pb0 2.000290 1_555
+O3 Pb0 2.566844 1_556
+O4 Pb0 2.443321 1_665
+O5 Pb0 2.000290 1_666

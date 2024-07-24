@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbPdSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38943393
+_cell_length_b   6.38935264
+_cell_length_c   6.38944204
+_cell_angle_alpha   90.00091117
+_cell_angle_beta   90.00047096
+_cell_angle_gamma   89.99922728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbPdSe
+_chemical_formula_sum   'Sb4 Pd4 Se4'
+_cell_volume   260.84479606
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.87254039  0.62746784  0.37254334  1
+  Sb  Sb1  1  0.37254452  0.87251246  0.62745974  1
+  Sb  Sb2  1  0.12746491  0.12746993  0.12745827  1
+  Sb  Sb3  1  0.62745302  0.37254424  0.87253944  1
+  Pd  Pd0  1  0.74794513  0.24794550  0.25205853  1
+  Pd  Pd1  1  0.24793984  0.25205316  0.74794198  1
+  Pd  Pd2  1  0.25205646  0.74794363  0.24793751  1
+  Pd  Pd3  1  0.75206117  0.75206194  0.75205760  1
+  Se  Se0  1  0.36719835  0.36720186  0.36721774  1
+  Se  Se1  1  0.13278409  0.63279965  0.86718831  1
+  Se  Se2  1  0.86720252  0.13279791  0.63281547  1
+  Se  Se3  1  0.63280761  0.86720186  0.13278308  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Se3 2.653171 1_555
+Sb1 Se1 2.653116 1_555
+Sb2 Se0 2.653159 1_555
+Sb3 Se2 2.653131 1_555
+Pd0 Se3 2.653307 1_545
+Pd0 Se0 2.653351 1_555
+Pd0 Se2 2.653404 1_555
+Pd0 Sb2 2.665808 1_655
+Pd0 Sb0 2.665809 1_555
+Pd0 Sb3 2.665843 1_554
+Pd1 Se0 2.653234 1_555
+Pd1 Se2 2.653243 1_455
+Pd1 Se1 2.653288 1_555
+Pd1 Sb2 2.665784 1_556
+Pd1 Sb3 2.665800 1_555
+Pd1 Sb1 2.665913 1_545
+Pd2 Se0 2.653317 1_555
+Pd2 Se1 2.653364 1_554
+Pd2 Se3 2.653397 1_555
+Pd2 Sb1 2.665780 1_555
+Pd2 Sb2 2.665817 1_565
+Pd2 Sb0 2.665823 1_455
+Pd3 Se1 2.653167 1_655
+Pd3 Se3 2.653189 1_556
+Pd3 Se2 2.653233 1_565
+Pd3 Sb1 2.665734 1_555
+Pd3 Sb0 2.665771 1_555
+Pd3 Sb3 2.665827 1_555

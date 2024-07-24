@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_YTiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03833873
+_cell_length_b   4.03822739
+_cell_length_c   8.22267652
+_cell_angle_alpha   104.20947062
+_cell_angle_beta   104.21500263
+_cell_angle_gamma   90.00000597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTiGe
+_chemical_formula_sum   'Y2 Ti2 Ge2'
+_cell_volume   125.75091111
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.67466074  0.67454894  0.34931947  1
+  Y  Y1  1  0.32533926  0.32545106  0.65068053  1
+  Ti  Ti0  1  -0.00000000  0.50000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.12182316  0.12147178  0.24364632  1
+  Ge  Ge1  1  0.87817684  0.87852822  0.75635368  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ti0 2.757106 1_545
+Ge0 Ti1 2.758058 1_455
+Ge0 Ti1 2.758059 1_555
+Ge0 Ti0 2.758929 1_555
+Ge0 Y0 2.968774 1_445
+Ge0 Y0 2.968779 1_545
+Ge0 Y0 2.970197 1_455
+Ge0 Y0 2.970203 1_555
+Ge0 Y1 3.138692 1_555
+Ge1 Ti0 2.757106 1_666
+Ge1 Ti1 2.758058 1_666
+Ge1 Ti1 2.758059 1_566
+Ge1 Ti0 2.758929 1_656
+Ge1 Y1 2.968774 1_665
+Ge1 Y1 2.968779 1_565
+Ge1 Y1 2.970197 1_655
+Ge1 Y1 2.970203 1_555
+Ge1 Y0 3.138692 1_555

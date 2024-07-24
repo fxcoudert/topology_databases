@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Li4Nd3Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44180200
+_cell_length_b   6.85437100
+_cell_length_c   8.43701848
+_cell_angle_alpha   113.96685325
+_cell_angle_beta   105.26198598
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Nd3Ge4
+_chemical_formula_sum   'Li4 Nd3 Ge4'
+_cell_volume   224.77400437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.67153600  0.97977400  0.34307200  1
+  Li  Li1  1  0.32846400  0.02022600  0.65692800  1
+  Li  Li2  1  0.32846400  0.63670200  0.65692800  1
+  Li  Li3  1  0.67153600  0.36329800  0.34307200  1
+  Nd  Nd0  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd1  1  0.13081300  0.63081300  0.26162600  1
+  Nd  Nd2  1  0.86918700  0.36918700  0.73837400  1
+  Ge  Ge0  1  0.50000000  0.68528600  0.00000000  1
+  Ge  Ge1  1  0.50000000  0.31471400  0.00000000  1
+  Ge  Ge2  1  0.78697900  0.78697900  0.57395800  1
+  Ge  Ge3  1  0.21302100  0.21302100  0.42604200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Nd1 3.123746 1_555
+Li0 Nd1 3.123746 1_655
+Li0 Nd2 3.200760 1_565
+Li1 Nd2 3.123746 1_555
+Li1 Nd2 3.123746 1_455
+Li1 Nd1 3.200760 1_545
+Li2 Nd2 3.123746 1_555
+Li2 Nd2 3.123746 1_455
+Li2 Nd1 3.200760 1_555
+Li3 Nd1 3.123746 1_555
+Li3 Nd1 3.123746 1_655
+Li3 Nd2 3.200760 1_555
+Ge0 Ge1 2.540038 1_555
+Ge0 Li2 2.669349 1_554
+Ge0 Li0 2.669349 1_555
+Ge0 Nd0 3.096089 1_665
+Ge0 Nd0 3.096089 1_565
+Ge0 Nd1 3.205641 1_655
+Ge0 Nd2 3.205641 1_454
+Ge0 Nd1 3.205641 1_555
+Ge0 Nd2 3.205641 1_554
+Ge1 Li3 2.669349 1_555
+Ge1 Li1 2.669349 1_554
+Ge1 Nd0 3.096089 1_655
+Ge1 Nd0 3.096089 1_555
+Ge1 Nd2 3.205641 1_454
+Ge1 Nd1 3.205641 1_655
+Ge1 Nd2 3.205641 1_554
+Ge1 Nd1 3.205641 1_555
+Ge2 Li2 2.652411 1_655
+Ge2 Li1 2.652411 1_665
+Ge2 Li2 2.652411 1_555
+Ge2 Li1 2.652411 1_565
+Ge2 Li0 2.714667 1_555
+Ge2 Li3 2.714667 1_555
+Ge2 Nd0 3.145370 1_666
+Ge2 Nd1 3.201478 1_555
+Ge2 Nd1 3.201478 1_655
+Ge3 Li3 2.652411 1_455
+Ge3 Li0 2.652411 1_445
+Ge3 Li3 2.652411 1_555
+Ge3 Li0 2.652411 1_545
+Ge3 Li1 2.714667 1_555
+Ge3 Li2 2.714667 1_555
+Ge3 Nd0 3.145370 1_555
+Ge3 Nd2 3.201478 1_555
+Ge3 Nd2 3.201478 1_455

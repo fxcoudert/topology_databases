@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Ca(SiO2)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97308500
+_cell_length_b   6.97308500
+_cell_length_c   6.48279800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(SiO2)5
+_chemical_formula_sum   'Ca1 Si5 O10'
+_cell_volume   315.21901514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.50000000  1
+  Si  Si0  1  0.26934000  0.00000000  0.11907100  1
+  Si  Si1  1  0.00000000  0.73066000  0.88092900  1
+  Si  Si2  1  0.00000000  0.26934000  0.88092900  1
+  Si  Si3  1  0.73066000  0.00000000  0.11907100  1
+  Si  Si4  1  0.00000000  0.00000000  0.50000000  1
+  O  O0  1  0.19255000  0.00000000  0.35701800  1
+  O  O1  1  0.00000000  0.80745000  0.64298200  1
+  O  O2  1  0.00000000  0.19255000  0.64298200  1
+  O  O3  1  0.80745000  0.00000000  0.35701800  1
+  O  O4  1  0.19214500  0.19214500  0.00000000  1
+  O  O5  1  0.19214500  0.80785500  0.00000000  1
+  O  O6  1  0.80785500  0.19214500  0.00000000  1
+  O  O7  1  0.80785500  0.80785500  0.00000000  1
+  O  O8  1  0.50000000  0.00000000  0.11989400  1
+  O  O9  1  0.00000000  0.50000000  0.88010600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Si4 1.631546 1_555
+O0 Si0 1.632856 1_555
+O1 Si4 1.631546 1_565
+O1 Si1 1.632856 1_555
+O2 Si4 1.631546 1_555
+O2 Si2 1.632856 1_555
+O3 Si4 1.631546 1_655
+O3 Si3 1.632856 1_555
+O4 Si0 1.637310 1_555
+O4 Si2 1.637310 1_554
+O5 Si0 1.637310 1_565
+O5 Si1 1.637310 1_554
+O6 Si3 1.637310 1_555
+O6 Si2 1.637310 1_654
+O7 Si3 1.637310 1_565
+O7 Si1 1.637310 1_654
+O8 Si3 1.608421 1_555
+O8 Si0 1.608421 1_555
+O9 Si2 1.608421 1_555
+O9 Si1 1.608421 1_555

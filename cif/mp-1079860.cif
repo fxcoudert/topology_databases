@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_HfGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81283490
+_cell_length_b   6.81283490
+_cell_length_c   3.37890289
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGaNi
+_chemical_formula_sum   'Hf3 Ga3 Ni3'
+_cell_volume   135.81949105
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.40280839  0.40280839  0.50000000  1
+  Hf  Hf1  1  0.59719161  0.00000000  0.50000000  1
+  Hf  Hf2  1  0.00000000  0.59719161  0.50000000  1
+  Ga  Ga0  1  0.73942139  0.73942139  -0.00000000  1
+  Ga  Ga1  1  0.26057861  -0.00000000  0.00000000  1
+  Ga  Ga2  1  -0.00000000  0.26057861  -0.00000000  1
+  Ni  Ni0  1  0.66666700  0.33333300  0.00000000  1
+  Ni  Ni1  1  0.33333300  0.66666700  -0.00000000  1
+  Ni  Ni2  1  -0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Ni1 2.675929 1_555
+Hf0 Ni1 2.675929 1_556
+Hf0 Ni0 2.675929 1_556
+Hf0 Ni0 2.675929 1_555
+Hf0 Ni2 2.744267 1_555
+Hf1 Ni0 2.675924 1_556
+Hf1 Ni0 2.675924 1_555
+Hf1 Ni1 2.675926 1_545
+Hf1 Ni1 2.675926 1_546
+Hf1 Ni2 2.744267 1_655
+Hf2 Ni1 2.675924 1_556
+Hf2 Ni1 2.675924 1_555
+Hf2 Ni0 2.675926 1_455
+Hf2 Ni0 2.675926 1_456
+Hf2 Ni2 2.744267 1_565
+Ga0 Ni2 2.450686 1_665
+Ga0 Ni2 2.450686 1_664
+Ga0 Ni1 2.555097 1_555
+Ga0 Ni0 2.555097 1_555
+Ga0 Hf0 2.848407 1_555
+Ga0 Hf0 2.848407 1_554
+Ga0 Hf2 2.943641 1_655
+Ga0 Hf1 2.943641 1_564
+Ga0 Hf2 2.943641 1_654
+Ga0 Hf1 2.943641 1_565
+Ga1 Ni2 2.450686 1_555
+Ga1 Ni2 2.450686 1_554
+Ga1 Ni1 2.555090 1_545
+Ga1 Ni0 2.555095 1_555
+Ga1 Hf1 2.848407 1_554
+Ga1 Hf1 2.848407 1_555
+Ga1 Hf0 2.943641 1_555
+Ga1 Hf0 2.943641 1_554
+Ga1 Hf2 2.943641 1_545
+Ga1 Hf2 2.943641 1_544
+Ga2 Ni2 2.450686 1_555
+Ga2 Ni2 2.450686 1_554
+Ga2 Ni0 2.555090 1_455
+Ga2 Ni1 2.555095 1_555
+Ga2 Hf2 2.848407 1_554
+Ga2 Hf2 2.848407 1_555
+Ga2 Hf0 2.943641 1_555
+Ga2 Hf0 2.943641 1_554
+Ga2 Hf1 2.943641 1_454
+Ga2 Hf1 2.943641 1_455

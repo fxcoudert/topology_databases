@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_HfAlMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28383901
+_cell_length_b   5.28383901
+_cell_length_c   8.70043978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.26895117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAlMo
+_chemical_formula_sum   'Hf4 Al4 Mo4'
+_cell_volume   209.79136341
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33463713  0.66536287  0.18594469  1
+  Hf  Hf1  1  0.67062084  0.32937916  0.31499291  1
+  Hf  Hf2  1  0.67062084  0.32937916  0.68500709  1
+  Hf  Hf3  1  0.33463713  0.66536287  0.81405531  1
+  Al  Al0  1  0.99609713  0.00390287  0.24902495  1
+  Al  Al1  1  0.99609713  0.00390287  0.75097505  1
+  Al  Al2  1  0.83047642  0.65917442  -0.00000000  1
+  Al  Al3  1  0.34082558  0.16952358  -0.00000000  1
+  Mo  Mo0  1  0.83072372  0.16927628  -0.00000000  1
+  Mo  Mo1  1  0.17062354  0.34459156  0.50000000  1
+  Mo  Mo2  1  0.65540844  0.82937646  0.50000000  1
+  Mo  Mo3  1  0.16932311  0.83067689  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Mo0 3.088953 1_565
+Hf0 Mo0 3.088953 1_455
+Hf0 Mo1 3.099852 1_555
+Hf0 Mo2 3.099852 1_555
+Hf0 Mo3 3.124304 1_555
+Hf0 Hf1 3.231558 1_455
+Hf0 Hf1 3.231558 1_565
+Hf0 Hf3 3.235601 1_554
+Hf0 Hf1 3.277364 1_555
+Hf1 Mo1 3.059925 1_655
+Hf1 Mo2 3.059925 1_545
+Hf1 Mo3 3.084503 1_545
+Hf1 Mo3 3.084503 1_655
+Hf1 Mo0 3.108618 1_555
+Hf1 Mo1 3.129082 1_555
+Hf1 Mo2 3.129082 1_555
+Hf1 Hf2 3.219286 1_555
+Hf2 Mo1 3.059925 1_655
+Hf2 Mo2 3.059925 1_545
+Hf2 Mo3 3.084503 1_545
+Hf2 Mo3 3.084503 1_655
+Hf2 Mo0 3.108618 1_556
+Hf2 Mo2 3.129082 1_555
+Hf2 Mo1 3.129082 1_555
+Hf2 Hf3 3.231558 1_655
+Hf2 Hf3 3.231558 1_545
+Hf2 Hf3 3.277364 1_555
+Hf3 Mo0 3.088953 1_566
+Hf3 Mo0 3.088953 1_456
+Hf3 Mo1 3.099852 1_555
+Hf3 Mo2 3.099852 1_555
+Hf3 Mo3 3.124304 1_555
+Al0 Mo0 2.644066 1_555
+Al0 Al3 2.677866 1_655
+Al0 Al2 2.677866 1_545
+Al0 Mo1 2.680574 1_655
+Al0 Mo2 2.680574 1_545
+Al0 Mo3 2.699666 1_645
+Al0 Hf1 3.037466 1_555
+Al0 Hf0 3.068171 1_545
+Al0 Hf0 3.068171 1_655
+Al0 Hf1 3.132172 1_655
+Al0 Hf1 3.132172 1_545
+Al0 Hf0 3.150636 1_645
+Al1 Mo0 2.644066 1_556
+Al1 Al2 2.677866 1_546
+Al1 Al3 2.677866 1_656
+Al1 Mo1 2.680574 1_655
+Al1 Mo2 2.680574 1_545
+Al1 Mo3 2.699666 1_645
+Al1 Hf2 3.037466 1_555
+Al1 Hf3 3.068171 1_545
+Al1 Hf3 3.068171 1_655
+Al1 Hf2 3.132172 1_545
+Al1 Hf2 3.132172 1_655
+Al1 Hf3 3.150636 1_645
+Al2 Al3 2.576711 1_555
+Al2 Mo0 2.589202 1_555
+Al2 Al3 2.685633 1_665
+Al2 Mo0 2.694638 1_565
+Al2 Hf3 3.093343 1_554
+Al2 Hf0 3.093343 1_555
+Al2 Hf0 3.102728 1_655
+Al2 Hf3 3.102728 1_654
+Al2 Hf2 3.126815 1_554
+Al2 Hf1 3.126815 1_555
+Al3 Mo0 2.589202 1_555
+Al3 Mo0 2.694638 1_455
+Al3 Hf3 3.093343 1_554
+Al3 Hf0 3.093343 1_555
+Al3 Hf0 3.102728 1_545
+Al3 Hf3 3.102728 1_544
+Al3 Hf2 3.126815 1_554
+Al3 Hf1 3.126815 1_555
+Mo1 Mo2 2.551105 1_555
+Mo1 Mo3 2.571867 1_555
+Mo1 Mo2 2.711239 1_445
+Mo1 Mo3 2.711985 1_545
+Mo2 Mo3 2.571867 1_555
+Mo2 Mo3 2.711985 1_655

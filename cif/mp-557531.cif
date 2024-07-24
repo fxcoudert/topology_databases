@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Pb2S(O2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61560345
+_cell_length_b   7.61560345
+_cell_length_c   8.75000394
+_cell_angle_alpha   72.83521972
+_cell_angle_beta   72.83521972
+_cell_angle_gamma   34.34674457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pb2S(O2F)2
+_chemical_formula_sum   'Pb4 S2 O8 F4'
+_cell_volume   272.31692218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.64970400  0.65882500  0.92399900  1
+  Pb  Pb1  1  0.35029600  0.34117500  0.07600100  1
+  Pb  Pb2  1  0.34117500  0.35029600  0.57600100  1
+  Pb  Pb3  1  0.65882500  0.64970400  0.42399900  1
+  S  S0  1  0.04869200  0.95130800  0.75000000  1
+  S  S1  1  0.95130800  0.04869200  0.25000000  1
+  O  O0  1  0.22387700  0.95467500  0.20631800  1
+  O  O1  1  0.75330700  0.24388300  0.39003800  1
+  O  O2  1  0.75611700  0.24669300  0.10996200  1
+  O  O3  1  0.04532500  0.77612300  0.29368200  1
+  O  O4  1  0.77612300  0.04532500  0.79368200  1
+  O  O5  1  0.95467500  0.22387700  0.70631800  1
+  O  O6  1  0.24388300  0.75330700  0.89003800  1
+  O  O7  1  0.24669300  0.75611700  0.60996200  1
+  F  F0  1  0.77590000  0.72997800  0.12331300  1
+  F  F1  1  0.27002200  0.22410000  0.37668700  1
+  F  F2  1  0.22410000  0.27002200  0.87668700  1
+  F  F3  1  0.72997800  0.77590000  0.62331300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 S1 1.485469 1_465
+O1 S1 1.506015 1_555
+O1 Pb2 2.592157 1_555
+O1 Pb3 2.627063 1_555
+O2 S1 1.506015 1_555
+O2 Pb0 2.592157 1_554
+O2 Pb1 2.627063 1_555
+O3 S1 1.485469 1_465
+O4 S0 1.485469 1_645
+O5 S0 1.485469 1_645
+O6 S0 1.506015 1_555
+O6 Pb1 2.592157 1_556
+O6 Pb0 2.627063 1_555
+O7 S0 1.506015 1_555
+O7 Pb3 2.592157 1_555
+O7 Pb2 2.627063 1_555
+F0 Pb1 2.518040 1_655
+F0 Pb3 2.580109 1_555
+F0 Pb0 2.581824 1_554
+F0 Pb1 2.661734 1_565
+F1 Pb3 2.518040 1_545
+F1 Pb1 2.580109 1_555
+F1 Pb2 2.581824 1_555
+F1 Pb3 2.661734 1_455
+F2 Pb0 2.518040 1_455
+F2 Pb2 2.580109 1_555
+F2 Pb1 2.581824 1_556
+F2 Pb0 2.661734 1_545
+F3 Pb2 2.518040 1_565
+F3 Pb0 2.580109 1_555
+F3 Pb3 2.581824 1_555
+F3 Pb2 2.661734 1_655

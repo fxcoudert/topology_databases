@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Li3Sc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23145583
+_cell_length_b   6.23145583
+_cell_length_c   4.93266600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Sc
+_chemical_formula_sum   'Li6 Sc2'
+_cell_volume   165.87899328
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16087100  0.32174100  0.25000000  1
+  Li  Li1  1  0.67825900  0.83912900  0.25000000  1
+  Li  Li2  1  0.16087100  0.83912900  0.25000000  1
+  Li  Li3  1  0.83912900  0.67825900  0.75000000  1
+  Li  Li4  1  0.32174100  0.16087100  0.75000000  1
+  Li  Li5  1  0.83912900  0.16087100  0.75000000  1
+  Sc  Sc0  1  0.33333300  0.66666700  0.75000000  1
+  Sc  Sc1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Li2 3.007375 1_545
+Li0 Li1 3.007375 1_445
+Li0 Li4 3.016213 1_554
+Li0 Li4 3.016213 1_555
+Li0 Li5 3.016219 1_455
+Li0 Li5 3.016219 1_454
+Li0 Sc0 3.089937 1_554
+Li0 Sc0 3.089937 1_555
+Li0 Sc1 3.116356 1_455
+Li0 Sc1 3.116356 1_555
+Li0 Li2 3.224080 1_555
+Li0 Li1 3.224081 1_555
+Li1 Li2 3.007375 1_655
+Li1 Li3 3.016213 1_554
+Li1 Li3 3.016213 1_555
+Li1 Li5 3.016219 1_564
+Li1 Li5 3.016219 1_565
+Li1 Sc0 3.089937 1_554
+Li1 Sc0 3.089937 1_555
+Li1 Sc1 3.116356 1_565
+Li1 Sc1 3.116356 1_555
+Li1 Li2 3.224080 1_555
+Li2 Li4 3.016219 1_565
+Li2 Li4 3.016219 1_564
+Li2 Li3 3.016219 1_455
+Li2 Li3 3.016219 1_454
+Li2 Sc0 3.089930 1_554
+Li2 Sc0 3.089930 1_555
+Li2 Sc1 3.116356 1_455
+Li2 Sc1 3.116356 1_565
+Li3 Li5 3.007375 1_565
+Li3 Li4 3.007375 1_665
+Li3 Sc1 3.089937 1_556
+Li3 Sc1 3.089937 1_555
+Li3 Sc0 3.116356 1_655
+Li3 Sc0 3.116356 1_555
+Li3 Li5 3.224080 1_555
+Li3 Li4 3.224081 1_555
+Li4 Li5 3.007375 1_455
+Li4 Sc1 3.089937 1_555
+Li4 Sc1 3.089937 1_556
+Li4 Sc0 3.116356 1_545
+Li4 Sc0 3.116356 1_555
+Li4 Li5 3.224080 1_555
+Li5 Sc1 3.089930 1_556
+Li5 Sc1 3.089930 1_555
+Li5 Sc0 3.116356 1_545
+Li5 Sc0 3.116356 1_655

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_TiNbGaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69366000
+_cell_length_b   4.69366000
+_cell_length_c   9.07885000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNbGaO6
+_chemical_formula_sum   'Ti2 Nb2 Ga2 O12'
+_cell_volume   200.01109829
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.49912000  1
+  Ti  Ti1  1  0.00000000  0.00000000  0.99912000  1
+  Nb  Nb0  1  0.50000000  0.50000000  0.83309000  1
+  Nb  Nb1  1  0.00000000  0.00000000  0.33309000  1
+  Ga  Ga0  1  0.50000000  0.50000000  0.16726100  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.66726100  1
+  O  O0  1  0.19512900  0.80487100  0.16505500  1
+  O  O1  1  0.19985800  0.80014200  0.49984000  1
+  O  O2  1  0.19390000  0.80610000  0.83536900  1
+  O  O3  1  0.80487100  0.19512900  0.16505500  1
+  O  O4  1  0.80014200  0.19985800  0.49984000  1
+  O  O5  1  0.80610000  0.19390000  0.83536900  1
+  O  O6  1  0.30014200  0.30014200  0.99984000  1
+  O  O7  1  0.30610000  0.30610000  0.33536900  1
+  O  O8  1  0.30487100  0.30487100  0.66505500  1
+  O  O9  1  0.69985800  0.69985800  0.99984000  1
+  O  O10  1  0.69390000  0.69390000  0.33536900  1
+  O  O11  1  0.69512900  0.69512900  0.66505500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 O11 2.001245 1_555
+Nb0 O8 2.001245 1_555
+Nb0 O9 2.012914 1_555
+Nb0 O6 2.012914 1_555
+Nb0 O2 2.031947 1_555
+Nb0 O5 2.031947 1_555
+Nb1 O0 2.001245 1_545
+Nb1 O3 2.001245 1_455
+Nb1 O1 2.012914 1_545
+Nb1 O4 2.012914 1_455
+Nb1 O7 2.031947 1_555
+Nb1 O10 2.031947 1_445
+Ga0 O10 1.996481 1_555
+Ga0 O7 1.996481 1_555
+Ga0 O9 2.017499 1_554
+Ga0 O6 2.017499 1_554
+Ga0 O3 2.023783 1_555
+Ga0 O0 2.023783 1_555
+Ga1 O5 1.996481 1_455
+Ga1 O2 1.996481 1_545
+Ga1 O1 2.017499 1_545
+Ga1 O4 2.017499 1_455
+Ga1 O11 2.023783 1_445
+Ga1 O8 2.023783 1_555
+O0 Ti1 1.986749 1_564
+O1 Ti0 1.992305 1_555
+O2 Ti1 1.966407 1_565
+O3 Ti1 1.986749 1_654
+O4 Ti0 1.992305 1_555
+O5 Ti1 1.966407 1_655
+O6 Ti1 1.992305 1_555
+O7 Ti0 1.966407 1_555
+O8 Ti0 1.986749 1_555
+O9 Ti1 1.992305 1_665
+O10 Ti0 1.966407 1_555
+O11 Ti0 1.986749 1_555

@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_MgCr2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01360200
+_cell_length_b   5.27743300
+_cell_length_c   7.15675000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCr2O6
+_chemical_formula_sum   'Mg2 Cr4 O12'
+_cell_volume   189.36008071
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.52645500  0.32639000  0.50000000  1
+  Mg  Mg1  1  0.02645500  0.67361000  0.00000000  1
+  Cr  Cr0  1  0.52979400  0.76669500  0.73943100  1
+  Cr  Cr1  1  0.02979400  0.23330500  0.76056900  1
+  Cr  Cr2  1  0.02979400  0.23330500  0.23943100  1
+  Cr  Cr3  1  0.52979400  0.76669500  0.26056900  1
+  O  O0  1  0.68227500  0.05946400  0.31359300  1
+  O  O1  1  0.18227500  0.94053600  0.18640700  1
+  O  O2  1  0.76995500  0.53482600  0.69336000  1
+  O  O3  1  0.26995500  0.46517400  0.80664000  1
+  O  O4  1  0.26995500  0.46517400  0.19336000  1
+  O  O5  1  0.76995500  0.53482600  0.30664000  1
+  O  O6  1  0.18227500  0.94053600  0.81359300  1
+  O  O7  1  0.68227500  0.05946400  0.68640700  1
+  O  O8  1  0.13398300  0.22854500  0.50000000  1
+  O  O9  1  0.63398300  0.77145500  0.00000000  1
+  O  O10  1  0.38833100  0.72902500  0.50000000  1
+  O  O11  1  0.88833100  0.27097500  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O8 2.034324 1_555
+Mg0 O7 2.091515 1_555
+Mg0 O0 2.091515 1_555
+Mg0 O2 2.148344 1_555
+Mg0 O5 2.148344 1_555
+Mg0 O10 2.234875 1_555
+Mg1 O9 2.034324 1_455
+Mg1 O6 2.091515 1_554
+Mg1 O1 2.091515 1_555
+Mg1 O3 2.148344 1_554
+Mg1 O4 2.148344 1_555
+Mg1 O11 2.234875 1_455
+Cr0 O2 1.748107 1_555
+Cr0 O7 1.765126 1_565
+Cr0 O10 1.865151 1_555
+Cr0 O9 1.936769 1_556
+Cr0 O6 2.039381 1_555
+Cr0 O3 2.112004 1_555
+Cr1 O3 1.748107 1_555
+Cr1 O6 1.765126 1_545
+Cr1 O11 1.865151 1_456
+Cr1 O8 1.936769 1_555
+Cr1 O7 2.039381 1_455
+Cr1 O2 2.112004 1_455
+Cr2 O4 1.748107 1_555
+Cr2 O1 1.765126 1_545
+Cr2 O11 1.865151 1_455
+Cr2 O8 1.936769 1_555
+Cr2 O0 2.039381 1_455
+Cr2 O5 2.112004 1_455
+Cr3 O5 1.748107 1_555
+Cr3 O0 1.765126 1_565
+Cr3 O10 1.865151 1_555
+Cr3 O9 1.936769 1_555
+Cr3 O1 2.039381 1_555
+Cr3 O4 2.112004 1_555

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Co(SiSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92416060
+_cell_length_b   6.92416060
+_cell_length_c   6.26488620
+_cell_angle_alpha   64.19103401
+_cell_angle_beta   64.19103401
+_cell_angle_gamma   30.16342094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(SiSe2)2
+_chemical_formula_sum   'Co1 Si2 Se4'
+_cell_volume   134.70994066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.26374900  0.26374900  0.71538100  1
+  Si  Si1  1  0.73625100  0.73625100  0.28461900  1
+  Se  Se0  1  0.38111500  0.38111500  0.97457700  1
+  Se  Se1  1  0.61888500  0.61888500  0.02542300  1
+  Se  Se2  1  0.11673700  0.11673700  0.56337500  1
+  Se  Se3  1  0.88326300  0.88326300  0.43662500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Se0 2.454912 1_454
+Co0 Se0 2.454912 1_544
+Co0 Se1 2.454912 1_455
+Co0 Se1 2.454912 1_545
+Co0 Se3 2.463420 1_445
+Co0 Se2 2.463420 1_554
+Se0 Si1 2.716214 1_456
+Se0 Si1 2.716214 1_546
+Se0 Si0 2.719885 1_555
+Se1 Si0 2.716214 1_564
+Se1 Si0 2.716214 1_654
+Se1 Si1 2.719885 1_555
+Se2 Si1 2.516498 1_455
+Se2 Si1 2.516498 1_545
+Se2 Si0 2.541494 1_555
+Se3 Si0 2.516498 1_565
+Se3 Si0 2.516498 1_655
+Se3 Si1 2.541494 1_555

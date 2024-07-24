@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Sr2MgTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83441540
+_cell_length_b   3.83441566
+_cell_length_c   8.95074294
+_cell_angle_alpha   102.36833214
+_cell_angle_beta   102.36832954
+_cell_angle_gamma   90.00000295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2MgTiO4
+_chemical_formula_sum   'Sr2 Mg1 Ti1 O4'
+_cell_volume   125.41742864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.61085700  0.61085700  0.22171200  1
+  Sr  Sr1  1  0.38914300  0.38914300  0.77828800  1
+  Mg  Mg0  1  0.25000000  0.75000000  0.50000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.80782200  0.80782200  0.61564500  1
+  O  O1  1  0.19217800  0.19217800  0.38435500  1
+  O  O2  1  0.99906000  0.49906000  0.99811900  1
+  O  O3  1  0.50094000  0.00094000  0.00188100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 2.156110 1_555
+Mg0 O1 2.156110 1_555
+Mg0 O0 2.156114 1_455
+Mg0 O1 2.156114 1_565
+O0 Sr1 3.045681 1_665
+O0 Sr1 3.045684 1_565
+O0 Sr1 3.045684 1_655
+O0 Sr1 3.045686 1_555
+O1 Sr0 3.045681 1_445
+O1 Sr0 3.045684 1_545
+O1 Sr0 3.045684 1_455
+O1 Sr0 3.045686 1_555
+O2 Ti0 1.917273 1_666
+O2 Ti0 1.917277 1_656
+O2 Sr1 2.681800 1_655
+O2 Sr1 2.681808 1_555
+O2 Sr0 2.704339 1_556
+O2 Sr0 2.704342 1_656
+O3 Ti0 1.917273 1_555
+O3 Ti0 1.917277 1_655
+O3 Sr0 2.681801 1_545
+O3 Sr0 2.681808 1_555
+O3 Sr1 2.704339 1_554
+O3 Sr1 2.704342 1_544

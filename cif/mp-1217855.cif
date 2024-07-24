@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Tb(SiNi5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26631376
+_cell_length_b   6.26631376
+_cell_length_c   6.26631376
+_cell_angle_alpha   135.54168729
+_cell_angle_beta   100.12257110
+_cell_angle_gamma   96.34328735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb(SiNi5)2
+_chemical_formula_sum   'Tb1 Si2 Ni10'
+_cell_volume   159.41209133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.65500200  0.65500200  0.00000000  1
+  Si  Si1  1  0.34499800  0.34499800  0.00000000  1
+  Ni  Ni0  1  0.25456200  0.50000000  0.75456200  1
+  Ni  Ni1  1  0.74543800  0.50000000  0.24543800  1
+  Ni  Ni2  1  0.22697500  0.72697500  0.50000000  1
+  Ni  Ni3  1  0.77302500  0.27302500  0.50000000  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni6  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni7  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni8  1  0.65188400  0.00000000  0.65188400  1
+  Ni  Ni9  1  0.34811600  0.00000000  0.34811600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Si1 2.591021 1_555
+Si0 Tb0 2.883502 1_665
+Si1 Tb0 2.883502 1_555
+Ni0 Si0 2.361719 1_556
+Ni0 Si1 2.361719 1_556
+Ni0 Ni6 2.402571 1_555
+Ni0 Ni4 2.402571 1_555
+Ni0 Ni7 2.402571 1_566
+Ni0 Ni5 2.402571 1_556
+Ni0 Ni9 2.487246 1_555
+Ni0 Ni9 2.487246 1_566
+Ni0 Ni2 2.791688 1_555
+Ni0 Ni3 2.791688 1_455
+Ni0 Tb0 3.132813 1_566
+Ni0 Tb0 3.132813 1_555
+Ni1 Si0 2.361719 1_555
+Ni1 Si1 2.361719 1_555
+Ni1 Ni5 2.402571 1_655
+Ni1 Ni4 2.402571 1_665
+Ni1 Ni6 2.402571 1_555
+Ni1 Ni7 2.402571 1_555
+Ni1 Ni8 2.487246 1_554
+Ni1 Ni8 2.487246 1_565
+Ni1 Ni2 2.791688 1_655
+Ni1 Ni3 2.791688 1_555
+Ni1 Tb0 3.132813 1_655
+Ni1 Tb0 3.132813 1_666
+Ni2 Ni4 2.342577 1_565
+Ni2 Ni7 2.342577 1_566
+Ni2 Ni5 2.342577 1_555
+Ni2 Ni6 2.342577 1_555
+Ni2 Si1 2.567666 1_566
+Ni2 Si1 2.567666 1_555
+Ni2 Ni8 2.588543 1_565
+Ni2 Ni9 2.588543 1_565
+Ni2 Tb0 3.036230 1_555
+Ni2 Tb0 3.036230 1_566
+Ni3 Ni7 2.342577 1_555
+Ni3 Ni5 2.342577 1_656
+Ni3 Ni4 2.342577 1_655
+Ni3 Ni6 2.342577 1_555
+Ni3 Si0 2.567666 1_545
+Ni3 Si0 2.567666 1_556
+Ni3 Ni9 2.588543 1_555
+Ni3 Ni8 2.588543 1_555
+Ni3 Tb0 3.036230 1_666
+Ni3 Tb0 3.036230 1_655
+Ni4 Ni5 2.370621 1_545
+Ni4 Ni5 2.370621 1_556
+Ni4 Si1 2.465981 1_556
+Ni4 Si0 2.465981 1_445
+Ni4 Ni9 2.528665 1_555
+Ni4 Ni8 2.528665 1_455
+Ni4 Tb0 3.133157 1_555
+Ni4 Tb0 3.133157 1_556
+Ni5 Si0 2.465981 1_455
+Ni5 Si1 2.465981 1_555
+Ni5 Ni9 2.528665 1_565
+Ni5 Ni8 2.528665 1_454
+Ni5 Tb0 3.133157 1_555
+Ni5 Tb0 3.133157 1_565
+Ni6 Ni7 2.370621 1_566
+Ni6 Ni7 2.370621 1_555
+Ni6 Si0 2.465981 1_556
+Ni6 Si1 2.465981 1_555
+Ni6 Ni9 2.528665 1_555
+Ni6 Ni8 2.528665 1_565
+Ni6 Tb0 3.133157 1_555
+Ni6 Tb0 3.133157 1_666
+Ni7 Si0 2.465981 1_545
+Ni7 Si1 2.465981 1_555
+Ni7 Ni9 2.528665 1_555
+Ni7 Ni8 2.528665 1_554
+Ni7 Tb0 3.133157 1_555
+Ni7 Tb0 3.133157 1_655
+Ni8 Ni9 2.443979 1_555
+Ni8 Tb0 2.800783 1_656
+Ni9 Tb0 2.800783 1_555

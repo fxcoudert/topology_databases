@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Si2NiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38929631
+_cell_length_b   6.38929631
+_cell_length_c   5.31782007
+_cell_angle_alpha   74.75979645
+_cell_angle_beta   74.75979645
+_cell_angle_gamma   83.59488884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2NiO6
+_chemical_formula_sum   'Si4 Ni2 O12'
+_cell_volume   201.87899960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.28878000  0.11279400  0.74421900  1
+  Si  Si1  1  0.71122000  0.88720600  0.25578100  1
+  Si  Si2  1  0.88720600  0.71122000  0.75578100  1
+  Si  Si3  1  0.11279400  0.28878000  0.24421900  1
+  Ni  Ni0  1  0.41363600  0.58636400  0.75000000  1
+  Ni  Ni1  1  0.58636400  0.41363600  0.25000000  1
+  O  O0  1  0.86236000  0.85742400  0.46427600  1
+  O  O1  1  0.41724600  0.87647900  0.78398500  1
+  O  O2  1  0.69541900  0.52889400  0.86296200  1
+  O  O3  1  0.13764000  0.14257600  0.53572400  1
+  O  O4  1  0.58275400  0.12352100  0.21601500  1
+  O  O5  1  0.30458100  0.47110600  0.13703800  1
+  O  O6  1  0.12352100  0.58275400  0.71601500  1
+  O  O7  1  0.47110600  0.30458100  0.63703800  1
+  O  O8  1  0.85742400  0.86236000  0.96427600  1
+  O  O9  1  0.14257600  0.13764000  0.03572400  1
+  O  O10  1  0.52889400  0.69541900  0.36296200  1
+  O  O11  1  0.87647900  0.41724600  0.28398500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 O1 1.912326 1_555
+Ni0 O6 1.912326 1_555
+Ni0 O5 1.956444 1_556
+Ni0 O10 1.956444 1_555
+Ni0 O7 2.010530 1_555
+Ni0 O2 2.010530 1_555
+Ni1 O4 1.912326 1_555
+Ni1 O11 1.912326 1_555
+Ni1 O2 1.956444 1_554
+Ni1 O7 1.956444 1_555
+Ni1 O5 2.010530 1_555
+Ni1 O10 2.010530 1_555
+O0 Si1 1.615247 1_555
+O0 Si2 1.623527 1_555
+O1 Si0 1.626370 1_565
+O2 Si2 1.669053 1_555
+O3 Si0 1.615247 1_555
+O3 Si3 1.623527 1_555
+O4 Si1 1.626370 1_545
+O5 Si3 1.669053 1_555
+O6 Si2 1.626370 1_455
+O7 Si0 1.669053 1_555
+O8 Si2 1.615247 1_555
+O8 Si1 1.623527 1_556
+O9 Si3 1.615247 1_555
+O9 Si0 1.623527 1_554
+O10 Si1 1.669053 1_555
+O11 Si3 1.626370 1_655

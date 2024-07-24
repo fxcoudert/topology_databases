@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_UCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96626836
+_cell_length_b   7.01301070
+_cell_length_c   7.13680207
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCoSi
+_chemical_formula_sum   'U4 Co4 Si4'
+_cell_volume   198.51359271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.25357131  0.92339562  1
+  Si  Si1  1  0.75000000  0.74642869  0.07660438  1
+  Si  Si2  1  0.25000000  0.75357131  0.57660438  1
+  Si  Si3  1  0.75000000  0.24642869  0.42339562  1
+  Co  Co0  1  0.75000000  0.75317266  0.40243118  1
+  Co  Co1  1  0.25000000  0.24682734  0.59756882  1
+  Co  Co2  1  0.75000000  0.25317266  0.09756882  1
+  Co  Co3  1  0.25000000  0.74682734  0.90243118  1
+  U  U0  1  0.25000000  0.49927922  0.25274819  1
+  U  U1  1  0.75000000  0.50072078  0.74725181  1
+  U  U2  1  0.25000000  0.99927922  0.24725181  1
+  U  U3  1  0.75000000  0.00072078  0.75274819  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 U0 2.914484 1_556
+Si0 U1 2.918446 1_555
+Si0 U1 2.918446 1_455
+Si0 U2 2.919323 1_546
+Si0 U3 2.925823 1_455
+Si0 U3 2.925823 1_555
+Si1 U1 2.914484 1_554
+Si1 U0 2.918446 1_655
+Si1 U0 2.918446 1_555
+Si1 U3 2.919323 1_564
+Si1 U2 2.925823 1_655
+Si1 U2 2.925823 1_555
+Si2 U2 2.914484 1_555
+Si2 U3 2.918446 1_465
+Si2 U3 2.918446 1_565
+Si2 U0 2.919323 1_555
+Si2 U1 2.925823 1_455
+Si2 U1 2.925823 1_555
+Si3 U3 2.914484 1_555
+Si3 U2 2.918446 1_645
+Si3 U2 2.918446 1_545
+Si3 U1 2.919323 1_555
+Si3 U0 2.925823 1_555
+Si3 U0 2.925823 1_655
+Co0 Si1 2.325842 1_555
+Co0 Si2 2.340508 1_655
+Co0 Si2 2.340508 1_555
+Co0 U2 2.852760 1_655
+Co0 U2 2.852760 1_555
+Co0 U0 2.871303 1_555
+Co0 U0 2.871303 1_655
+Co0 U1 3.031600 1_555
+Co0 U3 3.043782 1_565
+Co1 Si0 2.325842 1_555
+Co1 Si3 2.340508 1_555
+Co1 Si3 2.340508 1_455
+Co1 U3 2.852760 1_555
+Co1 U3 2.852760 1_455
+Co1 U1 2.871303 1_455
+Co1 U1 2.871303 1_555
+Co1 U0 3.031600 1_555
+Co1 U2 3.043782 1_545
+Co2 Si3 2.325842 1_555
+Co2 Si0 2.340508 1_654
+Co2 Si0 2.340508 1_554
+Co2 U0 2.852760 1_655
+Co2 U0 2.852760 1_555
+Co2 U2 2.871303 1_545
+Co2 U2 2.871303 1_645
+Co2 U3 3.031600 1_554
+Co2 U1 3.043782 1_554
+Co3 Si2 2.325842 1_555
+Co3 Si1 2.340508 1_456
+Co3 Si1 2.340508 1_556
+Co3 U1 2.852760 1_555
+Co3 U1 2.852760 1_455
+Co3 U3 2.871303 1_565
+Co3 U3 2.871303 1_465
+Co3 U2 3.031600 1_556
+Co3 U0 3.043782 1_556

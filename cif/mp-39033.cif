@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Sr(NdSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83551096
+_cell_length_b   7.83551125
+_cell_length_c   7.83551200
+_cell_angle_alpha   109.43573267
+_cell_angle_beta   109.54221168
+_cell_angle_gamma   109.43574280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(NdSe2)2
+_chemical_formula_sum   'Sr2 Nd4 Se8'
+_cell_volume   370.32210784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.12500000  0.75000000  0.87500000  1
+  Sr  Sr1  1  0.37500000  0.25000000  0.62500000  1
+  Nd  Nd0  1  0.25000000  0.62673693  0.37673693  1
+  Nd  Nd1  1  0.75000000  0.87326307  0.12326307  1
+  Nd  Nd2  1  0.62326307  0.37326307  0.25000000  1
+  Nd  Nd3  1  0.87673693  0.12673693  0.75000000  1
+  Se  Se0  1  0.14163271  0.15102073  0.14250303  1
+  Se  Se1  1  0.35836729  0.50086933  0.00938802  1
+  Se  Se2  1  0.64250303  0.65102073  0.64163271  1
+  Se  Se3  1  0.50938802  0.00086933  0.85836729  1
+  Se  Se4  1  0.50851869  0.99913067  0.35749697  1
+  Se  Se5  1  0.99061198  0.84897927  0.49148131  1
+  Se  Se6  1  0.85749697  0.49913067  0.00851869  1
+  Se  Se7  1  0.99148131  0.34897927  0.49061198  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nd0 Se6 2.979927 1_455
+Nd0 Se2 2.979928 1_555
+Nd0 Se7 3.033733 1_455
+Nd0 Se4 3.033738 1_555
+Nd0 Se0 3.206532 1_555
+Nd0 Se1 3.206533 1_555
+Nd0 Se5 3.241525 1_455
+Nd0 Se3 3.241525 1_565
+Nd1 Se3 2.979923 1_564
+Nd1 Se5 2.979923 1_555
+Nd1 Se0 3.033729 1_665
+Nd1 Se1 3.033733 1_555
+Nd1 Se4 3.206528 1_555
+Nd1 Se7 3.206533 1_565
+Nd1 Se6 3.241520 1_555
+Nd1 Se2 3.241527 1_554
+Nd2 Se7 2.979922 1_555
+Nd2 Se1 2.979922 1_555
+Nd2 Se2 3.033730 1_555
+Nd2 Se3 3.033734 1_554
+Nd2 Se6 3.206528 1_555
+Nd2 Se5 3.206533 1_555
+Nd2 Se4 3.241519 1_545
+Nd2 Se0 3.241527 1_555
+Nd3 Se4 2.979927 1_545
+Nd3 Se0 2.979929 1_656
+Nd3 Se5 3.033734 1_545
+Nd3 Se6 3.033738 1_556
+Nd3 Se2 3.206532 1_545
+Nd3 Se3 3.206533 1_555
+Nd3 Se1 3.241524 1_656
+Nd3 Se7 3.241525 1_555
+Se0 Sr0 3.073336 1_544
+Se0 Sr1 3.273867 1_555
+Se1 Sr1 3.073334 1_554
+Se1 Sr0 3.273874 1_554
+Se2 Sr1 3.073336 1_555
+Se2 Sr0 3.273866 1_655
+Se3 Sr0 3.073333 1_545
+Se3 Sr1 3.273874 1_555
+Se4 Sr1 3.073339 1_565
+Se4 Sr0 3.273869 1_554
+Se5 Sr1 3.073333 1_665
+Se5 Sr0 3.273874 1_655
+Se6 Sr0 3.073338 1_654
+Se6 Sr1 3.273868 1_554
+Se7 Sr0 3.073334 1_655
+Se7 Sr1 3.273873 1_655

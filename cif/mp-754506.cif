@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_V2CrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76220870
+_cell_length_b   6.76220870
+_cell_length_c   5.70810371
+_cell_angle_alpha   75.17271933
+_cell_angle_beta   75.17271933
+_cell_angle_gamma   84.63038234
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2CrO6
+_chemical_formula_sum   'V4 Cr2 O12'
+_cell_volume   243.81341532
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.79944100  0.60498900  0.26025900  1
+  V  V1  1  0.60498900  0.79944100  0.76025900  1
+  V  V2  1  0.39501100  0.20055900  0.23974100  1
+  V  V3  1  0.20055900  0.39501100  0.73974100  1
+  Cr  Cr0  1  0.91631900  0.08368100  0.25000000  1
+  Cr  Cr1  1  0.08368100  0.91631900  0.75000000  1
+  O  O0  1  0.96867400  0.81296700  0.13116500  1
+  O  O1  1  0.91559100  0.36525200  0.28749700  1
+  O  O2  1  0.81296700  0.96867400  0.63116500  1
+  O  O3  1  0.62908000  0.64675600  0.05747600  1
+  O  O4  1  0.63474800  0.08440900  0.21250300  1
+  O  O5  1  0.64675600  0.62908000  0.55747600  1
+  O  O6  1  0.35324500  0.37092000  0.44252400  1
+  O  O7  1  0.36525200  0.91559100  0.78749700  1
+  O  O8  1  0.37092000  0.35324500  0.94252400  1
+  O  O9  1  0.18703300  0.03132600  0.36883500  1
+  O  O10  1  0.08440900  0.63474800  0.71250300  1
+  O  O11  1  0.03132600  0.18703300  0.86883500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 O4 1.969137 1_555
+Cr0 O1 1.969137 1_555
+Cr0 O2 2.069906 1_545
+Cr0 O11 2.069906 1_654
+Cr0 O9 2.080380 1_655
+Cr0 O0 2.080380 1_545
+Cr1 O7 1.969137 1_555
+Cr1 O10 1.969137 1_555
+Cr1 O0 2.069906 1_456
+Cr1 O9 2.069906 1_565
+Cr1 O2 2.080380 1_455
+Cr1 O11 2.080380 1_565
+O0 V0 1.780384 1_555
+O1 V0 1.721741 1_555
+O2 V1 1.780384 1_555
+O3 V1 1.784458 1_554
+O3 V0 1.789133 1_555
+O4 V2 1.721741 1_555
+O5 V0 1.784458 1_555
+O5 V1 1.789133 1_555
+O6 V3 1.784460 1_555
+O6 V2 1.789134 1_555
+O7 V1 1.721741 1_555
+O8 V2 1.784460 1_556
+O8 V3 1.789134 1_555
+O9 V2 1.780384 1_555
+O10 V3 1.721741 1_555
+O11 V3 1.780384 1_555

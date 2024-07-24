@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_NaCaLaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78776600
+_cell_length_b   6.16832512
+_cell_length_c   6.16832462
+_cell_angle_alpha   119.99999862
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaLaF6
+_chemical_formula_sum   'Na1 Ca1 La1 F6'
+_cell_volume   124.80967634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99600300  0.00000000  0.00000000  1
+  Ca  Ca0  1  0.74301500  0.33333300  0.66666700  1
+  La  La0  1  0.25770100  0.66666700  0.33333300  1
+  F  F0  1  0.24609900  0.08296900  0.38744000  1
+  F  F1  1  0.24609900  0.61256000  0.69553000  1
+  F  F2  1  0.24609900  0.30447000  0.91703100  1
+  F  F3  1  0.75499500  0.91911000  0.61112100  1
+  F  F4  1  0.75499500  0.38887900  0.30798900  1
+  F  F5  1  0.75499500  0.69201100  0.08089000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F3 2.402574 1_545
+Ca0 F5 2.402577 1_556
+Ca0 F4 2.402580 1_555
+Ca0 F2 2.496852 1_555
+Ca0 F0 2.496852 1_555
+Ca0 F1 2.496852 1_555
+Ca0 F2 2.514511 1_655
+Ca0 F0 2.514511 1_655
+Ca0 F1 2.514511 1_655
+F0 Na0 2.376476 1_455
+F0 La0 2.418745 1_545
+F1 Na0 2.376474 1_466
+F1 La0 2.418757 1_555
+F2 Na0 2.376470 1_456
+F2 La0 2.418750 1_556
+F3 Na0 2.374734 1_566
+F3 La0 2.498134 1_555
+F3 La0 2.513627 1_655
+F4 Na0 2.374735 1_555
+F4 La0 2.498135 1_555
+F4 La0 2.513628 1_655
+F5 Na0 2.374735 1_565
+F5 La0 2.498131 1_555
+F5 La0 2.513624 1_655

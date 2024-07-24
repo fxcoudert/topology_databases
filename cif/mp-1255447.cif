@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_ZnFe(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39890622
+_cell_length_b   6.82118324
+_cell_length_c   6.82286730
+_cell_angle_alpha   87.45129581
+_cell_angle_beta   75.03825727
+_cell_angle_gamma   75.04215805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFe(SiO3)2
+_chemical_formula_sum   'Zn2 Fe2 Si4 O12'
+_cell_volume   234.45556590
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.74986600  0.23519200  0.76485900  1
+  Zn  Zn1  1  0.24992500  0.76481600  0.23523200  1
+  Fe  Fe0  1  0.24997800  0.10404300  0.89573100  1
+  Fe  Fe1  1  0.74994300  0.89585000  0.10413600  1
+  Si  Si0  1  0.22093100  0.22128300  0.38732800  1
+  Si  Si1  1  0.27913000  0.61261200  0.77881800  1
+  Si  Si2  1  0.72098500  0.38733300  0.22123000  1
+  Si  Si3  1  0.77916600  0.77874900  0.61257400  1
+  O  O0  1  0.45888300  0.33435600  0.37803800  1
+  O  O1  1  0.04141000  0.62212300  0.66551500  1
+  O  O2  1  0.54133300  0.66551100  0.62211800  1
+  O  O3  1  0.95884400  0.37808700  0.33432200  1
+  O  O4  1  0.12307100  0.14755300  0.61920700  1
+  O  O5  1  0.37665100  0.38074000  0.85275900  1
+  O  O6  1  0.87674200  0.85260800  0.38070500  1
+  O  O7  1  0.62320200  0.61921700  0.14742200  1
+  O  O8  1  0.83908700  0.20873500  0.04170800  1
+  O  O9  1  0.66082600  0.95830000  0.79118500  1
+  O  O10  1  0.33911200  0.04164100  0.20882100  1
+  O  O11  1  0.16091300  0.79125400  0.95829400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O9 2.127203 1_545
+Fe0 O8 2.127842 1_456
+Fe0 O5 2.151635 1_555
+Fe0 O4 2.151700 1_555
+Fe0 O11 2.303968 1_545
+Fe0 O10 2.306551 1_556
+Fe1 O10 2.127279 1_565
+Fe1 O11 2.127945 1_654
+Fe1 O7 2.151439 1_555
+Fe1 O6 2.151666 1_555
+Fe1 O8 2.304692 1_565
+Fe1 O9 2.305622 1_554
+O0 Si0 1.647549 1_555
+O0 Si2 1.650908 1_555
+O1 Si1 1.647380 1_555
+O1 Si3 1.650869 1_455
+O2 Si3 1.647412 1_555
+O2 Si1 1.650789 1_555
+O3 Si2 1.647417 1_555
+O3 Si0 1.650925 1_655
+O4 Si0 1.633968 1_555
+O4 Zn0 1.949845 1_455
+O5 Si1 1.633897 1_555
+O5 Zn0 1.949793 1_555
+O6 Si3 1.633981 1_555
+O6 Zn1 1.949500 1_655
+O7 Si2 1.633867 1_555
+O7 Zn1 1.950119 1_555
+O8 Si2 1.649067 1_555
+O8 Zn0 2.056010 1_554
+O9 Si3 1.649264 1_555
+O9 Zn0 2.055383 1_565
+O10 Si0 1.649202 1_555
+O10 Zn1 2.055285 1_545
+O11 Si1 1.649059 1_555
+O11 Zn1 2.056098 1_556

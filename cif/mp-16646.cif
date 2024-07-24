@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_PrMgRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16514575
+_cell_length_b   7.27442152
+_cell_length_c   8.74188426
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMgRh
+_chemical_formula_sum   'Pr4 Mg4 Rh4'
+_cell_volume   264.87057741
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.25000000  0.53847360  0.82055950  1
+  Pr  Pr1  1  0.75000000  0.46152640  0.17944050  1
+  Pr  Pr2  1  0.25000000  0.03847360  0.67944050  1
+  Pr  Pr3  1  0.75000000  0.96152640  0.32055950  1
+  Mg  Mg0  1  0.25000000  0.63266212  0.44380477  1
+  Mg  Mg1  1  0.75000000  0.36733788  0.55619523  1
+  Mg  Mg2  1  0.25000000  0.13266212  0.05619523  1
+  Mg  Mg3  1  0.75000000  0.86733788  0.94380477  1
+  Rh  Rh0  1  0.75000000  0.74700492  0.62596294  1
+  Rh  Rh1  1  0.25000000  0.25299508  0.37403706  1
+  Rh  Rh2  1  0.75000000  0.24700492  0.87403706  1
+  Rh  Rh3  1  0.25000000  0.75299508  0.12596294  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Rh2 3.008519 1_455
+Pr0 Rh2 3.008519 1_555
+Pr0 Rh0 3.087412 1_555
+Pr0 Rh0 3.087412 1_455
+Pr0 Rh3 3.092420 1_556
+Pr1 Rh3 3.008519 1_655
+Pr1 Rh3 3.008519 1_555
+Pr1 Rh1 3.087412 1_655
+Pr1 Rh1 3.087412 1_555
+Pr1 Rh2 3.092420 1_554
+Pr2 Rh0 3.008519 1_445
+Pr2 Rh0 3.008519 1_545
+Pr2 Rh2 3.087412 1_455
+Pr2 Rh2 3.087412 1_555
+Pr2 Rh1 3.092420 1_555
+Pr3 Rh1 3.008519 1_565
+Pr3 Rh1 3.008519 1_665
+Pr3 Rh3 3.087412 1_655
+Pr3 Rh3 3.087412 1_555
+Pr3 Rh0 3.092420 1_555
+Mg0 Rh0 2.750404 1_555
+Mg0 Rh0 2.750404 1_455
+Mg0 Rh1 2.828399 1_555
+Mg0 Rh3 2.913161 1_555
+Mg1 Rh1 2.750404 1_555
+Mg1 Rh1 2.750404 1_655
+Mg1 Rh0 2.828399 1_555
+Mg1 Rh2 2.913161 1_555
+Mg2 Rh2 2.750404 1_554
+Mg2 Rh2 2.750404 1_454
+Mg2 Rh3 2.828399 1_545
+Mg2 Rh1 2.913161 1_555
+Mg3 Rh3 2.750404 1_556
+Mg3 Rh3 2.750404 1_656
+Mg3 Rh2 2.828399 1_565
+Mg3 Rh0 2.913161 1_555

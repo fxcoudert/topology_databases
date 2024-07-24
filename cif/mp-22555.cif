@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_RhS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73014691
+_cell_length_b   5.72985766
+_cell_length_c   5.72919924
+_cell_angle_alpha   89.99803109
+_cell_angle_beta   89.99879483
+_cell_angle_gamma   90.00129969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhS2
+_chemical_formula_sum   'Rh4 S8'
+_cell_volume   188.10637553
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.00000188  0.50001095  0.50000443  1
+  Rh  Rh1  1  0.49999976  0.50001070  -0.00000043  1
+  Rh  Rh2  1  0.49999471  -0.00001475  0.49999799  1
+  Rh  Rh3  1  -0.00000270  -0.00001284  -0.00000281  1
+  S  S0  1  0.39230946  0.10757055  0.89214967  1
+  S  S1  1  0.10774818  0.89226756  0.39240592  1
+  S  S2  1  0.89239631  0.39230278  0.10784103  1
+  S  S3  1  0.60774993  0.60780894  0.60752912  1
+  S  S4  1  0.39224846  0.39220954  0.39246766  1
+  S  S5  1  0.10760526  0.60771366  0.89215928  1
+  S  S6  1  0.89225716  0.10771749  0.60759723  1
+  S  S7  1  0.60769258  0.89241642  0.10785089  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rh0 S5 2.410178 1_555
+Rh0 S2 2.410235 1_455
+Rh0 S1 2.410937 1_555
+Rh0 S4 2.411014 1_555
+Rh0 S3 2.411020 1_455
+Rh0 S6 2.411123 1_455
+Rh1 S7 2.412072 1_555
+Rh1 S5 2.412118 1_554
+Rh1 S2 2.412138 1_555
+Rh1 S4 2.412149 1_555
+Rh1 S3 2.412156 1_554
+Rh1 S0 2.412250 1_554
+Rh2 S7 2.410062 1_545
+Rh2 S0 2.410092 1_555
+Rh2 S3 2.410455 1_545
+Rh2 S4 2.410697 1_555
+Rh2 S1 2.410970 1_545
+Rh2 S6 2.411087 1_555
+Rh3 S5 2.411241 1_544
+Rh3 S7 2.411414 1_445
+Rh3 S0 2.411463 1_554
+Rh3 S2 2.411465 1_455
+Rh3 S6 2.411696 1_454
+Rh3 S1 2.411743 1_545
+S0 S7 2.137806 1_546
+S1 S6 2.137473 1_465
+S2 S5 2.137952 1_654
+S3 S4 2.137571 1_555

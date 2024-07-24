@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_Mn(NbSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04604498
+_cell_length_b   6.04604498
+_cell_length_c   12.24387911
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999231
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(NbSe2)3
+_chemical_formula_sum   'Mn2 Nb6 Se12'
+_cell_volume   387.60774429
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333300  0.66666700  0.25000000  1
+  Mn  Mn1  1  0.66666700  0.33333300  0.75000000  1
+  Nb  Nb0  1  0.33333300  0.66666700  0.99840306  1
+  Nb  Nb1  1  0.66666700  0.33333300  0.00159694  1
+  Nb  Nb2  1  0.66666700  0.33333300  0.49840306  1
+  Nb  Nb3  1  0.33333300  0.66666700  0.50159694  1
+  Nb  Nb4  1  0.00000000  0.00000000  0.50000000  1
+  Nb  Nb5  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.33250062  0.33505807  0.36429351  1
+  Se  Se1  1  0.66494193  -0.00255745  0.36429351  1
+  Se  Se2  1  0.00255745  0.66749938  0.36429351  1
+  Se  Se3  1  0.33505807  0.33250062  0.63570649  1
+  Se  Se4  1  -0.00255745  0.66494193  0.63570649  1
+  Se  Se5  1  0.66749938  0.00255745  0.63570649  1
+  Se  Se6  1  0.66749938  0.66494193  0.86429351  1
+  Se  Se7  1  0.33505807  0.00255745  0.86429351  1
+  Se  Se8  1  -0.00255745  0.33250062  0.86429351  1
+  Se  Se9  1  0.66494193  0.66749938  0.13570649  1
+  Se  Se10  1  0.00255745  0.33505807  0.13570649  1
+  Se  Se11  1  0.33250062  -0.00255745  0.13570649  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 Se11 2.442936 1_565
+Mn0 Se2 2.442936 1_555
+Mn0 Se1 2.442938 1_565
+Mn0 Se10 2.442938 1_555
+Mn0 Se0 2.442941 1_555
+Mn0 Se9 2.442941 1_555
+Mn1 Se5 2.442936 1_555
+Mn1 Se8 2.442936 1_655
+Mn1 Se7 2.442938 1_555
+Mn1 Se4 2.442938 1_655
+Mn1 Se6 2.442941 1_555
+Mn1 Se3 2.442941 1_555
+Nb0 Se7 2.607555 1_565
+Nb0 Se8 2.607558 1_555
+Nb0 Se6 2.607560 1_555
+Nb0 Se11 2.614539 1_566
+Nb0 Se10 2.614541 1_556
+Nb0 Se9 2.614543 1_556
+Nb1 Se10 2.607555 1_655
+Nb1 Se11 2.607558 1_555
+Nb1 Se9 2.607560 1_555
+Nb1 Se8 2.614539 1_654
+Nb1 Se7 2.614541 1_554
+Nb1 Se6 2.614543 1_554
+Nb2 Se1 2.607555 1_555
+Nb2 Se2 2.607558 1_655
+Nb2 Se0 2.607560 1_555
+Nb2 Se5 2.614539 1_555
+Nb2 Se4 2.614541 1_655
+Nb2 Se3 2.614543 1_555
+Nb3 Se4 2.607555 1_555
+Nb3 Se5 2.607558 1_565
+Nb3 Se3 2.607560 1_555
+Nb3 Se2 2.614539 1_555
+Nb3 Se1 2.614541 1_565
+Nb3 Se0 2.614543 1_555
+Nb4 Se2 2.614099 1_545
+Nb4 Se5 2.614099 1_455
+Nb4 Se4 2.614099 1_545
+Nb4 Se1 2.614099 1_455
+Nb4 Se3 2.614099 1_555
+Nb4 Se0 2.614099 1_555
+Nb5 Se8 2.614099 1_554
+Nb5 Se11 2.614099 1_555
+Nb5 Se7 2.614099 1_554
+Nb5 Se10 2.614099 1_555
+Nb5 Se6 2.614099 1_444
+Nb5 Se9 2.614099 1_445

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ce3AlN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90922468
+_cell_length_b   4.90926019
+_cell_length_c   4.90924297
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3AlN
+_chemical_formula_sum   'Ce3 Al1 N1'
+_cell_volume   118.31600199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.50000000  0.50000000  1
+  Ce  Ce1  1  0.50000000  0.00000000  0.50000000  1
+  Ce  Ce2  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al0  1  0.00000000  0.00000000  -0.00000000  1
+  N  N0  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ce0 N0 2.454612 1_555
+Ce0 N0 2.454612 1_455
+Ce1 N0 2.454630 1_555
+Ce1 N0 2.454630 1_545
+Ce2 N0 2.454621 1_555
+Ce2 N0 2.454621 1_554
+Al0 Ce1 3.471353 1_455
+Al0 Ce1 3.471353 1_454
+Al0 Ce1 3.471353 1_555
+Al0 Ce1 3.471353 1_554
+Al0 Ce2 3.471359 1_455
+Al0 Ce2 3.471359 1_545
+Al0 Ce2 3.471359 1_445
+Al0 Ce2 3.471359 1_555
+Al0 Ce0 3.471365 1_544
+Al0 Ce0 3.471365 1_555
+Al0 Ce0 3.471365 1_545
+Al0 Ce0 3.471365 1_554

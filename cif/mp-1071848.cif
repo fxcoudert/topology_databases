@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Pr2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60181531
+_cell_length_b   4.60204416
+_cell_length_c   9.56934648
+_cell_angle_alpha   103.93187817
+_cell_angle_beta   103.91285049
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Sb
+_chemical_formula_sum   'Pr4 Sb2'
+_cell_volume   190.56431131
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000000  0.00000000  0.00000000  1
+  Pr  Pr1  1  0.00000000  0.50000000  0.00000000  1
+  Pr  Pr2  1  0.67930846  0.67916539  0.35861791  1
+  Pr  Pr3  1  0.32069154  0.32083461  0.64138209  1
+  Sb  Sb0  1  0.86143020  0.86147104  0.72286140  1
+  Sb  Sb1  1  0.13856980  0.13852896  0.27713860  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Sb1 3.393099 1_555
+Pr0 Sb0 3.393099 1_544
+Pr0 Sb0 3.393102 1_444
+Pr0 Sb1 3.393102 1_655
+Pr1 Sb1 3.392494 1_565
+Pr1 Sb0 3.392494 1_444
+Pr1 Sb1 3.393862 1_555
+Pr1 Sb0 3.393862 1_454
+Pr2 Sb0 3.277581 1_555
+Pr2 Sb1 3.335132 1_555
+Pr2 Sb1 3.335139 1_655
+Pr2 Sb1 3.336122 1_565
+Pr2 Sb1 3.336128 1_665
+Pr3 Sb1 3.277581 1_555
+Pr3 Sb0 3.335132 1_555
+Pr3 Sb0 3.335139 1_455
+Pr3 Sb0 3.336122 1_545
+Pr3 Sb0 3.336128 1_445

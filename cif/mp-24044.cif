@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_CaH12(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14928986
+_cell_length_b   8.14928986
+_cell_length_c   4.07543300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH12(BrO3)2
+_chemical_formula_sum   'Ca1 H12 Br2 O6'
+_cell_volume   234.39261546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  H  H0  1  0.09881600  0.42265900  0.09058800  1
+  H  H1  1  0.57734100  0.67615800  0.09058800  1
+  H  H2  1  0.32384200  0.90118400  0.09058800  1
+  H  H3  1  0.67615800  0.57734100  0.90941200  1
+  H  H4  1  0.90118400  0.32384200  0.90941200  1
+  H  H5  1  0.42265900  0.09881600  0.90941200  1
+  H  H6  1  0.11007400  0.77457600  0.51767100  1
+  H  H7  1  0.22542400  0.33549900  0.51767100  1
+  H  H8  1  0.66450100  0.88992600  0.51767100  1
+  H  H9  1  0.77457600  0.11007400  0.48232900  1
+  H  H10  1  0.88992600  0.66450100  0.48232900  1
+  H  H11  1  0.33549900  0.22542400  0.48232900  1
+  Br  Br0  1  0.33333300  0.66666700  0.41045000  1
+  Br  Br1  1  0.66666700  0.33333300  0.58955000  1
+  O  O0  1  0.69938800  0.69938800  0.00000000  1
+  O  O1  1  0.00000000  0.30061200  0.00000000  1
+  O  O2  1  0.30061200  0.00000000  0.00000000  1
+  O  O3  1  0.20632400  0.20632400  0.50000000  1
+  O  O4  1  0.00000000  0.79367600  0.50000000  1
+  O  O5  1  0.79367600  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O1 2.449774 1_555
+Ca0 O2 2.449774 1_555
+Ca0 O0 2.449774 1_445
+Ca0 O4 2.641851 1_544
+Ca0 O4 2.641851 1_545
+Ca0 O5 2.641851 1_455
+Ca0 O5 2.641851 1_454
+Ca0 O3 2.641851 1_555
+Ca0 O3 2.641851 1_554
+H0 O1 0.986442 1_555
+H1 O0 0.986444 1_555
+H2 O2 0.986437 1_565
+H3 O0 0.986444 1_556
+H4 O1 0.986437 1_656
+H5 O2 0.986442 1_556
+H6 O4 0.986758 1_555
+H7 O3 0.986766 1_555
+H8 O5 0.986763 1_565
+H9 O5 0.986758 1_555
+H10 O4 0.986763 1_655
+H11 O3 0.986766 1_555

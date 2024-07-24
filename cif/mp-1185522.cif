@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_Lu3Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66792432
+_cell_length_b   6.66792540
+_cell_length_c   5.51261170
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Tl
+_chemical_formula_sum   'Lu6 Tl2'
+_cell_volume   212.26063156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.16830924  0.33661847  0.25000000  1
+  Lu  Lu1  1  0.66338253  0.83169176  0.25000000  1
+  Lu  Lu2  1  0.16831024  0.83169176  0.25000000  1
+  Lu  Lu3  1  0.83168976  0.66338153  0.74999900  1
+  Lu  Lu4  1  0.33661647  0.16830824  0.74999900  1
+  Lu  Lu5  1  0.83169076  0.16830824  0.74999900  1
+  Tl  Tl0  1  0.33333400  0.66666700  0.74999900  1
+  Tl  Tl1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Lu2 3.301108 1_555
+Lu0 Lu1 3.301112 1_555
+Lu0 Tl1 3.334013 1_455
+Lu0 Tl1 3.334019 1_555
+Lu0 Tl0 3.351064 1_555
+Lu0 Tl0 3.351073 1_554
+Lu0 Lu1 3.366814 1_445
+Lu0 Lu2 3.366817 1_545
+Lu0 Lu4 3.372782 1_555
+Lu0 Lu5 3.372786 1_455
+Lu0 Lu4 3.372791 1_554
+Lu0 Lu5 3.372795 1_454
+Lu1 Lu2 3.301105 1_555
+Lu1 Tl1 3.334010 1_565
+Lu1 Tl1 3.334023 1_555
+Lu1 Tl0 3.351064 1_555
+Lu1 Tl0 3.351073 1_554
+Lu1 Lu2 3.366820 1_655
+Lu1 Lu5 3.372779 1_565
+Lu1 Lu3 3.372782 1_555
+Lu1 Lu5 3.372788 1_564
+Lu1 Lu3 3.372791 1_554
+Lu2 Tl1 3.334010 1_565
+Lu2 Tl1 3.334023 1_455
+Lu2 Tl0 3.351064 1_555
+Lu2 Tl0 3.351073 1_554
+Lu2 Lu4 3.372779 1_565
+Lu2 Lu4 3.372788 1_564
+Lu2 Lu3 3.372792 1_455
+Lu2 Lu3 3.372801 1_454
+Lu3 Lu4 3.301112 1_555
+Lu3 Lu5 3.301115 1_555
+Lu3 Tl0 3.334006 1_555
+Lu3 Tl0 3.334026 1_655
+Lu3 Tl1 3.351064 1_555
+Lu3 Tl1 3.351073 1_556
+Lu3 Lu5 3.366810 1_565
+Lu3 Lu4 3.366814 1_665
+Lu4 Lu5 3.301118 1_555
+Lu4 Tl0 3.334017 1_555
+Lu4 Tl0 3.334017 1_545
+Lu4 Tl1 3.351071 1_555
+Lu4 Tl1 3.351080 1_556
+Lu4 Lu5 3.366806 1_455
+Lu5 Tl0 3.334010 1_545
+Lu5 Tl0 3.334023 1_655
+Lu5 Tl1 3.351064 1_555
+Lu5 Tl1 3.351073 1_556

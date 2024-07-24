@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Na2SbAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90723178
+_cell_length_b   5.96256951
+_cell_length_c   5.96256928
+_cell_angle_alpha   101.79418643
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SbAu
+_chemical_formula_sum   'Na4 Sb2 Au2'
+_cell_volume   205.58147080
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.65680051  0.01307232  1
+  Na  Na1  1  0.75000000  0.34319949  0.98692768  1
+  Na  Na2  1  0.25000000  0.01307232  0.65680051  1
+  Na  Na3  1  0.75000000  0.98692768  0.34319949  1
+  Sb  Sb0  1  0.75000000  0.79637355  0.79637355  1
+  Sb  Sb1  1  0.25000000  0.20362645  0.20362645  1
+  Au  Au0  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au1  1  -0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sb1 3.138026 1_555
+Na0 Sb1 3.226038 1_565
+Na0 Sb0 3.394919 1_554
+Na0 Sb0 3.394919 1_454
+Na1 Sb0 3.138026 1_555
+Na1 Sb0 3.226038 1_545
+Na1 Sb1 3.394919 1_656
+Na1 Sb1 3.394919 1_556
+Na2 Sb1 3.138026 1_555
+Na2 Sb1 3.226038 1_556
+Na2 Sb0 3.394919 1_545
+Na2 Sb0 3.394919 1_445
+Na3 Sb0 3.138026 1_555
+Na3 Sb0 3.226038 1_554
+Na3 Sb1 3.394919 1_665
+Na3 Sb1 3.394919 1_565
+Au0 Sb1 2.673948 1_555
+Au0 Sb0 2.673948 1_555
+Au0 Au1 2.953616 1_555
+Au0 Au1 2.953616 1_655
+Au0 Na0 3.353316 1_556
+Au0 Na1 3.353316 1_554
+Au0 Na3 3.353316 1_545
+Au0 Na2 3.353316 1_565
+Au0 Na0 3.548815 1_555
+Au0 Na1 3.548815 1_555
+Au0 Na2 3.548815 1_555
+Au0 Na3 3.548815 1_555
+Au1 Sb1 2.673948 1_555
+Au1 Sb0 2.673948 1_455
+Au1 Na0 3.353316 1_556
+Au1 Na1 3.353316 1_454
+Au1 Na3 3.353316 1_445
+Au1 Na2 3.353316 1_565
+Au1 Na0 3.548815 1_555
+Au1 Na1 3.548815 1_455
+Au1 Na3 3.548815 1_455
+Au1 Na2 3.548815 1_555

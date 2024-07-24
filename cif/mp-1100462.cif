@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_MgSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82758300
+_cell_length_b   6.40832378
+_cell_length_c   9.25010256
+_cell_angle_alpha   76.70014316
+_cell_angle_beta   89.03066858
+_cell_angle_gamma   89.53861205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSi2
+_chemical_formula_sum   'Mg4 Si8'
+_cell_volume   220.77119796
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24414300  0.00392000  0.85247300  1
+  Mg  Mg1  1  0.75585700  0.99608000  0.14752700  1
+  Mg  Mg2  1  0.25596700  0.20811900  0.37371800  1
+  Mg  Mg3  1  0.74403300  0.79188100  0.62628200  1
+  Si  Si0  1  0.76444500  0.43116900  0.15574800  1
+  Si  Si1  1  0.73810300  0.33001300  0.89126000  1
+  Si  Si2  1  0.24515100  0.44973300  0.60145300  1
+  Si  Si3  1  0.25387700  0.79361200  0.36886900  1
+  Si  Si4  1  0.23555500  0.56883100  0.84425200  1
+  Si  Si5  1  0.26189700  0.66998700  0.10874000  1
+  Si  Si6  1  0.75484900  0.55026700  0.39854700  1
+  Si  Si7  1  0.74612300  0.20638800  0.63113100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Si5 2.805784 1_546
+Mg0 Si4 2.807131 1_545
+Mg0 Si7 2.872615 1_555
+Mg0 Si7 2.894662 1_455
+Mg0 Si1 2.915784 1_555
+Mg0 Si1 2.916074 1_455
+Mg0 Si2 3.240563 1_555
+Mg1 Si1 2.805784 1_564
+Mg1 Si0 2.807131 1_565
+Mg1 Si3 2.872615 1_555
+Mg1 Si3 2.894662 1_655
+Mg1 Si5 2.915784 1_555
+Mg1 Si5 2.916074 1_655
+Mg1 Si6 3.240563 1_555
+Mg2 Si3 2.667049 1_545
+Mg2 Si2 2.886767 1_555
+Mg2 Si0 2.899458 1_455
+Mg2 Si0 2.912434 1_555
+Mg2 Si6 2.947588 1_455
+Mg2 Si6 2.969919 1_555
+Mg2 Si7 3.051059 1_455
+Mg2 Si7 3.054210 1_555
+Mg3 Si7 2.667049 1_565
+Mg3 Si6 2.886767 1_555
+Mg3 Si4 2.899458 1_655
+Mg3 Si4 2.912434 1_555
+Mg3 Si2 2.947588 1_655
+Mg3 Si2 2.969919 1_555
+Mg3 Si3 3.051059 1_655
+Mg3 Si3 3.054210 1_555
+Si0 Si5 2.422679 1_655
+Si0 Si5 2.430227 1_555
+Si0 Si6 2.532470 1_555
+Si0 Si1 2.674889 1_554
+Si1 Si4 2.422679 1_655
+Si1 Si4 2.430227 1_555
+Si1 Si7 2.700489 1_555
+Si2 Si7 2.440642 1_555
+Si2 Si7 2.447209 1_455
+Si2 Si4 2.532470 1_555
+Si2 Si6 2.646332 1_455
+Si2 Si6 2.661556 1_555
+Si2 Si3 2.702481 1_555
+Si3 Si6 2.440642 1_555
+Si3 Si6 2.447209 1_455
+Si3 Si5 2.700489 1_555
+Si4 Si5 2.674889 1_556
+Si6 Si7 2.702481 1_555

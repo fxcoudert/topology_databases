@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiCdFeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22003619
+_cell_length_b   5.22003619
+_cell_length_c   9.70410800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000236
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCdFeF6
+_chemical_formula_sum   'Li2 Cd2 Fe2 F12'
+_cell_volume   228.99883341
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.75000000  1
+  Li  Li1  1  0.66666700  0.33333300  0.25000000  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe0  1  0.66666700  0.33333300  0.75000000  1
+  Fe  Fe1  1  0.33333300  0.66666700  0.25000000  1
+  F  F0  1  0.98591400  0.34646800  0.86138900  1
+  F  F1  1  0.01408600  0.65353200  0.13861100  1
+  F  F2  1  0.36055400  0.01408600  0.86138900  1
+  F  F3  1  0.36055400  0.34646800  0.63861100  1
+  F  F4  1  0.63944600  0.98591400  0.13861100  1
+  F  F5  1  0.63944600  0.65353200  0.36138900  1
+  F  F6  1  0.65353200  0.63944600  0.86138900  1
+  F  F7  1  0.65353200  0.01408600  0.63861100  1
+  F  F8  1  0.34646800  0.36055400  0.13861100  1
+  F  F9  1  0.34646800  0.98591400  0.36138900  1
+  F  F10  1  0.98591400  0.63944600  0.63861100  1
+  F  F11  1  0.01408600  0.36055400  0.36138900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 F6 2.284430 1_444
+Cd0 F8 2.284430 1_555
+Cd0 F2 2.284430 1_554
+Cd0 F4 2.284430 1_445
+Cd0 F0 2.284430 1_454
+Cd0 F1 2.284430 1_545
+Cd1 F5 2.284430 1_445
+Cd1 F3 2.284430 1_555
+Cd1 F11 2.284430 1_555
+Cd1 F10 2.284430 1_445
+Cd1 F7 2.284430 1_455
+Cd1 F9 2.284430 1_545
+F0 Fe0 1.958573 1_555
+F0 Li0 2.054226 1_655
+F1 Fe1 1.958573 1_555
+F1 Li1 2.054226 1_455
+F2 Fe0 1.958575 1_555
+F2 Li0 2.054224 1_545
+F3 Fe0 1.958577 1_555
+F3 Li0 2.054228 1_555
+F4 Fe1 1.958575 1_555
+F4 Li1 2.054224 1_565
+F5 Fe1 1.958577 1_555
+F5 Li1 2.054228 1_555
+F6 Fe0 1.958577 1_555
+F6 Li0 2.054228 1_555
+F7 Fe0 1.958573 1_555
+F7 Li0 2.054226 1_545
+F8 Fe1 1.958577 1_555
+F8 Li1 2.054228 1_555
+F9 Fe1 1.958573 1_555
+F9 Li1 2.054226 1_565
+F10 Fe0 1.958575 1_555
+F10 Li0 2.054224 1_655
+F11 Fe1 1.958575 1_555
+F11 Li1 2.054224 1_455

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Ca(WO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50376286
+_cell_length_b   6.50376286
+_cell_length_c   6.50376286
+_cell_angle_alpha   121.37301410
+_cell_angle_beta   117.30993145
+_cell_angle_gamma   91.17973842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(WO2)2
+_chemical_formula_sum   'Ca2 W4 O8'
+_cell_volume   196.11673764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.50000000  0.50000000  1
+  W  W0  1  0.60522600  0.85522600  0.75000000  1
+  W  W1  1  0.39477400  0.14477400  0.25000000  1
+  W  W2  1  0.00000000  0.00000000  0.50000000  1
+  W  W3  1  0.00000000  0.50000000  0.00000000  1
+  O  O0  1  0.23906000  0.23566600  0.49660600  1
+  O  O1  1  0.20821400  0.23773300  0.97048100  1
+  O  O2  1  0.23906000  0.74245400  0.00339400  1
+  O  O3  1  0.76725200  0.23773300  0.52951900  1
+  O  O4  1  0.23274800  0.76226700  0.47048100  1
+  O  O5  1  0.79178600  0.76226700  0.02951900  1
+  O  O6  1  0.76094000  0.25754600  0.99660600  1
+  O  O7  1  0.76094000  0.76433400  0.50339400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O7 2.339964 1_555
+Ca0 O2 2.339964 1_555
+Ca0 O6 2.339964 1_554
+Ca0 O0 2.339964 1_554
+Ca0 O5 2.395635 1_555
+Ca0 O1 2.395635 1_554
+Ca1 O2 2.339964 1_556
+Ca1 O6 2.339964 1_454
+Ca1 O0 2.339964 1_555
+Ca1 O7 2.339964 1_455
+Ca1 O3 2.395635 1_455
+Ca1 O4 2.395635 1_555
+O0 W1 2.115506 1_555
+O0 W2 2.176159 1_555
+O1 W1 2.071989 1_556
+O1 W2 2.184683 1_555
+O1 W3 2.184683 1_556
+O2 W1 2.115506 1_565
+O2 W3 2.176159 1_555
+O3 W1 2.071989 1_555
+O3 W2 2.184683 1_655
+O3 W3 2.184683 1_656
+O4 W0 2.071989 1_555
+O4 W2 2.184683 1_565
+O4 W3 2.184683 1_555
+O5 W0 2.071989 1_554
+O5 W2 2.184683 1_665
+O5 W3 2.184683 1_655
+O6 W0 2.115506 1_545
+O6 W3 2.176159 1_656
+O7 W0 2.115506 1_555
+O7 W2 2.176159 1_665

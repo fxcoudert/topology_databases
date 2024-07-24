@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MgSb2P2(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76325631
+_cell_length_b   8.85352955
+_cell_length_c   5.20686331
+_cell_angle_alpha   113.16759673
+_cell_angle_beta   96.79631689
+_cell_angle_gamma   102.11707888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSb2P2(HO5)2
+_chemical_formula_sum   'Mg1 Sb2 P2 H2 O10'
+_cell_volume   232.77156426
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.41303026  0.85403933  0.76816475  1
+  Sb  Sb0  1  0.96798164  0.48513884  0.98440384  1
+  Sb  Sb1  1  0.01527216  0.03036193  0.03500562  1
+  P  P0  1  0.36722245  0.19893282  0.67531574  1
+  P  P1  1  0.60973505  0.75292224  0.30410360  1
+  H  H0  1  0.13245768  0.41327825  0.38660939  1
+  H  H1  1  0.95340037  0.72732253  0.64797435  1
+  O  O0  1  0.07652035  0.79444527  0.83351845  1
+  O  O1  1  0.20681260  0.31970543  0.71885987  1
+  O  O2  1  0.35202796  0.67348344  0.33987688  1
+  O  O3  1  0.29920819  0.05955867  0.35674048  1
+  O  O4  1  0.31878221  0.09043579  0.85744596  1
+  O  O5  1  0.60154813  0.79614355  0.04566115  1
+  O  O6  1  0.70998029  0.91693966  0.59816161  1
+  O  O7  1  0.64096817  0.28693579  0.75346273  1
+  O  O8  1  0.77860366  0.63461113  0.29489845  1
+  O  O9  1  0.99097283  0.35741233  0.22479712  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O5 1.993959 1_556
+Mg0 O0 2.005818 1_555
+Mg0 O6 2.090184 1_555
+Mg0 O2 2.103704 1_555
+Mg0 O4 2.159404 1_565
+H0 O9 0.979583 1_455
+H1 O0 0.999489 1_655
+H1 O8 1.759414 1_555
+O0 Sb1 2.064188 1_566
+O1 P0 1.524222 1_555
+O1 Sb0 2.378009 1_455
+O2 P1 1.570121 1_555
+O2 Sb0 2.481488 1_454
+O3 P0 1.568542 1_555
+O3 Sb1 2.093769 1_555
+O4 P0 1.602133 1_555
+O4 Sb1 2.139264 1_556
+O5 P1 1.535325 1_555
+O6 P1 1.573457 1_555
+O6 Sb1 2.406592 1_666
+O7 P0 1.531082 1_555
+O7 Sb0 2.119454 1_555
+O8 P1 1.564030 1_555
+O8 Sb0 2.212870 1_554
+O9 Sb0 2.000117 1_554

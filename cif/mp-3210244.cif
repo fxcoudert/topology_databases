@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_K3Al2As2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91287660
+_cell_length_b   7.49121036
+_cell_length_c   10.42334054
+_cell_angle_alpha   69.56794792
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Al2As2P
+_chemical_formula_sum   'K6 Al4 As4 P2'
+_cell_volume   432.65086575
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.45530158  0.42007053  1
+  K  K1  1  0.75000000  0.13088117  0.92565612  1
+  K  K2  1  0.75000000  0.47420891  0.15011535  1
+  K  K3  1  0.25000000  0.52579109  0.84988465  1
+  K  K4  1  0.75000000  0.54469842  0.57992947  1
+  K  K5  1  0.25000000  0.86911883  0.07434388  1
+  Al  Al0  1  0.99977377  0.02403558  0.34859875  1
+  Al  Al1  1  0.49977377  0.97596442  0.65140125  1
+  Al  Al2  1  0.50022623  0.02403558  0.34859875  1
+  Al  Al3  1  0.00022623  0.97596442  0.65140125  1
+  As  As0  1  0.25000000  0.25317881  0.18340310  1
+  As  As1  1  0.75000000  0.74682119  0.81659690  1
+  As  As2  1  0.25000000  0.16248755  0.74242087  1
+  As  As3  1  0.75000000  0.83751245  0.25757913  1
+  P  P0  1  0.25000000  0.82295002  0.53033082  1
+  P  P1  1  0.75000000  0.17704998  0.46966918  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P0 3.334075 1_555
+K0 P1 3.549691 1_555
+K0 P1 3.549691 1_455
+K2 P1 3.297411 1_555
+K3 P0 3.297411 1_555
+K4 P1 3.334075 1_555
+K4 P0 3.549691 1_555
+K4 P0 3.549691 1_655
+Al0 As3 2.441152 1_545
+Al0 As0 2.457012 1_655
+Al0 P0 2.460527 1_645
+Al0 P1 2.469331 1_555
+Al1 As2 2.441152 1_565
+Al1 As1 2.457012 1_555
+Al1 P1 2.460527 1_565
+Al1 P0 2.469331 1_555
+Al2 As3 2.441152 1_545
+Al2 As0 2.457012 1_555
+Al2 P0 2.460527 1_545
+Al2 P1 2.469331 1_555
+Al3 As2 2.441152 1_565
+Al3 As1 2.457012 1_455
+Al3 P1 2.460527 1_465
+Al3 P0 2.469331 1_555
+As0 K0 3.314504 1_555
+As0 K2 3.346852 1_455
+As0 K2 3.346852 1_555
+As0 K3 3.361395 1_554
+As0 K5 3.442855 1_545
+As1 K4 3.314504 1_555
+As1 K3 3.346852 1_555
+As1 K3 3.346852 1_655
+As1 K2 3.361395 1_556
+As1 K1 3.442855 1_565
+As2 K3 3.284840 1_555
+As2 K0 3.309856 1_555
+As2 K5 3.389839 1_546
+As2 K1 3.482623 1_555
+As2 K1 3.482623 1_455
+As3 K2 3.284840 1_555
+As3 K4 3.309856 1_555
+As3 K1 3.389839 1_564
+As3 K5 3.482623 1_555
+As3 K5 3.482623 1_655

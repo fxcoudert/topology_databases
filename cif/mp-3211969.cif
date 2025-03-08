@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Pd(PtCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19206906
+_cell_length_b   8.27957468
+_cell_length_c   8.19206812
+_cell_angle_alpha   107.26575833
+_cell_angle_beta   107.26324935
+_cell_angle_gamma   107.26576330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pd(PtCl3)2
+_chemical_formula_sum   'Pd2 Pt4 Cl12'
+_cell_volume   459.35890918
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.93173105  0.93211891  0.67872093  1
+  Pd  Pd1  1  0.67872093  0.93211891  0.93173105  1
+  Pt  Pt0  1  0.93221492  0.68264651  0.93221492  1
+  Pt  Pt1  1  0.06634492  0.31682167  0.06634492  1
+  Pt  Pt2  1  0.06736061  0.06767379  0.32133042  1
+  Pt  Pt3  1  0.32133042  0.06767379  0.06736061  1
+  Cl  Cl0  1  0.99935635  0.24639031  0.75317171  1
+  Cl  Cl1  1  0.75382298  0.00092944  0.25050124  1
+  Cl  Cl2  1  0.24813462  0.75605736  0.00044801  1
+  Cl  Cl3  1  0.00044801  0.75605736  0.24813462  1
+  Cl  Cl4  1  0.25050124  0.00092944  0.75382298  1
+  Cl  Cl5  1  0.75317171  0.24639031  0.99935635  1
+  Cl  Cl6  1  0.13034604  0.37589412  0.37892378  1
+  Cl  Cl7  1  0.37892378  0.37589412  0.13034604  1
+  Cl  Cl8  1  0.37986479  0.13156619  0.37986479  1
+  Cl  Cl9  1  0.61832415  0.86776686  0.61832415  1
+  Cl  Cl10  1  0.86830796  0.62153445  0.62109551  1
+  Cl  Cl11  1  0.62109551  0.62153445  0.86830796  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Pt1 2.304239 1_656
+Cl0 Pd0 2.334777 1_545
+Cl1 Pt2 2.306923 1_655
+Cl1 Pd1 2.340438 1_544
+Cl2 Pt3 2.315974 1_565
+Cl2 Pt0 2.320723 1_454
+Cl3 Pt2 2.315974 1_565
+Cl3 Pt0 2.320722 1_454
+Cl4 Pt3 2.306923 1_556
+Cl4 Pd0 2.340439 1_445
+Cl5 Pt1 2.304239 1_656
+Cl5 Pd1 2.334777 1_545
+Cl6 Pt2 2.315245 1_555
+Cl6 Pt1 2.319185 1_555
+Cl7 Pt3 2.315245 1_555
+Cl7 Pt1 2.319185 1_555
+Cl8 Pt3 2.319606 1_555
+Cl8 Pt2 2.319606 1_555
+Cl9 Pd1 2.323362 1_555
+Cl9 Pd0 2.323362 1_555
+Cl10 Pt0 2.304628 1_555
+Cl10 Pd0 2.333703 1_555
+Cl11 Pt0 2.304629 1_555
+Cl11 Pd1 2.333703 1_555

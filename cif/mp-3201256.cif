@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_LuTiAlPd5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94900210
+_cell_length_b   7.94900194
+_cell_length_c   7.94900178
+_cell_angle_alpha   149.82085657
+_cell_angle_beta   149.82085386
+_cell_angle_gamma   43.20443064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTiAlPd5
+_chemical_formula_sum   'Lu1 Ti1 Al1 Pd5'
+_cell_volume   126.59428970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.99832299  0.99832299  0.00000000  1
+  Ti  Ti0  1  0.25162193  0.25162193  0.00000000  1
+  Al  Al0  1  0.74815795  0.74815795  1.00000000  1
+  Pd  Pd0  1  0.64004992  0.14004992  0.50000000  1
+  Pd  Pd1  1  0.35975365  0.85975365  0.50000000  1
+  Pd  Pd2  1  0.14004992  0.64004992  0.50000000  1
+  Pd  Pd3  1  0.85975365  0.35975365  0.50000000  1
+  Pd  Pd4  1  0.50229098  0.50229098  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Pd3 2.911620 1_565
+Lu0 Pd1 2.911620 1_655
+Lu0 Pd3 2.911620 1_554
+Lu0 Pd1 2.911620 1_554
+Lu0 Pd4 2.927096 1_564
+Lu0 Pd4 2.927096 1_654
+Lu0 Pd4 2.927096 1_553
+Lu0 Pd4 2.927096 1_665
+Lu0 Pd2 2.944640 1_654
+Lu0 Pd0 2.944640 1_564
+Lu0 Pd2 2.944640 1_665
+Lu0 Pd0 2.944640 1_665
+Al0 Pd0 2.614532 1_566
+Al0 Pd2 2.614532 1_656
+Al0 Pd0 2.614532 1_555
+Al0 Pd2 2.614533 1_555
+Al0 Pd3 2.646355 1_555
+Al0 Pd1 2.646355 1_555
+Al0 Pd3 2.646355 1_566
+Al0 Pd1 2.646356 1_656
+Pd0 Ti0 2.646137 1_555
+Pd0 Ti0 2.646137 1_656
+Pd1 Ti0 2.614746 1_566
+Pd1 Ti0 2.614746 1_555
+Pd2 Ti0 2.646137 1_555
+Pd2 Ti0 2.646137 1_566
+Pd3 Ti0 2.614746 1_656
+Pd3 Ti0 2.614747 1_555

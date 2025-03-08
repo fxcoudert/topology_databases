@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_NbTcSeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25984390
+_cell_length_b   5.63617859
+_cell_length_c   6.83665204
+_cell_angle_alpha   73.43498973
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTcSeS3
+_chemical_formula_sum   'Nb1 Tc1 Se1 S3'
+_cell_volume   120.39701590
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50000000  0.49506623  0.00617309  1
+  Tc  Tc0  1  0.00000000  0.00434157  0.00449580  1
+  Se  Se0  1  0.50000000  0.92755415  0.74828688  1
+  S  S0  1  0.00000000  0.40559771  0.76528581  1
+  S  S1  1  0.50000000  0.76129426  0.23281544  1
+  S  S2  1  0.00000000  0.23814308  0.24694299  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 S1 2.445021 1_555
+Nb0 S0 2.469131 1_554
+Nb0 S0 2.469131 1_654
+Nb0 S2 2.470609 1_555
+Nb0 S2 2.470609 1_655
+Nb0 Se0 2.568987 1_554
+Se0 Tc0 2.518800 1_566
+Se0 Tc0 2.518800 1_666
+S0 Tc0 2.383319 1_556
+S1 Tc0 2.398008 1_565
+S1 Tc0 2.398008 1_665
+S2 Tc0 2.393595 1_555

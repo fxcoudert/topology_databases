@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_SrYCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58671451
+_cell_length_b   7.58671469
+_cell_length_c   11.38087926
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.64231580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrYCuTe3
+_chemical_formula_sum   'Sr2 Y2 Cu2 Te6'
+_cell_volume   360.19576900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75503621  0.24496379  0.25000000  1
+  Sr  Sr1  1  0.24496379  0.75503621  0.75000000  1
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.47120267  0.52879733  0.25000000  1
+  Cu  Cu1  1  0.52879733  0.47120267  0.75000000  1
+  Te  Te0  1  0.63985917  0.36014083  0.93327928  1
+  Te  Te1  1  0.07884110  0.92115890  0.25000000  1
+  Te  Te2  1  0.36014083  0.63985917  0.43327928  1
+  Te  Te3  1  0.36014083  0.63985917  0.06672072  1
+  Te  Te4  1  0.63985917  0.36014083  0.56672072  1
+  Te  Te5  1  0.92115890  0.07884110  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Te1 3.361546 1_545
+Sr0 Te1 3.361547 1_655
+Sr0 Te2 3.380237 1_655
+Sr0 Te3 3.380237 1_655
+Sr0 Te2 3.380238 1_545
+Sr0 Te3 3.380238 1_545
+Sr1 Te5 3.361546 1_565
+Sr1 Te5 3.361547 1_455
+Sr1 Te0 3.380237 1_455
+Sr1 Te4 3.380237 1_455
+Sr1 Te0 3.380238 1_565
+Sr1 Te4 3.380238 1_565
+Cu0 Te2 2.637580 1_555
+Cu0 Te3 2.637580 1_555
+Cu0 Te1 2.681230 1_655
+Cu0 Te1 2.681230 1_545
+Cu1 Te0 2.637580 1_555
+Cu1 Te4 2.637580 1_555
+Cu1 Te5 2.681230 1_455
+Cu1 Te5 2.681230 1_565
+Te0 Y0 3.074144 1_556
+Te0 Y0 3.074144 1_666
+Te1 Y0 3.067328 1_565
+Te1 Y1 3.067328 1_565
+Te2 Y1 3.074144 1_665
+Te2 Y1 3.074144 1_555
+Te3 Y0 3.074144 1_665
+Te3 Y0 3.074144 1_555
+Te4 Y1 3.074144 1_555
+Te4 Y1 3.074144 1_665
+Te5 Y0 3.067328 1_656
+Te5 Y1 3.067328 1_655

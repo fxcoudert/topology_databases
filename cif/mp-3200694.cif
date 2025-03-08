@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Li3Y3Sn2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44338531
+_cell_length_b   7.44338501
+_cell_length_c   4.44390911
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Y3Sn2Hg
+_chemical_formula_sum   'Li3 Y3 Sn2 Hg1'
+_cell_volume   213.22433972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24119126  0.00000000  0.50000000  1
+  Li  Li1  1  0.75880874  0.75880874  0.50000000  1
+  Li  Li2  1  0.00000000  0.24119126  0.50000000  1
+  Y  Y0  1  1.00000000  0.57978359  0.00000000  1
+  Y  Y1  1  0.57978359  0.00000000  0.00000000  1
+  Y  Y2  1  0.42021641  0.42021641  0.00000000  1
+  Sn  Sn0  1  0.33333300  0.66666700  0.50000000  1
+  Sn  Sn1  1  0.66666700  0.33333300  0.50000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Sn0 2.885835 1_545
+Li0 Sn1 2.885840 1_555
+Li1 Sn1 2.885842 1_555
+Li1 Sn0 2.885842 1_555
+Li2 Sn1 2.885835 1_455
+Li2 Sn0 2.885840 1_555
+Sn0 Y0 3.147497 1_456
+Sn0 Y0 3.147497 1_455
+Sn0 Y1 3.147498 1_566
+Sn0 Y1 3.147498 1_565
+Sn0 Y2 3.147502 1_556
+Sn0 Y2 3.147502 1_555
+Sn1 Y1 3.147497 1_556
+Sn1 Y1 3.147497 1_555
+Sn1 Y0 3.147498 1_556
+Sn1 Y0 3.147498 1_555
+Sn1 Y2 3.147502 1_556
+Sn1 Y2 3.147502 1_555
+Hg0 Li2 2.856591 1_554
+Hg0 Li2 2.856591 1_555
+Hg0 Li1 2.856591 1_445
+Hg0 Li1 2.856591 1_444
+Hg0 Li0 2.856591 1_555
+Hg0 Li0 2.856591 1_554
+Hg0 Y2 3.127833 1_555
+Hg0 Y0 3.127833 1_445
+Hg0 Y1 3.127833 1_455

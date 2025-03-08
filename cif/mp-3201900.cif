@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Ba2Sr(CdSb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.21136233
+_cell_length_b   9.21136256
+_cell_length_c   7.54426489
+_cell_angle_alpha   69.64579275
+_cell_angle_beta   69.64579075
+_cell_angle_gamma   31.14335629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Sr(CdSb2)2
+_chemical_formula_sum   'Ba2 Sr1 Cd2 Sb4'
+_cell_volume   308.72594421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.85719007  0.85719007  0.59732900  1
+  Ba  Ba1  1  0.14280993  0.14280993  0.40267100  1
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd0  1  0.33506351  0.33506351  0.97350074  1
+  Cd  Cd1  1  0.66493649  0.66493649  0.02649926  1
+  Sb  Sb0  1  0.50022602  0.50022602  0.69063732  1
+  Sb  Sb1  1  0.79561263  0.79561263  0.19243965  1
+  Sb  Sb2  1  0.49977398  0.49977398  0.30936268  1
+  Sb  Sb3  1  0.20438737  0.20438737  0.80756035  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Sb3 3.588515 1_565
+Ba0 Sb3 3.588515 1_655
+Ba0 Sb1 3.596564 1_555
+Ba0 Sb2 3.642400 1_655
+Ba0 Sb2 3.642400 1_565
+Ba0 Cd0 3.676649 1_565
+Ba0 Cd0 3.676649 1_655
+Ba0 Cd1 3.761164 1_556
+Ba0 Sb0 3.787317 1_655
+Ba0 Sb0 3.787317 1_565
+Ba1 Sb1 3.588515 1_545
+Ba1 Sb1 3.588515 1_455
+Ba1 Sb3 3.596564 1_555
+Ba1 Sb0 3.642400 1_455
+Ba1 Sb0 3.642400 1_545
+Ba1 Cd1 3.676649 1_545
+Ba1 Cd1 3.676649 1_455
+Ba1 Cd0 3.761164 1_554
+Ba1 Sb2 3.787317 1_455
+Ba1 Sb2 3.787317 1_545
+Cd0 Sb1 2.915079 1_456
+Cd0 Sb1 2.915080 1_546
+Cd0 Sb0 2.937361 1_555
+Cd0 Sb3 3.006957 1_555
+Cd0 Sr0 3.891603 1_656
+Cd0 Sr0 3.891603 1_566
+Cd1 Sb3 2.915079 1_654
+Cd1 Sb3 2.915080 1_564
+Cd1 Sb2 2.937361 1_555
+Cd1 Sb1 3.006957 1_555
+Cd1 Sr0 3.891603 1_565
+Cd1 Sr0 3.891603 1_655
+Sb0 Sb2 2.879343 1_555
+Sb0 Sr0 3.399237 1_566
+Sb0 Sr0 3.399237 1_656
+Sb1 Sr0 3.385449 1_665
+Sb2 Sr0 3.399237 1_655
+Sb2 Sr0 3.399237 1_565
+Sb3 Sr0 3.385449 1_556

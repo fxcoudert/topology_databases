@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CsK3(BiAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49113616
+_cell_length_b   7.15026988
+_cell_length_c   6.98751518
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.64850253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK3(BiAu)2
+_chemical_formula_sum   'Cs1 K3 Bi2 Au2'
+_cell_volume   305.43037108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.48798884  0.86561849  0.25000000  1
+  K  K0  1  0.15910782  0.45673330  0.75000000  1
+  K  K1  1  0.50628144  0.13385645  0.75000000  1
+  K  K2  1  0.83329180  0.54374846  0.25000000  1
+  Bi  Bi0  1  0.23577524  0.28654229  0.25000000  1
+  Bi  Bi1  1  0.75402357  0.71458343  0.75000000  1
+  Au  Au0  1  0.01176515  0.99945879  0.50660058  1
+  Au  Au1  1  0.01176515  0.99945879  0.99339942  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 K2 3.665925 1_455
+Bi0 K2 3.691687 1_555
+Bi0 K0 3.787103 1_555
+Bi0 K0 3.787103 1_554
+Bi0 Cs0 3.879732 1_545
+Bi0 Cs0 3.907142 1_555
+Bi1 K0 3.677466 1_555
+Bi1 K0 3.684221 1_655
+Bi1 K2 3.792872 1_556
+Bi1 K2 3.792872 1_555
+Bi1 K1 3.849117 1_565
+Bi1 K1 3.916313 1_555
+Bi1 Cs0 4.196289 1_555
+Bi1 Cs0 4.196289 1_556
+Au0 Bi0 2.745103 1_565
+Au0 Bi1 2.747535 1_455
+Au0 K1 3.470665 1_565
+Au0 K0 3.520630 1_565
+Au0 K2 3.554695 1_455
+Au0 Cs0 3.674498 1_455
+Au0 Cs0 3.959274 1_555
+Au1 Bi0 2.745103 1_566
+Au1 Bi1 2.747535 1_455
+Au1 K1 3.470665 1_565
+Au1 K0 3.520630 1_565
+Au1 K2 3.554695 1_456
+Au1 Cs0 3.674498 1_456
+Au1 Cs0 3.959274 1_556

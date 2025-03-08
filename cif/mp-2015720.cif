@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_V4GeSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31578208
+_cell_length_b   7.38301343
+_cell_length_c   7.31338665
+_cell_angle_alpha   59.70462477
+_cell_angle_beta   61.11769568
+_cell_angle_gamma   59.67059939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4GeSe8
+_chemical_formula_sum   'V4 Ge1 Se8'
+_cell_volume   280.23978272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.62561349  0.60274132  0.16848259  1
+  V  V1  1  0.60240447  0.61907270  0.60261870  1
+  V  V2  1  0.16863039  0.60299937  0.62552856  1
+  V  V3  1  0.60276536  0.17550455  0.60237335  1
+  Ge  Ge0  1  0.00254051  -0.00229937  0.00269254  1
+  Se  Se0  1  0.36655688  0.38990166  0.36634382  1
+  Se  Se1  1  0.88114978  0.36692799  0.38496461  1
+  Se  Se2  1  0.36604756  0.87705348  0.36652155  1
+  Se  Se3  1  0.38511670  0.36695495  0.88114106  1
+  Se  Se4  1  0.86488485  0.86325151  0.86508877  1
+  Se  Se5  1  0.41302810  0.86538549  0.85661767  1
+  Se  Se6  1  0.86484600  0.40745925  0.86437686  1
+  Se  Se7  1  0.85641491  0.86504910  0.41325091  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Se4 2.451264 1_444
+Ge0 Se6 2.451376 1_454
+Ge0 Se5 2.470786 1_544
+Ge0 Se7 2.471272 1_445
+Se0 V3 2.415312 1_555
+Se0 V0 2.493858 1_555
+Se0 V2 2.494304 1_555
+Se1 V0 2.413224 1_555
+Se1 V1 2.485510 1_555
+Se1 V3 2.486922 1_555
+Se2 V1 2.416411 1_555
+Se2 V2 2.491895 1_555
+Se2 V0 2.494746 1_555
+Se3 V2 2.413656 1_555
+Se3 V1 2.485124 1_555
+Se3 V3 2.487602 1_555
+Se4 V2 2.650029 1_655
+Se4 V0 2.651256 1_556
+Se4 V3 2.703527 1_565
+Se5 V3 2.654740 1_565
+Se5 V1 2.656069 1_555
+Se5 V0 2.701784 1_556
+Se6 V0 2.648524 1_556
+Se6 V2 2.649621 1_655
+Se6 V1 2.701014 1_555
+Se7 V3 2.652112 1_565
+Se7 V1 2.655917 1_555
+Se7 V2 2.702320 1_655

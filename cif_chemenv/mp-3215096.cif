@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_HgMoO3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90576801
+_cell_length_b   10.31323967
+_cell_length_c   5.53828489
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.33699199
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgMoO3F2
+_chemical_formula_sum   'Hg2 Mo2 O6 F4'
+_cell_volume   210.50332626
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.00000000  0.50000000  0.00000000  1
+  Mo  Mo0  1  0.65767924  0.25000000  0.47112659  1
+  Mo  Mo1  1  0.34231876  0.75000000  0.52887241  1
+  O  O0  1  0.18957169  0.61843074  0.31924442  1
+  O  O1  1  0.18957169  0.88156926  0.31924442  1
+  O  O2  1  0.19286319  0.25000000  0.42277771  1
+  O  O3  1  0.80713381  0.75000000  0.57722129  1
+  O  O4  1  0.81042931  0.11843074  0.68075758  1
+  O  O5  1  0.81042931  0.38156926  0.68075758  1
+  F  F0  1  0.58222117  0.12622473  0.17051050  1
+  F  F1  1  0.58222117  0.37377527  0.17051050  1
+  F  F2  1  0.41777983  0.62622473  0.82949050  1
+  F  F3  1  0.41777983  0.87377527  0.82949050  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 O4 2.073432 1_454
+Hg0 O1 2.073440 1_545
+Hg1 O5 2.073432 1_454
+Hg1 O0 2.073440 1_555
+Mo0 O2 1.745186 1_555
+Mo0 O5 1.756796 1_555
+Mo0 O4 1.756796 1_555
+Mo0 O2 2.193569 1_655
+Mo1 O3 1.745182 1_555
+Mo1 O1 1.756786 1_555
+Mo1 O0 1.756786 1_555
+Mo1 O3 2.193573 1_455
+F0 Mo0 2.040418 1_555
+F0 Hg0 2.503894 1_655
+F0 Hg0 2.517032 1_555
+F0 F1 2.553048 1_555
+F0 O2 2.657649 1_655
+F0 O4 2.668058 1_555
+F0 O2 2.702072 1_555
+F1 Mo0 2.040418 1_555
+F1 Hg1 2.503894 1_655
+F1 Hg1 2.517032 1_555
+F1 O2 2.657649 1_655
+F1 O5 2.668058 1_555
+F1 O2 2.702072 1_555
+F2 Mo1 2.040425 1_555
+F2 Hg1 2.503893 1_556
+F2 Hg1 2.517029 1_656
+F2 F3 2.553048 1_555
+F2 O3 2.657663 1_455
+F2 O0 2.668053 1_555
+F2 O3 2.702068 1_555
+F3 Mo1 2.040425 1_555
+F3 Hg0 2.503893 1_566
+F3 Hg0 2.517029 1_666
+F3 O3 2.657663 1_455
+F3 O1 2.668053 1_555
+F3 O3 2.702068 1_555

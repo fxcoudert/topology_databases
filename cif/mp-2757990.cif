@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_LuAsSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83697265
+_cell_length_b   3.86199528
+_cell_length_c   17.15031475
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAsSe
+_chemical_formula_sum   'Lu4 As4 Se4'
+_cell_volume   254.13971411
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75000000  0.23989117  0.86010258  1
+  Lu  Lu1  1  0.75000000  0.26010883  0.36010258  1
+  Lu  Lu2  1  0.25000000  0.76010883  0.13989742  1
+  Lu  Lu3  1  0.25000000  0.73989117  0.63989742  1
+  As  As0  1  0.25000000  0.21719452  0.50142429  1
+  As  As1  1  0.25000000  0.28280548  0.00142429  1
+  As  As2  1  0.75000000  0.78280548  0.49857571  1
+  As  As3  1  0.75000000  0.71719452  0.99857571  1
+  Se  Se0  1  0.75000000  0.24249987  0.68777804  1
+  Se  Se1  1  0.75000000  0.25750013  0.18777804  1
+  Se  Se2  1  0.25000000  0.75750013  0.31222196  1
+  Se  Se3  1  0.25000000  0.74249987  0.81222196  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Se3 2.836345 1_545
+Lu0 Se3 2.836345 1_645
+Lu0 Se3 2.850030 1_555
+Lu0 Se3 2.850030 1_655
+Lu0 Se0 2.955437 1_555
+Lu1 Se2 2.836345 1_555
+Lu1 Se2 2.836345 1_655
+Lu1 Se2 2.850030 1_545
+Lu1 Se2 2.850030 1_645
+Lu1 Se1 2.955437 1_555
+Lu2 Se1 2.836345 1_465
+Lu2 Se1 2.836345 1_565
+Lu2 Se1 2.850030 1_455
+Lu2 Se1 2.850030 1_555
+Lu2 Se2 2.955437 1_555
+Lu3 Se0 2.836345 1_555
+Lu3 Se0 2.836345 1_455
+Lu3 Se0 2.850030 1_565
+Lu3 Se0 2.850030 1_465
+Lu3 Se3 2.955437 1_555
+As0 As2 2.548989 1_445
+As0 As2 2.548989 1_545
+As0 As2 2.907666 1_455
+As0 As2 2.907666 1_555
+As0 Lu3 3.006304 1_545
+As0 Lu1 3.095551 1_455
+As0 Lu1 3.095551 1_555
+As0 Lu3 3.116874 1_555
+As1 As3 2.548989 1_554
+As1 As3 2.548989 1_454
+As1 As3 2.907666 1_544
+As1 As3 2.907666 1_444
+As1 Lu2 3.006304 1_555
+As1 Lu0 3.095551 1_554
+As1 Lu0 3.095551 1_454
+As1 Lu2 3.116874 1_545
+As2 Lu1 3.006304 1_565
+As2 Lu3 3.095551 1_655
+As2 Lu3 3.095551 1_555
+As2 Lu1 3.116874 1_555
+As3 Lu0 3.006304 1_555
+As3 Lu2 3.095551 1_556
+As3 Lu2 3.095551 1_656
+As3 Lu0 3.116874 1_565

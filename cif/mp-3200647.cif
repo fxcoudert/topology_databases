@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KInPH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17288136
+_cell_length_b   4.17288333
+_cell_length_c   6.21870155
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KInPH
+_chemical_formula_sum   'K1 In1 P1 H1'
+_cell_volume   93.77836591
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33333300  0.66666700  0.05099715  1
+  In  In0  1  0.00000000  0.00000000  0.55934961  1
+  P  P0  1  0.66666700  0.33333300  0.41615484  1
+  H  H0  1  0.00000000  0.00000000  0.85339840  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P0 3.310720 1_455
+K0 P0 3.310721 1_565
+K0 P0 3.310725 1_555
+In0 P0 2.568515 1_455
+In0 P0 2.568518 1_555
+In0 P0 2.568519 1_445
+H0 In0 1.828602 1_555
+H0 K0 2.704491 1_546
+H0 K0 2.704494 1_446
+H0 K0 2.704495 1_556

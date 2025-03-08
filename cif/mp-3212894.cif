@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_K2CuAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47780556
+_cell_length_b   6.33164679
+_cell_length_c   10.66043513
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   85.85009494
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CuAgS2
+_chemical_formula_sum   'K4 Cu2 Ag2 S4'
+_cell_volume   368.77210677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74976754  0.52375929  0.84685343  1
+  K  K1  1  0.25023246  0.02375929  0.65314657  1
+  K  K2  1  0.74976754  0.97624071  0.34685343  1
+  K  K3  1  0.25023246  0.47624071  0.15314657  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag0  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.50000000  1
+  S  S0  1  0.77028282  0.23518588  0.09260117  1
+  S  S1  1  0.77028282  0.26481412  0.59260117  1
+  S  S2  1  0.22971718  0.76481412  0.90739883  1
+  S  S3  1  0.22971718  0.73518588  0.40739883  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S2 3.147017 1_655
+K0 S1 3.162776 1_555
+K0 S0 3.202645 1_556
+K0 S2 3.255039 1_555
+K1 S1 3.147017 1_455
+K1 S2 3.162776 1_545
+K1 S3 3.202645 1_545
+K1 S1 3.255039 1_555
+K2 S3 3.147017 1_655
+K2 S0 3.162776 1_565
+K2 S1 3.202645 1_565
+K2 S3 3.255039 1_555
+K3 S0 3.147017 1_455
+K3 S3 3.162776 1_555
+K3 S2 3.202645 1_554
+K3 S0 3.255039 1_555
+Cu0 S1 2.143738 1_455
+Cu0 S3 2.143738 1_555
+Cu1 S0 2.143738 1_455
+Cu1 S2 2.143738 1_544
+Ag0 S0 2.365491 1_555
+Ag0 S2 2.365491 1_544
+Ag1 S1 2.365491 1_555
+Ag1 S3 2.365491 1_555

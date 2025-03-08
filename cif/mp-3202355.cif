@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_K2Ti(AgTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94225121
+_cell_length_b   7.94225207
+_cell_length_c   6.39177785
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.33391798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ti(AgTe2)2
+_chemical_formula_sum   'K2 Ti1 Ag2 Te4'
+_cell_volume   298.05062949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.00000000  0.25290557  1
+  K  K1  1  0.00000000  0.50000000  0.74709443  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag0  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag1  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te0  1  0.87952236  0.65711369  0.23171940  1
+  Te  Te1  1  0.12047764  0.34288631  0.23171940  1
+  Te  Te2  1  0.65711369  0.87952236  0.76828060  1
+  Te  Te3  1  0.34288631  0.12047764  0.76828060  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te1 3.693759 1_655
+K0 Te0 3.693759 1_445
+K0 Te3 3.698123 1_554
+K0 Te2 3.698123 1_544
+K0 Te2 3.864247 1_545
+K0 Te3 3.864247 1_555
+K0 Te0 3.892706 1_555
+K0 Te1 3.892706 1_545
+K1 Te3 3.693760 1_565
+K1 Te2 3.693760 1_445
+K1 Te1 3.698123 1_556
+K1 Te0 3.698123 1_456
+K1 Te1 3.864247 1_555
+K1 Te0 3.864247 1_455
+K1 Te3 3.892706 1_455
+K1 Te2 3.892706 1_555
+Ag0 Te2 2.786148 1_445
+Ag0 Te3 2.786148 1_555
+Ag0 Te1 2.786148 1_555
+Ag0 Te0 2.786148 1_445
+Ag0 Ti0 3.195889 1_555
+Ag0 Ti0 3.195889 1_556
+Ag1 Te0 2.787547 1_555
+Ag1 Te1 2.787547 1_555
+Ag1 Te2 2.787548 1_554
+Ag1 Te3 2.787548 1_554
+Ag1 Ti0 3.209248 1_555
+Ag1 Ti0 3.209248 1_665
+Te0 Ti0 2.648730 1_665
+Te1 Ti0 2.648730 1_555
+Te2 Ti0 2.648730 1_666
+Te3 Ti0 2.648730 1_556

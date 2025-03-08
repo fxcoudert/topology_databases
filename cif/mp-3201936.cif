@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Li2Ca3AgPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92894595
+_cell_length_b   4.92894473
+_cell_length_c   10.98502315
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ca3AgPb3
+_chemical_formula_sum   'Li2 Ca3 Ag1 Pb3'
+_cell_volume   231.12111996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.98993375  1
+  Li  Li1  1  0.00000000  0.00000000  0.68842694  1
+  Ca  Ca0  1  0.66666700  0.33333300  0.83065640  1
+  Ca  Ca1  1  0.66666700  0.33333300  0.49930512  1
+  Ca  Ca2  1  0.66666700  0.33333300  0.16472999  1
+  Ag  Ag0  1  0.00000000  0.00000000  0.29738037  1
+  Pb  Pb0  1  0.33333300  0.66666700  0.65577359  1
+  Pb  Pb1  1  0.33333300  0.66666700  0.35163217  1
+  Pb  Pb2  1  0.00000000  0.00000000  0.00006367  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Pb2 2.847900 1_566
+Li0 Pb2 2.847904 1_556
+Li0 Pb2 2.847905 1_666
+Li1 Pb0 2.868242 1_545
+Li1 Pb0 2.868247 1_555
+Li1 Pb0 2.868247 1_445
+Li1 Pb2 3.423337 1_556
+Ca0 Li1 3.246417 1_655
+Ca0 Li1 3.246421 1_665
+Ca0 Li1 3.246422 1_555
+Ca0 Li0 3.340581 1_545
+Ca0 Li0 3.340581 1_655
+Ca0 Li0 3.340588 1_555
+Ca0 Pb2 3.400185 1_656
+Ca0 Pb2 3.400189 1_666
+Ca0 Pb2 3.400189 1_556
+Ca0 Pb0 3.433474 1_545
+Ca0 Pb0 3.433475 1_655
+Ca0 Pb0 3.433481 1_555
+Ca1 Pb1 3.275615 1_545
+Ca1 Pb1 3.275615 1_655
+Ca1 Pb1 3.275622 1_555
+Ca1 Pb0 3.324524 1_545
+Ca1 Pb0 3.324524 1_655
+Ca1 Pb0 3.324531 1_555
+Ca2 Pb2 3.371963 1_655
+Ca2 Pb2 3.371967 1_665
+Ca2 Pb2 3.371968 1_555
+Ca2 Pb1 3.509056 1_545
+Ca2 Pb1 3.509056 1_655
+Ca2 Pb1 3.509063 1_555
+Ag0 Pb1 2.907459 1_545
+Ag0 Pb1 2.907463 1_555
+Ag0 Pb1 2.907463 1_445
+Ag0 Ca2 3.197106 1_455
+Ag0 Ca2 3.197110 1_445
+Ag0 Ca2 3.197110 1_555
+Ag0 Pb2 3.266031 1_555
+Ag0 Ca1 3.608092 1_455
+Ag0 Ca1 3.608096 1_445
+Ag0 Ca1 3.608096 1_555
+Pb0 Pb1 3.341001 1_555

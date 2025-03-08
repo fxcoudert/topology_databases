@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiCuPtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07904394
+_cell_length_b   6.07904374
+_cell_length_c   6.07904333
+_cell_angle_alpha   125.01118122
+_cell_angle_beta   119.70495941
+_cell_angle_gamma   86.02793484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCuPtO4
+_chemical_formula_sum   'Li2 Cu2 Pt2 O8'
+_cell_volume   152.34201541
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.90444316  0.15444316  0.75000000  1
+  Li  Li1  1  0.09555784  0.84555784  0.25000000  1
+  Cu  Cu0  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.50000000  1
+  Pt  Pt0  1  0.00000000  0.50000000  0.50000000  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.00000000  1
+  O  O0  1  0.73402588  0.27681628  0.45720960  1
+  O  O1  1  0.76986132  0.29066849  0.02080818  1
+  O  O2  1  0.76986132  0.74905414  0.47919182  1
+  O  O3  1  0.31960668  0.27681628  0.04279040  1
+  O  O4  1  0.68039332  0.72318372  0.95720960  1
+  O  O5  1  0.23013868  0.70933151  0.97919182  1
+  O  O6  1  0.23013868  0.25094586  0.52080818  1
+  O  O7  1  0.26597412  0.72318372  0.54279040  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O2 1.934389 1_545
+Li0 O1 1.934395 1_556
+Li0 O0 2.092789 1_555
+Li0 O3 2.092790 1_656
+Li1 O6 1.934384 1_565
+Li1 O5 1.934389 1_554
+Li1 O7 2.092794 1_555
+Li1 O4 2.092794 1_454
+Cu0 O0 1.904402 1_555
+Cu0 O7 1.904402 1_544
+Cu0 O4 1.904402 1_544
+Cu0 O3 1.904402 1_555
+Cu0 O1 2.401861 1_555
+Cu0 O5 2.401861 1_544
+Cu1 O3 1.904402 1_555
+Cu1 O4 1.904402 1_555
+Cu1 O0 1.904402 1_555
+Cu1 O7 1.904402 1_555
+Cu1 O2 2.401870 1_555
+Cu1 O6 2.401870 1_555
+O0 Pt0 2.001198 1_655
+O1 Pt0 2.004095 1_655
+O1 Pt1 2.004099 1_555
+O2 Pt1 2.004095 1_555
+O2 Pt0 2.004100 1_655
+O3 Pt1 2.001198 1_555
+O4 Pt1 2.001198 1_556
+O5 Pt0 2.004095 1_555
+O5 Pt1 2.004099 1_556
+O6 Pt1 2.004095 1_556
+O6 Pt0 2.004100 1_555
+O7 Pt0 2.001198 1_555

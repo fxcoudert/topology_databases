@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_BiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71819146
+_cell_length_b   5.63338124
+_cell_length_c   10.80945814
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   99.66502458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiPd
+_chemical_formula_sum   'Bi8 Pd8'
+_cell_volume   343.26006264
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.16868288  0.12039037  0.71233703  1
+  Bi  Bi1  1  0.83131712  0.87960963  0.21233703  1
+  Bi  Bi2  1  0.60372778  0.65109319  0.70916753  1
+  Bi  Bi3  1  0.39627222  0.34890681  0.20916753  1
+  Bi  Bi4  1  0.66844218  0.11999629  0.49131559  1
+  Bi  Bi5  1  0.33155782  0.88000371  0.99131559  1
+  Bi  Bi6  1  0.10357825  0.65084095  0.49458728  1
+  Bi  Bi7  1  0.89642175  0.34915905  0.99458728  1
+  Pd  Pd0  1  0.19093504  0.17347951  0.44287111  1
+  Pd  Pd1  1  0.80906496  0.82652049  0.94287111  1
+  Pd  Pd2  1  0.58898739  0.60121695  0.43251783  1
+  Pd  Pd3  1  0.41101261  0.39878305  0.93251783  1
+  Pd  Pd4  1  0.30903301  0.82609923  0.26085031  1
+  Pd  Pd5  1  0.69096699  0.17390077  0.76085031  1
+  Pd  Pd6  1  0.91082604  0.39832683  0.27125133  1
+  Pd  Pd7  1  0.08917396  0.60167317  0.77125133  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Pd5 2.846820 1_455
+Bi0 Pd7 2.894310 1_555
+Bi0 Pd0 2.928677 1_555
+Bi0 Pd7 2.950427 1_545
+Bi0 Pd5 2.997146 1_555
+Bi0 Pd3 3.051974 1_555
+Bi0 Pd1 3.469292 1_445
+Bi1 Pd4 2.846820 1_655
+Bi1 Pd6 2.894310 1_555
+Bi1 Pd1 2.928677 1_554
+Bi1 Pd6 2.950427 1_565
+Bi1 Pd4 2.997146 1_555
+Bi1 Pd2 3.051974 1_555
+Bi1 Pd0 3.469292 1_665
+Bi2 Pd5 2.870138 1_555
+Bi2 Pd1 2.889186 1_555
+Bi2 Pd7 2.914248 1_655
+Bi2 Pd3 2.921904 1_555
+Bi2 Pd5 2.956634 1_565
+Bi2 Pd7 2.984971 1_555
+Bi2 Pd2 3.003463 1_555
+Bi3 Pd4 2.870138 1_555
+Bi3 Pd0 2.889186 1_555
+Bi3 Pd6 2.914248 1_455
+Bi3 Pd2 2.921904 1_555
+Bi3 Pd4 2.956634 1_545
+Bi3 Pd6 2.984971 1_555
+Bi3 Pd3 3.003463 1_554
+Bi4 Pd0 2.845476 1_555
+Bi4 Pd2 2.893599 1_555
+Bi4 Pd5 2.929896 1_555
+Bi4 Pd2 2.950497 1_545
+Bi4 Pd0 2.998195 1_655
+Bi4 Pd6 3.050952 1_555
+Bi4 Pd4 3.468204 1_545
+Bi5 Pd1 2.845476 1_555
+Bi5 Pd3 2.893599 1_555
+Bi5 Pd4 2.929896 1_556
+Bi5 Pd3 2.950497 1_565
+Bi5 Pd1 2.998195 1_455
+Bi5 Pd7 3.050952 1_555
+Bi5 Pd5 3.468204 1_565
+Bi6 Pd0 2.871350 1_555
+Bi6 Pd4 2.889475 1_555
+Bi6 Pd2 2.914301 1_555
+Bi6 Pd6 2.922325 1_455
+Bi6 Pd0 2.955782 1_565
+Bi6 Pd2 2.985059 1_455
+Bi6 Pd7 3.003242 1_555
+Bi7 Pd1 2.871350 1_555
+Bi7 Pd5 2.889475 1_555
+Bi7 Pd3 2.914301 1_555
+Bi7 Pd7 2.922325 1_655
+Bi7 Pd1 2.955782 1_545
+Bi7 Pd3 2.985059 1_655
+Bi7 Pd6 3.003242 1_556
+Pd0 Pd6 2.879685 1_455
+Pd0 Pd4 2.932673 1_545
+Pd0 Pd2 3.026211 1_555
+Pd1 Pd7 2.879685 1_655
+Pd1 Pd5 2.932673 1_565
+Pd1 Pd3 3.026211 1_555
+Pd2 Pd4 2.879566 1_555
+Pd2 Pd6 2.904862 1_555
+Pd3 Pd5 2.879566 1_555
+Pd3 Pd7 2.904862 1_555
+Pd4 Pd6 3.026909 1_455
+Pd5 Pd7 3.026909 1_655

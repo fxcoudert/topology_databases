@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Na3P4(IrRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27788336
+_cell_length_b   6.24911210
+_cell_length_c   6.24911184
+_cell_angle_alpha   109.35692101
+_cell_angle_beta   109.43531577
+_cell_angle_gamma   109.43529009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3P4(IrRh)2
+_chemical_formula_sum   'Na3 P4 Ir2 Rh2'
+_cell_volume   189.15656016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.99462255  0.49462255  1
+  Na  Na1  1  0.50000000  0.49462255  0.99462255  1
+  Na  Na2  1  0.00000000  0.50216897  0.50216897  1
+  P  P0  1  1.00000000  0.36470229  0.00270107  1
+  P  P1  1  0.63397654  0.63574362  0.63574362  1
+  P  P2  1  1.00000000  0.00270107  0.36470229  1
+  P  P3  1  0.36602346  0.00176708  0.00176708  1
+  Ir  Ir0  1  0.28311692  0.28306412  0.28306412  1
+  Ir  Ir1  1  0.71688308  0.99994720  0.99994720  1
+  Rh  Rh0  1  1.00000000  0.72051274  0.00014780  1
+  Rh  Rh1  1  0.00000000  0.00014780  0.72051274  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 P3 2.930441 1_565
+Na0 P1 2.930441 1_555
+Na0 Rh0 2.965403 1_455
+Na0 Rh1 2.965404 1_665
+Na0 P0 2.991876 1_566
+Na0 P2 2.991876 1_465
+Na1 P3 2.930442 1_556
+Na1 P1 2.930442 1_555
+Na1 Rh1 2.965404 1_555
+Na1 Rh0 2.965404 1_556
+Na1 P2 2.991876 1_566
+Na1 P0 2.991877 1_456
+Na2 P0 2.950019 1_455
+Na2 P2 2.950019 1_455
+Na2 Rh0 2.954839 1_456
+Na2 Rh1 2.954839 1_565
+Na2 P3 2.960516 1_566
+Na2 P1 2.960516 1_455
+P0 Rh0 2.228839 1_555
+P0 Rh1 2.374131 1_654
+P1 Rh0 2.377899 1_556
+P1 Rh1 2.377900 1_665
+P2 Rh1 2.228839 1_655
+P2 Rh0 2.374131 1_545
+P3 Rh1 2.377899 1_554
+P3 Rh0 2.377900 1_445
+Ir0 P1 2.210250 1_555
+Ir0 P0 2.369079 1_455
+Ir0 P2 2.369080 1_455
+Ir0 P3 2.370726 1_555
+Ir0 Na0 2.977540 1_545
+Ir0 Na1 2.977540 1_554
+Ir0 Na2 2.984094 1_555
+Ir1 P3 2.210250 1_566
+Ir1 P2 2.369079 1_566
+Ir1 P0 2.369080 1_566
+Ir1 P1 2.370726 1_555
+Ir1 Na0 2.977540 1_555
+Ir1 Na1 2.977540 1_555
+Ir1 Na2 2.984093 1_666

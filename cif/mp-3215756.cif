@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_AlH4I4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.40812765
+_cell_length_b   10.40812840
+_cell_length_c   10.40812725
+_cell_angle_alpha   136.20755930
+_cell_angle_beta   136.20756220
+_cell_angle_gamma   63.65960859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlH4I4N
+_chemical_formula_sum   'Al2 H8 I8 N2'
+_cell_volume   532.90330775
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al1  1  0.25000000  0.75000000  0.50000000  1
+  H  H0  1  0.89135765  0.27775515  0.60164160  1
+  H  H1  1  0.71028294  0.10864235  0.38639750  1
+  H  H2  1  0.72224485  0.32388644  0.61360250  1
+  H  H3  1  0.07388644  0.96028294  0.10164160  1
+  H  H4  1  0.67611356  0.28971706  0.39835840  1
+  H  H5  1  0.02775515  0.92611356  0.88639750  1
+  H  H6  1  0.03971706  0.14135765  0.11360250  1
+  H  H7  1  0.85864235  0.97224485  0.89835840  1
+  I  I0  1  0.71297705  0.33957455  0.89325948  1
+  I  I1  1  0.08957455  0.69631607  0.12659851  1
+  I  I2  1  0.18028243  0.28702295  0.62659851  1
+  I  I3  1  0.44631607  0.81971757  0.10674052  1
+  I  I4  1  0.30368393  0.43028243  0.39325948  1
+  I  I5  1  0.56971757  0.96297705  0.87340149  1
+  I  I6  1  0.66042545  0.55368393  0.37340149  1
+  I  I7  1  0.03702295  0.91042545  0.60674052  1
+  N  N0  1  0.75000000  0.25000000  0.50000000  1
+  N  N1  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 I6 2.555132 1_555
+Al0 I0 2.555135 1_554
+Al0 I2 2.555136 1_554
+Al0 I3 2.555136 1_555
+Al1 I1 2.555132 1_555
+Al1 I7 2.555135 1_555
+Al1 I5 2.555136 1_555
+Al1 I4 2.555136 1_555
+H0 N0 1.027685 1_555
+H1 N0 1.027688 1_555
+H2 N0 1.027685 1_555
+H3 N1 1.027694 1_565
+H4 N0 1.027694 1_555
+H5 N1 1.027685 1_566
+H6 N1 1.027688 1_555
+H7 N1 1.027685 1_666

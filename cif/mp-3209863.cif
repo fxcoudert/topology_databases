@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_NiHg(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95142679
+_cell_length_b   4.95142617
+_cell_length_c   7.00225765
+_cell_angle_alpha   89.35596416
+_cell_angle_beta   90.64403368
+_cell_angle_gamma   112.45678658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiHg(SeO4)2
+_chemical_formula_sum   'Ni1 Hg1 Se2 O8'
+_cell_volume   158.63898623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.36026213  0.63973787  0.72447615  1
+  Se  Se1  1  0.63973787  0.36026213  0.27552385  1
+  O  O0  1  0.23395697  0.27271240  0.71659972  1
+  O  O1  1  0.76604303  0.72728760  0.28340028  1
+  O  O2  1  0.27271240  0.23395697  0.28340028  1
+  O  O3  1  0.72728760  0.76604303  0.71659972  1
+  O  O4  1  0.27636638  0.72363362  0.93676742  1
+  O  O5  1  0.75967852  0.24032148  0.46333140  1
+  O  O6  1  0.72363362  0.27636638  0.06323258  1
+  O  O7  1  0.24032148  0.75967852  0.53666860  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 O7 1.991436 1_545
+Ni0 O5 1.991436 1_455
+Ni0 O3 2.068125 1_445
+Ni0 O2 2.068125 1_555
+Ni0 O0 2.068125 1_555
+Ni0 O1 2.068125 1_445
+Hg0 O4 2.323561 1_544
+Hg0 O6 2.323561 1_455
+Hg0 O1 2.428931 1_445
+Hg0 O0 2.428931 1_554
+Hg0 O2 2.428931 1_555
+Hg0 O3 2.428931 1_444
+O0 Se0 1.682242 1_555
+O1 Se1 1.682242 1_555
+O2 Se1 1.682242 1_555
+O3 Se0 1.682242 1_555
+O4 Se0 1.647559 1_555
+O5 Se1 1.633750 1_555
+O6 Se1 1.647559 1_555
+O7 Se0 1.633750 1_555

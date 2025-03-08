@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Hf2ZrGaN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92387616
+_cell_length_b   5.92387636
+_cell_length_c   8.71689387
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.22739763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2ZrGaN
+_chemical_formula_sum   'Hf4 Zr2 Ga2 N2'
+_cell_volume   165.58337202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.37179920  0.62820080  0.04800196  1
+  Hf  Hf1  1  0.62820080  0.37179920  0.54800196  1
+  Hf  Hf2  1  0.95093556  0.04906444  0.74961649  1
+  Hf  Hf3  1  0.04906444  0.95093556  0.24961649  1
+  Zr  Zr0  1  0.62722571  0.37277429  0.95076712  1
+  Zr  Zr1  1  0.37277429  0.62722571  0.45076712  1
+  Ga  Ga0  1  0.25584727  0.74415273  0.74954078  1
+  Ga  Ga1  1  0.74415273  0.25584727  0.24954078  1
+  N  N0  1  0.99515985  0.00484015  0.00207265  1
+  N  N1  1  0.00484015  0.99515985  0.50207265  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 N0 2.217949 1_565
+Hf0 N0 2.217949 1_455
+Hf1 N1 2.217949 1_545
+Hf1 N1 2.217949 1_655
+Hf2 N1 2.243116 1_645
+Hf2 N0 2.257315 1_556
+Hf3 N0 2.243116 1_465
+Hf3 N1 2.257315 1_555
+Ga0 Hf2 2.776705 1_565
+Ga0 Hf2 2.776705 1_455
+Ga0 Hf1 2.825653 1_455
+Ga0 Hf1 2.825653 1_565
+Ga0 Zr0 2.829671 1_455
+Ga0 Zr0 2.829671 1_565
+Ga0 Hf0 2.916444 1_556
+Ga0 Zr1 2.923896 1_555
+Ga1 Hf3 2.776705 1_545
+Ga1 Hf3 2.776705 1_655
+Ga1 Hf0 2.825653 1_655
+Ga1 Hf0 2.825653 1_545
+Ga1 Zr1 2.829671 1_655
+Ga1 Zr1 2.829671 1_545
+Ga1 Hf1 2.916444 1_555
+Ga1 Zr0 2.923896 1_554
+N0 Zr0 2.290479 1_654
+N0 Zr0 2.290480 1_544
+N1 Zr1 2.290479 1_455
+N1 Zr1 2.290480 1_565

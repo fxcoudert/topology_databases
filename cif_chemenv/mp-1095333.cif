@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_EuIn4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83176202
+_cell_length_b   8.83176202
+_cell_length_c   7.44369662
+_cell_angle_alpha   90.00009354
+_cell_angle_beta   89.99990646
+_cell_angle_gamma   150.41747678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuIn4Ir
+_chemical_formula_sum   'Eu2 In8 Ir2'
+_cell_volume   286.63283814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.62624457  0.37375543  0.75000000  1
+  Eu  Eu1  1  0.37376450  0.62623550  0.24999900  1
+  In  In0  1  0.81420848  0.18579152  0.95124364  1
+  In  In1  1  0.18577291  0.81422709  0.04869059  1
+  In  In2  1  0.81420948  0.18579052  0.54875736  1
+  In  In3  1  0.18577291  0.81422709  0.45130941  1
+  In  In4  1  0.43124132  0.56875868  0.75000000  1
+  In  In5  1  0.56877736  0.43122264  0.25000000  1
+  In  In6  1  0.00000747  -0.00000747  0.00000575  1
+  In  In7  1  0.00000747  -0.00000747  0.49999325  1
+  Ir  Ir0  1  0.27520687  0.72479313  0.75000000  1
+  Ir  Ir1  1  0.72478666  0.27521334  0.25000100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 In3 3.325764 1_545
+Eu0 In3 3.325764 1_655
+Eu0 In1 3.325766 1_546
+Eu0 In1 3.325766 1_656
+Eu0 In4 3.330304 1_555
+Eu0 Ir0 3.399382 1_655
+Eu0 Ir0 3.399382 1_545
+Eu0 In0 3.542408 1_555
+Eu0 In2 3.542415 1_555
+Eu0 In6 3.632482 1_556
+Eu0 In6 3.632482 1_666
+Eu0 In7 3.632489 1_665
+Eu0 In7 3.632489 1_555
+Eu0 In5 3.849073 1_556
+Eu0 In5 3.849076 1_555
+Eu1 In0 3.326233 1_564
+Eu1 In0 3.326233 1_454
+Eu1 In2 3.326241 1_455
+Eu1 In2 3.326241 1_565
+Eu1 In5 3.330468 1_555
+Eu1 Ir1 3.399581 1_455
+Eu1 Ir1 3.399581 1_565
+Eu1 In1 3.543040 1_555
+Eu1 In3 3.543042 1_555
+Eu1 In6 3.632493 1_665
+Eu1 In6 3.632493 1_555
+Eu1 In7 3.632501 1_665
+Eu1 In7 3.632501 1_555
+Eu1 In4 3.849107 1_554
+Eu1 In4 3.849125 1_555
+In0 Ir1 2.697734 1_556
+In0 Ir0 2.787738 1_545
+In0 Ir0 2.787738 1_655
+In0 In2 2.995986 1_555
+In0 In6 3.193805 1_656
+In0 In1 3.228186 1_546
+In0 In1 3.228186 1_656
+In0 In4 3.364914 1_545
+In0 In4 3.364914 1_655
+In1 Ir0 2.697441 1_554
+In1 Ir1 2.788054 1_455
+In1 Ir1 2.788054 1_565
+In1 In3 2.996972 1_555
+In1 In6 3.193170 1_565
+In1 In5 3.364754 1_455
+In1 In5 3.364754 1_565
+In2 Ir1 2.697741 1_555
+In2 Ir0 2.787736 1_545
+In2 Ir0 2.787736 1_655
+In2 In7 3.193788 1_655
+In2 In3 3.228201 1_655
+In2 In3 3.228201 1_545
+In2 In4 3.364904 1_655
+In2 In4 3.364904 1_545
+In3 Ir0 2.697445 1_555
+In3 Ir1 2.788045 1_455
+In3 Ir1 2.788045 1_565
+In3 In7 3.193168 1_565
+In3 In5 3.364757 1_455
+In3 In5 3.364757 1_565
+In4 Ir0 2.664787 1_555
+In4 In6 3.150595 1_666
+In4 In6 3.150595 1_556
+In4 In7 3.150597 1_665
+In4 In7 3.150597 1_555
+In5 Ir1 2.664357 1_555
+In5 In7 3.150562 1_555
+In5 In7 3.150562 1_665
+In5 In6 3.150568 1_665
+In5 In6 3.150568 1_555
+In6 In7 3.721755 1_555
+In6 In7 3.721941 1_554

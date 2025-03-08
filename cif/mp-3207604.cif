@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Na3Ga2(SiPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64277105
+_cell_length_b   6.64277103
+_cell_length_c   6.42807272
+_cell_angle_alpha   109.45286485
+_cell_angle_beta   109.45287036
+_cell_angle_gamma   110.82193815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ga2(SiPt2)2
+_chemical_formula_sum   'Na3 Ga2 Si2 Pt4'
+_cell_volume   214.70765245
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49963143  0.49963143  0.00000000  1
+  Na  Na1  1  0.49571712  0.99571712  0.50000000  1
+  Na  Na2  1  0.99571712  0.49571712  0.50000000  1
+  Ga  Ga0  1  0.37215096  0.00697862  1.00000000  1
+  Ga  Ga1  1  0.00697862  0.37215096  0.00000000  1
+  Si  Si0  1  0.00490186  0.00490186  0.36573108  1
+  Si  Si1  1  0.63917077  0.63917077  0.63426892  1
+  Pt  Pt0  1  0.72522439  0.98844906  1.00000000  1
+  Pt  Pt1  1  0.98844906  0.72522439  1.00000000  1
+  Pt  Pt2  1  0.28269147  0.28269147  0.29332427  1
+  Pt  Pt3  1  0.98936820  0.98936820  0.70667673  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Pt0 3.054504 1_554
+Na0 Pt1 3.054504 1_554
+Na0 Si1 3.088272 1_554
+Na0 Si0 3.088272 1_665
+Na0 Pt3 3.138752 1_444
+Na0 Pt2 3.138758 1_555
+Na1 Pt0 3.090086 1_555
+Na1 Pt1 3.090086 1_454
+Na1 Si1 3.111411 1_555
+Na1 Si0 3.111411 1_565
+Na1 Pt2 3.123123 1_565
+Na1 Pt3 3.123126 1_555
+Na2 Pt1 3.090086 1_555
+Na2 Pt0 3.090086 1_544
+Na2 Si1 3.111411 1_555
+Na2 Si0 3.111411 1_655
+Na2 Pt2 3.123123 1_655
+Na2 Pt3 3.123126 1_555
+Ga0 Pt0 2.391908 1_545
+Ga0 Pt3 2.546097 1_445
+Ga0 Pt2 2.546101 1_556
+Ga0 Pt1 2.570626 1_445
+Ga0 Na1 3.075061 1_546
+Ga0 Na2 3.075061 1_445
+Ga0 Na0 3.075173 1_556
+Ga1 Pt1 2.391908 1_454
+Ga1 Pt3 2.546097 1_444
+Ga1 Pt2 2.546101 1_555
+Ga1 Pt0 2.570626 1_444
+Ga1 Na2 3.075061 1_455
+Ga1 Na1 3.075061 1_444
+Ga1 Na0 3.075173 1_555
+Pt0 Si0 2.401210 1_666
+Pt0 Si1 2.401210 1_555
+Pt1 Si1 2.401210 1_555
+Pt1 Si0 2.401210 1_666
+Pt2 Si1 2.262341 1_555
+Pt2 Si0 2.397951 1_555
+Pt3 Si0 2.262342 1_665
+Pt3 Si1 2.397955 1_555

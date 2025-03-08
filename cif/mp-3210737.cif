@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Ta3Nb2GaSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57563015
+_cell_length_b   7.57562934
+_cell_length_c   7.57562905
+_cell_angle_alpha   128.29363443
+_cell_angle_beta   128.29362822
+_cell_angle_gamma   76.14983761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Nb2GaSi2
+_chemical_formula_sum   'Ta6 Nb4 Ga2 Si4'
+_cell_volume   260.32132420
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.98325388  0.81258641  0.50000000  1
+  Ta  Ta1  1  0.31258641  0.48325388  0.50000000  1
+  Ta  Ta2  1  0.48325388  0.98325388  0.17066646  1
+  Ta  Ta3  1  0.81258641  0.31258641  0.82933354  1
+  Ta  Ta4  1  0.00049300  0.00049300  1.00000000  1
+  Ta  Ta5  1  0.50049300  0.50049300  1.00000000  1
+  Nb  Nb0  1  0.01732099  0.18669025  0.50000000  1
+  Nb  Nb1  1  0.68669025  0.51732099  0.50000000  1
+  Nb  Nb2  1  0.51732099  0.01732099  0.83063174  1
+  Nb  Nb3  1  0.18669025  0.68669025  0.16936826  1
+  Ga  Ga0  1  0.74934171  0.74934171  0.00000000  1
+  Ga  Ga1  1  0.24934171  0.24934171  0.00000000  1
+  Si  Si0  1  0.37082154  0.12949223  0.50000000  1
+  Si  Si1  1  0.62949223  0.87082154  0.50000000  1
+  Si  Si2  1  0.87082154  0.37082154  0.24132831  1
+  Si  Si3  1  0.12949223  0.62949223  0.75867169  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Si0 2.608414 1_555
+Nb0 Si3 2.639826 1_555
+Nb0 Si2 2.639834 1_455
+Nb1 Si1 2.608414 1_555
+Nb1 Si3 2.639827 1_655
+Nb1 Si2 2.639834 1_555
+Nb2 Si2 2.608415 1_556
+Nb2 Si1 2.639835 1_545
+Nb2 Si0 2.639835 1_555
+Nb3 Si3 2.608398 1_554
+Nb3 Si0 2.639827 1_565
+Nb3 Si1 2.639827 1_555
+Ga0 Ta2 2.748727 1_555
+Ga0 Ta0 2.748731 1_555
+Ga0 Ta1 2.748731 1_554
+Ga0 Ta3 2.748732 1_554
+Ga0 Nb2 2.753531 1_564
+Ga0 Nb1 2.753535 1_554
+Ga0 Nb0 2.753535 1_665
+Ga0 Nb3 2.753537 1_655
+Ga0 Ta5 2.968055 1_554
+Ga0 Ta4 2.995519 1_664
+Ga1 Ta2 2.748727 1_545
+Ga1 Ta1 2.748731 1_555
+Ga1 Ta0 2.748731 1_444
+Ga1 Ta3 2.748732 1_454
+Ga1 Nb2 2.753531 1_554
+Ga1 Nb0 2.753535 1_554
+Ga1 Nb1 2.753535 1_555
+Ga1 Nb3 2.753536 1_555
+Ga1 Ta4 2.968055 1_554
+Ga1 Ta5 2.995519 1_554
+Si0 Si1 2.416929 1_545
+Si0 Ta5 2.593770 1_555
+Si0 Ta4 2.593770 1_554
+Si0 Ta1 2.609751 1_555
+Si0 Ta3 2.633183 1_555
+Si0 Ta2 2.633191 1_545
+Si1 Ta5 2.593770 1_554
+Si1 Ta4 2.593770 1_665
+Si1 Ta0 2.609751 1_555
+Si1 Ta3 2.633183 1_565
+Si1 Ta2 2.633191 1_555
+Si2 Si3 2.416938 1_655
+Si2 Ta4 2.593768 1_654
+Si2 Ta5 2.593768 1_554
+Si2 Ta3 2.609736 1_554
+Si2 Ta0 2.633182 1_555
+Si2 Ta1 2.633183 1_655
+Si3 Ta4 2.593768 1_565
+Si3 Ta5 2.593768 1_555
+Si3 Ta2 2.609752 1_556
+Si3 Ta1 2.633190 1_555
+Si3 Ta0 2.633190 1_455

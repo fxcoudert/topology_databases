@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Cu3Ni(RhO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95170506
+_cell_length_b   5.95170448
+_cell_length_c   9.00149613
+_cell_angle_alpha   61.45094566
+_cell_angle_beta   61.45093709
+_cell_angle_gamma   29.38786288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Ni(RhO3)2
+_chemical_formula_sum   'Cu3 Ni1 Rh2 O6'
+_cell_volume   136.03831663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.34338673  0.34338673  0.32426499  1
+  Cu  Cu2  1  0.65661327  0.65661327  0.67573501  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh0  1  0.33193588  0.33193588  0.82889183  1
+  Rh  Rh1  1  0.66806412  0.66806412  0.17110817  1
+  O  O0  1  0.19488813  0.19488813  0.30137207  1
+  O  O1  1  0.51921104  0.51921104  0.63063547  1
+  O  O2  1  0.85765727  0.85765727  0.96360823  1
+  O  O3  1  0.80511187  0.80511187  0.69862793  1
+  O  O4  1  0.14234273  0.14234273  0.03639177  1
+  O  O5  1  0.48078896  0.48078896  0.36936453  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O4 1.823179 1_555
+Cu0 O2 1.823179 1_444
+Cu1 O5 1.817243 1_555
+Cu1 O0 1.820479 1_555
+Cu2 O1 1.817243 1_555
+Cu2 O3 1.820479 1_555
+Ni0 O1 1.991951 1_455
+Ni0 O5 1.991951 1_545
+Ni0 O1 1.991952 1_545
+Ni0 O5 1.991952 1_455
+Ni0 O0 2.065822 1_555
+Ni0 O3 2.065822 1_445
+O0 Rh1 2.026650 1_545
+O0 Rh1 2.026651 1_455
+O1 Rh0 2.007973 1_555
+O2 Rh0 2.047497 1_655
+O2 Rh0 2.047498 1_565
+O2 Rh1 2.055510 1_556
+O3 Rh0 2.026650 1_565
+O3 Rh0 2.026651 1_655
+O4 Rh1 2.047497 1_455
+O4 Rh1 2.047498 1_545
+O4 Rh0 2.055510 1_554
+O5 Rh1 2.007973 1_555

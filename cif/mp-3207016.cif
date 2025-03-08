@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Sc8Al3Zn4Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41022583
+_cell_length_b   6.57347372
+_cell_length_c   9.40766880
+_cell_angle_alpha   134.31384811
+_cell_angle_beta   119.19455608
+_cell_angle_gamma   45.69983107
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc8Al3Zn4Os
+_chemical_formula_sum   'Sc8 Al3 Zn4 Os1'
+_cell_volume   298.00701778
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.24244395  0.00667625  0.24169579  1
+  Sc  Sc1  1  0.75759753  0.49152476  0.24189197  1
+  Sc  Sc2  1  0.75836290  0.97660016  0.24229774  1
+  Sc  Sc3  1  0.24141147  0.49350362  0.24233832  1
+  Sc  Sc4  1  0.75846004  0.49183524  0.75778764  1
+  Sc  Sc5  1  0.24163014  0.00849907  0.75772241  1
+  Sc  Sc6  1  0.24246143  0.52326933  0.75807958  1
+  Sc  Sc7  1  0.75762514  0.00805711  0.75821903  1
+  Al  Al0  1  0.50007728  0.25014800  0.49985986  1
+  Al  Al1  1  0.49990386  0.74989251  0.50015298  1
+  Al  Al2  1  0.00010224  0.75012304  0.99983798  1
+  Zn  Zn0  1  0.50014066  0.75121496  0.00018930  1
+  Zn  Zn1  1  0.99984906  0.74882181  0.49984372  1
+  Zn  Zn2  1  0.00014619  0.25114963  0.50017444  1
+  Zn  Zn3  1  0.49985211  0.24879191  0.99982761  1
+  Os  Os0  1  0.99994001  0.24989160  0.00008163  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Zn1 2.864916 1_455
+Sc0 Zn0 2.866806 1_545
+Sc0 Zn2 2.919784 1_555
+Sc0 Zn3 2.923477 1_544
+Sc1 Zn1 2.863680 1_555
+Sc1 Zn0 2.868136 1_555
+Sc1 Zn2 2.920036 1_655
+Sc1 Zn3 2.924946 1_554
+Sc2 Zn0 2.863921 1_555
+Sc2 Zn1 2.867226 1_555
+Sc2 Zn3 2.920902 1_564
+Sc2 Zn2 2.924539 1_665
+Sc3 Zn0 2.865674 1_545
+Sc3 Zn1 2.866203 1_455
+Sc3 Zn3 2.920257 1_554
+Sc3 Zn2 2.922625 1_565
+Sc4 Zn0 2.863995 1_556
+Sc4 Zn1 2.867798 1_545
+Sc4 Zn3 2.920169 1_565
+Sc4 Zn2 2.922821 1_655
+Sc5 Zn0 2.865507 1_546
+Sc5 Zn1 2.868832 1_445
+Sc5 Zn3 2.919378 1_555
+Sc5 Zn2 2.923015 1_555
+Sc6 Zn1 2.864621 1_455
+Sc6 Zn0 2.869079 1_556
+Sc6 Zn2 2.919316 1_555
+Sc6 Zn3 2.923922 1_555
+Sc7 Zn1 2.863558 1_545
+Sc7 Zn0 2.868292 1_556
+Sc7 Zn2 2.919784 1_645
+Sc7 Zn3 2.923359 1_555
+Al0 Sc2 2.926601 1_545
+Al0 Sc6 2.928031 1_555
+Al0 Sc5 2.928249 1_565
+Al0 Sc3 2.928506 1_555
+Al0 Sc4 2.928795 1_555
+Al0 Sc1 2.928883 1_545
+Al0 Sc0 2.929602 1_555
+Al0 Sc7 2.929850 1_555
+Al1 Sc5 2.981135 1_565
+Al1 Sc2 2.982778 1_545
+Al1 Sc1 2.982875 1_555
+Al1 Sc6 2.982912 1_565
+Al1 Sc4 2.982990 1_555
+Al1 Sc3 2.983238 1_555
+Al1 Sc7 2.984006 1_565
+Al1 Sc0 2.984318 1_565
+Al2 Sc6 2.858143 1_555
+Al2 Sc7 2.858148 1_465
+Al2 Sc0 2.858442 1_566
+Al2 Sc1 2.858943 1_466
+Al2 Sc4 2.859773 1_455
+Al2 Sc5 2.859856 1_555
+Al2 Sc3 2.859904 1_556
+Al2 Sc2 2.860235 1_456
+Os0 Sc0 2.801999 1_655
+Os0 Sc1 2.802045 1_555
+Os0 Sc7 2.802132 1_554
+Os0 Sc5 2.802151 1_654
+Os0 Sc4 2.802262 1_554
+Os0 Sc3 2.802392 1_655
+Os0 Sc6 2.802639 1_644
+Os0 Sc2 2.802832 1_555

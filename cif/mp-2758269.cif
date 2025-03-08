@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Al(VS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91358635
+_cell_length_b   6.89952643
+_cell_length_c   6.89975669
+_cell_angle_alpha   59.64021675
+_cell_angle_beta   60.15673373
+_cell_angle_gamma   60.15706587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(VS2)4
+_chemical_formula_sum   'Al1 V4 S8'
+_cell_volume   232.63069065
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00247686  -0.00050816  -0.00060318  1
+  V  V0  1  0.60771969  0.60296161  0.17896693  1
+  V  V1  1  0.60781073  0.17865740  0.60302555  1
+  V  V2  1  0.16581380  0.61351432  0.61352659  1
+  V  V3  1  0.60630081  0.60872979  0.60867195  1
+  S  S0  1  0.37916352  0.36987993  0.87784980  1
+  S  S1  1  0.37906264  0.87792331  0.36974707  1
+  S  S2  1  0.87997106  0.37564900  0.37571105  1
+  S  S3  1  0.37721362  0.37052634  0.37046222  1
+  S  S4  1  0.86441911  0.86775196  0.40165118  1
+  S  S5  1  0.86434632  0.40178009  0.86772723  1
+  S  S6  1  0.40149004  0.86633959  0.86639122  1
+  S  S7  1  0.86420781  0.86679381  0.86687140  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 S6 2.259756 1_544
+Al0 S4 2.262110 1_445
+Al0 S5 2.262242 1_454
+Al0 S7 2.274958 1_444
+S0 V3 2.282553 1_555
+S0 V1 2.303289 1_555
+S0 V2 2.331977 1_555
+S1 V3 2.283393 1_555
+S1 V0 2.302027 1_555
+S1 V2 2.331904 1_555
+S2 V0 2.301778 1_555
+S2 V1 2.302363 1_555
+S2 V3 2.303811 1_555
+S3 V0 2.272273 1_555
+S3 V1 2.273162 1_555
+S3 V2 2.392363 1_555
+S4 V2 2.521461 1_655
+S4 V1 2.539961 1_565
+S4 V3 2.544668 1_555
+S5 V2 2.521182 1_655
+S5 V0 2.540936 1_556
+S5 V3 2.544589 1_555
+S6 V1 2.549754 1_565
+S6 V0 2.550785 1_556
+S6 V3 2.551513 1_555
+S7 V2 2.508179 1_655
+S7 V1 2.557768 1_565
+S7 V0 2.558281 1_556

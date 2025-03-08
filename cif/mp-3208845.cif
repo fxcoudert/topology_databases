@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_SnHg3(SeCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70986877
+_cell_length_b   6.81252188
+_cell_length_c   13.37831973
+_cell_angle_alpha   89.91127554
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3(SeCl3)2
+_chemical_formula_sum   'Sn2 Hg6 Se4 Cl12'
+_cell_volume   702.67733646
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.00000000  0.50000000  0.00000000  1
+  Sn  Sn1  1  0.50000000  0.50000000  0.50000000  1
+  Hg  Hg0  1  0.26560456  0.00425990  0.74550218  1
+  Hg  Hg1  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg2  1  0.76560456  0.99574010  0.75449782  1
+  Hg  Hg3  1  0.73439544  0.99574010  0.25449782  1
+  Hg  Hg4  1  0.23439544  0.00425990  0.24550218  1
+  Hg  Hg5  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.98678315  0.17668842  0.33342729  1
+  Se  Se1  1  0.01321685  0.82331158  0.66657271  1
+  Se  Se2  1  0.51321685  0.17668842  0.83342729  1
+  Se  Se3  1  0.48678315  0.82331158  0.16657271  1
+  Cl  Cl0  1  0.21779660  0.71632449  0.92438118  1
+  Cl  Cl1  1  0.71779660  0.28367551  0.57561882  1
+  Cl  Cl2  1  0.23612119  0.31075302  0.07742410  1
+  Cl  Cl3  1  0.26387881  0.31075302  0.57742410  1
+  Cl  Cl4  1  0.51264983  0.70631159  0.65017108  1
+  Cl  Cl5  1  0.98735017  0.70631159  0.15017108  1
+  Cl  Cl6  1  0.48735017  0.29368841  0.34982892  1
+  Cl  Cl7  1  0.76387881  0.68924698  0.92257590  1
+  Cl  Cl8  1  0.28220340  0.71632449  0.42438118  1
+  Cl  Cl9  1  0.01264983  0.29368841  0.84982892  1
+  Cl  Cl10  1  0.78220340  0.28367551  0.07561882  1
+  Cl  Cl11  1  0.73612119  0.68924698  0.42257590  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Se2 2.532252 1_555
+Hg0 Se1 2.534772 1_545
+Hg1 Se1 2.533180 1_545
+Hg1 Se0 2.533180 1_455
+Hg2 Se1 2.532252 1_655
+Hg2 Se2 2.534772 1_565
+Hg3 Se3 2.532252 1_555
+Hg3 Se0 2.534772 1_565
+Hg4 Se0 2.532252 1_455
+Hg4 Se3 2.534772 1_545
+Hg5 Se3 2.533180 1_545
+Hg5 Se2 2.533180 1_554
+Cl0 Sn0 2.451595 1_556
+Cl1 Sn1 2.451595 1_555
+Cl2 Sn0 2.458659 1_555
+Cl3 Sn1 2.458659 1_555
+Cl4 Sn1 2.455590 1_555
+Cl5 Sn0 2.455590 1_655
+Cl6 Sn1 2.455590 1_555
+Cl7 Sn0 2.458659 1_656
+Cl8 Sn1 2.451595 1_555
+Cl9 Sn0 2.455590 1_556
+Cl10 Sn0 2.451595 1_655
+Cl11 Sn1 2.458659 1_555

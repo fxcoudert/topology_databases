@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_NaSr2(SnSb)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64517881
+_cell_length_b   7.64517904
+_cell_length_c   9.85999205
+_cell_angle_alpha   82.59298234
+_cell_angle_beta   82.59298293
+_cell_angle_gamma   120.02823712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr2(SnSb)6
+_chemical_formula_sum   'Na1 Sr2 Sn6 Sb6'
+_cell_volume   482.06747655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr0  1  0.66664844  0.33335156  1.00000000  1
+  Sr  Sr1  1  0.33335156  0.66664844  0.00000000  1
+  Sn  Sn0  1  0.53511244  0.87302976  0.38098142  1
+  Sn  Sn1  1  0.21018526  0.21018526  0.38279659  1
+  Sn  Sn2  1  0.87302976  0.53511244  0.38098142  1
+  Sn  Sn3  1  0.46488756  0.12697024  0.61901858  1
+  Sn  Sn4  1  0.12697024  0.46488756  0.61901858  1
+  Sn  Sn5  1  0.78981474  0.78981474  0.61720341  1
+  Sb  Sb0  1  0.40485791  0.40485791  0.77233997  1
+  Sb  Sb1  1  0.07569702  0.74727886  0.77252749  1
+  Sb  Sb2  1  0.74727886  0.07569702  0.77252749  1
+  Sb  Sb3  1  0.59514209  0.59514209  0.22766003  1
+  Sb  Sb4  1  0.25272114  0.92430298  0.22747251  1
+  Sb  Sb5  1  0.92430298  0.25272114  0.22747251  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sb4 3.316648 1_545
+Na0 Sb2 3.316648 1_454
+Na0 Sb5 3.316648 1_455
+Na0 Sb1 3.316648 1_544
+Na0 Sb0 3.320864 1_554
+Na0 Sb3 3.320864 1_445
+Sb0 Sn4 2.938462 1_555
+Sb0 Sn3 2.938462 1_555
+Sb0 Sn5 2.944926 1_555
+Sb0 Sr0 3.358636 1_555
+Sb0 Sr1 3.358636 1_556
+Sb1 Sn3 2.938020 1_565
+Sb1 Sn4 2.939760 1_555
+Sb1 Sn5 2.945192 1_455
+Sb1 Sr0 3.358763 1_455
+Sb1 Sr1 3.359852 1_556
+Sb2 Sn4 2.938020 1_655
+Sb2 Sn3 2.939760 1_555
+Sb2 Sn5 2.945192 1_545
+Sb2 Sr1 3.358763 1_546
+Sb2 Sr0 3.359852 1_555
+Sb3 Sn2 2.938462 1_555
+Sb3 Sn0 2.938462 1_555
+Sb3 Sn1 2.944926 1_555
+Sb3 Sr1 3.358636 1_555
+Sb3 Sr0 3.358636 1_554
+Sb4 Sn2 2.938020 1_455
+Sb4 Sn0 2.939760 1_555
+Sb4 Sn1 2.945192 1_565
+Sb4 Sr0 3.358763 1_564
+Sb4 Sr1 3.359852 1_555
+Sb5 Sn0 2.938020 1_545
+Sb5 Sn2 2.939760 1_555
+Sb5 Sn1 2.945192 1_655
+Sb5 Sr1 3.358763 1_655
+Sb5 Sr0 3.359852 1_554

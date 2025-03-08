@@ -1,0 +1,105 @@
+# generated using pymatgen
+data_Sr3P6(IrRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72645254
+_cell_length_b   6.73492598
+_cell_length_c   7.08312444
+_cell_angle_alpha   89.94747167
+_cell_angle_beta   90.01642273
+_cell_angle_gamma   119.90615628
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3P6(IrRh2)2
+_chemical_formula_sum   'Sr3 P6 Ir2 Rh4'
+_cell_volume   278.15324354
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.99897506  0.60021433  0.83381667  1
+  Sr  Sr1  1  0.39918786  0.40117997  0.49951152  1
+  Sr  Sr2  1  0.60087763  0.00081898  0.16677861  1
+  P  P0  1  0.88085028  0.21796795  0.54237851  1
+  P  P1  1  0.21741132  0.87692582  0.45801452  1
+  P  P2  1  0.11893294  0.33632471  0.12411157  1
+  P  P3  1  0.78163839  0.66169327  0.20878352  1
+  P  P4  1  0.33980669  0.12277698  0.87520365  1
+  P  P5  1  0.66218506  0.78221279  0.79167157  1
+  Ir  Ir0  1  0.51359834  0.00057710  0.66597843  1
+  Ir  Ir1  1  0.00071098  0.12770608  0.83318961  1
+  Rh  Rh0  1  0.87224083  0.87109736  0.49905514  1
+  Rh  Rh1  1  0.12909280  0.99910150  0.16778415  1
+  Rh  Rh2  1  0.48565098  0.48739071  0.00122413  1
+  Rh  Rh3  1  0.99884182  0.51400946  0.33249840  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 Rh3 2.287471 1_555
+P0 Rh0 2.328413 1_545
+P0 Sr1 3.079111 1_655
+P0 Sr0 3.080465 1_555
+P0 Sr2 3.165615 1_555
+P1 Rh3 2.312147 1_455
+P1 Rh0 2.320810 1_455
+P1 Rh1 2.395765 1_555
+P1 Sr2 3.075471 1_565
+P1 Sr1 3.121673 1_565
+P1 Sr0 3.159132 1_455
+P2 Rh3 2.287163 1_455
+P2 Rh2 2.318297 1_555
+P2 Rh1 2.326383 1_545
+P2 Sr0 3.075723 1_454
+P2 Sr2 3.080230 1_455
+P2 Sr1 3.161164 1_555
+P3 Rh2 2.274699 1_555
+P3 Rh3 2.310510 1_555
+P3 Rh1 2.326742 1_655
+P3 Rh0 2.394831 1_555
+P3 Sr1 3.071240 1_555
+P3 Sr2 3.090500 1_565
+P3 Sr0 3.157601 1_554
+P4 Rh2 2.321785 1_556
+P4 Rh1 2.412211 1_546
+P4 Sr2 3.075209 1_556
+P4 Sr0 3.111920 1_445
+P4 Sr1 3.162471 1_555
+P5 Rh2 2.280408 1_556
+P5 Rh0 2.409677 1_555
+P5 Sr1 3.078674 1_555
+P5 Sr0 3.080825 1_555
+P5 Sr2 3.163893 1_566
+Ir0 P1 2.275676 1_545
+Ir0 P4 2.280949 1_555
+Ir0 P0 2.324829 1_555
+Ir0 P5 2.327491 1_545
+Ir0 Sr1 3.365413 1_555
+Ir0 Sr0 3.369812 1_445
+Ir1 P4 2.316747 1_555
+Ir1 P5 2.324508 1_445
+Ir1 P2 2.396443 1_556
+Ir1 P0 2.397506 1_455
+Ir1 Rh0 2.802146 1_445
+Ir1 Rh1 2.802429 1_546
+Ir1 Sr0 3.188153 1_455
+Ir1 Sr1 3.351944 1_555
+Ir1 Sr2 3.354800 1_456
+Rh0 Sr1 3.177948 1_555
+Rh0 Sr2 3.349363 1_565
+Rh0 Sr0 3.349504 1_555
+Rh1 Sr2 3.167697 1_565
+Rh1 Sr0 3.353324 1_454
+Rh1 Sr1 3.355312 1_565
+Rh2 Sr2 3.356683 1_565
+Rh2 Sr0 3.360070 1_554
+Rh3 Sr1 3.356439 1_655
+Rh3 Sr2 3.356985 1_555

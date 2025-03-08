@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_LuSc(SeI)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06311043
+_cell_length_b   5.43900059
+_cell_length_c   9.43454276
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSc(SeI)2
+_chemical_formula_sum   'Lu1 Sc1 Se2 I2'
+_cell_volume   208.49641358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.00000000  0.88516240  1
+  Sc  Sc0  1  0.00000000  0.50000000  0.11533598  1
+  Se  Se0  1  0.50000000  0.50000000  0.92255555  1
+  Se  Se1  1  0.00000000  0.00000000  0.08673210  1
+  I  I0  1  0.00000000  0.00000000  0.65554312  1
+  I  I1  1  0.50000000  0.50000000  0.33467084  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Se0 2.742287 1_545
+Lu0 Se0 2.742287 1_555
+Lu0 Se1 2.782759 1_656
+Lu0 Se1 2.782759 1_556
+Sc0 Se0 2.726762 1_554
+Sc0 Se0 2.726762 1_454
+Sc0 Se1 2.732857 1_555
+Sc0 Se1 2.732857 1_565
+I0 Lu0 2.969899 1_455
+I0 Lu0 2.969899 1_555
+I1 Sc0 2.899883 1_655
+I1 Sc0 2.899883 1_555

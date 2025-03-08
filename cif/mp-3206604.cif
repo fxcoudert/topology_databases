@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_ReTc(TeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20354179
+_cell_length_b   7.17210459
+_cell_length_c   7.17210413
+_cell_angle_alpha   59.69644101
+_cell_angle_beta   59.85489612
+_cell_angle_gamma   59.85489087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReTc(TeS)2
+_chemical_formula_sum   'Re2 Tc2 Te4 S4'
+_cell_volume   260.83530951
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.15292857  0.15252513  0.54161773  1
+  Re  Re1  1  0.15292857  0.54161773  0.15252513  1
+  Tc  Tc0  1  0.15325934  0.15253015  0.15253015  1
+  Tc  Tc1  1  0.54168135  0.15253015  0.15253015  1
+  Te  Te0  1  0.87870962  0.36394629  0.87863447  1
+  Te  Te1  1  0.87870962  0.87863447  0.36394629  1
+  Te  Te2  1  0.36612435  0.87821088  0.87821088  1
+  Te  Te3  1  0.87745388  0.87821088  0.87821088  1
+  S  S0  1  0.37687802  0.37807233  0.37807233  1
+  S  S1  1  0.86697832  0.37807233  0.37807233  1
+  S  S2  1  0.37717518  0.37908822  0.86656342  1
+  S  S3  1  0.37717518  0.86656342  0.37908822  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Re0 S3 2.316990 1_545
+Re0 S1 2.323963 1_455
+Re0 S0 2.323969 1_555
+Re0 Te0 2.817531 1_455
+Re0 Te2 2.820115 1_545
+Re0 Te3 2.820115 1_445
+Re1 S2 2.316990 1_554
+Re1 S1 2.323963 1_455
+Re1 S0 2.323969 1_555
+Re1 Te1 2.817531 1_455
+Re1 Te3 2.820115 1_454
+Re1 Te2 2.820115 1_554
+Tc0 Te2 2.817645 1_544
+Tc0 Te0 2.820227 1_454
+Tc0 Te1 2.820228 1_445
+Tc1 Te3 2.817644 1_544
+Tc1 Te1 2.820222 1_545
+Tc1 Te0 2.820222 1_554
+S0 Tc1 2.329326 1_555
+S1 Tc0 2.329326 1_655
+S2 Tc1 2.322730 1_556
+S2 Tc0 2.322735 1_556
+S3 Tc1 2.322731 1_565
+S3 Tc0 2.322735 1_565

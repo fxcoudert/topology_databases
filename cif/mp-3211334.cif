@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_FePd4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10616130
+_cell_length_b   6.10616104
+_cell_length_c   3.91912964
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   142.93337268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FePd4Pt
+_chemical_formula_sum   'Fe1 Pd4 Pt1'
+_cell_volume   88.07619906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd0  1  0.66107724  0.33892476  0.00000000  1
+  Pd  Pd1  1  0.33892476  0.66107724  0.00000000  1
+  Pd  Pd2  1  0.83600004  0.16400196  0.50000100  1
+  Pd  Pd3  1  0.16400196  0.83600004  0.50000100  1
+  Pt  Pt0  1  0.50000100  0.50000100  0.50000100  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Pd0 2.691764 1_445
+Fe0 Pd1 2.691764 1_445
+Fe0 Pd1 2.691769 1_555
+Fe0 Pd0 2.691769 1_555
+Fe0 Pd2 2.728725 1_454
+Fe0 Pd3 2.728725 1_544
+Fe0 Pd2 2.728731 1_455
+Fe0 Pd3 2.728731 1_545
+Fe0 Pt0 2.758057 1_444
+Fe0 Pt0 2.758063 1_554
+Fe0 Pt0 2.758063 1_445
+Fe0 Pt0 2.758068 1_555
+Pd0 Pt0 2.705267 1_554
+Pd0 Pt0 2.705273 1_555
+Pd0 Pd3 2.758268 1_544
+Pd0 Pd3 2.758268 1_654
+Pd0 Pd3 2.758273 1_545
+Pd0 Pd3 2.758273 1_655
+Pd0 Pd2 2.818197 1_554
+Pd0 Pd2 2.818203 1_555
+Pd0 Pd1 2.829788 1_545
+Pd0 Pd1 2.829788 1_655
+Pd1 Pt0 2.705267 1_554
+Pd1 Pt0 2.705273 1_555
+Pd1 Pd2 2.758268 1_564
+Pd1 Pd2 2.758268 1_454
+Pd1 Pd2 2.758273 1_565
+Pd1 Pd2 2.758273 1_455
+Pd1 Pd3 2.818197 1_554
+Pd1 Pd3 2.818203 1_555
+Pd2 Pt0 2.715341 1_545
+Pd2 Pt0 2.715341 1_655
+Pd2 Pd3 2.780887 1_655
+Pd2 Pd3 2.780888 1_545
+Pd3 Pt0 2.715341 1_565
+Pd3 Pt0 2.715341 1_455

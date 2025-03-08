@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Zr2TaInC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31100691
+_cell_length_b   3.31100653
+_cell_length_c   19.88447032
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2TaInC2
+_chemical_formula_sum   'Zr4 Ta2 In2 C4'
+_cell_volume   188.78383766
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66666800  0.33333500  0.12341695  1
+  Zr  Zr1  1  0.66666800  0.33333500  0.37658305  1
+  Zr  Zr2  1  0.33333300  0.66666600  0.62341695  1
+  Zr  Zr3  1  0.33333300  0.66666600  0.87658305  1
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta1  1  0.00000000  0.00000000  0.50000000  1
+  In  In0  1  0.00000000  0.00000000  0.25000000  1
+  In  In1  1  0.00000000  0.00000000  0.75000000  1
+  C  C0  1  0.33333300  0.66666600  0.06347038  1
+  C  C1  1  0.33333300  0.66666600  0.43653062  1
+  C  C2  1  0.66666800  0.33333500  0.56347038  1
+  C  C3  1  0.66666800  0.33333500  0.93652962  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Zr1 3.160651 1_445
+In0 Zr0 3.160651 1_445
+In0 Zr1 3.160654 1_455
+In0 Zr0 3.160654 1_455
+In0 Zr1 3.160656 1_555
+In0 Zr0 3.160656 1_555
+In1 Zr3 3.160652 1_555
+In1 Zr2 3.160652 1_555
+In1 Zr3 3.160654 1_545
+In1 Zr2 3.160654 1_545
+In1 Zr3 3.160654 1_445
+In1 Zr2 3.160654 1_445
+C0 Zr0 2.252802 1_455
+C0 Zr0 2.252804 1_555
+C0 Zr0 2.252811 1_565
+C0 Ta0 2.290651 1_555
+C0 Ta0 2.290653 1_565
+C0 Ta0 2.290653 1_665
+C1 Zr1 2.252812 1_455
+C1 Zr1 2.252814 1_555
+C1 Zr1 2.252822 1_565
+C1 Ta1 2.290640 1_555
+C1 Ta1 2.290642 1_565
+C1 Ta1 2.290642 1_665
+C2 Zr2 2.252802 1_655
+C2 Zr2 2.252804 1_555
+C2 Zr2 2.252811 1_545
+C2 Ta1 2.290648 1_665
+C2 Ta1 2.290653 1_655
+C2 Ta1 2.290656 1_555
+C3 Zr3 2.252802 1_655
+C3 Zr3 2.252804 1_555
+C3 Zr3 2.252811 1_545
+C3 Ta0 2.290648 1_666
+C3 Ta0 2.290653 1_656
+C3 Ta0 2.290656 1_556

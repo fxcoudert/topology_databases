@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_NbTe2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62657443
+_cell_length_b   7.94821450
+_cell_length_c   8.57794572
+_cell_angle_alpha   72.97224512
+_cell_angle_beta   76.54054808
+_cell_angle_gamma   76.93716054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTe2F6
+_chemical_formula_sum   'Nb2 Te4 F12'
+_cell_volume   351.54771568
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.61724716  0.18115240  0.65357105  1
+  Nb  Nb1  1  0.38275284  0.81884760  0.34642895  1
+  Te  Te0  1  0.94192704  0.26184839  0.06201486  1
+  Te  Te1  1  0.83900479  0.55085105  0.81411213  1
+  Te  Te2  1  0.16099521  0.44914895  0.18588787  1
+  Te  Te3  1  0.05807296  0.73815161  0.93798514  1
+  F  F0  1  0.90514331  0.29316892  0.55398838  1
+  F  F1  1  0.82518908  0.94688015  0.66768088  1
+  F  F2  1  0.57532941  0.59138056  0.32586433  1
+  F  F3  1  0.54659072  0.19824808  0.44234957  1
+  F  F4  1  0.66499642  0.93099038  0.22964715  1
+  F  F5  1  0.70116620  0.16416020  0.86992967  1
+  F  F6  1  0.29883380  0.83583980  0.13007033  1
+  F  F7  1  0.33500358  0.06900962  0.77035285  1
+  F  F8  1  0.45340928  0.80175192  0.55765043  1
+  F  F9  1  0.42467059  0.40861944  0.67413567  1
+  F  F10  1  0.17481092  0.05311985  0.33231912  1
+  F  F11  1  0.09485669  0.70683108  0.44601162  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 Te2 2.688913 1_655
+Te0 Te1 2.691643 1_554
+Te1 Te3 2.688913 1_655
+Te2 Te3 2.691643 1_554
+F0 Nb0 1.925806 1_555
+F1 Nb0 1.949329 1_565
+F2 Nb1 1.919937 1_555
+F3 Nb0 1.904207 1_555
+F4 Nb1 1.922573 1_555
+F5 Nb0 1.979372 1_555
+F6 Nb1 1.979372 1_555
+F7 Nb0 1.922573 1_555
+F8 Nb1 1.904207 1_555
+F9 Nb0 1.919937 1_555
+F10 Nb1 1.949329 1_545
+F11 Nb1 1.925806 1_555

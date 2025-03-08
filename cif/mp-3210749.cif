@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_HgTe3Pt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92277589
+_cell_length_b   7.92277577
+_cell_length_c   5.61019946
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgTe3Pt2
+_chemical_formula_sum   'Hg2 Te6 Pt4'
+_cell_volume   304.97456169
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.33333300  0.66666700  0.68618217  1
+  Hg  Hg1  1  0.66666700  0.33333300  0.31381783  1
+  Te  Te0  1  0.82839764  0.65679528  0.75816824  1
+  Te  Te1  1  0.82839764  0.17160236  0.75816824  1
+  Te  Te2  1  0.34320472  0.17160236  0.75816824  1
+  Te  Te3  1  0.17160236  0.34320472  0.24183176  1
+  Te  Te4  1  0.17160236  0.82839764  0.24183176  1
+  Te  Te5  1  0.65679528  0.82839764  0.24183176  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.00000000  1
+  Pt  Pt2  1  0.00000000  0.50000000  0.00000000  1
+  Pt  Pt3  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Pt3 2.886260 1_566
+Hg0 Pt2 2.886260 1_556
+Hg0 Pt1 2.886266 1_556
+Hg0 Te4 3.337685 1_555
+Hg0 Te3 3.337689 1_555
+Hg0 Te5 3.337689 1_555
+Hg1 Pt3 2.886260 1_555
+Hg1 Pt2 2.886260 1_655
+Hg1 Pt1 2.886266 1_555
+Hg1 Te1 3.337685 1_555
+Hg1 Te0 3.337689 1_555
+Hg1 Te2 3.337689 1_555
+Pt0 Te3 2.717714 1_555
+Pt0 Te0 2.717714 1_444
+Pt0 Te2 2.717714 1_554
+Pt0 Te5 2.717714 1_445
+Pt0 Te1 2.717714 1_454
+Pt0 Te4 2.717714 1_545
+Pt1 Te5 2.630826 1_555
+Pt1 Te2 2.630826 1_554
+Pt1 Te0 2.630826 1_554
+Pt1 Te3 2.630826 1_555
+Pt2 Te4 2.630826 1_555
+Pt2 Te1 2.630826 1_454
+Pt2 Te3 2.630826 1_555
+Pt2 Te0 2.630826 1_454
+Pt3 Te4 2.630826 1_545
+Pt3 Te1 2.630826 1_554
+Pt3 Te5 2.630826 1_545
+Pt3 Te2 2.630826 1_554

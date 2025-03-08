@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_NaLiCdTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62661878
+_cell_length_b   4.62661758
+_cell_length_c   7.74387032
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiCdTe2
+_chemical_formula_sum   'Na1 Li1 Cd1 Te2'
+_cell_volume   143.55425742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.97011500  1
+  Li  Li0  1  0.66666700  0.33333300  0.64795213  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.38722223  1
+  Te  Te0  1  0.66666700  0.33333300  0.24622559  1
+  Te  Te1  1  0.00000000  0.00000000  0.74848606  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Te1 3.175020 1_565
+Na0 Te1 3.175023 1_555
+Na0 Te1 3.175024 1_665
+Na0 Te0 3.421539 1_566
+Na0 Te0 3.421540 1_456
+Na0 Te0 3.421546 1_556
+Li0 Te1 2.782315 1_655
+Li0 Te1 2.782319 1_665
+Li0 Te1 2.782320 1_555
+Li0 Te0 3.110918 1_555
+Cd0 Te1 2.797580 1_555
+Cd0 Te0 2.885713 1_455
+Cd0 Te0 2.885717 1_445
+Cd0 Te0 2.885718 1_555
+Cd0 Li0 3.348400 1_455
+Cd0 Li0 3.348403 1_445
+Cd0 Li0 3.348404 1_555

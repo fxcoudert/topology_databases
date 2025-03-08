@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_ZnHg(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99955682
+_cell_length_b   4.99955599
+_cell_length_c   7.10447564
+_cell_angle_alpha   90.37074733
+_cell_angle_beta   89.62925451
+_cell_angle_gamma   112.18630114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnHg(SeO4)2
+_chemical_formula_sum   'Zn1 Hg1 Se2 O8'
+_cell_volume   164.42748790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.64444409  0.35555591  0.27158972  1
+  Se  Se1  1  0.35555591  0.64444409  0.72841028  1
+  O  O0  1  0.23069133  0.28366055  0.71985870  1
+  O  O1  1  0.28366055  0.23069133  0.28014130  1
+  O  O2  1  0.73293064  0.26706935  0.06223690  1
+  O  O3  1  0.76203720  0.23796280  0.45488636  1
+  O  O4  1  0.23796280  0.76203720  0.54511364  1
+  O  O5  1  0.26706936  0.73293065  0.93776310  1
+  O  O6  1  0.76930867  0.71633945  0.28014130  1
+  O  O7  1  0.71633945  0.76930867  0.71985870  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 O2 2.256626 1_455
+Hg0 O5 2.256626 1_544
+Hg0 O1 2.464565 1_555
+Hg0 O7 2.464565 1_444
+Hg0 O0 2.464565 1_554
+Hg0 O6 2.464565 1_445
+O0 Se1 1.672003 1_555
+O0 Zn0 2.130861 1_555
+O1 Se0 1.672004 1_555
+O1 Zn0 2.130861 1_555
+O2 Se0 1.653599 1_555
+O3 Se0 1.633382 1_555
+O3 Zn0 2.003092 1_655
+O4 Se1 1.633382 1_555
+O4 Zn0 2.003092 1_565
+O5 Se1 1.653599 1_555
+O6 Se0 1.672003 1_555
+O6 Zn0 2.130861 1_665
+O7 Se1 1.672004 1_555
+O7 Zn0 2.130861 1_665

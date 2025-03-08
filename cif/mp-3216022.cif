@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_GeAs2(O3F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97020827
+_cell_length_b   4.97020811
+_cell_length_c   6.88722527
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeAs2(O3F)2
+_chemical_formula_sum   'Ge1 As2 O6 F2'
+_cell_volume   147.34115081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.00000000  0.00000000  1
+  As  As0  1  0.33333300  0.66666700  0.21661290  1
+  As  As1  1  0.66666600  0.33333300  0.78338710  1
+  O  O0  1  0.29124342  0.31906956  0.16037866  1
+  O  O1  1  0.02782515  0.70875558  0.16037866  1
+  O  O2  1  0.68093044  0.97217285  0.16037866  1
+  O  O3  1  0.31906956  0.02782515  0.83962234  1
+  O  O4  1  0.97217485  0.29124442  0.83962234  1
+  O  O5  1  0.70875558  0.68093044  0.83962234  1
+  F  F0  1  0.66666600  0.33333300  0.53675689  1
+  F  F1  1  0.33333300  0.66666700  0.46324311  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 O5 1.880093 1_444
+Ge0 O4 1.880093 1_454
+Ge0 O3 1.880093 1_554
+Ge0 O2 1.880094 1_445
+Ge0 O0 1.880096 1_555
+Ge0 O1 1.880097 1_545
+As0 O2 1.678407 1_555
+As0 O1 1.678408 1_555
+As0 O0 1.678411 1_555
+As0 F1 1.698598 1_555
+As1 O3 1.678409 1_555
+As1 O5 1.678412 1_555
+As1 O4 1.678414 1_555
+As1 F0 1.698598 1_555

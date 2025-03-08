@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_SrInSnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16813619
+_cell_length_b   6.16813622
+_cell_length_c   7.66399232
+_cell_angle_alpha   91.15306374
+_cell_angle_beta   88.84693878
+_cell_angle_gamma   136.72334911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrInSnPd
+_chemical_formula_sum   'Sr2 In2 Sn2 Pd2'
+_cell_volume   199.83998632
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.93693402  0.06306598  0.74945391  1
+  Sr  Sr1  1  0.06306598  0.93693402  0.25054609  1
+  In  In0  1  0.34450768  0.65549232  0.44757210  1
+  In  In1  1  0.65549232  0.34450768  0.55242790  1
+  Sn  Sn0  1  0.64791602  0.35208398  0.94637492  1
+  Sn  Sn1  1  0.35208398  0.64791602  0.05362508  1
+  Pd  Pd0  1  0.21310409  0.78689591  0.76063438  1
+  Pd  Pd1  1  0.78689591  0.21310409  0.23936562  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Pd0 2.805455 1_555
+In0 Pd1 2.863837 1_455
+In0 Pd1 2.863837 1_565
+In0 Sn1 3.018576 1_555
+In0 In1 3.231311 1_565
+In0 In1 3.231311 1_455
+In0 Sr0 3.428634 1_565
+In0 Sr0 3.428634 1_455
+In0 Sr1 3.592550 1_555
+In0 Sr1 3.683819 1_545
+In0 Sr1 3.683819 1_655
+In1 Pd1 2.805455 1_555
+In1 Pd0 2.863837 1_655
+In1 Pd0 2.863837 1_545
+In1 Sn0 3.018576 1_555
+In1 Sr1 3.428634 1_545
+In1 Sr1 3.428634 1_655
+In1 Sr0 3.592550 1_555
+In1 Sr0 3.683819 1_565
+In1 Sr0 3.683819 1_455
+Sn0 Sr1 3.384678 1_656
+Sn0 Sr1 3.384678 1_546
+Sn0 Sr0 3.611747 1_555
+Sn0 Sr0 3.669077 1_455
+Sn0 Sr0 3.669077 1_565
+Sn1 Sr0 3.384678 1_454
+Sn1 Sr0 3.384678 1_564
+Sn1 Sr1 3.611747 1_555
+Sn1 Sr1 3.669077 1_655
+Sn1 Sr1 3.669077 1_545
+Pd0 Sn0 2.777109 1_565
+Pd0 Sn0 2.777110 1_455
+Pd0 Sn1 2.781531 1_556
+Pd0 Sr0 3.169837 1_465
+Pd0 Sr0 3.429100 1_565
+Pd0 Sr0 3.429100 1_455
+Pd1 Sn1 2.777109 1_545
+Pd1 Sn1 2.777110 1_655
+Pd1 Sn0 2.781531 1_554
+Pd1 Sr1 3.169837 1_645
+Pd1 Sr1 3.429100 1_545
+Pd1 Sr1 3.429100 1_655

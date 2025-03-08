@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ZnIn3PSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82246290
+_cell_length_b   7.09344347
+_cell_length_c   7.13583011
+_cell_angle_alpha   80.15325857
+_cell_angle_beta   65.92361828
+_cell_angle_gamma   65.78842558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnIn3PSe4
+_chemical_formula_sum   'Zn1 In3 P1 Se4'
+_cell_volume   245.40791224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00241225  0.99619326  0.99633990  1
+  In  In0  1  0.40016601  0.39912407  0.81040863  1
+  In  In1  1  0.60423601  0.60469318  0.19108145  1
+  In  In2  1  0.79413963  0.80207925  0.60362386  1
+  P  P0  1  0.42686177  0.71565069  0.90351851  1
+  Se  Se0  1  0.63564180  0.92598971  0.29433100  1
+  Se  Se1  1  0.88149808  0.10403176  0.68900716  1
+  Se  Se2  1  0.05385669  0.27876627  0.11939954  1
+  Se  Se3  1  0.25118875  0.47347181  0.49229194  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 P0 2.527362 1_555
+In0 Se2 2.607095 1_556
+In0 Se1 2.610353 1_555
+In0 Se3 2.646781 1_555
+In1 P0 2.531155 1_554
+In1 Se0 2.607035 1_555
+In1 Se2 2.609164 1_655
+In1 Se3 2.644232 1_555
+In2 P0 2.534014 1_555
+In2 Se1 2.609672 1_565
+In2 Se0 2.613110 1_555
+In2 Se3 2.639479 1_655
+P0 Zn0 2.363861 1_555
+Se0 Zn0 2.476909 1_654
+Se1 Zn0 2.476812 1_645
+Se2 Zn0 2.487487 1_544

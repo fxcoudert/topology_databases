@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_HfAs2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63156108
+_cell_length_b   5.63156110
+_cell_length_c   9.43463852
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAs2(ClO3)2
+_chemical_formula_sum   'Hf1 As2 Cl2 O6'
+_cell_volume   259.12750925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.00000000  1
+  As  As0  1  0.33333400  0.66666800  0.17709638  1
+  As  As1  1  0.66666700  0.33333400  0.82290362  1
+  Cl  Cl0  1  0.66666700  0.33333400  0.59894953  1
+  Cl  Cl1  1  0.33333400  0.66666800  0.40105047  1
+  O  O0  1  0.16970723  0.33941547  0.12668334  1
+  O  O1  1  0.16970723  0.83029277  0.12668334  1
+  O  O2  1  0.66058453  0.83029277  0.12668334  1
+  O  O3  1  0.33941547  0.16970623  0.87331666  1
+  O  O4  1  0.83029277  0.16970623  0.87331666  1
+  O  O5  1  0.83029277  0.66058353  0.87331666  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 O4 2.041739 1_454
+Hf0 O1 2.041743 1_545
+Hf0 O2 2.041747 1_445
+Hf0 O3 2.041747 1_554
+Hf0 O0 2.041747 1_555
+Hf0 O5 2.041751 1_444
+As0 O2 1.665389 1_555
+As0 O1 1.665393 1_555
+As0 O0 1.665398 1_555
+As0 Cl1 2.112926 1_555
+As1 O5 1.665384 1_555
+As1 O3 1.665394 1_555
+As1 O4 1.665403 1_555
+As1 Cl0 2.112926 1_555

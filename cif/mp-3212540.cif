@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Cd3(AgP5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56756261
+_cell_length_b   7.56756285
+_cell_length_c   7.56756156
+_cell_angle_alpha   60.58225655
+_cell_angle_beta   60.58225224
+_cell_angle_gamma   60.58226018
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3(AgP5)2
+_chemical_formula_sum   'Cd3 Ag2 P10'
+_cell_volume   310.47566201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.40234590  0.40234590  0.78842813  1
+  Cd  Cd1  1  0.78842813  0.40234590  0.40234590  1
+  Cd  Cd2  1  0.40234590  0.78842813  0.40234590  1
+  Ag  Ag0  1  0.00223168  0.00223168  0.00223168  1
+  Ag  Ag1  1  0.40117941  0.40117941  0.40117941  1
+  P  P0  1  0.99231180  0.51383223  0.51383223  1
+  P  P1  1  0.51383223  0.51383223  0.99231180  1
+  P  P2  1  0.51383223  0.99231180  0.51383223  1
+  P  P3  1  0.51685367  0.98408362  0.98408362  1
+  P  P4  1  0.98408362  0.51685367  0.98408362  1
+  P  P5  1  0.98408362  0.98408362  0.51685367  1
+  P  P6  1  0.86516068  0.86516068  0.39992915  1
+  P  P7  1  0.86516068  0.39992915  0.86516068  1
+  P  P8  1  0.39992915  0.86516068  0.86516068  1
+  P  P9  1  0.86822130  0.86822130  0.86822130  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 P4 2.631353 1_455
+Cd0 P3 2.631353 1_545
+Cd0 P1 2.657224 1_555
+Cd0 Cd1 2.947377 1_555
+Cd0 Cd2 2.947377 1_555
+Cd1 P4 2.631352 1_554
+Cd1 P5 2.631353 1_545
+Cd1 P0 2.657224 1_555
+Cd1 Cd2 2.947377 1_555
+Cd2 P3 2.631352 1_554
+Cd2 P5 2.631353 1_455
+Cd2 P2 2.657224 1_555
+Ag0 P9 2.473118 1_444
+Ag0 P6 2.476524 1_445
+Ag0 P8 2.476525 1_544
+Ag0 P7 2.476525 1_454
+Ag1 P1 2.560998 1_554
+Ag1 P0 2.560999 1_455
+Ag1 P2 2.560999 1_545
+Ag1 Cd0 2.939227 1_555
+Ag1 Cd1 2.939227 1_555
+Ag1 Cd2 2.939227 1_555
+P0 P7 2.188138 1_555
+P0 P6 2.188139 1_555
+P1 P7 2.188139 1_555
+P1 P8 2.188139 1_555
+P2 P8 2.188138 1_555
+P2 P6 2.188139 1_555
+P3 P8 2.182409 1_555
+P3 P9 2.186898 1_555
+P4 P7 2.182409 1_555
+P4 P9 2.186898 1_555
+P5 P6 2.182409 1_555
+P5 P9 2.186897 1_555

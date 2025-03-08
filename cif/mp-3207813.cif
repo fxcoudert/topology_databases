@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_NaAl(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44753455
+_cell_length_b   6.44753485
+_cell_length_c   14.14712388
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAl(PSe3)2
+_chemical_formula_sum   'Na2 Al2 P4 Se12'
+_cell_volume   509.31467930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.75000000  1
+  Na  Na1  1  0.66666700  0.33333300  0.25000000  1
+  Al  Al0  1  0.00000000  0.00000000  0.25000000  1
+  Al  Al1  1  0.00000000  0.00000000  0.75000000  1
+  P  P0  1  0.66666700  0.33333300  0.67168186  1
+  P  P1  1  0.66666700  0.33333300  0.82831814  1
+  P  P2  1  0.33333300  0.66666700  0.32831814  1
+  P  P3  1  0.33333300  0.66666700  0.17168186  1
+  Se  Se0  1  0.68434909  0.96879137  0.12876422  1
+  Se  Se1  1  0.68434909  0.71555773  0.37123578  1
+  Se  Se2  1  0.28444227  0.31565091  0.12876422  1
+  Se  Se3  1  0.28444227  0.96879137  0.37123578  1
+  Se  Se4  1  0.71555773  0.68434909  0.87123578  1
+  Se  Se5  1  0.31565091  0.03120863  0.87123578  1
+  Se  Se6  1  0.96879137  0.28444227  0.87123578  1
+  Se  Se7  1  0.31565091  0.28444227  0.62876422  1
+  Se  Se8  1  0.96879137  0.68434909  0.62876422  1
+  Se  Se9  1  0.71555773  0.03120863  0.62876422  1
+  Se  Se10  1  0.03120863  0.31565091  0.37123578  1
+  Se  Se11  1  0.03120863  0.71555773  0.12876422  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se8 2.957534 1_455
+Na0 Se5 2.957534 1_565
+Na0 Se9 2.957537 1_565
+Na0 Se6 2.957537 1_455
+Na0 Se4 2.957539 1_555
+Na0 Se7 2.957540 1_555
+Na1 Se10 2.957534 1_655
+Na1 Se0 2.957534 1_545
+Na1 Se3 2.957537 1_545
+Na1 Se11 2.957537 1_655
+Na1 Se2 2.957539 1_555
+Na1 Se1 2.957540 1_555
+Al0 Se3 2.591252 1_545
+Al0 Se0 2.591252 1_445
+Al0 Se11 2.591252 1_545
+Al0 Se10 2.591252 1_555
+Al0 Se1 2.591253 1_445
+Al0 Se2 2.591253 1_555
+Al1 Se9 2.591252 1_455
+Al1 Se5 2.591252 1_555
+Al1 Se6 2.591252 1_455
+Al1 Se8 2.591252 1_445
+Al1 Se7 2.591253 1_555
+Al1 Se4 2.591253 1_445
+P0 Se9 2.208301 1_555
+P0 Se8 2.208305 1_555
+P0 Se7 2.208307 1_555
+P0 P1 2.215953 1_555
+P1 Se6 2.208301 1_555
+P1 Se5 2.208305 1_555
+P1 Se4 2.208307 1_555
+P2 Se3 2.208301 1_555
+P2 Se10 2.208305 1_555
+P2 Se1 2.208307 1_555
+P2 P3 2.215953 1_555
+P3 Se11 2.208301 1_555
+P3 Se0 2.208305 1_555
+P3 Se2 2.208307 1_555

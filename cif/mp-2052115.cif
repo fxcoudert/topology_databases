@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_GdCuGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21374147
+_cell_length_b   4.21374147
+_cell_length_c   7.61860094
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCuGe
+_chemical_formula_sum   'Gd2 Cu2 Ge2'
+_cell_volume   117.14981301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  -0.00000000  0.00000000  0.49775850  1
+  Gd  Gd1  1  -0.00000000  0.00000000  0.99776000  1
+  Cu  Cu0  1  0.33333300  0.66666700  0.24431810  1
+  Cu  Cu1  1  0.66666700  0.33333300  0.74434577  1
+  Ge  Ge0  1  0.66666700  0.33333300  0.24980805  1
+  Ge  Ge1  1  0.33333300  0.66666700  0.74981159  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Gd0 Ge0 3.080095 1_455
+Gd0 Ge0 3.080097 1_555
+Gd0 Ge0 3.080097 1_445
+Gd0 Ge1 3.099363 1_545
+Gd0 Ge1 3.099365 1_555
+Gd0 Ge1 3.099365 1_445
+Gd1 Ge1 3.080085 1_545
+Gd1 Ge1 3.080088 1_555
+Gd1 Ge1 3.080088 1_445
+Gd1 Ge0 3.099339 1_456
+Gd1 Ge0 3.099341 1_446
+Gd1 Ge0 3.099341 1_556
+Cu0 Ge0 2.433162 1_455
+Cu0 Ge0 2.433162 1_565
+Cu0 Ge0 2.433169 1_555
+Cu0 Gd1 3.073600 1_564
+Cu0 Gd1 3.073603 1_554
+Cu0 Gd1 3.073603 1_664
+Cu0 Gd0 3.105922 1_565
+Cu0 Gd0 3.105925 1_665
+Cu0 Gd0 3.105925 1_555
+Cu1 Ge1 2.433159 1_545
+Cu1 Ge1 2.433159 1_655
+Cu1 Ge1 2.433166 1_555
+Cu1 Gd0 3.073736 1_655
+Cu1 Gd0 3.073739 1_555
+Cu1 Gd0 3.073739 1_665
+Cu1 Gd1 3.105798 1_655
+Cu1 Gd1 3.105801 1_665
+Cu1 Gd1 3.105801 1_555

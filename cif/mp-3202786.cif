@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaAlAsH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95471472
+_cell_length_b   3.95471462
+_cell_length_c   5.53771600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlAsH
+_chemical_formula_sum   'Na1 Al1 As1 H1'
+_cell_volume   75.00523598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.04687867  1
+  Al  Al0  1  0.00000000  0.00000000  0.57530688  1
+  As  As0  1  0.66666700  0.33333300  0.42107363  1
+  H  H0  1  0.00000000  0.00000000  0.87553881  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 H0 1.662599 1_555
+Al0 As0 2.437772 1_455
+Al0 As0 2.437775 1_445
+Al0 As0 2.437775 1_555
+As0 Na0 3.083374 1_545
+As0 Na0 3.083374 1_655
+As0 Na0 3.083380 1_555
+H0 Na0 2.472555 1_546
+H0 Na0 2.472558 1_556
+H0 Na0 2.472558 1_446

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_VTc3MoAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88871403
+_cell_length_b   6.88871425
+_cell_length_c   6.89545211
+_cell_angle_alpha   93.29629388
+_cell_angle_beta   93.13701980
+_cell_angle_gamma   152.58154514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VTc3MoAs4
+_chemical_formula_sum   'V1 Tc3 Mo1 As4'
+_cell_volume   146.39547493
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00092329  0.00261151  0.00353480  1
+  Tc  Tc0  1  0.39045088  0.29865885  0.68910973  1
+  Tc  Tc1  1  0.30007898  0.60900986  0.90908884  1
+  Tc  Tc2  1  0.69780048  0.38782468  0.08562516  1
+  Mo  Mo0  1  0.61174943  0.69893934  0.31068977  1
+  As  As0  1  0.28129541  0.06273040  0.34402681  1
+  As  As1  1  0.06473552  0.71791139  0.78264790  1
+  As  As2  1  0.93484314  0.28445011  0.21929225  1
+  As  As3  1  0.71812287  0.93786287  0.65598575  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tc0 V0 2.736790 1_666
+Tc0 V0 2.736792 1_556
+Tc1 V0 2.701391 1_666
+Tc1 V0 2.701392 1_556
+Tc2 V0 2.705869 1_555
+Tc2 V0 2.705869 1_665
+Mo0 V0 2.687685 1_555
+Mo0 V0 2.687688 1_665
+As0 Tc2 2.456278 1_445
+As0 Tc2 2.456282 1_555
+As0 Tc0 2.461441 1_555
+As0 Mo0 2.627493 1_445
+As0 Mo0 2.627493 1_555
+As0 V0 2.717728 1_555
+As1 Tc0 2.444241 1_455
+As1 Tc0 2.444243 1_565
+As1 Tc1 2.455807 1_555
+As1 Tc2 2.616224 1_456
+As1 Tc2 2.616225 1_566
+As1 V0 2.760399 1_566
+As2 Tc2 2.449128 1_555
+As2 Mo0 2.475421 1_655
+As2 Mo0 2.475426 1_545
+As2 Tc1 2.656426 1_654
+As2 Tc1 2.656426 1_544
+As2 V0 2.738798 1_655
+As3 Tc1 2.427725 1_665
+As3 Tc1 2.427727 1_555
+As3 Mo0 2.476313 1_555
+As3 Tc0 2.657597 1_665
+As3 Tc0 2.657598 1_555
+As3 V0 2.749701 1_666

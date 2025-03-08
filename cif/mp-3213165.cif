@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Be3Nb10P3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41583433
+_cell_length_b   7.41583402
+_cell_length_c   7.41832926
+_cell_angle_alpha   128.84644792
+_cell_angle_beta   128.84643922
+_cell_angle_gamma   75.23276817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3Nb10P3
+_chemical_formula_sum   'Be3 Nb10 P3'
+_cell_volume   240.92344468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.12448806  0.62448806  0.74897912  1
+  Be  Be1  1  0.61871673  0.87938294  0.49810067  1
+  Be  Be2  1  0.37938294  0.11871673  0.49810067  1
+  Nb  Nb0  1  0.02625527  0.18705859  0.50388228  1
+  Nb  Nb1  1  0.51944333  0.01944333  0.83023251  1
+  Nb  Nb2  1  0.18585081  0.68585081  0.16314014  1
+  Nb  Nb3  1  0.47729133  0.97729133  0.16314014  1
+  Nb  Nb4  1  0.68705859  0.52625527  0.50388228  1
+  Nb  Nb5  1  0.97762701  0.81682369  0.50388228  1
+  Nb  Nb6  1  0.31682369  0.47762701  0.50388228  1
+  Nb  Nb7  1  0.81078719  0.31078719  0.83023251  1
+  Nb  Nb8  1  0.49769986  0.50037109  0.99807094  1
+  Nb  Nb9  1  0.00037109  0.99769986  0.99807094  1
+  P  P0  1  0.87938795  0.37938795  0.25877489  1
+  P  P1  1  0.74940758  0.74940758  0.99881517  1
+  P  P2  1  0.24940758  0.24940758  0.99881517  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Be0 P0 2.220871 1_455
+Be0 Nb9 2.518147 1_555
+Be0 Nb8 2.518147 1_555
+Be0 Nb2 2.539978 1_556
+Be0 Nb3 2.540017 1_556
+Be0 Nb0 2.550214 1_555
+Be0 Nb4 2.550215 1_455
+Be0 Nb6 2.550238 1_555
+Be0 Nb5 2.550238 1_455
+Be1 Be2 2.166648 1_565
+Be1 Nb7 2.523230 1_565
+Be1 Nb1 2.523238 1_565
+Be1 Nb2 2.531270 1_555
+Be1 Nb3 2.531294 1_555
+Be1 Nb8 2.548668 1_554
+Be1 Nb9 2.559601 1_655
+Be1 Nb4 2.559984 1_555
+Be1 Nb5 2.559992 1_555
+Be2 Nb7 2.523231 1_555
+Be2 Nb1 2.523238 1_555
+Be2 Nb2 2.531270 1_545
+Be2 Nb3 2.531293 1_545
+Be2 Nb9 2.548669 1_544
+Be2 Nb8 2.559601 1_555
+Be2 Nb0 2.559984 1_555
+Be2 Nb6 2.559992 1_555
+Nb0 P0 2.550251 1_455
+Nb0 P2 2.659166 1_555
+Nb0 P1 2.697994 1_444
+Nb1 P0 2.588138 1_556
+Nb1 P2 2.684720 1_555
+Nb1 P1 2.684720 1_545
+Nb2 P2 2.679048 1_554
+Nb2 P1 2.679048 1_454
+Nb3 P1 2.679037 1_554
+Nb3 P2 2.679037 1_564
+Nb4 P0 2.550251 1_555
+Nb4 P1 2.659166 1_555
+Nb4 P2 2.697995 1_554
+Nb5 P0 2.550243 1_555
+Nb5 P2 2.659166 1_665
+Nb5 P1 2.697994 1_554
+Nb6 P0 2.550243 1_455
+Nb6 P1 2.659166 1_555
+Nb6 P2 2.697994 1_554
+Nb7 P0 2.588114 1_556
+Nb7 P1 2.684731 1_555
+Nb7 P2 2.684731 1_655
+Nb8 P0 2.563597 1_556
+Nb8 P2 2.937124 1_555
+Nb8 P1 2.937124 1_555
+Nb9 P0 2.563597 1_466
+Nb9 P2 2.937124 1_565
+Nb9 P1 2.937124 1_455

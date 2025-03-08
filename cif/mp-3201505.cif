@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_K2Ag(PdO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12529742
+_cell_length_b   7.12529771
+_cell_length_c   7.10587650
+_cell_angle_alpha   50.69279699
+_cell_angle_beta   50.69279819
+_cell_angle_gamma   53.01521639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ag(PdO2)3
+_chemical_formula_sum   'K2 Ag1 Pd3 O6'
+_cell_volume   203.54427239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.82464040  0.82464040  0.83642414  1
+  K  K1  1  0.17535960  0.17535960  0.16357586  1
+  Ag  Ag0  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd0  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd1  1  0.50000000  0.00000000  0.50000000  1
+  Pd  Pd2  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.91028420  0.37761195  0.88491885  1
+  O  O1  1  0.88276121  0.88276121  0.39218868  1
+  O  O2  1  0.37761195  0.91028420  0.88491885  1
+  O  O3  1  0.08971580  0.62238805  0.11508115  1
+  O  O4  1  0.11723879  0.11723879  0.60781132  1
+  O  O5  1  0.62238805  0.08971580  0.11508115  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O2 2.678392 1_555
+K0 O0 2.678392 1_555
+K0 O1 2.683559 1_555
+K0 O3 2.722671 1_656
+K0 O5 2.722671 1_566
+K0 O4 2.824910 1_665
+K1 O5 2.678392 1_555
+K1 O3 2.678392 1_555
+K1 O4 2.683559 1_555
+K1 O0 2.722671 1_454
+K1 O2 2.722671 1_544
+K1 O1 2.824910 1_445
+Ag0 O0 2.186947 1_554
+Ag0 O3 2.186947 1_555
+Ag0 O5 2.186947 1_555
+Ag0 O2 2.186947 1_554
+O0 Pd0 2.020863 1_655
+O0 Pd2 2.030244 1_656
+O1 Pd2 2.025533 1_665
+O1 Pd1 2.035996 1_565
+O1 Pd0 2.035996 1_655
+O2 Pd1 2.020863 1_565
+O2 Pd2 2.030244 1_566
+O3 Pd0 2.020863 1_555
+O3 Pd2 2.030244 1_565
+O4 Pd2 2.025533 1_556
+O4 Pd1 2.035996 1_555
+O4 Pd0 2.035996 1_555
+O5 Pd1 2.020863 1_555
+O5 Pd2 2.030244 1_655

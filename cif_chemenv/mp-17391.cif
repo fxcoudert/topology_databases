@@ -1,0 +1,120 @@
+# generated using pymatgen
+data_Sm3Rh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49865460
+_cell_length_b   7.49874097
+_cell_length_c   7.49879672
+_cell_angle_alpha   71.29244549
+_cell_angle_beta   71.29168747
+_cell_angle_gamma   71.29254231
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Rh2
+_chemical_formula_sum   'Sm9 Rh6'
+_cell_volume   366.95816114
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66014324  0.16725158  0.89107209  1
+  Sm  Sm1  1  0.89108842  0.66014099  0.16724062  1
+  Sm  Sm2  1  0.16723425  0.89108003  0.66014421  1
+  Sm  Sm3  1  0.83276161  0.10892820  0.33985480  1
+  Sm  Sm4  1  0.10890132  0.33985888  0.83276053  1
+  Sm  Sm5  1  0.33985990  0.83275210  0.10892978  1
+  Sm  Sm6  1  0.70254116  0.70253961  0.70254110  1
+  Sm  Sm7  1  0.29745719  0.29745537  0.29746589  1
+  Sm  Sm8  1  0.50000118  0.50000068  0.49999776  1
+  Rh  Rh0  1  0.54558050  0.91056252  0.33483079  1
+  Rh  Rh1  1  0.91057627  0.33484260  0.54557977  1
+  Rh  Rh2  1  0.33481304  0.54557941  0.91058966  1
+  Rh  Rh3  1  0.45441743  0.08943740  0.66515580  1
+  Rh  Rh4  1  0.08941755  0.66515734  0.45442390  1
+  Rh  Rh5  1  0.66520993  0.45441427  0.08941329  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sm0 Sm8 3.451264 1_555
+Sm0 Sm7 3.539122 1_556
+Sm0 Sm5 3.667081 1_546
+Sm0 Sm2 3.843364 1_645
+Sm0 Sm1 3.843552 1_546
+Sm1 Sm8 3.451279 1_555
+Sm1 Sm7 3.539055 1_655
+Sm1 Sm4 3.666997 1_654
+Sm1 Sm2 3.843373 1_654
+Sm2 Sm8 3.451311 1_555
+Sm2 Sm7 3.539064 1_565
+Sm2 Sm3 3.667012 1_465
+Sm3 Sm8 3.451247 1_555
+Sm3 Sm6 3.539152 1_545
+Sm3 Sm4 3.843326 1_654
+Sm3 Sm5 3.843406 1_645
+Sm4 Sm8 3.451366 1_555
+Sm4 Sm6 3.538981 1_455
+Sm4 Sm5 3.843565 1_546
+Sm5 Sm8 3.451233 1_555
+Sm5 Sm6 3.539101 1_554
+Sm6 Sm8 3.370381 1_555
+Sm7 Sm8 3.370375 1_555
+Rh0 Sm1 2.849977 1_555
+Rh0 Sm7 2.882300 1_565
+Rh0 Sm5 2.911619 1_555
+Rh0 Rh3 2.976425 1_565
+Rh0 Sm3 2.999050 1_565
+Rh0 Sm8 3.014399 1_555
+Rh0 Sm6 3.093031 1_555
+Rh0 Sm2 3.101424 1_555
+Rh0 Sm0 3.261043 1_564
+Rh1 Sm0 2.849960 1_555
+Rh1 Sm7 2.882161 1_655
+Rh1 Sm3 2.911745 1_555
+Rh1 Rh4 2.976175 1_655
+Rh1 Sm4 2.998840 1_655
+Rh1 Sm8 3.014472 1_555
+Rh1 Sm6 3.092930 1_555
+Rh1 Sm1 3.101396 1_555
+Rh1 Sm2 3.260982 1_645
+Rh2 Sm2 2.850046 1_555
+Rh2 Sm7 2.882222 1_556
+Rh2 Sm4 2.911744 1_555
+Rh2 Rh5 2.976645 1_556
+Rh2 Sm5 2.998955 1_556
+Rh2 Sm8 3.014622 1_555
+Rh2 Sm6 3.093092 1_555
+Rh2 Sm0 3.101445 1_555
+Rh2 Sm1 3.260699 1_456
+Rh3 Sm4 2.850051 1_555
+Rh3 Sm6 2.882327 1_545
+Rh3 Sm0 2.911759 1_555
+Rh3 Sm2 2.998981 1_545
+Rh3 Sm8 3.014417 1_555
+Rh3 Sm7 3.092895 1_555
+Rh3 Sm3 3.101375 1_555
+Rh3 Sm5 3.261114 1_546
+Rh4 Sm5 2.850013 1_555
+Rh4 Sm6 2.882145 1_455
+Rh4 Sm2 2.911777 1_555
+Rh4 Sm1 2.998879 1_455
+Rh4 Sm8 3.014512 1_555
+Rh4 Sm7 3.092952 1_555
+Rh4 Sm4 3.101380 1_555
+Rh4 Sm3 3.261028 1_465
+Rh5 Sm3 2.849897 1_555
+Rh5 Sm6 2.882206 1_554
+Rh5 Sm1 2.911570 1_555
+Rh5 Sm0 2.998954 1_554
+Rh5 Sm8 3.014596 1_555
+Rh5 Sm7 3.093247 1_555
+Rh5 Sm5 3.101566 1_555
+Rh5 Sm4 3.260512 1_654

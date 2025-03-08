@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_HfZr2Bi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75342369
+_cell_length_b   5.75342393
+_cell_length_c   14.40325274
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.73782970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr2Bi3
+_chemical_formula_sum   'Hf2 Zr4 Bi6'
+_cell_volume   301.73638903
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.60550986  0.39449014  0.25000000  1
+  Hf  Hf1  1  0.39449014  0.60550986  0.75000000  1
+  Zr  Zr0  1  0.92787335  0.07212665  0.10980495  1
+  Zr  Zr1  1  0.07212665  0.92787335  0.89019505  1
+  Zr  Zr2  1  0.07212665  0.92787335  0.60980495  1
+  Zr  Zr3  1  0.92787335  0.07212665  0.39019505  1
+  Bi  Bi0  1  0.31945571  0.68054429  0.25000000  1
+  Bi  Bi1  1  0.68054429  0.31945571  0.75000000  1
+  Bi  Bi2  1  0.64064059  0.35935941  0.05066741  1
+  Bi  Bi3  1  0.35935941  0.64064059  0.94933259  1
+  Bi  Bi4  1  0.35935941  0.64064059  0.55066741  1
+  Bi  Bi5  1  0.64064059  0.35935941  0.44933259  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Hf0 3.018747 1_455
+Bi0 Hf0 3.018747 1_565
+Bi0 Zr3 3.032222 1_565
+Bi0 Zr0 3.032222 1_565
+Bi0 Zr3 3.032222 1_455
+Bi0 Zr0 3.032222 1_455
+Bi0 Hf0 3.100259 1_555
+Bi1 Hf1 3.018747 1_655
+Bi1 Hf1 3.018747 1_545
+Bi1 Zr1 3.032222 1_545
+Bi1 Zr2 3.032222 1_545
+Bi1 Zr1 3.032222 1_655
+Bi1 Zr2 3.032222 1_655
+Bi1 Hf1 3.100259 1_555
+Bi2 Hf0 2.896174 1_555
+Bi2 Zr1 3.103199 1_544
+Bi2 Zr1 3.103199 1_654
+Bi2 Zr0 3.127183 1_455
+Bi2 Zr0 3.127183 1_565
+Bi2 Zr0 3.227459 1_555
+Bi3 Hf1 2.896174 1_555
+Bi3 Zr0 3.103199 1_566
+Bi3 Zr0 3.103199 1_456
+Bi3 Zr1 3.127183 1_655
+Bi3 Zr1 3.127183 1_545
+Bi3 Zr1 3.227459 1_555
+Bi4 Hf1 2.896174 1_555
+Bi4 Zr3 3.103199 1_565
+Bi4 Zr3 3.103199 1_455
+Bi4 Zr2 3.127183 1_655
+Bi4 Zr2 3.127183 1_545
+Bi4 Zr2 3.227459 1_555
+Bi5 Hf0 2.896174 1_555
+Bi5 Zr2 3.103199 1_545
+Bi5 Zr2 3.103199 1_655
+Bi5 Zr3 3.127183 1_455
+Bi5 Zr3 3.127183 1_565
+Bi5 Zr3 3.227459 1_555

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_NaLiHgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32257309
+_cell_length_b   4.32257264
+_cell_length_c   7.22255065
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiHgSe2
+_chemical_formula_sum   'Na1 Li1 Hg1 Se2'
+_cell_volume   116.87076625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.97458400  1
+  Li  Li0  1  0.66666700  0.33333300  0.65389615  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.38641495  1
+  Se  Se0  1  0.66666700  0.33333300  0.23555467  1
+  Se  Se1  1  0.00000000  0.00000000  0.74955323  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se1 2.978219 1_565
+Na0 Se1 2.978222 1_555
+Na0 Se1 2.978222 1_665
+Na0 Se0 3.127451 1_566
+Na0 Se0 3.127451 1_456
+Na0 Se0 3.127457 1_556
+Li0 Se1 2.589503 1_655
+Li0 Se1 2.589507 1_665
+Li0 Se1 2.589507 1_555
+Li0 Se0 3.021492 1_555
+Hg0 Se1 2.622785 1_555
+Hg0 Se0 2.723127 1_455
+Hg0 Se0 2.723130 1_445
+Hg0 Se0 2.723130 1_555
+Hg0 Li0 3.156014 1_455
+Hg0 Li0 3.156017 1_445
+Hg0 Li0 3.156017 1_555

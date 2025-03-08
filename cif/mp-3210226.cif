@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiCrSnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69165124
+_cell_length_b   7.69165052
+_cell_length_c   7.69165120
+_cell_angle_alpha   120.89836492
+_cell_angle_beta   118.82963843
+_cell_angle_gamma   90.24501529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrSnSe4
+_chemical_formula_sum   'Li2 Cr2 Sn2 Se8'
+_cell_volume   322.29620340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.88668207  0.63668207  0.25000000  1
+  Li  Li1  1  0.11331793  0.36331793  0.75000000  1
+  Cr  Cr0  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn0  1  0.50000000  0.00000000  0.50000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.73583217  0.73862014  0.50278798  1
+  Se  Se1  1  0.73583217  0.23304419  0.99721202  1
+  Se  Se2  1  0.72430483  0.75321036  0.97109447  1
+  Se  Se3  1  0.28211589  0.75321036  0.52890553  1
+  Se  Se4  1  0.26416783  0.26137986  0.49721202  1
+  Se  Se5  1  0.26416783  0.76695581  0.00278798  1
+  Se  Se6  1  0.27569517  0.24678964  0.02890553  1
+  Se  Se7  1  0.71788411  0.24678964  0.47109447  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se1 2.521771 1_554
+Li0 Se0 2.521771 1_555
+Li0 Se2 2.523026 1_554
+Li0 Se3 2.523026 1_655
+Li1 Se5 2.521771 1_556
+Li1 Se4 2.521771 1_555
+Li1 Se6 2.523026 1_556
+Li1 Se7 2.523026 1_455
+Cr0 Se5 2.559893 1_545
+Cr0 Se1 2.559893 1_554
+Cr0 Se2 2.567828 1_544
+Cr0 Se6 2.567828 1_555
+Cr0 Se7 2.567828 1_555
+Cr0 Se3 2.567828 1_544
+Cr1 Se0 2.559893 1_555
+Cr1 Se4 2.559893 1_555
+Cr1 Se3 2.567828 1_555
+Cr1 Se7 2.567828 1_555
+Cr1 Se2 2.567828 1_555
+Cr1 Se6 2.567828 1_555
+Se0 Sn0 2.714897 1_565
+Se0 Sn1 2.714897 1_666
+Se1 Sn1 2.714897 1_656
+Se1 Sn0 2.714897 1_555
+Se2 Sn1 2.688280 1_666
+Se3 Sn0 2.688280 1_565
+Se4 Sn0 2.714897 1_555
+Se4 Sn1 2.714897 1_555
+Se5 Sn1 2.714897 1_565
+Se5 Sn0 2.714897 1_565
+Se6 Sn1 2.688280 1_555
+Se7 Sn0 2.688280 1_555

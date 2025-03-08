@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiCoPdO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82895574
+_cell_length_b   5.82895552
+_cell_length_c   5.82895632
+_cell_angle_alpha   90.06413986
+_cell_angle_beta   118.38748615
+_cell_angle_gamma   58.28546725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoPdO4
+_chemical_formula_sum   'Li2 Co2 Pd2 O8'
+_cell_volume   139.78591939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.13053099  0.61946901  1
+  Li  Li1  1  0.25000000  0.86946901  0.38053099  1
+  Co  Co0  1  0.50000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.00000000  0.50000000  0.00000000  1
+  Pd  Pd0  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  0.50000000  1
+  O  O0  1  0.53521861  0.74233817  0.79288044  1
+  O  O1  1  0.96478139  0.74233817  0.22244223  1
+  O  O2  1  0.98467515  0.28450091  0.23082395  1
+  O  O3  1  0.51532485  0.75385220  0.23082395  1
+  O  O4  1  0.48467515  0.24614780  0.76917605  1
+  O  O5  1  0.01532485  0.71549909  0.76917605  1
+  O  O6  1  0.03521861  0.25766183  0.77755777  1
+  O  O7  1  0.46478139  0.25766183  0.20711956  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 1.947737 1_645
+Li0 O4 1.947737 1_555
+Li0 O7 1.999829 1_555
+Li0 O6 1.999829 1_655
+Li1 O2 1.947737 1_465
+Li1 O3 1.947737 1_555
+Li1 O0 1.999829 1_555
+Li1 O1 1.999829 1_455
+Co0 O4 1.905819 1_554
+Co0 O3 1.905819 1_545
+Co0 O1 1.913854 1_545
+Co0 O6 1.913854 1_554
+Co0 O7 1.913854 1_555
+Co0 O0 1.913854 1_544
+Co1 O5 1.905823 1_554
+Co1 O2 1.905823 1_455
+Co1 O1 1.913850 1_455
+Co1 O6 1.913850 1_554
+Co1 O7 1.913854 1_555
+Co1 O0 1.913854 1_454
+O0 Pd0 2.009835 1_556
+O1 Pd1 2.009840 1_655
+O2 Pd0 2.006976 1_555
+O2 Pd1 2.006976 1_655
+O3 Pd1 2.006976 1_655
+O3 Pd0 2.006980 1_555
+O4 Pd1 2.006976 1_555
+O4 Pd0 2.006980 1_556
+O5 Pd0 2.006976 1_556
+O5 Pd1 2.006976 1_555
+O6 Pd1 2.009840 1_555
+O7 Pd0 2.009835 1_555

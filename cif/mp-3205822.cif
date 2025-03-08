@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_LiY2Si3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25997034
+_cell_length_b   9.25997011
+_cell_length_c   6.80844422
+_cell_angle_alpha   89.75484385
+_cell_angle_beta   90.24515779
+_cell_angle_gamma   153.45540943
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY2Si3Ag
+_chemical_formula_sum   'Li2 Y4 Si6 Ag2'
+_cell_volume   260.89607724
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.18782653  0.81217347  0.06124445  1
+  Li  Li1  1  0.81217347  0.18782653  0.93875555  1
+  Y  Y0  1  0.55270954  0.44729046  0.25233895  1
+  Y  Y1  1  0.44729046  0.55270954  0.74766105  1
+  Y  Y2  1  0.34428314  0.65571686  0.23986707  1
+  Y  Y3  1  0.65571686  0.34428314  0.76013293  1
+  Si  Si0  1  0.94153451  0.05846549  0.07183006  1
+  Si  Si1  1  0.05846549  0.94153451  0.92816994  1
+  Si  Si2  1  0.05800327  0.94199673  0.57832885  1
+  Si  Si3  1  0.94199673  0.05800327  0.42167115  1
+  Si  Si4  1  0.72181513  0.27818487  0.23945321  1
+  Si  Si5  1  0.27818487  0.72181513  0.76054679  1
+  Ag  Ag0  1  0.81304321  0.18695679  0.56381844  1
+  Ag  Ag1  1  0.18695679  0.81304321  0.43618156  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si1 2.497891 1_554
+Li0 Si4 2.521983 1_565
+Li0 Si4 2.521983 1_455
+Li0 Si5 2.621728 1_554
+Li0 Y3 3.007808 1_454
+Li0 Y3 3.007808 1_564
+Li0 Y2 3.066304 1_555
+Li1 Si0 2.497891 1_556
+Li1 Si5 2.521983 1_545
+Li1 Si5 2.521983 1_655
+Li1 Si4 2.621728 1_556
+Li1 Y2 3.007808 1_656
+Li1 Y2 3.007808 1_546
+Li1 Y3 3.066304 1_555
+Si0 Si1 2.327501 1_644
+Si0 Si3 2.381851 1_555
+Si0 Y2 2.986455 1_655
+Si0 Y2 2.986455 1_545
+Si0 Y1 3.066503 1_544
+Si0 Y1 3.066503 1_654
+Si0 Y0 3.166076 1_545
+Si0 Y0 3.166076 1_655
+Si1 Si2 2.381851 1_555
+Si1 Y3 2.986455 1_455
+Si1 Y3 2.986455 1_565
+Si1 Y0 3.066503 1_566
+Si1 Y0 3.066503 1_456
+Si1 Y1 3.166076 1_565
+Si1 Y1 3.166076 1_455
+Si2 Si3 2.343182 1_465
+Si2 Y3 3.022358 1_455
+Si2 Y3 3.022358 1_565
+Si2 Y0 3.074538 1_455
+Si2 Y0 3.074539 1_565
+Si2 Y1 3.138686 1_565
+Si2 Y1 3.138686 1_455
+Si3 Y2 3.022358 1_655
+Si3 Y2 3.022358 1_545
+Si3 Y1 3.074538 1_655
+Si3 Y1 3.074539 1_545
+Si3 Y0 3.138686 1_545
+Si3 Y0 3.138686 1_655
+Si4 Y0 3.049822 1_555
+Si4 Y2 3.064723 1_545
+Si4 Y2 3.064723 1_655
+Si5 Y1 3.049822 1_555
+Si5 Y3 3.064723 1_565
+Si5 Y3 3.064723 1_455
+Ag0 Si3 2.521777 1_555
+Ag0 Li1 2.552855 1_555
+Ag0 Y2 3.116430 1_545
+Ag0 Y2 3.116430 1_655
+Ag0 Y3 3.140360 1_555
+Ag1 Si2 2.521777 1_555
+Ag1 Li0 2.552855 1_555
+Ag1 Y3 3.116430 1_565
+Ag1 Y3 3.116430 1_455
+Ag1 Y2 3.140360 1_555

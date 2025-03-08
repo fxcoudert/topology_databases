@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_LiTa(CuSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24844841
+_cell_length_b   5.65231411
+_cell_length_c   5.65231411
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTa(CuSe2)2
+_chemical_formula_sum   'Li1 Ta1 Cu2 Se4'
+_cell_volume   199.62952125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.22641390  0.24735169  0.24735169  1
+  Se  Se1  1  0.77358610  0.75264831  0.24735169  1
+  Se  Se2  1  0.77358610  0.24735169  0.75264831  1
+  Se  Se3  1  0.22641390  0.75264831  0.75264831  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se2 2.613766 1_554
+Li0 Se1 2.613766 1_545
+Li0 Se0 2.613766 1_555
+Li0 Se3 2.613766 1_544
+Cu0 Se3 2.448572 1_545
+Cu0 Se0 2.448572 1_555
+Cu0 Se2 2.448572 1_455
+Cu0 Se1 2.448572 1_445
+Cu0 Ta0 2.826157 1_555
+Cu0 Ta0 2.826157 1_556
+Cu1 Se3 2.448572 1_554
+Cu1 Se0 2.448572 1_555
+Cu1 Se1 2.448572 1_455
+Cu1 Se2 2.448572 1_454
+Cu1 Ta0 2.826157 1_555
+Cu1 Ta0 2.826157 1_565
+Se0 Ta0 2.431234 1_555
+Se1 Ta0 2.431234 1_665
+Se2 Ta0 2.431234 1_656
+Se3 Ta0 2.431234 1_566

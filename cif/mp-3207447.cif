@@ -1,0 +1,108 @@
+# generated using pymatgen
+data_Zr5Nb5Sn6P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66066472
+_cell_length_b   8.41025055
+_cell_length_c   8.39612624
+_cell_angle_alpha   120.05566935
+_cell_angle_beta   89.81980113
+_cell_angle_gamma   90.35979815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Nb5Sn6P
+_chemical_formula_sum   'Zr5 Nb5 Sn6 P1'
+_cell_volume   345.96606238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.76032629  0.74870439  0.75038204  1
+  Zr  Zr1  1  0.76032629  0.99832136  0.24961796  1
+  Zr  Zr2  1  0.24673846  0.75141083  1.00000000  1
+  Zr  Zr3  1  0.23588998  0.24727606  0.24609052  1
+  Zr  Zr4  1  0.23588998  0.00118554  0.75390948  1
+  Nb  Nb0  1  0.49940275  0.33341890  0.66668711  1
+  Nb  Nb1  1  0.49940275  0.66673179  0.33331289  1
+  Nb  Nb2  1  0.99930257  0.66755514  0.33471337  1
+  Nb  Nb3  1  0.99930257  0.33284278  0.66528663  1
+  Nb  Nb4  1  0.75993434  0.25013241  0.00000000  1
+  Sn  Sn0  1  0.75255973  0.59822337  1.00000000  1
+  Sn  Sn1  1  0.74693234  0.39546625  0.39364703  1
+  Sn  Sn2  1  0.74693234  0.00181921  0.60635297  1
+  Sn  Sn3  1  0.24780700  0.39892120  0.00000000  1
+  Sn  Sn4  1  0.25050667  0.60166932  0.60185348  1
+  Sn  Sn5  1  0.25050667  0.99981684  0.39814652  1
+  P  P0  1  0.50823827  0.00650860  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Sn5 2.928187 1_545
+Nb0 Sn0 2.930421 1_555
+Nb0 Sn3 2.933281 1_556
+Nb0 Sn2 2.937179 1_555
+Nb0 Sn4 2.940415 1_555
+Nb0 Sn1 2.942788 1_555
+Nb1 Sn4 2.928192 1_555
+Nb1 Sn0 2.930421 1_554
+Nb1 Sn3 2.933280 1_555
+Nb1 Sn1 2.937179 1_555
+Nb1 Sn5 2.940422 1_555
+Nb1 Sn2 2.942787 1_565
+Nb2 Sn0 2.926029 1_554
+Nb2 Sn5 2.928900 1_655
+Nb2 Sn1 2.934429 1_555
+Nb2 Sn4 2.938497 1_655
+Nb2 Sn3 2.938713 1_655
+Nb2 Sn2 2.958568 1_565
+Nb3 Sn0 2.926026 1_555
+Nb3 Sn4 2.928886 1_655
+Nb3 Sn2 2.934436 1_555
+Nb3 Sn5 2.938497 1_645
+Nb3 Sn3 2.938715 1_656
+Nb3 Sn1 2.958564 1_555
+Nb4 P0 2.488261 1_555
+Nb4 Sn2 2.894159 1_554
+Nb4 Sn1 2.894160 1_555
+Nb4 Sn0 2.928092 1_554
+Nb4 Sn3 3.024793 1_655
+Nb4 Sn3 3.164732 1_555
+Sn0 Zr1 2.941376 1_556
+Sn0 Zr0 2.941383 1_555
+Sn0 Zr2 3.072443 1_655
+Sn0 Zr2 3.147151 1_555
+Sn1 Zr1 2.929334 1_545
+Sn1 Zr0 2.981300 1_555
+Sn1 Zr3 3.037126 1_655
+Sn1 Zr3 3.144409 1_555
+Sn2 Zr0 2.929326 1_545
+Sn2 Zr1 2.981297 1_545
+Sn2 Zr4 3.037126 1_655
+Sn2 Zr4 3.144409 1_555
+Sn3 Zr4 2.921986 1_554
+Sn3 Zr3 2.921986 1_555
+Sn3 Zr2 2.964570 1_554
+Sn4 Zr2 2.923055 1_555
+Sn4 Zr4 2.938110 1_565
+Sn4 Zr3 2.982167 1_555
+Sn4 Zr0 3.043055 1_455
+Sn4 Zr0 3.137830 1_555
+Sn5 Zr2 2.923056 1_554
+Sn5 Zr3 2.938103 1_565
+Sn5 Zr4 2.982171 1_565
+Sn5 Zr1 3.043052 1_455
+Sn5 Zr1 3.137827 1_555
+P0 Zr3 2.564075 1_555
+P0 Zr4 2.564075 1_554
+P0 Zr0 2.568675 1_544
+P0 Zr1 2.568678 1_545
+P0 Zr2 2.598882 1_544

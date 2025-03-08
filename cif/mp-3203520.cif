@@ -1,0 +1,119 @@
+# generated using pymatgen
+data_Ba5Sr(BiPb4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.47596921
+_cell_length_b   9.47596816
+_cell_length_c   9.47929684
+_cell_angle_alpha   119.98839686
+_cell_angle_beta   119.98839104
+_cell_angle_gamma   90.00000226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Sr(BiPb4)2
+_chemical_formula_sum   'Ba5 Sr1 Bi2 Pb8'
+_cell_volume   602.08894327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.75000000  0.50000000  1
+  Ba  Ba1  1  0.66424638  0.16424638  1.00000000  1
+  Ba  Ba2  1  0.33575362  0.83575362  0.00000000  1
+  Ba  Ba3  1  0.83575362  0.66424638  1.00000000  1
+  Ba  Ba4  1  0.16424638  0.33575362  0.00000000  1
+  Sr  Sr0  1  0.25000000  0.25000000  0.50000000  1
+  Bi  Bi0  1  0.00596406  0.00596406  0.01192712  1
+  Bi  Bi1  1  0.49403594  0.49403594  0.98807288  1
+  Pb  Pb0  1  0.33274037  0.83675297  0.38312846  1
+  Pb  Pb1  1  0.66324703  0.16725963  0.61687154  1
+  Pb  Pb2  1  0.05038910  0.54637649  0.38312846  1
+  Pb  Pb3  1  0.54637649  0.33274037  0.38312846  1
+  Pb  Pb4  1  0.16725963  0.95362351  0.61687154  1
+  Pb  Pb5  1  0.95362351  0.44961090  0.61687154  1
+  Pb  Pb6  1  0.44961090  0.66324703  0.61687154  1
+  Pb  Pb7  1  0.83675297  0.05038910  0.38312846  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Bi1 3.432587 1_554
+Ba0 Bi0 3.432587 1_666
+Ba0 Pb3 3.750773 1_555
+Ba0 Pb4 3.750774 1_655
+Ba0 Pb1 3.750777 1_565
+Ba0 Pb0 3.750777 1_555
+Ba0 Pb5 3.750782 1_555
+Ba0 Pb2 3.750782 1_655
+Ba0 Pb7 3.750786 1_565
+Ba0 Pb6 3.750786 1_555
+Ba1 Bi1 3.542776 1_555
+Ba1 Bi0 3.542780 1_656
+Ba1 Pb1 3.641439 1_555
+Ba1 Pb2 3.641447 1_656
+Ba1 Pb7 3.874065 1_556
+Ba1 Pb4 3.874072 1_545
+Ba1 Pb3 3.904496 1_556
+Ba1 Pb6 3.904503 1_545
+Ba1 Pb0 4.145971 1_545
+Ba1 Pb5 4.145972 1_556
+Ba2 Bi0 3.542776 1_565
+Ba2 Bi1 3.542780 1_554
+Ba2 Pb0 3.641439 1_555
+Ba2 Pb5 3.641447 1_454
+Ba2 Pb6 3.874064 1_554
+Ba2 Pb3 3.874071 1_565
+Ba2 Pb4 3.904496 1_554
+Ba2 Pb7 3.904504 1_565
+Ba2 Pb1 4.145971 1_565
+Ba2 Pb2 4.145972 1_554
+Ba3 Bi0 3.542784 1_666
+Ba3 Bi1 3.542784 1_555
+Ba3 Pb7 3.641443 1_566
+Ba3 Pb6 3.641443 1_555
+Ba3 Pb1 3.874070 1_555
+Ba3 Pb0 3.874071 1_656
+Ba3 Pb5 3.904497 1_555
+Ba3 Pb2 3.904497 1_656
+Ba3 Pb3 4.145971 1_555
+Ba3 Pb4 4.145972 1_656
+Ba4 Bi0 3.542772 1_555
+Ba4 Bi1 3.542772 1_554
+Ba4 Pb4 3.641443 1_544
+Ba4 Pb3 3.641443 1_555
+Ba4 Pb2 3.874065 1_555
+Ba4 Pb5 3.874065 1_454
+Ba4 Pb0 3.904502 1_555
+Ba4 Pb1 3.904503 1_454
+Ba4 Pb6 4.145972 1_555
+Ba4 Pb7 4.145972 1_454
+Bi0 Sr0 3.272639 1_555
+Bi1 Sr0 3.272639 1_555
+Pb0 Pb4 3.100816 1_555
+Pb0 Pb6 3.166667 1_555
+Pb0 Pb1 3.263865 1_565
+Pb0 Sr0 3.702434 1_565
+Pb1 Pb3 3.100816 1_555
+Pb1 Pb7 3.166667 1_555
+Pb1 Sr0 3.702435 1_555
+Pb2 Pb6 3.100799 1_555
+Pb2 Pb4 3.166649 1_555
+Pb2 Pb5 3.263889 1_455
+Pb2 Sr0 3.702440 1_555
+Pb3 Pb5 3.166650 1_555
+Pb3 Pb6 3.263877 1_555
+Pb3 Sr0 3.702443 1_555
+Pb4 Pb7 3.263878 1_465
+Pb4 Sr0 3.702443 1_565
+Pb5 Pb7 3.100799 1_555
+Pb5 Sr0 3.702440 1_655
+Pb6 Sr0 3.702431 1_555
+Pb7 Sr0 3.702431 1_655

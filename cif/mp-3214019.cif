@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_Li4Ca2Mg(GeN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81465678
+_cell_length_b   5.81465687
+_cell_length_c   5.69049350
+_cell_angle_alpha   88.51395855
+_cell_angle_beta   88.51395386
+_cell_angle_gamma   118.47804931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Ca2Mg(GeN3)2
+_chemical_formula_sum   'Li4 Ca2 Mg1 Ge2 N6'
+_cell_volume   168.89932251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98874074  0.33504908  0.37097765  1
+  Li  Li1  1  0.33504908  0.98874074  0.37097765  1
+  Li  Li2  1  0.01125926  0.66495092  0.62902235  1
+  Li  Li3  1  0.66495092  0.01125926  0.62902235  1
+  Ca  Ca0  1  0.32268243  0.67731757  1.00000000  1
+  Ca  Ca1  1  0.67731757  0.32268243  0.00000000  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.31252825  0.31252825  0.63370158  1
+  Ge  Ge1  1  0.68747175  0.68747175  0.36629842  1
+  N  N0  1  0.63237801  0.63237801  0.70239593  1
+  N  N1  1  0.36762199  0.36762199  0.29760407  1
+  N  N2  1  0.01544509  0.31601938  0.75257382  1
+  N  N3  1  0.31601938  0.01544509  0.75257382  1
+  N  N4  1  0.98455491  0.68398062  0.24742618  1
+  N  N5  1  0.68398062  0.98455491  0.24742618  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N5 2.117279 1_545
+Li0 N4 2.141354 1_555
+Li0 N1 2.148015 1_655
+Li0 N2 2.184731 1_655
+Li1 N4 2.117279 1_455
+Li1 N5 2.141354 1_555
+Li1 N1 2.148015 1_565
+Li1 N3 2.184731 1_565
+Li2 N3 2.117279 1_565
+Li2 N2 2.141354 1_555
+Li2 N0 2.148015 1_455
+Li2 N4 2.184731 1_455
+Li3 N2 2.117279 1_655
+Li3 N3 2.141354 1_555
+Li3 N0 2.148015 1_545
+Li3 N5 2.184731 1_545
+Ca0 N4 2.404438 1_456
+Ca0 N3 2.404439 1_565
+Ca0 N2 2.508416 1_555
+Ca0 N5 2.508416 1_556
+Ca0 N0 2.548054 1_555
+Ca0 N1 2.548054 1_556
+Ca1 N2 2.404438 1_654
+Ca1 N5 2.404439 1_545
+Ca1 N4 2.508416 1_555
+Ca1 N3 2.508416 1_554
+Ca1 N1 2.548054 1_555
+Ca1 N0 2.548054 1_554
+Mg0 N3 2.251424 1_554
+Mg0 N5 2.251424 1_445
+Mg0 N4 2.251424 1_445
+Mg0 N2 2.251424 1_554
+Ge0 N2 1.848126 1_555
+Ge0 N3 1.848126 1_555
+Ge0 N1 1.923984 1_555
+Ge0 N0 1.961500 1_555
+Ge1 N4 1.848126 1_555
+Ge1 N5 1.848126 1_555
+Ge1 N0 1.923984 1_555
+Ge1 N1 1.961500 1_555

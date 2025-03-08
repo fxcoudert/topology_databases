@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_K3Rb(CdI4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47400233
+_cell_length_b   7.47400116
+_cell_length_c   12.04393204
+_cell_angle_alpha   89.21028988
+_cell_angle_beta   90.78970734
+_cell_angle_gamma   109.35032311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Rb(CdI4)2
+_chemical_formula_sum   'K3 Rb1 Cd2 I8'
+_cell_volume   634.68663723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62088809  0.62088809  1.00000000  1
+  K  K1  1  0.26558171  0.86540411  0.24753901  1
+  K  K2  1  0.86540411  0.26558171  0.75246099  1
+  Rb  Rb0  1  0.60644428  0.60644428  0.50000000  1
+  Cd  Cd0  1  0.85090290  0.31152850  0.24815595  1
+  Cd  Cd1  1  0.31152850  0.85090290  0.75184405  1
+  I  I0  1  0.04496567  0.48817730  0.44058710  1
+  I  I1  1  0.48817730  0.04496567  0.55941290  1
+  I  I2  1  0.03954872  0.49662897  0.05707937  1
+  I  I3  1  0.49662897  0.03954872  0.94292063  1
+  I  I4  1  0.48373868  0.34705761  0.24278611  1
+  I  I5  1  0.34705761  0.48373868  0.75721389  1
+  I  I6  1  0.79612938  0.92100108  0.24947716  1
+  I  I7  1  0.92100108  0.79612938  0.75052284  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 I6 2.809682 1_545
+Cd0 I2 2.811929 1_655
+Cd0 I0 2.817964 1_655
+Cd0 I4 2.843025 1_555
+Cd1 I7 2.809682 1_455
+Cd1 I3 2.811929 1_565
+Cd1 I1 2.817964 1_565
+Cd1 I5 2.843025 1_555
+I0 K1 3.594154 1_555
+I0 Rb0 3.746648 1_455
+I0 Rb0 4.047271 1_555
+I0 K2 4.143061 1_455
+I1 K2 3.594155 1_555
+I1 Rb0 3.746648 1_545
+I1 Rb0 4.047271 1_555
+I1 K1 4.143061 1_545
+I2 K1 3.562928 1_555
+I2 K0 3.602092 1_454
+I2 K2 4.085307 1_454
+I3 K2 3.562928 1_555
+I3 K0 3.602092 1_545
+I3 K1 4.085307 1_546
+I4 K1 3.424635 1_545
+I4 K0 3.509576 1_554
+I4 Rb0 3.620118 1_555
+I5 K2 3.424636 1_455
+I5 K0 3.509576 1_555
+I5 Rb0 3.620118 1_555
+I6 K1 3.667807 1_655
+I6 K0 3.728978 1_554
+I6 Rb0 3.788758 1_555
+I6 K1 3.847431 1_555
+I7 K2 3.667806 1_565
+I7 K0 3.728978 1_555
+I7 Rb0 3.788758 1_555
+I7 K2 3.847431 1_555

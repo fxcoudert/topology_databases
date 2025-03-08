@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_CaGaSiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09109750
+_cell_length_b   5.74166760
+_cell_length_c   5.75222436
+_cell_angle_alpha   120.31443156
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGaSiN3
+_chemical_formula_sum   'Ca2 Ga2 Si2 N6'
+_cell_volume   145.15471398
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99666976  0.68309945  0.68903201  1
+  Ca  Ca1  1  0.49666976  0.31690055  0.31096799  1
+  Ga  Ga0  1  0.52850773  0.01447423  0.67188834  1
+  Ga  Ga1  1  0.02850773  0.98552577  0.32811166  1
+  Si  Si0  1  0.52521587  0.66428521  0.01448147  1
+  Si  Si1  1  0.02521587  0.33571479  0.98551853  1
+  N  N0  1  0.48416208  0.72830554  0.75353374  1
+  N  N1  1  0.98416208  0.27169446  0.24646626  1
+  N  N2  1  0.90039591  0.08640220  0.68048314  1
+  N  N3  1  0.86324764  0.63889239  0.06965253  1
+  N  N4  1  0.40039591  0.91359780  0.31951686  1
+  N  N5  1  0.36324764  0.36110761  0.93034747  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 N2 2.391600 1_565
+Ca0 N3 2.424945 1_556
+Ca0 N1 2.448286 1_555
+Ca0 N0 2.503497 1_655
+Ca0 N0 2.629806 1_555
+Ca1 N4 2.391600 1_545
+Ca1 N5 2.424945 1_554
+Ca1 N0 2.448286 1_555
+Ca1 N1 2.503497 1_555
+Ca1 N1 2.629806 1_455
+Ga0 N4 1.919413 1_545
+Ga0 N2 1.933144 1_555
+Ga0 N0 1.936557 1_545
+Ga0 N5 1.972888 1_555
+Ga1 N2 1.919413 1_465
+Ga1 N4 1.933144 1_555
+Ga1 N1 1.936557 1_465
+Ga1 N3 1.972888 1_455
+N0 Si0 1.728839 1_556
+N1 Si1 1.728839 1_654
+N2 Si1 1.730931 1_655
+N3 Si1 1.758956 1_654
+N3 Si0 1.769282 1_555
+N4 Si0 1.730931 1_555
+N5 Si0 1.758956 1_556
+N5 Si1 1.769282 1_555

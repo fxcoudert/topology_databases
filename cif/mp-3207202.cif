@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_LiAg3(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65863044
+_cell_length_b   5.65822311
+_cell_length_c   6.64060421
+_cell_angle_alpha   73.42468476
+_cell_angle_beta   98.19991602
+_cell_angle_gamma   119.99761054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg3(PbO3)2
+_chemical_formula_sum   'Li1 Ag3 Pb2 O6'
+_cell_volume   176.48489371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.16666700  0.50000000  1
+  Ag  Ag0  1  0.67171022  0.33585361  1.00000000  1
+  Ag  Ag1  1  0.33333300  0.66666700  0.00000000  1
+  Ag  Ag2  1  0.99495678  0.99747939  0.00000000  1
+  Pb  Pb0  1  0.00001069  0.50000435  0.50000000  1
+  Pb  Pb1  1  0.66665631  0.83332865  0.50000000  1
+  O  O0  1  0.33333300  0.77516339  0.67420680  1
+  O  O1  1  0.00020777  0.10843043  0.67416977  1
+  O  O2  1  0.66645923  0.44155666  0.67416977  1
+  O  O3  1  0.66645923  0.22490257  0.32583023  1
+  O  O4  1  0.33333300  0.55817061  0.32579320  1
+  O  O5  1  0.00020777  0.89177634  0.32583023  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.187008 1_555
+Li0 O2 2.187013 1_555
+Li0 O5 2.187013 1_545
+Li0 O3 2.187015 1_555
+Li0 O0 2.187083 1_545
+Li0 O4 2.187083 1_555
+Ag0 O2 2.073962 1_555
+Ag0 O3 2.073962 1_556
+Ag1 O0 2.073565 1_554
+Ag1 O4 2.073565 1_555
+Ag2 O5 2.073962 1_655
+Ag2 O1 2.073962 1_664
+O0 Pb1 2.188298 1_555
+O0 Pb0 2.188298 1_555
+O1 Pb0 2.187848 1_555
+O1 Pb1 2.188568 1_445
+O2 Pb1 2.187853 1_555
+O2 Pb0 2.188572 1_655
+O3 Pb1 2.187848 1_545
+O3 Pb0 2.188568 1_655
+O4 Pb0 2.188290 1_555
+O4 Pb1 2.188298 1_555
+O5 Pb0 2.187853 1_555
+O5 Pb1 2.188572 1_455

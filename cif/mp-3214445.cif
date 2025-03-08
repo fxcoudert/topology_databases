@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Ba2LiAlSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.27202722
+_cell_length_b   9.27202805
+_cell_length_c   9.27202799
+_cell_angle_alpha   135.97782978
+_cell_angle_beta   135.86689059
+_cell_angle_gamma   64.10042854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiAlSn2
+_chemical_formula_sum   'Ba4 Li2 Al2 Sn4'
+_cell_volume   380.51506474
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.09643292  0.84116048  0.25527244  1
+  Ba  Ba1  1  0.90356708  0.15883952  0.74472756  1
+  Ba  Ba2  1  0.41411196  0.65883952  0.75527244  1
+  Ba  Ba3  1  0.58588804  0.34116048  0.24472756  1
+  Li  Li0  1  0.50000000  0.25000000  0.75000000  1
+  Li  Li1  1  0.50000000  0.75000000  0.25000000  1
+  Al  Al0  1  0.00000000  0.25000000  0.25000000  1
+  Al  Al1  1  0.00000000  0.75000000  0.75000000  1
+  Sn  Sn0  1  0.66437648  0.90121355  0.76316193  1
+  Sn  Sn1  1  0.13805362  0.40121355  0.73683807  1
+  Sn  Sn2  1  0.86194638  0.59878645  0.26316193  1
+  Sn  Sn3  1  0.33562352  0.09878645  0.23683807  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Li1 3.486932 1_555
+Ba0 Li0 3.486932 1_565
+Ba0 Sn0 3.555943 1_454
+Ba0 Sn1 3.603222 1_565
+Ba0 Sn1 3.603236 1_554
+Ba0 Sn0 3.662050 1_555
+Ba0 Sn2 3.809958 1_455
+Ba1 Li0 3.486932 1_555
+Ba1 Li1 3.486932 1_545
+Ba1 Sn3 3.555943 1_656
+Ba1 Sn2 3.603222 1_545
+Ba1 Sn2 3.603236 1_556
+Ba1 Sn3 3.662050 1_555
+Ba1 Sn1 3.809958 1_655
+Ba2 Li0 3.486932 1_555
+Ba2 Li1 3.486932 1_556
+Ba2 Sn2 3.555955 1_455
+Ba2 Sn3 3.603224 1_555
+Ba2 Sn3 3.603231 1_566
+Ba2 Sn2 3.662042 1_556
+Ba2 Sn0 3.809950 1_555
+Ba3 Li1 3.486932 1_555
+Ba3 Li0 3.486932 1_554
+Ba3 Sn1 3.555955 1_655
+Ba3 Sn0 3.603224 1_555
+Ba3 Sn0 3.603231 1_544
+Ba3 Sn1 3.662042 1_554
+Ba3 Sn3 3.809950 1_555
+Li0 Sn1 2.964951 1_555
+Li0 Sn2 2.964960 1_556
+Li0 Sn3 2.964964 1_555
+Li0 Sn0 2.964968 1_545
+Li1 Sn2 2.964951 1_555
+Li1 Sn1 2.964960 1_554
+Li1 Sn0 2.964964 1_555
+Li1 Sn3 2.964968 1_565
+Al0 Sn3 2.855201 1_555
+Al0 Sn1 2.855201 1_555
+Al0 Sn0 2.855206 1_444
+Al0 Sn2 2.855209 1_455
+Al0 Ba3 3.523434 1_455
+Al0 Ba0 3.523435 1_545
+Al0 Ba1 3.523435 1_454
+Al0 Ba2 3.523435 1_555
+Al1 Sn0 2.855201 1_455
+Al1 Sn2 2.855201 1_455
+Al1 Sn3 2.855206 1_566
+Al1 Sn1 2.855209 1_555
+Al1 Ba2 3.523434 1_555
+Al1 Ba1 3.523435 1_465
+Al1 Ba0 3.523435 1_556
+Al1 Ba3 3.523435 1_455

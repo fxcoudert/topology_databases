@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_TaFeOF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57151890
+_cell_length_b   5.59045107
+_cell_length_c   5.54511747
+_cell_angle_alpha   118.31704065
+_cell_angle_beta   118.63794980
+_cell_angle_gamma   92.27364078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeOF5
+_chemical_formula_sum   'Ta1 Fe1 O1 F5'
+_cell_volume   125.22488854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.68147532  0.99561250  0.31981895  1
+  Fe  Fe0  1  0.15585145  0.47253736  0.31714753  1
+  O  O0  1  0.93860510  0.22514404  0.34907358  1
+  F  F0  1  0.37766069  0.72483794  0.28484244  1
+  F  F1  1  0.40076962  0.19420566  0.25423699  1
+  F  F2  1  0.46211495  0.72008216  0.84032229  1
+  F  F3  1  0.90271930  0.74358435  0.37567862  1
+  F  F4  1  0.84195858  0.21923100  0.79235560  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O0 1.927187 1_455
+O0 Ta0 1.777394 1_545
+F0 Fe0 1.965290 1_555
+F0 Ta0 2.097093 1_555
+F1 Ta0 1.945878 1_545
+F1 Fe0 2.124775 1_555
+F2 Ta0 1.945818 1_556
+F2 Fe0 2.121738 1_555
+F3 Ta0 1.945866 1_555
+F3 Fe0 2.128893 1_655
+F4 Ta0 1.945775 1_545
+F4 Fe0 2.132574 1_656

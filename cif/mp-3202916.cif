@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_RbH3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86969334
+_cell_length_b   5.86969340
+_cell_length_c   5.86969415
+_cell_angle_alpha   114.22096195
+_cell_angle_beta   114.22097014
+_cell_angle_gamma   100.33984796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbH3Au
+_chemical_formula_sum   'Rb2 H6 Au2'
+_cell_volume   152.78022311
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75000000  0.75000000  0.00000000  1
+  Rb  Rb1  1  0.25000000  0.25000000  0.00000000  1
+  H  H0  1  0.81643066  0.31643066  0.13286133  1
+  H  H1  1  0.75000000  0.25000000  0.50000000  1
+  H  H2  1  0.68356934  0.81643066  0.50000000  1
+  H  H3  1  0.25000000  0.75000000  0.50000000  1
+  H  H4  1  0.31643066  0.18356934  0.50000000  1
+  H  H5  1  0.18356934  0.68356934  0.86713867  1
+  Au  Au0  1  0.50000000  0.00000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 Rb1 2.995328 1_555
+H0 Rb0 2.995328 1_555
+H0 Rb0 2.995328 1_545
+H0 Rb1 2.995328 1_655
+H1 Rb1 3.187366 1_555
+H1 Rb1 3.187366 1_656
+H1 Rb0 3.187366 1_545
+H1 Rb0 3.187366 1_556
+H2 Rb1 2.995328 1_666
+H2 Rb1 2.995328 1_555
+H2 Rb0 2.995329 1_556
+H2 Rb0 2.995329 1_555
+H3 Rb0 3.187366 1_455
+H3 Rb0 3.187366 1_556
+H3 Rb1 3.187366 1_566
+H3 Rb1 3.187366 1_555
+H4 Rb0 2.995328 1_445
+H4 Rb0 2.995328 1_556
+H4 Rb1 2.995329 1_555
+H4 Rb1 2.995329 1_556
+H5 Rb0 2.995328 1_556
+H5 Rb1 2.995328 1_556
+H5 Rb1 2.995328 1_566
+H5 Rb0 2.995328 1_456
+Au0 H4 1.654920 1_555
+Au0 H2 1.654920 1_545
+Au0 H3 1.879807 1_545
+Au0 H1 1.879807 1_555
+Au1 H5 1.654920 1_555
+Au1 H0 1.654920 1_455
+Au1 H3 1.879807 1_555
+Au1 H1 1.879807 1_455

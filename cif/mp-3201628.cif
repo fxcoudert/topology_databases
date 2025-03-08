@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Sr(ScPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64900178
+_cell_length_b   6.64900145
+_cell_length_c   6.64900239
+_cell_angle_alpha   140.66363872
+_cell_angle_beta   140.66364381
+_cell_angle_gamma   56.84701933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(ScPt)2
+_chemical_formula_sum   'Sr1 Sc2 Pt2'
+_cell_volume   117.13832174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc0  1  0.75000000  0.25000000  0.50000000  1
+  Sc  Sc1  1  0.25000000  0.75000000  0.50000000  1
+  Pt  Pt0  1  0.38254803  0.38254803  0.00000000  1
+  Pt  Pt1  1  0.61745197  0.61745197  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sr0 3.681893 1_666
+Sc0 Sr0 3.681893 1_555
+Sc0 Sr0 3.681893 1_656
+Sc0 Sr0 3.681893 1_655
+Sc1 Sr0 3.681893 1_555
+Sc1 Sr0 3.681893 1_666
+Sc1 Sr0 3.681893 1_565
+Sc1 Sr0 3.681893 1_566
+Pt0 Sc0 2.722318 1_454
+Pt0 Sc0 2.722318 1_555
+Pt0 Sc1 2.722318 1_544
+Pt0 Sc1 2.722318 1_555
+Pt0 Pt1 2.747195 1_554
+Pt0 Sr0 3.450057 1_565
+Pt0 Sr0 3.450057 1_655
+Pt0 Sr0 3.450058 1_666
+Pt0 Sr0 3.450058 1_554
+Pt1 Sc1 2.722318 1_656
+Pt1 Sc1 2.722318 1_555
+Pt1 Sc0 2.722318 1_566
+Pt1 Sc0 2.722318 1_555
+Pt1 Sr0 3.450057 1_656
+Pt1 Sr0 3.450057 1_566
+Pt1 Sr0 3.450058 1_555
+Pt1 Sr0 3.450058 1_667

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_HfSiPtRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21089770
+_cell_length_b   5.21089619
+_cell_length_c   6.92412369
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.88414910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiPtRh
+_chemical_formula_sum   'Hf2 Si2 Pt2 Rh2'
+_cell_volume   123.63482586
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.94808177  0.05191723  0.25000000  1
+  Hf  Hf1  1  0.05110127  0.94889773  0.75000000  1
+  Si  Si0  1  0.22547980  0.77451820  0.25000000  1
+  Si  Si1  1  0.76518075  0.23481725  0.75000000  1
+  Pt  Pt0  1  0.36395829  0.63603971  0.54583519  1
+  Pt  Pt1  1  0.36395829  0.63603971  0.95416481  1
+  Rh  Rh0  1  0.64111641  0.35888159  0.04835947  1
+  Rh  Rh1  1  0.64111641  0.35888159  0.45163953  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Si0 2.706885 1_645
+Hf0 Si0 2.840173 1_655
+Hf0 Si0 2.840176 1_545
+Hf0 Pt0 2.866714 1_655
+Hf0 Pt1 2.866714 1_654
+Hf0 Pt0 2.866717 1_545
+Hf0 Pt1 2.866717 1_544
+Hf0 Rh1 2.974180 1_655
+Hf0 Rh1 2.974181 1_545
+Hf0 Rh0 2.974183 1_655
+Hf0 Rh0 2.974184 1_545
+Hf1 Si1 2.777095 1_565
+Hf1 Si1 2.777096 1_455
+Hf1 Si1 2.790039 1_465
+Hf1 Rh0 2.896148 1_566
+Hf1 Rh0 2.896150 1_456
+Hf1 Rh1 2.896153 1_565
+Hf1 Rh1 2.896155 1_455
+Hf1 Pt1 2.946447 1_565
+Hf1 Pt0 2.946447 1_565
+Hf1 Pt1 2.946451 1_455
+Hf1 Pt0 2.946451 1_455
+Pt0 Si0 2.453960 1_555
+Pt0 Si1 2.505151 1_565
+Pt0 Si1 2.505151 1_455
+Pt1 Si0 2.453960 1_556
+Pt1 Si1 2.505151 1_565
+Pt1 Si1 2.505151 1_455
+Rh0 Si1 2.394470 1_554
+Rh0 Si0 2.444443 1_545
+Rh0 Si0 2.444444 1_655
+Rh1 Si1 2.394476 1_555
+Rh1 Si0 2.444439 1_545
+Rh1 Si0 2.444440 1_655

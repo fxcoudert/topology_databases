@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_KNa3(Ga2Se3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96335270
+_cell_length_b   6.96335169
+_cell_length_c   8.69167757
+_cell_angle_alpha   82.25334438
+_cell_angle_beta   82.25334114
+_cell_angle_gamma   120.05819502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa3(Ga2Se3)2
+_chemical_formula_sum   'K1 Na3 Ga4 Se6'
+_cell_volume   351.23806730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na0  1  0.65879823  0.34120177  1.00000000  1
+  Na  Na1  1  0.34120177  0.65879823  0.00000000  1
+  Na  Na2  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga0  1  0.88073477  0.21503952  0.35429087  1
+  Ga  Ga1  1  0.78496048  0.11926523  0.64570913  1
+  Ga  Ga2  1  0.21503952  0.88073477  0.35429087  1
+  Ga  Ga3  1  0.11926523  0.78496048  0.64570913  1
+  Se  Se0  1  0.41023807  0.05300638  0.76939892  1
+  Se  Se1  1  0.05300638  0.41023807  0.76939892  1
+  Se  Se2  1  0.94699362  0.58976193  0.23060108  1
+  Se  Se3  1  0.76657425  0.76657425  0.76894023  1
+  Se  Se4  1  0.58976193  0.94699362  0.23060108  1
+  Se  Se5  1  0.23342575  0.23342575  0.23105977  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se3 3.353090 1_555
+K0 Se5 3.353090 1_555
+K0 Se0 3.354592 1_555
+K0 Se4 3.354592 1_555
+K0 Se1 3.354592 1_555
+K0 Se2 3.354592 1_555
+Na0 Se4 2.952719 1_546
+Na0 Se1 2.952719 1_655
+Na0 Se3 3.022118 1_555
+Na0 Se5 3.022118 1_556
+Na0 Se0 3.095204 1_555
+Na0 Se2 3.095205 1_556
+Na1 Se0 2.952719 1_564
+Na1 Se2 2.952719 1_455
+Na1 Se5 3.022118 1_555
+Na1 Se3 3.022118 1_554
+Na1 Se4 3.095204 1_555
+Na1 Se1 3.095205 1_554
+Na2 Se5 2.903560 1_555
+Na2 Se3 2.903560 1_444
+Na2 Se1 3.084578 1_554
+Na2 Se2 3.084578 1_445
+Na2 Se4 3.084579 1_445
+Na2 Se0 3.084579 1_554
+Ga0 Ga1 2.439027 1_555
+Ga0 Se2 2.466018 1_555
+Ga0 Se4 2.466698 1_545
+Ga0 Se5 2.476696 1_655
+Ga1 Se0 2.466018 1_555
+Ga1 Se1 2.466698 1_655
+Ga1 Se3 2.476695 1_545
+Ga2 Ga3 2.439027 1_555
+Ga2 Se4 2.466018 1_555
+Ga2 Se2 2.466698 1_455
+Ga2 Se5 2.476695 1_565
+Ga3 Se1 2.466018 1_555
+Ga3 Se0 2.466698 1_565
+Ga3 Se3 2.476696 1_455

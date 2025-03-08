@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_LuSiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19328960
+_cell_length_b   7.19328920
+_cell_length_c   7.62574708
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiTe3
+_chemical_formula_sum   'Lu2 Si2 Te6'
+_cell_volume   341.71819746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.66666700  0.33333300  0.50000000  1
+  Lu  Lu1  1  0.33333300  0.66666700  0.50000000  1
+  Si  Si0  1  0.00000000  0.00000000  0.34966971  1
+  Si  Si1  1  0.00000000  0.00000000  0.65033029  1
+  Te  Te0  1  1.00000000  0.66516475  0.25125182  1
+  Te  Te1  1  0.33483525  0.33483525  0.25125182  1
+  Te  Te2  1  0.00000000  0.33483525  0.74874818  1
+  Te  Te3  1  0.33483525  0.00000000  0.74874818  1
+  Te  Te4  1  0.66516475  1.00000000  0.25125182  1
+  Te  Te5  1  0.66516475  0.66516475  0.74874818  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Te4 3.053139 1_545
+Lu0 Te2 3.053139 1_655
+Lu0 Te3 3.053142 1_555
+Lu0 Te0 3.053142 1_555
+Lu0 Te5 3.053145 1_555
+Lu0 Te1 3.053145 1_555
+Lu1 Te3 3.053139 1_565
+Lu1 Te0 3.053139 1_455
+Lu1 Te4 3.053142 1_555
+Lu1 Te2 3.053142 1_555
+Lu1 Te1 3.053145 1_555
+Lu1 Te5 3.053145 1_555
+Si0 Si1 2.292762 1_555
+Si0 Te0 2.522788 1_445
+Si0 Te4 2.522788 1_445
+Si0 Te1 2.522788 1_555
+Si1 Te2 2.522788 1_555
+Si1 Te3 2.522788 1_555
+Si1 Te5 2.522788 1_445

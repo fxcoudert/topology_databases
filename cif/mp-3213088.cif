@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hg3Mo(SF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55560405
+_cell_length_b   7.55560313
+_cell_length_c   4.74144472
+_cell_angle_alpha   104.45948091
+_cell_angle_beta   104.45947633
+_cell_angle_gamma   56.13874014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3Mo(SF3)2
+_chemical_formula_sum   'Hg3 Mo1 S2 F6'
+_cell_volume   215.57893988
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.00000000  0.49999900  1
+  Hg  Hg2  1  0.00000000  0.50000000  0.49999900  1
+  Mo  Mo0  1  0.00000000  0.00000000  0.49999900  1
+  S  S0  1  0.68751363  0.68751363  0.15805021  1
+  S  S1  1  0.31248637  0.31248637  0.84194979  1
+  F  F0  1  0.70663482  0.12821604  0.27828286  1
+  F  F1  1  0.12821604  0.70663482  0.27828286  1
+  F  F2  1  0.09490300  0.09490300  0.25588668  1
+  F  F3  1  0.90509700  0.90509700  0.74411332  1
+  F  F4  1  0.87178396  0.29336518  0.72171714  1
+  F  F5  1  0.29336518  0.87178396  0.72171714  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S0 2.398439 1_555
+Hg0 S1 2.398439 1_554
+Hg1 S0 2.391289 1_545
+Hg1 S1 2.391294 1_555
+Hg2 S0 2.391289 1_455
+Hg2 S1 2.391294 1_555
+F0 Mo0 1.977061 1_655
+F1 Mo0 1.977061 1_565
+F2 Mo0 1.941622 1_555
+F3 Mo0 1.941629 1_665
+F4 Mo0 1.977064 1_655
+F5 Mo0 1.977064 1_565

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Ti2V(SnIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60285268
+_cell_length_b   7.60285186
+_cell_length_c   7.60285320
+_cell_angle_alpha   33.97721245
+_cell_angle_beta   33.97722391
+_cell_angle_gamma   33.97721105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2V(SnIr)2
+_chemical_formula_sum   'Ti2 V1 Sn2 Ir2'
+_cell_volume   122.34472480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.75613095  0.75613095  0.75613095  1
+  Ti  Ti1  1  0.24614446  0.24614446  0.24614446  1
+  V  V0  1  0.37522443  0.37522443  0.37522443  1
+  Sn  Sn0  1  0.99199491  0.99199491  0.99199491  1
+  Sn  Sn1  1  0.50476990  0.50476990  0.50476990  1
+  Ir  Ir0  1  0.12237271  0.12237271  0.12237271  1
+  Ir  Ir1  1  0.62836365  0.62836365  0.62836365  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 V0 2.760967 1_565
+Ti0 V0 2.760968 1_556
+Ti0 V0 2.760968 1_655
+Ti1 V0 2.771507 1_555
+Sn0 V0 2.779806 1_656
+Sn0 V0 2.779807 1_665
+Sn0 V0 2.779807 1_566
+Sn0 Ti1 3.077362 1_656
+Sn0 Ti1 3.077363 1_566
+Sn0 Ti1 3.077363 1_665
+Sn1 V0 2.781502 1_555
+Sn1 Ti1 3.025328 1_565
+Sn1 Ti1 3.025329 1_655
+Sn1 Ti1 3.025329 1_556
+Sn1 Ti0 3.110840 1_545
+Sn1 Ti0 3.110841 1_455
+Sn1 Ti0 3.110842 1_554
+Ir0 Ti1 2.657533 1_555
+Ir0 Ti0 2.660607 1_454
+Ir0 Ti0 2.660608 1_544
+Ir0 Ti0 2.660608 1_445
+Ir0 Sn1 2.772968 1_545
+Ir0 Sn1 2.772968 1_554
+Ir0 Sn1 2.772968 1_455
+Ir0 Sn0 2.799373 1_444
+Ir0 V0 3.092844 1_545
+Ir0 V0 3.092846 1_455
+Ir0 V0 3.092846 1_554
+Ir1 Sn0 2.646273 1_545
+Ir1 Sn0 2.646274 1_455
+Ir1 Sn0 2.646274 1_554
+Ir1 Sn1 2.653711 1_555
+Ir1 Ti0 2.743323 1_555
+Ir1 Ti1 2.771518 1_565
+Ir1 Ti1 2.771519 1_556
+Ir1 Ti1 2.771519 1_655
+Ir1 V0 3.089400 1_565
+Ir1 V0 3.089401 1_655
+Ir1 V0 3.089401 1_556

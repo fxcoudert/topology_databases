@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_MnNbP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50959723
+_cell_length_b   6.25954191
+_cell_length_c   7.50183411
+_cell_angle_alpha   90.00020057
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNbP
+_chemical_formula_sum   'Mn4 Nb4 P4'
+_cell_volume   164.80382470
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.85813490  0.44154423  1
+  Mn  Mn1  1  0.25000000  0.14182932  0.55831521  1
+  Mn  Mn2  1  0.75000000  0.35807341  0.05848823  1
+  Mn  Mn3  1  0.25000000  0.64183822  0.94164759  1
+  Nb  Nb0  1  0.25000000  0.53440936  0.33137579  1
+  Nb  Nb1  1  0.75000000  0.46562971  0.66860170  1
+  Nb  Nb2  1  0.25000000  0.03439788  0.16864635  1
+  Nb  Nb3  1  0.75000000  0.96562557  0.83135383  1
+  P  P0  1  0.25000000  0.26906975  0.86531802  1
+  P  P1  1  0.75000000  0.73094968  0.13466943  1
+  P  P2  1  0.25000000  0.76909175  0.63466802  1
+  P  P3  1  0.75000000  0.23095044  0.36537261  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mn0 P2 2.342852 1_555
+Mn0 P2 2.342852 1_655
+Mn0 P3 2.402599 1_565
+Mn0 P1 2.435892 1_555
+Mn0 Mn1 2.645776 1_565
+Mn0 Mn1 2.645776 1_665
+Mn0 Nb0 2.805092 1_555
+Mn0 Nb0 2.805092 1_655
+Mn0 Nb2 2.913388 1_565
+Mn0 Nb2 2.913388 1_665
+Mn0 Nb1 2.989614 1_555
+Mn0 Nb3 3.000693 1_555
+Mn1 P3 2.342128 1_455
+Mn1 P3 2.342128 1_555
+Mn1 P2 2.402449 1_545
+Mn1 P0 2.436913 1_555
+Mn1 Nb1 2.805692 1_455
+Mn1 Nb1 2.805692 1_555
+Mn1 Nb3 2.913990 1_545
+Mn1 Nb3 2.913990 1_445
+Mn1 Nb0 2.989495 1_555
+Mn1 Nb2 2.999581 1_555
+Mn2 P0 2.343006 1_654
+Mn2 P0 2.343006 1_554
+Mn2 P1 2.402981 1_555
+Mn2 P3 2.435838 1_555
+Mn2 Mn3 2.646249 1_654
+Mn2 Mn3 2.646249 1_554
+Mn2 Nb2 2.804847 1_555
+Mn2 Nb2 2.804847 1_655
+Mn2 Nb0 2.913501 1_555
+Mn2 Nb0 2.913501 1_655
+Mn2 Nb3 2.989638 1_544
+Mn2 Nb1 3.001352 1_554
+Mn3 P1 2.342479 1_456
+Mn3 P1 2.342479 1_556
+Mn3 P0 2.402591 1_555
+Mn3 P2 2.436780 1_555
+Mn3 Nb3 2.805653 1_455
+Mn3 Nb3 2.805653 1_555
+Mn3 Nb1 2.914034 1_555
+Mn3 Nb1 2.914034 1_455
+Mn3 Nb2 2.989634 1_566
+Mn3 Nb0 3.000016 1_556
+Nb0 P3 2.598561 1_455
+Nb0 P3 2.598561 1_555
+Nb0 P1 2.602003 1_455
+Nb0 P1 2.602003 1_555
+Nb0 P2 2.708266 1_555
+Nb0 Nb1 3.108799 1_455
+Nb0 Nb1 3.108799 1_555
+Nb1 P2 2.598529 1_555
+Nb1 P2 2.598529 1_655
+Nb1 P0 2.602104 1_555
+Nb1 P0 2.602104 1_655
+Nb1 P3 2.707857 1_555
+Nb2 P1 2.598496 1_445
+Nb2 P1 2.598496 1_545
+Nb2 P3 2.602119 1_555
+Nb2 P3 2.602119 1_455
+Nb2 P0 2.708466 1_554
+Nb2 Nb3 3.109197 1_544
+Nb2 Nb3 3.109197 1_444
+Nb3 P0 2.598468 1_665
+Nb3 P0 2.598468 1_565
+Nb3 P2 2.601891 1_555
+Nb3 P2 2.601891 1_655
+Nb3 P1 2.708400 1_556

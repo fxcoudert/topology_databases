@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_MgV4(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20720389
+_cell_length_b   7.20717676
+_cell_length_c   7.42840200
+_cell_angle_alpha   58.97908770
+_cell_angle_beta   58.97924961
+_cell_angle_gamma   62.04171734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV4(CuS4)2
+_chemical_formula_sum   'Mg1 V4 Cu2 S8'
+_cell_volume   272.31211360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.62510800  0.62510900  0.62489100  1
+  V  V0  1  0.48378900  0.48378900  0.07845100  1
+  V  V1  1  0.07907200  0.45483500  0.48304700  1
+  V  V2  1  0.48379000  0.48379000  0.45397200  1
+  V  V3  1  0.45483600  0.07907100  0.48304600  1
+  Cu  Cu0  1  0.12543900  0.12543900  0.12456100  1
+  Cu  Cu1  1  0.87503800  0.87503800  0.87496200  1
+  S  S0  1  0.24892300  0.74155600  0.25476100  1
+  S  S1  1  0.74033900  0.74034000  0.76885300  1
+  S  S2  1  0.25547300  0.25547200  0.24820800  1
+  S  S3  1  0.74033900  0.74033900  0.25046700  1
+  S  S4  1  0.25092800  0.76953000  0.73977000  1
+  S  S5  1  0.25547200  0.25547200  0.74084900  1
+  S  S6  1  0.74155500  0.24892300  0.25476200  1
+  S  S7  1  0.76952900  0.25092800  0.73977000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 S7 2.235131 1_555
+Mg0 S4 2.235136 1_555
+Mg0 S3 2.236190 1_555
+Mg0 S1 2.236198 1_555
+Mg0 V2 2.706500 1_555
+Mg0 V0 2.706514 1_556
+Mg0 V3 2.708417 1_565
+Mg0 V1 2.708443 1_655
+V0 V2 2.789528 1_555
+V1 V3 2.791345 1_555
+Cu0 S5 2.279941 1_554
+Cu0 S2 2.279962 1_555
+Cu0 S0 2.280903 1_545
+Cu0 S6 2.280921 1_455
+Cu1 S3 2.228721 1_556
+Cu1 S1 2.228737 1_555
+Cu1 S7 2.230993 1_565
+Cu1 S4 2.231005 1_655
+S0 V1 2.294542 1_555
+S0 V0 2.303501 1_555
+S0 V2 2.303503 1_555
+S1 V0 2.562550 1_556
+S1 V3 3.025188 1_565
+S1 V1 3.025199 1_655
+S2 V0 2.295016 1_555
+S2 V3 2.304073 1_555
+S2 V1 2.304079 1_555
+S3 V2 2.562535 1_555
+S3 V3 3.025197 1_565
+S3 V1 3.025208 1_655
+S4 V3 2.563984 1_565
+S4 V2 3.026232 1_555
+S4 V0 3.026252 1_556
+S5 V2 2.295026 1_555
+S5 V1 2.304078 1_555
+S5 V3 2.304090 1_555
+S6 V3 2.294540 1_555
+S6 V2 2.303500 1_555
+S6 V0 2.303500 1_555
+S7 V1 2.563995 1_655
+S7 V2 3.026227 1_555
+S7 V0 3.026256 1_556

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ti3GaTcSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40024587
+_cell_length_b   7.40024631
+_cell_length_c   7.21930192
+_cell_angle_alpha   59.16736401
+_cell_angle_beta   59.16737415
+_cell_angle_gamma   60.00000371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3GaTcSe8
+_chemical_formula_sum   'Ti3 Ga1 Tc1 Se8'
+_cell_volume   275.98827841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.61637428  0.17642358  0.59082885  1
+  Ti  Ti1  1  0.17642358  0.61637428  0.59082885  1
+  Ti  Ti2  1  0.61637428  0.61637428  0.59082885  1
+  Ga  Ga0  1  0.00735959  0.00735959  0.97792023  1
+  Tc  Tc0  1  0.59600688  0.59600688  0.21197937  1
+  Se  Se0  1  0.37405630  0.37405630  0.87783010  1
+  Se  Se1  1  0.36303761  0.89575784  0.37816694  1
+  Se  Se2  1  0.89575784  0.36303761  0.37816694  1
+  Se  Se3  1  0.36303761  0.36303761  0.37816694  1
+  Se  Se4  1  0.86946820  0.86946820  0.39159441  1
+  Se  Se5  1  0.85624690  0.40960904  0.87789617  1
+  Se  Se6  1  0.40960904  0.85624690  0.87789617  1
+  Se  Se7  1  0.85624690  0.85624690  0.87789617  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Se4 2.407277 1_446
+Ga0 Se7 2.434855 1_445
+Ga0 Se5 2.434855 1_455
+Ga0 Se6 2.434855 1_545
+Se0 Ti1 2.514482 1_555
+Se0 Ti0 2.514483 1_555
+Se0 Ti2 2.514492 1_555
+Se1 Ti1 2.442725 1_555
+Se1 Ti2 2.442730 1_555
+Se1 Tc0 2.473001 1_555
+Se2 Ti0 2.442725 1_555
+Se2 Ti2 2.442730 1_555
+Se2 Tc0 2.473001 1_555
+Se3 Ti0 2.442731 1_555
+Se3 Ti1 2.442731 1_555
+Se3 Tc0 2.473001 1_555
+Se4 Ti2 2.658908 1_555
+Se4 Ti1 2.658920 1_655
+Se4 Ti0 2.658920 1_565
+Se5 Tc0 2.724172 1_556
+Se5 Ti2 2.755282 1_555
+Se5 Ti1 2.755293 1_655
+Se6 Tc0 2.724172 1_556
+Se6 Ti2 2.755282 1_555
+Se6 Ti0 2.755293 1_565
+Se7 Tc0 2.724167 1_556
+Se7 Ti0 2.755284 1_565
+Se7 Ti1 2.755285 1_655

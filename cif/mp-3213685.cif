@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Lu12Co4BiOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07851761
+_cell_length_b   8.07851642
+_cell_length_c   8.07851635
+_cell_angle_alpha   111.60052753
+_cell_angle_beta   110.47128796
+_cell_angle_gamma   106.38731214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Co4BiOs
+_chemical_formula_sum   'Lu12 Co4 Bi1 Os1'
+_cell_volume   404.93945718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.41691025  0.21757446  0.19933479  1
+  Lu  Lu1  1  0.58308975  0.78242554  0.80066521  1
+  Lu  Lu2  1  0.01823967  0.21757446  0.80066521  1
+  Lu  Lu3  1  0.98176033  0.78242554  0.19933479  1
+  Lu  Lu4  1  0.18024350  0.27695818  0.45720268  1
+  Lu  Lu5  1  0.81975650  0.72304182  0.54279732  1
+  Lu  Lu6  1  0.18024350  0.72304182  0.90328532  1
+  Lu  Lu7  1  0.81975650  0.27695818  0.09671468  1
+  Lu  Lu8  1  0.31016205  0.61848936  0.30832730  1
+  Lu  Lu9  1  0.68983795  0.38151064  0.69167270  1
+  Lu  Lu10  1  0.31016205  0.00183475  0.69167270  1
+  Lu  Lu11  1  0.68983795  0.99816525  0.30832730  1
+  Co  Co0  1  0.37770285  0.00000000  0.37770285  1
+  Co  Co1  1  0.62229715  1.00000000  0.62229715  1
+  Co  Co2  1  0.11051593  0.61051593  0.50000000  1
+  Co  Co3  1  0.88948407  0.38948407  0.50000000  1
+  Bi  Bi0  1  0.50000000  0.50000000  0.00000000  1
+  Os  Os0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Os0 2.794305 1_555
+Lu1 Os0 2.794305 1_666
+Lu2 Os0 2.794298 1_556
+Lu3 Os0 2.794298 1_665
+Lu4 Os0 3.013919 1_555
+Lu5 Os0 3.013919 1_666
+Lu6 Os0 3.013913 1_566
+Lu7 Os0 3.013913 1_655
+Co0 Co1 2.253394 1_545
+Co0 Lu3 2.671321 1_445
+Co0 Lu0 2.671322 1_555
+Co0 Lu9 2.770600 1_555
+Co0 Lu8 2.770600 1_545
+Co0 Lu10 2.770600 1_555
+Co0 Lu11 2.770601 1_545
+Co0 Lu6 3.104121 1_544
+Co0 Lu4 3.104123 1_555
+Co1 Lu2 2.671321 1_665
+Co1 Lu1 2.671322 1_555
+Co1 Lu8 2.770600 1_555
+Co1 Lu9 2.770600 1_565
+Co1 Lu11 2.770600 1_555
+Co1 Lu10 2.770601 1_565
+Co1 Lu7 3.104121 1_566
+Co1 Lu5 3.104123 1_555
+Co2 Co3 2.139561 1_455
+Co2 Lu10 2.600909 1_565
+Co2 Lu8 2.600909 1_555
+Co2 Lu5 2.829263 1_455
+Co2 Lu7 2.829265 1_455
+Co2 Lu6 2.829265 1_555
+Co2 Lu4 2.829267 1_555
+Co2 Lu1 3.231372 1_555
+Co2 Lu3 3.231378 1_455
+Co3 Lu11 2.600909 1_545
+Co3 Lu9 2.600909 1_555
+Co3 Lu4 2.829263 1_655
+Co3 Lu6 2.829265 1_655
+Co3 Lu7 2.829265 1_555
+Co3 Lu5 2.829267 1_555
+Co3 Lu0 3.231372 1_555
+Co3 Lu2 3.231378 1_655
+Bi0 Lu1 3.293382 1_554
+Bi0 Lu0 3.293382 1_555
+Bi0 Lu3 3.293384 1_555
+Bi0 Lu2 3.293384 1_554
+Bi0 Lu11 3.349221 1_555
+Bi0 Lu10 3.349221 1_554
+Bi0 Lu8 3.349222 1_555
+Bi0 Lu9 3.349222 1_554
+Bi0 Lu5 3.575035 1_555
+Bi0 Lu4 3.575035 1_554
+Bi0 Lu7 3.575042 1_555
+Bi0 Lu6 3.575042 1_554

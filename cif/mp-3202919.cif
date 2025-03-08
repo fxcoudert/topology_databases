@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BiRuSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44309663
+_cell_length_b   6.55025081
+_cell_length_c   6.57076974
+_cell_angle_alpha   113.31325628
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiRuSe
+_chemical_formula_sum   'Bi4 Ru4 Se4'
+_cell_volume   254.67091106
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.13799720  0.85507793  0.12448222  1
+  Bi  Bi1  1  0.63799720  0.14492207  0.37551778  1
+  Bi  Bi2  1  0.86200280  0.14492207  0.87551778  1
+  Bi  Bi3  1  0.36200280  0.85507793  0.62448222  1
+  Ru  Ru0  1  0.51263300  0.70334853  0.19756736  1
+  Ru  Ru1  1  0.01263300  0.29665147  0.30243264  1
+  Ru  Ru2  1  0.48736700  0.29665147  0.80243264  1
+  Ru  Ru3  1  0.98736700  0.70334853  0.69756736  1
+  Se  Se0  1  0.86441508  0.64775499  0.32382198  1
+  Se  Se1  1  0.36441508  0.35224501  0.17617802  1
+  Se  Se2  1  0.13558492  0.35224501  0.67617802  1
+  Se  Se3  1  0.63558492  0.64775499  0.82382198  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Ru0 2.724456 1_555
+Bi0 Ru3 2.755340 1_454
+Bi0 Ru1 2.776470 1_565
+Bi0 Se0 2.841638 1_455
+Bi1 Ru1 2.724456 1_655
+Bi1 Ru2 2.755340 1_555
+Bi1 Ru0 2.776470 1_545
+Bi1 Se1 2.841638 1_555
+Bi2 Ru2 2.724456 1_555
+Bi2 Ru1 2.755340 1_656
+Bi2 Ru3 2.776470 1_545
+Bi2 Se2 2.841638 1_655
+Bi3 Ru3 2.724456 1_455
+Bi3 Ru0 2.755340 1_555
+Bi3 Ru2 2.776470 1_565
+Bi3 Se3 2.841638 1_555
+Ru0 Se1 2.442347 1_555
+Ru0 Se3 2.466427 1_554
+Ru0 Se0 2.489430 1_555
+Ru1 Se0 2.442347 1_455
+Ru1 Se2 2.466427 1_555
+Ru1 Se1 2.489430 1_555
+Ru2 Se3 2.442347 1_555
+Ru2 Se1 2.466427 1_556
+Ru2 Se2 2.489430 1_555
+Ru3 Se2 2.442347 1_655
+Ru3 Se0 2.466427 1_555
+Ru3 Se3 2.489430 1_555

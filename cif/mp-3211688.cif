@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_Li4Ca3(GeN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82814656
+_cell_length_b   5.82814619
+_cell_length_c   6.05841484
+_cell_angle_alpha   89.18154008
+_cell_angle_beta   89.18153922
+_cell_angle_gamma   120.07419938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Ca3(GeN3)2
+_chemical_formula_sum   'Li4 Ca3 Ge2 N6'
+_cell_volume   178.01132809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.46025747  0.81843544  0.12507296  1
+  Li  Li1  1  0.53974253  0.18156456  0.87492704  1
+  Li  Li2  1  0.18156456  0.53974253  0.87492704  1
+  Li  Li3  1  0.81843544  0.46025747  0.12507296  1
+  Ca  Ca0  1  0.82076324  0.17923676  0.50000000  1
+  Ca  Ca1  1  0.17923676  0.82076324  0.50000000  1
+  Ca  Ca2  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.38288824  0.38288824  0.32187248  1
+  Ge  Ge1  1  0.61711176  0.61711176  0.67812752  1
+  N  N0  1  0.87137921  0.56259866  0.79709922  1
+  N  N1  1  0.12862079  0.43740134  0.20290078  1
+  N  N2  1  0.71310708  0.71310708  0.35728535  1
+  N  N3  1  0.28689292  0.28689292  0.64271465  1
+  N  N4  1  0.56259866  0.87137921  0.79709922  1
+  N  N5  1  0.43740134  0.12862079  0.20290078  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N5 1.942201 1_565
+Li0 N4 2.040420 1_554
+Li0 N1 2.128827 1_555
+Li0 N2 2.338561 1_555
+Li1 N4 1.942201 1_545
+Li1 N5 2.040420 1_556
+Li1 N0 2.128827 1_555
+Li1 N3 2.338561 1_555
+Li2 N0 1.942201 1_455
+Li2 N1 2.040420 1_556
+Li2 N4 2.128828 1_555
+Li2 N3 2.338561 1_555
+Li3 N1 1.942201 1_655
+Li3 N0 2.040420 1_554
+Li3 N5 2.128828 1_555
+Li3 N2 2.338561 1_555
+Ca0 N4 2.418194 1_545
+Ca0 N1 2.418194 1_655
+Ca0 N2 2.625986 1_545
+Ca0 N3 2.625986 1_655
+Ca0 N0 2.790765 1_555
+Ca0 N5 2.790765 1_555
+Ca1 N5 2.418194 1_565
+Ca1 N0 2.418194 1_455
+Ca1 N3 2.625986 1_565
+Ca1 N2 2.625986 1_455
+Ca1 N1 2.790765 1_555
+Ca1 N4 2.790765 1_555
+Ca2 N1 2.602350 1_555
+Ca2 N0 2.602350 1_444
+Ca2 N4 2.602350 1_444
+Ca2 N5 2.602350 1_555
+Ca2 N2 2.695945 1_445
+Ca2 N3 2.695945 1_554
+Ge0 N5 1.819989 1_555
+Ge0 N1 1.819989 1_555
+Ge0 N2 1.940429 1_555
+Ge0 N3 2.007115 1_555
+Ge1 N4 1.819989 1_555
+Ge1 N0 1.819989 1_555
+Ge1 N3 1.940429 1_555
+Ge1 N2 2.007115 1_555

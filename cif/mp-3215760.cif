@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Ti4VBiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89726682
+_cell_length_b   7.89726591
+_cell_length_c   7.79018074
+_cell_angle_alpha   96.10445639
+_cell_angle_beta   96.10446159
+_cell_angle_gamma   142.20429404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4VBiTe
+_chemical_formula_sum   'Ti8 V2 Bi2 Te2'
+_cell_volume   281.24453485
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.80245038  0.91807768  0.72052806  1
+  Ti  Ti1  1  0.91918508  0.19732943  0.11651451  1
+  Ti  Ti2  1  0.58192232  0.69754962  0.27947194  1
+  Ti  Ti3  1  0.69732943  0.41918508  0.11651451  1
+  Ti  Ti4  1  0.08081492  0.80267057  0.88348549  1
+  Ti  Ti5  1  0.19754962  0.08192232  0.27947194  1
+  Ti  Ti6  1  0.30267057  0.58081492  0.88348549  1
+  Ti  Ti7  1  0.41807768  0.30245038  0.72052806  1
+  V  V0  1  0.25000000  0.25000000  0.00000000  1
+  V  V1  1  0.75000000  0.75000000  0.00000000  1
+  Bi  Bi0  1  0.36056474  0.86056474  0.22113048  1
+  Bi  Bi1  1  0.63943526  0.13943526  0.77886952  1
+  Te  Te0  1  0.85173454  0.64826546  0.50000000  1
+  Te  Te1  1  0.14826546  0.35173454  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 V1 2.571160 1_556
+Ti0 V0 2.571160 1_666
+Ti1 V1 2.586395 1_545
+Ti1 V0 2.586395 1_655
+Ti2 V1 2.571160 1_555
+Ti2 V0 2.571160 1_555
+Ti3 V1 2.586394 1_555
+Ti3 V0 2.586395 1_555
+Ti4 V0 2.586395 1_566
+Ti4 V1 2.586395 1_456
+Ti5 V0 2.571160 1_555
+Ti5 V1 2.571160 1_445
+Ti6 V0 2.586394 1_556
+Ti6 V1 2.586395 1_556
+Ti7 V0 2.571160 1_556
+Ti7 V1 2.571160 1_556
+V0 V1 2.557782 1_445
+V0 V1 2.557782 1_555
+Bi0 Ti5 2.903782 1_565
+Bi0 Ti2 2.903782 1_555
+Bi0 Ti6 2.986704 1_554
+Bi0 Ti4 2.986704 1_554
+Bi0 Ti1 3.143645 1_455
+Bi0 Ti3 3.143645 1_455
+Bi0 Ti3 3.143649 1_565
+Bi0 Ti1 3.143649 1_565
+Bi1 Ti0 2.903782 1_545
+Bi1 Ti7 2.903782 1_555
+Bi1 Ti3 2.986704 1_556
+Bi1 Ti1 2.986704 1_556
+Bi1 Ti4 3.143645 1_655
+Bi1 Ti6 3.143645 1_655
+Bi1 Ti6 3.143649 1_545
+Bi1 Ti4 3.143649 1_545
+Te0 Ti3 2.876435 1_555
+Te0 Ti4 2.876435 1_655
+Te0 Ti0 2.883989 1_555
+Te0 Ti2 2.883989 1_555
+Te0 Ti5 3.099387 1_665
+Te0 Ti7 3.099387 1_555
+Te0 Ti7 3.099387 1_665
+Te0 Ti5 3.099387 1_555
+Te1 Ti6 2.876435 1_555
+Te1 Ti1 2.876435 1_455
+Te1 Ti5 2.883989 1_555
+Te1 Ti7 2.883989 1_555
+Te1 Ti0 3.099387 1_445
+Te1 Ti2 3.099387 1_555
+Te1 Ti2 3.099387 1_445
+Te1 Ti0 3.099387 1_555

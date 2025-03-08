@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_K2Zr(CuTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90484709
+_cell_length_b   7.90484765
+_cell_length_c   6.16380903
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.99660514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zr(CuTe2)2
+_chemical_formula_sum   'K2 Zr1 Cu2 Te4'
+_cell_volume   277.07356379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.00000000  0.24615293  1
+  K  K1  1  0.00000000  0.50000000  0.75384707  1
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te0  1  0.84612109  0.63600613  0.25913722  1
+  Te  Te1  1  0.15387891  0.36399387  0.25913722  1
+  Te  Te2  1  0.63600613  0.84612109  0.74086278  1
+  Te  Te3  1  0.36399387  0.15387891  0.74086278  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te0 3.695780 1_555
+K0 Te1 3.695780 1_545
+K0 Te2 3.708158 1_545
+K0 Te3 3.708158 1_555
+K0 Te2 3.761969 1_544
+K0 Te3 3.761969 1_554
+K0 Te0 3.786938 1_445
+K0 Te1 3.786938 1_655
+K1 Te2 3.695780 1_555
+K1 Te3 3.695780 1_455
+K1 Te0 3.708158 1_455
+K1 Te1 3.708158 1_555
+K1 Te0 3.761969 1_456
+K1 Te1 3.761969 1_556
+K1 Te3 3.786938 1_565
+K1 Te2 3.786938 1_445
+Cu0 Te3 2.664669 1_555
+Cu0 Te2 2.664669 1_445
+Cu0 Te1 2.664669 1_555
+Cu0 Te0 2.664669 1_445
+Cu0 Zr0 3.081905 1_556
+Cu0 Zr0 3.081905 1_555
+Cu1 Te1 2.665811 1_555
+Cu1 Te0 2.665811 1_555
+Cu1 Te2 2.665812 1_554
+Cu1 Te3 2.665812 1_554
+Cu1 Zr0 3.088886 1_665
+Cu1 Zr0 3.088886 1_555
+Te0 Zr0 2.729031 1_665
+Te1 Zr0 2.729031 1_555
+Te2 Zr0 2.729030 1_666
+Te3 Zr0 2.729030 1_556

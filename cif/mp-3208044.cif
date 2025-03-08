@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ba3Sr(MgAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.05635056
+_cell_length_b   9.05635028
+_cell_length_c   7.97828096
+_cell_angle_alpha   90.58746455
+_cell_angle_beta   89.41253414
+_cell_angle_gamma   150.69327493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Sr(MgAs2)2
+_chemical_formula_sum   'Ba3 Sr1 Mg2 As4'
+_cell_volume   320.28056789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.53781487  0.46218513  0.22580508  1
+  Ba  Ba1  1  0.70436407  0.29563593  0.89732848  1
+  Ba  Ba2  1  0.29678399  0.70321601  0.40120930  1
+  Sr  Sr0  1  0.46417982  0.53582018  0.72799115  1
+  Mg  Mg0  1  0.09109831  0.90890169  0.58240210  1
+  Mg  Mg1  1  0.90735749  0.09264251  0.07520854  1
+  As  As0  1  0.05462715  0.94537285  0.91893742  1
+  As  As1  1  0.66613036  0.33386964  0.50440883  1
+  As  As2  1  0.33574449  0.66425551  0.99902181  1
+  As  As3  1  0.94189745  0.05810255  0.43640429  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Mg0 2.753392 1_555
+As0 Mg1 2.854157 1_466
+As0 Sr0 3.183194 1_565
+As0 Sr0 3.183195 1_455
+As0 Ba0 3.363659 1_456
+As0 Ba0 3.363659 1_566
+As0 Ba1 3.486223 1_455
+As0 Ba1 3.486223 1_565
+As1 Mg0 2.710584 1_655
+As1 Mg0 2.710584 1_545
+As1 Ba0 3.178464 1_555
+As1 Ba1 3.212557 1_555
+As1 Ba2 3.335938 1_545
+As1 Ba2 3.335938 1_655
+As2 Mg1 2.684973 1_456
+As2 Mg1 2.684974 1_566
+As2 Sr0 3.104520 1_555
+As2 Ba2 3.273508 1_556
+As2 Ba1 3.353635 1_565
+As2 Ba1 3.353635 1_455
+As3 Mg0 2.873519 1_645
+As3 Mg1 2.950869 1_555
+As3 Sr0 3.291248 1_545
+As3 Sr0 3.291248 1_655
+As3 Ba0 3.291968 1_545
+As3 Ba0 3.291968 1_655
+As3 Ba2 3.436420 1_655
+As3 Ba2 3.436420 1_545

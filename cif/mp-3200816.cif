@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Sr(SiTc2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31857405
+_cell_length_b   7.31857322
+_cell_length_c   4.15987748
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.89775552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(SiTc2)2
+_chemical_formula_sum   'Sr1 Si2 Tc4'
+_cell_volume   121.68394083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.59645734  0.40354266  0.50000000  1
+  Si  Si1  1  0.40354266  0.59645734  0.50000000  1
+  Tc  Tc0  1  0.80571897  0.19428103  0.50000000  1
+  Tc  Tc1  1  0.19428103  0.80571897  0.50000000  1
+  Tc  Tc2  1  0.69862545  0.30137455  0.00000000  1
+  Tc  Tc3  1  0.30137455  0.69862545  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Tc1 3.428796 1_544
+Sr0 Tc0 3.428796 1_454
+Sr0 Tc0 3.428796 1_455
+Sr0 Tc1 3.428796 1_545
+Sr0 Tc3 3.480389 1_555
+Sr0 Tc2 3.480389 1_445
+Sr0 Tc2 3.480390 1_555
+Sr0 Tc3 3.480390 1_445
+Si0 Tc1 2.496083 1_545
+Si0 Tc1 2.496084 1_655
+Si0 Tc2 2.526070 1_556
+Si0 Tc2 2.526070 1_555
+Si0 Si1 2.706722 1_555
+Si0 Tc0 2.936081 1_555
+Si0 Sr0 3.241037 1_665
+Si0 Sr0 3.241037 1_666
+Si0 Sr0 3.241037 1_555
+Si0 Sr0 3.241037 1_556
+Si1 Tc0 2.496083 1_565
+Si1 Tc0 2.496084 1_455
+Si1 Tc3 2.526070 1_555
+Si1 Tc3 2.526070 1_556
+Si1 Tc1 2.936081 1_555
+Si1 Sr0 3.241037 1_555
+Si1 Sr0 3.241037 1_556
+Si1 Sr0 3.241037 1_666
+Si1 Sr0 3.241037 1_665
+Tc0 Tc2 2.565918 1_555
+Tc0 Tc2 2.565918 1_556
+Tc0 Tc1 2.606007 1_655
+Tc0 Tc1 2.606008 1_545
+Tc0 Tc3 2.945581 1_656
+Tc0 Tc3 2.945581 1_655
+Tc0 Tc3 2.945581 1_546
+Tc0 Tc3 2.945581 1_545
+Tc1 Tc3 2.565918 1_556
+Tc1 Tc3 2.565918 1_555
+Tc1 Tc2 2.945581 1_456
+Tc1 Tc2 2.945581 1_455
+Tc1 Tc2 2.945581 1_566
+Tc1 Tc2 2.945581 1_565
+Tc2 Tc3 2.534741 1_545
+Tc2 Tc3 2.534741 1_655

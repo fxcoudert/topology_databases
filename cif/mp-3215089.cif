@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_RbScMnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45298115
+_cell_length_b   8.45298191
+_cell_length_c   11.37898212
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.20416220
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbScMnTe3
+_chemical_formula_sum   'Rb2 Sc2 Mn2 Te6'
+_cell_volume   404.01900736
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74943038  0.25057162  0.25000000  1
+  Rb  Rb1  1  0.25057162  0.74943038  0.75000000  1
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn0  1  0.46400959  0.53599241  0.25000000  1
+  Mn  Mn1  1  0.53599241  0.46400959  0.75000000  1
+  Te  Te0  1  0.37957529  0.62042671  0.04817960  1
+  Te  Te1  1  0.06485576  0.93514624  0.25000000  1
+  Te  Te2  1  0.37957529  0.62042671  0.45181940  1
+  Te  Te3  1  0.62042671  0.37957529  0.54818060  1
+  Te  Te4  1  0.93514624  0.06485576  0.75000000  1
+  Te  Te5  1  0.62042671  0.37957529  0.95182040  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Te1 3.717034 1_545
+Rb0 Te1 3.717035 1_655
+Rb0 Te2 3.810235 1_655
+Rb0 Te2 3.810236 1_545
+Rb0 Te0 3.810242 1_655
+Rb0 Te0 3.810243 1_545
+Rb0 Te5 3.994293 1_554
+Rb0 Te3 3.994303 1_555
+Rb1 Te4 3.717034 1_565
+Rb1 Te4 3.717035 1_455
+Rb1 Te3 3.810235 1_455
+Rb1 Te3 3.810236 1_565
+Rb1 Te5 3.810242 1_455
+Rb1 Te5 3.810243 1_565
+Rb1 Te0 3.994293 1_556
+Rb1 Te2 3.994303 1_555
+Sc0 Te0 2.982362 1_445
+Sc0 Te5 2.982363 1_444
+Sc0 Te5 2.982369 1_554
+Sc0 Te0 2.982369 1_555
+Sc0 Te1 3.035668 1_545
+Sc0 Te4 3.035668 1_454
+Sc1 Te2 2.982364 1_445
+Sc1 Te3 2.982365 1_445
+Sc1 Te3 2.982371 1_555
+Sc1 Te2 2.982371 1_555
+Sc1 Te1 3.035668 1_545
+Sc1 Te4 3.035668 1_455
+Mn0 Te2 2.678959 1_555
+Mn0 Te0 2.678968 1_555
+Mn0 Te1 2.727185 1_655
+Mn0 Te1 2.727186 1_545
+Mn1 Te3 2.678959 1_555
+Mn1 Te5 2.678968 1_555
+Mn1 Te4 2.727185 1_455
+Mn1 Te4 2.727186 1_565

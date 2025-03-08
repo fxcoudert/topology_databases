@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_K2MnS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26852030
+_cell_length_b   6.87276632
+_cell_length_c   7.85217334
+_cell_angle_alpha   115.95305671
+_cell_angle_beta   113.52556781
+_cell_angle_gamma   90.00000495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnS2
+_chemical_formula_sum   'K4 Mn2 S4'
+_cell_volume   272.55776339
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.35273232  0.19396161  0.70546464  1
+  K  K1  1  0.14726768  0.48849597  0.29453536  1
+  K  K2  1  0.64726768  0.80603839  0.29453536  1
+  K  K3  1  0.85273232  0.51150403  0.70546464  1
+  Mn  Mn0  1  0.25000000  -0.00000000  -0.00000000  1
+  Mn  Mn1  1  0.75000000  -0.00000000  -0.00000000  1
+  S  S0  1  0.39671029  0.70159735  0.79341857  1
+  S  S1  1  0.10328971  0.90817678  0.20658143  1
+  S  S2  1  0.60329071  0.29840265  0.20658143  1
+  S  S3  1  0.89670929  0.09182322  0.79341857  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S1 3.166041 1_545
+K0 S0 3.234836 1_555
+K0 S2 3.325553 1_556
+K0 S3 3.337913 1_455
+K0 S3 3.337913 1_555
+K0 Mn0 3.380527 1_556
+K0 Mn1 3.380527 1_556
+K0 S0 3.727910 1_545
+K0 K3 3.819219 1_555
+K0 K3 3.819219 1_455
+K1 S0 3.166040 1_555
+K1 S1 3.234829 1_555
+K1 S3 3.325547 1_454
+K1 S2 3.337915 1_455
+K1 S2 3.337915 1_555
+K1 Mn1 3.380522 1_455
+K1 Mn0 3.380522 1_555
+K1 S1 3.727916 1_545
+K1 K2 3.819219 1_555
+K1 K2 3.819219 1_455
+K2 S3 3.166041 1_565
+K2 S2 3.234836 1_555
+K2 S0 3.325553 1_554
+K2 S1 3.337907 1_655
+K2 S1 3.337919 1_555
+K2 Mn1 3.380527 1_565
+K2 Mn0 3.380527 1_565
+K2 S2 3.727910 1_565
+K3 S2 3.166040 1_555
+K3 S3 3.234829 1_555
+K3 S1 3.325547 1_656
+K3 S0 3.337909 1_555
+K3 S0 3.337921 1_655
+K3 Mn0 3.380522 1_666
+K3 Mn1 3.380522 1_566
+K3 S3 3.727916 1_565
+Mn0 S2 2.441749 1_555
+Mn0 S0 2.441754 1_544
+Mn0 S3 2.441757 1_454
+Mn0 S1 2.441761 1_545
+Mn1 S0 2.441745 1_544
+Mn1 S2 2.441749 1_555
+Mn1 S1 2.441753 1_645
+Mn1 S3 2.441757 1_554

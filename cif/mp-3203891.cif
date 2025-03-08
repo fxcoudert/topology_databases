@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_CsCr(SnSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.77769664
+_cell_length_b   9.77769532
+_cell_length_c   9.77769630
+_cell_angle_alpha   39.44367012
+_cell_angle_beta   39.44367796
+_cell_angle_gamma   39.44367702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCr(SnSe3)2
+_chemical_formula_sum   'Cs1 Cr1 Sn2 Se6'
+_cell_volume   339.60186368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99810208  0.99810208  0.99810208  1
+  Cr  Cr0  1  0.16678631  0.16678631  0.16678631  1
+  Sn  Sn0  1  0.50045804  0.50045804  0.50045804  1
+  Sn  Sn1  1  0.83321031  0.83321031  0.83321031  1
+  Se  Se0  1  0.53790397  0.22329812  0.90549956  1
+  Se  Se1  1  0.90549956  0.53790397  0.22329812  1
+  Se  Se2  1  0.22329812  0.90549956  0.53790397  1
+  Se  Se3  1  0.79293585  0.11232959  0.42947716  1
+  Se  Se4  1  0.11232959  0.42947716  0.79293585  1
+  Se  Se5  1  0.42947716  0.79293585  0.11232959  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se4 3.716046 1_665
+Cs0 Se3 3.716047 1_566
+Cs0 Se5 3.716047 1_656
+Cs0 Se1 3.718328 1_556
+Cs0 Se2 3.718328 1_655
+Cs0 Se0 3.718329 1_565
+Cr0 Se1 2.568610 1_455
+Cr0 Se2 2.568610 1_545
+Cr0 Se0 2.568610 1_554
+Cr0 Se5 2.575915 1_545
+Cr0 Se4 2.575915 1_554
+Cr0 Se3 2.575915 1_455
+Se0 Sn0 2.700611 1_555
+Se0 Sn1 2.717835 1_545
+Se1 Sn0 2.700611 1_555
+Se1 Sn1 2.717835 1_554
+Se2 Sn0 2.700611 1_555
+Se2 Sn1 2.717836 1_455
+Se3 Sn1 2.699643 1_545
+Se3 Sn0 2.702282 1_555
+Se4 Sn1 2.699643 1_455
+Se4 Sn0 2.702282 1_555
+Se5 Sn1 2.699643 1_554
+Se5 Sn0 2.702282 1_555

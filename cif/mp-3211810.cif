@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_Cd3(P5Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49243575
+_cell_length_b   7.49243586
+_cell_length_c   7.49243485
+_cell_angle_alpha   60.85815045
+_cell_angle_beta   60.85815014
+_cell_angle_gamma   60.85815596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3(P5Au)2
+_chemical_formula_sum   'Cd3 P10 Au2'
+_cell_volume   303.16329458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.40045314  0.40045314  0.78633355  1
+  Cd  Cd1  1  0.78633355  0.40045314  0.40045314  1
+  Cd  Cd2  1  0.40045314  0.78633355  0.40045314  1
+  P  P0  1  0.99576719  0.51193340  0.51193340  1
+  P  P1  1  0.51193340  0.51193340  0.99576719  1
+  P  P2  1  0.51193340  0.99576719  0.51193340  1
+  P  P3  1  0.51737253  0.98619550  0.98619550  1
+  P  P4  1  0.98619550  0.51737253  0.98619550  1
+  P  P5  1  0.98619550  0.98619550  0.51737253  1
+  P  P6  1  0.86763194  0.86763194  0.39636258  1
+  P  P7  1  0.86763194  0.39636258  0.86763194  1
+  P  P8  1  0.39636258  0.86763194  0.86763194  1
+  P  P9  1  0.87018745  0.87018745  0.87018745  1
+  Au  Au0  1  0.00335154  0.00335154  0.00335154  1
+  Au  Au1  1  0.39819619  0.39819619  0.39819619  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 P4 2.597327 1_455
+Cd0 P3 2.597327 1_545
+Cd0 P1 2.662726 1_555
+Cd1 P4 2.597327 1_554
+Cd1 P5 2.597327 1_545
+Cd1 P0 2.662726 1_555
+Cd2 P3 2.597327 1_554
+Cd2 P5 2.597327 1_455
+Cd2 P2 2.662727 1_555
+P0 P7 2.200942 1_555
+P0 P6 2.200942 1_555
+P1 P7 2.200942 1_555
+P1 P8 2.200942 1_555
+P2 P8 2.200942 1_555
+P2 P6 2.200942 1_555
+P3 P8 2.176630 1_555
+P3 P9 2.181512 1_555
+P4 P7 2.176630 1_555
+P4 P9 2.181512 1_555
+P5 P6 2.176630 1_555
+P5 P9 2.181512 1_555
+Au0 P9 2.427943 1_444
+Au0 P6 2.431730 1_445
+Au0 P8 2.431730 1_544
+Au0 P7 2.431730 1_454
+Au1 P1 2.499187 1_554
+Au1 P0 2.499187 1_455
+Au1 P2 2.499187 1_545
+Au1 Cd0 2.924662 1_555
+Au1 Cd1 2.924663 1_555
+Au1 Cd2 2.924663 1_555

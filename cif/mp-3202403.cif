@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca2Hg(BrO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32334048
+_cell_length_b   6.32334096
+_cell_length_c   8.17202235
+_cell_angle_alpha   124.88204961
+_cell_angle_beta   124.88205200
+_cell_angle_gamma   34.75906341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Hg(BrO)2
+_chemical_formula_sum   'Ca2 Hg1 Br2 O2'
+_cell_volume   149.13877959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.81975364  0.81975364  0.22592392  1
+  Ca  Ca1  1  0.18024636  0.18024636  0.77407608  1
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br0  1  0.57882586  0.57882586  0.38280851  1
+  Br  Br1  1  0.42117414  0.42117414  0.61719049  1
+  O  O0  1  0.19200938  0.19200938  0.06962530  1
+  O  O1  1  0.80799062  0.80799062  0.93037470  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 O0 2.283825 1_565
+Ca0 O0 2.283826 1_655
+Ca0 O1 2.332929 1_554
+Ca1 O1 2.283825 1_545
+Ca1 O1 2.283826 1_455
+Ca1 O0 2.332929 1_556
+Hg0 O0 2.028274 1_555
+Hg0 O1 2.028274 1_444
+Br0 Ca0 3.191194 1_455
+Br0 Ca0 3.191194 1_545
+Br0 Ca1 3.255568 1_655
+Br0 Ca1 3.255568 1_565
+Br1 Ca1 3.191192 1_655
+Br1 Ca1 3.191193 1_565
+Br1 Ca0 3.255562 1_455
+Br1 Ca0 3.255562 1_545

@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_La3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25625374
+_cell_length_b   7.25625374
+_cell_length_c   5.43059000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Ag
+_chemical_formula_sum   'La6 Ag2'
+_cell_volume   247.62961331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.17685000  0.35370000  0.25000000  1
+  La  La1  1  0.64630000  0.82315000  0.25000000  1
+  La  La2  1  0.17685000  0.82315000  0.25000000  1
+  La  La3  1  0.82315000  0.64630000  0.75000000  1
+  La  La4  1  0.35370000  0.17685000  0.75000000  1
+  La  La5  1  0.82315000  0.17685000  0.75000000  1
+  Ag  Ag0  1  0.33333300  0.66666700  0.75000000  1
+  Ag  Ag1  1  0.66666700  0.33333300  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+La0 La2 3.406448 1_555
+La0 La1 3.406448 1_555
+La0 La4 3.509011 1_555
+La0 La4 3.509011 1_554
+La0 La5 3.509011 1_454
+La0 La5 3.509011 1_455
+La0 La2 3.849805 1_545
+La0 La1 3.849806 1_445
+La1 La2 3.406448 1_555
+La1 La3 3.509011 1_555
+La1 La3 3.509011 1_554
+La1 La5 3.509011 1_565
+La1 La5 3.509011 1_564
+La1 La2 3.849805 1_655
+La2 La4 3.509011 1_564
+La2 La3 3.509011 1_455
+La2 La3 3.509011 1_454
+La2 La4 3.509011 1_565
+La3 La5 3.406448 1_555
+La3 La4 3.406448 1_555
+La3 La5 3.849805 1_565
+La3 La4 3.849806 1_665
+La4 La5 3.406448 1_555
+La4 La5 3.849805 1_455
+Ag0 La2 3.352726 1_556
+Ag0 La2 3.352726 1_555
+Ag0 La1 3.352730 1_556
+Ag0 La0 3.352730 1_555
+Ag0 La0 3.352730 1_556
+Ag0 La1 3.352730 1_555
+Ag0 La4 3.630380 1_565
+Ag0 La3 3.630380 1_455
+Ag0 La5 3.630384 1_455
+Ag0 La5 3.630384 1_565
+Ag0 La4 3.630387 1_555
+Ag0 La3 3.630387 1_555
+Ag1 La5 3.352726 1_554
+Ag1 La5 3.352726 1_555
+Ag1 La4 3.352730 1_555
+Ag1 La4 3.352730 1_554
+Ag1 La3 3.352730 1_555
+Ag1 La3 3.352730 1_554
+Ag1 La1 3.630380 1_545
+Ag1 La0 3.630380 1_655
+Ag1 La2 3.630384 1_545
+Ag1 La2 3.630384 1_655
+Ag1 La0 3.630387 1_555
+Ag1 La1 3.630387 1_555

@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Lu12InCo4Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11165359
+_cell_length_b   8.11165380
+_cell_length_c   8.11165361
+_cell_angle_alpha   111.24392400
+_cell_angle_beta   110.31061700
+_cell_angle_gamma   106.89097403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12InCo4Ag
+_chemical_formula_sum   'Lu12 In1 Co4 Ag1'
+_cell_volume   410.22176801
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.42954749  0.22201125  0.20753625  1
+  Lu  Lu1  1  0.57045251  0.77798875  0.79246375  1
+  Lu  Lu2  1  0.01447400  0.22201125  0.79246375  1
+  Lu  Lu3  1  0.98552600  0.77798875  0.20753625  1
+  Lu  Lu4  1  0.18800273  0.29196924  0.47997097  1
+  Lu  Lu5  1  0.81199727  0.70803076  0.52002903  1
+  Lu  Lu6  1  0.18800273  0.70803076  0.89603450  1
+  Lu  Lu7  1  0.81199727  0.29196924  0.10396550  1
+  Lu  Lu8  1  0.31494555  0.61636139  0.30141583  1
+  Lu  Lu9  1  0.68505445  0.38363861  0.69858417  1
+  Lu  Lu10  1  0.31494555  0.01352972  0.69858417  1
+  Lu  Lu11  1  0.68505445  0.98647028  0.30141583  1
+  In  In0  1  0.50000000  0.50000000  0.00000000  1
+  Co  Co0  1  0.38053788  0.00000000  0.38053788  1
+  Co  Co1  1  0.61946212  1.00000000  0.61946212  1
+  Co  Co2  1  0.11236104  0.61236104  0.50000000  1
+  Co  Co3  1  0.88763896  0.38763896  0.50000000  1
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Lu11 3.289525 1_555
+In0 Lu10 3.289525 1_554
+In0 Lu8 3.289525 1_555
+In0 Lu9 3.289525 1_554
+In0 Lu1 3.303852 1_554
+In0 Lu0 3.303852 1_555
+In0 Lu2 3.303859 1_554
+In0 Lu3 3.303859 1_555
+In0 Lu6 3.463395 1_554
+In0 Lu7 3.463395 1_555
+In0 Lu4 3.463403 1_554
+In0 Lu5 3.463403 1_555
+Co0 Co1 2.214649 1_545
+Co0 Lu3 2.678282 1_445
+Co0 Lu0 2.678289 1_555
+Co0 Lu9 2.780754 1_555
+Co0 Lu10 2.780755 1_555
+Co0 Lu11 2.780755 1_545
+Co0 Lu8 2.780755 1_545
+Co0 Lu6 3.215332 1_544
+Co0 Lu4 3.215337 1_555
+Co1 Lu2 2.678282 1_665
+Co1 Lu1 2.678289 1_555
+Co1 Lu8 2.780754 1_555
+Co1 Lu11 2.780755 1_555
+Co1 Lu10 2.780755 1_565
+Co1 Lu9 2.780755 1_565
+Co1 Lu7 3.215332 1_566
+Co1 Lu5 3.215337 1_555
+Co2 Co3 2.171354 1_455
+Co2 Lu10 2.672238 1_565
+Co2 Lu8 2.672238 1_555
+Co2 Lu4 2.801260 1_555
+Co2 Lu5 2.801264 1_455
+Co2 Lu7 2.801266 1_455
+Co2 Lu6 2.801270 1_555
+Co2 Lu3 3.148052 1_455
+Co2 Lu1 3.148053 1_555
+Co3 Lu11 2.672238 1_545
+Co3 Lu9 2.672238 1_555
+Co3 Lu5 2.801260 1_555
+Co3 Lu4 2.801264 1_655
+Co3 Lu6 2.801266 1_655
+Co3 Lu7 2.801270 1_555
+Co3 Lu2 3.148052 1_655
+Co3 Lu0 3.148053 1_555
+Ag0 Lu3 2.881381 1_445
+Ag0 Lu2 2.881381 1_554
+Ag0 Lu0 2.881381 1_555
+Ag0 Lu1 2.881381 1_444
+Ag0 Lu4 3.192205 1_555
+Ag0 Lu5 3.192205 1_444
+Ag0 Lu7 3.192210 1_455
+Ag0 Lu6 3.192210 1_544

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaTcNiP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49539919
+_cell_length_b   6.49539998
+_cell_length_c   6.49539978
+_cell_angle_alpha   145.92999455
+_cell_angle_beta   145.93000312
+_cell_angle_gamma   48.95074299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTcNiP2
+_chemical_formula_sum   'Na1 Tc1 Ni1 P2'
+_cell_volume   85.62288543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc0  1  0.75000000  0.25000000  0.50000000  1
+  Ni  Ni0  1  0.25000000  0.75000000  0.50000000  1
+  P  P0  1  0.64361678  0.64361678  1.00000000  1
+  P  P1  1  0.35638322  0.35638322  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 P1 3.182003 1_455
+Na0 P0 3.182003 1_544
+Na0 P0 3.182003 1_454
+Na0 P1 3.182003 1_545
+Na0 P0 3.182004 1_443
+Na0 P1 3.182004 1_556
+Na0 P0 3.182004 1_555
+Na0 P1 3.182004 1_444
+Ni0 P0 2.281007 1_454
+Ni0 P0 2.281007 1_555
+Ni0 P1 2.281008 1_555
+Ni0 P1 2.281008 1_566
+P0 Tc0 2.281008 1_555
+P0 Tc0 2.281008 1_566
+P1 Tc0 2.281007 1_454
+P1 Tc0 2.281007 1_555

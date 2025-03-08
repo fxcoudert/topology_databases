@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_SrCaP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83321822
+_cell_length_b   7.83321914
+_cell_length_c   5.94530293
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaP2
+_chemical_formula_sum   'Sr3 Ca3 P6'
+_cell_volume   315.92583265
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.00000000  0.63883679  0.50000000  1
+  Sr  Sr1  1  0.36116321  0.36116321  0.50000000  1
+  Sr  Sr2  1  0.63883679  0.00000000  0.50000000  1
+  Ca  Ca0  1  0.00000000  0.30779036  0.00000000  1
+  Ca  Ca1  1  0.69220964  0.69220964  0.00000000  1
+  Ca  Ca2  1  0.30779036  0.00000000  0.00000000  1
+  P  P0  1  0.66666700  0.33333300  0.18960455  1
+  P  P1  1  0.66666700  0.33333300  0.81039545  1
+  P  P2  1  0.33333300  0.66666700  0.81039545  1
+  P  P3  1  0.33333300  0.66666700  0.18960455  1
+  P  P4  1  0.00000000  0.00000000  0.69291051  1
+  P  P5  1  0.00000000  0.00000000  0.30708949  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 P0 2.941233 1_455
+Ca0 P1 2.941233 1_454
+Ca0 P3 2.941237 1_555
+Ca0 P2 2.941237 1_554
+Ca0 P5 3.024268 1_555
+Ca0 P4 3.024268 1_554
+Ca1 P3 2.941240 1_555
+Ca1 P2 2.941240 1_554
+Ca1 P0 2.941241 1_555
+Ca1 P1 2.941241 1_554
+Ca1 P5 3.024268 1_665
+Ca1 P4 3.024268 1_664
+Ca2 P3 2.941233 1_545
+Ca2 P2 2.941233 1_544
+Ca2 P0 2.941237 1_555
+Ca2 P1 2.941237 1_554
+Ca2 P5 3.024268 1_555
+Ca2 P4 3.024268 1_554
+P0 P1 2.254513 1_554
+P0 Sr2 3.114720 1_555
+P0 Sr0 3.114723 1_555
+P0 Sr1 3.114726 1_555
+P1 Sr2 3.114720 1_555
+P1 Sr0 3.114723 1_555
+P1 Sr1 3.114726 1_555
+P2 P3 2.254513 1_556
+P2 Sr0 3.114720 1_455
+P2 Sr2 3.114723 1_565
+P2 Sr1 3.114726 1_555
+P3 Sr0 3.114720 1_455
+P3 Sr2 3.114723 1_565
+P3 Sr1 3.114726 1_555
+P4 P5 2.293823 1_555
+P4 Sr2 3.052711 1_455
+P4 Sr1 3.052711 1_555
+P4 Sr0 3.052711 1_445
+P5 Sr2 3.052711 1_455
+P5 Sr1 3.052711 1_555
+P5 Sr0 3.052711 1_445

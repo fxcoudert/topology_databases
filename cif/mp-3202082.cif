@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_K2TiMoN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83522152
+_cell_length_b   5.83522166
+_cell_length_c   5.83522114
+_cell_angle_alpha   120.94436880
+_cell_angle_beta   120.94437851
+_cell_angle_gamma   88.37192390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TiMoN4
+_chemical_formula_sum   'K2 Ti1 Mo1 N4'
+_cell_volume   138.42768162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.75000000  0.50000000  1
+  K  K1  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.75000000  0.25000000  0.50000000  1
+  N  N0  1  0.76807649  0.12920900  0.14966604  1
+  N  N1  1  0.97954396  0.61841145  0.85033396  1
+  N  N2  1  0.38158855  0.23192351  0.36113251  1
+  N  N3  1  0.87079100  0.02045604  0.63886749  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 N3 2.893786 1_465
+K0 N2 2.893786 1_555
+K0 N0 2.893789 1_566
+K0 N1 2.893791 1_454
+K1 N1 2.870026 1_454
+K1 N2 2.870027 1_554
+K1 N3 2.870028 1_565
+K1 N0 2.870029 1_555
+Mo0 N0 1.850053 1_555
+Mo0 N1 1.850058 1_555
+Mo0 N3 1.850059 1_555
+Mo0 N2 1.850059 1_555
+N0 Ti0 1.908664 1_655
+N1 Ti0 1.908659 1_666
+N2 Ti0 1.908661 1_555
+N3 Ti0 1.908660 1_656

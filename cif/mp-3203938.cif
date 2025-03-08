@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_MnInCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76777348
+_cell_length_b   9.16313121
+_cell_length_c   14.73282379
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInCl3
+_chemical_formula_sum   'Mn4 In4 Cl12'
+_cell_volume   508.64488952
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25000000  0.16048814  0.94558555  1
+  Mn  Mn1  1  0.25000000  0.66048814  0.55441445  1
+  Mn  Mn2  1  0.75000000  0.33951186  0.44558555  1
+  Mn  Mn3  1  0.75000000  0.83951186  0.05441445  1
+  In  In0  1  0.75000000  0.52322437  0.82437347  1
+  In  In1  1  0.25000000  0.97677563  0.32437347  1
+  In  In2  1  0.25000000  0.47677563  0.17562653  1
+  In  In3  1  0.75000000  0.02322437  0.67562653  1
+  Cl  Cl0  1  0.25000000  0.52136811  0.40167403  1
+  Cl  Cl1  1  0.25000000  0.67818814  0.99992324  1
+  Cl  Cl2  1  0.75000000  0.47863189  0.59832597  1
+  Cl  Cl3  1  0.75000000  0.72942097  0.20606511  1
+  Cl  Cl4  1  0.25000000  0.27057903  0.79393489  1
+  Cl  Cl5  1  0.75000000  0.97863189  0.90167403  1
+  Cl  Cl6  1  0.25000000  0.02136811  0.09832597  1
+  Cl  Cl7  1  0.75000000  0.22942097  0.29393489  1
+  Cl  Cl8  1  0.75000000  0.32181186  0.00007676  1
+  Cl  Cl9  1  0.25000000  0.77057903  0.70606511  1
+  Cl  Cl10  1  0.75000000  0.82181186  0.49992324  1
+  Cl  Cl11  1  0.25000000  0.17818814  0.50007676  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Mn1 2.586289 1_555
+Cl0 Mn2 2.596991 1_555
+Cl0 Mn2 2.596991 1_455
+Cl1 Mn3 2.525608 1_556
+Cl1 Mn3 2.525608 1_456
+Cl1 In2 3.179152 1_556
+Cl2 Mn2 2.586289 1_555
+Cl2 Mn1 2.596991 1_655
+Cl2 Mn1 2.596991 1_555
+Cl3 Mn3 2.451422 1_555
+Cl3 In2 3.018189 1_555
+Cl3 In2 3.018189 1_655
+Cl4 Mn0 2.451422 1_555
+Cl4 In0 3.018189 1_555
+Cl4 In0 3.018189 1_455
+Cl5 Mn3 2.586289 1_556
+Cl5 Mn0 2.596991 1_565
+Cl5 Mn0 2.596991 1_665
+Cl6 Mn0 2.586289 1_554
+Cl6 Mn3 2.596991 1_545
+Cl6 Mn3 2.596991 1_445
+Cl7 Mn2 2.451422 1_555
+Cl7 In1 3.018189 1_545
+Cl7 In1 3.018189 1_645
+Cl8 Mn0 2.525608 1_554
+Cl8 Mn0 2.525608 1_654
+Cl8 In0 3.179152 1_554
+Cl9 Mn1 2.451422 1_555
+Cl9 In3 3.018189 1_465
+Cl9 In3 3.018189 1_565
+Cl10 Mn1 2.525608 1_655
+Cl10 Mn1 2.525608 1_555
+Cl10 In3 3.179152 1_565
+Cl11 Mn2 2.525608 1_555
+Cl11 Mn2 2.525608 1_455
+Cl11 In1 3.179152 1_545

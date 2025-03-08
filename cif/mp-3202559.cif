@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InSiAgTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37446261
+_cell_length_b   7.37446301
+_cell_length_c   7.37446256
+_cell_angle_alpha   130.52765703
+_cell_angle_beta   130.52765437
+_cell_angle_gamma   72.56462252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSiAgTe4
+_chemical_formula_sum   'In1 Si1 Ag1 Te4'
+_cell_volume   226.41934790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si0  1  0.75000000  0.25000000  0.50000000  1
+  Ag  Ag0  1  0.25000000  0.75000000  0.50000000  1
+  Te  Te0  1  0.08047390  0.12043522  0.44389515  1
+  Te  Te1  1  0.67653907  0.63657775  0.55610485  1
+  Te  Te2  1  0.36342225  0.91952610  0.03996032  1
+  Te  Te3  1  0.87956478  0.32346093  0.96003968  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Te3 2.829536 1_554
+In0 Te0 2.829539 1_554
+In0 Te2 2.829542 1_555
+In0 Te1 2.829546 1_555
+Si0 Te1 2.534687 1_555
+Si0 Te2 2.534690 1_545
+Si0 Te0 2.534694 1_655
+Si0 Te3 2.534697 1_555
+Ag0 Te2 2.818982 1_556
+Ag0 Te1 2.818987 1_555
+Ag0 Te3 2.818989 1_454
+Ag0 Te0 2.818993 1_565

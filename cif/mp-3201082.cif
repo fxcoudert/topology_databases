@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_RbCu(AuSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16307003
+_cell_length_b   5.56656585
+_cell_length_c   6.07001605
+_cell_angle_alpha   88.33880040
+_cell_angle_beta   90.00000001
+_cell_angle_gamma   123.61291435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCu(AuSe)2
+_chemical_formula_sum   'Rb1 Cu1 Au2 Se2'
+_cell_volume   173.32048588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au0  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.34504322  0.69008843  0.71196799  1
+  Se  Se1  1  0.65495678  0.30991157  0.28803201  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Se0 3.489473 1_555
+Rb0 Se1 3.489473 1_445
+Rb0 Se1 3.617552 1_455
+Rb0 Se0 3.617552 1_545
+Rb0 Se0 3.617562 1_445
+Rb0 Se1 3.617562 1_555
+Cu0 Se1 2.301243 1_555
+Cu0 Se0 2.301243 1_544
+Au0 Se1 2.469814 1_455
+Au0 Se0 2.469814 1_554
+Au0 Cu0 2.783283 1_565
+Au0 Cu0 2.783283 1_455
+Au1 Se0 2.469822 1_554
+Au1 Se1 2.469822 1_555
+Au1 Cu0 2.783283 1_565
+Au1 Cu0 2.783283 1_555

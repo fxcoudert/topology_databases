@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ZrAs2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72384312
+_cell_length_b   5.72384293
+_cell_length_c   6.85974536
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAs2(ClO3)2
+_chemical_formula_sum   'Zr1 As2 Cl2 O6'
+_cell_volume   194.63192363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  As  As0  1  0.33333400  0.66666800  0.24223812  1
+  As  As1  1  0.66666700  0.33333400  0.75776188  1
+  Cl  Cl0  1  0.66666700  0.33333400  0.44879487  1
+  Cl  Cl1  1  0.33333400  0.66666800  0.55120513  1
+  O  O0  1  0.17204019  0.34408038  0.17207003  1
+  O  O1  1  0.17204019  0.82795981  0.17207003  1
+  O  O2  1  0.65591962  0.82795981  0.17207003  1
+  O  O3  1  0.34408038  0.17203919  0.82792997  1
+  O  O4  1  0.82795981  0.17203919  0.82792997  1
+  O  O5  1  0.82795981  0.65591862  0.82792997  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 O1 1.669928 1_555
+As0 O2 1.669928 1_555
+As0 O0 1.669938 1_555
+As0 Cl1 2.119435 1_555
+As1 O5 1.669923 1_555
+As1 O3 1.669933 1_555
+As1 O4 1.669938 1_555
+As1 Cl0 2.119435 1_555
+O0 Zr0 2.074205 1_555
+O1 Zr0 2.074205 1_565
+O2 Zr0 2.074205 1_665
+O3 Zr0 2.074205 1_556
+O4 Zr0 2.074201 1_656
+O5 Zr0 2.074209 1_666

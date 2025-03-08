@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_TaAs(Cl2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72972755
+_cell_length_b   8.72972755
+_cell_length_c   6.58205537
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAs(Cl2F3)2
+_chemical_formula_sum   'Ta2 As2 Cl8 F12'
+_cell_volume   501.60621670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.00000000  0.67803289  1
+  Ta  Ta1  1  0.00000000  0.50000000  0.32196711  1
+  As  As0  1  0.50000000  0.50000000  0.00000000  1
+  As  As1  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl0  1  0.46192931  0.69055121  0.18065940  1
+  Cl  Cl1  1  0.19055121  0.03807069  0.18065940  1
+  Cl  Cl2  1  0.69055121  0.53807069  0.81934060  1
+  Cl  Cl3  1  0.03807069  0.80944879  0.81934060  1
+  Cl  Cl4  1  0.96192931  0.19055121  0.81934060  1
+  Cl  Cl5  1  0.30944879  0.46192931  0.81934060  1
+  Cl  Cl6  1  0.53807069  0.30944879  0.18065940  1
+  Cl  Cl7  1  0.80944879  0.96192931  0.18065940  1
+  F  F0  1  0.50000000  0.00000000  0.38579925  1
+  F  F1  1  0.00000000  0.50000000  0.61420075  1
+  F  F2  1  0.44003918  0.78894006  0.67815173  1
+  F  F3  1  0.28894006  0.05996082  0.67815173  1
+  F  F4  1  0.71105994  0.94003918  0.67815173  1
+  F  F5  1  0.55996082  0.21105994  0.67815173  1
+  F  F6  1  0.05996082  0.71105994  0.32184827  1
+  F  F7  1  0.21105994  0.44003918  0.32184827  1
+  F  F8  1  0.78894006  0.55996082  0.32184827  1
+  F  F9  1  0.00000000  0.50000000  0.03371453  1
+  F  F10  1  0.50000000  0.00000000  0.96628547  1
+  F  F11  1  0.94003918  0.28894006  0.32184827  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Cl0 2.071603 1_555
+As0 Cl2 2.071603 1_554
+As0 Cl6 2.071603 1_555
+As0 Cl5 2.071603 1_554
+As1 Cl1 2.071603 1_555
+As1 Cl4 2.071603 1_454
+As1 Cl7 2.071603 1_445
+As1 Cl3 2.071603 1_544
+F0 Ta0 1.923498 1_555
+F1 Ta1 1.923498 1_555
+F2 Ta0 1.915407 1_565
+F3 Ta0 1.915407 1_555
+F4 Ta0 1.915407 1_565
+F5 Ta0 1.915407 1_555
+F6 Ta1 1.915407 1_555
+F7 Ta1 1.915407 1_555
+F8 Ta1 1.915407 1_655
+F9 Ta1 1.897294 1_555
+F10 Ta0 1.897294 1_555
+F11 Ta1 1.915407 1_655

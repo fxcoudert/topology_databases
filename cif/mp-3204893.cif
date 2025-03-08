@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_NaSiGe2As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74807225
+_cell_length_b   8.56235400
+_cell_length_c   10.55564420
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSiGe2As3
+_chemical_formula_sum   'Na2 Si2 Ge4 As6'
+_cell_volume   338.75512612
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.63182728  0.49974760  1
+  Na  Na1  1  0.00000000  0.36817272  0.99974760  1
+  Si  Si0  1  0.50000000  0.81710247  0.91533733  1
+  Si  Si1  1  0.50000000  0.18289753  0.41533733  1
+  Ge  Ge0  1  0.00000000  0.28751248  0.71891089  1
+  Ge  Ge1  1  0.00000000  0.71248752  0.21891089  1
+  Ge  Ge2  1  0.00000000  0.00311454  0.64785282  1
+  Ge  Ge3  1  0.00000000  0.99688546  0.14785282  1
+  As  As0  1  0.00000000  0.76596922  0.78206881  1
+  As  As1  1  0.00000000  0.23403078  0.28206881  1
+  As  As2  1  0.50000000  0.93171567  0.50516117  1
+  As  As3  1  0.50000000  0.06828433  0.00516117  1
+  As  As4  1  0.50000000  0.37119054  0.57735038  1
+  As  As5  1  0.50000000  0.62880946  0.07735038  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ge2 2.548016 1_555
+Ge0 Na1 3.043801 1_555
+Ge1 Ge3 2.548016 1_555
+Ge1 Na0 3.043801 1_555
+As0 Si0 2.383821 1_455
+As0 Si0 2.383821 1_555
+As0 Ge2 2.475916 1_565
+As0 Na0 3.193760 1_555
+As1 Si1 2.383821 1_455
+As1 Si1 2.383821 1_555
+As1 Ge3 2.475916 1_545
+As1 Na1 3.193760 1_554
+As2 Si1 2.350432 1_565
+As2 Ge2 2.480806 1_565
+As2 Ge2 2.480806 1_665
+As2 Na0 3.179406 1_655
+As2 Na0 3.179406 1_555
+As3 Si0 2.350432 1_544
+As3 Ge3 2.480806 1_545
+As3 Ge3 2.480806 1_645
+As3 Na1 3.179406 1_554
+As3 Na1 3.179406 1_654
+As4 Si1 2.350300 1_555
+As4 Ge0 2.501635 1_655
+As4 Ge0 2.501635 1_555
+As4 Na0 3.027101 1_555
+As4 Na0 3.027101 1_655
+As5 Si0 2.350300 1_554
+As5 Ge1 2.501635 1_655
+As5 Ge1 2.501635 1_555
+As5 Na1 3.027101 1_654
+As5 Na1 3.027101 1_554

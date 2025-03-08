@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ta2CdF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13829307
+_cell_length_b   5.69754851
+_cell_length_c   8.97489266
+_cell_angle_alpha   105.23719693
+_cell_angle_beta   90.00629261
+_cell_angle_gamma   117.97614764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2CdF12
+_chemical_formula_sum   'Ta2 Cd1 F12'
+_cell_volume   221.52503327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.77831960  0.51823206  0.27754388  1
+  Ta  Ta1  1  0.22168040  0.48176794  0.72245612  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  F  F0  1  0.81160877  0.25738844  0.70685546  1
+  F  F1  1  0.18839123  0.74261156  0.29314454  1
+  F  F2  1  0.20412331  0.72814635  0.92236246  1
+  F  F3  1  0.71544177  0.73264124  0.45318259  1
+  F  F4  1  0.28455823  0.26735876  0.54681741  1
+  F  F5  1  0.80350118  0.27403755  0.37268623  1
+  F  F6  1  0.19649882  0.72596245  0.62731377  1
+  F  F7  1  0.34751738  0.27813481  0.21001002  1
+  F  F8  1  0.65248262  0.72186519  0.78998998  1
+  F  F9  1  0.73768704  0.72710328  0.14332274  1
+  F  F10  1  0.26231296  0.27289672  0.85667726  1
+  F  F11  1  0.79587669  0.27185365  0.07763754  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 F11 2.222998 1_455
+Cd0 F2 2.222998 1_544
+Cd0 F9 2.230304 1_445
+Cd0 F10 2.230304 1_554
+Cd0 F7 2.242040 1_555
+Cd0 F8 2.242040 1_444
+F0 Ta1 1.863404 1_655
+F1 Ta0 1.863404 1_455
+F2 Ta1 1.998155 1_555
+F3 Ta0 1.854661 1_555
+F4 Ta1 1.854661 1_555
+F5 Ta0 1.864124 1_555
+F6 Ta1 1.864124 1_555
+F7 Ta0 1.965084 1_555
+F8 Ta1 1.965084 1_555
+F9 Ta0 1.974211 1_555
+F10 Ta1 1.974211 1_555
+F11 Ta0 1.998155 1_555

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Li2B2OsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70399672
+_cell_length_b   5.99631339
+_cell_length_c   5.47468150
+_cell_angle_alpha   71.36058122
+_cell_angle_beta   57.94339765
+_cell_angle_gamma   51.43542618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2B2OsRu
+_chemical_formula_sum   'Li4 B4 Os2 Ru2'
+_cell_volume   145.82129373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12500000  0.62500000  0.62500000  1
+  Li  Li1  1  0.62500000  0.62500000  0.62500000  1
+  Li  Li2  1  0.62500000  0.62500000  0.12500000  1
+  Li  Li3  1  0.62500000  0.12500000  0.62500000  1
+  B  B0  1  0.43714437  0.06018488  0.42907810  1
+  B  B1  1  0.18981512  0.81285563  0.17640634  1
+  B  B2  1  0.06018488  0.43714437  0.07359366  1
+  B  B3  1  0.81285563  0.18981512  0.82092190  1
+  Os  Os0  1  0.38435438  0.38435438  0.11564562  1
+  Os  Os1  1  0.86564562  0.86564562  0.13435438  1
+  Ru  Ru0  1  0.13863351  0.13863351  0.86136649  1
+  Ru  Ru1  1  0.11136649  0.11136649  0.38863351  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Os1 2.679296 1_456
+Li0 Os0 2.679296 1_555
+Li0 Ru1 2.751205 1_565
+Li0 Ru0 2.751205 1_555
+Li1 Ru0 2.709223 1_565
+Li1 Ru1 2.709223 1_655
+Li1 Os1 2.779378 1_555
+Li1 Os0 2.779378 1_556
+Li2 Ru1 2.709223 1_565
+Li2 Ru0 2.709223 1_654
+Li2 Os1 2.779378 1_555
+Li2 Os0 2.779378 1_555
+Li3 Os0 2.679296 1_556
+Li3 Os1 2.679296 1_545
+Li3 Ru1 2.751205 1_655
+Li3 Ru0 2.751205 1_555
+B0 Os1 2.078781 1_545
+B0 Ru0 2.082682 1_555
+B0 Os0 2.122019 1_555
+B0 Ru1 2.132448 1_555
+B0 Li1 2.256853 1_545
+B0 Li3 2.279965 1_555
+B1 Os0 2.078779 1_555
+B1 Ru1 2.082686 1_565
+B1 Os1 2.122016 1_455
+B1 Ru0 2.132444 1_564
+B1 Li2 2.256855 1_555
+B1 Li0 2.279970 1_555
+B2 Os1 2.078779 1_455
+B2 Ru0 2.082686 1_554
+B2 Os0 2.122016 1_555
+B2 Ru1 2.132444 1_555
+B2 Li2 2.256855 1_455
+B2 Li0 2.279970 1_554
+B3 Os0 2.078781 1_556
+B3 Ru1 2.082682 1_655
+B3 Os1 2.122019 1_546
+B3 Ru0 2.132448 1_655
+B3 Li1 2.256853 1_555
+B3 Li3 2.279965 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CdRuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46151549
+_cell_length_b   6.46151602
+_cell_length_c   11.74534090
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdRuCl6
+_chemical_formula_sum   'Cd2 Ru2 Cl12'
+_cell_volume   424.68318246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.25000000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.75000000  1
+  Ru  Ru0  1  0.33333300  0.66666700  0.25000000  1
+  Ru  Ru1  1  0.66666700  0.33333300  0.75000000  1
+  Cl  Cl0  1  0.63168726  0.95372427  0.13294155  1
+  Cl  Cl1  1  0.04627573  0.67796499  0.13294155  1
+  Cl  Cl2  1  0.32203501  0.36831274  0.13294155  1
+  Cl  Cl3  1  0.04627573  0.36831274  0.36705845  1
+  Cl  Cl4  1  0.36831274  0.32203501  0.63294155  1
+  Cl  Cl5  1  0.67796499  0.04627573  0.63294155  1
+  Cl  Cl6  1  0.95372427  0.63168726  0.63294155  1
+  Cl  Cl7  1  0.67796499  0.63168726  0.86705845  1
+  Cl  Cl8  1  0.95372427  0.32203501  0.86705845  1
+  Cl  Cl9  1  0.36831274  0.04627573  0.86705845  1
+  Cl  Cl10  1  0.63168726  0.67796499  0.36705845  1
+  Cl  Cl11  1  0.32203501  0.95372427  0.36705845  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Cl11 2.632831 1_545
+Cd0 Cl1 2.632831 1_545
+Cd0 Cl10 2.632837 1_445
+Cd0 Cl2 2.632837 1_555
+Cd0 Cl0 2.632842 1_445
+Cd0 Cl3 2.632842 1_555
+Cd1 Cl5 2.632831 1_455
+Cd1 Cl8 2.632831 1_455
+Cd1 Cl4 2.632837 1_555
+Cd1 Cl7 2.632837 1_445
+Cd1 Cl9 2.632842 1_555
+Cd1 Cl6 2.632842 1_445
+Cl0 Ru0 2.339108 1_555
+Cl1 Ru0 2.339110 1_555
+Cl2 Ru0 2.339105 1_555
+Cl3 Ru0 2.339108 1_555
+Cl4 Ru1 2.339105 1_555
+Cl5 Ru1 2.339111 1_555
+Cl6 Ru1 2.339108 1_555
+Cl7 Ru1 2.339105 1_555
+Cl8 Ru1 2.339110 1_555
+Cl9 Ru1 2.339108 1_555
+Cl10 Ru0 2.339105 1_555
+Cl11 Ru0 2.339111 1_555

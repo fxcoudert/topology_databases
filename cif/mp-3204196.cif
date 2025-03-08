@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_KVPSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93343066
+_cell_length_b   9.93343096
+_cell_length_c   6.77089558
+_cell_angle_alpha   82.91912926
+_cell_angle_beta   82.91912730
+_cell_angle_gamma   42.96796922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KVPSe5
+_chemical_formula_sum   'K2 V2 P2 Se10'
+_cell_volume   451.35974491
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.73612280  0.73612280  0.76061371  1
+  K  K1  1  0.26387720  0.26387720  0.23938629  1
+  V  V0  1  0.71500022  0.28499978  1.00000000  1
+  V  V1  1  0.28499978  0.71500022  0.00000000  1
+  P  P0  1  0.86688550  0.86688550  0.20565090  1
+  P  P1  1  0.13311450  0.13311450  0.79434910  1
+  Se  Se0  1  0.08124867  0.08124867  0.11182974  1
+  Se  Se1  1  0.56341153  0.56341153  0.17858364  1
+  Se  Se2  1  0.33342942  0.83628840  0.67601847  1
+  Se  Se3  1  0.91875133  0.91875133  0.88817026  1
+  Se  Se4  1  0.66657058  0.16371160  0.32398153  1
+  Se  Se5  1  0.83628840  0.33342942  0.67601847  1
+  Se  Se6  1  0.43658847  0.43658847  0.82141636  1
+  Se  Se7  1  0.74915411  0.74915411  0.25153083  1
+  Se  Se8  1  0.16371160  0.66657058  0.32398153  1
+  Se  Se9  1  0.25084589  0.25084589  0.74846917  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se7 3.364346 1_556
+K0 Se7 3.423371 1_555
+K0 Se2 3.452354 1_555
+K0 Se5 3.452354 1_555
+K0 Se3 3.594020 1_555
+K0 Se9 3.648312 1_655
+K0 Se9 3.648312 1_565
+K1 Se9 3.364346 1_554
+K1 Se9 3.423371 1_555
+K1 Se4 3.452354 1_555
+K1 Se8 3.452354 1_555
+K1 Se0 3.594020 1_555
+K1 Se7 3.648312 1_455
+K1 Se7 3.648312 1_545
+P0 Se7 2.157376 1_555
+P0 Se8 2.213185 1_655
+P0 Se4 2.213185 1_565
+P0 Se3 2.234759 1_554
+P1 Se9 2.157376 1_555
+P1 Se5 2.213185 1_455
+P1 Se2 2.213185 1_545
+P1 Se0 2.234759 1_556
+Se0 V0 2.725951 1_454
+Se0 V1 2.725951 1_545
+Se1 V1 2.378875 1_555
+Se1 V0 2.378875 1_554
+Se2 V1 2.536048 1_556
+Se3 V1 2.725951 1_656
+Se3 V0 2.725951 1_565
+Se4 V0 2.536048 1_554
+Se5 V0 2.536047 1_555
+Se6 V0 2.378875 1_555
+Se6 V1 2.378875 1_556
+Se8 V1 2.536047 1_555

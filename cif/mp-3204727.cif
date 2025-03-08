@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_NaGa(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47849919
+_cell_length_b   6.47849904
+_cell_length_c   14.11074313
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGa(PSe3)2
+_chemical_formula_sum   'Na2 Ga2 P4 Se12'
+_cell_volume   512.89608835
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.75000000  1
+  Na  Na1  1  0.66666700  0.33333300  0.25000000  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.25000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.75000000  1
+  P  P0  1  0.66666700  0.33333300  0.67079961  1
+  P  P1  1  0.66666700  0.33333300  0.82920039  1
+  P  P2  1  0.33333300  0.66666700  0.32920039  1
+  P  P3  1  0.33333300  0.66666700  0.17079961  1
+  Se  Se0  1  0.67895634  0.96918194  0.12729394  1
+  Se  Se1  1  0.67895634  0.70977440  0.37270606  1
+  Se  Se2  1  0.29022560  0.32104366  0.12729394  1
+  Se  Se3  1  0.29022560  0.96918194  0.37270606  1
+  Se  Se4  1  0.70977440  0.67895634  0.87270606  1
+  Se  Se5  1  0.32104366  0.03081806  0.87270606  1
+  Se  Se6  1  0.96918194  0.29022560  0.87270606  1
+  Se  Se7  1  0.32104366  0.29022560  0.62729394  1
+  Se  Se8  1  0.96918194  0.67895634  0.62729394  1
+  Se  Se9  1  0.70977440  0.03081806  0.62729394  1
+  Se  Se10  1  0.03081806  0.32104366  0.37270606  1
+  Se  Se11  1  0.03081806  0.70977440  0.12729394  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se5 2.959352 1_565
+Na0 Se8 2.959352 1_455
+Na0 Se6 2.959356 1_455
+Na0 Se9 2.959356 1_565
+Na0 Se7 2.959358 1_555
+Na0 Se4 2.959358 1_555
+Na1 Se0 2.959352 1_545
+Na1 Se10 2.959352 1_655
+Na1 Se11 2.959356 1_655
+Na1 Se3 2.959356 1_545
+Na1 Se1 2.959358 1_555
+Na1 Se2 2.959358 1_555
+Ga0 Se11 2.636003 1_545
+Ga0 Se3 2.636003 1_545
+Ga0 Se10 2.636003 1_555
+Ga0 Se0 2.636003 1_445
+Ga0 Se2 2.636003 1_555
+Ga0 Se1 2.636003 1_445
+Ga1 Se6 2.636003 1_455
+Ga1 Se9 2.636003 1_455
+Ga1 Se8 2.636003 1_445
+Ga1 Se5 2.636003 1_555
+Ga1 Se4 2.636003 1_445
+Ga1 Se7 2.636003 1_555
+P0 Se9 2.200721 1_555
+P0 Se8 2.200725 1_555
+P0 Se7 2.200727 1_555
+P0 P1 2.235153 1_555
+P1 Se6 2.200721 1_555
+P1 Se5 2.200725 1_555
+P1 Se4 2.200727 1_555
+P2 Se3 2.200721 1_555
+P2 Se10 2.200725 1_555
+P2 Se1 2.200727 1_555
+P2 P3 2.235153 1_555
+P3 Se11 2.200721 1_555
+P3 Se0 2.200725 1_555
+P3 Se2 2.200727 1_555

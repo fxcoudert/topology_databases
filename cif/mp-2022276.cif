@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Te2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52178336
+_cell_length_b   8.95905200
+_cell_length_c   8.90201229
+_cell_angle_alpha   109.93822713
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2Au
+_chemical_formula_sum   'Te8 Au4'
+_cell_volume   339.01268645
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.58923547  0.36322198  0.41773026  1
+  Te  Te1  1  0.03685445  0.13199920  0.07337935  1
+  Te  Te2  1  0.96314555  0.63199920  0.57337935  1
+  Te  Te3  1  0.59164182  0.38944891  0.82861405  1
+  Te  Te4  1  0.40835818  0.88944891  0.32861405  1
+  Te  Te5  1  0.41076453  0.86322198  0.91773026  1
+  Te  Te6  1  0.97059403  0.12078901  0.67347006  1
+  Te  Te7  1  0.02940597  0.62078901  0.17347006  1
+  Au  Au0  1  0.52925902  0.37532917  0.12257394  1
+  Au  Au1  1  -0.00047320  0.62680974  0.87353335  1
+  Au  Au2  1  0.00047320  0.12680974  0.37353335  1
+  Au  Au3  1  0.47074098  0.87532917  0.62257394  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Te0 Te2 2.881206 1_555
+Te1 Te5 2.881206 1_544
+Te3 Te6 2.893067 1_555
+Te4 Te7 2.893067 1_555
+Au0 Te3 2.677529 1_554
+Au0 Te0 2.680181 1_555
+Au0 Te1 3.041481 1_555
+Au0 Te7 3.077395 1_555
+Au0 Te7 3.078372 1_655
+Au0 Te1 3.092120 1_655
+Au1 Te7 2.692305 1_556
+Au1 Te2 2.693213 1_455
+Au1 Te3 2.739301 1_455
+Au1 Te5 2.744149 1_555
+Au1 Te5 3.340676 1_455
+Au1 Te3 3.357176 1_555
+Au2 Te6 2.692305 1_455
+Au2 Te1 2.693213 1_555
+Au2 Te4 2.739301 1_545
+Au2 Te0 2.744149 1_455
+Au2 Te0 3.340676 1_555
+Au2 Te4 3.357176 1_445
+Au3 Te4 2.677529 1_555
+Au3 Te5 2.680181 1_555
+Au3 Te2 3.041481 1_555
+Au3 Te6 3.077395 1_565
+Au3 Te6 3.078372 1_465
+Au3 Te2 3.092120 1_455

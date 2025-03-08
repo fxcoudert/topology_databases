@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_CdTcCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45562677
+_cell_length_b   6.45562647
+_cell_length_c   11.86258890
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdTcCl6
+_chemical_formula_sum   'Cd2 Tc2 Cl12'
+_cell_volume   428.14109212
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.25000000  1
+  Cd  Cd1  1  0.00000000  0.00000000  0.75000000  1
+  Tc  Tc0  1  0.33333300  0.66666700  0.25000000  1
+  Tc  Tc1  1  0.66666700  0.33333300  0.75000000  1
+  Cl  Cl0  1  0.63418458  0.96127250  0.13344087  1
+  Cl  Cl1  1  0.03872750  0.67291308  0.13344087  1
+  Cl  Cl2  1  0.32708692  0.36581542  0.13344087  1
+  Cl  Cl3  1  0.03872750  0.36581542  0.36655913  1
+  Cl  Cl4  1  0.36581542  0.32708692  0.63344087  1
+  Cl  Cl5  1  0.67291308  0.03872750  0.63344087  1
+  Cl  Cl6  1  0.96127250  0.63418458  0.63344087  1
+  Cl  Cl7  1  0.67291308  0.63418458  0.86655913  1
+  Cl  Cl8  1  0.96127250  0.32708692  0.86655913  1
+  Cl  Cl9  1  0.36581542  0.03872750  0.86655913  1
+  Cl  Cl10  1  0.63418458  0.67291308  0.36655913  1
+  Cl  Cl11  1  0.32708692  0.96127250  0.36655913  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Cl1 2.638352 1_545
+Cd0 Cl11 2.638352 1_545
+Cd0 Cl2 2.638355 1_555
+Cd0 Cl10 2.638355 1_445
+Cd0 Cl3 2.638358 1_555
+Cd0 Cl0 2.638358 1_445
+Cd1 Cl8 2.638352 1_455
+Cd1 Cl5 2.638352 1_455
+Cd1 Cl7 2.638355 1_445
+Cd1 Cl4 2.638355 1_555
+Cd1 Cl6 2.638358 1_445
+Cd1 Cl9 2.638358 1_555
+Cl0 Tc0 2.367960 1_555
+Cl1 Tc0 2.367961 1_555
+Cl2 Tc0 2.367960 1_555
+Cl3 Tc0 2.367960 1_555
+Cl4 Tc1 2.367961 1_555
+Cl5 Tc1 2.367960 1_555
+Cl6 Tc1 2.367960 1_555
+Cl7 Tc1 2.367960 1_555
+Cl8 Tc1 2.367961 1_555
+Cl9 Tc1 2.367960 1_555
+Cl10 Tc0 2.367961 1_555
+Cl11 Tc0 2.367960 1_555

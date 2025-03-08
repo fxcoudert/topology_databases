@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na(ZrTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82849809
+_cell_length_b   8.82849829
+_cell_length_c   7.00734599
+_cell_angle_alpha   65.90343850
+_cell_angle_beta   65.90343587
+_cell_angle_gamma   26.57799413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(ZrTe2)2
+_chemical_formula_sum   'Na1 Zr2 Te4'
+_cell_volume   221.82231277
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr0  1  0.74992344  0.74992344  0.24114245  1
+  Zr  Zr1  1  0.25007656  0.25007656  0.75885755  1
+  Te  Te0  1  0.13515702  0.13515702  0.20527373  1
+  Te  Te1  1  0.63887793  0.63887793  0.69499255  1
+  Te  Te2  1  0.86484298  0.86484298  0.79472627  1
+  Te  Te3  1  0.36112207  0.36112207  0.30500745  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Te1 3.178383 1_544
+Na0 Te3 3.178383 1_455
+Na0 Te1 3.178383 1_454
+Na0 Te3 3.178383 1_545
+Na0 Te0 3.204121 1_555
+Na0 Te2 3.204121 1_444
+Te0 Zr0 2.913203 1_545
+Te0 Zr0 2.913204 1_455
+Te0 Zr1 2.915878 1_554
+Te1 Zr0 2.943432 1_555
+Te1 Zr1 2.947437 1_655
+Te1 Zr1 2.947437 1_565
+Te2 Zr1 2.913203 1_565
+Te2 Zr1 2.913204 1_655
+Te2 Zr0 2.915878 1_556
+Te3 Zr1 2.943432 1_555
+Te3 Zr0 2.947437 1_455
+Te3 Zr0 2.947437 1_545

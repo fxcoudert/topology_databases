@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_AsPIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94829191
+_cell_length_b   5.94578027
+_cell_length_c   6.01446865
+_cell_angle_alpha   68.43773152
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsPIr
+_chemical_formula_sum   'As4 P4 Ir4'
+_cell_volume   197.82905632
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.12103387  0.84236944  0.86675009  1
+  As  As1  1  0.62103387  0.15763056  0.63324991  1
+  As  As2  1  0.87896613  0.15763056  0.13324991  1
+  As  As3  1  0.37896613  0.84236944  0.36675009  1
+  P  P0  1  0.62812816  0.65880690  0.18217335  1
+  P  P1  1  0.12812816  0.34119310  0.31782665  1
+  P  P2  1  0.37187184  0.34119310  0.81782665  1
+  P  P3  1  0.87187184  0.65880690  0.68217335  1
+  Ir  Ir0  1  0.50900895  0.71808362  0.79435986  1
+  Ir  Ir1  1  0.00900895  0.28191638  0.70564014  1
+  Ir  Ir2  1  0.49099105  0.28191638  0.20564014  1
+  Ir  Ir3  1  0.99099105  0.71808362  0.29435986  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 P3 2.347499 1_455
+As0 Ir0 2.509587 1_555
+As0 Ir1 2.520260 1_565
+As0 Ir3 2.522279 1_456
+As1 P2 2.347499 1_555
+As1 Ir1 2.509587 1_655
+As1 Ir0 2.520260 1_545
+As1 Ir2 2.522279 1_555
+As2 P1 2.347499 1_655
+As2 Ir2 2.509587 1_555
+As2 Ir3 2.520260 1_545
+As2 Ir1 2.522279 1_654
+As3 P0 2.347499 1_555
+As3 Ir3 2.509587 1_455
+As3 Ir2 2.520260 1_565
+As3 Ir0 2.522279 1_555
+Ir0 P3 2.326595 1_555
+Ir0 P0 2.337208 1_556
+Ir0 P2 2.339772 1_555
+Ir1 P2 2.326595 1_555
+Ir1 P1 2.337208 1_555
+Ir1 P3 2.339772 1_455
+Ir2 P1 2.326595 1_555
+Ir2 P2 2.337208 1_554
+Ir2 P0 2.339772 1_555
+Ir3 P0 2.326595 1_555
+Ir3 P3 2.337208 1_555
+Ir3 P1 2.339772 1_655

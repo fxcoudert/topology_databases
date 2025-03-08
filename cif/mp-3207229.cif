@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaLiYTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85564827
+_cell_length_b   7.85564729
+_cell_length_c   11.49456939
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.25658188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiYTe3
+_chemical_formula_sum   'Ba2 Li2 Y2 Te6'
+_cell_volume   394.02248561
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75016676  0.24983324  0.25000000  1
+  Ba  Ba1  1  0.24983324  0.75016676  0.75000000  1
+  Li  Li0  1  0.47240259  0.52759741  0.25000000  1
+  Li  Li1  1  0.52759741  0.47240259  0.75000000  1
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te0  1  0.63498657  0.36501343  0.94275297  1
+  Te  Te1  1  0.07285141  0.92714859  0.25000000  1
+  Te  Te2  1  0.36501343  0.63498657  0.44275297  1
+  Te  Te3  1  0.36501343  0.63498657  0.05724703  1
+  Te  Te4  1  0.63498657  0.36501343  0.55724703  1
+  Te  Te5  1  0.92714859  0.07285141  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Te1 3.507903 1_655
+Ba0 Te1 3.507904 1_545
+Ba0 Te2 3.617824 1_545
+Ba0 Te3 3.617824 1_545
+Ba0 Te2 3.617824 1_655
+Ba0 Te3 3.617824 1_655
+Ba0 Te4 3.933399 1_555
+Ba0 Te0 3.933399 1_554
+Ba1 Te5 3.507903 1_455
+Ba1 Te5 3.507904 1_565
+Ba1 Te0 3.617824 1_565
+Ba1 Te4 3.617824 1_565
+Ba1 Te0 3.617824 1_455
+Ba1 Te4 3.617824 1_455
+Ba1 Te3 3.933399 1_556
+Ba1 Te2 3.933399 1_555
+Li0 Te1 2.734775 1_545
+Li0 Te1 2.734776 1_655
+Li0 Te2 2.741509 1_555
+Li0 Te3 2.741509 1_555
+Li1 Te5 2.734775 1_565
+Li1 Te5 2.734776 1_455
+Li1 Te0 2.741509 1_555
+Li1 Te4 2.741509 1_555
+Te0 Y0 3.122518 1_666
+Te0 Y0 3.122519 1_556
+Te1 Y0 3.075314 1_565
+Te1 Y1 3.075314 1_565
+Te2 Y1 3.122518 1_555
+Te2 Y1 3.122519 1_665
+Te3 Y0 3.122518 1_555
+Te3 Y0 3.122519 1_665
+Te4 Y1 3.122518 1_665
+Te4 Y1 3.122519 1_555
+Te5 Y0 3.075314 1_656
+Te5 Y1 3.075314 1_655

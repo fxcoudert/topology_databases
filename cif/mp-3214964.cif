@@ -1,0 +1,112 @@
+# generated using pymatgen
+data_Ti7Nb3Sn6As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17348153
+_cell_length_b   8.17348199
+_cell_length_c   5.55092214
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti7Nb3Sn6As
+_chemical_formula_sum   'Ti7 Nb3 Sn6 As1'
+_cell_volume   321.15148617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666700  0.33333300  0.00000000  1
+  Ti  Ti1  1  0.74136394  0.74388523  0.24080732  1
+  Ti  Ti2  1  0.25611477  0.99747871  0.24080732  1
+  Ti  Ti3  1  0.00252129  0.25863606  0.24080732  1
+  Ti  Ti4  1  0.25611477  0.25863606  0.75919268  1
+  Ti  Ti5  1  0.74136394  0.99747871  0.75919268  1
+  Ti  Ti6  1  0.00252129  0.74388523  0.75919268  1
+  Nb  Nb0  1  0.66666700  0.33333300  0.50000000  1
+  Nb  Nb1  1  0.33333300  0.66666700  0.50000000  1
+  Nb  Nb2  1  0.33333300  0.66666700  0.00000000  1
+  Sn  Sn0  1  0.39076761  0.38765469  0.24735667  1
+  Sn  Sn1  1  0.61234531  0.00311292  0.24735667  1
+  Sn  Sn2  1  0.99688708  0.60923239  0.24735667  1
+  Sn  Sn3  1  0.61234531  0.60923239  0.75264333  1
+  Sn  Sn4  1  0.39076761  0.00311292  0.75264333  1
+  Sn  Sn5  1  0.99688708  0.38765469  0.75264333  1
+  As  As0  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Ti0 2.775461 1_555
+Nb0 Ti0 2.775461 1_556
+Nb0 Sn5 2.872344 1_555
+Nb0 Sn1 2.872344 1_555
+Nb0 Sn2 2.872346 1_555
+Nb0 Sn4 2.872346 1_555
+Nb0 Sn0 2.872351 1_555
+Nb0 Sn3 2.872351 1_555
+Nb1 Nb2 2.775461 1_556
+Nb1 Nb2 2.775461 1_555
+Nb1 Sn2 2.908319 1_455
+Nb1 Sn4 2.908319 1_565
+Nb1 Sn5 2.908321 1_455
+Nb1 Sn1 2.908321 1_565
+Nb1 Sn3 2.908326 1_555
+Nb1 Sn0 2.908326 1_555
+Nb2 Sn2 2.894282 1_455
+Nb2 Sn4 2.894282 1_564
+Nb2 Sn5 2.894285 1_454
+Nb2 Sn1 2.894285 1_565
+Nb2 Sn3 2.894290 1_554
+Nb2 Sn0 2.894290 1_555
+Sn0 Ti3 2.799460 1_555
+Sn0 Ti2 2.805900 1_545
+Sn0 Ti0 2.858138 1_555
+Sn0 Ti1 2.889122 1_555
+Sn0 Ti4 2.916422 1_554
+Sn0 Ti4 3.038901 1_555
+Sn1 Ti1 2.799460 1_545
+Sn1 Ti3 2.805900 1_655
+Sn1 Ti0 2.858130 1_555
+Sn1 Ti2 2.889122 1_545
+Sn1 Ti5 2.916423 1_544
+Sn1 Ti5 3.038901 1_545
+Sn2 Ti2 2.799460 1_655
+Sn2 Ti1 2.805900 1_555
+Sn2 Ti0 2.858133 1_555
+Sn2 Ti3 2.889122 1_655
+Sn2 Ti6 2.916423 1_654
+Sn2 Ti6 3.038901 1_655
+Sn3 Ti5 2.799460 1_555
+Sn3 Ti6 2.805900 1_655
+Sn3 Ti0 2.858138 1_556
+Sn3 Ti4 2.889122 1_555
+Sn3 Ti1 2.916422 1_556
+Sn3 Ti1 3.038901 1_555
+Sn4 Ti6 2.799459 1_545
+Sn4 Ti4 2.805900 1_555
+Sn4 Ti0 2.858133 1_556
+Sn4 Ti5 2.889122 1_545
+Sn4 Ti2 2.916423 1_546
+Sn4 Ti2 3.038901 1_545
+Sn5 Ti4 2.799460 1_655
+Sn5 Ti5 2.805900 1_545
+Sn5 Ti0 2.858130 1_556
+Sn5 Ti6 2.889122 1_655
+Sn5 Ti3 2.916423 1_656
+Sn5 Ti3 3.038901 1_655
+As0 Ti1 2.548666 1_445
+As0 Ti4 2.548666 1_555
+As0 Ti5 2.548666 1_445
+As0 Ti2 2.548666 1_545
+As0 Ti3 2.548667 1_555
+As0 Ti6 2.548667 1_545

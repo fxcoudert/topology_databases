@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_RbBi(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90427655
+_cell_length_b   4.90427633
+_cell_length_c   9.71201689
+_cell_angle_alpha   104.48889545
+_cell_angle_beta   104.48889293
+_cell_angle_gamma   63.63239718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBi(SeO4)2
+_chemical_formula_sum   'Rb1 Bi1 Se2 O8'
+_cell_volume   200.01306323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.95022803  0.04977097  0.00000000  1
+  Bi  Bi0  1  0.54908003  0.45091997  0.50000000  1
+  Se  Se0  1  0.79328891  0.78887792  0.27758331  1
+  Se  Se1  1  0.21112208  0.20671109  0.72241769  1
+  O  O0  1  0.62270839  0.72111634  0.11443884  1
+  O  O1  1  0.14361046  0.50920018  0.30174208  1
+  O  O2  1  0.82752411  0.12347058  0.30779886  1
+  O  O3  1  0.59657101  0.84030291  0.40740471  1
+  O  O4  1  0.15969709  0.40342999  0.59259529  1
+  O  O5  1  0.87652942  0.17247589  0.69220014  1
+  O  O6  1  0.49079982  0.85638954  0.69825892  1
+  O  O7  1  0.27888366  0.37729161  0.88556016  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 O1 2.366023 1_555
+Bi0 O6 2.366029 1_555
+Bi0 O5 2.399099 1_555
+Bi0 O2 2.399107 1_555
+Bi0 O4 2.422577 1_555
+Bi0 O3 2.422580 1_555
+O0 Se0 1.625119 1_555
+O0 Rb0 3.003380 1_555
+O0 Rb0 3.008428 1_465
+O0 Rb0 3.240776 1_565
+O1 Se0 1.659600 1_455
+O1 Rb0 3.430390 1_455
+O2 Se0 1.669158 1_545
+O2 Rb0 3.097622 1_555
+O3 Se0 1.678534 1_555
+O4 Se1 1.678546 1_555
+O5 Se1 1.669156 1_655
+O5 Rb0 3.097635 1_556
+O6 Se1 1.659600 1_565
+O6 Rb0 3.430380 1_566
+O7 Se1 1.625103 1_555
+O7 Rb0 3.003379 1_556
+O7 Rb0 3.008427 1_466
+O7 Rb0 3.240789 1_456

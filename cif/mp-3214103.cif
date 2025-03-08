@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Sr3Al2(SbAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91013552
+_cell_length_b   8.91013611
+_cell_length_c   7.01049231
+_cell_angle_alpha   89.23556817
+_cell_angle_beta   89.23556865
+_cell_angle_gamma   75.06250204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Al2(SbAs)2
+_chemical_formula_sum   'Sr6 Al4 Sb4 As4'
+_cell_volume   537.68279589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00540651  0.73807489  0.52494955  1
+  Sr  Sr1  1  0.26192511  0.99459349  0.97505045  1
+  Sr  Sr2  1  0.99459349  0.26192511  0.47505045  1
+  Sr  Sr3  1  0.73807489  0.00540651  0.02494955  1
+  Sr  Sr4  1  0.41131113  0.58868887  0.25000000  1
+  Sr  Sr5  1  0.58868887  0.41131113  0.75000000  1
+  Al  Al0  1  0.81462483  0.58905389  0.09216129  1
+  Al  Al1  1  0.41094611  0.18537517  0.40783871  1
+  Al  Al2  1  0.18537517  0.41094611  0.90783871  1
+  Al  Al3  1  0.58905389  0.81462483  0.59216129  1
+  Sb  Sb0  1  0.06203623  0.71010407  0.02048517  1
+  Sb  Sb1  1  0.28989593  0.93796377  0.47951483  1
+  Sb  Sb2  1  0.93796377  0.28989593  0.97951483  1
+  Sb  Sb3  1  0.71010407  0.06203623  0.52048517  1
+  As  As0  1  0.73848716  0.57504193  0.43172672  1
+  As  As1  1  0.42495807  0.26151284  0.06827328  1
+  As  As2  1  0.26151284  0.42495807  0.56827328  1
+  As  As3  1  0.57504193  0.73848716  0.93172672  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 As0 2.476960 1_555
+Al0 As3 2.480654 1_554
+Al0 Sb0 2.730796 1_655
+Al0 Sb2 2.731173 1_554
+Al1 As1 2.476960 1_555
+Al1 As2 2.480654 1_555
+Al1 Sb1 2.730796 1_545
+Al1 Sb3 2.731173 1_555
+Al2 As2 2.476960 1_555
+Al2 As1 2.480654 1_556
+Al2 Sb2 2.730796 1_455
+Al2 Sb0 2.731173 1_556
+Al3 As3 2.476960 1_555
+Al3 As0 2.480654 1_555
+Al3 Sb3 2.730796 1_565
+Al3 Sb1 2.731173 1_555
+Sb0 Sr3 3.367573 1_465
+Sb0 Sr4 3.434510 1_555
+Sb0 Sr1 3.462616 1_554
+Sb0 Sr0 3.513385 1_554
+Sb0 Sr0 3.568603 1_555
+Sb1 Sr2 3.367573 1_465
+Sb1 Sr4 3.434510 1_555
+Sb1 Sr0 3.462616 1_555
+Sb1 Sr1 3.513385 1_555
+Sb1 Sr1 3.568603 1_554
+Sb2 Sr1 3.367573 1_645
+Sb2 Sr5 3.434510 1_555
+Sb2 Sr3 3.462616 1_556
+Sb2 Sr2 3.513385 1_556
+Sb2 Sr2 3.568603 1_555
+Sb3 Sr0 3.367573 1_645
+Sb3 Sr5 3.434510 1_555
+Sb3 Sr2 3.462616 1_555
+Sb3 Sr3 3.513385 1_555
+Sb3 Sr3 3.568603 1_556
+As0 Sr5 3.118616 1_555
+As0 Sr2 3.130004 1_555
+As0 Sr0 3.168818 1_655
+As0 Sr4 3.169915 1_555
+As1 Sr5 3.118616 1_554
+As1 Sr3 3.130004 1_555
+As1 Sr1 3.168818 1_544
+As1 Sr4 3.169915 1_555
+As2 Sr4 3.118616 1_555
+As2 Sr0 3.130004 1_555
+As2 Sr2 3.168818 1_455
+As2 Sr5 3.169915 1_555
+As3 Sr4 3.118616 1_556
+As3 Sr1 3.130004 1_555
+As3 Sr3 3.168818 1_566
+As3 Sr5 3.169915 1_555

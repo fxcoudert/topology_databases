@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Ba3In2(SbAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.45669540
+_cell_length_b   9.45669587
+_cell_length_c   7.46515980
+_cell_angle_alpha   90.33362055
+_cell_angle_beta   90.33361635
+_cell_angle_gamma   75.50646399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3In2(SbAs)2
+_chemical_formula_sum   'Ba6 In4 Sb4 As4'
+_cell_volume   646.33907653
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73777707  0.00320440  0.97076510  1
+  Ba  Ba1  1  0.99679560  0.26222293  0.52923490  1
+  Ba  Ba2  1  0.26222293  0.99679560  0.02923490  1
+  Ba  Ba3  1  0.00320440  0.73777707  0.47076510  1
+  Ba  Ba4  1  0.58764812  0.41235188  0.25000000  1
+  Ba  Ba5  1  0.41235188  0.58764812  0.75000000  1
+  In  In0  1  0.58681458  0.81579760  0.40908706  1
+  In  In1  1  0.18420240  0.41318542  0.09091294  1
+  In  In2  1  0.41318542  0.18420240  0.59091294  1
+  In  In3  1  0.81579760  0.58681458  0.90908706  1
+  Sb  Sb0  1  0.71223104  0.06129343  0.47589322  1
+  Sb  Sb1  1  0.93870657  0.28776896  0.02410678  1
+  Sb  Sb2  1  0.28776896  0.93870657  0.52410678  1
+  Sb  Sb3  1  0.06129343  0.71223104  0.97589322  1
+  As  As0  1  0.56855088  0.74060883  0.06382852  1
+  As  As1  1  0.25939117  0.43144912  0.43617148  1
+  As  As2  1  0.43144912  0.25939117  0.93617148  1
+  As  As3  1  0.74060883  0.56855088  0.56382852  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Sb3 3.566377 1_645
+Ba0 Sb1 3.680883 1_556
+Ba0 Sb0 3.735609 1_555
+Ba0 Sb0 3.807832 1_556
+Ba1 Sb2 3.566377 1_645
+Ba1 Sb0 3.680883 1_555
+Ba1 Sb1 3.735609 1_556
+Ba1 Sb1 3.807832 1_555
+Ba2 Sb1 3.566377 1_465
+Ba2 Sb3 3.680883 1_554
+Ba2 Sb2 3.735609 1_555
+Ba2 Sb2 3.807832 1_554
+Ba3 Sb0 3.566377 1_465
+Ba3 Sb2 3.680883 1_555
+Ba3 Sb3 3.735609 1_554
+Ba3 Sb3 3.807832 1_555
+Ba4 Sb1 3.652049 1_555
+Ba4 Sb0 3.652049 1_555
+Ba5 Sb3 3.652049 1_555
+Ba5 Sb2 3.652049 1_555
+In0 Sb0 2.898785 1_565
+In0 Sb2 2.908109 1_555
+In1 Sb1 2.898785 1_455
+In1 Sb3 2.908109 1_554
+In2 Sb2 2.898785 1_545
+In2 Sb0 2.908109 1_555
+In3 Sb3 2.898785 1_655
+In3 Sb1 2.908109 1_556
+As0 In0 2.685776 1_555
+As0 In3 2.688179 1_554
+As0 Ba5 3.279118 1_554
+As0 Ba2 3.288391 1_555
+As0 Ba0 3.351508 1_564
+As0 Ba4 3.371511 1_555
+As1 In1 2.685776 1_555
+As1 In2 2.688180 1_555
+As1 Ba5 3.279118 1_555
+As1 Ba3 3.288391 1_555
+As1 Ba1 3.351508 1_455
+As1 Ba4 3.371511 1_555
+As2 In2 2.685776 1_555
+As2 In1 2.688179 1_556
+As2 Ba4 3.279118 1_556
+As2 Ba0 3.288391 1_555
+As2 Ba2 3.351508 1_546
+As2 Ba5 3.371511 1_555
+As3 In3 2.685776 1_555
+As3 In0 2.688180 1_555
+As3 Ba4 3.279118 1_555
+As3 Ba1 3.288391 1_555
+As3 Ba3 3.351508 1_655
+As3 Ba5 3.371511 1_555

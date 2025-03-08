@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_LiTc(SnSb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35885679
+_cell_length_b   7.37128746
+_cell_length_c   7.41223089
+_cell_angle_alpha   126.61973172
+_cell_angle_beta   126.57475451
+_cell_angle_gamma   78.60984892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTc(SnSb)2
+_chemical_formula_sum   'Li2 Tc2 Sn4 Sb4'
+_cell_volume   251.25796691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99994068  0.00116966  0.00093121  1
+  Li  Li1  1  0.50057324  0.50026811  0.00066368  1
+  Tc  Tc0  1  0.25060467  0.25582429  0.00465808  1
+  Tc  Tc1  1  0.75060512  0.74700286  0.99552589  1
+  Sn  Sn0  1  0.47769883  0.97727183  0.18504025  1
+  Sn  Sn1  1  0.28779294  0.47578218  0.50082245  1
+  Sn  Sn2  1  0.97923088  0.79460386  0.50039333  1
+  Sn  Sn3  1  0.02511278  0.20677594  0.49985359  1
+  Sb  Sb0  1  0.70900607  0.52229161  0.49932972  1
+  Sb  Sb1  1  0.51991382  0.02007094  0.81636379  1
+  Sb  Sb2  1  0.21002769  0.71029060  0.18785593  1
+  Sb  Sb3  1  0.78949528  0.28864812  0.80856207  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Tc1 2.838828 1_544
+Li0 Tc0 2.858668 1_655
+Li0 Sn1 2.926476 1_655
+Li0 Sn0 2.928869 1_645
+Li0 Sb2 2.930753 1_645
+Li0 Sb3 2.932391 1_554
+Li0 Sn3 2.935199 1_655
+Li0 Sb1 2.939896 1_554
+Li0 Sb0 2.951105 1_544
+Li0 Sn2 2.963927 1_544
+Li1 Tc0 2.840598 1_555
+Li1 Tc1 2.860527 1_554
+Li1 Sb2 2.925530 1_555
+Li1 Sn0 2.926923 1_555
+Li1 Sn1 2.934480 1_554
+Li1 Sb3 2.937573 1_554
+Li1 Sn3 2.938119 1_554
+Li1 Sb0 2.944000 1_555
+Li1 Sb1 2.946134 1_554
+Li1 Sn2 2.952418 1_555
+Sn0 Tc0 2.837862 1_565
+Sn0 Tc1 2.838765 1_554
+Sn1 Tc0 2.844501 1_555
+Sn1 Tc1 2.846507 1_555
+Sn2 Tc1 2.849773 1_554
+Sn2 Tc0 2.853650 1_666
+Sn3 Tc0 2.847523 1_556
+Sn3 Tc1 2.851545 1_444
+Sb0 Tc1 2.820473 1_555
+Sb0 Tc0 2.822457 1_555
+Sb0 Sn3 2.946764 1_655
+Sb1 Tc1 2.801733 1_545
+Sb1 Tc0 2.817435 1_556
+Sb2 Tc0 2.795844 1_555
+Sb2 Tc1 2.809019 1_454
+Sb3 Tc0 2.811188 1_656
+Sb3 Tc1 2.814713 1_555
+Sb3 Sn0 2.946177 1_545

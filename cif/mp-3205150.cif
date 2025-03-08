@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_KRb5(SiTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.51100315
+_cell_length_b   8.70429144
+_cell_length_c   9.18471028
+_cell_angle_alpha   74.76877847
+_cell_angle_beta   75.08604083
+_cell_angle_gamma   109.38758713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb5(SiTe3)2
+_chemical_formula_sum   'K1 Rb5 Si2 Te6'
+_cell_volume   573.19694253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.00000000  0.00000000  1
+  Rb  Rb0  1  0.21400961  0.21001656  0.32330591  1
+  Rb  Rb1  1  0.00000000  0.50000000  0.00000000  1
+  Rb  Rb2  1  0.66507111  0.34054573  0.49833827  1
+  Rb  Rb3  1  0.33492889  0.65945427  0.50166173  1
+  Rb  Rb4  1  0.78599039  0.78998344  0.67669409  1
+  Si  Si0  1  0.10511471  0.10306534  0.86493735  1
+  Si  Si1  1  0.89488529  0.89693466  0.13506265  1
+  Te  Te0  1  0.64132000  0.65079095  0.12268184  1
+  Te  Te1  1  0.35868000  0.34920905  0.87731816  1
+  Te  Te2  1  0.75727961  0.05157395  0.28938259  1
+  Te  Te3  1  0.94193948  0.23560966  0.71440950  1
+  Te  Te4  1  0.24272039  0.94842605  0.71061741  1
+  Te  Te5  1  0.05806052  0.76439034  0.28559050  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te5 3.493953 1_545
+K0 Te3 3.493953 1_554
+K0 Te1 3.644292 1_554
+K0 Te0 3.644292 1_545
+K0 Te2 3.876961 1_555
+K0 Te4 3.876961 1_544
+Rb0 Te1 3.683630 1_554
+Rb0 Te2 3.794682 1_455
+Rb0 Te5 3.801558 1_545
+Rb0 Te4 3.802610 1_545
+Rb0 Te3 3.846642 1_455
+Rb0 Te0 3.861856 1_555
+Rb1 Te4 3.596742 1_554
+Rb1 Te2 3.596742 1_455
+Rb1 Te1 3.738743 1_554
+Rb1 Te0 3.738743 1_455
+Rb1 Te5 3.937608 1_555
+Rb1 Te3 3.937608 1_454
+Rb2 Te4 3.622512 1_545
+Rb2 Te3 3.634441 1_555
+Rb2 Te5 3.643044 1_655
+Rb2 Te2 3.701029 1_555
+Rb2 Te1 3.810265 1_555
+Rb2 Te0 3.881198 1_555
+Rb3 Te2 3.622512 1_565
+Rb3 Te5 3.634441 1_555
+Rb3 Te3 3.643044 1_455
+Rb3 Te4 3.701029 1_555
+Rb3 Te0 3.810265 1_555
+Rb3 Te1 3.881198 1_555
+Rb4 Te0 3.683630 1_556
+Rb4 Te4 3.794682 1_655
+Rb4 Te3 3.801558 1_565
+Rb4 Te2 3.802610 1_565
+Rb4 Te5 3.846642 1_655
+Rb4 Te1 3.861856 1_555
+Si0 Si1 2.412635 1_446
+Si0 Te3 2.526897 1_455
+Si0 Te4 2.527244 1_545
+Si0 Te1 2.538742 1_555
+Si1 Te5 2.526897 1_655
+Si1 Te2 2.527244 1_565
+Si1 Te0 2.538742 1_555

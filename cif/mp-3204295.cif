@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_Na(Bi3Rh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44390792
+_cell_length_b   8.44390986
+_cell_length_c   8.44391018
+_cell_angle_alpha   109.47122141
+_cell_angle_beta   109.47122606
+_cell_angle_gamma   109.47121716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(Bi3Rh)4
+_chemical_formula_sum   'Na1 Bi12 Rh4'
+_cell_volume   463.45628648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi0  1  0.84166259  0.66432318  0.50598577  1
+  Bi  Bi1  1  0.15833741  0.33567682  0.49401423  1
+  Bi  Bi2  1  0.15833741  0.66432318  0.82266159  1
+  Bi  Bi3  1  0.84166259  0.33567682  0.17733841  1
+  Bi  Bi4  1  0.66432318  0.50598577  0.84166259  1
+  Bi  Bi5  1  0.33567682  0.49401423  0.15833741  1
+  Bi  Bi6  1  0.66432318  0.82266159  0.15833741  1
+  Bi  Bi7  1  0.33567682  0.17733841  0.84166259  1
+  Bi  Bi8  1  0.50598577  0.84166259  0.66432318  1
+  Bi  Bi9  1  0.49401423  0.15833741  0.33567682  1
+  Bi  Bi10  1  0.17733841  0.84166259  0.33567682  1
+  Bi  Bi11  1  0.82266159  0.15833741  0.66432318  1
+  Rh  Rh0  1  0.50000000  0.50000000  0.50000000  1
+  Rh  Rh1  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh2  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Rh0 2.727309 1_555
+Bi0 Rh3 2.727310 1_665
+Bi0 Bi2 3.087643 1_655
+Bi0 Bi3 3.204369 1_555
+Bi0 Na0 3.618747 1_666
+Bi1 Rh0 2.727309 1_555
+Bi1 Rh3 2.727310 1_555
+Bi1 Bi3 3.087643 1_455
+Bi1 Bi2 3.204369 1_555
+Bi1 Na0 3.618747 1_555
+Bi2 Rh2 2.727302 1_556
+Bi2 Rh1 2.727311 1_566
+Bi2 Na0 3.618744 1_566
+Bi3 Rh2 2.727302 1_655
+Bi3 Rh1 2.727311 1_555
+Bi3 Na0 3.618744 1_655
+Bi4 Rh2 2.727309 1_656
+Bi4 Rh0 2.727310 1_555
+Bi4 Bi6 3.087644 1_556
+Bi4 Bi7 3.204368 1_555
+Bi4 Na0 3.618747 1_666
+Bi5 Rh2 2.727309 1_555
+Bi5 Rh0 2.727310 1_555
+Bi5 Bi7 3.087644 1_554
+Bi5 Bi6 3.204368 1_555
+Bi5 Na0 3.618747 1_555
+Bi6 Rh1 2.727302 1_565
+Bi6 Rh3 2.727310 1_665
+Bi6 Na0 3.618744 1_665
+Bi7 Rh1 2.727302 1_556
+Bi7 Rh3 2.727310 1_555
+Bi7 Na0 3.618744 1_556
+Bi8 Rh0 2.727310 1_555
+Bi8 Rh1 2.727310 1_566
+Bi8 Na0 3.618746 1_666
+Bi9 Rh0 2.727310 1_555
+Bi9 Rh1 2.727310 1_555
+Bi9 Na0 3.618746 1_555
+Bi10 Rh3 2.727302 1_565
+Bi10 Rh2 2.727311 1_555
+Bi10 Bi9 3.087643 1_565
+Bi10 Bi8 3.204368 1_555
+Bi10 Na0 3.618745 1_565
+Bi11 Rh3 2.727302 1_655
+Bi11 Rh2 2.727311 1_656
+Bi11 Bi8 3.087643 1_545
+Bi11 Bi9 3.204368 1_555
+Bi11 Na0 3.618745 1_656

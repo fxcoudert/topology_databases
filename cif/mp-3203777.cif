@@ -1,0 +1,109 @@
+# generated using pymatgen
+data_TaTi(Nb4Si3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55093213
+_cell_length_b   7.55093226
+_cell_length_c   7.55093210
+_cell_angle_alpha   128.44755542
+_cell_angle_beta   128.44755236
+_cell_angle_gamma   75.90112014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi(Nb4Si3)2
+_chemical_formula_sum   'Ta1 Ti1 Nb8 Si6'
+_cell_volume   256.79122597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb0  1  0.01899669  0.18533996  0.50066863  1
+  Nb  Nb1  1  0.68467033  0.51832806  0.49933137  1
+  Nb  Nb2  1  0.51832806  0.01899669  0.83365772  1
+  Nb  Nb3  1  0.18533996  0.68467033  0.16634228  1
+  Nb  Nb4  1  0.98100331  0.81466004  0.49933137  1
+  Nb  Nb5  1  0.31532967  0.48167194  0.50066863  1
+  Nb  Nb6  1  0.48167194  0.98100331  0.16634228  1
+  Nb  Nb7  1  0.81466004  0.31532967  0.83365772  1
+  Si  Si0  1  0.75038091  0.75038091  0.00000000  1
+  Si  Si1  1  0.24961909  0.24961909  1.00000000  1
+  Si  Si2  1  0.36799022  0.12633743  0.49432765  1
+  Si  Si3  1  0.63200978  0.87366257  0.50567235  1
+  Si  Si4  1  0.87366257  0.36799022  0.24165280  1
+  Si  Si5  1  0.12633743  0.63200978  0.75834720  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Si2 2.589130 1_555
+Nb0 Si4 2.622899 1_455
+Nb0 Si5 2.651027 1_555
+Nb0 Si1 2.730355 1_555
+Nb0 Si0 2.731606 1_445
+Nb0 Ta0 3.014368 1_556
+Nb1 Si3 2.589131 1_555
+Nb1 Si5 2.622905 1_655
+Nb1 Si4 2.651034 1_555
+Nb1 Si1 2.730351 1_554
+Nb1 Si0 2.731602 1_556
+Nb1 Ta0 3.014370 1_555
+Nb2 Si4 2.589131 1_556
+Nb2 Si3 2.622905 1_545
+Nb2 Si2 2.651034 1_555
+Nb2 Si1 2.730351 1_555
+Nb2 Si0 2.731602 1_546
+Nb2 Ta0 3.014370 1_556
+Nb3 Si5 2.589127 1_554
+Nb3 Si2 2.622904 1_565
+Nb3 Si3 2.651028 1_555
+Nb3 Si1 2.730349 1_554
+Nb3 Si0 2.731608 1_455
+Nb3 Ta0 3.014363 1_555
+Nb4 Si3 2.589130 1_555
+Nb4 Si5 2.622899 1_655
+Nb4 Si4 2.651027 1_555
+Nb4 Si0 2.730355 1_555
+Nb4 Si1 2.731606 1_665
+Nb4 Ta0 3.014368 1_555
+Nb5 Si2 2.589131 1_555
+Nb5 Si4 2.622905 1_455
+Nb5 Si5 2.651034 1_555
+Nb5 Si0 2.730351 1_556
+Nb5 Si1 2.731602 1_554
+Nb5 Ta0 3.014370 1_556
+Nb6 Si5 2.589131 1_554
+Nb6 Si2 2.622905 1_565
+Nb6 Si3 2.651034 1_555
+Nb6 Si0 2.730351 1_555
+Nb6 Si1 2.731602 1_564
+Nb6 Ta0 3.014370 1_555
+Nb7 Si4 2.589127 1_556
+Nb7 Si3 2.622904 1_545
+Nb7 Si2 2.651028 1_555
+Nb7 Si0 2.730349 1_556
+Nb7 Si1 2.731608 1_655
+Nb7 Ta0 3.014363 1_556
+Si0 Ti0 2.972576 1_665
+Si0 Ta0 2.981649 1_555
+Si1 Ti0 2.972576 1_556
+Si1 Ta0 2.981649 1_556
+Si2 Si3 2.399943 1_545
+Si2 Ti0 2.555105 1_555
+Si2 Ta0 2.602537 1_556
+Si3 Ti0 2.555105 1_666
+Si3 Ta0 2.602537 1_555
+Si4 Si5 2.399943 1_655
+Si4 Ti0 2.555105 1_655
+Si4 Ta0 2.602537 1_555
+Si5 Ti0 2.555105 1_566
+Si5 Ta0 2.602537 1_556

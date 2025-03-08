@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_Sr3(ZnRh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71082043
+_cell_length_b   6.71082050
+_cell_length_c   6.71082099
+_cell_angle_alpha   109.47121919
+_cell_angle_beta   109.47121939
+_cell_angle_gamma   109.47122168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(ZnRh)4
+_chemical_formula_sum   'Sr3 Zn4 Rh4'
+_cell_volume   232.65104788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.50000000  0.00000000  1
+  Sr  Sr1  1  0.50000000  0.00000000  0.50000000  1
+  Sr  Sr2  1  0.00000000  0.50000000  0.50000000  1
+  Zn  Zn0  1  0.61195577  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.61195577  0.00000000  1
+  Zn  Zn2  1  0.38804523  0.38804523  0.38804523  1
+  Zn  Zn3  1  1.00000000  1.00000000  0.61195577  1
+  Rh  Rh0  1  0.24616875  1.00000000  1.00000000  1
+  Rh  Rh1  1  1.00000000  0.24616875  1.00000000  1
+  Rh  Rh2  1  0.00000000  0.00000000  0.24616875  1
+  Rh  Rh3  1  0.75383225  0.75383225  0.75383225  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Zn1 3.184746 1_655
+Sr0 Zn0 3.184746 1_565
+Sr0 Zn3 3.184746 1_444
+Sr0 Zn2 3.184747 1_555
+Sr1 Zn3 3.184746 1_545
+Sr1 Zn1 3.184746 1_545
+Sr1 Zn0 3.184746 1_556
+Sr1 Zn2 3.184747 1_555
+Sr2 Zn3 3.184746 1_455
+Sr2 Zn0 3.184746 1_455
+Sr2 Zn1 3.184746 1_556
+Sr2 Zn2 3.184747 1_555
+Rh0 Zn0 2.454731 1_566
+Rh0 Zn1 2.577291 1_556
+Rh0 Zn3 2.577291 1_455
+Rh0 Zn2 2.577297 1_566
+Rh0 Sr0 3.217136 1_566
+Rh0 Sr2 3.217136 1_555
+Rh0 Sr1 3.217136 1_566
+Rh1 Zn1 2.454731 1_656
+Rh1 Zn0 2.577291 1_556
+Rh1 Zn3 2.577291 1_545
+Rh1 Zn2 2.577297 1_656
+Rh1 Sr0 3.217136 1_656
+Rh1 Sr1 3.217136 1_555
+Rh1 Sr2 3.217136 1_656
+Rh2 Zn3 2.454731 1_445
+Rh2 Zn0 2.577291 1_455
+Rh2 Zn1 2.577291 1_545
+Rh2 Zn2 2.577296 1_555
+Rh2 Sr0 3.217136 1_445
+Rh2 Sr1 3.217136 1_555
+Rh2 Sr2 3.217136 1_555
+Rh3 Zn2 2.454731 1_555
+Rh3 Zn3 2.577289 1_555
+Rh3 Zn1 2.577289 1_656
+Rh3 Zn0 2.577289 1_566
+Rh3 Sr0 3.217137 1_556
+Rh3 Sr1 3.217137 1_565
+Rh3 Sr2 3.217137 1_655

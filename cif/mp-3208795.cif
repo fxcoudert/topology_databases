@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_V(TcTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10724584
+_cell_length_b   7.00679031
+_cell_length_c   7.10822568
+_cell_angle_alpha   91.71634501
+_cell_angle_beta   93.73854207
+_cell_angle_gamma   95.29525779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V(TcTe2)2
+_chemical_formula_sum   'V2 Tc4 Te8'
+_cell_volume   351.49112303
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.92119071  0.05348832  0.75378256  1
+  V  V1  1  0.75250931  0.90681406  0.05139318  1
+  Tc  Tc0  1  0.04004994  0.76006772  0.91668986  1
+  Tc  Tc1  1  0.08646699  0.94966920  0.25137033  1
+  Tc  Tc2  1  0.25348351  0.09421460  0.95269918  1
+  Tc  Tc3  1  0.95350198  0.24205123  0.07974479  1
+  Te  Te0  1  0.70009835  0.71187492  0.72479621  1
+  Te  Te1  1  0.29206333  0.29121153  0.27922747  1
+  Te  Te2  1  0.77624689  0.09394529  0.38252452  1
+  Te  Te3  1  0.37494451  0.77831457  0.12070675  1
+  Te  Te4  1  0.12095994  0.39328284  0.76889509  1
+  Te  Te5  1  0.22956101  0.89170596  0.62081835  1
+  Te  Te6  1  0.62333692  0.22642450  0.86800680  1
+  Te  Te7  1  0.87558760  0.60693528  0.22934591  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+V0 V1 2.683709 1_546
+Tc0 V0 2.572360 1_465
+Tc0 V1 2.595089 1_456
+Tc0 Tc2 2.665742 1_565
+Tc0 Tc1 2.675957 1_556
+Tc0 Te0 2.684076 1_455
+Tc0 Te3 2.695786 1_556
+Tc0 Te5 2.710040 1_555
+Tc0 Te7 2.776119 1_456
+Tc0 Te4 2.868624 1_555
+Tc1 Tc3 2.633450 1_465
+Tc1 Te3 2.672778 1_555
+Tc1 V1 2.673438 1_455
+Tc1 Tc2 2.679096 1_564
+Tc1 Te1 2.681385 1_565
+Tc1 Te7 2.705624 1_455
+Tc1 Te2 2.715743 1_465
+Tc1 Te5 2.808485 1_555
+Tc2 Te1 2.650076 1_556
+Tc2 Tc3 2.652702 1_456
+Tc2 V0 2.659737 1_455
+Tc2 Te5 2.703740 1_545
+Tc2 Te4 2.711662 1_555
+Tc2 Te3 2.728980 1_546
+Tc2 Te6 2.814362 1_555
+Tc3 V0 2.618805 1_554
+Tc3 V1 2.629354 1_545
+Tc3 Te6 2.695507 1_554
+Tc3 Te1 2.700385 1_655
+Tc3 Te2 2.746298 1_555
+Tc3 Te4 2.769847 1_654
+Tc3 Te7 2.854690 1_555
+Te0 V1 2.645237 1_556
+Te0 V0 2.734046 1_565
+Te2 V1 2.647709 1_545
+Te2 V0 2.801787 1_555
+Te3 V1 2.829723 1_555
+Te4 V0 2.652694 1_455
+Te5 V0 2.765174 1_465
+Te6 V0 2.692125 1_555
+Te6 V1 2.820545 1_546
+Te7 V1 2.671028 1_555

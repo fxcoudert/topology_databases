@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CoNi(MoP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30876725
+_cell_length_b   3.30876679
+_cell_length_c   11.13202606
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNi(MoP2)2
+_chemical_formula_sum   'Co1 Ni1 Mo2 P4'
+_cell_volume   105.54489825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.00000000  0.00000000  0.25210212  1
+  Mo  Mo1  1  0.00000000  0.00000000  0.74789788  1
+  P  P0  1  0.33333300  0.66666700  0.11372652  1
+  P  P1  1  0.66666700  0.33333300  0.88627348  1
+  P  P2  1  0.66666700  0.33333300  0.60611226  1
+  P  P3  1  0.33333300  0.66666700  0.39388774  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 P2 2.246028 1_455
+Co0 P3 2.246028 1_545
+Co0 P2 2.246031 1_445
+Co0 P3 2.246031 1_555
+Co0 P2 2.246031 1_555
+Co0 P3 2.246031 1_445
+Co0 Mo1 2.759606 1_555
+Co0 Mo0 2.759606 1_555
+Ni0 P0 2.291741 1_545
+Ni0 P1 2.291741 1_454
+Ni0 P0 2.291744 1_555
+Ni0 P1 2.291744 1_444
+Ni0 P0 2.291744 1_445
+Ni0 P1 2.291744 1_554
+Mo0 P0 2.454005 1_545
+Mo0 P0 2.454007 1_555
+Mo0 P0 2.454007 1_445
+Mo0 P3 2.478009 1_545
+Mo0 P3 2.478011 1_555
+Mo0 P3 2.478012 1_445
+Mo0 Ni0 2.806407 1_555
+Mo1 P1 2.454005 1_455
+Mo1 P1 2.454007 1_445
+Mo1 P1 2.454007 1_555
+Mo1 P2 2.478009 1_455
+Mo1 P2 2.478011 1_445
+Mo1 P2 2.478012 1_555
+Mo1 Ni0 2.806407 1_556

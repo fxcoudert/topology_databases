@@ -1,0 +1,104 @@
+# generated using pymatgen
+data_Ta4V(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11854353
+_cell_length_b   7.11854393
+_cell_length_c   7.11854408
+_cell_angle_alpha   93.48644747
+_cell_angle_beta   93.48644957
+_cell_angle_gamma   151.44698895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4V(NiP)4
+_chemical_formula_sum   'Ta4 V1 Ni4 P4'
+_cell_volume   167.09050573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.87274211  0.19204319  0.06478530  1
+  Ta  Ta1  1  0.12725789  0.80795681  0.93521470  1
+  Ta  Ta2  1  0.19204319  0.12725789  0.31930209  1
+  Ta  Ta3  1  0.80795681  0.87274211  0.68069791  1
+  V  V0  1  0.50000000  0.50000000  0.00000000  1
+  Ni  Ni0  1  0.61029310  0.08725738  0.69755048  1
+  Ni  Ni1  1  0.38970690  0.91274262  0.30244952  1
+  Ni  Ni2  1  0.08725738  0.38970690  0.47696328  1
+  Ni  Ni3  1  0.91274262  0.61029310  0.52303672  1
+  P  P0  1  0.75615073  0.44404674  0.20019747  1
+  P  P1  1  0.24384927  0.55595326  0.79980253  1
+  P  P2  1  0.44404674  0.24384927  0.68789700  1
+  P  P3  1  0.55595326  0.75615073  0.31210300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 V0 2.851929 1_655
+Ta0 V0 2.851929 1_545
+Ta1 V0 2.851929 1_456
+Ta1 V0 2.851929 1_566
+Ta2 V0 2.851933 1_445
+Ta2 V0 2.851936 1_555
+Ta3 V0 2.851933 1_666
+Ta3 V0 2.851936 1_556
+Ni0 P1 2.207416 1_655
+Ni0 P1 2.207416 1_545
+Ni0 P2 2.228160 1_555
+Ni0 Ta0 2.757057 1_556
+Ni0 Ta1 2.783025 1_655
+Ni0 Ta1 2.783026 1_545
+Ni0 Ta3 2.845875 1_545
+Ni1 P0 2.207416 1_455
+Ni1 P0 2.207416 1_565
+Ni1 P3 2.228160 1_555
+Ni1 Ta1 2.757057 1_554
+Ni1 Ta0 2.783025 1_455
+Ni1 Ta0 2.783026 1_565
+Ni1 Ta2 2.845875 1_565
+Ni2 P3 2.207416 1_445
+Ni2 P3 2.207416 1_555
+Ni2 P1 2.228167 1_555
+Ni2 Ta2 2.757052 1_555
+Ni2 Ta3 2.783025 1_555
+Ni2 Ta3 2.783026 1_445
+Ni2 Ta0 2.845868 1_455
+Ni3 P2 2.207416 1_665
+Ni3 P2 2.207416 1_555
+Ni3 P0 2.228167 1_555
+Ni3 Ta3 2.757052 1_555
+Ni3 Ta2 2.783025 1_555
+Ni3 Ta2 2.783026 1_665
+Ni3 Ta1 2.845868 1_655
+P0 Ta1 2.534910 1_544
+P0 Ta1 2.534911 1_654
+P0 V0 2.557995 1_555
+P0 Ta2 2.582200 1_665
+P0 Ta2 2.582203 1_555
+P0 Ta0 2.708992 1_555
+P1 Ta0 2.534910 1_566
+P1 Ta0 2.534911 1_456
+P1 V0 2.557995 1_556
+P1 Ta3 2.582200 1_445
+P1 Ta3 2.582203 1_555
+P1 Ta1 2.708992 1_555
+P2 Ta3 2.534908 1_445
+P2 Ta3 2.534913 1_555
+P2 V0 2.557989 1_556
+P2 Ta1 2.582194 1_545
+P2 Ta1 2.582195 1_655
+P2 Ta2 2.708991 1_555
+P3 Ta2 2.534908 1_665
+P3 Ta2 2.534913 1_555
+P3 V0 2.557989 1_555
+P3 Ta0 2.582194 1_565
+P3 Ta0 2.582195 1_455
+P3 Ta3 2.708991 1_555

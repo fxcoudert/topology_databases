@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_V3CrInSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41308028
+_cell_length_b   7.48298082
+_cell_length_c   7.41288380
+_cell_angle_alpha   60.30772949
+_cell_angle_beta   60.00067213
+_cell_angle_gamma   60.30442719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3CrInSe8
+_chemical_formula_sum   'V3 Cr1 In1 Se8'
+_cell_volume   292.10671906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.51978112  0.50982315  0.51975132  1
+  V  V1  1  0.51978858  0.50986846  0.95055476  1
+  V  V2  1  0.95062742  0.50986311  0.51975509  1
+  Cr  Cr0  1  0.50491935  0.98514587  0.50498612  1
+  In  In0  1  0.12968907  0.11088595  0.12977845  1
+  Se  Se0  1  0.74424434  0.75162223  0.74426113  1
+  Se  Se1  1  0.26148563  0.26889103  0.70813906  1
+  Se  Se2  1  0.26863899  0.69400773  0.26862819  1
+  Se  Se3  1  0.70809219  0.26889134  0.26152732  1
+  Se  Se4  1  0.75215022  0.24385051  0.75196272  1
+  Se  Se5  1  0.25986780  0.75163395  0.74424200  1
+  Se  Se6  1  0.26147440  0.26892260  0.26150996  1
+  Se  Se7  1  0.74425489  0.75159009  0.25988887  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cr0 Se0 2.520262 1_555
+Cr0 Se5 2.520283 1_555
+Cr0 Se7 2.520596 1_555
+Cr0 Se1 2.585832 1_565
+Cr0 Se6 2.585910 1_565
+Cr0 Se3 2.586090 1_565
+In0 Se2 2.558770 1_545
+In0 Se6 2.559132 1_555
+In0 Se3 2.559298 1_455
+In0 Se1 2.559579 1_554
+Se0 V1 2.465153 1_555
+Se0 V2 2.465249 1_555
+Se1 V2 2.668014 1_455
+Se1 V0 2.668156 1_555
+Se2 V2 2.685243 1_455
+Se2 V1 2.685421 1_554
+Se2 V0 2.685623 1_555
+Se3 V0 2.667673 1_555
+Se3 V1 2.668319 1_554
+Se4 V2 2.462688 1_555
+Se4 V0 2.462877 1_555
+Se4 V1 2.463116 1_555
+Se5 V1 2.465059 1_555
+Se5 V0 2.465445 1_555
+Se6 V2 2.667790 1_455
+Se6 V1 2.668432 1_554
+Se7 V2 2.465044 1_555
+Se7 V0 2.465267 1_555

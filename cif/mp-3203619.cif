@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_K4Sr(SiSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43739483
+_cell_length_b   7.43739525
+_cell_length_c   8.59023740
+_cell_angle_alpha   81.60012717
+_cell_angle_beta   81.60012986
+_cell_angle_gamma   119.76657632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Sr(SiSe3)2
+_chemical_formula_sum   'K4 Sr1 Si2 Se6'
+_cell_volume   394.60429283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50732419  0.49267581  1.00000000  1
+  K  K1  1  0.81860776  0.18139224  0.00000000  1
+  K  K2  1  0.17503957  0.82496043  1.00000000  1
+  K  K3  1  0.66619666  0.33380334  0.50000000  1
+  Sr  Sr0  1  0.33508976  0.66491024  0.50000000  1
+  Si  Si0  1  0.04626345  0.04769906  0.35695493  1
+  Si  Si1  1  0.95230094  0.95373655  0.64304507  1
+  Se  Se0  1  0.77649267  0.79457084  0.26883189  1
+  Se  Se1  1  0.20542916  0.22350733  0.73116811  1
+  Se  Se2  1  0.09375976  0.37922991  0.27050361  1
+  Se  Se3  1  0.36059265  0.05786666  0.27445506  1
+  Se  Se4  1  0.94213334  0.63940735  0.72554494  1
+  Se  Se5  1  0.62077009  0.90624024  0.72949639  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se2 3.214713 1_556
+K0 Se5 3.214713 1_555
+K0 Se4 3.274717 1_555
+K0 Se3 3.274717 1_556
+K0 Se1 3.575544 1_555
+K0 Se0 3.575544 1_556
+K1 Se1 3.265080 1_654
+K1 Se0 3.265080 1_545
+K1 Se2 3.339275 1_655
+K1 Se5 3.339275 1_544
+K1 Se3 3.452488 1_555
+K1 Se4 3.452488 1_554
+K2 Se4 3.199003 1_455
+K2 Se3 3.199003 1_566
+K2 Se0 3.369370 1_456
+K2 Se1 3.369370 1_565
+K2 Se5 3.479061 1_555
+K2 Se2 3.479061 1_556
+K3 Se3 3.308826 1_555
+K3 Se4 3.308826 1_555
+K3 Se2 3.319615 1_655
+K3 Se5 3.319615 1_545
+K3 Se1 3.332354 1_555
+K3 Se0 3.332354 1_555
+Si0 Si1 2.351167 1_445
+Se0 Si0 2.291818 1_665
+Se0 Sr0 3.169084 1_555
+Se1 Si1 2.291818 1_445
+Se1 Sr0 3.169084 1_555
+Se2 Si0 2.297739 1_555
+Se2 Sr0 3.177018 1_555
+Se3 Si0 2.301736 1_555
+Se3 Sr0 3.165298 1_545
+Se4 Si1 2.301736 1_555
+Se4 Sr0 3.165298 1_655
+Se5 Si1 2.297739 1_555
+Se5 Sr0 3.177018 1_555

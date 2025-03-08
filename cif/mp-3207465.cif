@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_CuSnRhSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54726152
+_cell_length_b   7.54726167
+_cell_length_c   7.54726107
+_cell_angle_alpha   119.85278910
+_cell_angle_beta   119.71343231
+_cell_angle_gamma   90.37611797
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSnRhSe4
+_chemical_formula_sum   'Cu2 Sn2 Rh2 Se8'
+_cell_volume   304.97459356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.38023009  0.63023009  0.75000000  1
+  Cu  Cu1  1  0.61976991  0.36976991  0.25000000  1
+  Sn  Sn0  1  0.00000000  0.00000000  0.00000000  1
+  Sn  Sn1  1  0.50000000  0.00000000  0.50000000  1
+  Rh  Rh0  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh1  1  0.00000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.23591739  0.73375345  0.99783706  1
+  Se  Se1  1  0.23591739  0.23808033  0.50216294  1
+  Se  Se2  1  0.22197554  0.74926078  0.47271476  1
+  Se  Se3  1  0.77654602  0.74926078  0.02728524  1
+  Se  Se4  1  0.76408261  0.26624655  0.00216294  1
+  Se  Se5  1  0.76408261  0.76191967  0.49783706  1
+  Se  Se6  1  0.77802446  0.25073922  0.52728524  1
+  Se  Se7  1  0.22345398  0.25073922  0.97271476  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Se1 2.423078 1_555
+Cu0 Se0 2.423078 1_555
+Cu0 Se2 2.453785 1_555
+Cu0 Se3 2.453786 1_556
+Cu1 Se5 2.423078 1_555
+Cu1 Se4 2.423078 1_555
+Cu1 Se6 2.453785 1_555
+Cu1 Se7 2.453786 1_554
+Rh0 Se1 2.509825 1_555
+Rh0 Se5 2.509825 1_445
+Rh0 Se7 2.534932 1_555
+Rh0 Se3 2.534932 1_445
+Rh0 Se6 2.534932 1_455
+Rh0 Se2 2.534932 1_545
+Rh1 Se0 2.509820 1_554
+Rh1 Se4 2.509820 1_455
+Rh1 Se2 2.534932 1_555
+Rh1 Se6 2.534932 1_454
+Rh1 Se3 2.534932 1_455
+Rh1 Se7 2.534932 1_554
+Se0 Sn1 2.692856 1_566
+Se0 Sn0 2.692862 1_566
+Se1 Sn0 2.692856 1_555
+Se1 Sn1 2.692856 1_555
+Se2 Sn1 2.675457 1_565
+Se3 Sn0 2.675457 1_665
+Se4 Sn1 2.692856 1_554
+Se4 Sn0 2.692862 1_655
+Se5 Sn0 2.692856 1_666
+Se5 Sn1 2.692856 1_565
+Se6 Sn1 2.675457 1_555
+Se7 Sn0 2.675457 1_556

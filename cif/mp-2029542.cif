@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_DyAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81062754
+_cell_length_b   3.85150225
+_cell_length_c   16.95518886
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyAsS
+_chemical_formula_sum   'Dy4 As4 S4'
+_cell_volume   248.84521226
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.25000000  0.76900906  0.14582857  1
+  Dy  Dy1  1  0.25000000  0.73099094  0.64582857  1
+  Dy  Dy2  1  0.75000000  0.23099094  0.85417143  1
+  Dy  Dy3  1  0.75000000  0.26900906  0.35417143  1
+  As  As0  1  0.75000000  0.78648988  0.49825719  1
+  As  As1  1  0.75000000  0.71351012  0.99825719  1
+  As  As2  1  0.25000000  0.21351012  0.50174281  1
+  As  As3  1  0.25000000  0.28648988  0.00174281  1
+  S  S0  1  0.25000000  0.76656219  0.31282655  1
+  S  S1  1  0.25000000  0.73343781  0.81282655  1
+  S  S2  1  0.75000000  0.23343781  0.68717345  1
+  S  S3  1  0.75000000  0.26656219  0.18717345  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Dy0 S3 2.791764 1_565
+Dy0 S3 2.791764 1_465
+Dy0 S3 2.804735 1_455
+Dy0 S3 2.804735 1_555
+Dy0 S0 2.831498 1_555
+Dy1 S2 2.791764 1_455
+Dy1 S2 2.791764 1_555
+Dy1 S2 2.804735 1_565
+Dy1 S2 2.804735 1_465
+Dy1 S1 2.831498 1_555
+Dy2 S1 2.791764 1_545
+Dy2 S1 2.791764 1_645
+Dy2 S1 2.804735 1_655
+Dy2 S1 2.804735 1_555
+Dy2 S2 2.831498 1_555
+Dy3 S0 2.791764 1_555
+Dy3 S0 2.791764 1_655
+Dy3 S0 2.804735 1_645
+Dy3 S0 2.804735 1_545
+Dy3 S3 2.831498 1_555
+As0 As2 2.517668 1_565
+As0 As2 2.517668 1_665
+As0 As2 2.916132 1_555
+As0 As2 2.916132 1_655
+As0 Dy3 3.069527 1_565
+As0 Dy1 3.152209 1_555
+As0 Dy1 3.152209 1_655
+As0 Dy3 3.152874 1_555
+As1 As3 2.517668 1_656
+As1 As3 2.517668 1_556
+As1 As3 2.916132 1_566
+As1 As3 2.916132 1_666
+As1 Dy2 3.069527 1_555
+As1 Dy0 3.152209 1_556
+As1 Dy0 3.152209 1_656
+As1 Dy2 3.152874 1_565
+As2 Dy1 3.069527 1_545
+As2 Dy3 3.152209 1_455
+As2 Dy3 3.152209 1_555
+As2 Dy1 3.152874 1_555
+As3 Dy0 3.069527 1_555
+As3 Dy2 3.152209 1_454
+As3 Dy2 3.152209 1_554
+As3 Dy0 3.152874 1_545

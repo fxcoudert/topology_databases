@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Ba2Ti(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15819189
+_cell_length_b   6.90737197
+_cell_length_c   9.10293894
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.73465722
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ti(SeS)2
+_chemical_formula_sum   'Ba4 Ti2 Se4 S4'
+_cell_volume   426.24098330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20954126  0.25000000  0.04381856  1
+  Ba  Ba1  1  0.73065794  0.75000100  0.43170004  1
+  Ba  Ba2  1  0.26934106  0.25000000  0.56829996  1
+  Ba  Ba3  1  0.79045874  0.75000100  0.95618144  1
+  Ti  Ti0  1  0.78808124  0.25000000  0.20569817  1
+  Ti  Ti1  1  0.21191776  0.75000100  0.79430183  1
+  Se  Se0  1  0.37787797  0.75000100  0.06725650  1
+  Se  Se1  1  0.58479663  0.25000000  0.36910947  1
+  Se  Se2  1  0.41520337  0.75000100  0.63089153  1
+  Se  Se3  1  0.62212203  0.25000000  0.93274350  1
+  S  S0  1  0.99586213  0.99831140  0.26520509  1
+  S  S1  1  0.99586213  0.50168760  0.26520509  1
+  S  S2  1  0.00413887  0.49831240  0.73479491  1
+  S  S3  1  0.00413887  0.00168760  0.73479491  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 S2 3.218682 1_554
+Ba0 S3 3.218682 1_554
+Ba0 Se1 3.297595 1_555
+Ba0 S1 3.376880 1_455
+Ba0 S0 3.376884 1_445
+Ba0 Se3 3.415074 1_554
+Ba0 Se0 3.641465 1_545
+Ba0 Se0 3.641478 1_555
+Ba1 S0 3.269696 1_555
+Ba1 S1 3.269707 1_555
+Ba1 S3 3.316243 1_665
+Ba1 S2 3.316250 1_655
+Ba1 Se2 3.319169 1_555
+Ba1 Se0 3.464289 1_555
+Ba1 Se1 3.600075 1_565
+Ba1 Se1 3.600088 1_555
+Ba2 S2 3.269693 1_555
+Ba2 S3 3.269693 1_555
+Ba2 S1 3.316242 1_455
+Ba2 S0 3.316246 1_445
+Ba2 Se1 3.319168 1_555
+Ba2 Se3 3.464292 1_555
+Ba2 Se2 3.600077 1_545
+Ba2 Se2 3.600090 1_555
+Ba3 S0 3.218676 1_556
+Ba3 S1 3.218687 1_556
+Ba3 Se2 3.297589 1_555
+Ba3 S3 3.376881 1_665
+Ba3 S2 3.376888 1_655
+Ba3 Se0 3.415074 1_556
+Ba3 Se3 3.641465 1_565
+Ba3 Se3 3.641478 1_555
+Se0 Ti1 2.385130 1_554
+Se1 Ti0 2.391787 1_555
+Se2 Ti1 2.391785 1_555
+Se3 Ti0 2.385129 1_556
+S0 Ti0 2.238405 1_565
+S1 Ti0 2.238400 1_555
+S2 Ti1 2.238397 1_555
+S3 Ti1 2.238386 1_545

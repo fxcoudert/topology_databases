@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CsMgGaAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26968246
+_cell_length_b   8.26968261
+_cell_length_c   8.26968318
+_cell_angle_alpha   150.18504736
+_cell_angle_beta   150.18504816
+_cell_angle_gamma   42.66984284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgGaAs2
+_chemical_formula_sum   'Cs1 Mg1 Ga1 As2'
+_cell_volume   139.45561999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg0  1  0.75000000  0.25000000  0.50000000  1
+  Ga  Ga0  1  0.25000000  0.75000000  0.50000000  1
+  As  As0  1  0.65155649  0.65155649  0.00000000  1
+  As  As1  1  0.34844351  0.34844351  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Mg0 3.008668 1_454
+Ga0 Mg0 3.008668 1_566
+Ga0 Mg0 3.008668 1_465
+Ga0 Mg0 3.008668 1_555
+As0 Ga0 2.612691 1_655
+As0 Mg0 2.612691 1_565
+As0 Ga0 2.612691 1_554
+As0 Mg0 2.612691 1_554
+As0 Cs0 3.808370 1_554
+As0 Cs0 3.808370 1_565
+As0 Cs0 3.808370 1_655
+As0 Cs0 3.808371 1_666
+As1 Mg0 2.612691 1_455
+As1 Ga0 2.612691 1_545
+As1 Mg0 2.612691 1_556
+As1 Ga0 2.612691 1_556
+As1 Cs0 3.808370 1_667
+As1 Cs0 3.808370 1_656
+As1 Cs0 3.808370 1_566
+As1 Cs0 3.808371 1_555

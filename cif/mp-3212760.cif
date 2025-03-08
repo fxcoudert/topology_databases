@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Ti10ZnSiSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15253849
+_cell_length_b   7.80132862
+_cell_length_c   7.80132945
+_cell_angle_alpha   83.73916446
+_cell_angle_beta   70.71699408
+_cell_angle_gamma   70.71698719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti10ZnSiSb4
+_chemical_formula_sum   'Ti10 Zn1 Si1 Sb4'
+_cell_volume   279.38907191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.50000000  0.50000000  1
+  Ti  Ti1  1  0.75000000  0.50000000  0.50000000  1
+  Ti  Ti2  1  0.06955342  0.13916313  0.71292902  1
+  Ti  Ti3  1  0.92164557  0.86083687  0.28707098  1
+  Ti  Ti4  1  0.78248344  0.28707098  0.13916313  1
+  Ti  Ti5  1  0.43044658  0.28707098  0.86083687  1
+  Ti  Ti6  1  0.20871656  0.71292902  0.86083687  1
+  Ti  Ti7  1  0.57835443  0.71292902  0.13916313  1
+  Ti  Ti8  1  0.71751656  0.86083687  0.71292902  1
+  Ti  Ti9  1  0.29128344  0.13916313  0.28707098  1
+  Zn  Zn0  1  0.25000000  0.00000000  0.00000000  1
+  Si  Si0  1  0.75000000  0.00000000  0.00000000  1
+  Sb  Sb0  1  0.16368426  0.50000000  0.17263049  1
+  Sb  Sb1  1  0.83631574  0.50000000  0.82736951  1
+  Sb  Sb2  1  0.33631574  0.82736951  0.50000000  1
+  Sb  Sb3  1  0.66368426  0.17263049  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Ti1 2.576269 1_455
+Ti0 Ti1 2.576269 1_555
+Ti2 Zn0 2.690146 1_556
+Ti3 Zn0 2.690146 1_665
+Ti4 Zn0 2.690143 1_655
+Ti5 Zn0 2.690146 1_556
+Ti6 Zn0 2.690145 1_566
+Ti7 Zn0 2.690146 1_565
+Ti8 Zn0 2.690144 1_566
+Ti9 Zn0 2.690146 1_555
+Si0 Zn0 2.576269 1_555
+Si0 Zn0 2.576269 1_655
+Si0 Ti7 2.668343 1_545
+Si0 Ti5 2.668343 1_554
+Si0 Ti3 2.668343 1_545
+Si0 Ti6 2.668344 1_644
+Si0 Ti2 2.668344 1_654
+Si0 Ti9 2.668344 1_555
+Si0 Ti4 2.668346 1_555
+Si0 Ti8 2.668346 1_544
+Sb0 Ti1 2.733216 1_455
+Sb0 Ti0 2.733218 1_555
+Sb0 Ti6 2.780342 1_554
+Sb0 Ti5 2.780343 1_554
+Sb0 Ti9 2.787606 1_555
+Sb0 Ti3 2.787606 1_455
+Sb0 Ti7 3.006659 1_455
+Sb0 Ti4 3.006668 1_555
+Sb0 Ti4 3.045263 1_455
+Sb0 Ti7 3.045272 1_555
+Sb1 Ti0 2.733216 1_655
+Sb1 Ti1 2.733218 1_555
+Sb1 Ti4 2.780342 1_556
+Sb1 Ti7 2.780342 1_556
+Sb1 Ti8 2.787605 1_555
+Sb1 Ti2 2.787606 1_655
+Sb1 Ti6 3.006659 1_655
+Sb1 Ti5 3.006664 1_555
+Sb1 Ti5 3.045268 1_655
+Sb1 Ti6 3.045272 1_555
+Sb2 Ti1 2.733216 1_555
+Sb2 Ti0 2.733218 1_555
+Sb2 Ti9 2.780342 1_565
+Sb2 Ti2 2.780342 1_565
+Sb2 Ti6 2.787606 1_555
+Sb2 Ti7 2.787606 1_555
+Sb2 Ti3 3.006660 1_555
+Sb2 Ti8 3.006669 1_455
+Sb2 Ti8 3.045263 1_555
+Sb2 Ti3 3.045272 1_455
+Sb3 Ti0 2.733216 1_555
+Sb3 Ti1 2.733218 1_555
+Sb3 Ti8 2.780342 1_545
+Sb3 Ti3 2.780342 1_545
+Sb3 Ti4 2.787606 1_555
+Sb3 Ti5 2.787606 1_555
+Sb3 Ti9 3.006659 1_555
+Sb3 Ti2 3.006664 1_655
+Sb3 Ti2 3.045268 1_555
+Sb3 Ti9 3.045272 1_655

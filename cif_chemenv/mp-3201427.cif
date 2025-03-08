@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_Rb2Zr(Te2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15197166
+_cell_length_b   8.15197221
+_cell_length_c   6.41625958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.60210165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Zr(Te2Au)2
+_chemical_formula_sum   'Rb2 Zr1 Te4 Au2'
+_cell_volume   308.76904360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.00000000  0.25392148  1
+  Rb  Rb1  1  0.00000000  0.50000000  0.74607852  1
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.86131675  0.64465836  0.24707319  1
+  Te  Te1  1  0.13868325  0.35534164  0.24707319  1
+  Te  Te2  1  0.64465836  0.86131675  0.75292681  1
+  Te  Te3  1  0.35534164  0.13868325  0.75292681  1
+  Au  Au0  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Te1 3.833868 1_655
+Rb0 Te0 3.833868 1_445
+Rb0 Te3 3.841719 1_555
+Rb0 Te2 3.841719 1_545
+Rb0 Te3 3.852364 1_554
+Rb0 Te2 3.852364 1_544
+Rb0 Te0 3.865878 1_555
+Rb0 Te1 3.865878 1_545
+Rb0 Rb1 4.503774 1_655
+Rb0 Rb1 4.503774 1_545
+Rb1 Te3 3.833869 1_565
+Rb1 Te2 3.833869 1_445
+Rb1 Te0 3.841719 1_455
+Rb1 Te1 3.841719 1_555
+Rb1 Te1 3.852364 1_556
+Rb1 Te0 3.852364 1_456
+Rb1 Te2 3.865878 1_555
+Rb1 Te3 3.865878 1_455
+Te0 Zr0 2.768630 1_665
+Te1 Zr0 2.768630 1_555
+Te2 Zr0 2.768630 1_666
+Te3 Zr0 2.768630 1_556
+Au0 Te3 2.790305 1_555
+Au0 Te2 2.790305 1_445
+Au0 Te1 2.790306 1_555
+Au0 Te0 2.790306 1_445
+Au0 Zr0 3.208130 1_556
+Au0 Zr0 3.208130 1_555
+Au1 Te0 2.790797 1_555
+Au1 Te1 2.790797 1_555
+Au1 Te2 2.790797 1_554
+Au1 Te3 2.790797 1_554
+Au1 Zr0 3.211266 1_555
+Au1 Zr0 3.211266 1_665

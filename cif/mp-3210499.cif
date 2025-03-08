@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LuCO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19185994
+_cell_length_b   6.18147123
+_cell_length_c   6.59989412
+_cell_angle_alpha   90.00241932
+_cell_angle_beta   90.00487362
+_cell_angle_gamma   91.12047308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCO3F
+_chemical_formula_sum   'Lu2 C2 O6 F2'
+_cell_volume   170.98284223
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.49766949  0.34693703  0.24999643  1
+  Lu  Lu1  1  0.50232998  0.65306360  0.75000409  1
+  C  C0  1  0.49567524  0.79985541  0.24999291  1
+  C  C1  1  0.50432400  0.20014522  0.75000887  1
+  O  O0  1  0.50120529  0.68335399  0.08606624  1
+  O  O1  1  0.48477042  0.00174807  0.24999809  1
+  O  O2  1  0.50086712  0.68335979  0.41392478  1
+  O  O3  1  0.49912598  0.31664374  0.58607852  1
+  O  O4  1  0.51520599  0.99825098  0.75000666  1
+  O  O5  1  0.49882164  0.31665488  0.91393075  1
+  F  F0  1  0.99790603  0.36279000  0.24994611  1
+  F  F1  1  0.00209582  0.63719829  0.75004554  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 O1 2.133403 1_555
+Lu0 O5 2.225889 1_554
+Lu0 O3 2.226022 1_555
+Lu0 O2 2.343952 1_555
+Lu0 O0 2.343992 1_555
+Lu1 O4 2.133393 1_555
+Lu1 O0 2.225869 1_556
+Lu1 O2 2.226006 1_555
+Lu1 O3 2.343927 1_555
+Lu1 O5 2.343937 1_555
+C0 O1 1.249723 1_565
+C0 O0 1.300096 1_555
+C0 O2 1.300112 1_555
+C1 O4 1.249728 1_545
+C1 O5 1.300095 1_555
+C1 O3 1.300115 1_555
+F0 Lu0 2.097295 1_555
+F0 Lu0 2.099142 1_655
+F1 Lu1 2.097287 1_555
+F1 Lu1 2.099157 1_455

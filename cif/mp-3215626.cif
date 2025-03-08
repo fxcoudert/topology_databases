@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Ba3In2(BiAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54676979
+_cell_length_b   9.54676877
+_cell_length_c   7.52140814
+_cell_angle_alpha   89.42591579
+_cell_angle_beta   89.42591646
+_cell_angle_gamma   75.46020291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3In2(BiAs)2
+_chemical_formula_sum   'Ba6 In4 Bi4 As4'
+_cell_volume   663.49953504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00110845  0.73266680  0.53441178  1
+  Ba  Ba1  1  0.26733320  0.99889155  0.96558822  1
+  Ba  Ba2  1  0.99889155  0.26733320  0.46558822  1
+  Ba  Ba3  1  0.73266680  0.00110845  0.03441178  1
+  Ba  Ba4  1  0.41656073  0.58343927  0.25000000  1
+  Ba  Ba5  1  0.58343927  0.41656073  0.75000000  1
+  In  In0  1  0.81329816  0.58799031  0.09132986  1
+  In  In1  1  0.41200969  0.18670184  0.40867014  1
+  In  In2  1  0.18670184  0.41200969  0.90867014  1
+  In  In3  1  0.58799031  0.81329816  0.59132986  1
+  Bi  Bi0  1  0.06391280  0.71568048  0.02870803  1
+  Bi  Bi1  1  0.28431952  0.93608720  0.47129197  1
+  Bi  Bi2  1  0.93608720  0.28431952  0.97129197  1
+  Bi  Bi3  1  0.71568048  0.06391280  0.52870803  1
+  As  As0  1  0.73986205  0.56779010  0.43615165  1
+  As  As1  1  0.43220990  0.26013795  0.06384835  1
+  As  As2  1  0.26013795  0.43220990  0.56384835  1
+  As  As3  1  0.56779010  0.73986205  0.93615165  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Bi3 3.619430 1_465
+Ba0 Bi1 3.728171 1_555
+Ba0 Bi0 3.767177 1_556
+Ba0 Bi0 3.843311 1_555
+Ba1 Bi2 3.619430 1_465
+Ba1 Bi0 3.728171 1_556
+Ba1 Bi1 3.767177 1_555
+Ba1 Bi1 3.843311 1_556
+Ba2 Bi1 3.619430 1_645
+Ba2 Bi3 3.728171 1_555
+Ba2 Bi2 3.767177 1_554
+Ba2 Bi2 3.843311 1_555
+Ba3 Bi0 3.619430 1_645
+Ba3 Bi2 3.728171 1_554
+Ba3 Bi3 3.767177 1_555
+Ba3 Bi3 3.843311 1_554
+Ba4 Bi1 3.692501 1_555
+Ba4 Bi0 3.692501 1_555
+Ba5 Bi3 3.692501 1_555
+Ba5 Bi2 3.692501 1_555
+Bi0 In0 2.977007 1_455
+Bi0 In2 2.986438 1_554
+Bi1 In1 2.977007 1_565
+Bi1 In3 2.986438 1_555
+Bi2 In2 2.977007 1_655
+Bi2 In0 2.986438 1_556
+Bi3 In3 2.977007 1_545
+Bi3 In1 2.986438 1_555
+As0 In3 2.696756 1_555
+As0 In0 2.697518 1_555
+As0 Ba2 3.290684 1_555
+As0 Ba5 3.290959 1_555
+As0 Ba0 3.357904 1_655
+As0 Ba4 3.370448 1_555
+As1 In2 2.696756 1_554
+As1 In1 2.697518 1_555
+As1 Ba3 3.290685 1_555
+As1 Ba5 3.290959 1_554
+As1 Ba1 3.357904 1_544
+As1 Ba4 3.370448 1_555
+As2 In1 2.696756 1_555
+As2 In2 2.697518 1_555
+As2 Ba0 3.290684 1_555
+As2 Ba4 3.290959 1_555
+As2 Ba2 3.357904 1_455
+As2 Ba5 3.370448 1_555
+As3 In0 2.696756 1_556
+As3 In3 2.697518 1_555
+As3 Ba1 3.290685 1_555
+As3 Ba4 3.290959 1_556
+As3 Ba3 3.357904 1_566
+As3 Ba5 3.370448 1_555

@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Lu2GaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12187626
+_cell_length_b   5.18174924
+_cell_length_c   5.18174924
+_cell_angle_alpha   60.65321972
+_cell_angle_beta   66.56364760
+_cell_angle_gamma   66.56364760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2GaNi2
+_chemical_formula_sum   'Lu2 Ga1 Ni2'
+_cell_volume   85.61978814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.20171486  0.29828514  0.29828514  1
+  Lu  Lu1  1  0.79828514  0.70171486  0.70171486  1
+  Ga  Ga0  1  0.00000000  0.00000000  -0.00000000  1
+  Ni  Ni0  1  0.50000000  0.26780290  0.73219710  1
+  Ni  Ni1  1  0.50000000  0.73219710  0.26780290  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Ni0 2.751698 1_554
+Lu0 Ni1 2.751698 1_545
+Lu0 Ni1 2.878961 1_555
+Lu0 Ni0 2.878961 1_555
+Lu0 Ni1 2.878961 1_455
+Lu0 Ni0 2.878961 1_455
+Lu1 Ni0 2.751698 1_565
+Lu1 Ni1 2.751698 1_556
+Lu1 Ni0 2.878961 1_555
+Lu1 Ni1 2.878961 1_555
+Lu1 Ni1 2.878961 1_655
+Lu1 Ni0 2.878961 1_655
+Ga0 Ni0 2.492247 1_554
+Ga0 Ni1 2.492247 1_545
+Ga0 Ni0 2.492247 1_454
+Ga0 Ni1 2.492247 1_445
+Ga0 Lu0 3.067610 1_554
+Ga0 Lu0 3.067610 1_545
+Ga0 Lu1 3.067610 1_445
+Ga0 Lu1 3.067610 1_454
+Ga0 Lu1 3.139343 1_444
+Ga0 Lu0 3.139343 1_555
+Ga0 Lu0 3.139344 1_455
+Ga0 Lu1 3.139344 1_544
+Ni0 Ni1 2.430094 1_555

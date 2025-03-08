@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TaP(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25096499
+_cell_length_b   7.42236478
+_cell_length_c   7.57091521
+_cell_angle_alpha   88.70321955
+_cell_angle_beta   79.73920686
+_cell_angle_gamma   84.25645158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaP(OF3)2
+_chemical_formula_sum   'Ta2 P2 O4 F12'
+_cell_volume   288.89304681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.57672004  0.24235125  0.74353769  1
+  Ta  Ta1  1  0.42327996  0.75764875  0.25646231  1
+  P  P0  1  0.21585351  0.19291492  0.15723230  1
+  P  P1  1  0.78414649  0.80708508  0.84276770  1
+  O  O0  1  0.60551555  0.72636727  0.99205222  1
+  O  O1  1  0.76597186  0.00824231  0.83240816  1
+  O  O2  1  0.39448445  0.27363273  0.00794778  1
+  O  O3  1  0.23402814  0.99175769  0.16759184  1
+  F  F0  1  0.38719924  0.44960362  0.67796365  1
+  F  F1  1  0.25819491  0.26961673  0.33367498  1
+  F  F2  1  0.06322510  0.73659249  0.85123027  1
+  F  F3  1  0.75678755  0.18999614  0.51303340  1
+  F  F4  1  0.24321245  0.81000386  0.48696660  1
+  F  F5  1  0.61280076  0.55039638  0.32203635  1
+  F  F6  1  0.84014896  0.36677306  0.81052376  1
+  F  F7  1  0.15985104  0.63322694  0.18947624  1
+  F  F8  1  0.31326581  0.09065733  0.72527103  1
+  F  F9  1  0.68673419  0.90934267  0.27472897  1
+  F  F10  1  0.74180509  0.73038327  0.66632502  1
+  F  F11  1  0.93677490  0.26340751  0.14876973  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 P1 1.490069 1_555
+O0 Ta1 2.066647 1_556
+O1 P1 1.487730 1_545
+O1 Ta0 2.073479 1_555
+O2 P0 1.490069 1_555
+O2 Ta0 2.066647 1_554
+O3 P0 1.487730 1_565
+O3 Ta1 2.073479 1_555
+F0 Ta0 1.854249 1_555
+F1 P0 1.524322 1_555
+F2 P1 1.517835 1_455
+F3 Ta0 1.860056 1_555
+F4 Ta1 1.860056 1_555
+F5 Ta1 1.854249 1_555
+F6 Ta0 1.884212 1_555
+F7 Ta1 1.884212 1_555
+F8 Ta0 1.894087 1_555
+F9 Ta1 1.894087 1_555
+F10 P1 1.524322 1_555
+F11 P0 1.517835 1_655

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_YSiTc2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79084953
+_cell_length_b   5.79084946
+_cell_length_c   7.25915903
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.95445431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSiTc2C
+_chemical_formula_sum   'Y2 Si2 Tc4 C2'
+_cell_volume   153.34465684
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.54342216  0.45657784  0.25000000  1
+  Y  Y1  1  0.45657784  0.54342216  0.75000000  1
+  Si  Si0  1  0.26682876  0.73317124  0.25000000  1
+  Si  Si1  1  0.73317124  0.26682876  0.75000000  1
+  Tc  Tc0  1  0.82879887  0.17120113  0.05933138  1
+  Tc  Tc1  1  0.17120113  0.82879887  0.94066862  1
+  Tc  Tc2  1  0.17120113  0.82879887  0.55933138  1
+  Tc  Tc3  1  0.82879887  0.17120113  0.44066862  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+  C  C1  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Tc3 2.473517 1_455
+Si0 Tc0 2.473517 1_455
+Si0 Tc3 2.473517 1_565
+Si0 Tc0 2.473517 1_565
+Si0 Tc2 2.476256 1_555
+Si0 Tc1 2.476256 1_554
+Si0 Y0 3.019253 1_555
+Si0 Y0 3.113215 1_565
+Si0 Y0 3.113215 1_455
+Si1 Tc1 2.473517 1_655
+Si1 Tc2 2.473517 1_655
+Si1 Tc1 2.473517 1_545
+Si1 Tc2 2.473517 1_545
+Si1 Tc0 2.476256 1_556
+Si1 Tc3 2.476256 1_555
+Si1 Y1 3.019253 1_555
+Si1 Y1 3.113215 1_545
+Si1 Y1 3.113215 1_655
+C0 Tc0 1.917795 1_455
+C0 Tc1 1.917795 1_544
+C0 Y1 2.695015 1_554
+C0 Y0 2.695015 1_445
+C0 Y0 2.695015 1_555
+C0 Y1 2.695015 1_444
+C1 Tc2 1.917795 1_545
+C1 Tc3 1.917795 1_455
+C1 Y1 2.695015 1_555
+C1 Y0 2.695015 1_445
+C1 Y0 2.695015 1_555
+C1 Y1 2.695015 1_445

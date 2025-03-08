@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_KCaI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93655237
+_cell_length_b   7.93655237
+_cell_length_c   11.69103370
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.32668306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaI3
+_chemical_formula_sum   'K2 Ca2 I6'
+_cell_volume   408.30480750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.24948358  0.75051642  0.25000000  1
+  K  K1  1  0.75051642  0.24948358  0.75000000  1
+  Ca  Ca0  1  -0.00000000  0.00000000  -0.00000000  1
+  Ca  Ca1  1  -0.00000000  0.00000000  0.50000000  1
+  I  I0  1  0.63585905  0.36414095  0.05704685  1
+  I  I1  1  0.36414095  0.63585905  0.94295315  1
+  I  I2  1  0.36414095  0.63585905  0.55704685  1
+  I  I3  1  0.63585905  0.36414095  0.44295315  1
+  I  I4  1  0.92520720  0.07479280  0.25000000  1
+  I  I5  1  0.07479280  0.92520720  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 I5 3.135874 1_544
+Ca0 I4 3.135874 1_455
+Ca0 I1 3.160624 1_444
+Ca0 I0 3.160624 1_555
+Ca0 I1 3.160624 1_554
+Ca0 I0 3.160624 1_445
+Ca1 I4 3.135874 1_455
+Ca1 I5 3.135874 1_545
+Ca1 I3 3.160624 1_445
+Ca1 I2 3.160624 1_445
+Ca1 I2 3.160624 1_555
+Ca1 I3 3.160624 1_555
+I0 K0 3.654188 1_655
+I0 K0 3.654188 1_545
+I0 K1 3.990027 1_554
+I0 I1 4.369453 1_654
+I0 I1 4.369453 1_544
+I1 K1 3.654188 1_565
+I1 K1 3.654188 1_455
+I1 K0 3.990027 1_556
+I2 K1 3.654188 1_565
+I2 K1 3.654188 1_455
+I2 K0 3.990027 1_555
+I2 I3 4.369453 1_565
+I2 I3 4.369453 1_455
+I3 K0 3.654188 1_655
+I3 K0 3.654188 1_545
+I3 K1 3.990027 1_555
+I4 K0 3.523032 1_545
+I4 K0 3.523032 1_655
+I5 K1 3.523032 1_455
+I5 K1 3.523032 1_565

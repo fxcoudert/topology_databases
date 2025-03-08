@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_NbTe5Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30384220
+_cell_length_b   7.30384209
+_cell_length_c   15.57643604
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.06389804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTe5Pt
+_chemical_formula_sum   'Nb2 Te10 Pt2'
+_cell_volume   414.66833820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.50499061  0.49500939  0.75000000  1
+  Nb  Nb1  1  0.49500939  0.50499061  0.25000000  1
+  Te  Te0  1  0.15789633  0.84210367  0.75000000  1
+  Te  Te1  1  0.84210367  0.15789633  0.25000000  1
+  Te  Te2  1  0.39774031  0.60225969  0.08231553  1
+  Te  Te3  1  0.60225969  0.39774031  0.91768447  1
+  Te  Te4  1  0.90003057  0.09996943  0.85345775  1
+  Te  Te5  1  0.09996943  0.90003057  0.14654225  1
+  Te  Te6  1  0.09996943  0.90003057  0.35345775  1
+  Te  Te7  1  0.90003057  0.09996943  0.64654225  1
+  Te  Te8  1  0.39774031  0.60225969  0.41768447  1
+  Te  Te9  1  0.60225969  0.39774031  0.58231553  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Te0 2.866148 1_545
+Nb0 Te0 2.866149 1_655
+Nb0 Te7 2.889559 1_565
+Nb0 Te4 2.889559 1_565
+Nb0 Te7 2.889559 1_455
+Nb0 Te4 2.889559 1_455
+Nb0 Te3 2.950656 1_555
+Nb0 Te9 2.950656 1_555
+Nb1 Te1 2.866148 1_565
+Nb1 Te1 2.866149 1_455
+Nb1 Te5 2.889559 1_545
+Nb1 Te6 2.889559 1_545
+Nb1 Te5 2.889559 1_655
+Nb1 Te6 2.889559 1_655
+Nb1 Te8 2.950656 1_555
+Nb1 Te2 2.950656 1_555
+Pt0 Te4 2.683388 1_454
+Pt0 Te5 2.683388 1_545
+Pt0 Te2 2.699104 1_555
+Pt0 Te3 2.699104 1_444
+Pt0 Te2 2.699104 1_445
+Pt0 Te3 2.699104 1_554
+Pt1 Te6 2.683388 1_545
+Pt1 Te7 2.683388 1_455
+Pt1 Te9 2.699104 1_445
+Pt1 Te8 2.699104 1_555
+Pt1 Te9 2.699104 1_555
+Pt1 Te8 2.699104 1_445

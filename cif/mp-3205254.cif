@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_K(Bi3Rh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46098182
+_cell_length_b   8.46098258
+_cell_length_c   8.46098273
+_cell_angle_alpha   109.47122563
+_cell_angle_beta   109.47122746
+_cell_angle_gamma   109.47121855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(Bi3Rh)4
+_chemical_formula_sum   'K1 Bi12 Rh4'
+_cell_volume   466.27317197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi0  1  0.84057710  0.66173080  0.50230690  1
+  Bi  Bi1  1  0.15942290  0.33826920  0.49769310  1
+  Bi  Bi2  1  0.15942290  0.66173080  0.82115471  1
+  Bi  Bi3  1  0.84057710  0.33826920  0.17884529  1
+  Bi  Bi4  1  0.66173080  0.50230690  0.84057710  1
+  Bi  Bi5  1  0.33826920  0.49769310  0.15942290  1
+  Bi  Bi6  1  0.66173080  0.82115471  0.15942290  1
+  Bi  Bi7  1  0.33826920  0.17884529  0.84057710  1
+  Bi  Bi8  1  0.50230690  0.84057710  0.66173080  1
+  Bi  Bi9  1  0.49769310  0.15942290  0.33826920  1
+  Bi  Bi10  1  0.17884529  0.84057710  0.33826920  1
+  Bi  Bi11  1  0.82115471  0.15942290  0.66173080  1
+  Rh  Rh0  1  0.50000000  0.50000000  0.50000000  1
+  Rh  Rh1  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh2  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh3  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 Rh3 2.737236 1_665
+Bi0 Rh0 2.737245 1_555
+Bi0 Bi2 3.115101 1_655
+Bi0 Bi3 3.160188 1_555
+Bi0 K0 3.653501 1_666
+Bi1 Rh3 2.737236 1_555
+Bi1 Rh0 2.737245 1_555
+Bi1 Bi3 3.115101 1_455
+Bi1 Bi2 3.160188 1_555
+Bi1 K0 3.653501 1_555
+Bi2 Rh2 2.737233 1_556
+Bi2 Rh1 2.737242 1_566
+Bi2 K0 3.653493 1_566
+Bi3 Rh2 2.737233 1_655
+Bi3 Rh1 2.737242 1_555
+Bi3 K0 3.653493 1_655
+Bi4 Rh2 2.737236 1_656
+Bi4 Rh0 2.737245 1_555
+Bi4 Bi6 3.115102 1_556
+Bi4 Bi7 3.160188 1_555
+Bi4 K0 3.653501 1_666
+Bi5 Rh2 2.737236 1_555
+Bi5 Rh0 2.737245 1_555
+Bi5 Bi7 3.115102 1_554
+Bi5 Bi6 3.160188 1_555
+Bi5 K0 3.653501 1_555
+Bi6 Rh1 2.737233 1_565
+Bi6 Rh3 2.737241 1_665
+Bi6 K0 3.653493 1_665
+Bi7 Rh1 2.737233 1_556
+Bi7 Rh3 2.737241 1_555
+Bi7 K0 3.653493 1_556
+Bi8 Rh1 2.737236 1_566
+Bi8 Rh0 2.737245 1_555
+Bi8 K0 3.653501 1_666
+Bi9 Rh1 2.737236 1_555
+Bi9 Rh0 2.737245 1_555
+Bi9 K0 3.653501 1_555
+Bi10 Rh3 2.737233 1_565
+Bi10 Rh2 2.737242 1_555
+Bi10 Bi9 3.115102 1_565
+Bi10 Bi8 3.160188 1_555
+Bi10 K0 3.653493 1_565
+Bi11 Rh3 2.737233 1_655
+Bi11 Rh2 2.737242 1_656
+Bi11 Bi8 3.115102 1_545
+Bi11 Bi9 3.160188 1_555
+Bi11 K0 3.653493 1_656

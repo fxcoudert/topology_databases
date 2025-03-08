@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiPb4IO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26297299
+_cell_length_b   8.26297299
+_cell_length_c   6.98640789
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPb4IO4
+_chemical_formula_sum   'Li2 Pb8 I2 O8'
+_cell_volume   477.00903356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00127532  1
+  Li  Li1  1  0.00000000  0.50000000  0.99872468  1
+  Pb  Pb0  1  0.19072410  0.14570036  0.20678436  1
+  Pb  Pb1  1  0.35429964  0.69072410  0.20678436  1
+  Pb  Pb2  1  0.64570036  0.30927590  0.20678436  1
+  Pb  Pb3  1  0.30927590  0.35429964  0.79321564  1
+  Pb  Pb4  1  0.14570036  0.80927590  0.79321564  1
+  Pb  Pb5  1  0.85429964  0.19072410  0.79321564  1
+  Pb  Pb6  1  0.80927590  0.85429964  0.20678436  1
+  Pb  Pb7  1  0.69072410  0.64570036  0.79321564  1
+  I  I0  1  0.00000000  0.50000000  0.45387190  1
+  I  I1  1  0.50000000  0.00000000  0.54612810  1
+  O  O0  1  0.73713808  0.08510417  0.06010987  1
+  O  O1  1  0.41489583  0.23713808  0.06010987  1
+  O  O2  1  0.26286192  0.91489583  0.06010987  1
+  O  O3  1  0.58510417  0.76286192  0.06010987  1
+  O  O4  1  0.91489583  0.73713808  0.93989013  1
+  O  O5  1  0.23713808  0.58510417  0.93989013  1
+  O  O6  1  0.08510417  0.26286192  0.93989013  1
+  O  O7  1  0.76286192  0.41489583  0.93989013  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 2.122020 1_555
+Li0 O0 2.122020 1_555
+Li0 O2 2.122020 1_545
+Li0 O3 2.122020 1_545
+Li1 O5 2.122020 1_555
+Li1 O4 2.122020 1_455
+Li1 O6 2.122020 1_555
+Li1 O7 2.122020 1_455
+I0 Li1 3.179844 1_554
+I1 Li0 3.179844 1_556
+O0 Pb6 2.245556 1_545
+O0 Pb2 2.247671 1_555
+O0 Pb5 2.275025 1_554
+O1 Pb2 2.245556 1_555
+O1 Pb0 2.247671 1_555
+O1 Pb3 2.275025 1_554
+O2 Pb0 2.245556 1_565
+O2 Pb1 2.247671 1_555
+O2 Pb4 2.275025 1_554
+O3 Pb1 2.245556 1_555
+O3 Pb6 2.247671 1_555
+O3 Pb7 2.275025 1_554
+O4 Pb4 2.245556 1_655
+O4 Pb7 2.247671 1_555
+O4 Pb6 2.275025 1_556
+O5 Pb3 2.245556 1_555
+O5 Pb4 2.247671 1_555
+O5 Pb1 2.275025 1_556
+O6 Pb5 2.245556 1_455
+O6 Pb3 2.247671 1_555
+O6 Pb0 2.275025 1_556
+O7 Pb7 2.245556 1_555
+O7 Pb5 2.247671 1_555
+O7 Pb2 2.275025 1_556

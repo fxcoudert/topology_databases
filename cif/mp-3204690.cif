@@ -1,0 +1,106 @@
+# generated using pymatgen
+data_Mg2CdSn11Ir6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12602270
+_cell_length_b   8.15533681
+_cell_length_c   8.15533648
+_cell_angle_alpha   108.63121246
+_cell_angle_beta   110.14570699
+_cell_angle_gamma   110.14571065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2CdSn11Ir6
+_chemical_formula_sum   'Mg2 Cd1 Sn11 Ir6'
+_cell_volume   413.33890239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.68939135  0.99553084  0.99667740  1
+  Mg  Mg1  1  0.31060865  0.00332260  0.00446916  1
+  Cd  Cd0  1  0.50000000  0.75772732  0.24227268  1
+  Sn  Sn0  1  0.50000000  0.24200547  0.75799453  1
+  Sn  Sn1  1  0.26114823  0.52093863  0.76522994  1
+  Sn  Sn2  1  0.74195714  0.49012357  0.24545844  1
+  Sn  Sn3  1  0.73885177  0.23477006  0.47906137  1
+  Sn  Sn4  1  0.25804286  0.75454156  0.50987643  1
+  Sn  Sn5  1  0.32990347  0.32383119  0.32123176  1
+  Sn  Sn6  1  0.67009653  0.67876824  0.67616881  1
+  Sn  Sn7  1  0.00111729  0.99713478  0.67483114  1
+  Sn  Sn8  1  0.00905429  0.67861656  0.00086601  1
+  Sn  Sn9  1  0.99094571  0.99913399  0.32138344  1
+  Sn  Sn10  1  0.99888271  0.32516886  0.00286522  1
+  Ir  Ir0  1  0.00829144  0.34858138  0.34899468  1
+  Ir  Ir1  1  0.99170856  0.65100532  0.65141862  1
+  Ir  Ir2  1  0.33715492  0.00656389  0.35391321  1
+  Ir  Ir3  1  0.66211036  0.00639554  0.66024559  1
+  Ir  Ir4  1  0.33788964  0.33975441  0.99360446  1
+  Ir  Ir5  1  0.66284508  0.64608679  0.99343611  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 Sn9 2.906688 1_556
+Mg0 Sn6 2.941862 1_555
+Mg0 Sn10 2.953524 1_566
+Mg1 Sn8 2.906688 1_545
+Mg1 Sn5 2.941862 1_555
+Mg1 Sn7 2.953524 1_544
+Cd0 Ir3 2.849067 1_565
+Cd0 Ir4 2.849068 1_554
+Cd0 Ir5 2.863102 1_554
+Cd0 Ir2 2.863102 1_565
+Sn5 Sn6 2.832364 1_555
+Ir0 Sn9 2.735634 1_445
+Ir0 Sn10 2.739967 1_455
+Ir0 Sn4 2.750160 1_555
+Ir0 Sn3 2.758525 1_455
+Ir0 Sn5 2.768348 1_555
+Ir0 Mg0 2.776125 1_444
+Ir0 Sn2 2.795388 1_455
+Ir0 Sn1 2.806781 1_555
+Ir1 Sn8 2.735634 1_656
+Ir1 Sn7 2.739967 1_655
+Ir1 Sn2 2.750160 1_555
+Ir1 Sn1 2.758526 1_655
+Ir1 Sn6 2.768348 1_555
+Ir1 Mg1 2.776125 1_666
+Ir1 Sn4 2.795388 1_655
+Ir1 Sn3 2.806781 1_555
+Ir2 Sn5 2.702609 1_555
+Ir2 Sn9 2.710524 1_445
+Ir2 Sn8 2.726109 1_545
+Ir2 Sn3 2.732636 1_555
+Ir2 Sn0 2.738744 1_555
+Ir2 Sn4 2.752985 1_545
+Ir2 Mg1 2.773675 1_555
+Ir3 Sn10 2.691835 1_556
+Ir3 Mg0 2.708295 1_545
+Ir3 Sn4 2.734101 1_545
+Ir3 Sn6 2.737794 1_545
+Ir3 Sn7 2.744448 1_645
+Ir3 Sn0 2.747915 1_555
+Ir3 Sn3 2.762993 1_555
+Ir4 Sn7 2.691835 1_545
+Ir4 Mg1 2.708295 1_556
+Ir4 Sn2 2.734101 1_556
+Ir4 Sn5 2.737794 1_556
+Ir4 Sn10 2.744448 1_456
+Ir4 Sn0 2.747915 1_555
+Ir4 Sn1 2.762993 1_555
+Ir5 Sn6 2.702609 1_555
+Ir5 Sn8 2.710524 1_656
+Ir5 Sn9 2.726109 1_556
+Ir5 Sn1 2.732636 1_555
+Ir5 Sn0 2.738744 1_555
+Ir5 Sn2 2.752985 1_556
+Ir5 Mg0 2.773675 1_555

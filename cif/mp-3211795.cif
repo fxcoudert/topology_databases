@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Na4Sr(GeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83629845
+_cell_length_b   6.83629830
+_cell_length_c   7.71174227
+_cell_angle_alpha   81.46396802
+_cell_angle_beta   81.46397562
+_cell_angle_gamma   119.79255071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Sr(GeS3)2
+_chemical_formula_sum   'Na4 Sr1 Ge2 S6'
+_cell_volume   298.76325695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.82394543  0.17605457  1.00000000  1
+  Na  Na1  1  0.17494771  0.82505229  0.00000000  1
+  Na  Na2  1  0.50082677  0.49917323  1.00000000  1
+  Na  Na3  1  0.66632191  0.33367809  0.50000000  1
+  Sr  Sr0  1  0.33407858  0.66592142  0.50000000  1
+  Ge  Ge0  1  0.05268148  0.05286518  0.33667065  1
+  Ge  Ge1  1  0.94713482  0.94731852  0.66332935  1
+  S  S0  1  0.08192714  0.39373392  0.24636621  1
+  S  S1  1  0.39502918  0.08496416  0.24640949  1
+  S  S2  1  0.91503584  0.60497082  0.75359051  1
+  S  S3  1  0.60626608  0.91807286  0.75363379  1
+  S  S4  1  0.77536445  0.77356038  0.24573494  1
+  S  S5  1  0.22643962  0.22463555  0.75426506  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S0 2.856676 1_656
+Na0 S3 2.856676 1_545
+Na0 S4 2.937644 1_546
+Na0 S5 2.937644 1_655
+Na0 S2 2.962542 1_555
+Na0 S1 2.962543 1_556
+Na1 S2 2.868144 1_454
+Na1 S1 2.868144 1_565
+Na1 S5 2.913211 1_564
+Na1 S4 2.913211 1_455
+Na1 S0 2.970420 1_555
+Na1 S3 2.970420 1_554
+Na2 S1 2.848118 1_556
+Na2 S2 2.848118 1_555
+Na2 S3 2.873529 1_555
+Na2 S0 2.873529 1_556
+Na2 S4 3.040547 1_556
+Na2 S5 3.040547 1_555
+Na3 S3 3.003241 1_545
+Na3 S0 3.003242 1_655
+Na3 S4 3.005260 1_555
+Na3 S5 3.005261 1_555
+Na3 S1 3.014185 1_555
+Na3 S2 3.014185 1_555
+Ge0 S4 2.219634 1_445
+Ge0 S0 2.229147 1_555
+Ge0 S1 2.229528 1_555
+Ge1 S5 2.219634 1_665
+Ge1 S3 2.229148 1_555
+Ge1 S2 2.229528 1_555
+S0 Sr0 3.025487 1_555
+S1 Sr0 3.018846 1_545
+S2 Sr0 3.018846 1_655
+S3 Sr0 3.025487 1_555
+S4 Sr0 3.016096 1_555
+S5 Sr0 3.016096 1_555

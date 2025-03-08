@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_Hf3Nb(As2Pd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88269644
+_cell_length_b   3.60670699
+_cell_length_c   13.19801360
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.21895416
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Nb(As2Pd)4
+_chemical_formula_sum   'Hf3 Nb1 As8 Pd4'
+_cell_volume   280.02235304
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.97900336  0.75000100  0.16701020  1
+  Hf  Hf1  1  0.48126264  0.75000100  0.33175687  1
+  Hf  Hf2  1  0.52026472  0.24999900  0.67166525  1
+  Nb  Nb0  1  0.01978519  0.24999900  0.83061989  1
+  As  As0  1  0.17563522  0.24999900  0.03178245  1
+  As  As1  1  0.64989582  0.24999900  0.19853041  1
+  As  As2  1  0.15102352  0.24999900  0.29922467  1
+  As  As3  1  0.67945241  0.24999900  0.46690601  1
+  As  As4  1  0.32801228  0.75000100  0.53526068  1
+  As  As5  1  0.85391054  0.75000100  0.70297411  1
+  As  As6  1  0.34256499  0.75000100  0.80170713  1
+  As  As7  1  0.82433131  0.75000100  0.96118437  1
+  Pd  Pd0  1  0.46206078  0.75000100  0.08851021  1
+  Pd  Pd1  1  0.96551501  0.75000100  0.40986463  1
+  Pd  Pd2  1  0.03603132  0.24999900  0.59357799  1
+  Pd  Pd3  1  0.53124988  0.24999900  0.90942814  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Pd0 3.028372 1_655
+Hf0 Pd1 3.206481 1_555
+Hf0 Pd0 3.208907 1_555
+Hf1 Pd1 3.025787 1_555
+Hf1 Pd1 3.208063 1_455
+Hf1 Pd0 3.211928 1_555
+Hf2 Pd2 3.025591 1_555
+Hf2 Pd3 3.138416 1_555
+Hf2 Pd2 3.208081 1_655
+Nb0 Pd3 3.060067 1_455
+Nb0 Pd2 3.130307 1_555
+Nb0 Pd3 3.179739 1_555
+As0 Pd0 2.577214 1_545
+As0 Pd0 2.577224 1_555
+As0 Pd3 2.647614 1_554
+As0 Hf0 2.791261 1_445
+As0 Hf0 2.791270 1_455
+As0 Nb0 2.805475 1_554
+As0 As7 2.894201 1_444
+As0 As7 2.894210 1_454
+As1 Pd0 2.563047 1_545
+As1 Pd0 2.563058 1_555
+As1 Hf0 2.679463 1_545
+As1 Hf0 2.679473 1_555
+As1 Hf1 2.709464 1_545
+As1 Hf1 2.709473 1_555
+As2 Pd1 2.566596 1_445
+As2 Pd1 2.566606 1_455
+As2 Hf1 2.684046 1_545
+As2 Hf1 2.684056 1_555
+As2 Hf0 2.703239 1_445
+As2 Hf0 2.703249 1_455
+As3 Pd1 2.580771 1_545
+As3 Pd1 2.580781 1_555
+As3 Pd2 2.677366 1_655
+As3 Hf1 2.788736 1_545
+As3 Hf1 2.788746 1_555
+As3 Hf2 2.863448 1_555
+As3 As4 2.890396 1_545
+As3 As4 2.890405 1_555
+As4 Pd2 2.608607 1_565
+As4 Pd2 2.608617 1_555
+As4 Pd1 2.694322 1_455
+As4 Hf2 2.785057 1_565
+As4 Hf2 2.785066 1_555
+As4 Hf1 2.836375 1_555
+As5 Pd2 2.548781 1_665
+As5 Pd2 2.548792 1_655
+As5 Nb0 2.651372 1_665
+As5 Nb0 2.651382 1_655
+As5 Hf2 2.696098 1_565
+As5 Hf2 2.696107 1_555
+As6 Pd3 2.548192 1_565
+As6 Pd3 2.548202 1_555
+As6 Nb0 2.647396 1_565
+As6 Nb0 2.647406 1_555
+As6 Hf2 2.702629 1_565
+As6 Hf2 2.702638 1_555
+As7 Pd3 2.584996 1_565
+As7 Pd3 2.585006 1_555
+As7 Pd0 2.719004 1_556
+As7 Nb0 2.749295 1_665
+As7 Nb0 2.749304 1_655
+As7 Hf0 2.861527 1_556
+Pd0 Pd3 3.001889 1_564
+Pd0 Pd3 3.001897 1_554
+Pd1 Pd2 3.048834 1_665
+Pd1 Pd2 3.048842 1_655

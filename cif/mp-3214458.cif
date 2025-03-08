@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_SrCdSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23605457
+_cell_length_b   6.23605465
+_cell_length_c   10.53022384
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.74066544
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCdSnS4
+_chemical_formula_sum   'Sr2 Cd2 Sn2 S8'
+_cell_volume   368.86789458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.95494975  0.95494975  0.50000000  1
+  Sr  Sr1  1  0.95494975  0.95494975  0.00000000  1
+  Cd  Cd0  1  0.66793204  0.34238149  0.75000000  1
+  Cd  Cd1  1  0.34238149  0.66793204  0.25000000  1
+  Sn  Sn0  1  0.24404052  0.67613462  0.75000000  1
+  Sn  Sn1  1  0.67613462  0.24404052  0.25000000  1
+  S  S0  1  0.99294928  0.46755052  0.57366059  1
+  S  S1  1  0.46755052  0.99294928  0.42633941  1
+  S  S2  1  0.65246292  0.76345914  0.75000000  1
+  S  S3  1  0.76345914  0.65246292  0.25000000  1
+  S  S4  1  0.99294928  0.46755052  0.92633941  1
+  S  S5  1  0.46755052  0.99294928  0.07366059  1
+  S  S6  1  0.23922696  0.06426420  0.75000000  1
+  S  S7  1  0.06426420  0.23922696  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 S6 2.475440 1_555
+Cd0 S4 2.605989 1_555
+Cd0 S0 2.605989 1_555
+Cd0 S2 2.669173 1_555
+Cd1 S7 2.475440 1_555
+Cd1 S1 2.605989 1_555
+Cd1 S5 2.605989 1_555
+Cd1 S3 2.669173 1_555
+S0 Sn0 2.413022 1_655
+S0 Sr0 3.196583 1_545
+S0 Sr0 3.243710 1_555
+S1 Sn1 2.413022 1_565
+S1 Sr0 3.196583 1_455
+S1 Sr0 3.243710 1_555
+S2 Sn0 2.361939 1_555
+S2 Sr1 3.155630 1_556
+S2 Sr0 3.155630 1_555
+S3 Sn1 2.361939 1_555
+S3 Sr0 3.155630 1_555
+S3 Sr1 3.155630 1_555
+S4 Sn0 2.413022 1_655
+S4 Sr1 3.196583 1_546
+S4 Sr1 3.243710 1_556
+S5 Sn1 2.413022 1_565
+S5 Sr1 3.196583 1_455
+S5 Sr1 3.243710 1_555
+S6 Sn0 2.433584 1_545
+S6 Sr1 3.080272 1_446
+S6 Sr0 3.080272 1_445
+S7 Sn1 2.433584 1_455
+S7 Sr1 3.080272 1_445
+S7 Sr0 3.080272 1_445

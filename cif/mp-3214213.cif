@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_BaSr2C3Cl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68757236
+_cell_length_b   7.68757310
+_cell_length_c   11.93121990
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.29729922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr2C3Cl2
+_chemical_formula_sum   'Ba2 Sr4 C6 Cl4'
+_cell_volume   370.54909833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.11560791  0.88439209  0.25000000  1
+  Ba  Ba1  1  0.88439209  0.11560791  0.75000000  1
+  Sr  Sr0  1  0.65753491  0.34246509  0.56232820  1
+  Sr  Sr1  1  0.34246509  0.65753491  0.43767180  1
+  Sr  Sr2  1  0.34246509  0.65753491  0.06232820  1
+  Sr  Sr3  1  0.65753491  0.34246509  0.93767180  1
+  C  C0  1  0.26288179  0.73711821  0.63881175  1
+  C  C1  1  0.73711821  0.26288179  0.36118825  1
+  C  C2  1  0.73711821  0.26288179  0.13881175  1
+  C  C3  1  0.26288179  0.73711821  0.86118825  1
+  C  C4  1  0.74589920  0.25410080  0.25000000  1
+  C  C5  1  0.25410080  0.74589920  0.75000000  1
+  Cl  Cl0  1  0.53676352  0.46323648  0.75000000  1
+  Cl  Cl1  1  0.46323648  0.53676352  0.25000000  1
+  Cl  Cl2  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 C4 2.850048 1_565
+Ba0 C4 2.850049 1_455
+Ba0 C1 3.065776 1_565
+Ba0 C2 3.065776 1_565
+Ba0 C1 3.065776 1_455
+Ba0 C2 3.065776 1_455
+Ba0 Cl1 3.080275 1_455
+Ba0 Cl1 3.080276 1_565
+Ba0 Cl3 3.438150 1_565
+Ba0 Cl2 3.438150 1_565
+Ba1 C5 2.850048 1_545
+Ba1 C5 2.850049 1_655
+Ba1 C3 3.065776 1_545
+Ba1 C0 3.065776 1_545
+Ba1 C3 3.065776 1_655
+Ba1 C0 3.065776 1_655
+Ba1 Cl0 3.080275 1_655
+Ba1 Cl0 3.080276 1_545
+Ba1 Cl2 3.438150 1_656
+Ba1 Cl3 3.438150 1_655
+C0 C5 1.332954 1_555
+C0 Sr1 2.672969 1_555
+C0 Sr0 2.769418 1_455
+C0 Sr0 2.769419 1_565
+C1 C4 1.332954 1_555
+C1 Sr0 2.672969 1_555
+C1 Sr1 2.769418 1_655
+C1 Sr1 2.769419 1_545
+C2 C4 1.332954 1_555
+C2 Sr3 2.672969 1_554
+C2 Sr2 2.769418 1_655
+C2 Sr2 2.769419 1_545
+C3 C5 1.332954 1_555
+C3 Sr2 2.672969 1_556
+C3 Sr3 2.769418 1_455
+C3 Sr3 2.769419 1_565
+Cl0 Sr3 2.864360 1_555
+Cl0 Sr0 2.864360 1_555
+Cl1 Sr1 2.864360 1_555
+Cl1 Sr2 2.864360 1_555
+Cl2 Sr2 3.223534 1_445
+Cl2 Sr3 3.223534 1_554
+Cl2 Sr2 3.223534 1_555
+Cl2 Sr3 3.223534 1_444
+Cl3 Sr1 3.223534 1_445
+Cl3 Sr0 3.223534 1_555
+Cl3 Sr1 3.223534 1_555
+Cl3 Sr0 3.223534 1_445

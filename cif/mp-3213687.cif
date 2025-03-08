@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_AlGa3(PbI8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85394698
+_cell_length_b   8.42033661
+_cell_length_c   15.37354869
+_cell_angle_alpha   87.80513839
+_cell_angle_beta   89.98569100
+_cell_angle_gamma   90.02789608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGa3(PbI8)2
+_chemical_formula_sum   'Al1 Ga3 Pb2 I16'
+_cell_volume   1015.95095788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.43164485  0.64420798  0.27862406  1
+  Ga  Ga0  1  0.93630239  0.21920034  0.57883991  1
+  Ga  Ga1  1  0.06436200  0.21909306  0.07877937  1
+  Ga  Ga2  1  0.56771775  0.64358758  0.77777921  1
+  Pb  Pb0  1  0.75638447  0.07832378  0.81357060  1
+  Pb  Pb1  1  0.24391590  0.07990682  0.31291381  1
+  I  I0  1  0.42313975  0.61633258  0.63441410  1
+  I  I1  1  0.57360726  0.61658058  0.13544362  1
+  I  I2  1  0.88510330  0.72794013  0.76159989  1
+  I  I3  1  0.11670870  0.72872832  0.26173303  1
+  I  I4  1  0.94675765  0.47569942  0.49171157  1
+  I  I5  1  0.05321279  0.47539872  0.99170044  1
+  I  I6  1  0.92340215  0.98043945  0.00478081  1
+  I  I7  1  0.07792795  0.98210563  0.50371524  1
+  I  I8  1  0.62621847  0.12805464  0.61482628  1
+  I  I9  1  0.37505003  0.13005288  0.11448824  1
+  I  I10  1  0.54950497  0.38978344  0.87864707  1
+  I  I11  1  0.44904751  0.39240247  0.37915820  1
+  I  I12  1  0.42502309  0.86332385  0.86827134  1
+  I  I13  1  0.57462223  0.86224073  0.36767694  1
+  I  I14  1  0.90970765  0.24089165  0.22789733  1
+  I  I15  1  0.09063815  0.24050397  0.72783195  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 I1 2.486113 1_555
+Al0 I11 2.579235 1_555
+Al0 I3 2.584565 1_555
+Al0 I13 2.587886 1_555
+Ga0 I4 2.498776 1_555
+Ga0 I7 2.595176 1_645
+Ga0 I15 2.603973 1_655
+Ga0 I8 2.605987 1_555
+Ga1 I5 2.497299 1_554
+Ga1 I6 2.594546 1_445
+Ga1 I9 2.605501 1_555
+Ga1 I14 2.606827 1_455
+Ga2 I0 2.497907 1_555
+Ga2 I10 2.595792 1_555
+Ga2 I2 2.600864 1_555
+Ga2 I12 2.610219 1_555
+I2 Pb0 3.247768 1_565
+I3 Pb1 3.246087 1_565
+I6 Pb0 3.295230 1_564
+I7 Pb1 3.285415 1_565
+I8 Pb0 3.234187 1_555
+I9 Pb1 3.231711 1_555
+I10 Pb0 3.274641 1_555
+I11 Pb1 3.280026 1_555
+I12 Pb0 3.261184 1_565
+I13 Pb1 3.271360 1_565
+I14 Pb1 3.210155 1_655
+I15 Pb0 3.217287 1_455

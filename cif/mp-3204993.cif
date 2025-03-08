@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_YCoRe2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68228175
+_cell_length_b   5.68228240
+_cell_length_c   7.40676704
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.48471450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCoRe2C
+_chemical_formula_sum   'Y2 Co2 Re4 C2'
+_cell_volume   152.16869014
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.53387181  0.46612819  0.25000000  1
+  Y  Y1  1  0.46612819  0.53387181  0.75000000  1
+  Co  Co0  1  0.26204265  0.73795735  0.25000000  1
+  Co  Co1  1  0.73795735  0.26204265  0.75000000  1
+  Re  Re0  1  0.82337541  0.17662459  0.06463889  1
+  Re  Re1  1  0.17662459  0.82337541  0.93536111  1
+  Re  Re2  1  0.17662459  0.82337541  0.56463889  1
+  Re  Re3  1  0.82337541  0.17662459  0.43536111  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+  C  C1  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Re3 2.450493 1_565
+Co0 Re0 2.450493 1_565
+Co0 Re3 2.450493 1_455
+Co0 Re0 2.450493 1_455
+Co0 Re2 2.503134 1_555
+Co0 Re1 2.503134 1_554
+Co0 Y0 2.907360 1_555
+Co0 Y0 3.105684 1_455
+Co0 Y0 3.105685 1_565
+Co1 Re1 2.450493 1_545
+Co1 Re2 2.450493 1_545
+Co1 Re1 2.450493 1_655
+Co1 Re2 2.450493 1_655
+Co1 Re0 2.503134 1_556
+Co1 Re3 2.503134 1_555
+Co1 Y1 2.907360 1_555
+Co1 Y1 3.105684 1_655
+Co1 Y1 3.105685 1_545
+C0 Re0 1.948820 1_455
+C0 Re1 1.948820 1_544
+C0 Y0 2.692523 1_555
+C0 Y1 2.692523 1_444
+C0 Y1 2.692523 1_554
+C0 Y0 2.692523 1_445
+C1 Re2 1.948820 1_545
+C1 Re3 1.948820 1_455
+C1 Y0 2.692523 1_555
+C1 Y1 2.692523 1_445
+C1 Y1 2.692523 1_555
+C1 Y0 2.692523 1_445

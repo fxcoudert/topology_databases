@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_K2SrCaSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24165092
+_cell_length_b   8.43349629
+_cell_length_c   10.15267701
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrCaSb2
+_chemical_formula_sum   'K4 Sr2 Ca2 Sb4'
+_cell_volume   448.80359084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.03001916  0.41646641  1
+  K  K1  1  0.00000000  0.33753866  0.33974746  1
+  K  K2  1  0.50000000  0.53001916  0.58353359  1
+  K  K3  1  0.00000000  0.83753866  0.66025254  1
+  Sr  Sr0  1  0.00000000  0.49223730  0.94585586  1
+  Sr  Sr1  1  0.00000000  0.99223730  0.05414414  1
+  Ca  Ca0  1  0.50000000  0.15156446  0.81859711  1
+  Ca  Ca1  1  0.50000000  0.65156446  0.18140289  1
+  Sb  Sb0  1  0.00000000  0.25503016  0.67997871  1
+  Sb  Sb1  1  0.50000000  0.27913127  0.11092846  1
+  Sb  Sb2  1  0.00000000  0.75503016  0.32002129  1
+  Sb  Sb3  1  0.50000000  0.77913127  0.88907154  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Sb2 3.633982 1_645
+K0 Sb2 3.633982 1_545
+K0 Sb1 3.746505 1_555
+K1 Sb0 3.523647 1_555
+K1 Sb2 3.526604 1_555
+K1 Sb1 3.536703 1_555
+K1 Sb1 3.536703 1_455
+K2 Sb0 3.633982 1_655
+K2 Sb0 3.633982 1_555
+K2 Sb3 3.746505 1_555
+K3 Sb2 3.523647 1_555
+K3 Sb0 3.526604 1_565
+K3 Sb3 3.536703 1_555
+K3 Sb3 3.536703 1_455
+Ca0 Sb0 3.100120 1_555
+Ca0 Sb0 3.100120 1_655
+Ca0 Sb1 3.156916 1_556
+Ca0 Sb3 3.221380 1_545
+Ca1 Sb2 3.100120 1_555
+Ca1 Sb2 3.100120 1_655
+Ca1 Sb3 3.156916 1_554
+Ca1 Sb1 3.221380 1_555
+Sb0 Sr0 3.359838 1_555
+Sb1 Sr0 3.592700 1_654
+Sb1 Sr0 3.592700 1_554
+Sb1 Sr1 3.613193 1_645
+Sb1 Sr1 3.613193 1_545
+Sb2 Sr1 3.359838 1_555
+Sb3 Sr1 3.592700 1_656
+Sb3 Sr1 3.592700 1_556
+Sb3 Sr0 3.613193 1_555
+Sb3 Sr0 3.613193 1_655

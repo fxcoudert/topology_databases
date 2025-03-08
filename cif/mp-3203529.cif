@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_BaSiPdSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.68695920
+_cell_length_b   8.68695935
+_cell_length_c   8.68695860
+_cell_angle_alpha   124.71785388
+_cell_angle_beta   124.71784791
+_cell_angle_gamma   82.00589036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSiPdSe4
+_chemical_formula_sum   'Ba2 Si2 Pd2 Se8'
+_cell_volume   425.92288356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.25000000  0.00000000  1
+  Ba  Ba1  1  0.75000000  0.75000000  0.00000000  1
+  Si  Si0  1  0.75000000  0.25000000  0.50000000  1
+  Si  Si1  1  0.25000000  0.75000000  0.50000000  1
+  Pd  Pd0  1  0.50000000  0.00000000  0.50000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  0.50000000  1
+  Se  Se0  1  0.21360586  0.71360686  0.19858573  1
+  Se  Se1  1  0.48497886  0.98497886  0.19858573  1
+  Se  Se2  1  0.01502114  0.21360686  0.50000000  1
+  Se  Se3  1  0.28639414  0.48497886  0.50000000  1
+  Se  Se4  1  0.71360686  0.51502114  0.50000000  1
+  Se  Se5  1  0.98497886  0.78639414  0.50000000  1
+  Se  Se6  1  0.51502114  0.01502114  0.80141527  1
+  Se  Se7  1  0.78639414  0.28639414  0.80141527  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Se3 3.413009 1_555
+Ba0 Se6 3.413009 1_554
+Ba0 Se5 3.413009 1_444
+Ba0 Se7 3.413009 1_454
+Ba0 Se2 3.413014 1_554
+Ba0 Se1 3.413014 1_545
+Ba0 Se4 3.413014 1_555
+Ba0 Se0 3.413016 1_555
+Ba1 Se0 3.413007 1_655
+Ba1 Se5 3.413009 1_555
+Ba1 Se7 3.413009 1_554
+Ba1 Se6 3.413009 1_564
+Ba1 Se3 3.413009 1_554
+Ba1 Se4 3.413014 1_554
+Ba1 Se1 3.413014 1_555
+Ba1 Se2 3.413014 1_665
+Pd0 Se1 2.473116 1_545
+Pd0 Se0 2.473121 1_545
+Pd0 Se6 2.473125 1_555
+Pd0 Se7 2.473125 1_555
+Pd1 Se4 2.473117 1_455
+Pd1 Se2 2.473117 1_555
+Pd1 Se3 2.473125 1_555
+Pd1 Se5 2.473125 1_455
+Se0 Si1 2.279855 1_555
+Se1 Si0 2.279859 1_565
+Se2 Si0 2.279859 1_455
+Se3 Si1 2.279859 1_555
+Se4 Si0 2.279859 1_555
+Se5 Si1 2.279859 1_655
+Se6 Si1 2.279859 1_545
+Se7 Si0 2.279859 1_555

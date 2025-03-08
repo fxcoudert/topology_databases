@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Sc10Bi(SbTe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03654614
+_cell_length_b   8.03225963
+_cell_length_c   10.83338670
+_cell_angle_alpha   70.44968810
+_cell_angle_beta   70.42547632
+_cell_angle_gamma   53.90191072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc10Bi(SbTe2)3
+_chemical_formula_sum   'Sc10 Bi1 Sb3 Te6'
+_cell_volume   523.67268635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00628389  0.79499717  0.95051356  1
+  Sc  Sc1  1  0.39610279  0.20776649  0.15058925  1
+  Sc  Sc2  1  0.80359655  0.59685918  0.35399632  1
+  Sc  Sc3  1  0.20456588  0.99355910  0.04951260  1
+  Sc  Sc4  1  0.20703402  0.00005450  0.54868925  1
+  Sc  Sc5  1  0.59171384  0.40388221  0.24968850  1
+  Sc  Sc6  1  0.59634909  0.40866536  0.75060695  1
+  Sc  Sc7  1  0.00035959  0.79290421  0.45158575  1
+  Sc  Sc8  1  0.40226979  0.19684192  0.64560201  1
+  Sc  Sc9  1  0.79209611  0.60413447  0.84905208  1
+  Bi  Bi0  1  0.96445100  0.43224378  0.10015214  1
+  Sb  Sb0  1  0.43339625  0.56680190  0.99969792  1
+  Sb  Sb1  1  0.23328519  0.36587740  0.40075612  1
+  Sb  Sb2  1  0.63385690  0.76692981  0.59940442  1
+  Te  Te0  1  0.83329940  0.96695561  0.20009686  1
+  Te  Te1  1  0.36665452  0.83427777  0.30012147  1
+  Te  Te2  1  0.76832848  0.23095192  0.50098577  1
+  Te  Te3  1  0.16580847  0.63363449  0.69973982  1
+  Te  Te4  1  0.03329716  0.16668767  0.80001316  1
+  Te  Te5  1  0.56725407  0.03597302  0.89919503  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Te3 2.961241 1_555
+Sc0 Te0 2.978131 1_456
+Sc0 Te4 2.981190 1_565
+Sc0 Te5 3.008541 1_465
+Sc1 Te0 2.989033 1_545
+Sc1 Te5 2.996963 1_554
+Sc1 Te1 3.001198 1_545
+Sc2 Te2 2.966653 1_555
+Sc2 Te0 2.987664 1_555
+Sc2 Te1 3.007600 1_555
+Sc3 Te1 2.964096 1_555
+Sc3 Te4 2.975898 1_564
+Sc3 Te0 2.977562 1_455
+Sc3 Te5 2.980275 1_564
+Sc4 Te1 2.956746 1_545
+Sc4 Te4 2.973808 1_555
+Sc4 Te2 3.001931 1_455
+Sc4 Te3 3.002041 1_545
+Sc5 Te1 2.958913 1_555
+Sc5 Te0 2.984761 1_545
+Sc5 Te2 3.015079 1_555
+Sc6 Te3 2.963907 1_555
+Sc6 Te4 2.985965 1_655
+Sc6 Te5 2.992456 1_555
+Sc6 Te2 3.002512 1_555
+Sc7 Te3 2.953104 1_555
+Sc7 Te0 2.978238 1_455
+Sc7 Te2 3.000655 1_465
+Sc7 Te1 3.003282 1_555
+Sc8 Te2 2.959427 1_555
+Sc8 Te4 2.983475 1_555
+Sc8 Te5 3.003554 1_555
+Sc8 Te3 3.006403 1_555
+Sc9 Te5 2.968085 1_565
+Sc9 Te4 2.986520 1_655
+Sc9 Te3 3.003263 1_655
+Bi0 Sc1 2.970510 1_655
+Bi0 Sc0 2.976345 1_654
+Bi0 Sc5 2.992469 1_555
+Bi0 Sc9 2.997057 1_554
+Bi0 Sc3 3.002146 1_645
+Bi0 Sc2 3.003210 1_555
+Sb0 Sc3 2.927152 1_556
+Sb0 Sc6 2.928527 1_555
+Sb0 Sc0 2.929841 1_555
+Sb0 Sc9 2.932922 1_555
+Sb0 Sc1 2.934925 1_556
+Sb0 Sc5 2.939546 1_556
+Sb1 Sc8 2.924770 1_555
+Sb1 Sc7 2.929131 1_555
+Sb1 Sc4 2.932447 1_555
+Sb1 Sc5 2.934615 1_555
+Sb1 Sc2 2.935513 1_455
+Sb1 Sc1 2.939246 1_555
+Sb2 Sc4 2.929170 1_565
+Sb2 Sc6 2.931133 1_555
+Sb2 Sc8 2.932268 1_565
+Sb2 Sc2 2.932549 1_555
+Sb2 Sc9 2.935954 1_555
+Sb2 Sc7 2.936562 1_655

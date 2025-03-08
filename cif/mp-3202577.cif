@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_NaGePIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83084336
+_cell_length_b   5.83084372
+_cell_length_c   5.83084290
+_cell_angle_alpha   139.36119372
+_cell_angle_beta   139.36120488
+_cell_angle_gamma   58.82452599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGePIr2
+_chemical_formula_sum   'Na1 Ge1 P1 Ir2'
+_cell_volume   83.29501027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00114989  0.00114989  0.00000000  1
+  Ge  Ge0  1  0.38241301  0.38241301  0.00000000  1
+  P  P0  1  0.63046389  0.63046389  1.00000000  1
+  Ir  Ir0  1  0.74298610  0.24298610  0.50000000  1
+  Ir  Ir1  1  0.24298610  0.74298610  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 P0 3.150417 1_443
+Na0 P0 3.150418 1_555
+Na0 P0 3.150418 1_544
+Na0 P0 3.150418 1_454
+Ge0 Ir0 2.471005 1_555
+Ge0 Ir0 2.471005 1_454
+Ge0 Ir1 2.471005 1_555
+Ge0 Ir1 2.471006 1_544
+Ge0 P0 2.519849 1_554
+Ge0 Na0 3.107149 1_554
+Ge0 Na0 3.107150 1_666
+Ge0 Na0 3.107150 1_655
+Ge0 Na0 3.107150 1_565
+Ir0 P0 2.325153 1_555
+Ir0 P0 2.325153 1_544
+Ir0 Ir1 2.863470 1_656
+Ir0 Ir1 2.863470 1_544
+Ir0 Ir1 2.863470 1_645
+Ir0 Ir1 2.863470 1_555
+Ir0 Na0 3.183581 1_656
+Ir0 Na0 3.183581 1_555
+Ir0 Na0 3.313256 1_655
+Ir0 Na0 3.313257 1_666
+Ir1 P0 2.325152 1_555
+Ir1 P0 2.325152 1_454
+Ir1 Na0 3.183581 1_566
+Ir1 Na0 3.183581 1_555
+Ir1 Na0 3.313256 1_565
+Ir1 Na0 3.313256 1_666

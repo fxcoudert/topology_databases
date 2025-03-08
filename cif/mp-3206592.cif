@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_K2NaBSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66853253
+_cell_length_b   7.66853180
+_cell_length_c   9.97510512
+_cell_angle_alpha   60.97292623
+_cell_angle_beta   60.97292867
+_cell_angle_gamma   58.67819711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaBSe3
+_chemical_formula_sum   'K4 Na2 B2 Se6'
+_cell_volume   416.30621203
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.37360628  0.81495275  0.99075888  1
+  K  K1  1  0.81495275  0.37360628  0.49075888  1
+  K  K2  1  0.62639372  0.18504725  0.00924112  1
+  K  K3  1  0.18504725  0.62639372  0.50924112  1
+  Na  Na0  1  0.00000000  0.50000000  0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  0.50000000  1
+  B  B0  1  0.90657499  0.09342501  0.25000000  1
+  B  B1  1  0.09342501  0.90657499  0.75000000  1
+  Se  Se0  1  0.10053726  0.17159125  0.72952972  1
+  Se  Se1  1  0.82840875  0.89946274  0.77047028  1
+  Se  Se2  1  0.89946274  0.82840875  0.27047028  1
+  Se  Se3  1  0.17159125  0.10053726  0.22952972  1
+  Se  Se4  1  0.35855958  0.64144042  0.75000000  1
+  Se  Se5  1  0.64144042  0.35855958  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se3 3.289799 1_566
+K0 Se1 3.308029 1_555
+K0 Se2 3.325685 1_456
+K0 Se0 3.328652 1_565
+K0 Se4 3.328822 1_555
+K0 Se5 3.471651 1_556
+K1 Se0 3.289800 1_655
+K1 Se2 3.308029 1_555
+K1 Se1 3.325684 1_545
+K1 Se3 3.328652 1_655
+K1 Se5 3.328822 1_555
+K1 Se4 3.471651 1_555
+K2 Se1 3.289799 1_544
+K2 Se3 3.308029 1_555
+K2 Se0 3.325685 1_654
+K2 Se2 3.328652 1_545
+K2 Se5 3.328822 1_555
+K2 Se4 3.471651 1_554
+K3 Se2 3.289800 1_455
+K3 Se0 3.308029 1_555
+K3 Se3 3.325684 1_565
+K3 Se1 3.328652 1_455
+K3 Se4 3.328822 1_555
+K3 Se5 3.471651 1_555
+Na0 Se3 2.878183 1_555
+Na0 Se1 2.878183 1_454
+Na0 Se4 2.962654 1_554
+Na0 Se5 2.962654 1_455
+Na1 Se2 2.878183 1_545
+Na1 Se0 2.878183 1_555
+Na1 Se5 2.962654 1_555
+Na1 Se4 2.962654 1_545
+B0 Se2 1.968902 1_545
+B0 Se3 1.968902 1_655
+B0 Se5 1.992437 1_555
+B1 Se0 1.968902 1_565
+B1 Se1 1.968902 1_455
+B1 Se4 1.992437 1_555

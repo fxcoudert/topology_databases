@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li2PAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27095196
+_cell_length_b   4.27095245
+_cell_length_c   7.73828099
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2PAu
+_chemical_formula_sum   'Li4 P2 Au2'
+_cell_volume   122.24316887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.33333300  0.66666700  0.41619608  1
+  Li  Li1  1  0.33333300  0.66666700  0.08175401  1
+  Li  Li2  1  0.66666700  0.33333300  0.91824599  1
+  Li  Li3  1  0.66666700  0.33333300  0.58380392  1
+  P  P0  1  0.33333300  0.66666700  0.74942442  1
+  P  P1  1  0.66666700  0.33333300  0.25057558  1
+  Au  Au0  1  0.00000000  0.00000000  0.75125851  1
+  Au  Au1  1  0.00000000  0.00000000  0.24874149  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 P0 2.578615 1_555
+Li0 Li1 2.588007 1_555
+Li0 P1 2.779007 1_455
+Li0 P1 2.779007 1_565
+Li0 P1 2.779013 1_555
+Li0 Li3 2.786132 1_455
+Li0 Li3 2.786132 1_565
+Li0 Li3 2.786139 1_555
+Li1 P0 2.571660 1_554
+Li1 Li2 2.771506 1_454
+Li1 Li2 2.771506 1_564
+Li1 Li2 2.771512 1_554
+Li1 P1 2.790517 1_455
+Li1 P1 2.790517 1_565
+Li1 P1 2.790523 1_555
+Li2 P1 2.571660 1_556
+Li2 Li3 2.588007 1_555
+Li2 P0 2.790517 1_655
+Li2 P0 2.790517 1_545
+Li2 P0 2.790523 1_555
+Li3 P1 2.578615 1_555
+Li3 P0 2.779007 1_655
+Li3 P0 2.779007 1_545
+Li3 P0 2.779013 1_555
+Au0 P0 2.465874 1_545
+Au0 P0 2.465878 1_445
+Au0 P0 2.465878 1_555
+Au0 Li2 2.783901 1_455
+Au0 Li2 2.783904 1_555
+Au0 Li2 2.783904 1_445
+Au0 Li3 2.785580 1_455
+Au0 Li3 2.785584 1_555
+Au0 Li3 2.785584 1_445
+Au1 P1 2.465874 1_455
+Au1 P1 2.465878 1_555
+Au1 P1 2.465878 1_445
+Au1 Li1 2.783901 1_545
+Au1 Li1 2.783904 1_445
+Au1 Li1 2.783904 1_555
+Au1 Li0 2.785580 1_545
+Au1 Li0 2.785584 1_445
+Au1 Li0 2.785584 1_555

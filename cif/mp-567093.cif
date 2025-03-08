@@ -1,16 +1,16 @@
 # generated using pymatgen
 data_Yb(SiOs)2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   5.64606834
-_cell_length_b   5.64606834
-_cell_length_c   5.64606834
-_cell_angle_alpha   136.19084564
-_cell_angle_beta   136.19084564
-_cell_angle_gamma   63.68542252
+_cell_length_a   5.57377470
+_cell_length_b   5.57377470
+_cell_length_c   5.57377470
+_cell_angle_alpha   136.24861349
+_cell_angle_beta   136.24861349
+_cell_angle_gamma   63.59620822
 _symmetry_Int_Tables_number   1
 _chemical_formula_structural   Yb(SiOs)2
 _chemical_formula_sum   'Yb1 Si2 Os2'
-_cell_volume   85.11838656
+_cell_volume   81.72468289
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -25,8 +25,8 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Yb  Yb0  1  0.00000000  0.00000000  0.00000000  1
-  Si  Si0  1  0.36886000  0.36886000  0.00000000  1
-  Si  Si1  1  0.63114000  0.63114000  0.00000000  1
+  Si  Si0  1  0.37200495  0.37200495  0.00000000  1
+  Si  Si1  1  0.62799505  0.62799505  0.00000000  1
   Os  Os0  1  0.25000000  0.75000000  0.50000000  1
   Os  Os1  1  0.75000000  0.25000000  0.50000000  1
 loop_
@@ -34,27 +34,28 @@ _geom_bond_atom_site_label_1
 _geom_bond_atom_site_label_2
 _geom_bond_distance
 _geom_bond_site_symmetry_2
-Si0 Yb0 3.233542 1_655
-Si0 Yb0 3.233542 1_565
-Si0 Yb0 3.233542 1_554
-Si0 Yb0 3.233542 1_666
-Si1 Yb0 3.233542 1_655
-Si1 Yb0 3.233542 1_666
-Si1 Yb0 3.233542 1_554
-Si1 Yb0 3.233542 1_565
-Os0 Si1 2.395132 1_556
-Os0 Si1 2.395132 1_455
-Os0 Si0 2.395132 1_555
-Os0 Si0 2.395132 1_566
-Os0 Yb0 3.191840 1_565
-Os0 Yb0 3.191840 1_566
-Os0 Yb0 3.191840 1_666
-Os0 Yb0 3.191840 1_555
-Os1 Si0 2.395132 1_656
-Os1 Si1 2.395132 1_556
-Os1 Si0 2.395132 1_555
-Os1 Si1 2.395132 1_545
-Os1 Yb0 3.191840 1_666
-Os1 Yb0 3.191840 1_656
-Os1 Yb0 3.191840 1_555
-Os1 Yb0 3.191840 1_655
+Si0 Si1 2.425356 1_555
+Si0 Yb0 3.177486 1_554
+Si0 Yb0 3.177486 1_655
+Si0 Yb0 3.177486 1_565
+Si0 Yb0 3.177486 1_666
+Si1 Yb0 3.177486 1_554
+Si1 Yb0 3.177486 1_666
+Si1 Yb0 3.177486 1_655
+Si1 Yb0 3.177486 1_565
+Os0 Si0 2.376779 1_566
+Os0 Si0 2.376779 1_555
+Os0 Si1 2.376779 1_556
+Os0 Si1 2.376779 1_455
+Os0 Yb0 3.150111 1_555
+Os0 Yb0 3.150111 1_566
+Os0 Yb0 3.150111 1_666
+Os0 Yb0 3.150111 1_565
+Os1 Si0 2.376779 1_656
+Os1 Si0 2.376779 1_555
+Os1 Si1 2.376779 1_556
+Os1 Si1 2.376779 1_545
+Os1 Yb0 3.150111 1_555
+Os1 Yb0 3.150111 1_666
+Os1 Yb0 3.150111 1_655
+Os1 Yb0 3.150111 1_656

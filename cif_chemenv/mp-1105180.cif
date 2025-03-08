@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_Sr2Sb2Se3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70021000
+_cell_length_b   4.05857800
+_cell_length_c   13.61676849
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.05226627
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Sb2Se3O2
+_chemical_formula_sum   'Sr4 Sb4 Se6 O4'
+_cell_volume   444.15628960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.10781300  0.48575600  0.39816600  1
+  Sr  Sr1  1  0.89218700  0.98575600  0.10183400  1
+  Sr  Sr2  1  0.89218700  0.51424400  0.60183400  1
+  Sr  Sr3  1  0.10781300  0.01424400  0.89816600  1
+  Sb  Sb0  1  0.64503000  0.48793800  0.19147800  1
+  Sb  Sb1  1  0.35497000  0.98793800  0.30852200  1
+  Sb  Sb2  1  0.35497000  0.51206200  0.80852200  1
+  Sb  Sb3  1  0.64503000  0.01206200  0.69147800  1
+  Se  Se0  1  0.50000000  0.50000000  0.50000000  1
+  Se  Se1  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se2  1  0.20933800  0.49281000  0.13244600  1
+  Se  Se3  1  0.79066200  0.99281000  0.36755400  1
+  Se  Se4  1  0.79066200  0.50719000  0.86755400  1
+  Se  Se5  1  0.20933800  0.00719000  0.63244600  1
+  O  O0  1  0.15242600  0.51159100  0.81253600  1
+  O  O1  1  0.84757400  0.01159100  0.68746400  1
+  O  O2  1  0.84757400  0.48840900  0.18746400  1
+  O  O3  1  0.15242600  0.98840900  0.31253600  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Se3 2.826502 1_545
+Sb0 Se3 2.854754 1_555
+Sb0 Se1 2.931064 1_555
+Sb0 Se1 2.998084 1_565
+Sb0 Se2 3.834533 1_555
+Sb1 Se2 2.826502 1_555
+Sb1 Se2 2.854754 1_565
+Sb1 Se0 2.931064 1_555
+Sb1 Se0 2.998084 1_565
+Sb1 Se3 3.834533 1_555
+Sb2 Se5 2.826502 1_565
+Sb2 Se5 2.854754 1_555
+Sb2 Se1 2.931064 1_566
+Sb2 Se1 2.998084 1_556
+Sb2 Se4 3.834533 1_555
+Sb3 Se4 2.826502 1_555
+Sb3 Se4 2.854754 1_545
+Sb3 Se0 2.931064 1_555
+Sb3 Se0 2.998084 1_545
+Sb3 Se5 3.834533 1_555
+Se0 Sr2 3.238996 1_555
+Se0 Sr0 3.238996 1_555
+Se1 Sr1 3.238996 1_545
+Se1 Sr3 3.238996 1_554
+Se2 Sr3 3.376533 1_554
+Se2 Sr3 3.479526 1_564
+Se2 Sr1 3.493523 1_455
+Se2 Sr1 3.526625 1_445
+Se2 Se4 3.619698 1_454
+Se3 Sr2 3.376533 1_555
+Se3 Sr2 3.479526 1_565
+Se3 Sr0 3.493523 1_665
+Se3 Sr0 3.526625 1_655
+Se3 Se5 3.619698 1_665
+Se4 Sr1 3.376533 1_556
+Se4 Sr1 3.479526 1_546
+Se4 Sr3 3.493523 1_655
+Se4 Sr3 3.526625 1_665
+Se5 Sr0 3.376533 1_555
+Se5 Sr0 3.479526 1_545
+Se5 Sr2 3.493523 1_445
+Se5 Sr2 3.526625 1_455
+O0 Sb2 1.995840 1_555
+O0 Sr3 2.487241 1_555
+O0 Sr3 2.504749 1_565
+O0 Sr2 2.548174 1_455
+O1 Sb3 1.995840 1_555
+O1 Sr2 2.487241 1_545
+O1 Sr2 2.504749 1_555
+O1 Sr3 2.548174 1_655
+O2 Sb0 1.995840 1_555
+O2 Sr1 2.487241 1_555
+O2 Sr1 2.504749 1_545
+O2 Sr0 2.548174 1_655
+O3 Sb1 1.995840 1_555
+O3 Sr0 2.487241 1_565
+O3 Sr0 2.504749 1_555
+O3 Sr1 2.548174 1_455

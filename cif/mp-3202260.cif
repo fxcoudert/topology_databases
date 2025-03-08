@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_HfZr3(InN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27406761
+_cell_length_b   3.27406847
+_cell_length_c   14.89191257
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998151
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3(InN)2
+_chemical_formula_sum   'Hf1 Zr3 In2 N2'
+_cell_volume   138.24727854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33333300  0.66666700  0.41646322  1
+  Zr  Zr0  1  0.66666700  0.33333300  0.58305133  1
+  Zr  Zr1  1  0.66666700  0.33333300  0.91660437  1
+  Zr  Zr2  1  0.33333300  0.66666700  0.08619123  1
+  In  In0  1  0.33333300  0.66666700  0.74974779  1
+  In  In1  1  0.66666700  0.33333300  0.25232900  1
+  N  N0  1  0.00000000  0.00000000  0.49448608  1
+  N  N1  1  0.00000000  0.00000000  0.00112798  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 N0 2.218828 1_565
+Hf0 N0 2.218831 1_665
+Hf0 N0 2.218832 1_555
+Hf0 In1 3.089925 1_455
+Hf0 In1 3.089925 1_565
+Hf0 In1 3.089928 1_555
+In0 Zr0 3.120196 1_455
+In0 Zr0 3.120196 1_565
+In0 Zr0 3.120199 1_555
+In0 Zr1 3.122093 1_455
+In0 Zr1 3.122093 1_565
+In0 Zr1 3.122096 1_555
+In1 Zr2 3.113580 1_655
+In1 Zr2 3.113581 1_545
+In1 Zr2 3.113584 1_555
+N0 Zr0 2.304925 1_455
+N0 Zr0 2.304927 1_555
+N0 Zr0 2.304928 1_445
+N1 Zr1 2.271021 1_454
+N1 Zr1 2.271024 1_554
+N1 Zr1 2.271024 1_444
+N1 Zr2 2.275485 1_545
+N1 Zr2 2.275488 1_445
+N1 Zr2 2.275488 1_555

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_AgGeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92326678
+_cell_length_b   5.16619264
+_cell_length_c   5.57514241
+_cell_angle_alpha   94.52390921
+_cell_angle_beta   115.54527125
+_cell_angle_gamma   119.60721618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgGeF6
+_chemical_formula_sum   'Ag1 Ge1 F6'
+_cell_volume   103.24545190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge0  1  0.00000000  0.50000000  0.50000000  1
+  F  F0  1  0.84017896  0.69193028  0.29158053  1
+  F  F1  1  0.15982104  0.30806972  0.70841947  1
+  F  F2  1  0.45977047  0.88485441  0.72828867  1
+  F  F3  1  0.54022953  0.11514559  0.27171133  1
+  F  F4  1  0.85855498  0.58069917  0.73516503  1
+  F  F5  1  0.14144502  0.41930083  0.26483497  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 F5 2.115541 1_555
+Ag0 F4 2.115541 1_444
+Ag0 F3 2.131260 1_555
+Ag0 F2 2.131260 1_444
+Ag0 F0 2.463456 1_445
+Ag0 F1 2.463456 1_554
+F0 Ge0 1.765389 1_655
+F1 Ge0 1.765389 1_555
+F2 Ge0 1.834634 1_555
+F3 Ge0 1.834634 1_655
+F4 Ge0 1.834592 1_655
+F5 Ge0 1.834592 1_555

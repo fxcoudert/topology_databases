@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_Na4Ca(SiS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65194385
+_cell_length_b   6.65194287
+_cell_length_c   7.57190785
+_cell_angle_alpha   81.53301019
+_cell_angle_beta   81.53300649
+_cell_angle_gamma   119.80870980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Ca(SiS3)2
+_chemical_formula_sum   'Na4 Ca1 Si2 S6'
+_cell_volume   277.89966201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50330659  0.49669341  1.00000000  1
+  Na  Na1  1  0.82075559  0.17924441  1.00000000  1
+  Na  Na2  1  0.17668470  0.82331530  0.00000000  1
+  Na  Na3  1  0.66636133  0.33363867  0.50000000  1
+  Ca  Ca0  1  0.33458208  0.66541792  0.50000000  1
+  Si  Si0  1  0.05085428  0.05167487  0.34128292  1
+  Si  Si1  1  0.94832513  0.94914572  0.65871708  1
+  S  S0  1  0.77145817  0.78008107  0.25350369  1
+  S  S1  1  0.21991893  0.22854183  0.74649631  1
+  S  S2  1  0.08903663  0.39252939  0.25475315  1
+  S  S3  1  0.38389656  0.07265059  0.25553398  1
+  S  S4  1  0.92734941  0.61610344  0.74446602  1
+  S  S5  1  0.60747061  0.91096337  0.74524685  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 S5 2.817375 1_555
+Na0 S2 2.817376 1_556
+Na0 S3 2.836154 1_556
+Na0 S4 2.836154 1_555
+Na0 S0 3.024983 1_556
+Na0 S1 3.024983 1_555
+Na1 S5 2.867218 1_545
+Na1 S2 2.867218 1_656
+Na1 S0 2.879287 1_546
+Na1 S1 2.879287 1_655
+Na1 S4 2.929641 1_555
+Na1 S3 2.929641 1_556
+Na2 S3 2.802141 1_565
+Na2 S4 2.802141 1_454
+Na2 S1 2.928517 1_564
+Na2 S0 2.928517 1_455
+Na2 S2 2.941481 1_555
+Na2 S5 2.941481 1_554
+Na3 S5 2.942830 1_545
+Na3 S2 2.942830 1_655
+Na3 S4 2.949290 1_555
+Na3 S3 2.949290 1_555
+Na3 S0 2.951432 1_555
+Na3 S1 2.951432 1_555
+Ca0 S1 2.879313 1_555
+Ca0 S0 2.879313 1_555
+Ca0 S3 2.886737 1_565
+Ca0 S4 2.886737 1_455
+Ca0 S2 2.889535 1_555
+Ca0 S5 2.889535 1_555
+S0 Si0 2.130477 1_665
+S1 Si1 2.130477 1_445
+S2 Si0 2.139072 1_555
+S3 Si0 2.142746 1_555
+S4 Si1 2.142745 1_555
+S5 Si1 2.139073 1_555

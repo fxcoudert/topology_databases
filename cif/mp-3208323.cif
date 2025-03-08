@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Zr2(ScSb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50947764
+_cell_length_b   8.50947721
+_cell_length_c   5.84844252
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2(ScSb)3
+_chemical_formula_sum   'Zr4 Sc6 Sb6'
+_cell_volume   366.75548244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66666700  0.33333300  0.00000000  1
+  Zr  Zr1  1  0.33333300  0.66666700  0.00000000  1
+  Zr  Zr2  1  0.33333300  0.66666700  0.50000000  1
+  Zr  Zr3  1  0.66666700  0.33333300  0.50000000  1
+  Sc  Sc0  1  0.74480894  0.74480894  0.75000000  1
+  Sc  Sc1  1  0.25519106  1.00000000  0.75000000  1
+  Sc  Sc2  1  1.00000000  0.25519106  0.75000000  1
+  Sc  Sc3  1  0.25519106  0.25519106  0.25000000  1
+  Sc  Sc4  1  0.74480894  0.00000000  0.25000000  1
+  Sc  Sc5  1  0.00000000  0.74480894  0.25000000  1
+  Sb  Sb0  1  0.38248601  0.38248601  0.75000000  1
+  Sb  Sb1  1  0.61751399  1.00000000  0.75000000  1
+  Sb  Sb2  1  1.00000000  0.61751399  0.75000000  1
+  Sb  Sb3  1  0.61751399  0.61751399  0.25000000  1
+  Sb  Sb4  1  0.38248601  0.00000000  0.25000000  1
+  Sb  Sb5  1  0.00000000  0.38248601  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sb0 Sc1 2.870748 1_545
+Sb0 Sc2 2.870748 1_455
+Sb0 Zr1 3.028535 1_556
+Sb0 Zr2 3.028535 1_555
+Sb0 Zr3 3.028535 1_555
+Sb0 Zr0 3.028535 1_556
+Sb0 Sc0 3.083179 1_555
+Sb0 Sc3 3.118400 1_556
+Sb0 Sc3 3.118400 1_555
+Sb1 Sc2 2.870748 1_565
+Sb1 Sc0 2.870748 1_555
+Sb1 Zr3 3.028528 1_565
+Sb1 Zr0 3.028528 1_566
+Sb1 Zr1 3.028530 1_556
+Sb1 Zr2 3.028530 1_555
+Sb1 Sc1 3.083179 1_555
+Sb1 Sc4 3.118400 1_566
+Sb1 Sc4 3.118400 1_565
+Sb2 Sc1 2.870747 1_655
+Sb2 Sc0 2.870748 1_555
+Sb2 Zr2 3.028528 1_655
+Sb2 Zr1 3.028528 1_656
+Sb2 Zr3 3.028530 1_555
+Sb2 Zr0 3.028530 1_556
+Sb2 Sc2 3.083179 1_555
+Sb2 Sc5 3.118400 1_656
+Sb2 Sc5 3.118400 1_655
+Sb3 Sc4 2.870748 1_565
+Sb3 Sc5 2.870748 1_655
+Sb3 Zr3 3.028535 1_555
+Sb3 Zr0 3.028535 1_555
+Sb3 Zr2 3.028535 1_555
+Sb3 Zr1 3.028535 1_555
+Sb3 Sc3 3.083179 1_555
+Sb3 Sc0 3.118400 1_554
+Sb3 Sc0 3.118400 1_555
+Sb4 Sc5 2.870748 1_545
+Sb4 Sc3 2.870748 1_555
+Sb4 Zr2 3.028528 1_545
+Sb4 Zr1 3.028528 1_545
+Sb4 Zr3 3.028530 1_555
+Sb4 Zr0 3.028530 1_555
+Sb4 Sc4 3.083179 1_555
+Sb4 Sc1 3.118400 1_545
+Sb4 Sc1 3.118400 1_544
+Sb5 Sc4 2.870747 1_455
+Sb5 Sc3 2.870748 1_555
+Sb5 Zr3 3.028528 1_455
+Sb5 Zr0 3.028528 1_455
+Sb5 Zr2 3.028530 1_555
+Sb5 Zr1 3.028530 1_555
+Sb5 Sc5 3.083179 1_555
+Sb5 Sc2 3.118400 1_455
+Sb5 Sc2 3.118400 1_454

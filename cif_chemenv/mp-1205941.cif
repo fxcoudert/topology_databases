@@ -1,0 +1,94 @@
+# generated using pymatgen
+data_LiTmGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93721238
+_cell_length_b   6.93721238
+_cell_length_c   4.18278519
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000916
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTmGe
+_chemical_formula_sum   'Li3 Tm3 Ge3'
+_cell_volume   174.32759318
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.23115109  -0.00000000  0.50000000  1
+  Li  Li1  1  -0.00000000  0.23115109  0.50000000  1
+  Li  Li2  1  0.76884891  0.76884891  0.50000000  1
+  Tm  Tm0  1  0.57469554  0.00000000  -0.00000000  1
+  Tm  Tm1  1  0.00000000  0.57469554  0.00000000  1
+  Tm  Tm2  1  0.42530446  0.42530446  0.00000000  1
+  Ge  Ge0  1  0.33333300  0.66666700  0.50000000  1
+  Ge  Ge1  1  0.66666700  0.33333300  0.50000000  1
+  Ge  Ge2  1  0.00000000  -0.00000000  -0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Li2 2.777420 1_445
+Li0 Li1 2.777420 1_555
+Li0 Tm0 3.170766 1_555
+Li0 Tm0 3.170766 1_556
+Li0 Tm1 3.304415 1_545
+Li0 Tm1 3.304415 1_546
+Li0 Tm2 3.304415 1_555
+Li0 Tm2 3.304415 1_556
+Li1 Li2 2.777420 1_445
+Li1 Tm1 3.170766 1_556
+Li1 Tm1 3.170766 1_555
+Li1 Tm0 3.304415 1_456
+Li1 Tm0 3.304415 1_455
+Li1 Tm2 3.304415 1_555
+Li1 Tm2 3.304415 1_556
+Li2 Tm2 3.170766 1_555
+Li2 Tm2 3.170766 1_556
+Li2 Tm1 3.304415 1_656
+Li2 Tm0 3.304415 1_566
+Li2 Tm1 3.304415 1_655
+Li2 Tm0 3.304415 1_565
+Tm0 Tm1 3.582842 1_545
+Tm0 Tm1 3.582842 1_655
+Tm0 Tm2 3.582842 1_545
+Tm0 Tm2 3.582842 1_555
+Tm1 Tm2 3.582842 1_455
+Tm1 Tm2 3.582842 1_555
+Ge0 Li0 2.736575 1_565
+Ge0 Li1 2.736580 1_555
+Ge0 Li2 2.736582 1_555
+Ge0 Tm1 2.941569 1_556
+Ge0 Tm1 2.941569 1_555
+Ge0 Tm0 2.941570 1_566
+Ge0 Tm0 2.941570 1_565
+Ge0 Tm2 2.941574 1_555
+Ge0 Tm2 2.941574 1_556
+Ge1 Li1 2.736575 1_655
+Ge1 Li0 2.736580 1_555
+Ge1 Li2 2.736582 1_555
+Ge1 Tm0 2.941569 1_555
+Ge1 Tm0 2.941569 1_556
+Ge1 Tm1 2.941570 1_656
+Ge1 Tm1 2.941570 1_655
+Ge1 Tm2 2.941574 1_555
+Ge1 Tm2 2.941574 1_556
+Ge2 Li2 2.635389 1_444
+Ge2 Li2 2.635389 1_445
+Ge2 Li1 2.635389 1_554
+Ge2 Li0 2.635389 1_555
+Ge2 Li1 2.635389 1_555
+Ge2 Li0 2.635389 1_554
+Ge2 Tm2 2.950427 1_555
+Ge2 Tm1 2.950427 1_545
+Ge2 Tm0 2.950427 1_455

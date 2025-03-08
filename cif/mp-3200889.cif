@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ta(TiBi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77195936
+_cell_length_b   7.77195782
+_cell_length_c   7.76593758
+_cell_angle_alpha   93.24535102
+_cell_angle_beta   93.04914821
+_cell_angle_gamma   152.90857288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta(TiBi)4
+_chemical_formula_sum   'Ta1 Ti4 Bi4'
+_cell_volume   207.67628447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti0  1  0.61115674  0.68012357  0.29128031  1
+  Ti  Ti1  1  0.38884326  0.31987643  0.70871969  1
+  Ti  Ti2  1  0.31941687  0.61177598  0.93119185  1
+  Ti  Ti3  1  0.68058313  0.38822402  0.06880815  1
+  Bi  Bi0  1  0.71215515  0.93461778  0.64677093  1
+  Bi  Bi1  1  0.28784485  0.06538222  0.35322907  1
+  Bi  Bi2  1  0.06530669  0.71179355  0.77709823  1
+  Bi  Bi3  1  0.93469331  0.28820645  0.22290177  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Ti0 2.901186 1_555
+Ta0 Ti1 2.901186 1_444
+Ta0 Ti0 2.901187 1_445
+Ta0 Ti1 2.901187 1_554
+Ta0 Ti3 2.909874 1_555
+Ta0 Ti2 2.909874 1_444
+Ta0 Ti3 2.909876 1_445
+Ta0 Ti2 2.909876 1_554
+Bi0 Ti2 2.863426 1_665
+Bi0 Ti2 2.863430 1_555
+Bi0 Ti1 2.895657 1_665
+Bi0 Ti1 2.895661 1_555
+Bi0 Ti0 2.921750 1_555
+Bi0 Ta0 3.154839 1_666
+Bi1 Ti3 2.863426 1_445
+Bi1 Ti3 2.863430 1_555
+Bi1 Ti0 2.895657 1_445
+Bi1 Ti0 2.895661 1_555
+Bi1 Ti1 2.921750 1_555
+Bi1 Ta0 3.154839 1_555
+Bi2 Ti1 2.864707 1_565
+Bi2 Ti1 2.864712 1_455
+Bi2 Ti3 2.893710 1_566
+Bi2 Ti3 2.893719 1_456
+Bi2 Ti2 2.919595 1_555
+Bi2 Ta0 3.154390 1_566
+Bi3 Ti0 2.864707 1_545
+Bi3 Ti0 2.864712 1_655
+Bi3 Ti2 2.893710 1_544
+Bi3 Ti2 2.893719 1_654
+Bi3 Ti3 2.919595 1_555
+Bi3 Ta0 3.154390 1_655

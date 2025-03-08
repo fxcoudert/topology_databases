@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Cs2Sn(ICl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41402021
+_cell_length_b   10.41402028
+_cell_length_c   7.92940959
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.23803765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Sn(ICl)2
+_chemical_formula_sum   'Cs4 Sn2 I4 Cl4'
+_cell_volume   605.55121264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.13011801  0.86988199  0.50000000  1
+  Cs  Cs1  1  0.86988199  0.13011801  0.50000000  1
+  Cs  Cs2  1  0.36988199  0.63011801  0.00000000  1
+  Cs  Cs3  1  0.63011801  0.36988199  0.00000000  1
+  Sn  Sn0  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.00000000  1
+  I  I0  1  0.33499483  0.66500517  0.50000000  1
+  I  I1  1  0.66500517  0.33499483  0.50000000  1
+  I  I2  1  0.16500517  0.83499483  0.00000000  1
+  I  I3  1  0.83499483  0.16500517  0.00000000  1
+  Cl  Cl0  1  0.75011645  0.75011645  0.74989316  1
+  Cl  Cl1  1  0.24988355  0.24988355  0.25010684  1
+  Cl  Cl2  1  0.74988355  0.74988355  0.24989316  1
+  Cl  Cl3  1  0.25011645  0.25011645  0.75010684  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 I0 3.945746 1_555
+Cs0 I2 4.021235 1_556
+Cs0 I2 4.021235 1_555
+Cs0 I1 4.021800 1_565
+Cs0 I1 4.021800 1_455
+Cs1 I1 3.945746 1_555
+Cs1 I3 4.021235 1_556
+Cs1 I3 4.021235 1_555
+Cs1 I0 4.021800 1_545
+Cs1 I0 4.021800 1_655
+Cs2 I2 3.945746 1_555
+Cs2 I0 4.021235 1_555
+Cs2 I0 4.021235 1_554
+Cs2 I3 4.021800 1_455
+Cs2 I3 4.021800 1_565
+Cs3 I3 3.945746 1_555
+Cs3 I1 4.021235 1_555
+Cs3 I1 4.021235 1_554
+Cs3 I2 4.021800 1_655
+Cs3 I2 4.021800 1_545
+I0 Sn0 3.177854 1_555
+I1 Sn0 3.177854 1_555
+I2 Sn1 3.177854 1_565
+I3 Sn1 3.177854 1_655
+Cl0 Sn1 2.803619 1_666
+Cl0 Sn0 2.803727 1_555
+Cl0 Cs0 3.759439 1_655
+Cl0 Cs1 3.759439 1_565
+Cl0 Cs2 3.761306 1_556
+Cl0 Cs3 3.761306 1_556
+Cl1 Sn1 2.803619 1_555
+Cl1 Sn0 2.803727 1_555
+Cl1 Cs1 3.759439 1_455
+Cl1 Cs0 3.759439 1_545
+Cl1 Cs3 3.761306 1_555
+Cl1 Cs2 3.761306 1_555
+Cl2 Sn0 2.803619 1_555
+Cl2 Sn1 2.803727 1_665
+Cl2 Cs2 3.759439 1_555
+Cl2 Cs3 3.759439 1_555
+Cl2 Cs0 3.761306 1_655
+Cl2 Cs1 3.761306 1_565
+Cl3 Sn0 2.803619 1_555
+Cl3 Sn1 2.803727 1_556
+Cl3 Cs3 3.759439 1_556
+Cl3 Cs2 3.759439 1_556
+Cl3 Cs1 3.761306 1_455
+Cl3 Cs0 3.761306 1_545

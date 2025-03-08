@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_LiUO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88592778
+_cell_length_b   5.88592743
+_cell_length_c   5.88592784
+_cell_angle_alpha   54.84616027
+_cell_angle_beta   54.84616270
+_cell_angle_gamma   54.84616886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiUO3
+_chemical_formula_sum   'Li2 U2 O6'
+_cell_volume   126.88718923
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.46541395  0.46541395  0.46541295  1
+  Li  Li1  1  0.96541368  0.96541368  0.96541368  1
+  U  U0  1  0.23784927  0.23784927  0.23784927  1
+  U  U1  1  0.73785095  0.73785095  0.73785095  1
+  O  O0  1  0.13340832  0.83998659  0.50333858  1
+  O  O1  1  0.33999430  0.63341734  0.00332701  1
+  O  O2  1  0.63341734  0.00332701  0.33999430  1
+  O  O3  1  0.00332701  0.33999430  0.63341734  1
+  O  O4  1  0.50333858  0.13340932  0.83998659  1
+  O  O5  1  0.83998659  0.50333958  0.13340832  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 1.957661 1_555
+Li0 O0 1.957663 1_555
+Li0 O4 1.957663 1_555
+Li0 O1 2.700833 1_555
+Li0 O2 2.700835 1_555
+Li0 O3 2.700837 1_555
+Li1 O3 1.957662 1_665
+Li1 O2 1.957662 1_566
+Li1 O1 1.957662 1_656
+Li1 O5 2.700814 1_556
+Li1 O4 2.700818 1_565
+Li1 O0 2.700820 1_655
+O0 U0 2.154375 1_565
+O0 U1 2.154711 1_455
+O1 U1 2.154329 1_554
+O1 U0 2.154787 1_555
+O2 U1 2.154329 1_545
+O2 U0 2.154787 1_555
+O3 U1 2.154329 1_455
+O3 U0 2.154787 1_555
+O4 U0 2.154372 1_556
+O4 U1 2.154716 1_545
+O5 U0 2.154375 1_655
+O5 U1 2.154712 1_554

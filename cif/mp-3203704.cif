@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_RbScMnS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63317286
+_cell_length_b   7.63317407
+_cell_length_c   10.22105959
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.45274403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbScMnS3
+_chemical_formula_sum   'Rb2 Sc2 Mn2 S6'
+_cell_volume   293.68211872
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74019434  0.25980466  0.25000000  1
+  Rb  Rb1  1  0.25980466  0.74019434  0.75000000  1
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn0  1  0.46032908  0.53966992  0.25000000  1
+  Mn  Mn1  1  0.53966992  0.46032908  0.75000000  1
+  S  S0  1  0.38486925  0.61512875  0.04949168  1
+  S  S1  1  0.05517076  0.94482824  0.25000000  1
+  S  S2  1  0.38486925  0.61512875  0.45050732  1
+  S  S3  1  0.61512875  0.38486925  0.54949168  1
+  S  S4  1  0.94482824  0.05517076  0.75000000  1
+  S  S5  1  0.61512875  0.38486925  0.95050732  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 S1 3.353874 1_545
+Rb0 S1 3.353875 1_655
+Rb0 S2 3.542561 1_655
+Rb0 S2 3.542564 1_545
+Rb0 S0 3.542567 1_655
+Rb0 S0 3.542570 1_545
+Rb0 S3 3.574745 1_555
+Rb0 S5 3.574754 1_554
+Rb1 S4 3.353874 1_565
+Rb1 S4 3.353875 1_455
+Rb1 S5 3.542562 1_565
+Rb1 S5 3.542563 1_455
+Rb1 S3 3.542568 1_565
+Rb1 S3 3.542569 1_455
+Rb1 S0 3.574745 1_556
+Rb1 S2 3.574754 1_555
+Mn0 S2 2.332555 1_555
+Mn0 S0 2.332564 1_555
+Mn0 S1 2.397661 1_655
+Mn0 S1 2.397662 1_545
+Mn1 S5 2.332555 1_555
+Mn1 S3 2.332564 1_555
+Mn1 S4 2.397661 1_455
+Mn1 S4 2.397662 1_565
+S0 Sc0 2.633044 1_555
+S0 Sc0 2.633049 1_665
+S1 Sc1 2.681913 1_565
+S1 Sc0 2.681913 1_565
+S2 Sc1 2.633046 1_555
+S2 Sc1 2.633051 1_665
+S3 Sc1 2.633044 1_555
+S3 Sc1 2.633050 1_665
+S4 Sc1 2.681913 1_655
+S4 Sc0 2.681913 1_656
+S5 Sc0 2.633046 1_556
+S5 Sc0 2.633052 1_666

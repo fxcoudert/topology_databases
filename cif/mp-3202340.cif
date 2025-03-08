@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Hf6AlPN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83595743
+_cell_length_b   5.83595842
+_cell_length_c   8.49560845
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.77095778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6AlPN2
+_chemical_formula_sum   'Hf6 Al1 P1 N2'
+_cell_volume   158.55840999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.63386246  0.36613754  0.43825426  1
+  Hf  Hf1  1  0.37092540  0.62907460  0.54595881  1
+  Hf  Hf2  1  0.63386246  0.36613754  0.06174574  1
+  Hf  Hf3  1  0.37092540  0.62907460  0.95404119  1
+  Hf  Hf4  1  0.93646097  0.06353903  0.25000000  1
+  Hf  Hf5  1  0.04838905  0.95161095  0.75000000  1
+  Al  Al0  1  0.74468521  0.25531479  0.75000000  1
+  P  P0  1  0.25801900  0.74198100  0.25000000  1
+  N  N0  1  0.00143603  0.99856397  0.49463974  1
+  N  N1  1  0.00143603  0.99856397  0.00536026  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 N0 2.282047 1_545
+Hf0 N0 2.282048 1_655
+Hf0 P0 2.696424 1_655
+Hf0 P0 2.696424 1_545
+Hf1 N0 2.259500 1_655
+Hf1 N0 2.259501 1_545
+Hf1 P0 2.813656 1_555
+Hf2 N1 2.282047 1_545
+Hf2 N1 2.282048 1_655
+Hf2 P0 2.696424 1_655
+Hf2 P0 2.696424 1_545
+Hf3 N1 2.259500 1_656
+Hf3 N1 2.259501 1_546
+Hf3 P0 2.813656 1_556
+Hf4 N0 2.201753 1_645
+Hf4 N1 2.201753 1_645
+Hf4 P0 2.601487 1_545
+Hf4 P0 2.601488 1_655
+Hf5 N1 2.232097 1_556
+Hf5 N0 2.232097 1_555
+Al0 Hf5 2.757663 1_545
+Al0 Hf5 2.757664 1_655
+Al0 Hf3 2.789796 1_655
+Al0 Hf1 2.789796 1_655
+Al0 Hf3 2.789796 1_545
+Al0 Hf1 2.789796 1_545
+Al0 Hf2 2.924171 1_556
+Al0 Hf0 2.924171 1_555

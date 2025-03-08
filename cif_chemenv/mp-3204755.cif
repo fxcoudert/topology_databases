@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Na2SrHgAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50584916
+_cell_length_b   7.66986545
+_cell_length_c   8.69051948
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrHgAs2
+_chemical_formula_sum   'Na4 Sr2 Hg2 As4'
+_cell_volume   300.33789385
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.03449967  0.41905806  1
+  Na  Na1  1  0.00000000  0.36375461  0.32979292  1
+  Na  Na2  1  0.50000000  0.53449967  0.58094194  1
+  Na  Na3  1  0.00000000  0.86375461  0.67020708  1
+  Sr  Sr0  1  0.00000000  0.48398241  0.93871448  1
+  Sr  Sr1  1  0.00000000  0.98398241  0.06128552  1
+  Hg  Hg0  1  0.50000000  0.14457597  0.80231910  1
+  Hg  Hg1  1  0.50000000  0.64457597  0.19768090  1
+  As  As0  1  0.00000000  0.24649924  0.64788229  1
+  As  As1  1  0.50000000  0.27220810  0.12437433  1
+  As  As2  1  0.00000000  0.74649924  0.35211771  1
+  As  As3  1  0.50000000  0.77220810  0.87562567  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Na3 3.399193 1_545
+Na0 Na3 3.399193 1_645
+Na0 Na1 3.472005 1_555
+Na0 Na1 3.472005 1_655
+Na0 Sr1 3.859158 1_645
+Na0 Sr1 3.859158 1_545
+Na1 Na2 3.399193 1_455
+Na1 Na2 3.399193 1_555
+Na1 Sr0 3.521550 1_554
+Na1 Sr1 3.732223 1_545
+Na2 Na3 3.472005 1_655
+Na2 Na3 3.472005 1_555
+Na2 Sr0 3.859158 1_555
+Na2 Sr0 3.859158 1_655
+Na3 Sr1 3.521550 1_556
+Na3 Sr0 3.732223 1_555
+Hg0 Na3 3.321592 1_545
+Hg0 Na3 3.321592 1_645
+Hg0 Sr1 3.414355 1_646
+Hg0 Sr1 3.414355 1_546
+Hg0 Na0 3.436074 1_555
+Hg0 Na2 3.556035 1_555
+Hg0 Sr0 3.641068 1_555
+Hg0 Sr0 3.641068 1_655
+Hg1 Na1 3.321592 1_555
+Hg1 Na1 3.321592 1_655
+Hg1 Sr0 3.414355 1_554
+Hg1 Sr0 3.414355 1_654
+Hg1 Na2 3.436074 1_555
+Hg1 Na0 3.556035 1_565
+Hg1 Sr1 3.641068 1_655
+Hg1 Sr1 3.641068 1_555
+As0 Hg0 2.736442 1_455
+As0 Hg0 2.736442 1_555
+As0 Na1 2.906974 1_555
+As0 Na3 2.942004 1_545
+As0 Sr0 3.115429 1_555
+As0 Na2 3.208340 1_455
+As0 Na2 3.208340 1_555
+As0 Na0 3.416739 1_455
+As0 Na0 3.416739 1_555
+As1 Hg1 2.926203 1_555
+As1 Na1 2.958987 1_555
+As1 Na1 2.958987 1_655
+As1 Hg0 2.965084 1_554
+As1 Na0 3.143647 1_555
+As1 Sr1 3.203632 1_545
+As1 Sr1 3.203632 1_645
+As1 Sr0 3.212052 1_654
+As1 Sr0 3.212052 1_554
+As2 Hg1 2.736442 1_555
+As2 Hg1 2.736442 1_455
+As2 Na3 2.906974 1_555
+As2 Na1 2.942004 1_555
+As2 Sr1 3.115429 1_555
+As2 Na0 3.208340 1_565
+As2 Na0 3.208340 1_465
+As2 Na2 3.416739 1_555
+As2 Na2 3.416739 1_455
+As3 Hg0 2.926203 1_565
+As3 Na3 2.958987 1_555
+As3 Na3 2.958987 1_655
+As3 Hg1 2.965084 1_556
+As3 Na2 3.143647 1_555
+As3 Sr0 3.203632 1_555
+As3 Sr0 3.203632 1_655
+As3 Sr1 3.212052 1_656
+As3 Sr1 3.212052 1_556

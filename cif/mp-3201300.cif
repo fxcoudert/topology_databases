@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_AgMoF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01293968
+_cell_length_b   5.94521542
+_cell_length_c   6.01896621
+_cell_angle_alpha   50.66414283
+_cell_angle_beta   51.66714206
+_cell_angle_gamma   51.57248702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgMoF6
+_chemical_formula_sum   'Ag1 Mo1 F6'
+_cell_volume   120.94103076
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.50000000  0.50000000  0.50000000  1
+  F  F0  1  0.28640950  0.87372801  0.55529723  1
+  F  F1  1  0.54873484  0.29009002  0.87626407  1
+  F  F2  1  0.12185112  0.44674608  0.71437607  1
+  F  F3  1  0.45126516  0.70990998  0.12373593  1
+  F  F4  1  0.71359050  0.12627199  0.44470277  1
+  F  F5  1  0.87814888  0.55325392  0.28562393  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 F5 2.369517 1_445
+Ag0 F2 2.369517 1_554
+Ag0 F4 2.432309 1_455
+Ag0 F0 2.432309 1_544
+Ag0 F3 2.439904 1_545
+Ag0 F1 2.439904 1_454
+F0 Mo0 1.886039 1_555
+F1 Mo0 1.886246 1_555
+F2 Mo0 1.916466 1_555
+F3 Mo0 1.886246 1_555
+F4 Mo0 1.886039 1_555
+F5 Mo0 1.916466 1_555

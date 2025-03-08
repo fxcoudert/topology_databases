@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_TiHg3(SF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46869900
+_cell_length_b   7.46869869
+_cell_length_c   4.80329005
+_cell_angle_alpha   103.74326368
+_cell_angle_beta   103.74325955
+_cell_angle_gamma   55.25638832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiHg3(SF3)2
+_chemical_formula_sum   'Ti1 Hg3 S2 F6'
+_cell_volume   212.10175822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.49999900  1
+  Hg  Hg0  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.00000000  0.49999900  1
+  Hg  Hg2  1  0.00000000  0.50000000  0.49999900  1
+  S  S0  1  0.68761987  0.68761987  0.15364205  1
+  S  S1  1  0.31238013  0.31238013  0.84635795  1
+  F  F0  1  0.72195745  0.11743841  0.27602489  1
+  F  F1  1  0.11743841  0.72195745  0.27602489  1
+  F  F2  1  0.09507024  0.09507024  0.27115718  1
+  F  F3  1  0.90492976  0.90492976  0.72884282  1
+  F  F4  1  0.88256159  0.27804255  0.72397511  1
+  F  F5  1  0.27804255  0.88256159  0.72397511  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S0 2.393150 1_555
+Hg0 S1 2.393150 1_554
+Hg1 S0 2.389901 1_545
+Hg1 S1 2.389907 1_555
+Hg2 S0 2.389901 1_455
+Hg2 S1 2.389907 1_555
+F0 Ti0 1.884094 1_655
+F1 Ti0 1.884094 1_565
+F2 Ti0 1.879605 1_555
+F3 Ti0 1.879612 1_665
+F4 Ti0 1.884098 1_655
+F5 Ti0 1.884098 1_565

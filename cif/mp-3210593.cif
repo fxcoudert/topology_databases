@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Sr4Cd2AsP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59655012
+_cell_length_b   8.59655076
+_cell_length_c   7.61768860
+_cell_angle_alpha   90.26288046
+_cell_angle_beta   89.73712081
+_cell_angle_gamma   150.54391698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Cd2AsP3
+_chemical_formula_sum   'Sr4 Cd2 As1 P3'
+_cell_volume   276.83225126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.53858989  0.46141011  0.23331569  1
+  Sr  Sr1  1  0.70454015  0.29545985  0.88715902  1
+  Sr  Sr2  1  0.29447362  0.70552638  0.38722137  1
+  Sr  Sr3  1  0.46367046  0.53632954  0.73813753  1
+  Cd  Cd0  1  0.09701107  0.90298893  0.58397234  1
+  Cd  Cd1  1  0.90389614  0.09610386  0.07698234  1
+  As  As0  1  0.93694771  0.06305229  0.43995447  1
+  P  P0  1  0.06161912  0.93838088  0.93761418  1
+  P  P1  1  0.67380448  0.32619552  0.49286070  1
+  P  P2  1  0.32544735  0.67455265  0.99149935  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 P1 2.623040 1_565
+Cd0 P1 2.623040 1_455
+Cd0 P0 2.754736 1_555
+Cd1 P2 2.628722 1_544
+Cd1 P2 2.628723 1_654
+Cd1 P0 2.824712 1_644
+As0 Cd1 2.821655 1_555
+As0 Cd0 2.883613 1_645
+As0 Sr0 3.175779 1_655
+As0 Sr0 3.175779 1_545
+As0 Sr3 3.184815 1_655
+As0 Sr3 3.184815 1_545
+As0 Sr2 3.249528 1_545
+As0 Sr2 3.249528 1_655
+P0 Sr3 3.124368 1_455
+P0 Sr3 3.124368 1_565
+P0 Sr0 3.160531 1_566
+P0 Sr0 3.160531 1_456
+P0 Sr1 3.250133 1_565
+P0 Sr1 3.250133 1_455
+P1 Sr0 3.001070 1_555
+P1 Sr1 3.049202 1_555
+P1 Sr2 3.071614 1_655
+P1 Sr2 3.071614 1_545
+P2 Sr3 2.994258 1_555
+P2 Sr2 3.055759 1_556
+P2 Sr1 3.076584 1_455
+P2 Sr1 3.076584 1_565

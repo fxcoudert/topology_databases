@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_AgOs(OF2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07877058
+_cell_length_b   5.07877058
+_cell_length_c   9.35559884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgOs(OF2)2
+_chemical_formula_sum   'Ag2 Os2 O4 F8'
+_cell_volume   241.31747969
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.50000000  0.40147994  1
+  Ag  Ag1  1  0.50000000  0.00000000  0.59852006  1
+  Os  Os0  1  0.00000000  0.50000000  0.79963677  1
+  Os  Os1  1  0.50000000  0.00000000  0.20036323  1
+  O  O0  1  0.19468133  0.30531867  0.90348276  1
+  O  O1  1  0.30531867  0.80531867  0.09651724  1
+  O  O2  1  0.80531867  0.69468133  0.90348276  1
+  O  O3  1  0.69468133  0.19468133  0.09651724  1
+  F  F0  1  0.67025970  0.17025970  0.37312242  1
+  F  F1  1  0.82974030  0.67025970  0.62687758  1
+  F  F2  1  0.32974030  0.82974030  0.37312242  1
+  F  F3  1  0.26614042  0.76614042  0.78132163  1
+  F  F4  1  0.73385958  0.23385958  0.78132163  1
+  F  F5  1  0.23385958  0.26614042  0.21867837  1
+  F  F6  1  0.76614042  0.73385958  0.21867837  1
+  F  F7  1  0.17025970  0.32974030  0.62687758  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 F2 2.383162 1_555
+Ag0 F0 2.383162 1_455
+Ag0 F5 2.397123 1_555
+Ag0 F6 2.397123 1_455
+Ag0 F1 2.437660 1_455
+Ag0 F7 2.437660 1_555
+Ag1 F7 2.383162 1_555
+Ag1 F1 2.383162 1_545
+Ag1 F4 2.397123 1_555
+Ag1 F3 2.397123 1_545
+Ag1 F0 2.437660 1_555
+Ag1 F2 2.437660 1_545
+O0 Os0 1.702678 1_555
+O1 Os1 1.702678 1_565
+O2 Os0 1.702678 1_655
+O3 Os1 1.702678 1_555
+F0 Os1 2.026761 1_555
+F1 Os0 2.026761 1_655
+F2 Os1 2.026761 1_565
+F3 Os0 1.919209 1_555
+F4 Os0 1.919209 1_655
+F5 Os1 1.919209 1_555
+F6 Os1 1.919209 1_565
+F7 Os0 2.026761 1_555

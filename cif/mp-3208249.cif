@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Lu5Al2BiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54039504
+_cell_length_b   8.54043110
+_cell_length_c   7.83676287
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.57237548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5Al2BiTe
+_chemical_formula_sum   'Lu10 Al4 Bi2 Te2'
+_cell_volume   464.93116554
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00161946  0.99838461  0.00000190  1
+  Lu  Lu1  1  0.50161946  0.49838461  0.49999810  1
+  Lu  Lu2  1  0.79019728  0.54066782  0.16705324  1
+  Lu  Lu3  1  0.45934083  0.20981138  0.83296185  1
+  Lu  Lu4  1  0.95934083  0.70981138  0.66703815  1
+  Lu  Lu5  1  0.29019728  0.04066782  0.33294676  1
+  Lu  Lu6  1  0.20376155  0.45643663  0.83096120  1
+  Lu  Lu7  1  0.54356446  0.79623422  0.16905683  1
+  Lu  Lu8  1  0.04356446  0.29623422  0.33094317  1
+  Lu  Lu9  1  0.70376155  0.95643663  0.66903880  1
+  Al  Al0  1  0.87278366  0.87550380  0.37519829  1
+  Al  Al1  1  0.12448614  0.12721123  0.62477976  1
+  Al  Al2  1  0.62448614  0.62721123  0.87522024  1
+  Al  Al3  1  0.37278366  0.37550380  0.12480171  1
+  Bi  Bi0  1  0.20904518  0.79097039  0.00000844  1
+  Bi  Bi1  1  0.70904518  0.29097039  0.49999156  1
+  Te  Te0  1  0.79520145  0.20477992  0.00000757  1
+  Te  Te1  1  0.29520145  0.70477992  0.49999243  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Te0 3.135335 1_465
+Lu1 Te1 3.135335 1_555
+Lu2 Te0 3.176039 1_555
+Lu3 Te0 3.175942 1_556
+Lu4 Te1 3.175942 1_655
+Lu5 Te1 3.176039 1_545
+Lu6 Te0 3.134346 1_456
+Lu6 Te1 3.147801 1_555
+Lu7 Te0 3.134272 1_565
+Lu7 Te1 3.147653 1_555
+Lu8 Te1 3.134272 1_555
+Lu8 Te0 3.147653 1_455
+Lu9 Te1 3.134346 1_555
+Lu9 Te0 3.147801 1_566
+Al0 Al1 2.773315 1_665
+Al0 Lu7 2.959547 1_555
+Al0 Lu5 2.992861 1_665
+Al0 Lu2 2.998189 1_555
+Al0 Lu4 2.999455 1_555
+Al0 Lu9 3.004172 1_555
+Al0 Lu8 3.010202 1_665
+Al0 Lu1 3.082162 1_555
+Al0 Lu0 3.100656 1_655
+Al1 Lu6 2.959755 1_555
+Al1 Lu4 2.992809 1_445
+Al1 Lu3 2.998429 1_555
+Al1 Lu5 2.999450 1_555
+Al1 Lu8 3.004107 1_555
+Al1 Lu9 3.010156 1_445
+Al1 Lu1 3.082203 1_555
+Al1 Lu0 3.100819 1_546
+Al2 Al3 2.773315 1_556
+Al2 Lu9 2.959755 1_555
+Al2 Lu3 2.992809 1_555
+Al2 Lu4 2.998429 1_555
+Al2 Lu2 2.999450 1_556
+Al2 Lu7 3.004107 1_556
+Al2 Lu6 3.010156 1_555
+Al2 Lu0 3.082203 1_656
+Al2 Lu1 3.100819 1_555
+Al3 Lu8 2.959547 1_555
+Al3 Lu2 2.992861 1_555
+Al3 Lu5 2.998189 1_555
+Al3 Lu3 2.999455 1_554
+Al3 Lu6 3.004172 1_554
+Al3 Lu7 3.010202 1_555
+Al3 Lu0 3.082162 1_545
+Al3 Lu1 3.100656 1_555
+Bi0 Lu7 3.125652 1_555
+Bi0 Lu6 3.125683 1_554
+Bi0 Lu0 3.150727 1_555
+Bi0 Lu5 3.180586 1_565
+Bi0 Lu4 3.180808 1_454
+Bi0 Lu3 3.190979 1_564
+Bi0 Lu2 3.191007 1_455
+Bi1 Lu8 3.125652 1_655
+Bi1 Lu9 3.125683 1_545
+Bi1 Lu1 3.150727 1_555
+Bi1 Lu2 3.180586 1_555
+Bi1 Lu3 3.180808 1_555
+Bi1 Lu4 3.190979 1_555
+Bi1 Lu5 3.191007 1_555

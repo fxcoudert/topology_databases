@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Ta4NbAlSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58022285
+_cell_length_b   7.58022225
+_cell_length_c   7.57909232
+_cell_angle_alpha   128.26922963
+_cell_angle_beta   128.26921135
+_cell_angle_gamma   76.20021623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4NbAlSi2
+_chemical_formula_sum   'Ta8 Nb2 Al2 Si4'
+_cell_volume   260.89560061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.51650510  0.01650510  0.82933937  1
+  Ta  Ta1  1  0.18716573  0.68716573  0.17066063  1
+  Ta  Ta2  1  0.98339515  0.81285254  0.50000000  1
+  Ta  Ta3  1  0.31285254  0.48339515  0.50000000  1
+  Ta  Ta4  1  0.48210230  0.98210230  0.16952882  1
+  Ta  Ta5  1  0.81257348  0.31257348  0.83047118  1
+  Ta  Ta6  1  0.00033999  0.00033999  0.00000000  1
+  Ta  Ta7  1  0.50033999  0.50033999  0.00000000  1
+  Nb  Nb0  1  0.01822698  0.18665485  0.50000000  1
+  Nb  Nb1  1  0.68665485  0.51822698  0.50000000  1
+  Al  Al0  1  0.74990939  0.74990939  1.00000000  1
+  Al  Al1  1  0.24990939  0.24990939  1.00000000  1
+  Si  Si0  1  0.37098990  0.12912942  0.50000000  1
+  Si  Si1  1  0.62912942  0.87098990  0.50000000  1
+  Si  Si2  1  0.87085369  0.37085369  0.24180161  1
+  Si  Si3  1  0.12905208  0.62905208  0.75819839  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Si0 2.604664 1_555
+Nb0 Si3 2.638098 1_555
+Nb0 Si2 2.638099 1_455
+Nb0 Ta2 2.907812 1_445
+Nb1 Si1 2.604664 1_555
+Nb1 Si2 2.638099 1_555
+Nb1 Si3 2.638099 1_655
+Nb1 Ta3 2.907812 1_555
+Al0 Ta3 2.752423 1_555
+Al0 Ta2 2.752423 1_556
+Al0 Nb0 2.753514 1_666
+Al0 Nb1 2.753515 1_555
+Al0 Ta0 2.754011 1_565
+Al0 Ta1 2.754011 1_656
+Al0 Ta5 2.755892 1_555
+Al0 Ta4 2.755893 1_556
+Al0 Ta7 2.977430 1_556
+Al0 Ta6 2.987704 1_666
+Al1 Ta2 2.752422 1_445
+Al1 Ta3 2.752423 1_556
+Al1 Nb1 2.753515 1_556
+Al1 Nb0 2.753515 1_555
+Al1 Ta1 2.754010 1_556
+Al1 Ta0 2.754010 1_555
+Al1 Ta4 2.755893 1_546
+Al1 Ta5 2.755893 1_455
+Al1 Ta6 2.977430 1_556
+Al1 Ta7 2.987704 1_556
+Si0 Si1 2.414782 1_545
+Si0 Ta7 2.597053 1_556
+Si0 Ta6 2.597054 1_555
+Si0 Ta3 2.615546 1_555
+Si0 Ta4 2.632949 1_545
+Si0 Ta5 2.632949 1_555
+Si0 Ta1 2.637400 1_545
+Si0 Ta0 2.637401 1_555
+Si1 Ta7 2.597053 1_555
+Si1 Ta6 2.597054 1_666
+Si1 Ta2 2.615546 1_555
+Si1 Ta5 2.632948 1_565
+Si1 Ta4 2.632949 1_555
+Si1 Ta0 2.637401 1_565
+Si1 Ta1 2.637401 1_555
+Si2 Si3 2.414386 1_655
+Si2 Ta6 2.597568 1_655
+Si2 Ta7 2.597568 1_555
+Si2 Ta5 2.605819 1_554
+Si2 Ta0 2.615621 1_554
+Si2 Ta2 2.637559 1_555
+Si2 Ta3 2.637559 1_655
+Si3 Ta6 2.597568 1_566
+Si3 Ta7 2.597568 1_556
+Si3 Ta4 2.605818 1_556
+Si3 Ta1 2.615622 1_556
+Si3 Ta3 2.637559 1_555
+Si3 Ta2 2.637559 1_455

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_YCo2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52926083
+_cell_length_b   5.52926107
+_cell_length_c   6.66235571
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.79796322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCo2SiC
+_chemical_formula_sum   'Y2 Co4 Si2 C2'
+_cell_volume   128.74137188
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.55181048  0.44818952  0.25000000  1
+  Y  Y1  1  0.44818952  0.55181048  0.75000000  1
+  Co  Co0  1  0.83620455  0.16379545  0.05665430  1
+  Co  Co1  1  0.16379545  0.83620455  0.94334570  1
+  Co  Co2  1  0.16379545  0.83620455  0.55665430  1
+  Co  Co3  1  0.83620455  0.16379545  0.44334570  1
+  Si  Si0  1  0.27220347  0.72779653  0.25000000  1
+  Si  Si1  1  0.72779653  0.27220347  0.75000000  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+  C  C1  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Si1 2.334410 1_554
+Co0 Si0 2.354670 1_545
+Co0 Si0 2.354670 1_655
+Co1 Si0 2.334410 1_556
+Co1 Si1 2.354670 1_565
+Co1 Si1 2.354670 1_455
+Co2 Si0 2.334410 1_555
+Co2 Si1 2.354670 1_565
+Co2 Si1 2.354670 1_455
+Co3 Si1 2.334410 1_555
+Co3 Si0 2.354670 1_545
+Co3 Si0 2.354670 1_655
+Si0 Y0 2.912861 1_555
+Si0 Y0 2.951640 1_455
+Si0 Y0 2.951641 1_565
+Si1 Y1 2.912861 1_555
+Si1 Y1 2.951640 1_655
+Si1 Y1 2.951641 1_545
+C0 Co0 1.747619 1_455
+C0 Co1 1.747619 1_544
+C0 Y0 2.550713 1_555
+C0 Y1 2.550713 1_444
+C0 Y1 2.550713 1_554
+C0 Y0 2.550713 1_445
+C1 Co2 1.747619 1_545
+C1 Co3 1.747619 1_455
+C1 Y0 2.550713 1_555
+C1 Y1 2.550713 1_445
+C1 Y1 2.550713 1_555
+C1 Y0 2.550713 1_445

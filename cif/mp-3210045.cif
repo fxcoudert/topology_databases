@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_LiZr(TcSn4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41419525
+_cell_length_b   7.41419490
+_cell_length_c   7.41419526
+_cell_angle_alpha   125.45022798
+_cell_angle_beta   125.45022183
+_cell_angle_gamma   80.79362860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZr(TcSn4)2
+_chemical_formula_sum   'Li1 Zr1 Tc2 Sn8'
+_cell_volume   260.72837491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr0  1  0.50000000  0.50000000  0.00000000  1
+  Tc  Tc0  1  0.25063911  0.25063911  1.00000000  1
+  Tc  Tc1  1  0.74936089  0.74936089  0.00000000  1
+  Sn  Sn0  1  0.70878115  0.52247376  0.51044414  1
+  Sn  Sn1  1  0.52247376  0.01202962  0.81369161  1
+  Sn  Sn2  1  0.19833801  0.70878115  0.18630839  1
+  Sn  Sn3  1  0.80166199  0.29121885  0.81369161  1
+  Sn  Sn4  1  0.47752624  0.98797038  0.18630839  1
+  Sn  Sn5  1  0.29121885  0.47752624  0.48955586  1
+  Sn  Sn6  1  0.98797038  0.80166199  0.51044414  1
+  Sn  Sn7  1  0.01202962  0.19833801  0.48955586  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Tc0 2.830448 1_554
+Li0 Tc1 2.830448 1_445
+Li0 Sn7 2.969822 1_555
+Li0 Sn6 2.969822 1_444
+Li0 Sn4 2.969822 1_545
+Li0 Sn1 2.969822 1_454
+Li0 Sn5 2.969823 1_555
+Li0 Sn0 2.969823 1_444
+Li0 Sn3 2.969829 1_454
+Li0 Sn2 2.969829 1_545
+Tc0 Zr0 2.816013 1_556
+Tc1 Zr0 2.816013 1_555
+Sn0 Tc1 2.811988 1_556
+Sn0 Tc0 2.890250 1_554
+Sn0 Sn7 3.016235 1_655
+Sn0 Zr0 3.049937 1_555
+Sn0 Sn5 3.071426 1_555
+Sn0 Sn6 3.152856 1_555
+Sn0 Sn3 3.281289 1_555
+Sn0 Sn4 3.281295 1_545
+Sn1 Tc1 2.811992 1_546
+Sn1 Tc0 2.890253 1_555
+Sn1 Sn2 3.016230 1_545
+Sn1 Zr0 3.049935 1_556
+Sn1 Sn4 3.071440 1_546
+Sn1 Sn3 3.152856 1_555
+Sn1 Sn5 3.281295 1_545
+Sn1 Sn6 3.281298 1_445
+Sn2 Tc1 2.811993 1_455
+Sn2 Tc0 2.890247 1_554
+Sn2 Zr0 3.049934 1_555
+Sn2 Sn3 3.071431 1_454
+Sn2 Sn4 3.152856 1_555
+Sn2 Sn5 3.281289 1_555
+Sn2 Sn6 3.281295 1_455
+Sn3 Tc0 2.811993 1_655
+Sn3 Tc1 2.890247 1_556
+Sn3 Sn4 3.016230 1_545
+Sn3 Zr0 3.049934 1_556
+Sn3 Sn7 3.281295 1_655
+Sn4 Tc0 2.811992 1_564
+Sn4 Tc1 2.890253 1_555
+Sn4 Zr0 3.049935 1_555
+Sn4 Sn7 3.281298 1_665
+Sn5 Tc0 2.811988 1_554
+Sn5 Tc1 2.890250 1_556
+Sn5 Sn6 3.016235 1_455
+Sn5 Zr0 3.049937 1_556
+Sn5 Sn7 3.152856 1_555
+Sn6 Tc0 2.811991 1_665
+Sn6 Tc1 2.890254 1_555
+Sn6 Zr0 3.049935 1_555
+Sn6 Sn7 3.071440 1_665
+Sn7 Tc1 2.811991 1_445
+Sn7 Tc0 2.890254 1_555
+Sn7 Zr0 3.049935 1_556

@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_BaV(NiSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.63598978
+_cell_length_b   9.63599021
+_cell_length_c   7.32700677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.16922596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaV(NiSe2)2
+_chemical_formula_sum   'Ba2 V2 Ni4 Se8'
+_cell_volume   368.84714995
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.16697394  0.81309776  0.75000000  1
+  Ba  Ba1  1  0.81309776  0.16697394  0.25000000  1
+  V  V0  1  0.63809944  0.85563216  0.75000000  1
+  V  V1  1  0.85563216  0.63809944  0.25000000  1
+  Ni  Ni0  1  0.74178866  0.74178866  0.50000000  1
+  Ni  Ni1  1  0.74178866  0.74178866  0.00000000  1
+  Ni  Ni2  1  0.35867915  0.13520411  0.25000000  1
+  Ni  Ni3  1  0.13520411  0.35867915  0.75000000  1
+  Se  Se0  1  0.60514026  0.39478317  0.99268127  1
+  Se  Se1  1  0.39478317  0.60514126  0.49268127  1
+  Se  Se2  1  0.99789980  0.01310742  0.75000000  1
+  Se  Se3  1  0.39478317  0.60514126  0.00731873  1
+  Se  Se4  1  0.20485354  0.77638448  0.25000000  1
+  Se  Se5  1  0.77638448  0.20485354  0.75000000  1
+  Se  Se6  1  0.01310742  0.99789980  0.25000000  1
+  Se  Se7  1  0.60514026  0.39478317  0.50731873  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Se5 3.383129 1_455
+Ba0 Se5 3.388237 1_565
+Ba0 Se2 3.412559 1_465
+Ba0 Se0 3.470654 1_455
+Ba0 Se7 3.470654 1_455
+Ba0 Se0 3.554473 1_565
+Ba0 Se7 3.554473 1_565
+Ba0 Se4 3.727821 1_556
+Ba0 Se4 3.727821 1_555
+Ba1 Se4 3.383128 1_545
+Ba1 Se4 3.388238 1_655
+Ba1 Se6 3.412559 1_645
+Ba1 Se1 3.470649 1_545
+Ba1 Se3 3.470649 1_545
+Ba1 Se1 3.554471 1_655
+Ba1 Se3 3.554471 1_655
+Ba1 Se5 3.727821 1_555
+Ba1 Se5 3.727821 1_554
+Ni0 Se6 2.331931 1_655
+Ni0 Se2 2.331931 1_565
+Ni0 Se7 2.349060 1_555
+Ni0 Se1 2.349066 1_555
+Ni1 Se6 2.331931 1_655
+Ni1 Se2 2.331931 1_564
+Ni1 Se0 2.349060 1_554
+Ni1 Se3 2.349066 1_555
+Ni2 Se6 2.331286 1_545
+Ni2 Se7 2.338430 1_555
+Ni2 Se0 2.338430 1_554
+Ni2 Se4 2.353525 1_545
+Ni3 Se2 2.331286 1_455
+Ni3 Se3 2.338431 1_556
+Ni3 Se1 2.338431 1_555
+Ni3 Se5 2.353525 1_455
+Se0 V1 2.316735 1_556
+Se1 V0 2.316733 1_555
+Se2 V0 2.341274 1_545
+Se3 V0 2.316733 1_554
+Se4 V1 2.358771 1_455
+Se5 V0 2.358772 1_545
+Se6 V1 2.341274 1_455
+Se7 V1 2.316735 1_555

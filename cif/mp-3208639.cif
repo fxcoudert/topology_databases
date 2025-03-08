@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_FeCu3(RhO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00068399
+_cell_length_b   6.00068375
+_cell_length_c   9.02778390
+_cell_angle_alpha   60.68790219
+_cell_angle_beta   60.68790226
+_cell_angle_gamma   29.61548216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu3(RhO3)2
+_chemical_formula_sum   'Fe1 Cu3 Rh2 O6'
+_cell_volume   138.52476253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.33766126  0.33766126  0.32485649  1
+  Cu  Cu2  1  0.66233874  0.66233874  0.67514351  1
+  Rh  Rh0  1  0.33461853  0.33461853  0.83059168  1
+  Rh  Rh1  1  0.66538147  0.66538147  0.16940832  1
+  O  O0  1  0.19102024  0.19102024  0.30015801  1
+  O  O1  1  0.52730009  0.52730009  0.62788372  1
+  O  O2  1  0.85719890  0.85719890  0.96436924  1
+  O  O3  1  0.80897976  0.80897976  0.69984199  1
+  O  O4  1  0.14280110  0.14280110  0.03563076  1
+  O  O5  1  0.47269991  0.47269991  0.37211628  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 O0 2.029162 1_555
+Fe0 O3 2.029162 1_445
+Fe0 O5 2.038533 1_545
+Fe0 O1 2.038533 1_455
+Fe0 O5 2.038533 1_455
+Fe0 O1 2.038533 1_545
+Cu0 O4 1.840796 1_555
+Cu0 O2 1.840796 1_444
+Cu1 O5 1.820438 1_555
+Cu1 O0 1.824514 1_555
+Cu2 O1 1.820438 1_555
+Cu2 O3 1.824514 1_555
+O0 Rh1 2.046814 1_545
+O0 Rh1 2.046814 1_455
+O1 Rh0 2.050254 1_555
+O2 Rh0 2.049318 1_655
+O2 Rh0 2.049318 1_565
+O2 Rh1 2.051201 1_556
+O3 Rh0 2.046814 1_565
+O3 Rh0 2.046814 1_655
+O4 Rh1 2.049318 1_455
+O4 Rh1 2.049318 1_545
+O4 Rh0 2.051201 1_554
+O5 Rh1 2.050254 1_555

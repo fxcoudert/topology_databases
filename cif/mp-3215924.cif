@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Sr2Si(SeS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81733187
+_cell_length_b   6.69750804
+_cell_length_c   8.41031487
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.85635714
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Si(SeS)2
+_chemical_formula_sum   'Sr4 Si2 Se4 S4'
+_cell_volume   365.50937725
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.21895134  0.25000000  0.05057875  1
+  Sr  Sr1  1  0.74950455  0.75000100  0.43812203  1
+  Sr  Sr2  1  0.25049445  0.25000000  0.56187797  1
+  Sr  Sr3  1  0.78104866  0.75000100  0.94942125  1
+  Si  Si0  1  0.78271969  0.25000000  0.20108917  1
+  Si  Si1  1  0.21727931  0.75000100  0.79891083  1
+  Se  Se0  1  0.38690827  0.75000100  0.07589227  1
+  Se  Se1  1  0.58958381  0.25000000  0.37818101  1
+  Se  Se2  1  0.41041619  0.75000100  0.62181999  1
+  Se  Se3  1  0.61309173  0.25000000  0.92410773  1
+  S  S0  1  0.98571781  0.00279578  0.25675974  1
+  S  S1  1  0.98571781  0.49720322  0.25675974  1
+  S  S2  1  0.01428319  0.50279678  0.74324026  1
+  S  S3  1  0.01428319  0.99720322  0.74324026  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Se0 Si1 2.260934 1_554
+Se0 Sr3 3.178679 1_554
+Se0 Sr1 3.282248 1_555
+Se0 Sr0 3.524345 1_565
+Se0 Sr0 3.524357 1_555
+Se1 Si0 2.270368 1_555
+Se1 Sr0 3.115494 1_555
+Se1 Sr2 3.149759 1_555
+Se1 Sr1 3.509957 1_545
+Se1 Sr1 3.509970 1_555
+Se2 Si1 2.270366 1_555
+Se2 Sr3 3.115488 1_555
+Se2 Sr1 3.149759 1_555
+Se2 Sr2 3.509959 1_565
+Se2 Sr2 3.509972 1_555
+Se3 Si0 2.260932 1_556
+Se3 Sr0 3.178679 1_556
+Se3 Sr2 3.282251 1_555
+Se3 Sr3 3.524345 1_545
+Se3 Sr3 3.524357 1_555
+S0 Si0 2.116183 1_555
+S0 Sr3 3.046785 1_544
+S0 Sr1 3.048394 1_545
+S0 Sr2 3.121516 1_655
+S0 Sr0 3.157084 1_655
+S1 Si0 2.116178 1_555
+S1 Sr3 3.046797 1_554
+S1 Sr1 3.048406 1_555
+S1 Sr2 3.121513 1_655
+S1 Sr0 3.157081 1_655
+S2 Si1 2.116175 1_555
+S2 Sr0 3.046791 1_556
+S2 Sr2 3.048393 1_555
+S2 Sr1 3.121521 1_455
+S2 Sr3 3.157089 1_455
+S3 Si1 2.116164 1_555
+S3 Sr0 3.046791 1_566
+S3 Sr2 3.048393 1_565
+S3 Sr1 3.121514 1_455
+S3 Sr3 3.157082 1_455

@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_LiY(NiPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89558356
+_cell_length_b   5.08144234
+_cell_length_c   5.08144115
+_cell_angle_alpha   63.58791141
+_cell_angle_beta   61.20271803
+_cell_angle_gamma   61.20272462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY(NiPt)2
+_chemical_formula_sum   'Li1 Y1 Ni2 Pt2'
+_cell_volume   93.27572565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.23866185  0.26133815  0.26133815  1
+  Y  Y0  1  0.99997716  0.00002284  0.00002284  1
+  Ni  Ni0  1  0.12833442  0.62108139  0.62108139  1
+  Ni  Ni1  1  0.62950279  0.62108139  0.62108139  1
+  Pt  Pt0  1  0.62676189  0.62096114  0.12551609  1
+  Pt  Pt1  1  0.62676189  0.12551609  0.62096114  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Ni0 2.836445 1_555
+Li0 Ni1 2.836445 1_455
+Li0 Pt1 2.895732 1_455
+Li0 Pt0 2.895732 1_455
+Li0 Pt1 2.895736 1_555
+Li0 Pt0 2.895736 1_555
+Li0 Y0 3.074110 1_455
+Li0 Y0 3.074110 1_555
+Li0 Pt1 3.074608 1_554
+Li0 Pt0 3.074609 1_545
+Li0 Ni0 3.109480 1_554
+Li0 Ni1 3.109480 1_554
+Li0 Ni1 3.109481 1_545
+Li0 Ni0 3.109481 1_545
+Li0 Y0 3.170645 1_456
+Li0 Y0 3.170646 1_465
+Ni0 Ni1 2.442072 1_455
+Ni0 Ni1 2.453512 1_555
+Ni0 Pt0 2.524952 1_555
+Ni0 Pt1 2.524953 1_555
+Ni0 Pt0 2.556545 1_456
+Ni0 Pt1 2.556546 1_465
+Ni0 Y0 2.962713 1_466
+Ni0 Y0 3.066069 1_465
+Ni0 Y0 3.066070 1_456
+Ni1 Pt0 2.524950 1_555
+Ni1 Pt1 2.524950 1_555
+Ni1 Pt0 2.556548 1_556
+Ni1 Pt1 2.556548 1_565
+Ni1 Y0 2.962713 1_466
+Ni1 Y0 3.066069 1_565
+Ni1 Y0 3.066070 1_556
+Pt0 Pt1 2.652850 1_555
+Pt0 Pt1 2.701629 1_564
+Pt0 Y0 2.937769 1_565
+Pt0 Y0 2.937773 1_465
+Pt0 Y0 2.968843 1_555
+Pt1 Y0 2.937769 1_556
+Pt1 Y0 2.937773 1_456
+Pt1 Y0 2.968842 1_555

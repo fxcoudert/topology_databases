@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Hf3BPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17375613
+_cell_length_b   6.17375555
+_cell_length_c   9.29348553
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.82593925
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3BPb
+_chemical_formula_sum   'Hf6 B2 Pb2'
+_cell_volume   193.82562333
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.62607157  0.37392843  0.45992617  1
+  Hf  Hf1  1  0.37392843  0.62607157  0.54007383  1
+  Hf  Hf2  1  0.62607157  0.37392843  0.04007383  1
+  Hf  Hf3  1  0.37392843  0.62607157  0.95992617  1
+  Hf  Hf4  1  0.96663994  0.03336006  0.25000000  1
+  Hf  Hf5  1  0.03336006  0.96663994  0.75000000  1
+  B  B0  1  0.00000000  0.00000000  0.50000000  1
+  B  B1  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb0  1  0.25267481  0.74732519  0.25000000  1
+  Pb  Pb1  1  0.74732519  0.25267481  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Pb0 3.026038 1_545
+Hf0 Pb0 3.026039 1_655
+Hf0 Pb1 3.053882 1_555
+Hf1 Pb1 3.026038 1_565
+Hf1 Pb1 3.026039 1_455
+Hf1 Pb0 3.053882 1_555
+Hf2 Pb0 3.026038 1_545
+Hf2 Pb0 3.026039 1_655
+Hf2 Pb1 3.053882 1_554
+Hf3 Pb1 3.026038 1_565
+Hf3 Pb1 3.026039 1_455
+Hf3 Pb0 3.053882 1_556
+Hf4 Pb0 3.084992 1_655
+Hf4 Pb0 3.084993 1_545
+Hf4 Pb0 3.384850 1_645
+Hf5 Pb1 3.084992 1_455
+Hf5 Pb1 3.084993 1_565
+Hf5 Pb1 3.384850 1_465
+B0 Hf0 2.338933 1_445
+B0 Hf1 2.338933 1_555
+B0 Hf0 2.338933 1_555
+B0 Hf1 2.338933 1_445
+B0 Hf5 2.356671 1_545
+B0 Hf4 2.356671 1_455
+B1 Hf2 2.338933 1_445
+B1 Hf3 2.338933 1_554
+B1 Hf2 2.338933 1_555
+B1 Hf3 2.338933 1_444
+B1 Hf5 2.356671 1_544
+B1 Hf4 2.356671 1_455

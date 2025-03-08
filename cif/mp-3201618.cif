@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KAlPH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93874241
+_cell_length_b   3.93874250
+_cell_length_c   6.00690130
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlPH
+_chemical_formula_sum   'K1 Al1 P1 H1'
+_cell_volume   80.70423693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.03474352  1
+  Al  Al0  1  0.66666700  0.33333300  0.55568869  1
+  P  P0  1  0.33333300  0.66666700  0.43555327  1
+  H  H0  1  0.66666700  0.33333300  0.83111351  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P0 3.311778 1_545
+K0 P0 3.311781 1_445
+K0 P0 3.311781 1_555
+Al0 H0 1.654450 1_555
+Al0 P0 2.385789 1_655
+Al0 P0 2.385789 1_545
+Al0 P0 2.385795 1_555
+H0 K0 2.582131 1_656
+H0 K0 2.582135 1_556
+H0 K0 2.582135 1_666

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_ReTc3(As2S)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03344281
+_cell_length_b   7.03344297
+_cell_length_c   7.02803651
+_cell_angle_alpha   59.79105615
+_cell_angle_beta   59.79105484
+_cell_angle_gamma   59.82264860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReTc3(As2S)3
+_chemical_formula_sum   'Re1 Tc3 As6 S3'
+_cell_volume   244.73400879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.39913058  0.39913058  0.79571642  1
+  Tc  Tc0  1  0.40132450  0.40132450  0.40056806  1
+  Tc  Tc1  1  0.39916569  0.79524532  0.39840481  1
+  Tc  Tc2  1  0.79524532  0.39916569  0.39840481  1
+  As  As0  1  0.00051370  0.00051370  0.99826251  1
+  As  As1  1  0.14118361  0.14118361  0.14320310  1
+  As  As2  1  0.14209122  0.56981621  0.14352710  1
+  As  As3  1  0.56981621  0.14209122  0.14352710  1
+  As  As4  1  0.14329811  0.14329811  0.56797794  1
+  As  As5  1  0.63860466  0.63860466  0.63891978  1
+  S  S0  1  0.63077076  0.10825040  0.63135145  1
+  S  S1  1  0.10825040  0.63077076  0.63135145  1
+  S  S2  1  0.63060725  0.63060725  0.10878848  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Re0 S0 2.303849 1_555
+Re0 S1 2.303849 1_555
+As0 As1 2.451121 1_556
+As0 As4 2.462464 1_555
+As0 As3 2.467514 1_456
+As0 As2 2.467514 1_546
+As1 Tc2 2.621891 1_455
+As1 Tc1 2.621891 1_545
+As1 Re0 2.634201 1_554
+As2 Tc0 2.641998 1_555
+As2 Tc2 2.642595 1_455
+As2 Re0 2.647418 1_554
+As3 Tc0 2.641998 1_555
+As3 Tc1 2.642595 1_545
+As3 Re0 2.647418 1_554
+As4 Tc0 2.642945 1_555
+As4 Tc2 2.645791 1_455
+As4 Tc1 2.645791 1_545
+As5 Re0 2.450475 1_555
+As5 Tc2 2.456108 1_555
+As5 Tc1 2.456108 1_555
+S0 Tc2 2.303922 1_555
+S0 Tc0 2.325791 1_555
+S1 Tc1 2.303922 1_555
+S1 Tc0 2.325791 1_555
+S2 Tc1 2.297008 1_555
+S2 Tc2 2.297008 1_555
+S2 Tc0 2.316311 1_555

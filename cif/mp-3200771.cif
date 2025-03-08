@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_Rb2Li2ZrTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10592139
+_cell_length_b   8.10592105
+_cell_length_c   6.66397662
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.38210216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Li2ZrTe4
+_chemical_formula_sum   'Rb2 Li2 Zr1 Te4'
+_cell_volume   328.53630031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.00000000  0.25551186  1
+  Rb  Rb1  1  0.00000000  0.50000000  0.74448814  1
+  Li  Li0  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.86542121  0.65609938  0.23942017  1
+  Te  Te1  1  0.13457879  0.34390062  0.23942017  1
+  Te  Te2  1  0.65609938  0.86542121  0.76057983  1
+  Te  Te3  1  0.34390062  0.13457879  0.76057983  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Te1 3.909343 1_655
+Rb0 Te0 3.909343 1_445
+Rb0 Te2 3.936283 1_544
+Rb0 Te3 3.936283 1_554
+Rb0 Te2 3.993050 1_545
+Rb0 Te3 3.993050 1_555
+Rb0 Te0 4.030069 1_555
+Rb0 Te1 4.030069 1_545
+Rb1 Te3 3.909343 1_565
+Rb1 Te2 3.909343 1_445
+Rb1 Te1 3.936283 1_556
+Rb1 Te0 3.936283 1_456
+Rb1 Te0 3.993050 1_455
+Rb1 Te1 3.993050 1_555
+Rb1 Te2 4.030069 1_555
+Rb1 Te3 4.030069 1_455
+Li0 Te1 2.820583 1_555
+Li0 Te0 2.820583 1_445
+Li0 Te3 2.820583 1_555
+Li0 Te2 2.820583 1_445
+Li1 Te2 2.822251 1_554
+Li1 Te3 2.822251 1_554
+Li1 Te0 2.822251 1_555
+Li1 Te1 2.822251 1_555
+Te0 Zr0 2.736029 1_665
+Te1 Zr0 2.736029 1_555
+Te2 Zr0 2.736029 1_666
+Te3 Zr0 2.736029 1_556

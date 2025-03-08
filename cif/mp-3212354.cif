@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Ca3Al2(SbAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57683138
+_cell_length_b   8.57683055
+_cell_length_c   6.80483755
+_cell_angle_alpha   89.96664159
+_cell_angle_beta   89.96663879
+_cell_angle_gamma   75.43904810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Al2(SbAs)2
+_chemical_formula_sum   'Ca6 Al4 Sb4 As4'
+_cell_volume   484.49934202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99651155  0.26279949  0.01544194  1
+  Ca  Ca1  1  0.73720051  0.00348845  0.48455806  1
+  Ca  Ca2  1  0.00348845  0.73720051  0.98455806  1
+  Ca  Ca3  1  0.26279949  0.99651155  0.51544094  1
+  Ca  Ca4  1  0.59051693  0.40948307  0.75000000  1
+  Ca  Ca5  1  0.40948307  0.59051693  0.25000000  1
+  Al  Al0  1  0.18486725  0.41322183  0.59774313  1
+  Al  Al1  1  0.58677817  0.81513275  0.90225687  1
+  Al  Al2  1  0.81513275  0.58677817  0.40225687  1
+  Al  Al3  1  0.41322183  0.18486725  0.09774313  1
+  Sb  Sb0  1  0.93830762  0.27908827  0.51661924  1
+  Sb  Sb1  1  0.72091173  0.06169238  0.98338076  1
+  Sb  Sb2  1  0.06169238  0.72091173  0.48338076  1
+  Sb  Sb3  1  0.27908827  0.93830762  0.01661924  1
+  As  As0  1  0.26088080  0.43507707  0.94216865  1
+  As  As1  1  0.56492293  0.73911920  0.55783035  1
+  As  As2  1  0.73911920  0.56492293  0.05783135  1
+  As  As3  1  0.43507707  0.26088080  0.44216865  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Sb3 3.198134 1_645
+Ca0 Sb1 3.265164 1_554
+Ca0 Sb0 3.428860 1_554
+Ca0 Sb0 3.444309 1_555
+Ca1 Sb2 3.198134 1_645
+Ca1 Sb0 3.265164 1_555
+Ca1 Sb1 3.428860 1_555
+Ca1 Sb1 3.444309 1_554
+Ca2 Sb1 3.198134 1_465
+Ca2 Sb3 3.265164 1_556
+Ca2 Sb2 3.428860 1_556
+Ca2 Sb2 3.444309 1_555
+Ca3 Sb0 3.198134 1_465
+Ca3 Sb2 3.265163 1_555
+Ca3 Sb3 3.428853 1_555
+Ca3 Sb3 3.444315 1_556
+Ca4 Sb1 3.315109 1_555
+Ca4 Sb0 3.315109 1_555
+Ca5 Sb3 3.315109 1_555
+Ca5 Sb2 3.315109 1_555
+Al0 As0 2.452984 1_555
+Al0 As3 2.454055 1_555
+Al0 Sb2 2.698661 1_555
+Al0 Sb0 2.706583 1_455
+Al1 As1 2.452991 1_555
+Al1 As2 2.454055 1_556
+Al1 Sb3 2.698661 1_556
+Al1 Sb1 2.706583 1_565
+Al2 As2 2.452984 1_555
+Al2 As1 2.454052 1_555
+Al2 Sb0 2.698661 1_555
+Al2 Sb2 2.706583 1_655
+Al3 As3 2.452984 1_555
+Al3 As0 2.454055 1_554
+Al3 Sb1 2.698661 1_554
+Al3 Sb3 2.706583 1_545
+As0 Ca5 2.941175 1_556
+As0 Ca2 2.965660 1_555
+As0 Ca0 3.042317 1_456
+As0 Ca4 3.071713 1_555
+As1 Ca5 2.941170 1_555
+As1 Ca3 2.965660 1_555
+As1 Ca1 3.042316 1_565
+As1 Ca4 3.071716 1_555
+As2 Ca4 2.941175 1_554
+As2 Ca0 2.965660 1_555
+As2 Ca2 3.042317 1_654
+As2 Ca5 3.071713 1_555
+As3 Ca4 2.941175 1_555
+As3 Ca1 2.965660 1_555
+As3 Ca3 3.042316 1_545
+As3 Ca5 3.071713 1_555

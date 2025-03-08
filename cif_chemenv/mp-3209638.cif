@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_MgTa2F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36854954
+_cell_length_b   10.90735268
+_cell_length_c   5.43536395
+_cell_angle_alpha   55.54884358
+_cell_angle_beta   55.96323471
+_cell_angle_gamma   57.14879251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa2F12
+_chemical_formula_sum   'Mg1 Ta2 F12'
+_cell_volume   205.27061284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.75000000  0.50000000  1
+  Ta  Ta0  1  0.01966183  0.01657008  0.95981127  1
+  Ta  Ta1  1  0.98033817  0.48342992  0.04018873  1
+  F  F0  1  0.40888592  0.04829869  0.74777025  1
+  F  F1  1  0.33248177  0.57035869  0.76973951  1
+  F  F2  1  0.06988619  0.38105469  0.40887846  1
+  F  F3  1  0.14250337  0.87913249  0.34147040  1
+  F  F4  1  0.22960642  0.31167562  0.91847671  1
+  F  F5  1  0.24866414  0.82423517  0.85675441  1
+  F  F6  1  0.93011381  0.11894531  0.59112154  1
+  F  F7  1  0.85749663  0.62086751  0.65852960  1
+  F  F8  1  0.59111408  0.45170131  0.25222975  1
+  F  F9  1  0.66751823  0.92964131  0.23026049  1
+  F  F10  1  0.77039358  0.18832438  0.08152329  1
+  F  F11  1  0.75133586  0.67576483  0.14324559  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+F0 Ta0 1.857880 1_555
+F0 F3 2.612112 1_546
+F0 F5 2.671321 1_545
+F1 Ta1 1.972481 1_456
+F1 Mg0 1.995779 1_555
+F1 F11 2.614555 1_456
+F1 F7 2.644975 1_455
+F1 F4 2.744039 1_555
+F2 Ta1 1.859617 1_455
+F3 Ta0 1.981418 1_564
+F3 Mg0 1.988758 1_555
+F3 F9 2.644975 1_455
+F3 F5 2.712608 1_554
+F4 Ta1 1.851839 1_456
+F5 Mg0 1.974453 1_555
+F5 Ta0 1.996679 1_565
+F5 F9 2.614555 1_456
+F5 F6 2.625111 1_465
+F5 F7 2.767746 1_555
+F6 Ta0 1.859617 1_655
+F7 Ta1 1.981418 1_556
+F7 Mg0 1.988758 1_555
+F7 F8 2.612112 1_556
+F8 Ta1 1.857880 1_555
+F9 Ta0 1.972481 1_664
+F9 Mg0 1.995779 1_555
+F10 Ta0 1.851839 1_654
+F10 F9 2.744039 1_545
+F11 Mg0 1.974453 1_555
+F11 Ta1 1.996679 1_555
+F11 F2 2.625111 1_655
+F11 F8 2.671321 1_555
+F11 F7 2.712608 1_554
+F11 F3 2.767746 1_555

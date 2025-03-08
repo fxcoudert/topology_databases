@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_InRh3PbSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81205502
+_cell_length_b   5.81205484
+_cell_length_c   5.81205577
+_cell_angle_alpha   59.18339746
+_cell_angle_beta   59.18339801
+_cell_angle_gamma   59.18340432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InRh3PbSe2
+_chemical_formula_sum   'In1 Rh3 Pb1 Se2'
+_cell_volume   136.24393282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50000000  0.50000000  0.50000000  1
+  Rh  Rh0  1  0.50000000  0.50000000  0.00000000  1
+  Rh  Rh1  1  0.00000000  0.50000000  0.50000000  1
+  Rh  Rh2  1  0.50000000  0.00000000  0.50000000  1
+  Pb  Pb0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se0  1  0.78830732  0.78830732  0.78830732  1
+  Se  Se1  1  0.21169268  0.21169268  0.21169268  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Rh2 2.906027 1_555
+In0 Rh2 2.906027 1_565
+In0 Rh1 2.906028 1_655
+In0 Rh1 2.906028 1_555
+In0 Rh0 2.906028 1_556
+In0 Rh0 2.906028 1_555
+Rh0 Se0 2.404496 1_554
+Rh0 Se1 2.404496 1_555
+Rh0 Rh2 2.870085 1_555
+Rh0 Rh2 2.870085 1_564
+Rh0 Rh1 2.870085 1_654
+Rh0 Rh1 2.870085 1_555
+Rh1 Se0 2.404496 1_455
+Rh1 Se1 2.404496 1_555
+Rh1 Rh2 2.870085 1_465
+Rh1 Rh2 2.870085 1_555
+Rh2 Se0 2.404496 1_545
+Rh2 Se1 2.404496 1_555
+Pb0 Rh1 2.870085 1_554
+Pb0 Rh1 2.870085 1_545
+Pb0 Rh2 2.870085 1_455
+Pb0 Rh2 2.870085 1_554
+Pb0 Rh0 2.870085 1_545
+Pb0 Rh0 2.870085 1_455
+Pb0 Se1 3.032243 1_555
+Pb0 Se0 3.032243 1_444

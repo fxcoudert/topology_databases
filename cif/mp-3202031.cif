@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_Ca2Y(BPt2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44020786
+_cell_length_b   5.44020880
+_cell_length_c   7.65086557
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.48740331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Y(BPt2)3
+_chemical_formula_sum   'Ca2 Y1 B3 Pt6'
+_cell_volume   195.12739704
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.50000000  0.67062959  1
+  Ca  Ca1  1  0.50000000  0.00000000  0.99603741  1
+  Y  Y0  1  0.50000000  0.50000000  0.33333300  1
+  B  B0  1  0.00000000  0.50000000  0.16399262  1
+  B  B1  1  0.50000000  0.50000000  0.83333300  1
+  B  B2  1  0.50000000  0.00000000  0.50267438  1
+  Pt  Pt0  1  0.29377642  0.15289069  0.66315558  1
+  Pt  Pt1  1  0.14873730  0.85126270  0.33333300  1
+  Pt  Pt2  1  0.84710931  0.70622358  0.00351142  1
+  Pt  Pt3  1  0.85126270  0.14873730  0.33333300  1
+  Pt  Pt4  1  0.15289069  0.29377642  0.00351142  1
+  Pt  Pt5  1  0.70622358  0.84710931  0.66315558  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Pt0 3.030793 1_555
+Ca0 Pt5 3.030793 1_455
+Ca0 Pt2 3.063283 1_456
+Ca0 Pt4 3.063283 1_556
+Ca0 Pt1 3.065454 1_555
+Ca0 Pt3 3.065454 1_455
+Ca0 Pt0 3.068096 1_565
+Ca0 Pt5 3.068096 1_445
+Ca1 Pt4 3.030793 1_556
+Ca1 Pt2 3.030793 1_546
+Ca1 Pt0 3.063283 1_555
+Ca1 Pt5 3.063283 1_545
+Ca1 Pt3 3.065447 1_556
+Ca1 Pt1 3.065447 1_546
+Ca1 Pt2 3.068096 1_446
+Ca1 Pt4 3.068096 1_656
+B0 Pt2 2.098781 1_455
+B0 Pt4 2.098781 1_555
+B0 Pt1 2.101437 1_555
+B0 Pt3 2.101437 1_455
+B0 Ca1 2.990226 1_564
+B0 Ca1 2.990226 1_454
+B0 Y0 3.012897 1_555
+B0 Y0 3.012897 1_455
+B1 Pt5 2.090468 1_555
+B1 Pt0 2.090468 1_555
+B1 Pt4 2.090472 1_556
+B1 Pt2 2.090472 1_556
+B1 Ca0 2.991412 1_655
+B1 Ca0 2.991412 1_555
+B1 Ca1 2.991416 1_565
+B1 Ca1 2.991416 1_555
+B2 Pt5 2.098781 1_545
+B2 Pt0 2.098781 1_555
+B2 Pt3 2.101441 1_555
+B2 Pt1 2.101441 1_545
+B2 Ca0 2.990226 1_655
+B2 Ca0 2.990226 1_545
+B2 Y0 3.012900 1_555
+B2 Y0 3.012900 1_545
+Pt0 Y0 3.007080 1_555
+Pt1 Y0 3.043693 1_455
+Pt1 Y0 3.043694 1_565
+Pt2 Y0 3.007073 1_555
+Pt3 Y0 3.043693 1_655
+Pt3 Y0 3.043694 1_545
+Pt4 Y0 3.007073 1_555
+Pt5 Y0 3.007080 1_555

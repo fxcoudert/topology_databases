@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_Li3(CrTe2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67570696
+_cell_length_b   7.67570687
+_cell_length_c   9.53550006
+_cell_angle_alpha   54.31731631
+_cell_angle_beta   54.31731544
+_cell_angle_gamma   63.13093950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3(CrTe2)4
+_chemical_formula_sum   'Li3 Cr4 Te8'
+_cell_volume   365.30272373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.50000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.50000000  1
+  Li  Li2  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr0  1  0.74565587  0.25434413  0.50000000  1
+  Cr  Cr1  1  0.25434413  0.74565587  0.50000000  1
+  Cr  Cr2  1  0.74770731  0.74770731  0.00227469  1
+  Cr  Cr3  1  0.25229269  0.25229269  0.99772531  1
+  Te  Te0  1  0.97089085  0.97089085  0.33309617  1
+  Te  Te1  1  0.02910915  0.02910915  0.66690383  1
+  Te  Te2  1  0.52997784  0.03219873  0.16591847  1
+  Te  Te3  1  0.47002216  0.96780127  0.83408153  1
+  Te  Te4  1  0.96780127  0.47002216  0.83408153  1
+  Te  Te5  1  0.03219873  0.52997784  0.16591847  1
+  Te  Te6  1  0.46983212  0.46983212  0.33013292  1
+  Te  Te7  1  0.53016788  0.53016788  0.66986708  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Te2 2.922342 1_555
+Li0 Te3 2.922342 1_545
+Li0 Te6 2.924188 1_555
+Li0 Te7 2.924188 1_545
+Li0 Te0 2.936159 1_545
+Li0 Te1 2.936159 1_555
+Li1 Te4 2.922342 1_455
+Li1 Te5 2.922342 1_555
+Li1 Te6 2.924188 1_555
+Li1 Te7 2.924188 1_455
+Li1 Te0 2.936159 1_455
+Li1 Te1 2.936159 1_555
+Li2 Te4 2.927708 1_454
+Li2 Te5 2.927708 1_545
+Li2 Te2 2.927708 1_455
+Li2 Te3 2.927708 1_544
+Li2 Te0 2.928763 1_445
+Li2 Te1 2.928763 1_554
+Cr0 Te7 2.748007 1_555
+Cr0 Te6 2.748007 1_555
+Cr0 Te5 2.762533 1_655
+Cr0 Te3 2.762533 1_545
+Cr0 Te0 2.772212 1_545
+Cr0 Te1 2.772212 1_655
+Cr1 Te6 2.748007 1_555
+Cr1 Te7 2.748007 1_555
+Cr1 Te4 2.762533 1_455
+Cr1 Te2 2.762533 1_565
+Cr1 Te1 2.772212 1_565
+Cr1 Te0 2.772212 1_455
+Cr2 Te6 2.725152 1_555
+Cr2 Te4 2.746176 1_554
+Cr2 Te3 2.746176 1_554
+Cr2 Te2 2.762331 1_565
+Cr2 Te5 2.762331 1_655
+Cr2 Te1 2.767395 1_664
+Cr3 Te7 2.725152 1_555
+Cr3 Te5 2.746176 1_556
+Cr3 Te2 2.746176 1_556
+Cr3 Te3 2.762331 1_545
+Cr3 Te4 2.762331 1_455
+Cr3 Te0 2.767395 1_446

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Sr(Tc2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55600991
+_cell_length_b   7.55600926
+_cell_length_c   4.18852441
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.78288841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(Tc2Ge)2
+_chemical_formula_sum   'Sr1 Tc4 Ge2'
+_cell_volume   127.49064979
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc0  1  0.70196425  0.29803775  0.00000000  1
+  Tc  Tc1  1  0.29803775  0.70196425  0.00000000  1
+  Tc  Tc2  1  0.79925689  0.20074411  0.49999900  1
+  Tc  Tc3  1  0.20074411  0.79925689  0.49999900  1
+  Ge  Ge0  1  0.59216925  0.40783275  0.49999900  1
+  Ge  Ge1  1  0.40783275  0.59216925  0.49999900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sr0 Tc2 3.588931 1_455
+Sr0 Tc3 3.588931 1_545
+Sr0 Tc2 3.588935 1_454
+Sr0 Tc3 3.588935 1_544
+Sr0 Tc0 3.604613 1_445
+Sr0 Tc1 3.604613 1_445
+Sr0 Tc1 3.604617 1_555
+Sr0 Tc0 3.604618 1_555
+Tc0 Tc1 2.518104 1_545
+Tc0 Tc1 2.518105 1_655
+Tc0 Tc2 2.526117 1_555
+Tc0 Tc2 2.526124 1_554
+Tc0 Tc3 2.963348 1_655
+Tc0 Tc3 2.963351 1_545
+Tc0 Tc3 2.963354 1_654
+Tc0 Tc3 2.963357 1_544
+Tc1 Tc3 2.526117 1_555
+Tc1 Tc3 2.526124 1_554
+Tc1 Tc2 2.963348 1_565
+Tc1 Tc2 2.963351 1_455
+Tc1 Tc2 2.963354 1_564
+Tc1 Tc2 2.963357 1_454
+Tc2 Tc3 2.537893 1_655
+Tc2 Tc3 2.537894 1_545
+Ge0 Tc3 2.623004 1_655
+Ge0 Tc3 2.623007 1_545
+Ge0 Tc0 2.631920 1_555
+Ge0 Tc0 2.631927 1_556
+Ge0 Ge1 2.676324 1_555
+Ge0 Tc2 3.006648 1_555
+Ge0 Sr0 3.251429 1_665
+Ge0 Sr0 3.251434 1_666
+Ge0 Sr0 3.251434 1_555
+Ge0 Sr0 3.251440 1_556
+Ge1 Tc2 2.623004 1_565
+Ge1 Tc2 2.623008 1_455
+Ge1 Tc1 2.631920 1_555
+Ge1 Tc1 2.631927 1_556
+Ge1 Tc3 3.006648 1_555
+Ge1 Sr0 3.251429 1_665
+Ge1 Sr0 3.251434 1_555
+Ge1 Sr0 3.251434 1_666
+Ge1 Sr0 3.251439 1_556

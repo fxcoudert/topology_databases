@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Re(Cl2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49078742
+_cell_length_b   6.49078815
+_cell_length_c   6.49078813
+_cell_angle_alpha   104.12116307
+_cell_angle_beta   104.12470767
+_cell_angle_gamma   120.79670382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(Cl2F)2
+_chemical_formula_sum   'Re1 Cl4 F2'
+_cell_volume   204.23963126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl0  1  0.00000000  0.28560624  0.28560624  1
+  Cl  Cl1  1  1.00000000  0.71439376  0.71439376  1
+  Cl  Cl2  1  0.28562055  0.00000000  0.28562055  1
+  Cl  Cl3  1  0.71437945  1.00000000  0.71437945  1
+  F  F0  1  0.28814943  0.28814943  0.00000000  1
+  F  F1  1  0.71185057  0.71185057  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Re0 2.279548 1_555
+Cl1 Re0 2.279548 1_666
+Cl2 Re0 2.279571 1_555
+Cl3 Re0 2.279571 1_666
+F0 Re0 1.847749 1_555
+F1 Re0 1.847749 1_666

@@ -1,0 +1,105 @@
+# generated using pymatgen
+data_Ba3Ga2(SbAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.26820470
+_cell_length_b   9.26820621
+_cell_length_c   7.26578868
+_cell_angle_alpha   88.33903092
+_cell_angle_beta   88.33903031
+_cell_angle_gamma   74.77739321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Ga2(SbAs)2
+_chemical_formula_sum   'Ba6 Ga4 Sb4 As4'
+_cell_volume   601.82888435
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00185941  0.73899555  0.53101947  1
+  Ba  Ba1  1  0.26100445  0.99814059  0.96898053  1
+  Ba  Ba2  1  0.99814059  0.26100445  0.46898053  1
+  Ba  Ba3  1  0.73899555  0.00185941  0.03101947  1
+  Ba  Ba4  1  0.41242504  0.58757496  0.25000000  1
+  Ba  Ba5  1  0.58757496  0.41242504  0.75000000  1
+  Ga  Ga0  1  0.81167692  0.59256204  0.08554129  1
+  Ga  Ga1  1  0.40743796  0.18832308  0.41445871  1
+  Ga  Ga2  1  0.18832308  0.40743796  0.91445871  1
+  Ga  Ga3  1  0.59256204  0.81167692  0.58554129  1
+  Sb  Sb0  1  0.06149714  0.69627056  0.02179660  1
+  Sb  Sb1  1  0.30372944  0.93850286  0.47820340  1
+  Sb  Sb2  1  0.93850286  0.30372944  0.97820340  1
+  Sb  Sb3  1  0.69627056  0.06149714  0.52179660  1
+  As  As0  1  0.73909448  0.58043691  0.42100233  1
+  As  As1  1  0.41956309  0.26090552  0.07899767  1
+  As  As2  1  0.26090552  0.41956309  0.57899767  1
+  As  As3  1  0.58043691  0.73909448  0.92100233  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Sb3 3.537529 1_465
+Ba0 Sb0 3.618743 1_556
+Ba0 Ga3 3.686110 1_455
+Ba0 Sb0 3.742066 1_555
+Ba0 Sb1 3.742637 1_555
+Ba1 Sb2 3.537529 1_465
+Ba1 Sb1 3.618743 1_555
+Ba1 Ga2 3.686111 1_565
+Ba1 Sb1 3.742066 1_556
+Ba1 Sb0 3.742638 1_556
+Ba2 Sb1 3.537529 1_645
+Ba2 Sb2 3.618743 1_554
+Ba2 Ga1 3.686110 1_655
+Ba2 Sb2 3.742066 1_555
+Ba2 Sb3 3.742637 1_555
+Ba3 Sb0 3.537529 1_645
+Ba3 Sb3 3.618743 1_555
+Ba3 Ga0 3.686111 1_545
+Ba3 Sb3 3.742066 1_554
+Ba3 Sb2 3.742638 1_554
+Ba4 Sb0 3.582988 1_555
+Ba4 Sb1 3.582989 1_555
+Ba5 Sb2 3.582988 1_555
+Ba5 Sb3 3.582989 1_555
+Ga0 Sb2 2.751635 1_554
+Ga0 Sb0 2.753207 1_655
+Ga1 Sb3 2.751635 1_555
+Ga1 Sb1 2.753208 1_545
+Ga2 Sb0 2.751635 1_556
+Ga2 Sb2 2.753207 1_455
+Ga3 Sb1 2.751635 1_555
+Ga3 Sb3 2.753208 1_565
+As0 Ga0 2.516903 1_555
+As0 Ga3 2.528396 1_555
+As0 Ba0 3.284800 1_655
+As0 Ba4 3.289805 1_555
+As0 Ba5 3.293779 1_555
+As0 Ba2 3.302537 1_555
+As1 Ga1 2.516903 1_555
+As1 Ga2 2.528396 1_554
+As1 Ba1 3.284800 1_544
+As1 Ba4 3.289806 1_555
+As1 Ba5 3.293779 1_554
+As1 Ba3 3.302537 1_555
+As2 Ga2 2.516903 1_555
+As2 Ga1 2.528396 1_555
+As2 Ba2 3.284800 1_455
+As2 Ba5 3.289805 1_555
+As2 Ba4 3.293779 1_555
+As2 Ba0 3.302537 1_555
+As3 Ga3 2.516903 1_555
+As3 Ga0 2.528396 1_556
+As3 Ba3 3.284800 1_566
+As3 Ba5 3.289806 1_555
+As3 Ba4 3.293779 1_556
+As3 Ba1 3.302537 1_555

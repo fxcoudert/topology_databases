@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_RbTi2CrSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31933154
+_cell_length_b   9.31932976
+_cell_length_c   9.31933024
+_cell_angle_alpha   39.17553627
+_cell_angle_beta   39.17554724
+_cell_angle_gamma   39.17554065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTi2CrSe6
+_chemical_formula_sum   'Rb1 Ti2 Cr1 Se6'
+_cell_volume   290.55579884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.99953519  0.99953519  0.99953519  1
+  Ti  Ti0  1  0.50000796  0.50000796  0.50000796  1
+  Ti  Ti1  1  0.83361314  0.83361314  0.83361314  1
+  Cr  Cr0  1  0.16657548  0.16657548  0.16657548  1
+  Se  Se0  1  0.55301588  0.22579084  0.89348452  1
+  Se  Se1  1  0.89348452  0.55301588  0.22579084  1
+  Se  Se2  1  0.22579084  0.89348452  0.55301588  1
+  Se  Se3  1  0.77648780  0.10919657  0.44229462  1
+  Se  Se4  1  0.10919657  0.44229462  0.77648780  1
+  Se  Se5  1  0.44229462  0.77648780  0.10919657  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Se1 3.504347 1_556
+Rb0 Se2 3.504348 1_655
+Rb0 Se0 3.504348 1_565
+Rb0 Se4 3.512447 1_665
+Rb0 Se3 3.512447 1_566
+Rb0 Se5 3.512448 1_656
+Cr0 Se1 2.538656 1_455
+Cr0 Se2 2.538656 1_545
+Cr0 Se0 2.538657 1_554
+Cr0 Se5 2.550509 1_545
+Cr0 Se4 2.550509 1_554
+Cr0 Se3 2.550510 1_455
+Se0 Ti0 2.558014 1_555
+Se0 Ti1 2.566879 1_545
+Se1 Ti0 2.558014 1_555
+Se1 Ti1 2.566879 1_554
+Se2 Ti0 2.558014 1_555
+Se2 Ti1 2.566880 1_455
+Se3 Ti0 2.555771 1_555
+Se3 Ti1 2.558841 1_545
+Se4 Ti0 2.555772 1_555
+Se4 Ti1 2.558841 1_455
+Se5 Ti0 2.555771 1_555
+Se5 Ti1 2.558842 1_554

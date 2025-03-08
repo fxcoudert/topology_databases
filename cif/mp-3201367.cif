@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsScMnS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98642797
+_cell_length_b   7.98642780
+_cell_length_c   10.26005365
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.66513906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScMnS3
+_chemical_formula_sum   'Cs2 Sc2 Mn2 S6'
+_cell_volume   310.60205674
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.26093869  0.73906131  0.25000000  1
+  Cs  Cs1  1  0.73906131  0.26093869  0.75000000  1
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn0  1  0.54031299  0.45968701  0.25000000  1
+  Mn  Mn1  1  0.45968701  0.54031299  0.75000000  1
+  S  S0  1  0.60971949  0.39028051  0.04787658  1
+  S  S1  1  0.39028051  0.60971949  0.95212342  1
+  S  S2  1  0.39028051  0.60971949  0.54787658  1
+  S  S3  1  0.60971949  0.39028051  0.45212342  1
+  S  S4  1  0.95024923  0.04975077  0.25000000  1
+  S  S5  1  0.04975077  0.95024923  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 S4 3.523742 1_455
+Cs0 S4 3.523742 1_565
+Cs0 S2 3.654180 1_555
+Cs0 S1 3.654180 1_554
+Cs0 S3 3.688667 1_565
+Cs0 S0 3.688667 1_565
+Cs0 S3 3.688667 1_455
+Cs0 S0 3.688667 1_455
+Cs1 S5 3.523742 1_655
+Cs1 S5 3.523742 1_545
+Cs1 S0 3.654180 1_556
+Cs1 S3 3.654180 1_555
+Cs1 S1 3.688667 1_545
+Cs1 S2 3.688667 1_545
+Cs1 S1 3.688667 1_655
+Cs1 S2 3.688667 1_655
+Mn0 S3 2.335818 1_555
+Mn0 S0 2.335818 1_555
+Mn0 S4 2.401351 1_565
+Mn0 S4 2.401351 1_455
+Mn1 S1 2.335818 1_555
+Mn1 S2 2.335818 1_555
+Mn1 S5 2.401351 1_545
+Mn1 S5 2.401351 1_655
+S0 Sc0 2.636216 1_665
+S0 Sc0 2.636217 1_555
+S1 Sc0 2.636216 1_556
+S1 Sc0 2.636217 1_666
+S2 Sc1 2.636216 1_555
+S2 Sc1 2.636217 1_665
+S3 Sc1 2.636216 1_665
+S3 Sc1 2.636217 1_555
+S4 Sc0 2.678237 1_655
+S4 Sc1 2.678237 1_655
+S5 Sc0 2.678237 1_566
+S5 Sc1 2.678237 1_565

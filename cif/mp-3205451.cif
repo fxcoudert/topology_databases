@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_ZrSc9(Sn3Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07019522
+_cell_length_b   8.70425117
+_cell_length_c   8.70425198
+_cell_angle_alpha   59.90451957
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc9(Sn3Ge)2
+_chemical_formula_sum   'Zr1 Sc9 Sn6 Ge2'
+_cell_volume   397.90327178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  0.25030208  0.74969792  1
+  Sc  Sc0  1  0.25000000  0.25706582  0.99954164  1
+  Sc  Sc1  1  0.75000000  0.74656541  0.99858226  1
+  Sc  Sc2  1  0.25000000  0.74569147  0.25430853  1
+  Sc  Sc3  1  0.75000000  0.00141774  0.25343459  1
+  Sc  Sc4  1  0.99976811  0.33326062  0.33457387  1
+  Sc  Sc5  1  0.50023189  0.33326062  0.33457387  1
+  Sc  Sc6  1  0.99976811  0.66542513  0.66673838  1
+  Sc  Sc7  1  0.50023189  0.66542513  0.66673838  1
+  Sc  Sc8  1  0.25000000  0.00045836  0.74293418  1
+  Sn  Sn0  1  0.75000000  0.39502030  0.99928235  1
+  Sn  Sn1  1  0.25000000  0.60773215  0.99828004  1
+  Sn  Sn2  1  0.25000000  0.00171996  0.39226785  1
+  Sn  Sn3  1  0.75000000  0.60631086  0.39368914  1
+  Sn  Sn4  1  0.75000000  0.00071765  0.60497970  1
+  Sn  Sn5  1  0.25000000  0.39220601  0.60779399  1
+  Ge  Ge0  1  0.00331048  0.99871035  0.00128965  1
+  Ge  Ge1  1  0.49668952  0.99871035  0.00128965  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sn5 2.998050 1_555
+Sc0 Sn2 3.000949 1_556
+Sc0 Sn1 3.046796 1_555
+Sc0 Sn0 3.263587 1_555
+Sc0 Sn0 3.263587 1_455
+Sc1 Sn4 3.005082 1_565
+Sc1 Sn3 3.017821 1_556
+Sc1 Sn0 3.056886 1_555
+Sc1 Sn1 3.267314 1_555
+Sc1 Sn1 3.267314 1_655
+Sc2 Sn2 3.015326 1_565
+Sc2 Sn1 3.015326 1_554
+Sc2 Sn5 3.072385 1_555
+Sc2 Sn3 3.267940 1_555
+Sc2 Sn3 3.267940 1_455
+Sc3 Sn0 3.005082 1_554
+Sc3 Sn3 3.017820 1_545
+Sc3 Sn4 3.056886 1_555
+Sc3 Sn2 3.267314 1_555
+Sc3 Sn2 3.267314 1_655
+Sc4 Sn4 3.063392 1_555
+Sc4 Sn2 3.071473 1_655
+Sc4 Sn3 3.072232 1_555
+Sc4 Sn5 3.074070 1_655
+Sc4 Sn0 3.087342 1_554
+Sc4 Sn1 3.093521 1_654
+Sc5 Sn4 3.063392 1_555
+Sc5 Sn2 3.071473 1_555
+Sc5 Sn3 3.072232 1_555
+Sc5 Sn5 3.074070 1_555
+Sc5 Sn0 3.087342 1_554
+Sc5 Sn1 3.093521 1_554
+Sc6 Sn0 3.063395 1_555
+Sc6 Sn1 3.071483 1_655
+Sc6 Sn3 3.072220 1_555
+Sc6 Sn5 3.074057 1_655
+Sc6 Sn4 3.087351 1_565
+Sc6 Sn2 3.093523 1_665
+Sc7 Sn0 3.063395 1_555
+Sc7 Sn1 3.071483 1_555
+Sc7 Sn3 3.072220 1_555
+Sc7 Sn5 3.074057 1_555
+Sc7 Sn4 3.087351 1_565
+Sc7 Sn2 3.093523 1_565
+Sc8 Sn5 2.998049 1_555
+Sc8 Sn1 3.000948 1_545
+Sc8 Sn2 3.046796 1_555
+Sc8 Sn4 3.263587 1_455
+Sc8 Sn4 3.263587 1_555
+Sn0 Zr0 3.008441 1_555
+Sn3 Zr0 3.094317 1_555
+Sn4 Zr0 3.008441 1_555
+Sn5 Zr0 3.276134 1_555
+Sn5 Zr0 3.276134 1_455
+Ge0 Sc2 2.660578 1_555
+Ge0 Zr0 2.673248 1_464
+Ge0 Sc1 2.689540 1_454
+Ge0 Sc3 2.689540 1_465
+Ge0 Sc0 2.695430 1_564
+Ge0 Sc8 2.695431 1_564
+Ge1 Sc2 2.660578 1_555
+Ge1 Zr0 2.673248 1_564
+Ge1 Sc1 2.689540 1_554
+Ge1 Sc3 2.689540 1_565
+Ge1 Sc0 2.695430 1_564
+Ge1 Sc8 2.695431 1_564

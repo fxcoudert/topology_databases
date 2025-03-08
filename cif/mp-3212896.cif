@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_LuHf(NiP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79857906
+_cell_length_b   3.79857838
+_cell_length_c   14.42621873
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuHf(NiP)2
+_chemical_formula_sum   'Lu2 Hf2 Ni4 P4'
+_cell_volume   180.27081306
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00000000  0.00000000  0.50000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf0  1  0.00000000  0.00000000  0.25000000  1
+  Hf  Hf1  1  0.00000000  0.00000000  0.75000000  1
+  Ni  Ni0  1  0.33333300  0.66666700  0.35481273  1
+  Ni  Ni1  1  0.66666700  0.33333300  0.64518727  1
+  Ni  Ni2  1  0.66666700  0.33333300  0.85481273  1
+  Ni  Ni3  1  0.33333300  0.66666700  0.14518727  1
+  P  P0  1  0.33333300  0.66666700  0.87615556  1
+  P  P1  1  0.66666700  0.33333300  0.12384444  1
+  P  P2  1  0.66666700  0.33333300  0.37615556  1
+  P  P3  1  0.33333300  0.66666700  0.62384444  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 P3 2.828726 1_545
+Lu0 P2 2.828726 1_455
+Lu0 P3 2.828728 1_555
+Lu0 P2 2.828728 1_445
+Lu0 P3 2.828728 1_445
+Lu0 P2 2.828728 1_555
+Lu0 Ni1 3.032601 1_455
+Lu0 Ni0 3.032601 1_545
+Lu0 Ni1 3.032603 1_445
+Lu0 Ni0 3.032603 1_555
+Lu0 Ni1 3.032603 1_555
+Lu0 Ni0 3.032603 1_445
+Lu1 P1 2.828726 1_455
+Lu1 P0 2.828726 1_544
+Lu1 P1 2.828728 1_445
+Lu1 P0 2.828728 1_554
+Lu1 P1 2.828728 1_555
+Lu1 P0 2.828728 1_444
+Lu1 Ni3 3.032601 1_545
+Lu1 Ni2 3.032601 1_454
+Lu1 Ni3 3.032603 1_555
+Lu1 Ni2 3.032603 1_444
+Lu1 Ni3 3.032603 1_445
+Lu1 Ni2 3.032603 1_554
+Hf0 Ni0 2.663836 1_545
+Hf0 Ni3 2.663836 1_545
+Hf0 Ni0 2.663839 1_555
+Hf0 Ni3 2.663839 1_555
+Hf0 Ni0 2.663839 1_445
+Hf0 Ni3 2.663839 1_445
+Hf0 P2 2.849901 1_455
+Hf0 P1 2.849901 1_455
+Hf0 P2 2.849903 1_445
+Hf0 P1 2.849903 1_445
+Hf0 P2 2.849903 1_555
+Hf0 P1 2.849903 1_555
+Hf1 Ni2 2.663836 1_455
+Hf1 Ni1 2.663836 1_455
+Hf1 Ni2 2.663839 1_445
+Hf1 Ni1 2.663839 1_445
+Hf1 Ni2 2.663839 1_555
+Hf1 Ni1 2.663839 1_555
+Hf1 P0 2.849901 1_545
+Hf1 P3 2.849901 1_545
+Hf1 P0 2.849903 1_555
+Hf1 P3 2.849903 1_555
+Hf1 P0 2.849903 1_445
+Hf1 P3 2.849903 1_445
+Ni0 P2 2.214616 1_565
+Ni0 P2 2.214616 1_455
+Ni0 P2 2.214622 1_555
+Ni1 P3 2.214616 1_545
+Ni1 P3 2.214616 1_655
+Ni1 P3 2.214622 1_555
+Ni2 P0 2.214616 1_545
+Ni2 P0 2.214616 1_655
+Ni2 P0 2.214622 1_555
+Ni3 P1 2.214616 1_565
+Ni3 P1 2.214616 1_455
+Ni3 P1 2.214622 1_555

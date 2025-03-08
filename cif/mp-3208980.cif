@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_NaLu(SbAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49422167
+_cell_length_b   4.49422187
+_cell_length_c   17.44909873
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00002030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLu(SbAu)2
+_chemical_formula_sum   'Na2 Lu2 Sb4 Au4'
+_cell_volume   305.21968619
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1
+  Lu  Lu0  1  0.00000000  0.00000000  0.25000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.75000000  1
+  Sb  Sb0  1  0.33333300  0.66666700  0.37917378  1
+  Sb  Sb1  1  0.66666700  0.33333300  0.62082622  1
+  Sb  Sb2  1  0.66666700  0.33333300  0.87917378  1
+  Sb  Sb3  1  0.33333300  0.66666700  0.12082622  1
+  Au  Au0  1  0.66666700  0.33333300  0.33607224  1
+  Au  Au1  1  0.33333300  0.66666700  0.66392776  1
+  Au  Au2  1  0.33333300  0.66666700  0.83607224  1
+  Au  Au3  1  0.66666700  0.33333300  0.16392776  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Sb0 3.343296 1_545
+Na0 Sb1 3.343296 1_455
+Na0 Sb1 3.343299 1_555
+Na0 Sb0 3.343299 1_445
+Na0 Sb0 3.343299 1_555
+Na0 Sb1 3.343299 1_445
+Na1 Sb2 3.343296 1_454
+Na1 Sb3 3.343296 1_545
+Na1 Sb2 3.343299 1_554
+Na1 Sb3 3.343299 1_445
+Na1 Sb3 3.343299 1_555
+Na1 Sb2 3.343299 1_444
+Lu0 Sb3 3.437008 1_545
+Lu0 Sb0 3.437008 1_545
+Lu0 Sb3 3.437011 1_445
+Lu0 Sb0 3.437011 1_445
+Lu0 Sb3 3.437011 1_555
+Lu0 Sb0 3.437011 1_555
+Lu1 Sb1 3.437008 1_455
+Lu1 Sb2 3.437008 1_455
+Lu1 Sb1 3.437011 1_555
+Lu1 Sb2 3.437011 1_555
+Lu1 Sb1 3.437011 1_445
+Lu1 Sb2 3.437011 1_445
+Au0 Sb0 2.701535 1_655
+Au0 Sb0 2.701535 1_545
+Au0 Sb0 2.701543 1_555
+Au0 Lu0 2.998052 1_655
+Au0 Lu0 2.998055 1_555
+Au0 Lu0 2.998055 1_665
+Au1 Sb1 2.701535 1_455
+Au1 Sb1 2.701535 1_565
+Au1 Sb1 2.701543 1_555
+Au1 Lu1 2.998052 1_565
+Au1 Lu1 2.998055 1_665
+Au1 Lu1 2.998055 1_555
+Au2 Sb2 2.701535 1_455
+Au2 Sb2 2.701535 1_565
+Au2 Sb2 2.701543 1_555
+Au2 Lu1 2.998052 1_565
+Au2 Lu1 2.998055 1_665
+Au2 Lu1 2.998055 1_555
+Au3 Sb3 2.701535 1_655
+Au3 Sb3 2.701535 1_545
+Au3 Sb3 2.701543 1_555
+Au3 Lu0 2.998052 1_655
+Au3 Lu0 2.998055 1_555
+Au3 Lu0 2.998055 1_665

@@ -1,16 +1,16 @@
 # generated using pymatgen
 data_Yb(CuS)2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.88975419
-_cell_length_b   3.88975419
-_cell_length_c   6.42283600
+_cell_length_a   3.91234909
+_cell_length_b   3.91234909
+_cell_length_c   6.18630199
 _cell_angle_alpha   90.00000000
 _cell_angle_beta   90.00000000
-_cell_angle_gamma   120.00000326
+_cell_angle_gamma   120.00000329
 _symmetry_Int_Tables_number   1
 _chemical_formula_structural   Yb(CuS)2
 _chemical_formula_sum   'Yb1 Cu2 S2'
-_cell_volume   84.15923233
+_cell_volume   82.00435761
 _cell_formula_units_Z   1
 loop_
  _symmetry_equiv_pos_site_id
@@ -25,26 +25,32 @@ loop_
  _atom_site_fract_z
  _atom_site_occupancy
   Yb  Yb0  1  0.00000000  0.00000000  0.00000000  1
-  Cu  Cu0  1  0.66666700  0.33333300  0.63214300  1
-  Cu  Cu1  1  0.33333300  0.66666700  0.36785700  1
-  S  S0  1  0.66666700  0.33333300  0.25558000  1
-  S  S1  1  0.33333300  0.66666700  0.74442000  1
+  Cu  Cu0  1  0.66666700  0.33333300  0.67253326  1
+  Cu  Cu1  1  0.33333300  0.66666700  0.32746674  1
+  S  S0  1  0.66666700  0.33333300  0.26316571  1
+  S  S1  1  0.33333300  0.66666700  0.73683429  1
 loop_
 _geom_bond_atom_site_label_1
 _geom_bond_atom_site_label_2
 _geom_bond_distance
 _geom_bond_site_symmetry_2
-Cu0 S1 2.358691 1_545
-Cu0 S1 2.358691 1_655
-Cu0 S1 2.358698 1_555
-Cu0 S0 2.418602 1_555
-Cu1 S0 2.358691 1_455
-Cu1 S0 2.358691 1_565
-Cu1 S0 2.358698 1_555
-Cu1 S1 2.418602 1_555
-S0 Yb0 2.781738 1_655
-S0 Yb0 2.781741 1_665
-S0 Yb0 2.781741 1_555
-S1 Yb0 2.781738 1_566
-S1 Yb0 2.781741 1_556
-S1 Yb0 2.781741 1_666
+Cu0 S1 2.293552 1_655
+Cu0 S1 2.293552 1_545
+Cu0 S1 2.293559 1_555
+Cu0 S0 2.532471 1_555
+Cu0 Yb0 3.034147 1_656
+Cu0 Yb0 3.034149 1_556
+Cu0 Yb0 3.034149 1_666
+Cu1 S0 2.293552 1_565
+Cu1 S0 2.293552 1_455
+Cu1 S0 2.293559 1_555
+Cu1 S1 2.532471 1_555
+Cu1 Yb0 3.034147 1_565
+Cu1 Yb0 3.034149 1_555
+Cu1 Yb0 3.034149 1_665
+S0 Yb0 2.784350 1_655
+S0 Yb0 2.784353 1_555
+S0 Yb0 2.784353 1_665
+S1 Yb0 2.784350 1_566
+S1 Yb0 2.784353 1_556
+S1 Yb0 2.784353 1_666

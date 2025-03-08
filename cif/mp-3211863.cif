@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_ScTi(AlRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50722775
+_cell_length_b   7.50722848
+_cell_length_c   7.50722899
+_cell_angle_alpha   131.71815054
+_cell_angle_beta   131.71815662
+_cell_angle_gamma   70.67453941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi(AlRh2)2
+_chemical_formula_sum   'Sc2 Ti2 Al4 Rh8'
+_cell_volume   230.92514216
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.75000000  0.75000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.49999900  0.49999900  1
+  Ti  Ti0  1  0.25000000  0.25000000  0.00000000  1
+  Ti  Ti1  1  0.49999900  0.00000000  0.49999900  1
+  Al  Al0  1  0.50082257  0.50082257  1.00000000  1
+  Al  Al1  1  0.99917743  0.99917743  0.00000000  1
+  Al  Al2  1  0.75082257  0.25082357  0.49999900  1
+  Al  Al3  1  0.24917843  0.74917743  0.49999900  1
+  Rh  Rh0  1  0.37500000  0.88401436  0.00901336  1
+  Rh  Rh1  1  0.13401436  0.62500000  0.00901536  1
+  Rh  Rh2  1  0.37500000  0.36598564  0.49098564  1
+  Rh  Rh3  1  0.61598464  0.62500000  0.49098564  1
+  Rh  Rh4  1  0.13401436  0.12500000  0.50901436  1
+  Rh  Rh5  1  0.87500100  0.88401436  0.50901436  1
+  Rh  Rh6  1  0.87500100  0.36598564  0.99098664  1
+  Rh  Rh7  1  0.61598764  0.12500000  0.99098764  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Rh4 2.630884 1_555
+Al0 Rh1 2.630887 1_556
+Al0 Rh3 2.630888 1_556
+Al0 Rh7 2.630891 1_555
+Al0 Rh2 2.683237 1_555
+Al0 Rh5 2.683240 1_556
+Al0 Rh6 2.683240 1_555
+Al0 Rh0 2.683240 1_556
+Al1 Rh6 2.630880 1_564
+Al1 Rh2 2.630884 1_665
+Al1 Rh0 2.630887 1_655
+Al1 Rh5 2.630888 1_554
+Al1 Rh7 2.683229 1_564
+Al1 Rh4 2.683237 1_665
+Al1 Rh3 2.683240 1_554
+Al1 Rh1 2.683240 1_655
+Al2 Rh2 2.630887 1_555
+Al2 Rh0 2.630887 1_545
+Al2 Rh5 2.630894 1_545
+Al2 Rh6 2.630898 1_555
+Al2 Rh7 2.683219 1_554
+Al2 Rh3 2.683226 1_555
+Al2 Rh4 2.683233 1_655
+Al2 Rh1 2.683233 1_656
+Al3 Rh3 2.630866 1_555
+Al3 Rh1 2.630866 1_555
+Al3 Rh4 2.630880 1_565
+Al3 Rh7 2.630887 1_565
+Al3 Rh6 2.683236 1_454
+Al3 Rh5 2.683240 1_455
+Al3 Rh2 2.683240 1_555
+Al3 Rh0 2.683240 1_556
+Rh0 Ti0 2.624991 1_565
+Rh0 Ti1 2.624999 1_565
+Rh0 Sc0 2.688956 1_555
+Rh0 Sc1 2.688964 1_554
+Rh1 Ti1 2.624991 1_565
+Rh1 Ti0 2.624991 1_555
+Rh1 Sc0 2.688957 1_455
+Rh1 Sc1 2.688971 1_554
+Rh2 Ti1 2.624991 1_555
+Rh2 Ti0 2.624995 1_555
+Rh2 Sc1 2.688956 1_555
+Rh2 Sc0 2.688960 1_556
+Rh3 Ti0 2.624991 1_555
+Rh3 Ti1 2.624998 1_565
+Rh3 Sc0 2.688957 1_556
+Rh3 Sc1 2.688971 1_655
+Rh4 Ti1 2.624991 1_555
+Rh4 Ti0 2.624995 1_556
+Rh4 Sc1 2.688957 1_555
+Rh4 Sc0 2.688960 1_445
+Rh5 Ti0 2.624991 1_666
+Rh5 Ti1 2.625005 1_565
+Rh5 Sc0 2.688957 1_555
+Rh5 Sc1 2.688964 1_655
+Rh6 Ti0 2.624991 1_656
+Rh6 Ti1 2.625002 1_555
+Rh6 Sc1 2.688953 1_656
+Rh6 Sc0 2.688964 1_556
+Rh7 Ti0 2.625001 1_556
+Rh7 Ti1 2.625005 1_555
+Rh7 Sc1 2.688949 1_656
+Rh7 Sc0 2.688953 1_546

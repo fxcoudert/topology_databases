@@ -1,0 +1,117 @@
+# generated using pymatgen
+data_Ti2SiPdRh4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96751066
+_cell_length_b   5.35955354
+_cell_length_c   10.44878961
+_cell_angle_alpha   91.33033535
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2SiPdRh4
+_chemical_formula_sum   'Ti4 Si2 Pd2 Rh8'
+_cell_volume   222.12407054
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.33968383  0.13988888  1
+  Ti  Ti1  1  0.50000000  0.66031617  0.86011112  1
+  Ti  Ti2  1  0.50000000  0.82094493  0.36231776  1
+  Ti  Ti3  1  0.50000000  0.17905507  0.63768224  1
+  Si  Si0  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd0  1  0.00000000  0.07958871  0.23924720  1
+  Pd  Pd1  1  0.00000000  0.92041129  0.76075280  1
+  Rh  Rh0  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh1  1  0.00000000  0.50000000  0.00000000  1
+  Rh  Rh2  1  0.00000000  0.58148706  0.26219615  1
+  Rh  Rh3  1  0.00000000  0.41851294  0.73780385  1
+  Rh  Rh4  1  0.50000000  0.31445141  0.39405761  1
+  Rh  Rh5  1  0.50000000  0.68554859  0.60594239  1
+  Rh  Rh6  1  0.50000000  0.81890865  0.10454018  1
+  Rh  Rh7  1  0.50000000  0.18109135  0.89545982  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pd0 Si0 2.526194 1_555
+Pd0 Ti0 2.650190 1_455
+Pd0 Ti0 2.650190 1_555
+Pd0 Rh2 2.685889 1_545
+Pd0 Rh2 2.695067 1_555
+Pd0 Ti2 2.755592 1_445
+Pd0 Ti2 2.755592 1_545
+Pd0 Rh0 2.767507 1_555
+Pd0 Rh6 2.788740 1_445
+Pd0 Rh6 2.788740 1_545
+Pd0 Rh4 2.835804 1_455
+Pd0 Rh4 2.835804 1_555
+Pd1 Si0 2.526194 1_566
+Pd1 Ti1 2.650190 1_555
+Pd1 Ti1 2.650190 1_455
+Pd1 Rh3 2.685889 1_565
+Pd1 Rh3 2.695067 1_555
+Pd1 Ti3 2.755592 1_565
+Pd1 Ti3 2.755592 1_465
+Pd1 Rh0 2.767507 1_565
+Pd1 Rh7 2.788740 1_565
+Pd1 Rh7 2.788740 1_465
+Pd1 Rh5 2.835804 1_555
+Pd1 Rh5 2.835804 1_455
+Rh0 Ti3 2.619490 1_455
+Rh0 Ti3 2.619490 1_555
+Rh0 Ti2 2.619490 1_445
+Rh0 Ti2 2.619490 1_545
+Rh0 Si1 2.679777 1_545
+Rh0 Si1 2.679777 1_555
+Rh1 Ti0 2.620752 1_455
+Rh1 Ti0 2.620752 1_555
+Rh1 Ti1 2.620752 1_554
+Rh1 Ti1 2.620752 1_454
+Rh1 Si0 2.679777 1_555
+Rh1 Si0 2.679777 1_565
+Rh2 Si1 2.532819 1_555
+Rh2 Ti2 2.571858 1_455
+Rh2 Ti2 2.571858 1_555
+Rh2 Ti0 2.677887 1_455
+Rh2 Ti0 2.677887 1_555
+Rh3 Si1 2.532819 1_555
+Rh3 Ti3 2.571858 1_455
+Rh3 Ti3 2.571858 1_555
+Rh3 Ti1 2.677887 1_555
+Rh3 Ti1 2.677887 1_455
+Rh4 Si1 2.469514 1_655
+Rh4 Si1 2.469514 1_555
+Rh4 Ti2 2.658034 1_545
+Rh4 Ti0 2.662330 1_555
+Rh4 Ti3 2.663147 1_555
+Rh4 Ti2 2.742395 1_555
+Rh5 Si1 2.469514 1_555
+Rh5 Si1 2.469514 1_655
+Rh5 Ti3 2.658034 1_565
+Rh5 Ti1 2.662330 1_555
+Rh5 Ti2 2.663147 1_555
+Rh5 Ti3 2.742395 1_555
+Rh6 Si0 2.473798 1_665
+Rh6 Si0 2.473798 1_565
+Rh6 Ti0 2.603326 1_555
+Rh6 Ti1 2.672925 1_554
+Rh6 Ti2 2.693232 1_555
+Rh6 Ti0 2.806941 1_565
+Rh7 Si0 2.473798 1_556
+Rh7 Si0 2.473798 1_656
+Rh7 Ti1 2.603326 1_555
+Rh7 Ti0 2.672925 1_556
+Rh7 Ti3 2.693232 1_555
+Rh7 Ti1 2.806941 1_545

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_RbTe3PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.37462214
+_cell_length_b   8.37462215
+_cell_length_c   8.38882170
+_cell_angle_alpha   56.80006800
+_cell_angle_beta   56.80006555
+_cell_angle_gamma   56.59986880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTe3PdPt
+_chemical_formula_sum   'Rb2 Te6 Pd2 Pt2'
+_cell_volume   384.64221331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.79124044  0.79124044  0.79619685  1
+  Rb  Rb1  1  0.20875956  0.20875956  0.20380315  1
+  Te  Te0  1  0.76654533  0.76654533  0.27652996  1
+  Te  Te1  1  0.27852109  0.76590860  0.76693041  1
+  Te  Te2  1  0.76590860  0.27852109  0.76693041  1
+  Te  Te3  1  0.72147891  0.23409140  0.23306959  1
+  Te  Te4  1  0.23345467  0.23345467  0.72347004  1
+  Te  Te5  1  0.23409140  0.72147891  0.23306959  1
+  Pd  Pd0  1  0.50000000  0.00000000  0.50000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  0.50000000  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Te0 3.813623 1_556
+Rb0 Te1 3.842508 1_655
+Rb0 Te2 3.842508 1_565
+Rb1 Te4 3.813623 1_554
+Rb1 Te3 3.842508 1_455
+Rb1 Te5 3.842508 1_545
+Pd0 Te3 2.635377 1_555
+Pd0 Te1 2.635377 1_545
+Pd0 Te4 2.635479 1_555
+Pd0 Te0 2.635479 1_545
+Pd0 Rb0 3.516284 1_545
+Pd0 Rb1 3.516284 1_555
+Pd1 Te5 2.635377 1_555
+Pd1 Te2 2.635377 1_455
+Pd1 Te4 2.635479 1_555
+Pd1 Te0 2.635479 1_455
+Pd1 Rb0 3.516284 1_455
+Pd1 Rb1 3.516284 1_555
+Pt0 Te3 2.697315 1_455
+Pt0 Te1 2.697315 1_544
+Pt0 Te5 2.697315 1_545
+Pt0 Te2 2.697315 1_454
+Pt0 Te4 2.702009 1_554
+Pt0 Te0 2.702009 1_445
+Pt1 Te5 2.622571 1_555
+Pt1 Te2 2.622571 1_554
+Pt1 Te3 2.622572 1_555
+Pt1 Te1 2.622572 1_554
+Pt1 Rb0 3.498141 1_554
+Pt1 Rb1 3.498141 1_555

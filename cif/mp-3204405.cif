@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CoMoF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51990797
+_cell_length_b   5.51136549
+_cell_length_c   5.50702233
+_cell_angle_alpha   55.30748885
+_cell_angle_beta   55.32327639
+_cell_angle_gamma   55.39507274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoMoF6
+_chemical_formula_sum   'Co1 Mo1 F6'
+_cell_volume   105.64469083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.50000000  0.50000000  0.50000000  1
+  F  F0  1  0.25970366  0.87393728  0.61696109  1
+  F  F1  1  0.61860305  0.25929945  0.87389986  1
+  F  F2  1  0.12555574  0.38197104  0.74141517  1
+  F  F3  1  0.38139695  0.74070055  0.12610014  1
+  F  F4  1  0.74029634  0.12606272  0.38303891  1
+  F  F5  1  0.87444426  0.61802896  0.25858483  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 F5 2.015333 1_445
+Co0 F2 2.015333 1_554
+Co0 F3 2.018243 1_545
+Co0 F1 2.018243 1_454
+Co0 F0 2.020766 1_544
+Co0 F4 2.020766 1_455
+F0 Mo0 1.963565 1_555
+F1 Mo0 1.966278 1_555
+F2 Mo0 1.969415 1_555
+F3 Mo0 1.966278 1_555
+F4 Mo0 1.963565 1_555
+F5 Mo0 1.969415 1_555

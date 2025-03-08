@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ta(MoAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06655938
+_cell_length_b   7.06656012
+_cell_length_c   7.06367627
+_cell_angle_alpha   93.11244093
+_cell_angle_beta   93.10913653
+_cell_angle_gamma   153.06369235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta(MoAs)4
+_chemical_formula_sum   'Ta1 Mo4 As4'
+_cell_volume   155.39034453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo0  1  0.37820961  0.29760050  0.67581112  1
+  Mo  Mo1  1  0.29753434  0.62170987  0.91924420  1
+  Mo  Mo2  1  0.70246566  0.37829013  0.08075580  1
+  Mo  Mo3  1  0.62179039  0.70239950  0.32418888  1
+  As  As0  1  0.28438167  0.05859049  0.34297316  1
+  As  As1  1  0.05852984  0.71575573  0.77428457  1
+  As  As2  1  0.94147016  0.28424427  0.22571543  1
+  As  As3  1  0.71561833  0.94140951  0.65702684  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 Ta0 2.823973 1_556
+Mo0 Ta0 2.823975 1_666
+Mo1 Ta0 2.824837 1_666
+Mo1 Ta0 2.824838 1_556
+Mo2 Ta0 2.824837 1_555
+Mo2 Ta0 2.824838 1_665
+Mo3 Ta0 2.823973 1_665
+Mo3 Ta0 2.823975 1_555
+As0 Mo0 2.494537 1_555
+As0 Mo2 2.531857 1_445
+As0 Mo2 2.531859 1_555
+As0 Mo3 2.675668 1_445
+As0 Mo3 2.675673 1_555
+As0 Ta0 2.821092 1_555
+As1 Mo1 2.496053 1_555
+As1 Mo0 2.532268 1_565
+As1 Mo0 2.532272 1_455
+As1 Mo2 2.675273 1_566
+As1 Mo2 2.675276 1_456
+As1 Ta0 2.820066 1_566
+As2 Mo2 2.496053 1_555
+As2 Mo3 2.532268 1_545
+As2 Mo3 2.532272 1_655
+As2 Mo1 2.675273 1_544
+As2 Mo1 2.675276 1_654
+As2 Ta0 2.820066 1_655
+As3 Mo3 2.494537 1_555
+As3 Mo1 2.531857 1_665
+As3 Mo1 2.531859 1_555
+As3 Mo0 2.675668 1_665
+As3 Mo0 2.675673 1_555
+As3 Ta0 2.821092 1_666

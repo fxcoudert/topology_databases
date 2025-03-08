@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_LiAg(SbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67071542
+_cell_length_b   6.67071607
+_cell_length_c   13.44690544
+_cell_angle_alpha   81.55776047
+_cell_angle_beta   81.55776096
+_cell_angle_gamma   38.96977093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg(SbS2)2
+_chemical_formula_sum   'Li2 Ag2 Sb4 S8'
+_cell_volume   371.72751893
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.02453058  0.98457687  0.25605115  1
+  Li  Li1  1  0.98457687  0.02453058  0.75605115  1
+  Ag  Ag0  1  0.50516046  0.50402802  0.00619534  1
+  Ag  Ag1  1  0.50402802  0.50516046  0.50619534  1
+  Sb  Sb0  1  0.22132732  0.30046034  0.87883979  1
+  Sb  Sb1  1  0.30046034  0.22132732  0.37883979  1
+  Sb  Sb2  1  0.78725288  0.70881039  0.13386439  1
+  Sb  Sb3  1  0.70881039  0.78725288  0.63386439  1
+  S  S0  1  0.47369606  0.81263246  0.80456622  1
+  S  S1  1  0.81263246  0.47369606  0.30456622  1
+  S  S2  1  0.53470880  0.19665260  0.20804531  1
+  S  S3  1  0.19665260  0.53470880  0.70804531  1
+  S  S4  1  0.29542484  0.92893706  0.09411545  1
+  S  S5  1  0.92893806  0.29542484  0.59411545  1
+  S  S6  1  0.71358871  0.07981262  0.91832236  1
+  S  S7  1  0.07981262  0.71358871  0.41832236  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 S4 2.486740 1_555
+Li0 S7 2.491296 1_555
+Li0 S1 2.500427 1_465
+Li0 S2 2.501565 1_465
+Li1 S5 2.486742 1_555
+Li1 S6 2.491296 1_555
+Li1 S0 2.500427 1_645
+Li1 S3 2.501566 1_645
+Ag0 S6 2.391380 1_554
+Ag0 S4 2.391890 1_555
+Ag0 S0 3.080484 1_554
+Ag0 S2 3.082980 1_555
+Ag1 S7 2.391380 1_555
+Ag1 S5 2.391895 1_555
+Ag1 S1 3.080484 1_555
+Ag1 S3 3.082980 1_555
+S0 Sb0 2.522548 1_565
+S0 Sb3 2.530128 1_555
+S1 Sb1 2.522547 1_655
+S1 Sb2 2.530128 1_555
+S2 Sb2 2.521560 1_545
+S2 Sb1 2.529974 1_555
+S3 Sb3 2.521559 1_455
+S3 Sb0 2.529974 1_555
+S4 Sb2 2.449313 1_555
+S5 Sb3 2.449310 1_555
+S6 Sb0 2.449116 1_555
+S7 Sb1 2.449116 1_555

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Hf2Zr(AlAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75423282
+_cell_length_b   6.79419345
+_cell_length_c   4.11722507
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.80563346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Zr(AlAu)3
+_chemical_formula_sum   'Hf2 Zr1 Al3 Au3'
+_cell_volume   163.94434526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.42020471  0.41918255  0.49999900  1
+  Hf  Hf1  1  0.00102217  0.58081645  0.49999900  1
+  Zr  Zr0  1  0.58126550  0.00000000  0.49999900  1
+  Al  Al0  1  0.25231868  1.00000000  0.00000000  1
+  Al  Al1  1  0.99441818  0.24484377  0.00000000  1
+  Al  Al2  1  0.74957441  0.75515723  0.00000000  1
+  Au  Au0  1  0.66745243  0.34088528  0.00000000  1
+  Au  Au1  1  0.32656715  0.65911572  0.00000000  1
+  Au  Au2  1  0.00717477  0.00000000  0.49999900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Au1 2.601950 1_555
+Al0 Au0 2.601957 1_565
+Al0 Au2 2.641857 1_565
+Al0 Au2 2.641863 1_564
+Al1 Au1 2.584153 1_655
+Al1 Au0 2.595264 1_555
+Al1 Au2 2.674895 1_655
+Al1 Au2 2.674902 1_654
+Al2 Au0 2.584156 1_555
+Al2 Au1 2.595263 1_555
+Al2 Au2 2.674893 1_665
+Al2 Au2 2.674900 1_664
+Au0 Hf0 2.862306 1_555
+Au0 Hf0 2.862312 1_554
+Au0 Hf1 2.884467 1_655
+Au0 Hf1 2.884473 1_654
+Au0 Zr0 2.932658 1_555
+Au0 Zr0 2.932664 1_554
+Au1 Hf1 2.862303 1_555
+Au1 Hf1 2.862309 1_554
+Au1 Hf0 2.884473 1_555
+Au1 Hf0 2.884479 1_554
+Au1 Zr0 2.932655 1_565
+Au1 Zr0 2.932661 1_564
+Au2 Hf0 2.827581 1_555
+Au2 Hf1 2.827588 1_545
+Au2 Zr0 2.876690 1_455

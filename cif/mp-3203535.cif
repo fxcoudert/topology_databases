@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_Hf3PC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37262183
+_cell_length_b   3.37262230
+_cell_length_c   17.26300485
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3PC2
+_chemical_formula_sum   'Hf6 P2 C4'
+_cell_volume   170.05223954
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.50000000  1
+  Hf  Hf1  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf2  1  0.66666700  0.33333300  0.35247997  1
+  Hf  Hf3  1  0.33333300  0.66666700  0.64752003  1
+  Hf  Hf4  1  0.33333300  0.66666700  0.85247997  1
+  Hf  Hf5  1  0.66666700  0.33333300  0.14752003  1
+  P  P0  1  0.00000000  0.00000000  0.25000000  1
+  P  P1  1  0.00000000  0.00000000  0.75000000  1
+  C  C0  1  0.66666700  0.33333300  0.92148565  1
+  C  C1  1  0.33333300  0.66666700  0.07851435  1
+  C  C2  1  0.33333300  0.66666700  0.42148565  1
+  C  C3  1  0.66666700  0.33333300  0.57851435  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf2 P0 2.630832 1_655
+Hf2 P0 2.630834 1_555
+Hf2 P0 2.630834 1_665
+Hf3 P1 2.630832 1_565
+Hf3 P1 2.630834 1_665
+Hf3 P1 2.630834 1_555
+Hf4 P1 2.630832 1_565
+Hf4 P1 2.630834 1_665
+Hf4 P1 2.630834 1_555
+Hf5 P0 2.630832 1_655
+Hf5 P0 2.630834 1_555
+Hf5 P0 2.630834 1_665
+C0 Hf4 2.282670 1_655
+C0 Hf4 2.282671 1_545
+C0 Hf4 2.282676 1_555
+C0 Hf1 2.372469 1_656
+C0 Hf1 2.372472 1_556
+C0 Hf1 2.372472 1_666
+C1 Hf5 2.282670 1_455
+C1 Hf5 2.282671 1_565
+C1 Hf5 2.282676 1_555
+C1 Hf1 2.372469 1_565
+C1 Hf1 2.372472 1_665
+C1 Hf1 2.372472 1_555
+C2 Hf2 2.282670 1_455
+C2 Hf2 2.282671 1_565
+C2 Hf2 2.282676 1_555
+C2 Hf0 2.372469 1_565
+C2 Hf0 2.372472 1_665
+C2 Hf0 2.372472 1_555
+C3 Hf3 2.282670 1_655
+C3 Hf3 2.282671 1_545
+C3 Hf3 2.282676 1_555
+C3 Hf0 2.372469 1_655
+C3 Hf0 2.372472 1_555
+C3 Hf0 2.372472 1_665

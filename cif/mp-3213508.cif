@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_SiHg2(IF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66690314
+_cell_length_b   5.02517153
+_cell_length_c   11.20836907
+_cell_angle_alpha   85.65172265
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiHg2(IF3)2
+_chemical_formula_sum   'Si2 Hg4 I4 F12'
+_cell_volume   430.58749746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si1  1  0.50000000  0.00000000  0.00000000  1
+  Hg  Hg0  1  0.69801358  0.48117653  0.80186457  1
+  Hg  Hg1  1  0.19801358  0.51882347  0.69813543  1
+  Hg  Hg2  1  0.30198642  0.51882347  0.19813543  1
+  Hg  Hg3  1  0.80198642  0.48117653  0.30186457  1
+  I  I0  1  0.99932725  0.74995103  0.13627587  1
+  I  I1  1  0.49932725  0.25004897  0.36372413  1
+  I  I2  1  0.00067275  0.25004897  0.86372413  1
+  I  I3  1  0.50067275  0.74995103  0.63627587  1
+  F  F0  1  0.67347378  0.85058121  0.93620333  1
+  F  F1  1  0.17347378  0.14941879  0.56379667  1
+  F  F2  1  0.32652622  0.14941879  0.06379667  1
+  F  F3  1  0.82652622  0.85058121  0.43620333  1
+  F  F4  1  0.13255955  0.75131280  0.46348807  1
+  F  F5  1  0.63255955  0.24868720  0.03651193  1
+  F  F6  1  0.86744045  0.24868720  0.53651193  1
+  F  F7  1  0.36744045  0.75131280  0.96348807  1
+  F  F8  1  0.95594869  0.82545799  0.63432015  1
+  F  F9  1  0.45594869  0.17454201  0.86567985  1
+  F  F10  1  0.04405131  0.17454201  0.36567985  1
+  F  F11  1  0.54405131  0.82545799  0.13432015  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 I2 2.663104 1_655
+Hg0 I3 2.679162 1_555
+Hg1 I3 2.663104 1_555
+Hg1 I2 2.679162 1_555
+Hg2 I0 2.663104 1_455
+Hg2 I1 2.679162 1_555
+Hg3 I1 2.663104 1_555
+Hg3 I0 2.679162 1_555
+F0 Si1 1.710386 1_566
+F0 Hg0 2.484423 1_555
+F1 Si0 1.710386 1_555
+F1 Hg1 2.484423 1_555
+F2 Si1 1.710386 1_555
+F2 Hg2 2.484423 1_555
+F3 Si0 1.710386 1_665
+F3 Hg3 2.484423 1_555
+F4 Si0 1.685134 1_565
+F5 Si1 1.685134 1_555
+F6 Si0 1.685134 1_655
+F7 Si1 1.685134 1_566
+F8 Si0 1.717469 1_665
+F8 Hg1 2.482568 1_655
+F9 Si1 1.717469 1_556
+F9 Hg0 2.482568 1_555
+F10 Si0 1.717469 1_555
+F10 Hg3 2.482568 1_455
+F11 Si1 1.717469 1_565
+F11 Hg2 2.482568 1_555

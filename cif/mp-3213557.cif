@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_SrMn(As4Os)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45338891
+_cell_length_b   7.46094043
+_cell_length_c   7.45339485
+_cell_angle_alpha   109.49172601
+_cell_angle_beta   109.45070348
+_cell_angle_gamma   109.49172309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMn(As4Os)3
+_chemical_formula_sum   'Sr1 Mn1 As12 Os3'
+_cell_volume   318.98456129
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn0  1  0.00000000  0.50000000  0.00000000  1
+  As  As0  1  0.34785373  0.19818344  0.85122076  1
+  As  As1  1  0.65214627  0.80181656  0.14877924  1
+  As  As2  1  0.64431515  0.50197467  0.84954669  1
+  As  As3  1  0.35568485  0.49802533  0.15045331  1
+  As  As4  1  0.20522510  0.85766160  0.35568759  1
+  As  As5  1  0.79477490  0.14233840  0.64431241  1
+  As  As6  1  0.50336700  0.85033120  0.65213880  1
+  As  As7  1  0.49663300  0.14966880  0.34786120  1
+  As  As8  1  0.84954487  0.34756899  0.20523229  1
+  As  As9  1  0.15045513  0.65243101  0.79476771  1
+  As  As10  1  0.85123258  0.65304489  0.50336762  1
+  As  As11  1  0.14876742  0.34695511  0.49663238  1
+  Os  Os0  1  0.00000000  0.00000000  0.50000000  1
+  Os  Os1  1  0.50000000  0.00000000  0.00000000  1
+  Os  Os2  1  0.50000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Os1 2.465305 1_556
+As0 Os0 2.469735 1_555
+As0 As3 2.545347 1_556
+As0 As2 2.591330 1_555
+As0 Sr0 3.254031 1_556
+As1 Os1 2.465305 1_565
+As1 Os0 2.469735 1_665
+As1 As2 2.545347 1_554
+As1 As3 2.591330 1_555
+As1 Sr0 3.254031 1_665
+As2 Os2 2.458110 1_555
+As2 Mn0 2.518536 1_656
+As2 Sr0 3.279942 1_666
+As3 Os2 2.458110 1_555
+As3 Mn0 2.518536 1_555
+As3 Sr0 3.279942 1_555
+As4 Os0 2.458048 1_565
+As4 Mn0 2.518561 1_555
+As4 As7 2.545337 1_565
+As4 As6 2.591317 1_555
+As4 Sr0 3.279931 1_565
+As5 Os0 2.458048 1_655
+As5 Mn0 2.518561 1_656
+As5 As6 2.545337 1_545
+As5 As7 2.591317 1_555
+As5 Sr0 3.279931 1_656
+As6 Os2 2.465310 1_555
+As6 Os1 2.469785 1_566
+As6 Sr0 3.254051 1_666
+As7 Os2 2.465310 1_555
+As7 Os1 2.469785 1_555
+As7 Sr0 3.254051 1_555
+As8 Os1 2.458091 1_555
+As8 Mn0 2.518560 1_655
+As8 Sr0 3.279936 1_655
+As9 Os1 2.458091 1_566
+As9 Mn0 2.518560 1_556
+As9 Sr0 3.279936 1_566
+As10 Os0 2.465247 1_665
+As10 Os2 2.469817 1_555
+As10 As9 2.545316 1_655
+As10 As8 2.591319 1_555
+As10 Sr0 3.254040 1_666
+As11 Os0 2.465247 1_555
+As11 Os2 2.469817 1_555
+As11 As8 2.545316 1_455
+As11 As9 2.591319 1_555
+As11 Sr0 3.254040 1_555

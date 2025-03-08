@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_K2BaSrBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51379162
+_cell_length_b   8.96329901
+_cell_length_c   10.58114558
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaSrBi2
+_chemical_formula_sum   'K4 Ba2 Sr2 Bi4'
+_cell_volume   522.93886894
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.03158716  0.41503959  1
+  K  K1  1  0.00000000  0.34622494  0.33893798  1
+  K  K2  1  0.50000000  0.53158716  0.58496041  1
+  K  K3  1  0.00000000  0.84622494  0.66106202  1
+  Ba  Ba0  1  0.00000000  0.49182651  0.93761505  1
+  Ba  Ba1  1  0.00000000  0.99182651  0.06238495  1
+  Sr  Sr0  1  0.50000000  0.14696663  0.81307181  1
+  Sr  Sr1  1  0.50000000  0.64696663  0.18692819  1
+  Bi  Bi0  1  0.00000000  0.25523392  0.66628752  1
+  Bi  Bi1  1  0.50000000  0.27367984  0.11643437  1
+  Bi  Bi2  1  0.00000000  0.75523392  0.33371248  1
+  Bi  Bi3  1  0.50000000  0.77367984  0.88356563  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Bi0 3.569250 1_555
+Ba0 Bi3 3.782846 1_455
+Ba0 Bi3 3.782846 1_555
+Ba0 Bi1 3.873476 1_456
+Ba0 Bi1 3.873476 1_556
+Ba1 Bi2 3.569250 1_555
+Ba1 Bi1 3.782846 1_465
+Ba1 Bi1 3.782846 1_565
+Ba1 Bi3 3.873476 1_454
+Ba1 Bi3 3.873476 1_554
+Bi0 Sr0 3.309755 1_455
+Bi0 Sr0 3.309755 1_555
+Bi0 K1 3.558457 1_555
+Bi0 K3 3.666487 1_545
+Bi0 K2 3.804826 1_455
+Bi0 K2 3.804826 1_555
+Bi1 Sr0 3.404934 1_554
+Bi1 Sr1 3.428016 1_555
+Bi1 K1 3.683235 1_555
+Bi1 K1 3.683235 1_655
+Bi1 K0 3.832970 1_555
+Bi2 Sr1 3.309755 1_455
+Bi2 Sr1 3.309755 1_555
+Bi2 K3 3.558457 1_555
+Bi2 K1 3.666487 1_555
+Bi2 K0 3.804826 1_465
+Bi2 K0 3.804826 1_565
+Bi3 Sr1 3.404934 1_556
+Bi3 Sr0 3.428016 1_565
+Bi3 K3 3.683235 1_555
+Bi3 K3 3.683235 1_655
+Bi3 K2 3.832970 1_555

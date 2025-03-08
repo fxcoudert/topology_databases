@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_MgTi2Si2(Ag2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38808292
+_cell_length_b   6.49228917
+_cell_length_c   6.49228917
+_cell_angle_alpha   89.58925555
+_cell_angle_beta   87.01141205
+_cell_angle_gamma   92.98858795
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2Si2(Ag2O5)2
+_chemical_formula_sum   'Mg1 Ti2 Si2 Ag4 O10'
+_cell_volume   310.54460552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.74508325  0.78139964  0.71860036  1
+  Ti  Ti0  1  0.95890026  0.50236945  0.99763055  1
+  Ti  Ti1  1  0.08581099  0.01450479  0.48549521  1
+  Si  Si0  1  0.01609272  0.50531008  0.49190946  1
+  Si  Si1  1  0.01609272  0.00809054  0.99468992  1
+  Ag  Ag0  1  0.68465174  0.19154863  0.30845137  1
+  Ag  Ag1  1  0.36873868  0.73044556  0.76955444  1
+  Ag  Ag2  1  0.44920005  0.83824952  0.35165066  1
+  Ag  Ag3  1  0.44920005  0.14834934  0.66175048  1
+  O  O0  1  0.88621087  0.50015633  0.29225966  1
+  O  O1  1  0.87331300  0.51756306  0.69901870  1
+  O  O2  1  0.15103058  0.01181363  0.78489888  1
+  O  O3  1  0.14097102  0.00310771  0.19470534  1
+  O  O4  1  0.15103058  0.71510112  0.48818637  1
+  O  O5  1  0.14097102  0.30529466  0.49689229  1
+  O  O6  1  0.88621087  0.20774034  0.99984367  1
+  O  O7  1  0.87331300  0.80098130  0.98243694  1
+  O  O8  1  0.18965357  0.52579470  0.97420530  1
+  O  O9  1  0.85019204  0.98217959  0.51782041  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O9 1.940594 1_555
+Mg0 O7 2.001871 1_555
+Mg0 O1 2.001871 1_555
+Ag0 O9 2.347617 1_545
+Ag0 O6 2.431546 1_554
+Ag0 O0 2.431546 1_555
+Ag0 Ag2 2.808852 1_545
+Ag0 Ag3 2.808852 1_555
+Ag1 O8 2.211175 1_555
+Ag1 O2 2.495238 1_565
+Ag1 O4 2.495238 1_555
+Ag1 Mg0 2.785042 1_555
+Ag1 Ag3 2.822346 1_565
+Ag1 Ag2 2.822346 1_555
+Ag2 O4 2.424937 1_555
+Ag2 O3 2.801783 1_565
+Ag2 Ag3 2.857364 1_565
+Ag2 O9 3.297402 1_555
+Ag2 Mg0 3.347385 1_555
+Ag3 O2 2.424937 1_555
+Ag3 O5 2.801783 1_555
+Ag3 O9 3.297402 1_545
+Ag3 Mg0 3.347385 1_545
+O0 Si0 1.651960 1_655
+O0 Ti0 1.959380 1_554
+O1 Si0 1.670162 1_655
+O1 Ti0 2.073551 1_555
+O2 Si1 1.644687 1_555
+O2 Ti1 2.027056 1_555
+O3 Si1 1.632773 1_554
+O3 Ti1 1.913272 1_555
+O4 Si0 1.644687 1_555
+O4 Ti1 2.027056 1_565
+O5 Si0 1.632773 1_555
+O5 Ti1 1.913272 1_555
+O6 Si1 1.651960 1_655
+O6 Ti0 1.959380 1_555
+O7 Si1 1.670162 1_665
+O7 Ti0 2.073551 1_555
+O8 Ti0 1.702434 1_455
+O9 Ti1 1.744005 1_665

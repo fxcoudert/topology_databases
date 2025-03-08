@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaTcIO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04028429
+_cell_length_b   10.47016336
+_cell_length_c   4.73056879
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTcIO4
+_chemical_formula_sum   'Ba2 Tc2 I2 O8'
+_cell_volume   299.17424212
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.71340309  0.17478254  1
+  Ba  Ba1  1  0.50000000  0.28659691  0.67478354  1
+  Tc  Tc0  1  0.00000000  0.12680041  0.25787442  1
+  Tc  Tc1  1  0.50000000  0.87319959  0.75787342  1
+  I  I0  1  0.50000000  0.54474046  0.17718975  1
+  I  I1  1  0.00000000  0.45525854  0.67718875  1
+  O  O0  1  0.00000000  0.97294397  0.13754018  1
+  O  O1  1  0.23781184  0.20441752  0.15285381  1
+  O  O2  1  0.76218816  0.20441752  0.15285381  1
+  O  O3  1  0.50000000  0.87601230  0.11621949  1
+  O  O4  1  0.50000000  0.02705603  0.63753918  1
+  O  O5  1  0.26218816  0.79558248  0.65285281  1
+  O  O6  1  0.73781184  0.79558248  0.65285281  1
+  O  O7  1  0.00000000  0.12398770  0.61622049  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O0 2.723140 1_555
+Ba0 O5 2.891886 1_555
+Ba0 O6 2.891886 1_455
+Ba0 O5 3.056878 1_554
+Ba0 O6 3.056878 1_454
+Ba0 I0 3.498554 1_555
+Ba0 I0 3.498554 1_455
+Ba0 I1 3.584141 1_554
+Ba0 I1 3.599133 1_555
+Ba1 O4 2.723141 1_555
+Ba1 O1 2.891886 1_556
+Ba1 O2 2.891886 1_556
+Ba1 O2 3.056878 1_555
+Ba1 O1 3.056878 1_555
+Ba1 I1 3.498549 1_555
+Ba1 I1 3.498549 1_655
+Ba1 I0 3.584133 1_555
+Ba1 I0 3.599125 1_556
+O0 Tc0 1.708523 1_565
+O1 Tc0 1.723552 1_555
+O2 Tc0 1.723552 1_655
+O3 Tc1 1.695437 1_554
+O4 Tc1 1.708523 1_545
+O5 Tc1 1.723552 1_555
+O6 Tc1 1.723552 1_555
+O7 Tc0 1.695437 1_555

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CsGePIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95550013
+_cell_length_b   7.95549991
+_cell_length_c   7.95549978
+_cell_angle_alpha   150.77849172
+_cell_angle_beta   150.77849240
+_cell_angle_gamma   41.79984711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGePIr2
+_chemical_formula_sum   'Cs1 Ge1 P1 Ir2'
+_cell_volume   119.72099796
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00682927  0.00682927  1.00000000  1
+  Ge  Ge0  1  0.34127554  0.34127554  0.00000000  1
+  P  P0  1  0.66561241  0.66561241  1.00000000  1
+  Ir  Ir0  1  0.74314189  0.24314189  0.50000000  1
+  Ir  Ir1  1  0.24314189  0.74314189  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 P0 3.691175 1_444
+Cs0 P0 3.691175 1_455
+Cs0 P0 3.691175 1_545
+Cs0 P0 3.691176 1_556
+Cs0 Ge0 3.756322 1_557
+Cs0 Ge0 3.756322 1_546
+Cs0 Ge0 3.756322 1_456
+Cs0 Ge0 3.756322 1_445
+Ge0 Ir0 2.480907 1_555
+Ge0 Ir1 2.480907 1_555
+Ge0 Ir1 2.480907 1_544
+Ge0 Ir0 2.480907 1_454
+Ir0 P0 2.314135 1_555
+Ir0 P0 2.314135 1_544
+Ir1 P0 2.314135 1_555
+Ir1 P0 2.314135 1_454

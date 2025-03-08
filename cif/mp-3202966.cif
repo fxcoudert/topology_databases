@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Ba2LiIn3Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29953356
+_cell_length_b   6.29953308
+_cell_length_c   8.11274726
+_cell_angle_alpha   89.39724139
+_cell_angle_beta   90.60275728
+_cell_angle_gamma   137.78941039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiIn3Pd2
+_chemical_formula_sum   'Ba2 Li1 In3 Pd2'
+_cell_volume   216.28891167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.55068492  0.44931508  0.24694693  1
+  Ba  Ba1  1  0.45319982  0.54680018  0.75172892  1
+  Li  Li0  1  0.81392172  0.18607828  0.06123893  1
+  In  In0  1  0.17585005  0.82414995  0.94599318  1
+  In  In1  1  0.16879623  0.83120377  0.56243453  1
+  In  In2  1  0.83641772  0.16358228  0.43216994  1
+  Pd  Pd0  1  0.27697954  0.72302046  0.25597015  1
+  Pd  Pd1  1  0.72414999  0.27585001  0.74351842  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pd0 3.218770 1_555
+Ba0 Pd0 3.495884 1_545
+Ba0 Pd0 3.495884 1_655
+Ba0 In0 3.654045 1_544
+Ba0 In0 3.654045 1_654
+Ba0 In2 3.663822 1_555
+Ba0 In2 3.719077 1_565
+Ba0 In2 3.719078 1_455
+Ba1 Pd1 3.186175 1_555
+Ba1 Pd1 3.520505 1_565
+Ba1 Pd1 3.520505 1_455
+Ba1 In0 3.636889 1_555
+Ba1 In2 3.697351 1_565
+Ba1 In2 3.697351 1_455
+Ba1 In0 3.792757 1_545
+Ba1 In0 3.792758 1_655
+Li0 Pd1 2.774166 1_554
+Li0 Pd0 2.800934 1_545
+Li0 Pd0 2.800934 1_655
+In0 Pd0 2.769397 1_556
+In0 Pd1 2.861291 1_455
+In0 Pd1 2.861291 1_565
+In0 Li0 2.935833 1_456
+In0 Li0 2.935833 1_566
+In0 In1 3.111884 1_555
+In1 Pd1 2.775862 1_455
+In1 Pd1 2.775862 1_565
+In1 Pd0 2.805306 1_555
+In1 In2 3.192327 1_455
+In1 In2 3.192328 1_565
+In2 Pd0 2.766653 1_655
+In2 Pd0 2.766653 1_545
+In2 Pd1 2.862972 1_555
+In2 Li0 3.017892 1_555

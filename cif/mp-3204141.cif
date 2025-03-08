@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_CsInH2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07450241
+_cell_length_b   8.07026142
+_cell_length_c   10.30435363
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsInH2
+_chemical_formula_sum   'Cs4 In4 H8'
+_cell_volume   421.98967073
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.38240458  0.67132284  1
+  Cs  Cs1  1  0.75000000  0.88240458  0.82867716  1
+  Cs  Cs2  1  0.25000000  0.11759542  0.17132284  1
+  Cs  Cs3  1  0.25000000  0.61759542  0.32867716  1
+  In  In0  1  0.25000000  0.06570567  0.53639509  1
+  In  In1  1  0.25000000  0.56570567  0.96360491  1
+  In  In2  1  0.75000000  0.43429433  0.03639509  1
+  In  In3  1  0.75000000  0.93429433  0.46360491  1
+  H  H0  1  0.75000000  0.71473722  0.51580517  1
+  H  H1  1  0.25000000  0.10554426  0.71121386  1
+  H  H2  1  0.25000000  0.60554426  0.78878614  1
+  H  H3  1  0.75000000  0.21473722  0.98419483  1
+  H  H4  1  0.25000000  0.78526278  0.01580517  1
+  H  H5  1  0.75000000  0.39445574  0.21121386  1
+  H  H6  1  0.75000000  0.89445574  0.28878614  1
+  H  H7  1  0.25000000  0.28526278  0.48419483  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 H0 3.124295 1_555
+Cs0 H7 3.281817 1_555
+Cs0 H7 3.281817 1_655
+Cs0 H2 3.338493 1_555
+Cs0 H2 3.338493 1_655
+Cs1 H3 3.124295 1_565
+Cs1 H4 3.281817 1_656
+Cs1 H4 3.281817 1_556
+Cs1 H1 3.338493 1_565
+Cs1 H1 3.338493 1_665
+Cs2 H4 3.124295 1_545
+Cs2 H3 3.281817 1_454
+Cs2 H3 3.281817 1_554
+Cs2 H6 3.338493 1_445
+Cs2 H6 3.338493 1_545
+Cs3 H7 3.124295 1_555
+Cs3 H0 3.281817 1_555
+Cs3 H0 3.281817 1_455
+Cs3 H5 3.338493 1_555
+Cs3 H5 3.338493 1_455
+H0 In3 1.851728 1_555
+H1 In0 1.829860 1_555
+H2 In1 1.829860 1_555
+H3 In2 1.851728 1_556
+H4 In1 1.851728 1_554
+H5 In2 1.829860 1_555
+H6 In3 1.829860 1_555
+H7 In0 1.851728 1_555

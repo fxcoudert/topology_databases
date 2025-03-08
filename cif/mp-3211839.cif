@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_BaSnHgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68281685
+_cell_length_b   6.68281736
+_cell_length_c   11.47674259
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.53856482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSnHgSe4
+_chemical_formula_sum   'Ba2 Sn2 Hg2 Se8'
+_cell_volume   454.47962731
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.94805283  0.94805283  0.50000000  1
+  Ba  Ba1  1  0.94805283  0.94805283  0.00000000  1
+  Sn  Sn0  1  0.24754674  0.67692085  0.75000000  1
+  Sn  Sn1  1  0.67692085  0.24754674  0.25000000  1
+  Hg  Hg0  1  0.67680424  0.33488369  0.75000000  1
+  Hg  Hg1  1  0.33488369  0.67680424  0.25000000  1
+  Se  Se0  1  0.99545600  0.46667902  0.57797489  1
+  Se  Se1  1  0.46667902  0.99545600  0.42202511  1
+  Se  Se2  1  0.65125912  0.75792361  0.75000000  1
+  Se  Se3  1  0.75792361  0.65125912  0.25000000  1
+  Se  Se4  1  0.99545600  0.46667902  0.92202511  1
+  Se  Se5  1  0.46667902  0.99545600  0.07797489  1
+  Se  Se6  1  0.25100107  0.06408400  0.75000000  1
+  Se  Se7  1  0.06408400  0.25100107  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Se2 3.383822 1_555
+Ba0 Se3 3.383822 1_555
+Ba0 Se6 3.388310 1_665
+Ba0 Se7 3.388311 1_665
+Ba0 Se1 3.449389 1_655
+Ba0 Se0 3.449389 1_565
+Ba0 Se1 3.491732 1_555
+Ba0 Se0 3.491732 1_555
+Ba1 Se2 3.383822 1_554
+Ba1 Se3 3.383822 1_555
+Ba1 Se6 3.388310 1_664
+Ba1 Se7 3.388311 1_665
+Ba1 Se5 3.449389 1_655
+Ba1 Se4 3.449389 1_564
+Ba1 Se5 3.491732 1_555
+Ba1 Se4 3.491732 1_554
+Hg0 Se6 2.571080 1_555
+Hg0 Se4 2.733854 1_555
+Hg0 Se0 2.733854 1_555
+Hg0 Se2 2.909967 1_555
+Hg1 Se7 2.571080 1_555
+Hg1 Se1 2.733854 1_555
+Hg1 Se5 2.733854 1_555
+Hg1 Se3 2.909967 1_555
+Se0 Sn0 2.553677 1_655
+Se1 Sn1 2.553677 1_565
+Se2 Sn0 2.494276 1_555
+Se3 Sn1 2.494276 1_555
+Se4 Sn0 2.553677 1_655
+Se5 Sn1 2.553677 1_565
+Se6 Sn0 2.576749 1_545
+Se7 Sn1 2.576749 1_455

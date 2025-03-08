@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_V(TcAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85899552
+_cell_length_b   6.85899566
+_cell_length_c   6.85958396
+_cell_angle_alpha   93.27078902
+_cell_angle_beta   93.28220963
+_cell_angle_gamma   152.33549726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V(TcAs)4
+_chemical_formula_sum   'V1 Tc4 As4'
+_cell_volume   145.48984965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc0  1  0.39083603  0.30232632  0.69316235  1
+  Tc  Tc1  1  0.30229774  0.60912770  0.91142544  1
+  Tc  Tc2  1  0.69770226  0.39087230  0.08857456  1
+  Tc  Tc3  1  0.60916397  0.69767368  0.30683765  1
+  As  As0  1  0.28131153  0.06490689  0.34621842  1
+  As  As1  1  0.06494047  0.71875934  0.78370081  1
+  As  As2  1  0.93505953  0.28124066  0.21629919  1
+  As  As3  1  0.71868847  0.93509311  0.65378158  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tc0 V0 2.685844 1_666
+Tc0 V0 2.685846 1_556
+Tc1 V0 2.685676 1_666
+Tc1 V0 2.685677 1_556
+Tc2 V0 2.685676 1_555
+Tc2 V0 2.685677 1_665
+Tc3 V0 2.685844 1_555
+Tc3 V0 2.685846 1_665
+As0 Tc2 2.448870 1_445
+As0 Tc2 2.448871 1_555
+As0 Tc0 2.462957 1_555
+As0 Tc3 2.623311 1_445
+As0 Tc3 2.623311 1_555
+As0 V0 2.719273 1_555
+As1 Tc0 2.448998 1_455
+As1 Tc0 2.449001 1_565
+As1 Tc1 2.462507 1_555
+As1 Tc2 2.623265 1_456
+As1 Tc2 2.623266 1_566
+As1 V0 2.718840 1_566
+As2 Tc3 2.448998 1_655
+As2 Tc3 2.449001 1_545
+As2 Tc2 2.462507 1_555
+As2 Tc1 2.623265 1_654
+As2 Tc1 2.623266 1_544
+As2 V0 2.718840 1_655
+As3 Tc1 2.448870 1_665
+As3 Tc1 2.448871 1_555
+As3 Tc3 2.462957 1_555
+As3 Tc0 2.623311 1_665
+As3 Tc0 2.623311 1_555
+As3 V0 2.719273 1_666

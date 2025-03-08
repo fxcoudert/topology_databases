@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsMnBiSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36561790
+_cell_length_b   8.36561804
+_cell_length_c   11.28920210
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.23274643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnBiSe3
+_chemical_formula_sum   'Cs2 Mn2 Bi2 Se6'
+_cell_volume   392.24665169
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25882056  0.74117944  0.25000000  1
+  Cs  Cs1  1  0.74117944  0.25882056  0.75000000  1
+  Mn  Mn0  1  0.53620016  0.46379984  0.25000000  1
+  Mn  Mn1  1  0.46379984  0.53620016  0.75000000  1
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.50000000  1
+  Se  Se0  1  0.61871311  0.38128689  0.06094242  1
+  Se  Se1  1  0.38128689  0.61871311  0.93905758  1
+  Se  Se2  1  0.38128689  0.61871311  0.56094242  1
+  Se  Se3  1  0.61871311  0.38128689  0.43905758  1
+  Se  Se4  1  0.94372371  0.05627629  0.25000000  1
+  Se  Se5  1  0.05627629  0.94372371  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se4 3.681912 1_565
+Cs0 Se4 3.681912 1_455
+Cs0 Se3 3.782203 1_455
+Cs0 Se0 3.782203 1_455
+Cs0 Se3 3.782203 1_565
+Cs0 Se0 3.782203 1_565
+Cs0 Se2 4.030336 1_555
+Cs0 Se1 4.030336 1_554
+Cs1 Se5 3.681912 1_545
+Cs1 Se5 3.681912 1_655
+Cs1 Se1 3.782203 1_655
+Cs1 Se2 3.782203 1_655
+Cs1 Se1 3.782203 1_545
+Cs1 Se2 3.782203 1_545
+Cs1 Se0 4.030336 1_556
+Cs1 Se3 4.030336 1_555
+Mn0 Se3 2.517029 1_555
+Mn0 Se0 2.517029 1_555
+Mn0 Se4 2.617864 1_455
+Mn0 Se4 2.617864 1_565
+Mn1 Se1 2.517029 1_555
+Mn1 Se2 2.517029 1_555
+Mn1 Se5 2.617864 1_655
+Mn1 Se5 2.617864 1_545
+Bi0 Se0 2.962314 1_555
+Bi0 Se1 2.962314 1_444
+Bi0 Se1 2.962314 1_554
+Bi0 Se0 2.962314 1_445
+Bi0 Se5 2.965375 1_544
+Bi0 Se4 2.965375 1_455
+Bi1 Se2 2.962314 1_445
+Bi1 Se3 2.962314 1_555
+Bi1 Se2 2.962314 1_555
+Bi1 Se3 2.962314 1_445
+Bi1 Se5 2.965375 1_545
+Bi1 Se4 2.965375 1_455

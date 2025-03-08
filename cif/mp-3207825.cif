@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_RbCr(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.64197901
+_cell_length_b   12.28743118
+_cell_length_c   7.48941884
+_cell_angle_alpha   75.12348897
+_cell_angle_beta   69.94706229
+_cell_angle_gamma   34.92944936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCr(PSe3)2
+_chemical_formula_sum   'Rb2 Cr2 P4 Se12'
+_cell_volume   625.09164235
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.34892216  0.34892216  0.65107784  1
+  Rb  Rb1  1  0.59892216  0.59892216  0.90107784  1
+  Cr  Cr0  1  0.99703103  0.99703103  0.00296897  1
+  Cr  Cr1  1  0.24703103  0.24703103  0.25296897  1
+  P  P0  1  0.12432237  0.19586911  0.99613504  1
+  P  P1  1  0.19586911  0.12432237  0.68367449  1
+  P  P2  1  0.25386496  0.56632551  0.12567763  1
+  P  P3  1  0.56632551  0.25386496  0.05413089  1
+  Se  Se0  1  0.91404147  0.23041126  0.14808101  1
+  Se  Se1  1  0.23041126  0.91404147  0.70746726  1
+  Se  Se2  1  0.10191899  0.54253274  0.33595853  1
+  Se  Se3  1  0.54253274  0.10191899  0.01958874  1
+  Se  Se4  1  0.01482135  0.44946277  0.03086461  1
+  Se  Se5  1  0.44946277  0.01482135  0.50485127  1
+  Se  Se6  1  0.21913539  0.74514873  0.23517865  1
+  Se  Se7  1  0.74514873  0.21913539  0.80053723  1
+  Se  Se8  1  0.37619951  0.97568997  0.11403285  1
+  Se  Se9  1  0.97568997  0.37619951  0.53407667  1
+  Se  Se10  1  0.13596715  0.71592333  0.87380049  1
+  Se  Se11  1  0.71592333  0.13596715  0.27431003  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Rb0 Se3 3.312129 1_556
+Rb0 Se2 3.312135 1_555
+Rb0 Se11 3.352889 1_555
+Rb0 Se10 3.352893 1_555
+Rb0 Se5 3.530714 1_555
+Rb0 Se4 3.530715 1_556
+Rb1 Se1 3.312128 1_555
+Rb1 Se0 3.312132 1_556
+Rb1 Se8 3.352883 1_556
+Rb1 Se9 3.352887 1_555
+Rb1 Se7 3.530714 1_555
+Rb1 Se6 3.530715 1_556
+Cr0 Se1 2.527908 1_654
+Cr0 Se0 2.527912 1_565
+Cr0 Se10 2.560123 1_654
+Cr0 Se11 2.560127 1_565
+Cr0 Se6 2.612067 1_655
+Cr0 Se7 2.612067 1_564
+Cr1 Se2 2.527901 1_555
+Cr1 Se3 2.527904 1_555
+Cr1 Se9 2.560130 1_455
+Cr1 Se8 2.560134 1_545
+Cr1 Se5 2.612067 1_555
+Cr1 Se4 2.612067 1_555
+P0 Se4 2.188560 1_556
+P0 Se8 2.194125 1_546
+P0 Se0 2.205762 1_456
+P0 P1 2.316945 1_555
+P1 Se5 2.188562 1_555
+P1 Se9 2.194134 1_455
+P1 Se1 2.205762 1_545
+P2 Se6 2.188572 1_555
+P2 Se10 2.194127 1_554
+P2 Se2 2.205762 1_555
+P2 P3 2.316945 1_555
+P3 Se7 2.188567 1_554
+P3 Se11 2.194140 1_555
+P3 Se3 2.205762 1_555

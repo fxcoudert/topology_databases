@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_CdHg4(PCl2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.95415430
+_cell_length_b   7.70281513
+_cell_length_c   7.86150825
+_cell_angle_alpha   62.23870608
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHg4(PCl2)2
+_chemical_formula_sum   'Cd2 Hg8 P4 Cl8'
+_cell_volume   640.56965277
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.82289467  0.00748621  0.00083360  1
+  Cd  Cd1  1  0.32289467  0.99251379  0.99916640  1
+  Hg  Hg0  1  0.79429430  0.66723258  0.67169588  1
+  Hg  Hg1  1  0.55281182  0.02385427  0.58975720  1
+  Hg  Hg2  1  0.05281182  0.97614573  0.41024280  1
+  Hg  Hg3  1  0.57134854  0.51916697  0.07978665  1
+  Hg  Hg4  1  0.29429430  0.33276742  0.32830412  1
+  Hg  Hg5  1  0.01719538  0.48350256  0.41843696  1
+  Hg  Hg6  1  0.51719538  0.51649744  0.58156304  1
+  Hg  Hg7  1  0.07134854  0.48083303  0.92021335  1
+  P  P0  1  0.48768031  0.35109822  0.39199191  1
+  P  P1  1  0.60109795  0.68411967  0.73962199  1
+  P  P2  1  0.98768031  0.64890178  0.60800809  1
+  P  P3  1  0.10109795  0.31588033  0.26037801  1
+  Cl  Cl0  1  0.25076638  0.31752507  0.75452646  1
+  Cl  Cl1  1  0.30330888  0.72023727  0.91605252  1
+  Cl  Cl2  1  0.03232740  0.91864878  0.06227831  1
+  Cl  Cl3  1  0.75076638  0.68247493  0.24547354  1
+  Cl  Cl4  1  0.53232740  0.08135122  0.93772169  1
+  Cl  Cl5  1  0.80330888  0.27976273  0.08394748  1
+  Cl  Cl6  1  0.80500439  0.11289158  0.65173669  1
+  Cl  Cl7  1  0.30500439  0.88710842  0.34826331  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Cl5 2.481332 1_555
+Cd0 Cl6 2.482145 1_554
+Cd0 Cl3 2.494879 1_545
+Cd0 Cl2 2.581015 1_645
+Cd1 Cl1 2.481332 1_555
+Cd1 Cl7 2.482145 1_556
+Cd1 Cl0 2.494879 1_565
+Cd1 Cl4 2.581015 1_565
+Hg0 P2 2.383430 1_555
+Hg0 P1 2.387587 1_555
+Hg1 P1 2.386899 1_545
+Hg1 P0 2.393002 1_555
+Hg2 P3 2.386899 1_565
+Hg2 P2 2.393002 1_455
+Hg3 P1 2.393099 1_554
+Hg3 P0 2.395912 1_555
+Hg4 P0 2.383430 1_555
+Hg4 P3 2.387587 1_555
+Hg5 P3 2.389914 1_555
+Hg5 P2 2.395310 1_455
+Hg6 P1 2.389914 1_555
+Hg6 P0 2.395310 1_555
+Hg7 P3 2.393099 1_556
+Hg7 P2 2.395912 1_455
+Cl0 Hg7 3.066846 1_555
+Cl2 Hg2 2.977894 1_555
+Cl3 Hg3 3.066846 1_555
+Cl4 Hg1 2.977894 1_555

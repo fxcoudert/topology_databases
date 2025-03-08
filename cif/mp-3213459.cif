@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Na2TePbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05986983
+_cell_length_b   6.05987046
+_cell_length_c   6.05986919
+_cell_angle_alpha   53.73200839
+_cell_angle_beta   53.73199815
+_cell_angle_gamma   53.73201505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TePbO6
+_chemical_formula_sum   'Na2 Te1 Pb1 O6'
+_cell_volume   134.29334037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.85763797  0.85763797  0.85763797  1
+  Na  Na1  1  0.13557381  0.13557381  0.13557381  1
+  Te  Te0  1  0.34151109  0.34151109  0.34151109  1
+  Pb  Pb0  1  0.65346589  0.65346589  0.65346589  1
+  O  O0  1  0.67707772  0.09120352  0.45590268  1
+  O  O1  1  0.45590268  0.67707772  0.09120352  1
+  O  O2  1  0.09120352  0.45590268  0.67707772  1
+  O  O3  1  0.27031572  0.97840954  0.53890105  1
+  O  O4  1  0.53890105  0.27031572  0.97840954  1
+  O  O5  1  0.97840954  0.53890105  0.27031572  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O3 2.301807 1_655
+Na0 O5 2.301807 1_556
+Na0 O4 2.301808 1_565
+Na0 O1 2.523824 1_556
+Na0 O0 2.523825 1_565
+Na0 O2 2.523825 1_655
+Na1 O0 2.333530 1_455
+Na1 O2 2.333530 1_554
+Na1 O1 2.333530 1_545
+Na1 O3 2.496891 1_545
+Na1 O4 2.496891 1_554
+Na1 O5 2.496892 1_455
+O0 Te0 1.921148 1_555
+O0 Pb0 2.231437 1_545
+O1 Te0 1.921148 1_555
+O1 Pb0 2.231437 1_554
+O2 Te0 1.921148 1_555
+O2 Pb0 2.231437 1_455
+O3 Te0 1.963950 1_565
+O3 Pb0 2.151940 1_555
+O4 Te0 1.963949 1_556
+O4 Pb0 2.151939 1_555
+O5 Te0 1.963950 1_655
+O5 Pb0 2.151939 1_555

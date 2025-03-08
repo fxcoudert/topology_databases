@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsLuZnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.81802064
+_cell_length_b   8.81802064
+_cell_length_c   11.54955113
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.32914403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLuZnTe3
+_chemical_formula_sum   'Cs2 Lu2 Zn2 Te6'
+_cell_volume   430.87073114
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25354784  0.74645216  0.25000000  1
+  Cs  Cs1  1  0.74645216  0.25354784  0.75000000  1
+  Lu  Lu0  1  0.00000000  0.00000000  0.50000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn0  1  0.53826750  0.46173250  0.25000000  1
+  Zn  Zn1  1  0.46173250  0.53826750  0.75000000  1
+  Te  Te0  1  0.61778456  0.38221544  0.44544462  1
+  Te  Te1  1  0.38221544  0.61778456  0.55455538  1
+  Te  Te2  1  0.61778456  0.38221544  0.05455538  1
+  Te  Te3  1  0.38221544  0.61778456  0.94544462  1
+  Te  Te4  1  0.94224931  0.05775069  0.25000000  1
+  Te  Te5  1  0.05775069  0.94224931  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Te4 3.893992 1_455
+Cs0 Te4 3.893992 1_565
+Cs0 Te0 3.904312 1_565
+Cs0 Te2 3.904312 1_565
+Cs0 Te0 3.904312 1_455
+Cs0 Te2 3.904312 1_455
+Cs0 Te1 4.148034 1_555
+Cs0 Te3 4.148034 1_554
+Cs1 Te5 3.893992 1_655
+Cs1 Te5 3.893992 1_545
+Cs1 Te3 3.904312 1_545
+Cs1 Te1 3.904312 1_545
+Cs1 Te3 3.904312 1_655
+Cs1 Te1 3.904312 1_655
+Cs1 Te2 4.148034 1_556
+Cs1 Te0 4.148034 1_555
+Lu0 Te1 3.035519 1_555
+Lu0 Te0 3.035519 1_445
+Lu0 Te0 3.035519 1_555
+Lu0 Te1 3.035519 1_445
+Lu0 Te4 3.051351 1_455
+Lu0 Te5 3.051351 1_545
+Lu1 Te3 3.035519 1_554
+Lu1 Te2 3.035519 1_445
+Lu1 Te2 3.035519 1_555
+Lu1 Te3 3.035519 1_444
+Lu1 Te4 3.051351 1_455
+Lu1 Te5 3.051351 1_544
+Te0 Zn0 2.634665 1_555
+Te1 Zn1 2.634665 1_555
+Te2 Zn0 2.634665 1_555
+Te3 Zn1 2.634665 1_555
+Te4 Zn0 2.731054 1_545
+Te4 Zn0 2.731054 1_655
+Te5 Zn1 2.731054 1_565
+Te5 Zn1 2.731054 1_455

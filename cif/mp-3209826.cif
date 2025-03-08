@@ -1,0 +1,108 @@
+# generated using pymatgen
+data_Hf10Sn6As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47185830
+_cell_length_b   8.47185912
+_cell_length_c   5.78666949
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf10Sn6As
+_chemical_formula_sum   'Hf10 Sn6 As1'
+_cell_volume   359.68033873
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.66666700  0.33333300  0.50000000  1
+  Hf  Hf1  1  0.33333300  0.66666700  0.50000000  1
+  Hf  Hf2  1  0.33333300  0.66666700  0.00000000  1
+  Hf  Hf3  1  0.66666700  0.33333300  0.00000000  1
+  Hf  Hf4  1  0.74522912  0.74522912  0.23465998  1
+  Hf  Hf5  1  0.25477088  1.00000000  0.23465998  1
+  Hf  Hf6  1  1.00000000  0.25477088  0.23465998  1
+  Hf  Hf7  1  0.25477088  0.25477088  0.76534002  1
+  Hf  Hf8  1  0.74522912  0.00000000  0.76534002  1
+  Hf  Hf9  1  0.00000000  0.74522912  0.76534002  1
+  Sn  Sn0  1  0.39309321  0.39309321  0.25421185  1
+  Sn  Sn1  1  0.60690679  1.00000000  0.25421185  1
+  Sn  Sn2  1  1.00000000  0.60690679  0.25421185  1
+  Sn  Sn3  1  0.60690679  0.60690679  0.74578815  1
+  Sn  Sn4  1  0.39309321  0.00000000  0.74578815  1
+  Sn  Sn5  1  0.00000000  0.39309321  0.74578815  1
+  As  As0  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Sn5 2.970560 1_655
+Hf0 Sn1 2.970560 1_545
+Hf0 Sn2 2.970562 1_555
+Hf0 Sn4 2.970562 1_555
+Hf0 Sn0 2.970567 1_555
+Hf0 Sn3 2.970567 1_555
+Hf1 Sn2 2.970560 1_455
+Hf1 Sn4 2.970560 1_565
+Hf1 Sn5 2.970562 1_555
+Hf1 Sn1 2.970562 1_555
+Hf1 Sn3 2.970567 1_555
+Hf1 Sn0 2.970567 1_555
+Hf2 Sn2 2.994205 1_455
+Hf2 Sn4 2.994205 1_564
+Hf2 Sn5 2.994207 1_554
+Hf2 Sn1 2.994207 1_555
+Hf2 Sn3 2.994212 1_554
+Hf2 Sn0 2.994212 1_555
+Hf3 Sn5 2.994205 1_654
+Hf3 Sn1 2.994205 1_545
+Hf3 Sn2 2.994207 1_555
+Hf3 Sn4 2.994207 1_554
+Hf3 Sn0 2.994212 1_555
+Hf3 Sn3 2.994212 1_554
+Hf4 Sn2 2.928129 1_555
+Hf4 Sn1 2.928129 1_555
+Hf4 Sn0 2.985390 1_555
+Hf4 Sn3 3.062046 1_554
+Hf4 Sn3 3.181413 1_555
+Hf5 Sn2 2.928129 1_455
+Hf5 Sn0 2.928129 1_565
+Hf5 Sn1 2.985390 1_555
+Hf5 Sn4 3.062046 1_564
+Hf5 Sn4 3.181413 1_565
+Hf6 Sn1 2.928129 1_545
+Hf6 Sn0 2.928129 1_655
+Hf6 Sn2 2.985391 1_555
+Hf6 Sn5 3.062046 1_654
+Hf6 Sn5 3.181413 1_655
+Hf7 Sn5 2.928129 1_555
+Hf7 Sn4 2.928129 1_555
+Hf7 Sn3 2.985390 1_555
+Hf7 Sn0 3.062046 1_556
+Hf7 Sn0 3.181413 1_555
+Hf8 Sn5 2.928129 1_655
+Hf8 Sn3 2.928129 1_545
+Hf8 Sn4 2.985390 1_555
+Hf8 Sn1 3.062046 1_546
+Hf8 Sn1 3.181413 1_545
+Hf9 Sn4 2.928129 1_565
+Hf9 Sn3 2.928129 1_455
+Hf9 Sn5 2.985391 1_555
+Hf9 Sn2 3.062046 1_456
+Hf9 Sn2 3.181413 1_455
+As0 Hf7 2.648807 1_555
+As0 Hf4 2.648807 1_445
+As0 Hf5 2.648807 1_545
+As0 Hf8 2.648807 1_455
+As0 Hf9 2.648807 1_545
+As0 Hf6 2.648807 1_455

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaTcClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63729346
+_cell_length_b   5.73132755
+_cell_length_c   9.79510269
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTcClO4
+_chemical_formula_sum   'Ba2 Tc2 Cl2 O8'
+_cell_volume   260.33274810
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49438677  0.00000000  0.81497169  1
+  Ba  Ba1  1  0.99438677  0.50000000  0.18502831  1
+  Tc  Tc0  1  0.40185801  0.00000000  0.36753540  1
+  Tc  Tc1  1  0.90185801  0.50000000  0.63246460  1
+  Cl  Cl0  1  0.99609270  0.00000000  0.03775814  1
+  Cl  Cl1  1  0.49609270  0.50000000  0.96224186  1
+  O  O0  1  0.03605969  0.00000000  0.36712115  1
+  O  O1  1  0.53605969  0.50000000  0.63287885  1
+  O  O2  1  0.50903222  0.24778916  0.28263535  1
+  O  O3  1  0.00903222  0.25221084  0.71736465  1
+  O  O4  1  0.00903222  0.74778916  0.71736465  1
+  O  O5  1  0.50903222  0.75221084  0.28263535  1
+  O  O6  1  0.52172739  0.00000000  0.53224623  1
+  O  O7  1  0.02172739  0.50000000  0.46775377  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O6 2.772226 1_555
+Ba0 O3 2.840659 1_555
+Ba0 O4 2.840659 1_545
+Ba0 O3 2.949445 1_655
+Ba0 O4 2.949445 1_645
+Ba0 Cl0 3.178296 1_456
+Ba0 Cl0 3.189818 1_556
+Ba0 Cl1 3.208266 1_555
+Ba0 Cl1 3.208266 1_545
+Ba1 O7 2.772226 1_655
+Ba1 O5 2.840659 1_555
+Ba1 O2 2.840659 1_555
+Ba1 O5 2.949445 1_655
+Ba1 O2 2.949445 1_655
+Ba1 Cl1 3.178296 1_554
+Ba1 Cl1 3.189818 1_654
+Ba1 Cl0 3.208266 1_555
+Ba1 Cl0 3.208266 1_565
+O0 Tc0 1.696319 1_555
+O1 Tc1 1.696319 1_555
+O2 Tc0 1.719137 1_555
+O3 Tc1 1.719137 1_455
+O4 Tc1 1.719137 1_455
+O5 Tc0 1.719137 1_565
+O6 Tc0 1.706435 1_555
+O7 Tc1 1.706435 1_455

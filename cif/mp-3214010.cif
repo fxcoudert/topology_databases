@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_K2CuAuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54289731
+_cell_length_b   6.13768991
+_cell_length_c   10.67172874
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   88.12295458
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CuAuS2
+_chemical_formula_sum   'K4 Cu2 Au2 S4'
+_cell_volume   362.86364289
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74169839  0.52784693  0.84735241  1
+  K  K1  1  0.25830161  0.02784693  0.65264759  1
+  K  K2  1  0.74169839  0.97215307  0.34735241  1
+  K  K3  1  0.25830161  0.47215307  0.15264759  1
+  Cu  Cu0  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au0  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+  S  S0  1  0.76994787  0.23531454  0.09332671  1
+  S  S1  1  0.76994787  0.26468546  0.59332671  1
+  S  S2  1  0.23005213  0.76468546  0.90667329  1
+  S  S3  1  0.23005213  0.73531454  0.40667329  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S2 3.154896 1_655
+K0 S1 3.155081 1_555
+K0 S0 3.188360 1_556
+K0 S2 3.230965 1_555
+K1 S1 3.154896 1_455
+K1 S2 3.155081 1_545
+K1 S3 3.188360 1_545
+K1 S1 3.230965 1_555
+K2 S3 3.154896 1_655
+K2 S0 3.155081 1_565
+K2 S1 3.188360 1_565
+K2 S3 3.230965 1_555
+K3 S0 3.154896 1_455
+K3 S3 3.155081 1_555
+K3 S2 3.188360 1_554
+K3 S0 3.230965 1_555
+Cu0 S1 2.149586 1_455
+Cu0 S3 2.149586 1_555
+Cu1 S2 2.149586 1_544
+Cu1 S0 2.149586 1_455
+Au0 S2 2.326890 1_544
+Au0 S0 2.326890 1_555
+Au0 Cu1 2.771449 1_555
+Au0 Cu1 2.771449 1_655
+Au0 K3 3.564201 1_555
+Au0 K0 3.564201 1_544
+Au0 K0 3.847283 1_554
+Au0 K3 3.847283 1_545
+Au0 K2 3.986239 1_545
+Au0 K1 3.986239 1_554
+Au1 S1 2.326890 1_555
+Au1 S3 2.326890 1_555
+Au1 Cu0 2.771449 1_555
+Au1 Cu0 2.771449 1_655
+Au1 K2 3.564201 1_555
+Au1 K1 3.564201 1_555
+Au1 K1 3.847283 1_565
+Au1 K2 3.847283 1_545
+Au1 K0 3.986239 1_555
+Au1 K3 3.986239 1_555

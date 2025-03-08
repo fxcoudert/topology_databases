@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_MnPtCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13200166
+_cell_length_b   5.96865645
+_cell_length_c   6.12540404
+_cell_angle_alpha   72.61348008
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnPtCl8
+_chemical_formula_sum   'Mn1 Pt1 Cl8'
+_cell_volume   248.83561123
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.36349961  0.25000000  0.50000000  1
+  Pt  Pt0  1  0.62174267  0.75000000  0.50000000  1
+  Cl  Cl0  1  0.61410948  0.48940793  0.28257406  1
+  Cl  Cl1  1  0.61410948  0.01059207  0.71742594  1
+  Cl  Cl2  1  0.84697052  0.96820675  0.26548293  1
+  Cl  Cl3  1  0.84697052  0.53179325  0.73451707  1
+  Cl  Cl4  1  0.16013380  0.04231775  0.73316789  1
+  Cl  Cl5  1  0.16013380  0.45768225  0.26683211  1
+  Cl  Cl6  1  0.38616406  0.00059623  0.27739664  1
+  Cl  Cl7  1  0.38616406  0.49940377  0.72260336  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Pt0 2.331078 1_555
+Cl0 Mn0 2.423406 1_555
+Cl1 Pt0 2.331078 1_545
+Cl1 Mn0 2.423406 1_555
+Cl2 Pt0 2.285165 1_555
+Cl3 Pt0 2.285165 1_555
+Cl4 Mn0 2.149899 1_555
+Cl5 Mn0 2.149899 1_555
+Cl6 Mn0 2.305289 1_555
+Cl6 Pt0 2.387563 1_545
+Cl7 Mn0 2.305289 1_555
+Cl7 Pt0 2.387563 1_555

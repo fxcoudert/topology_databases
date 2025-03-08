@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Zr5(AlTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13345839
+_cell_length_b   8.13345878
+_cell_length_c   7.35538661
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.76086227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5(AlTe)2
+_chemical_formula_sum   'Zr10 Al4 Te4'
+_cell_volume   394.84337507
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.50000000  0.50000000  0.50000000  1
+  Zr  Zr2  1  0.79412645  0.53799869  0.16747815  1
+  Zr  Zr3  1  0.46200131  0.20587355  0.83252185  1
+  Zr  Zr4  1  0.96200131  0.70587355  0.66747815  1
+  Zr  Zr5  1  0.29412645  0.03799869  0.33252185  1
+  Zr  Zr6  1  0.20587355  0.46200131  0.83252185  1
+  Zr  Zr7  1  0.53799869  0.79412645  0.16747815  1
+  Zr  Zr8  1  0.03799869  0.29412645  0.33252185  1
+  Zr  Zr9  1  0.70587355  0.96200131  0.66747815  1
+  Al  Al0  1  0.87351152  0.87351152  0.37474233  1
+  Al  Al1  1  0.12648848  0.12648848  0.62525767  1
+  Al  Al2  1  0.62648848  0.62648848  0.87474233  1
+  Al  Al3  1  0.37351152  0.37351152  0.12525767  1
+  Te  Te0  1  0.20514352  0.79485648  0.00000000  1
+  Te  Te1  1  0.70514352  0.29485648  0.50000000  1
+  Te  Te2  1  0.79485648  0.20514352  0.00000000  1
+  Te  Te3  1  0.29485648  0.70514352  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Al1 2.629500 1_665
+Al0 Zr7 2.851035 1_555
+Al0 Zr2 2.851036 1_555
+Al0 Zr9 2.856619 1_555
+Al0 Zr4 2.856619 1_555
+Al0 Zr5 2.870615 1_665
+Al0 Zr8 2.870615 1_665
+Al0 Zr0 2.911587 1_665
+Al0 Zr1 2.918900 1_555
+Al1 Zr3 2.851035 1_555
+Al1 Zr6 2.851036 1_555
+Al1 Zr5 2.856619 1_555
+Al1 Zr8 2.856619 1_555
+Al1 Zr9 2.870615 1_445
+Al1 Zr4 2.870615 1_445
+Al1 Zr0 2.911587 1_556
+Al1 Zr1 2.918900 1_555
+Al2 Al3 2.629500 1_556
+Al2 Zr4 2.851035 1_555
+Al2 Zr9 2.851036 1_555
+Al2 Zr2 2.856619 1_556
+Al2 Zr7 2.856619 1_556
+Al2 Zr6 2.870615 1_555
+Al2 Zr3 2.870615 1_555
+Al2 Zr1 2.911587 1_555
+Al2 Zr0 2.918900 1_666
+Al3 Zr8 2.851035 1_555
+Al3 Zr5 2.851036 1_555
+Al3 Zr6 2.856619 1_554
+Al3 Zr3 2.856619 1_554
+Al3 Zr2 2.870615 1_555
+Al3 Zr7 2.870615 1_555
+Al3 Zr1 2.911587 1_555
+Al3 Zr0 2.918900 1_555
+Te0 Zr4 2.957001 1_454
+Te0 Zr5 2.957001 1_565
+Te0 Zr0 2.970168 1_565
+Te0 Zr7 2.977515 1_555
+Te0 Zr6 2.977515 1_554
+Te0 Zr2 2.982393 1_455
+Te0 Zr3 2.982393 1_564
+Te1 Zr3 2.957001 1_555
+Te1 Zr2 2.957001 1_555
+Te1 Zr1 2.970168 1_555
+Te1 Zr8 2.977515 1_655
+Te1 Zr9 2.977515 1_545
+Te1 Zr5 2.982393 1_555
+Te1 Zr4 2.982393 1_555
+Te2 Zr8 2.957001 1_655
+Te2 Zr9 2.957001 1_544
+Te2 Zr0 2.970168 1_655
+Te2 Zr3 2.977515 1_554
+Te2 Zr2 2.977515 1_555
+Te2 Zr6 2.982393 1_654
+Te2 Zr7 2.982393 1_545
+Te3 Zr7 2.957001 1_555
+Te3 Zr6 2.957001 1_555
+Te3 Zr1 2.970168 1_555
+Te3 Zr4 2.977515 1_455
+Te3 Zr5 2.977515 1_565
+Te3 Zr9 2.982393 1_555
+Te3 Zr8 2.982393 1_555

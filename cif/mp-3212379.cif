@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_NaSr(H3Pt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27008944
+_cell_length_b   5.27007968
+_cell_length_c   5.27008373
+_cell_angle_alpha   90.00001514
+_cell_angle_beta   120.00022128
+_cell_angle_gamma   119.99997572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr(H3Pt)2
+_chemical_formula_sum   'Na1 Sr1 H6 Pt2'
+_cell_volume   103.49904306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000200  0.75000100  0.24999900  1
+  Sr  Sr0  1  0.50000100  0.25000300  0.75000200  1
+  H  H0  1  0.00000000  0.24936166  0.24936166  1
+  H  H1  1  0.49872533  0.24936166  0.24936166  1
+  H  H2  1  0.00000000  0.75063634  0.24936166  1
+  H  H3  1  0.99999900  0.24936166  0.75063534  1
+  H  H4  1  0.99999900  0.75063834  0.75063734  1
+  H  H5  1  0.50127567  0.75063734  0.75063734  1
+  Pt  Pt0  1  0.00000000  0.99999700  0.00000300  1
+  Pt  Pt1  1  0.00000300  0.50000300  0.49999900  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+H0 Pt0 1.858497 1_545
+H0 Pt1 1.868009 1_555
+H0 Na0 2.635037 1_445
+H0 Sr0 2.635039 1_555
+H0 Sr0 2.635039 1_454
+H0 Na0 2.635058 1_555
+H1 Pt0 1.858502 1_545
+H1 Pt1 1.868013 1_655
+H1 Sr0 2.635033 1_554
+H1 Na0 2.635039 1_545
+H1 Na0 2.635049 1_555
+H1 Sr0 2.635059 1_555
+H2 Pt0 1.858483 1_555
+H2 Pt1 1.867991 1_555
+H2 Sr0 2.635018 1_454
+H2 Na0 2.635044 1_455
+H2 Na0 2.635054 1_555
+H2 Sr0 2.635055 1_565
+H3 Pt0 1.858532 1_646
+H3 Pt1 1.868017 1_655
+H3 Na0 2.635029 1_545
+H3 Sr0 2.635038 1_655
+H3 Na0 2.635045 1_656
+H3 Sr0 2.635060 1_555
+H4 Pt0 1.858497 1_656
+H4 Pt1 1.868016 1_655
+H4 Na0 2.635034 1_555
+H4 Sr0 2.635042 1_555
+H4 Na0 2.635044 1_656
+H4 Sr0 2.635053 1_665
+H5 Pt0 1.858498 1_656
+H5 Pt1 1.867995 1_555
+H5 Sr0 2.635028 1_555
+H5 Na0 2.635038 1_556
+H5 Na0 2.635054 1_555
+H5 Sr0 2.635060 1_565

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_CuPdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19044530
+_cell_length_b   5.24754906
+_cell_length_c   4.21612924
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99920325
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPdO2
+_chemical_formula_sum   'Cu2 Pd2 O4'
+_cell_volume   92.71085764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  -0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  1  -0.00000000  0.50000000  0.00000000  1
+  Pd  Pd0  1  0.50000000  0.50000000  0.50000000  1
+  Pd  Pd1  1  0.50000000  -0.00000000  0.00000000  1
+  O  O0  1  0.23367002  0.75000417  0.74999505  1
+  O  O1  1  0.76632998  0.75000417  0.25000495  1
+  O  O2  1  0.76632998  0.24999583  0.25000495  1
+  O  O3  1  0.23367002  0.24999583  0.74999505  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O2 1.946986 1_455
+Cu0 O1 1.946986 1_445
+Cu0 O0 1.946986 1_545
+Cu0 O3 1.946986 1_555
+Cu1 O2 1.947024 1_455
+Cu1 O0 1.947024 1_554
+Cu1 O1 1.947024 1_455
+Cu1 O3 1.947024 1_554
+O0 Pd0 2.019297 1_555
+O0 Pd1 2.019307 1_566
+O1 Pd0 2.019297 1_555
+O1 Pd1 2.019307 1_565
+O2 Pd0 2.019297 1_555
+O2 Pd1 2.019307 1_555
+O3 Pd0 2.019297 1_555
+O3 Pd1 2.019307 1_556

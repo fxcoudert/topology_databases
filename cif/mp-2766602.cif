@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_UCoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93148314
+_cell_length_b   3.96402846
+_cell_length_c   8.39400656
+_cell_angle_alpha   89.99932352
+_cell_angle_beta   102.67077744
+_cell_angle_gamma   89.99137401
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCoSi2
+_chemical_formula_sum   'U2 Co2 Si4'
+_cell_volume   127.63065302
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.59782415  0.25000847  0.21644929  1
+  U  U1  1  0.40218195  0.75000131  0.78359860  1
+  Co  Co0  1  0.80686995  0.24996718  0.64660370  1
+  Co  Co1  1  0.19310888  0.75001573  0.35336223  1
+  Si  Si0  1  0.96007292  0.25000752  0.91927316  1
+  Si  Si1  1  0.03995026  0.75000323  0.08069555  1
+  Si  Si2  1  0.23810456  0.25001498  0.50039901  1
+  Si  Si3  1  0.76188632  0.74998158  0.49961746  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Co0 Si0 2.235299 1_555
+Co0 Si2 2.300708 1_655
+Co0 Si2 2.302682 1_555
+Co0 Si3 2.320806 1_545
+Co0 Si3 2.320833 1_555
+Co0 U1 2.929908 1_555
+Co0 U1 2.930031 1_545
+Co0 U1 3.089627 1_645
+Co0 U1 3.090270 1_655
+Co1 Si1 2.235269 1_555
+Co1 Si3 2.300962 1_455
+Co1 Si3 2.302859 1_555
+Co1 Si2 2.321004 1_555
+Co1 Si2 2.321069 1_565
+Co1 U0 2.929552 1_555
+Co1 U0 2.929818 1_565
+Co1 U0 3.089481 1_465
+Co1 U0 3.089988 1_455
+Si0 Si1 2.382460 1_646
+Si0 Si1 2.382537 1_656
+Si0 U1 2.989787 1_555
+Si0 U1 2.990275 1_545
+Si0 U1 3.018944 1_645
+Si0 U1 3.019238 1_655
+Si0 U0 3.124947 1_656
+Si0 U0 3.131982 1_556
+Si1 U0 2.989892 1_555
+Si1 U0 2.990375 1_565
+Si1 U0 3.019320 1_465
+Si1 U0 3.019619 1_455
+Si1 U1 3.124576 1_454
+Si1 U1 3.131344 1_554
+Si2 U0 3.026510 1_555
+Si2 U1 3.053273 1_545
+Si2 U1 3.053365 1_555
+Si2 U0 3.063562 1_455
+Si3 U1 3.026706 1_555
+Si3 U0 3.053111 1_565
+Si3 U0 3.053136 1_555
+Si3 U1 3.063759 1_655

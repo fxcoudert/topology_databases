@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsLuZnSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31551843
+_cell_length_b   8.31551897
+_cell_length_c   10.77395528
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.52299064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLuZnSe3
+_chemical_formula_sum   'Cs2 Lu2 Zn2 Se6'
+_cell_volume   355.21855863
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.74343070  0.25656930  0.25000000  1
+  Cs  Cs1  1  0.25656930  0.74343070  0.75000000  1
+  Lu  Lu0  1  0.00000000  0.00000000  0.00000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.50000000  1
+  Zn  Zn0  1  0.46193073  0.53806927  0.25000000  1
+  Zn  Zn1  1  0.53806927  0.46193073  0.75000000  1
+  Se  Se0  1  0.38600582  0.61399418  0.05577452  1
+  Se  Se1  1  0.94554463  0.05445537  0.75000000  1
+  Se  Se2  1  0.38600582  0.61399418  0.44422548  1
+  Se  Se3  1  0.05445537  0.94554463  0.25000000  1
+  Se  Se4  1  0.61399418  0.38600582  0.94422548  1
+  Se  Se5  1  0.61399418  0.38600582  0.55577452  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Se3 3.669216 1_545
+Cs0 Se3 3.669216 1_655
+Cs0 Se2 3.720799 1_655
+Cs0 Se0 3.720799 1_655
+Cs0 Se2 3.720800 1_545
+Cs0 Se0 3.720800 1_545
+Cs0 Se5 3.899577 1_555
+Cs0 Se4 3.899577 1_554
+Cs1 Se1 3.669216 1_565
+Cs1 Se1 3.669216 1_455
+Cs1 Se4 3.720799 1_455
+Cs1 Se5 3.720799 1_455
+Cs1 Se4 3.720800 1_565
+Cs1 Se5 3.720800 1_565
+Cs1 Se0 3.899577 1_556
+Cs1 Se2 3.899577 1_555
+Lu0 Se4 2.814432 1_554
+Lu0 Se0 2.814432 1_445
+Lu0 Se0 2.814432 1_555
+Lu0 Se4 2.814432 1_444
+Lu0 Se1 2.832925 1_454
+Lu0 Se3 2.832925 1_545
+Lu1 Se5 2.814432 1_555
+Lu1 Se2 2.814432 1_445
+Lu1 Se2 2.814432 1_555
+Lu1 Se5 2.814432 1_445
+Lu1 Se1 2.832925 1_455
+Lu1 Se3 2.832925 1_545
+Se0 Zn0 2.424223 1_555
+Se1 Zn1 2.531354 1_655
+Se1 Zn1 2.531354 1_545
+Se2 Zn0 2.424223 1_555
+Se3 Zn0 2.531354 1_455
+Se3 Zn0 2.531354 1_565
+Se4 Zn1 2.424223 1_555
+Se5 Zn1 2.424223 1_555

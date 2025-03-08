@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Lu2Si2Tc2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76792093
+_cell_length_b   5.76792117
+_cell_length_c   6.79895189
+_cell_angle_alpha   54.59596587
+_cell_angle_beta   54.59596336
+_cell_angle_gamma   39.85255814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Si2Tc2C
+_chemical_formula_sum   'Lu2 Si2 Tc2 C1'
+_cell_volume   114.15614398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.43056609  0.43056609  0.29632276  1
+  Lu  Lu1  1  0.56943391  0.56943391  0.70367724  1
+  Si  Si0  1  0.85807707  0.85807707  0.68439293  1
+  Si  Si1  1  0.14192293  0.14192293  0.31560707  1
+  Tc  Tc0  1  0.79310702  0.79310702  0.09834298  1
+  Tc  Tc1  1  0.20689298  0.20689298  0.90165702  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Si0 2.981171 1_455
+Lu0 Si0 2.981171 1_545
+Lu0 Si1 3.051348 1_555
+Lu0 Si1 3.083192 1_655
+Lu0 Si1 3.083192 1_565
+Lu1 Si1 2.981171 1_655
+Lu1 Si1 2.981171 1_565
+Lu1 Si0 3.051348 1_555
+Lu1 Si0 3.083192 1_455
+Lu1 Si0 3.083192 1_545
+Si0 Tc1 2.397836 1_565
+Si0 Tc1 2.397836 1_655
+Si0 Tc0 2.444054 1_556
+Si0 Si1 2.500070 1_665
+Si1 Tc0 2.397836 1_545
+Si1 Tc0 2.397836 1_455
+Si1 Tc1 2.444054 1_554
+C0 Tc1 1.905957 1_554
+C0 Tc0 1.905957 1_445
+C0 Lu0 2.573028 1_455
+C0 Lu1 2.573028 1_544
+C0 Lu0 2.573028 1_545
+C0 Lu1 2.573028 1_454

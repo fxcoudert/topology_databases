@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_CsRb2NaPb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32774814
+_cell_length_b   9.32774838
+_cell_length_c   11.03687382
+_cell_angle_alpha   89.75509941
+_cell_angle_beta   90.24489990
+_cell_angle_gamma   133.98104169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2NaPb4
+_chemical_formula_sum   'Cs2 Rb4 Na2 Pb8'
+_cell_volume   690.98376489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.38933549  0.61066451  0.05575856  1
+  Cs  Cs1  1  0.23073345  0.76926655  0.74909670  1
+  Rb  Rb0  1  0.61195638  0.38804362  0.54902289  1
+  Rb  Rb1  1  0.61260668  0.38739332  0.95094007  1
+  Rb  Rb2  1  0.38878725  0.61121275  0.45304206  1
+  Rb  Rb3  1  0.76235649  0.23764351  0.25225613  1
+  Na  Na0  1  0.00044918  0.99955082  0.49929403  1
+  Na  Na1  1  0.99989790  0.00010210  0.99874557  1
+  Pb  Pb0  1  0.27021372  0.17374971  0.25183943  1
+  Pb  Pb1  1  0.82592172  0.17407828  0.88467939  1
+  Pb  Pb2  1  0.82596651  0.17403349  0.60800897  1
+  Pb  Pb3  1  0.17579273  0.27036238  0.74768537  1
+  Pb  Pb4  1  0.72963762  0.82420727  0.74768537  1
+  Pb  Pb5  1  0.17677636  0.82322364  0.38819242  1
+  Pb  Pb6  1  0.82625029  0.72978628  0.25183943  1
+  Pb  Pb7  1  0.17331824  0.82668176  0.11191562  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Pb7 3.763554 1_555
+Cs0 Pb6 4.022830 1_555
+Cs0 Pb0 4.022830 1_555
+Cs0 Pb4 4.105812 1_554
+Cs0 Pb3 4.105812 1_554
+Cs0 Pb1 4.245655 1_454
+Cs0 Pb1 4.245655 1_564
+Cs1 Pb5 4.085397 1_555
+Cs1 Pb7 4.128409 1_556
+Cs1 Pb1 4.264023 1_565
+Cs1 Pb1 4.264023 1_455
+Cs1 Pb2 4.291422 1_565
+Cs1 Pb2 4.291422 1_455
+Cs1 Pb4 4.313664 1_555
+Cs1 Pb3 4.313664 1_555
+Na0 Pb2 3.232589 1_465
+Na0 Pb5 3.271914 1_555
+Na0 Pb0 3.282272 1_565
+Na0 Pb6 3.282272 1_455
+Na0 Pb4 3.294618 1_455
+Na0 Pb3 3.294618 1_565
+Na1 Pb7 3.223839 1_646
+Na1 Pb1 3.236432 1_555
+Na1 Pb3 3.310549 1_655
+Na1 Pb4 3.310549 1_545
+Na1 Pb6 3.330230 1_546
+Na1 Pb0 3.330230 1_656
+Pb0 Pb7 3.106350 1_545
+Pb0 Pb5 3.118685 1_545
+Pb0 Pb6 3.237436 1_445
+Pb0 Rb0 4.004044 1_555
+Pb0 Rb1 4.049084 1_554
+Pb0 Rb2 4.073548 1_555
+Pb0 Rb3 4.198662 1_555
+Pb1 Pb2 3.053580 1_555
+Pb1 Pb3 3.114976 1_655
+Pb1 Pb4 3.114976 1_545
+Pb1 Rb1 3.738510 1_555
+Pb1 Rb3 4.206057 1_556
+Pb2 Pb3 3.119037 1_655
+Pb2 Pb4 3.119037 1_545
+Pb2 Rb0 3.729069 1_555
+Pb2 Rb3 4.070605 1_555
+Pb2 Rb2 4.171309 1_655
+Pb2 Rb2 4.171309 1_545
+Pb3 Pb4 3.253418 1_445
+Pb3 Rb2 3.978033 1_555
+Pb3 Rb0 4.051891 1_555
+Pb3 Rb1 4.073199 1_555
+Pb4 Rb2 3.978033 1_555
+Pb4 Rb0 4.051891 1_555
+Pb4 Rb1 4.073199 1_555
+Pb5 Pb7 3.049535 1_555
+Pb5 Pb6 3.118685 1_455
+Pb5 Rb2 3.706925 1_555
+Pb5 Rb0 4.207355 1_455
+Pb5 Rb0 4.207355 1_565
+Pb5 Rb3 4.210067 1_565
+Pb5 Rb3 4.210067 1_455
+Pb6 Pb7 3.106350 1_655
+Pb6 Rb0 4.004044 1_555
+Pb6 Rb1 4.049084 1_554
+Pb6 Rb2 4.073548 1_555
+Pb6 Rb3 4.198662 1_555
+Pb7 Rb1 4.185679 1_454
+Pb7 Rb1 4.185679 1_564
+Pb7 Rb3 4.243638 1_565
+Pb7 Rb3 4.243638 1_455

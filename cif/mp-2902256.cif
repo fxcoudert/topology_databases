@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_TlBrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88309874
+_cell_length_b   6.71172176
+_cell_length_c   3.82215884
+_cell_angle_alpha   86.05269916
+_cell_angle_beta   120.52884095
+_cell_angle_gamma   97.78851745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlBrO3
+_chemical_formula_sum   'Tl1 Br1 O3'
+_cell_volume   85.01346183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.78521355  0.01554859  0.00000000  1
+  Br  Br0  1  0.22474064  0.54335661  1.00000000  1
+  O  O0  1  0.26814024  0.81949427  0.00000000  1
+  O  O1  1  0.34708450  0.18779976  0.46426342  1
+  O  O2  1  0.88282108  0.18779976  0.53573658  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Br0 O0 1.838120 1_556
+O0 Tl0 2.246521 1_565
+O0 Tl0 2.432460 1_465
+O1 Tl0 2.216104 1_455
+O1 Tl0 2.256515 1_556
+O2 Tl0 2.216104 1_556
+O2 Tl0 2.256516 1_555

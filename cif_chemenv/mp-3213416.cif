@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_BaMnBrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31288095
+_cell_length_b   7.31288166
+_cell_length_c   5.53554076
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.25654247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnBrO2
+_chemical_formula_sum   'Ba2 Mn2 Br2 O4'
+_cell_volume   222.54555438
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.38130494  0.61869406  0.24999900  1
+  Ba  Ba1  1  0.61869406  0.38130494  0.74999900  1
+  Mn  Mn0  1  0.00485971  0.99513929  0.24999900  1
+  Mn  Mn1  1  0.99513929  0.00485971  0.74999900  1
+  Br  Br0  1  0.76374404  0.23625496  0.24999900  1
+  Br  Br1  1  0.23625496  0.76374404  0.74999900  1
+  O  O0  1  0.21253906  0.21253906  0.00000000  1
+  O  O1  1  0.78745994  0.78745994  0.00000000  1
+  O  O2  1  0.21253906  0.21253906  0.50000000  1
+  O  O3  1  0.78745994  0.78745994  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 O1 2.725002 1_555
+Ba0 O0 2.725002 1_555
+Ba0 O3 2.725008 1_555
+Ba0 O2 2.725008 1_555
+Ba0 Br1 3.375617 1_554
+Ba0 Br1 3.375617 1_555
+Ba0 Br0 3.399921 1_455
+Ba0 Br0 3.399922 1_565
+Ba1 O2 2.725002 1_555
+Ba1 O3 2.725002 1_555
+Ba1 O0 2.725008 1_556
+Ba1 O1 2.725008 1_556
+Ba1 Br0 3.375617 1_556
+Ba1 Br0 3.375617 1_555
+Ba1 Br1 3.399921 1_655
+Ba1 Br1 3.399922 1_545
+Mn0 O1 1.888065 1_455
+Mn0 O0 1.888065 1_565
+Mn0 O3 1.888073 1_455
+Mn0 O2 1.888073 1_565
+Mn1 O2 1.888065 1_655
+Mn1 O3 1.888065 1_545
+Mn1 O0 1.888073 1_656
+Mn1 O1 1.888073 1_546
+Br0 Mn0 3.212245 1_645
+Br0 Br1 4.111103 1_545
+Br0 Br1 4.111103 1_544
+Br0 Br1 4.111103 1_654
+Br0 Br1 4.111103 1_655
+Br1 Mn1 3.212245 1_465

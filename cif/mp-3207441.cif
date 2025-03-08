@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_Sc12InNi4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85699350
+_cell_length_b   7.85699471
+_cell_length_c   7.85699445
+_cell_angle_alpha   111.43789310
+_cell_angle_beta   110.18783257
+_cell_angle_gamma   106.82255874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc12InNi4Pb
+_chemical_formula_sum   'Sc12 In1 Ni4 Pb1'
+_cell_volume   372.73527680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.44559436  0.23013155  0.21546281  1
+  Sc  Sc1  1  0.55440564  0.76986845  0.78453719  1
+  Sc  Sc2  1  0.01466874  0.23013155  0.78453719  1
+  Sc  Sc3  1  0.98533126  0.76986845  0.21546281  1
+  Sc  Sc4  1  0.18488365  0.28982052  0.47470317  1
+  Sc  Sc5  1  0.81511635  0.71017948  0.52529683  1
+  Sc  Sc6  1  0.18488365  0.71017948  0.89506413  1
+  Sc  Sc7  1  0.81511635  0.28982052  0.10493587  1
+  Sc  Sc8  1  0.32154177  0.62114393  0.29960215  1
+  Sc  Sc9  1  0.67845823  0.37885607  0.70039785  1
+  Sc  Sc10  1  0.32154177  0.02193962  0.70039785  1
+  Sc  Sc11  1  0.67845823  0.97806038  0.29960215  1
+  In  In0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni0  1  0.35835856  0.00000000  0.35835856  1
+  Ni  Ni1  1  0.64164144  1.00000000  0.64164144  1
+  Ni  Ni2  1  0.12771813  0.62771813  0.50000000  1
+  Ni  Ni3  1  0.87228187  0.37228187  0.50000000  1
+  Pb  Pb0  1  0.50000000  0.50000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Sc0 2.898295 1_555
+In0 Sc1 2.898295 1_444
+In0 Sc3 2.898295 1_445
+In0 Sc2 2.898295 1_554
+In0 Sc4 3.056796 1_555
+In0 Sc5 3.056796 1_444
+In0 Sc7 3.056801 1_455
+In0 Sc6 3.056801 1_544
+Ni0 Sc3 2.509466 1_445
+Ni0 Sc0 2.509467 1_555
+Ni0 Ni1 2.547297 1_545
+Ni0 Sc11 2.749962 1_545
+Ni0 Sc9 2.749962 1_555
+Ni0 Sc10 2.749962 1_555
+Ni0 Sc8 2.749963 1_545
+Ni0 Sc6 3.002237 1_544
+Ni0 Sc4 3.002241 1_555
+Ni1 Sc2 2.509466 1_665
+Ni1 Sc1 2.509467 1_555
+Ni1 Sc10 2.749962 1_565
+Ni1 Sc8 2.749962 1_555
+Ni1 Sc11 2.749962 1_555
+Ni1 Sc9 2.749963 1_565
+Ni1 Sc7 3.002237 1_566
+Ni1 Sc5 3.002241 1_555
+Ni2 Ni3 2.392566 1_455
+Ni2 Sc8 2.538103 1_555
+Ni2 Sc10 2.538103 1_565
+Ni2 Sc4 2.766878 1_555
+Ni2 Sc5 2.766881 1_455
+Ni2 Sc7 2.766883 1_455
+Ni2 Sc6 2.766887 1_555
+Ni2 Sc1 2.884286 1_555
+Ni2 Sc3 2.884286 1_455
+Ni3 Sc9 2.538103 1_555
+Ni3 Sc11 2.538103 1_545
+Ni3 Sc5 2.766878 1_555
+Ni3 Sc4 2.766881 1_655
+Ni3 Sc6 2.766883 1_655
+Ni3 Sc7 2.766887 1_555
+Ni3 Sc0 2.884286 1_555
+Ni3 Sc2 2.884286 1_655
+Pb0 Sc8 3.134631 1_555
+Pb0 Sc9 3.134631 1_554
+Pb0 Sc11 3.134631 1_555
+Pb0 Sc10 3.134631 1_554
+Pb0 Sc2 3.184844 1_554
+Pb0 Sc3 3.184844 1_555
+Pb0 Sc1 3.184844 1_554
+Pb0 Sc0 3.184844 1_555
+Pb0 Sc7 3.389638 1_555
+Pb0 Sc6 3.389638 1_554
+Pb0 Sc5 3.389645 1_555
+Pb0 Sc4 3.389645 1_554

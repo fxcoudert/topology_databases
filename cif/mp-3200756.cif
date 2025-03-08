@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_Li2Y3(CuSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90502040
+_cell_length_b   8.10618112
+_cell_length_c   8.10618086
+_cell_angle_alpha   150.22408368
+_cell_angle_beta   130.86920284
+_cell_angle_gamma   58.73822283
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Y3(CuSi2)2
+_chemical_formula_sum   'Li2 Y3 Cu2 Si4'
+_cell_volume   193.40238903
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.63801684  0.32728085  0.31073498  1
+  Li  Li1  1  0.36198316  0.67271915  0.68926502  1
+  Y  Y0  1  0.35433433  0.86954482  0.48478951  1
+  Y  Y1  1  0.64566567  0.13045518  0.51521049  1
+  Y  Y2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.01965120  0.33592681  0.68372439  1
+  Cu  Cu1  1  0.98034880  0.66407319  0.31627561  1
+  Si  Si0  1  0.18704545  0.21521345  0.97183200  1
+  Si  Si1  1  0.81295455  0.78478655  0.02816800  1
+  Si  Si2  1  0.68257254  0.50157101  0.18100153  1
+  Si  Si3  1  0.31742746  0.49842899  0.81899847  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Si2 2.608938 1_555
+Li0 Si1 2.616318 1_545
+Li0 Si1 2.616321 1_556
+Li0 Si0 2.700646 1_554
+Li0 Y0 3.079775 1_544
+Li0 Y0 3.079778 1_555
+Li0 Y1 3.107444 1_555
+Li1 Si3 2.608938 1_555
+Li1 Si0 2.616318 1_565
+Li1 Si0 2.616321 1_554
+Li1 Si1 2.700646 1_556
+Li1 Y1 3.079775 1_566
+Li1 Y1 3.079778 1_555
+Li1 Y0 3.107444 1_555
+Cu0 Si3 2.410689 1_555
+Cu0 Si1 2.422528 1_445
+Cu0 Si1 2.422528 1_456
+Cu0 Li0 2.482435 1_455
+Cu0 Si0 2.596496 1_555
+Cu0 Y0 2.917467 1_556
+Cu0 Y0 2.917468 1_545
+Cu0 Y1 3.042429 1_455
+Cu1 Si2 2.410689 1_555
+Cu1 Si0 2.422528 1_665
+Cu1 Si0 2.422528 1_654
+Cu1 Li1 2.482435 1_655
+Cu1 Si1 2.596496 1_555
+Cu1 Y1 2.917467 1_554
+Cu1 Y1 2.917468 1_565
+Cu1 Y0 3.042429 1_655
+Si0 Y0 2.994972 1_556
+Si0 Y0 2.994972 1_545
+Si0 Y2 3.015372 1_556
+Si0 Y1 3.224070 1_455
+Si1 Y1 2.994972 1_554
+Si1 Y1 2.994972 1_565
+Si1 Y2 3.015372 1_665
+Si1 Y0 3.224070 1_655
+Si2 Si3 2.409412 1_554
+Si2 Y2 2.975488 1_666
+Si2 Y2 2.975488 1_655
+Si2 Y1 2.988051 1_554
+Si2 Y1 2.988051 1_565
+Si2 Y0 3.044972 1_544
+Si2 Y0 3.044972 1_555
+Si3 Y2 2.975488 1_555
+Si3 Y2 2.975488 1_566
+Si3 Y0 2.988051 1_556
+Si3 Y0 2.988051 1_545
+Si3 Y1 3.044972 1_566
+Si3 Y1 3.044972 1_555

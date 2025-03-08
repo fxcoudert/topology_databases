@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Nb5Al2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70114382
+_cell_length_b   7.62353248
+_cell_length_c   6.69340598
+_cell_angle_alpha   116.03986233
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.07222108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb5Al2P
+_chemical_formula_sum   'Nb10 Al4 P2'
+_cell_volume   267.96527155
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.99153008  1.00000000  0.99721084  1
+  Nb  Nb1  1  0.50846992  0.00000000  0.49721084  1
+  Nb  Nb2  1  0.52763062  0.70810553  0.68816310  1
+  Nb  Nb3  1  0.19151145  0.69742966  0.01458299  1
+  Nb  Nb4  1  0.68047391  0.70810553  0.18816310  1
+  Nb  Nb5  1  0.00591721  0.69742966  0.51458299  1
+  Nb  Nb6  1  0.49408279  0.30257034  0.31715433  1
+  Nb  Nb7  1  0.81952609  0.29189447  0.98005857  1
+  Nb  Nb8  1  0.30848855  0.30257034  0.81715433  1
+  Nb  Nb9  1  0.97236938  0.29189447  0.48005857  1
+  Al  Al0  1  0.75000000  0.50000000  0.75854114  1
+  Al  Al1  1  0.25000000  0.50000000  0.25854114  1
+  Al  Al2  1  0.13334859  0.00000000  0.36782115  1
+  Al  Al3  1  0.36665141  1.00000000  0.86782115  1
+  P  P0  1  0.87559527  1.00000000  0.62646890  1
+  P  P1  1  0.62440473  0.00000000  0.12646890  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 P0 2.600296 1_555
+Nb0 P1 2.607857 1_566
+Nb1 P1 2.600296 1_555
+Nb1 P0 2.607857 1_545
+Nb2 P0 2.608689 1_555
+Nb2 P1 2.641768 1_566
+Nb3 P1 2.626441 1_565
+Nb4 P1 2.608685 1_565
+Nb4 P0 2.641769 1_555
+Nb5 P0 2.626436 1_455
+Nb6 P1 2.626437 1_555
+Nb7 P0 2.608689 1_545
+Nb7 P1 2.641764 1_556
+Nb8 P0 2.626442 1_445
+Nb9 P1 2.608692 1_555
+Nb9 P0 2.641763 1_545
+Al0 Nb4 2.765406 1_556
+Al0 Nb7 2.765412 1_555
+Al0 Nb9 2.773729 1_555
+Al0 Nb2 2.773732 1_555
+Al0 Nb6 2.785987 1_555
+Al0 Nb5 2.785993 1_655
+Al0 Nb3 2.788714 1_656
+Al0 Nb8 2.788717 1_555
+Al0 Nb0 2.988620 1_555
+Al0 Nb1 2.988620 1_555
+Al1 Nb2 2.765404 1_555
+Al1 Nb9 2.765409 1_455
+Al1 Nb7 2.773724 1_454
+Al1 Nb4 2.773727 1_555
+Al1 Nb8 2.785990 1_554
+Al1 Nb3 2.785995 1_555
+Al1 Nb5 2.788719 1_555
+Al1 Nb6 2.788722 1_555
+Al1 Nb1 2.988620 1_565
+Al1 Nb0 2.988620 1_444
+Al2 P0 2.445514 1_445
+Al2 Nb0 2.656456 1_444
+Al2 Nb3 2.657946 1_545
+Al2 Nb6 2.657947 1_555
+Al2 Nb1 2.658751 1_555
+Al2 Nb5 2.696830 1_545
+Al2 Nb8 2.696835 1_555
+Al2 Nb9 2.705950 1_455
+Al2 Nb4 2.705956 1_445
+Al3 P1 2.445514 1_566
+Al3 Nb1 2.656456 1_565
+Al3 Nb8 2.657943 1_565
+Al3 Nb5 2.657950 1_555
+Al3 Nb0 2.658751 1_455
+Al3 Nb3 2.696830 1_556
+Al3 Nb6 2.696835 1_566
+Al3 Nb2 2.705950 1_555
+Al3 Nb7 2.705955 1_565

@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_CaIn2(SnIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98699293
+_cell_length_b   6.98699321
+_cell_length_c   6.94498040
+_cell_angle_alpha   120.64238212
+_cell_angle_beta   120.64238341
+_cell_angle_gamma   89.24215947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaIn2(SnIr)4
+_chemical_formula_sum   'Ca1 In2 Sn4 Ir4'
+_cell_volume   236.63803437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99800469  0.99800469  1.00000000  1
+  In  In0  1  0.88298613  0.53749413  1.00000000  1
+  In  In1  1  0.53749413  0.88298613  1.00000000  1
+  Sn  Sn0  1  0.46120617  0.46120617  0.34124841  1
+  Sn  Sn1  1  0.50015597  0.00015697  0.49999900  1
+  Sn  Sn2  1  0.00015697  0.50015597  0.49999900  1
+  Sn  Sn3  1  0.11995677  0.11995677  0.65875059  1
+  Ir  Ir0  1  0.59291217  0.25495902  1.00000000  1
+  Ir  Ir1  1  0.25495902  0.59291217  1.00000000  1
+  Ir  Ir2  1  0.75614553  0.75614553  0.36012608  1
+  Ir  Ir3  1  0.39601844  0.39601844  0.63987292  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Ir3 3.197687 1_666
+Ca0 Ir2 3.197693 1_555
+Ca0 In1 3.326721 1_555
+Ca0 In0 3.326721 1_555
+Ca0 Ir0 3.331646 1_565
+Ca0 Ir1 3.331646 1_655
+Ca0 Sn3 3.347389 1_665
+Ca0 Sn0 3.347391 1_666
+Ca0 Sn1 3.449228 1_666
+Ca0 Sn2 3.449228 1_666
+Ca0 Sn1 3.449242 1_565
+Ca0 Sn2 3.449242 1_655
+In0 Ir1 2.632718 1_655
+In0 Ir2 2.775502 1_556
+In0 Ir3 2.775507 1_555
+In0 Ir0 2.847892 1_555
+In1 Ir0 2.632718 1_565
+In1 Ir2 2.775502 1_556
+In1 Ir3 2.775507 1_555
+In1 Ir1 2.847892 1_555
+Ir0 Sn2 2.661282 1_656
+Ir0 Sn1 2.661288 1_555
+Ir0 Sn0 2.692002 1_556
+Ir0 Sn3 2.692007 1_555
+Ir1 Sn1 2.661282 1_566
+Ir1 Sn2 2.661288 1_555
+Ir1 Sn0 2.692002 1_556
+Ir1 Sn3 2.692007 1_555
+Ir2 Sn3 2.578248 1_665
+Ir2 Sn1 2.655492 1_565
+Ir2 Sn2 2.655492 1_655
+Ir2 Sn0 2.841128 1_555
+Ir3 Sn0 2.578257 1_555
+Ir3 Sn2 2.655483 1_555
+Ir3 Sn1 2.655483 1_555
+Ir3 Sn3 2.841128 1_555

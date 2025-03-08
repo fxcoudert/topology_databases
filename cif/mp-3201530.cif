@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_NaAl2SiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05308902
+_cell_length_b   4.05308880
+_cell_length_c   6.34220036
+_cell_angle_alpha   71.36527813
+_cell_angle_beta   71.36528403
+_cell_angle_gamma   89.99999477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAl2SiAu
+_chemical_formula_sum   'Na1 Al2 Si1 Au1'
+_cell_volume   92.94226803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00124659  0.00124659  0.99750483  1
+  Al  Al0  1  0.75067730  0.25067730  0.49864639  1
+  Al  Al1  1  0.25067730  0.75067730  0.49864639  1
+  Si  Si0  1  0.38891907  0.38891907  0.22216087  1
+  Au  Au0  1  0.60847774  0.60847774  0.78304452  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Si0 3.135170 1_446
+Na0 Si0 3.135172 1_546
+Na0 Si0 3.135173 1_456
+Na0 Si0 3.135176 1_556
+Al0 Si0 2.560044 1_655
+Al0 Si0 2.560051 1_555
+Al0 Au0 2.587643 1_555
+Al0 Au0 2.587645 1_545
+Al1 Si0 2.560044 1_565
+Al1 Si0 2.560051 1_555
+Al1 Au0 2.587643 1_555
+Al1 Au0 2.587646 1_455
+Au0 Si0 2.484395 1_556
+Au0 Na0 3.112228 1_665
+Au0 Na0 3.112233 1_655
+Au0 Na0 3.112233 1_565
+Au0 Na0 3.112238 1_555

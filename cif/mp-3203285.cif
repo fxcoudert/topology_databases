@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_SrSnHgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25542043
+_cell_length_b   6.25542042
+_cell_length_c   10.52196323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.94482309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSnHgS4
+_chemical_formula_sum   'Sr2 Sn2 Hg2 S8'
+_cell_volume   370.23179428
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.95229341  0.95229341  0.50000000  1
+  Sr  Sr1  1  0.95229341  0.95229341  0.00000000  1
+  Sn  Sn0  1  0.24890783  0.67595285  0.75000000  1
+  Sn  Sn1  1  0.67595285  0.24890783  0.25000000  1
+  Hg  Hg0  1  0.66586121  0.32636696  0.75000000  1
+  Hg  Hg1  1  0.32636696  0.66586121  0.25000000  1
+  S  S0  1  0.99756693  0.46794473  0.57364960  1
+  S  S1  1  0.46794473  0.99756693  0.42635040  1
+  S  S2  1  0.65702645  0.76868569  0.75000000  1
+  S  S3  1  0.76868569  0.65702645  0.25000000  1
+  S  S4  1  0.99756693  0.46794473  0.92635040  1
+  S  S5  1  0.46794473  0.99756693  0.07364960  1
+  S  S6  1  0.23930571  0.06308316  0.75000000  1
+  S  S7  1  0.06308316  0.23930571  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S6 2.446819 1_555
+Hg0 S0 2.631522 1_555
+Hg0 S4 2.631522 1_555
+Hg0 S2 2.791511 1_555
+Hg1 S7 2.446819 1_555
+Hg1 S5 2.631522 1_555
+Hg1 S1 2.631522 1_555
+Hg1 S3 2.791511 1_555
+S0 Sn0 2.412057 1_655
+S0 Sr0 3.207180 1_545
+S0 Sr0 3.257493 1_555
+S1 Sn1 2.412057 1_565
+S1 Sr0 3.207180 1_455
+S1 Sr0 3.257493 1_555
+S2 Sn0 2.357593 1_555
+S2 Sr1 3.129518 1_556
+S2 Sr0 3.129518 1_555
+S3 Sn1 2.357593 1_555
+S3 Sr0 3.129518 1_555
+S3 Sr1 3.129518 1_555
+S4 Sn0 2.412057 1_655
+S4 Sr1 3.207180 1_546
+S4 Sr1 3.257493 1_556
+S5 Sn1 2.412057 1_565
+S5 Sr1 3.207180 1_455
+S5 Sr1 3.257493 1_555
+S6 Sn0 2.448538 1_545
+S6 Sr1 3.087788 1_446
+S6 Sr0 3.087788 1_445
+S7 Sn1 2.448538 1_455
+S7 Sr1 3.087788 1_445
+S7 Sr0 3.087788 1_445

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_LiCrSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19863965
+_cell_length_b   6.21490322
+_cell_length_c   6.26553623
+_cell_angle_alpha   89.34416517
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrSe4
+_chemical_formula_sum   'Li2 Cr2 Se8'
+_cell_volume   241.35736371
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr0  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr1  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se0  1  0.59814764  0.10869741  0.12024114  1
+  Se  Se1  1  0.09814764  0.39130259  0.87975886  1
+  Se  Se2  1  0.38262863  0.61551173  0.39640226  1
+  Se  Se3  1  0.88262863  0.88448827  0.60359774  1
+  Se  Se4  1  0.40185236  0.89130259  0.87975886  1
+  Se  Se5  1  0.90185236  0.60869741  0.12024114  1
+  Se  Se6  1  0.61737137  0.38448827  0.60359774  1
+  Se  Se7  1  0.11737137  0.11551173  0.39640226  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se5 2.609585 1_445
+Li0 Se1 2.609585 1_554
+Li0 Se4 2.690791 1_544
+Li0 Se0 2.690791 1_455
+Li0 Se7 2.693351 1_555
+Li0 Se3 2.693351 1_444
+Li1 Se0 2.609585 1_555
+Li1 Se4 2.609585 1_554
+Li1 Se5 2.690791 1_555
+Li1 Se1 2.690791 1_554
+Li1 Se2 2.693351 1_555
+Li1 Se6 2.693351 1_554
+Cr0 Se1 2.539922 1_555
+Cr0 Se5 2.539922 1_455
+Cr0 Se2 2.559562 1_555
+Cr0 Se6 2.559562 1_455
+Cr0 Se3 2.587689 1_455
+Cr0 Se7 2.587689 1_555
+Cr1 Se4 2.539922 1_545
+Cr1 Se0 2.539922 1_555
+Cr1 Se3 2.559562 1_545
+Cr1 Se7 2.559562 1_555
+Cr1 Se6 2.587689 1_555
+Cr1 Se2 2.587689 1_545
+Se0 Se4 2.371255 1_544
+Se1 Se5 2.371255 1_456
+Se2 Se6 2.412756 1_555
+Se3 Se7 2.412756 1_665

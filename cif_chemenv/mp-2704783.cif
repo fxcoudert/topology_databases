@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_MoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39821872
+_cell_length_b   5.56688210
+_cell_length_c   8.32952712
+_cell_angle_alpha   60.91703369
+_cell_angle_beta   89.99931515
+_cell_angle_gamma   89.99955596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoO3
+_chemical_formula_sum   'Mo4 O12'
+_cell_volume   218.75244699
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.25186126  0.13699154  0.98977470  1
+  Mo  Mo1  1  0.74813196  0.63701265  0.98974132  1
+  Mo  Mo2  1  0.72677451  0.27737622  0.50984592  1
+  Mo  Mo3  1  0.27326366  0.77735513  0.50987943  1
+  O  O0  1  0.43606727  0.02792902  0.55217239  1
+  O  O1  1  0.48118179  0.41876208  0.94220652  1
+  O  O2  1  0.69277103  0.45870161  0.25671836  1
+  O  O3  1  0.30722652  0.95866549  0.25672026  1
+  O  O4  1  0.51881187  0.91874700  0.94222501  1
+  O  O5  1  0.56393424  0.52794602  0.55215956  1
+  O  O6  1  0.07143977  0.42467379  0.51891152  1
+  O  O7  1  0.89383042  0.91951812  0.69974501  1
+  O  O8  1  0.98505478  0.38724410  0.00983297  1
+  O  O9  1  0.01494141  0.88725060  0.00981852  1
+  O  O10  1  0.10613121  0.41952434  0.69976309  1
+  O  O11  1  0.92857831  0.92470227  0.51888342  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O9 1.835980 1_546
+Mo0 O1 1.883008 1_555
+Mo0 O3 1.968005 1_546
+Mo0 O4 2.043858 1_545
+Mo0 O8 2.066243 1_456
+Mo0 O10 2.287900 1_555
+Mo1 O8 1.835978 1_556
+Mo1 O4 1.882933 1_555
+Mo1 O2 1.968232 1_556
+Mo1 O1 2.043839 1_555
+Mo1 O9 2.066278 1_656
+Mo1 O7 2.287711 1_555
+Mo2 O5 1.822248 1_555
+Mo2 O2 1.851781 1_555
+Mo2 O0 2.009828 1_555
+Mo2 O6 2.049404 1_655
+Mo2 O7 2.054399 1_545
+Mo2 O11 2.214325 1_545
+Mo3 O0 1.822089 1_565
+Mo3 O3 1.851987 1_555
+Mo3 O5 2.009597 1_555
+Mo3 O11 2.049486 1_455
+Mo3 O10 2.054449 1_555
+Mo3 O6 2.214446 1_555
+O10 O6 1.504388 1_555
+O11 O7 1.504414 1_555

@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_Ti5ZnPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32247792
+_cell_length_b   8.32247845
+_cell_length_c   5.64118732
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5ZnPb3
+_chemical_formula_sum   'Ti10 Zn2 Pb6'
+_cell_volume   338.38140787
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333300  0.66666700  0.00000000  1
+  Ti  Ti1  1  0.66666700  0.33333300  0.50000000  1
+  Ti  Ti2  1  0.66666700  0.33333300  0.00000000  1
+  Ti  Ti3  1  0.33333300  0.66666700  0.50000000  1
+  Ti  Ti4  1  0.26437329  0.00000000  0.25000000  1
+  Ti  Ti5  1  0.26437329  0.26437329  0.75000000  1
+  Ti  Ti6  1  1.00000000  0.73562671  0.75000000  1
+  Ti  Ti7  1  0.00000000  0.26437329  0.25000000  1
+  Ti  Ti8  1  0.73562671  0.73562671  0.25000000  1
+  Ti  Ti9  1  0.73562671  0.00000000  0.75000000  1
+  Zn  Zn0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.50000000  1
+  Pb  Pb0  1  0.61576332  0.00000000  0.25000000  1
+  Pb  Pb1  1  0.61576332  0.61576332  0.75000000  1
+  Pb  Pb2  1  1.00000000  0.38423668  0.75000000  1
+  Pb  Pb3  1  0.00000000  0.61576332  0.25000000  1
+  Pb  Pb4  1  0.38423668  0.38423668  0.25000000  1
+  Pb  Pb5  1  0.38423668  0.00000000  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti4 Zn0 2.613426 1_555
+Ti4 Zn1 2.613426 1_555
+Ti5 Zn0 2.613426 1_556
+Ti5 Zn1 2.613426 1_555
+Ti6 Zn1 2.613426 1_665
+Ti6 Zn0 2.613426 1_666
+Ti7 Zn1 2.613426 1_555
+Ti7 Zn0 2.613426 1_555
+Ti8 Zn0 2.613426 1_665
+Ti8 Zn1 2.613426 1_665
+Ti9 Zn1 2.613426 1_655
+Ti9 Zn0 2.613426 1_656
+Pb0 Ti7 2.833913 1_655
+Pb0 Ti8 2.833913 1_545
+Pb0 Ti4 2.924436 1_555
+Pb0 Ti1 2.947728 1_555
+Pb0 Ti2 2.947728 1_555
+Pb0 Ti3 2.947731 1_545
+Pb0 Ti0 2.947731 1_545
+Pb0 Ti9 2.991801 1_554
+Pb0 Ti9 2.991801 1_555
+Pb1 Ti6 2.833913 1_555
+Pb1 Ti9 2.833913 1_565
+Pb1 Ti5 2.924436 1_555
+Pb1 Ti0 2.947735 1_556
+Pb1 Ti3 2.947735 1_555
+Pb1 Ti1 2.947735 1_555
+Pb1 Ti2 2.947735 1_556
+Pb1 Ti8 2.991801 1_556
+Pb1 Ti8 2.991801 1_555
+Pb2 Ti5 2.833913 1_655
+Pb2 Ti9 2.833913 1_555
+Pb2 Ti6 2.924436 1_555
+Pb2 Ti2 2.947728 1_556
+Pb2 Ti1 2.947728 1_555
+Pb2 Ti3 2.947731 1_655
+Pb2 Ti0 2.947731 1_656
+Pb2 Ti7 2.991801 1_655
+Pb2 Ti7 2.991801 1_656
+Pb3 Ti8 2.833913 1_455
+Pb3 Ti4 2.833913 1_565
+Pb3 Ti7 2.924436 1_555
+Pb3 Ti0 2.947728 1_555
+Pb3 Ti3 2.947728 1_555
+Pb3 Ti2 2.947731 1_455
+Pb3 Ti1 2.947731 1_455
+Pb3 Ti6 2.991801 1_455
+Pb3 Ti6 2.991801 1_454
+Pb4 Ti7 2.833913 1_555
+Pb4 Ti4 2.833913 1_555
+Pb4 Ti8 2.924436 1_555
+Pb4 Ti1 2.947735 1_555
+Pb4 Ti2 2.947735 1_555
+Pb4 Ti0 2.947735 1_555
+Pb4 Ti3 2.947735 1_555
+Pb4 Ti5 2.991801 1_555
+Pb4 Ti5 2.991801 1_554
+Pb5 Ti5 2.833913 1_555
+Pb5 Ti6 2.833913 1_445
+Pb5 Ti9 2.924436 1_555
+Pb5 Ti0 2.947728 1_546
+Pb5 Ti3 2.947728 1_545
+Pb5 Ti1 2.947731 1_555
+Pb5 Ti2 2.947731 1_556
+Pb5 Ti4 2.991801 1_556
+Pb5 Ti4 2.991801 1_555

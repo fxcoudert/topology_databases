@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_ReHg3(SeF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76886864
+_cell_length_b   7.75697484
+_cell_length_c   4.77364158
+_cell_angle_alpha   90.00000542
+_cell_angle_beta   90.17307246
+_cell_angle_gamma   119.94936695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReHg3(SeF3)2
+_chemical_formula_sum   'Re1 Hg3 Se2 F6'
+_cell_volume   249.25812158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.00000000  0.49999900  1
+  Hg  Hg0  1  0.50000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.00000000  0.50000000  0.00000000  1
+  Hg  Hg2  1  0.50000000  0.50000000  0.00000000  1
+  Se  Se0  1  0.33362364  0.66681232  0.22904968  1
+  Se  Se1  1  0.66637636  0.33318768  0.77095132  1
+  F  F0  1  0.12165908  0.24382276  0.27183363  1
+  F  F1  1  0.12165908  0.87783632  0.27183363  1
+  F  F2  1  0.75634736  0.87817418  0.27031448  1
+  F  F3  1  0.24365064  0.12182582  0.72968652  1
+  F  F4  1  0.87834092  0.12216368  0.72816737  1
+  F  F5  1  0.87834092  0.75617724  0.72816737  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 Se1 2.493794 1_554
+Hg0 Se0 2.493796 1_545
+Hg1 Se1 2.494375 1_454
+Hg1 Se0 2.494377 1_555
+Hg2 Se1 2.493800 1_554
+Hg2 Se0 2.493802 1_555
+F0 Re0 1.969291 1_555
+F1 Re0 1.969291 1_565
+F2 Re0 1.969691 1_665
+F3 Re0 1.969688 1_555
+F4 Re0 1.969299 1_655
+F5 Re0 1.969299 1_665

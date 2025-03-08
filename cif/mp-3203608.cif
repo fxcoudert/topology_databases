@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_Ti6GeAsN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43081347
+_cell_length_b   5.43081302
+_cell_length_c   8.00125634
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.56125706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6GeAsN2
+_chemical_formula_sum   'Ti6 Ge1 As1 N2'
+_cell_volume   133.45645459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.94996362  0.05003638  0.25000000  1
+  Ti  Ti1  1  0.05423266  0.94576734  0.75000000  1
+  Ti  Ti2  1  0.62756752  0.37243248  0.45067572  1
+  Ti  Ti3  1  0.37089994  0.62910006  0.55205526  1
+  Ti  Ti4  1  0.62756752  0.37243248  0.04932428  1
+  Ti  Ti5  1  0.37089994  0.62910006  0.94794474  1
+  Ge  Ge0  1  0.25425781  0.74574219  0.25000000  1
+  As  As0  1  0.74531048  0.25468952  0.75000000  1
+  N  N0  1  0.99965077  0.00034923  0.50145345  1
+  N  N1  1  0.99965077  0.00034923  0.99854655  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ge0 Ti0 2.589829 1_455
+Ge0 Ti0 2.589829 1_565
+Ge0 Ti2 2.624959 1_565
+Ge0 Ti4 2.624959 1_565
+Ge0 Ti2 2.624959 1_455
+Ge0 Ti4 2.624959 1_455
+Ge0 Ti3 2.702861 1_555
+Ge0 Ti5 2.702861 1_554
+As0 Ti1 2.552360 1_655
+As0 Ti1 2.552361 1_545
+As0 Ti5 2.605921 1_545
+As0 Ti3 2.605921 1_545
+As0 Ti5 2.605921 1_655
+As0 Ti3 2.605921 1_655
+As0 Ti4 2.688510 1_556
+As0 Ti2 2.688510 1_555
+N0 Ti1 2.067737 1_645
+N0 Ti0 2.076933 1_555
+N0 Ti2 2.123900 1_545
+N0 Ti2 2.123900 1_655
+N0 Ti3 2.129050 1_655
+N0 Ti3 2.129050 1_545
+N1 Ti1 2.067737 1_645
+N1 Ti0 2.076933 1_556
+N1 Ti4 2.123900 1_546
+N1 Ti4 2.123900 1_656
+N1 Ti5 2.129050 1_655
+N1 Ti5 2.129050 1_545

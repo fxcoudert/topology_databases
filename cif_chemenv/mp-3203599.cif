@@ -1,0 +1,90 @@
+# generated using pymatgen
+data_Tc2MoSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71529948
+_cell_length_b   6.71438167
+_cell_length_c   6.73018200
+_cell_angle_alpha   93.01125926
+_cell_angle_beta   93.76267335
+_cell_angle_gamma   93.60433334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc2MoSe4
+_chemical_formula_sum   'Tc4 Mo2 Se8'
+_cell_volume   301.71518365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.54808253  0.41303682  0.24118276  1
+  Tc  Tc1  1  0.76019835  0.45379571  0.58848033  1
+  Tc  Tc2  1  0.58642867  0.76099532  0.45096258  1
+  Tc  Tc3  1  0.45201563  0.58817341  0.76059723  1
+  Mo  Mo0  1  0.23838412  0.54512886  0.41114483  1
+  Mo  Mo1  1  0.41199525  0.24005454  0.54925634  1
+  Se  Se0  1  0.37851017  0.72464610  0.12194105  1
+  Se  Se1  1  0.12344341  0.37632290  0.73139935  1
+  Se  Se2  1  0.73163673  0.12729171  0.37710226  1
+  Se  Se3  1  0.62339962  0.27806415  0.87859154  1
+  Se  Se4  1  0.87029302  0.62358695  0.27610660  1
+  Se  Se5  1  0.27675627  0.87318969  0.62022208  1
+  Se  Se6  1  0.21791398  0.21387895  0.21280788  1
+  Se  Se7  1  0.78094126  0.78183487  0.78020716  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Tc0 Tc1 2.648396 1_555
+Tc0 Tc2 2.654835 1_555
+Tc1 Tc2 2.614245 1_555
+Tc1 Tc3 2.622693 1_555
+Tc2 Tc3 2.621662 1_555
+Mo0 Se6 2.524490 1_555
+Mo0 Se5 2.540434 1_555
+Mo0 Se0 2.543823 1_555
+Mo0 Mo1 2.603299 1_555
+Mo0 Tc0 2.618751 1_555
+Mo0 Se1 2.625086 1_555
+Mo0 Tc2 2.662006 1_555
+Mo0 Tc3 2.665813 1_555
+Mo0 Se4 2.670706 1_455
+Mo1 Se6 2.529603 1_555
+Mo1 Se3 2.544672 1_555
+Mo1 Se1 2.551750 1_555
+Mo1 Tc0 2.617511 1_555
+Mo1 Se2 2.638496 1_555
+Mo1 Se5 2.649501 1_545
+Mo1 Tc1 2.655966 1_555
+Mo1 Tc3 2.660891 1_555
+Se0 Tc2 2.531221 1_555
+Se0 Tc0 2.583474 1_555
+Se0 Tc3 2.641551 1_554
+Se0 Se6 3.556475 1_565
+Se1 Tc3 2.539595 1_555
+Se1 Tc1 2.655208 1_455
+Se1 Se6 3.503999 1_556
+Se2 Tc0 2.524070 1_555
+Se2 Tc1 2.539749 1_555
+Se2 Tc2 2.671591 1_545
+Se2 Se6 3.539330 1_655
+Se3 Tc1 2.527761 1_555
+Se3 Tc3 2.577943 1_555
+Se3 Tc0 2.649428 1_556
+Se4 Tc0 2.499868 1_555
+Se4 Tc2 2.504258 1_555
+Se4 Tc1 2.572145 1_555
+Se5 Tc3 2.503432 1_555
+Se5 Tc2 2.570478 1_555
+Se6 Tc0 2.507058 1_555
+Se7 Tc3 2.483903 1_555
+Se7 Tc1 2.484957 1_555
+Se7 Tc2 2.490067 1_555

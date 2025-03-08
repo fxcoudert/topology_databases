@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_KFeCoP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02135667
+_cell_length_b   7.02135630
+_cell_length_c   7.02135639
+_cell_angle_alpha   149.57395979
+_cell_angle_beta   149.57396228
+_cell_angle_gamma   43.56714417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeCoP2
+_chemical_formula_sum   'K1 Fe1 Co1 P2'
+_cell_volume   88.53271193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe0  1  0.25000000  0.75000000  0.50000000  1
+  Co  Co0  1  0.75000000  0.25000000  0.50000000  1
+  P  P0  1  0.33796386  0.33796386  0.00000000  1
+  P  P1  1  0.66203614  0.66203614  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 P1 3.354679 1_443
+K0 P0 3.354679 1_556
+K0 P1 3.354679 1_454
+K0 P0 3.354679 1_545
+K0 P1 3.354679 1_555
+K0 P0 3.354679 1_444
+K0 P1 3.354680 1_544
+K0 P0 3.354680 1_455
+Fe0 P1 2.170341 1_555
+Fe0 P0 2.170342 1_566
+Fe0 P1 2.170342 1_454
+Fe0 P0 2.170342 1_555
+Co0 P0 2.170341 1_555
+Co0 P1 2.170342 1_544
+Co0 P0 2.170342 1_656
+Co0 P1 2.170342 1_555

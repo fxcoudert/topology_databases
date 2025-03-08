@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_NaSc(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62181997
+_cell_length_b   6.62181978
+_cell_length_c   14.09998189
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSc(PSe3)2
+_chemical_formula_sum   'Na2 Sc2 P4 Se12'
+_cell_volume   535.43148929
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33333300  0.66666700  0.75000000  1
+  Na  Na1  1  0.66666700  0.33333300  0.25000000  1
+  Sc  Sc0  1  0.00000000  0.00000000  0.25000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.75000000  1
+  P  P0  1  0.66666700  0.33333300  0.67117063  1
+  P  P1  1  0.66666700  0.33333300  0.82882937  1
+  P  P2  1  0.33333300  0.66666700  0.32882937  1
+  P  P3  1  0.33333300  0.66666700  0.17117063  1
+  Se  Se0  1  0.66800761  0.70497967  0.12562937  1
+  Se  Se1  1  0.03697205  0.70497967  0.37437063  1
+  Se  Se2  1  0.03697205  0.33199239  0.12562937  1
+  Se  Se3  1  0.33199239  0.29502033  0.87437063  1
+  Se  Se4  1  0.70497967  0.03697205  0.87437063  1
+  Se  Se5  1  0.33199239  0.03697205  0.62562937  1
+  Se  Se6  1  0.70497967  0.66800761  0.62562937  1
+  Se  Se7  1  0.96302795  0.29502033  0.62562937  1
+  Se  Se8  1  0.29502033  0.96302795  0.12562937  1
+  Se  Se9  1  0.66800761  0.96302795  0.37437063  1
+  Se  Se10  1  0.96302795  0.66800761  0.87437063  1
+  Se  Se11  1  0.29502033  0.33199239  0.37437063  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se5 3.018245 1_565
+Na0 Se10 3.018245 1_455
+Na0 Se7 3.018248 1_455
+Na0 Se4 3.018248 1_565
+Na0 Se3 3.018251 1_555
+Na0 Se6 3.018251 1_555
+Na1 Se9 3.018245 1_545
+Na1 Se2 3.018245 1_655
+Na1 Se1 3.018248 1_655
+Na1 Se8 3.018248 1_545
+Na1 Se0 3.018251 1_555
+Na1 Se11 3.018251 1_555
+Sc0 Se11 2.725776 1_555
+Sc0 Se2 2.725776 1_555
+Sc0 Se1 2.725776 1_545
+Sc0 Se0 2.725776 1_445
+Sc0 Se9 2.725776 1_445
+Sc0 Se8 2.725776 1_545
+Sc1 Se10 2.725776 1_445
+Sc1 Se6 2.725776 1_445
+Sc1 Se3 2.725776 1_555
+Sc1 Se7 2.725776 1_455
+Sc1 Se4 2.725776 1_455
+Sc1 Se5 2.725776 1_555
+P0 Se7 2.196764 1_555
+P0 Se5 2.196768 1_555
+P0 Se6 2.196771 1_555
+P0 P1 2.222985 1_555
+P1 Se4 2.196764 1_555
+P1 Se10 2.196768 1_555
+P1 Se3 2.196771 1_555
+P2 Se1 2.196764 1_555
+P2 Se9 2.196768 1_555
+P2 Se11 2.196771 1_555
+P2 P3 2.222985 1_555
+P3 Se8 2.196764 1_555
+P3 Se2 2.196768 1_555
+P3 Se0 2.196771 1_555

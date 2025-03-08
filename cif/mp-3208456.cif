@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Ca3C3ClF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55903764
+_cell_length_b   6.55903808
+_cell_length_c   11.11432419
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.67172549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3C3ClF
+_chemical_formula_sum   'Ca6 C6 Cl2 F2'
+_cell_volume   262.71194639
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.65664241  0.34335759  0.57787365  1
+  Ca  Ca1  1  0.34335759  0.65664241  0.42212635  1
+  Ca  Ca2  1  0.34335759  0.65664241  0.07787365  1
+  Ca  Ca3  1  0.65664241  0.34335759  0.92212635  1
+  Ca  Ca4  1  0.09276637  0.90723363  0.25000000  1
+  Ca  Ca5  1  0.90723363  0.09276637  0.75000000  1
+  C  C0  1  0.28043337  0.71956663  0.63147497  1
+  C  C1  1  0.71956663  0.28043337  0.36852503  1
+  C  C2  1  0.71956663  0.28043337  0.13147497  1
+  C  C3  1  0.28043337  0.71956663  0.86852503  1
+  C  C4  1  0.72939769  0.27060231  0.25000000  1
+  C  C5  1  0.27060231  0.72939769  0.75000000  1
+  Cl  Cl0  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl1  1  0.00000000  0.00000000  0.50000000  1
+  F  F0  1  0.53866092  0.46133908  0.75000000  1
+  F  F1  1  0.46133908  0.53866092  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 F0 2.420372 1_555
+Ca0 Cl1 2.856919 1_555
+Ca0 Cl1 2.856919 1_665
+Ca1 F1 2.420372 1_555
+Ca1 Cl1 2.856919 1_665
+Ca1 Cl1 2.856919 1_555
+Ca2 F1 2.420372 1_555
+Ca2 Cl0 2.856919 1_665
+Ca2 Cl0 2.856919 1_555
+Ca3 F0 2.420372 1_555
+Ca3 Cl0 2.856919 1_556
+Ca3 Cl0 2.856919 1_666
+Ca4 F1 2.503137 1_455
+Ca4 F1 2.503137 1_565
+Ca4 Cl0 3.013241 1_565
+Ca4 Cl1 3.013241 1_565
+Ca5 F0 2.503137 1_655
+Ca5 F0 2.503137 1_545
+Ca5 Cl1 3.013241 1_655
+Ca5 Cl0 3.013241 1_656
+C0 C5 1.323107 1_555
+C0 Ca1 2.457475 1_555
+C0 Ca0 2.512529 1_455
+C0 Ca0 2.512529 1_565
+C0 Ca5 2.795056 1_565
+C0 Ca5 2.795056 1_455
+C1 C4 1.323107 1_555
+C1 Ca0 2.457475 1_555
+C1 Ca1 2.512529 1_655
+C1 Ca1 2.512529 1_545
+C1 Ca4 2.795056 1_545
+C1 Ca4 2.795056 1_655
+C2 C4 1.323107 1_555
+C2 Ca3 2.457475 1_554
+C2 Ca2 2.512529 1_655
+C2 Ca2 2.512529 1_545
+C2 Ca4 2.795056 1_545
+C2 Ca4 2.795056 1_655
+C3 C5 1.323107 1_555
+C3 Ca2 2.457475 1_556
+C3 Ca3 2.512529 1_455
+C3 Ca3 2.512529 1_565
+C3 Ca5 2.795056 1_565
+C3 Ca5 2.795056 1_455
+C4 Ca4 2.546764 1_545
+C4 Ca4 2.546764 1_655
+C5 Ca5 2.546764 1_565
+C5 Ca5 2.546764 1_455

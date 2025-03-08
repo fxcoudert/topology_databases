@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_TiZn(CuTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10946580
+_cell_length_b   5.97768584
+_cell_length_c   5.97768584
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZn(CuTe2)2
+_chemical_formula_sum   'Ti1 Zn1 Cu2 Te4'
+_cell_volume   218.30787937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn0  1  0.49999900  0.00000000  0.00000000  1
+  Cu  Cu0  1  0.00000000  0.49999900  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.49999900  1
+  Te  Te0  1  0.24624679  0.25683593  0.25683593  1
+  Te  Te1  1  0.75375321  0.74316407  0.25683593  1
+  Te  Te2  1  0.75375321  0.25683593  0.74316407  1
+  Te  Te3  1  0.24624679  0.74316407  0.74316407  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ti0 Zn0 3.054727 1_555
+Ti0 Zn0 3.054739 1_455
+Cu0 Te0 2.594849 1_555
+Cu0 Te2 2.594849 1_454
+Cu0 Te1 2.594856 1_455
+Cu0 Te3 2.594856 1_554
+Cu0 Ti0 2.988837 1_555
+Cu0 Ti0 2.988849 1_565
+Cu1 Te0 2.594849 1_555
+Cu1 Te1 2.594849 1_445
+Cu1 Te2 2.594856 1_455
+Cu1 Te3 2.594856 1_545
+Cu1 Ti0 2.988837 1_555
+Cu1 Ti0 2.988849 1_556
+Te0 Ti0 2.641501 1_555
+Te0 Zn0 2.667883 1_555
+Te1 Ti0 2.641501 1_665
+Te1 Zn0 2.667890 1_565
+Te2 Ti0 2.641501 1_656
+Te2 Zn0 2.667890 1_556
+Te3 Ti0 2.641501 1_566
+Te3 Zn0 2.667883 1_566

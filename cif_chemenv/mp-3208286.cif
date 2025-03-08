@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_Ni2HgSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01199048
+_cell_length_b   7.01199013
+_cell_length_c   5.40025830
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2HgSe3
+_chemical_formula_sum   'Ni4 Hg2 Se6'
+_cell_volume   229.94702284
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni2  1  0.00000000  0.50000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.50000000  0.00000000  1
+  Hg  Hg0  1  0.33333300  0.66666600  0.34104289  1
+  Hg  Hg1  1  0.66666700  0.33333400  0.65895711  1
+  Se  Se0  1  0.34291775  0.17145888  0.22251125  1
+  Se  Se1  1  0.82854112  0.17145888  0.22251125  1
+  Se  Se2  1  0.82854012  0.65708225  0.22251125  1
+  Se  Se3  1  0.17145888  0.34291675  0.77748875  1
+  Se  Se4  1  0.17145888  0.82854012  0.77748875  1
+  Se  Se5  1  0.65708125  0.82854012  0.77748875  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ni0 Se3 2.404206 1_554
+Ni0 Se1 2.404211 1_455
+Ni0 Se2 2.404211 1_445
+Ni0 Se0 2.404211 1_555
+Ni0 Se4 2.404216 1_544
+Ni0 Se5 2.404217 1_444
+Ni1 Se0 2.329548 1_555
+Ni1 Se1 2.329549 1_555
+Ni1 Se5 2.329549 1_544
+Ni1 Se4 2.329549 1_544
+Ni2 Se4 2.329543 1_554
+Ni2 Se1 2.329549 1_455
+Ni2 Se3 2.329554 1_554
+Ni2 Se2 2.329554 1_455
+Ni3 Se2 2.329543 1_555
+Ni3 Se5 2.329543 1_554
+Ni3 Se3 2.329548 1_554
+Ni3 Se0 2.329548 1_555
+Hg0 Ni3 2.736651 1_555
+Hg0 Ni2 2.736651 1_555
+Hg0 Ni1 2.736655 1_565
+Hg0 Se4 3.069227 1_555
+Hg0 Se5 3.069227 1_555
+Hg0 Se3 3.069231 1_555
+Hg1 Ni3 2.736651 1_556
+Hg1 Ni2 2.736651 1_656
+Hg1 Ni1 2.736655 1_556
+Hg1 Se2 3.069227 1_555
+Hg1 Se1 3.069231 1_555
+Hg1 Se0 3.069231 1_555

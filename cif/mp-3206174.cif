@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Lu7(PdSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81035874
+_cell_length_b   8.91057877
+_cell_length_c   8.91057840
+_cell_angle_alpha   112.03670553
+_cell_angle_beta   102.34578496
+_cell_angle_gamma   102.34577974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu7(PdSe)2
+_chemical_formula_sum   'Lu7 Pd2 Se2'
+_cell_volume   259.10431597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.01424269  0.01424269  0.01424269  1
+  Lu  Lu1  1  0.41561605  0.53912150  0.29210960  1
+  Lu  Lu2  1  0.62723521  0.94443557  0.31003486  1
+  Lu  Lu3  1  0.41561605  0.29210960  0.53912150  1
+  Lu  Lu4  1  0.26452786  0.89967581  0.62938191  1
+  Lu  Lu5  1  0.26452786  0.62938191  0.89967581  1
+  Lu  Lu6  1  0.62723521  0.31003486  0.94443557  1
+  Pd  Pd0  1  0.92914145  0.69084150  0.16743741  1
+  Pd  Pd1  1  0.92914145  0.16743741  0.69084150  1
+  Se  Se0  1  0.76705576  0.26705476  0.26705476  1
+  Se  Se1  1  0.65906239  0.65906239  0.65906239  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Se0 3.007164 1_455
+Lu0 Se0 3.007168 1_555
+Lu0 Se1 3.268765 1_444
+Lu1 Pd0 2.795673 1_455
+Lu1 Pd0 2.795680 1_555
+Lu1 Se1 2.889770 1_555
+Lu1 Se0 2.971543 1_455
+Lu1 Se0 2.971545 1_555
+Lu2 Pd0 2.761518 1_455
+Lu2 Pd0 2.761529 1_555
+Lu2 Se0 2.992161 1_565
+Lu2 Pd1 3.013199 1_565
+Lu3 Pd1 2.795673 1_455
+Lu3 Pd1 2.795680 1_555
+Lu3 Se1 2.889770 1_555
+Lu3 Se0 2.971543 1_455
+Lu3 Se0 2.971545 1_555
+Lu4 Pd1 2.871976 1_465
+Lu4 Pd1 2.871991 1_565
+Lu4 Se1 2.925815 1_455
+Lu4 Se1 2.925820 1_555
+Lu5 Pd0 2.871976 1_456
+Lu5 Pd0 2.871990 1_556
+Lu5 Se1 2.925815 1_455
+Lu5 Se1 2.925820 1_555
+Lu6 Pd1 2.761518 1_455
+Lu6 Pd1 2.761529 1_555
+Lu6 Se0 2.992161 1_556
+Lu6 Pd0 3.013199 1_556

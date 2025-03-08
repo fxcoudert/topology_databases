@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_K4Sr(GeSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49695147
+_cell_length_b   7.49695102
+_cell_length_c   8.66939072
+_cell_angle_alpha   81.61179112
+_cell_angle_beta   81.61178557
+_cell_angle_gamma   119.80705717
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Sr(GeSe3)2
+_chemical_formula_sum   'K4 Sr1 Ge2 Se6'
+_cell_volume   404.50900294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50846054  0.49153946  0.00000000  1
+  K  K1  1  0.81951307  0.18048693  1.00000000  1
+  K  K2  1  0.17306278  0.82693722  0.00000000  1
+  K  K3  1  0.66660676  0.33339324  0.50000000  1
+  Sr  Sr0  1  0.33496100  0.66503900  0.50000000  1
+  Ge  Ge0  1  0.04778439  0.04974976  0.35245108  1
+  Ge  Ge1  1  0.95025024  0.95221561  0.64754892  1
+  Se  Se0  1  0.76865128  0.78874268  0.26392923  1
+  Se  Se1  1  0.21125732  0.23134872  0.73607077  1
+  Se  Se2  1  0.09870412  0.39155065  0.26565357  1
+  Se  Se3  1  0.36995396  0.05765781  0.27063367  1
+  Se  Se4  1  0.94234219  0.63004604  0.72936633  1
+  Se  Se5  1  0.60844935  0.90129588  0.73434643  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Se2 3.231959 1_555
+K0 Se5 3.231959 1_554
+K0 Se3 3.296712 1_555
+K0 Se4 3.296712 1_554
+K0 Se0 3.531810 1_555
+K0 Se1 3.531810 1_554
+K1 Se1 3.267670 1_655
+K1 Se0 3.267670 1_546
+K1 Se5 3.371329 1_545
+K1 Se2 3.371329 1_656
+K1 Se4 3.418911 1_555
+K1 Se3 3.418911 1_556
+K2 Se3 3.214291 1_565
+K2 Se4 3.214291 1_454
+K2 Se0 3.381025 1_455
+K2 Se1 3.381025 1_564
+K2 Se5 3.448505 1_554
+K2 Se2 3.448505 1_555
+K3 Se4 3.330517 1_555
+K3 Se3 3.330517 1_555
+K3 Se5 3.350927 1_545
+K3 Se2 3.350927 1_655
+K3 Se0 3.366874 1_555
+K3 Se1 3.366874 1_555
+Ge0 Se0 2.373353 1_445
+Ge0 Se2 2.378930 1_555
+Ge0 Se3 2.384490 1_555
+Ge1 Se1 2.373353 1_665
+Ge1 Se5 2.378930 1_555
+Ge1 Se4 2.384490 1_555
+Se0 Sr0 3.182299 1_555
+Se1 Sr0 3.182299 1_555
+Se2 Sr0 3.181736 1_555
+Se3 Sr0 3.171618 1_545
+Se4 Sr0 3.171618 1_655
+Se5 Sr0 3.181736 1_555

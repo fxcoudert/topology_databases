@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Al2SnI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87843574
+_cell_length_b   8.36709055
+_cell_length_c   15.27932074
+_cell_angle_alpha   87.92591996
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2SnI8
+_chemical_formula_sum   'Al4 Sn2 I16'
+_cell_volume   1006.54663332
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.93553569  0.21676581  0.57989682  1
+  Al  Al1  1  0.06446431  0.21676581  0.07989682  1
+  Al  Al2  1  0.56443797  0.64445228  0.77759137  1
+  Al  Al3  1  0.43556203  0.64445228  0.27759137  1
+  Sn  Sn0  1  0.75626037  0.07437373  0.81138838  1
+  Sn  Sn1  1  0.24373963  0.07437373  0.31138838  1
+  I  I0  1  0.41658254  0.61798003  0.63512582  1
+  I  I1  1  0.58341746  0.61798003  0.13512582  1
+  I  I2  1  0.87827878  0.73246364  0.75796569  1
+  I  I3  1  0.12172122  0.73246364  0.25796569  1
+  I  I4  1  0.94188689  0.47570625  0.49505790  1
+  I  I5  1  0.05811311  0.47570625  0.99505790  1
+  I  I6  1  0.92956042  0.98128159  0.00201062  1
+  I  I7  1  0.07043958  0.98128159  0.50201062  1
+  I  I8  1  0.62706424  0.13086918  0.61843175  1
+  I  I9  1  0.37293576  0.13086918  0.11843175  1
+  I  I10  1  0.55453898  0.39201161  0.87810517  1
+  I  I11  1  0.44546102  0.39201161  0.37810517  1
+  I  I12  1  0.42766743  0.86743842  0.86704792  1
+  I  I13  1  0.57233257  0.86743842  0.36704792  1
+  I  I14  1  0.91325609  0.23405746  0.22957956  1
+  I  I15  1  0.08674391  0.23405746  0.72957956  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 I4 2.484677 1_555
+Al0 I7 2.568599 1_645
+Al0 I15 2.587401 1_655
+Al0 I8 2.595920 1_555
+Al1 I5 2.484677 1_554
+Al1 I6 2.568599 1_445
+Al1 I14 2.587401 1_455
+Al1 I9 2.595920 1_555
+Al2 I0 2.485807 1_555
+Al2 I10 2.567347 1_555
+Al2 I12 2.587455 1_555
+Al2 I2 2.594195 1_555
+Al3 I1 2.485807 1_555
+Al3 I11 2.567347 1_555
+Al3 I13 2.587455 1_555
+Al3 I3 2.594195 1_555
+I2 Sn0 3.153343 1_565
+I3 Sn1 3.153343 1_565
+I6 Sn0 3.284774 1_564
+I7 Sn1 3.284774 1_565
+I8 Sn0 3.138594 1_555
+I9 Sn1 3.138594 1_555
+I10 Sn0 3.290040 1_555
+I11 Sn1 3.290040 1_555
+I12 Sn0 3.211923 1_565
+I13 Sn1 3.211923 1_565
+I14 Sn1 3.163214 1_655
+I15 Sn0 3.163214 1_455

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Hf4InPbC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33554657
+_cell_length_b   3.33554585
+_cell_length_c   14.67743236
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4InPbC2
+_chemical_formula_sum   'Hf4 In1 Pb1 C2'
+_cell_volume   141.42124456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33333300  0.66666700  0.41793789  1
+  Hf  Hf1  1  0.66666700  0.33333300  0.58176812  1
+  Hf  Hf2  1  0.66666700  0.33333300  0.91823188  1
+  Hf  Hf3  1  0.33333300  0.66666700  0.08206211  1
+  In  In0  1  0.33333300  0.66666700  0.75000000  1
+  Pb  Pb0  1  0.66666700  0.33333300  0.25000000  1
+  C  C0  1  0.00000000  0.00000000  0.49966758  1
+  C  C1  1  0.00000000  0.00000000  0.00033242  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Pb0 3.127992 1_565
+Hf0 Pb0 3.127992 1_455
+Hf0 Pb0 3.127995 1_555
+Hf1 In0 3.131393 1_545
+Hf1 In0 3.131393 1_655
+Hf1 In0 3.131397 1_555
+Hf2 In0 3.131393 1_545
+Hf2 In0 3.131393 1_655
+Hf2 In0 3.131397 1_555
+Hf3 Pb0 3.127992 1_565
+Hf3 Pb0 3.127992 1_455
+Hf3 Pb0 3.127995 1_555
+C0 Hf0 2.268835 1_545
+C0 Hf0 2.268837 1_555
+C0 Hf0 2.268838 1_445
+C0 Hf1 2.271718 1_455
+C0 Hf1 2.271720 1_445
+C0 Hf1 2.271720 1_555
+C1 Hf3 2.268835 1_545
+C1 Hf3 2.268837 1_555
+C1 Hf3 2.268838 1_445
+C1 Hf2 2.271718 1_454
+C1 Hf2 2.271720 1_444
+C1 Hf2 2.271720 1_554

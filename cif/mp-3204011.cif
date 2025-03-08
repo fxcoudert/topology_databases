@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_NaIn(GaI3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.53160034
+_cell_length_b   7.59863053
+_cell_length_c   9.15211044
+_cell_angle_alpha   90.82001964
+_cell_angle_beta   90.38974345
+_cell_angle_gamma   89.64990116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIn(GaI3)2
+_chemical_formula_sum   'Na2 In2 Ga4 I12'
+_cell_volume   871.36624880
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.50000000  0.00000000  1
+  In  In0  1  0.50000000  0.00000000  0.50000000  1
+  In  In1  1  0.50000000  0.50000000  0.00000000  1
+  Ga  Ga0  1  0.23535692  0.03772635  0.97643825  1
+  Ga  Ga1  1  0.76543260  0.85700626  0.76857547  1
+  Ga  Ga2  1  0.76464308  0.96227365  0.02356175  1
+  Ga  Ga3  1  0.23456740  0.14299374  0.23142453  1
+  I  I0  1  0.76330392  0.30476163  0.05845881  1
+  I  I1  1  0.60648973  0.65381467  0.68418687  1
+  I  I2  1  0.06897831  0.33500121  0.31059486  1
+  I  I3  1  0.39351027  0.34618533  0.31581313  1
+  I  I4  1  0.07447802  0.16376687  0.82279203  1
+  I  I5  1  0.59637535  0.86083194  0.17048548  1
+  I  I6  1  0.92552198  0.83623313  0.17720797  1
+  I  I7  1  0.40362465  0.13916806  0.82951452  1
+  I  I8  1  0.23669608  0.69523837  0.94154119  1
+  I  I9  1  0.76346785  0.12318481  0.58771360  1
+  I  I10  1  0.23653215  0.87681519  0.41228640  1
+  I  I11  1  0.93102169  0.66499879  0.68940514  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 Ga3 2.456153 1_556
+Ga0 I8 2.617389 1_545
+Ga0 I4 2.633542 1_555
+Ga0 I7 2.633789 1_555
+Ga1 Ga2 2.456153 1_556
+Ga1 I11 2.629238 1_555
+Ga1 I9 2.631742 1_565
+Ga1 I1 2.632525 1_555
+Ga2 I0 2.617389 1_565
+Ga2 I6 2.633542 1_555
+Ga2 I5 2.633789 1_555
+Ga3 I2 2.629238 1_555
+Ga3 I10 2.631742 1_545
+Ga3 I3 2.632525 1_555
+I0 Na1 3.373939 1_655
+I1 In0 3.405226 1_565
+I1 In1 3.416035 1_556
+I2 Na0 3.225753 1_555
+I2 Na1 3.233393 1_555
+I3 In0 3.405226 1_555
+I3 In1 3.416035 1_555
+I4 Na1 3.146720 1_556
+I4 Na0 3.319422 1_555
+I5 In1 3.362019 1_555
+I5 In0 3.407981 1_565
+I6 Na1 3.146720 1_655
+I6 Na0 3.319422 1_665
+I7 In1 3.362019 1_556
+I7 In0 3.407981 1_555
+I8 Na1 3.373939 1_556
+I9 Na0 3.206805 1_655
+I9 In0 3.521625 1_555
+I10 Na0 3.206805 1_565
+I10 In0 3.521625 1_565
+I11 Na0 3.225753 1_665
+I11 Na1 3.233393 1_656

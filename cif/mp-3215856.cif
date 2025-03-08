@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Bi4IrRh3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18433418
+_cell_length_b   6.18433418
+_cell_length_c   6.18433418
+_cell_angle_alpha   89.91319781
+_cell_angle_beta   89.91319781
+_cell_angle_gamma   89.91319781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi4IrRh3S4
+_chemical_formula_sum   'Bi4 Ir1 Rh3 S4'
+_cell_volume   236.52516553
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.12968011  0.62670140  0.87028923  1
+  Bi  Bi1  1  0.62670140  0.87028923  0.12968011  1
+  Bi  Bi2  1  0.87028923  0.12968011  0.62670140  1
+  Bi  Bi3  1  0.37246437  0.37246437  0.37246437  1
+  Ir  Ir0  1  0.02043116  0.02043116  0.02043116  1
+  Rh  Rh0  1  0.47805961  0.98025165  0.52130961  1
+  Rh  Rh1  1  0.98025165  0.52130961  0.47805961  1
+  Rh  Rh2  1  0.52130961  0.47805961  0.98025165  1
+  S  S0  1  0.88457533  0.37887352  0.11831310  1
+  S  S1  1  0.37887352  0.11831310  0.88457533  1
+  S  S2  1  0.11831310  0.88457533  0.37887352  1
+  S  S3  1  0.61905191  0.61905191  0.61905191  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Bi0 S0 2.644296 1_456
+Bi0 Rh2 2.677641 1_555
+Bi0 Rh1 2.678830 1_455
+Bi0 Ir0 2.692140 1_566
+Bi1 S1 2.644296 1_564
+Bi1 Rh0 2.677641 1_555
+Bi1 Rh2 2.678830 1_554
+Bi1 Ir0 2.692140 1_665
+Bi2 S2 2.644296 1_645
+Bi2 Rh1 2.677641 1_555
+Bi2 Rh0 2.678830 1_545
+Bi2 Ir0 2.692140 1_656
+Bi3 S3 2.645341 1_555
+Bi3 Rh0 2.673474 1_545
+Bi3 Rh1 2.673474 1_455
+Bi3 Rh2 2.673474 1_554
+Ir0 S1 2.446036 1_554
+Ir0 S0 2.446036 1_455
+Ir0 S2 2.446036 1_545
+Rh0 S2 2.467235 1_555
+Rh0 S3 2.471244 1_555
+Rh0 S1 2.480389 1_565
+Rh1 S0 2.467235 1_555
+Rh1 S3 2.471244 1_555
+Rh1 S2 2.480389 1_655
+Rh2 S1 2.467235 1_555
+Rh2 S3 2.471244 1_555
+Rh2 S0 2.480389 1_556

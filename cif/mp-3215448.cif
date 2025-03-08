@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_ReAgO3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.09785946
+_cell_length_b   3.87558107
+_cell_length_c   5.69043270
+_cell_angle_alpha   70.39723957
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgO3F2
+_chemical_formula_sum   'Re2 Ag2 O6 F4'
+_cell_volume   209.78835530
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.25000000  0.78623318  0.04981904  1
+  Re  Re1  1  0.75000000  0.21376682  0.95018096  1
+  Ag  Ag0  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag1  1  0.00000000  0.00000000  0.50000000  1
+  O  O0  1  0.61680344  0.17553803  0.14927466  1
+  O  O1  1  0.38319656  0.82446197  0.85072534  1
+  O  O2  1  0.11680344  0.82446197  0.85072534  1
+  O  O3  1  0.25000000  0.21539873  0.09320218  1
+  O  O4  1  0.75000000  0.78460127  0.90679782  1
+  O  O5  1  0.88319656  0.17553803  0.14927466  1
+  F  F0  1  0.87276033  0.42137980  0.65952867  1
+  F  F1  1  0.12723967  0.57862020  0.34047133  1
+  F  F2  1  0.37276033  0.57862020  0.34047133  1
+  F  F3  1  0.62723967  0.42137980  0.65952867  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ag0 O1 2.219471 1_545
+Ag0 O0 2.219471 1_555
+Ag0 F3 2.477226 1_555
+Ag0 F2 2.477226 1_545
+Ag0 F3 2.477444 1_545
+Ag0 F2 2.477444 1_555
+Ag1 O2 2.219471 1_545
+Ag1 O5 2.219471 1_455
+Ag1 F0 2.477226 1_455
+Ag1 F1 2.477226 1_545
+Ag1 F1 2.477444 1_555
+Ag1 F0 2.477444 1_445
+O0 Re1 1.732592 1_554
+O1 Re0 1.732592 1_556
+O2 Re0 1.732592 1_556
+O3 Re0 1.761509 1_545
+O3 Re0 2.142153 1_555
+O4 Re1 1.761509 1_565
+O4 Re1 2.142153 1_555
+O5 Re1 1.732592 1_554
+F0 Re1 2.006644 1_555
+F1 Re0 2.006644 1_555
+F2 Re0 2.006644 1_555
+F3 Re1 2.006644 1_555

@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_NaLiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59733333
+_cell_length_b   7.65024696
+_cell_length_c   8.30814260
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiTe
+_chemical_formula_sum   'Na4 Li4 Te4'
+_cell_volume   292.20348448
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.48712204  0.68590547  1
+  Na  Na1  1  0.25000000  0.01287796  0.18590547  1
+  Na  Na2  1  0.75000000  0.98712204  0.81409453  1
+  Na  Na3  1  0.25000000  0.51287796  0.31409453  1
+  Li  Li0  1  0.25000000  0.64331490  0.92645552  1
+  Li  Li1  1  0.25000000  0.14331490  0.57354448  1
+  Li  Li2  1  0.75000000  0.35668610  0.07354448  1
+  Li  Li3  1  0.75000000  0.85668510  0.42645552  1
+  Te  Te0  1  0.25000000  0.77410787  0.60470949  1
+  Te  Te1  1  0.25000000  0.27410787  0.89529051  1
+  Te  Te2  1  0.75000000  0.72589213  0.10470949  1
+  Te  Te3  1  0.75000000  0.22589213  0.39529051  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Te3 3.134256 1_555
+Na0 Te0 3.249494 1_555
+Na0 Te0 3.249494 1_655
+Na0 Te1 3.311452 1_555
+Na0 Te1 3.311452 1_655
+Na0 Na3 3.855512 1_655
+Na0 Na3 3.855512 1_555
+Na1 Te1 3.134256 1_554
+Na1 Te2 3.249494 1_545
+Na1 Te2 3.249494 1_445
+Na1 Te3 3.311452 1_555
+Na1 Te3 3.311452 1_455
+Na1 Na2 3.855512 1_544
+Na1 Na2 3.855512 1_444
+Na2 Te2 3.134256 1_556
+Na2 Te1 3.249494 1_565
+Na2 Te1 3.249494 1_665
+Na2 Te0 3.311452 1_555
+Na2 Te0 3.311452 1_655
+Na3 Te0 3.134256 1_555
+Na3 Te3 3.249494 1_555
+Na3 Te3 3.249494 1_455
+Na3 Te2 3.311452 1_555
+Na3 Te2 3.311452 1_455
+Li0 Te2 2.806457 1_556
+Li0 Te2 2.806457 1_456
+Li0 Te1 2.836368 1_555
+Li0 Te0 2.854247 1_555
+Li0 Na0 3.271970 1_555
+Li0 Na0 3.271970 1_455
+Li0 Na3 3.371611 1_556
+Li0 Li2 3.403752 1_456
+Li0 Li2 3.403752 1_556
+Li0 Na1 3.555238 1_566
+Li0 Na2 3.615704 1_455
+Li0 Na2 3.615704 1_555
+Li1 Te3 2.806457 1_455
+Li1 Te3 2.806457 1_555
+Li1 Te0 2.836368 1_545
+Li1 Te1 2.854247 1_555
+Li1 Na2 3.271970 1_545
+Li1 Na2 3.271970 1_445
+Li1 Na1 3.371611 1_555
+Li1 Li3 3.403757 1_445
+Li1 Li3 3.403757 1_545
+Li1 Na3 3.555238 1_555
+Li1 Na0 3.615704 1_455
+Li1 Na0 3.615704 1_555
+Li2 Te1 2.806459 1_554
+Li2 Te1 2.806459 1_654
+Li2 Te2 2.836360 1_555
+Li2 Te3 2.854249 1_555
+Li2 Na3 3.271967 1_655
+Li2 Na3 3.271967 1_555
+Li2 Na0 3.371609 1_554
+Li2 Na2 3.555244 1_544
+Li2 Na1 3.615709 1_555
+Li2 Na1 3.615709 1_655
+Li3 Te0 2.806457 1_655
+Li3 Te0 2.806457 1_555
+Li3 Te3 2.836368 1_565
+Li3 Te2 2.854247 1_555
+Li3 Na1 3.271970 1_665
+Li3 Na1 3.271970 1_565
+Li3 Na2 3.371611 1_555
+Li3 Na0 3.555238 1_555
+Li3 Na3 3.615704 1_555
+Li3 Na3 3.615704 1_655

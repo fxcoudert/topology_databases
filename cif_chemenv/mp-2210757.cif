@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_EuMgTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36308022
+_cell_length_b   4.36294583
+_cell_length_c   4.36445091
+_cell_angle_alpha   81.04817370
+_cell_angle_beta   81.04787333
+_cell_angle_gamma   81.05107344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMgTiO3
+_chemical_formula_sum   'Eu1 Mg1 Ti1 O3'
+_cell_volume   80.33176957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.39231879  0.39231984  0.39233062  1
+  Mg  Mg0  1  0.73512211  0.73511536  0.73520112  1
+  Ti  Ti0  1  0.04284231  0.04283804  0.04287558  1
+  O  O0  1  0.02679441  0.02679552  0.52593719  1
+  O  O1  1  0.02686084  0.52607275  0.02683074  1
+  O  O2  1  0.52606154  0.02685848  0.02682474  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Eu0 O0 2.374690 1_555
+Eu0 O2 2.374886 1_555
+Eu0 O1 2.374900 1_555
+Eu0 Mg0 2.966851 1_555
+Eu0 O0 3.063618 1_565
+Eu0 O0 3.063678 1_655
+Eu0 O2 3.064004 1_565
+Eu0 O1 3.064081 1_655
+Eu0 O2 3.064437 1_556
+Eu0 O1 3.064468 1_556
+Mg0 O0 1.963036 1_665
+Mg0 O2 1.963111 1_566
+Mg0 O1 1.963121 1_656
+O0 Ti0 2.089111 1_555
+O0 Ti0 2.280319 1_556
+O1 Ti0 2.089173 1_555
+O1 Ti0 2.278736 1_565
+O2 Ti0 2.089168 1_555
+O2 Ti0 2.278876 1_655

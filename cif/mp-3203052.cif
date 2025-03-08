@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_Li3AgP8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07609087
+_cell_length_b   6.15688897
+_cell_length_c   7.75206489
+_cell_angle_alpha   66.13975806
+_cell_angle_beta   89.53822363
+_cell_angle_gamma   88.80721187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3AgP8
+_chemical_formula_sum   'Li3 Ag1 P8'
+_cell_volume   221.52065446
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.95570811  0.13854503  0.09670126  1
+  Li  Li1  1  0.45312727  0.85358570  0.40996210  1
+  Li  Li2  1  0.04421411  0.86047316  0.89821603  1
+  Ag  Ag0  1  0.55077659  0.14341857  0.59241155  1
+  P  P0  1  0.59215117  0.40799763  0.91677454  1
+  P  P1  1  0.08964620  0.59193364  0.58477075  1
+  P  P2  1  0.40700866  0.59133805  0.08570106  1
+  P  P3  1  0.90975249  0.41385126  0.41450407  1
+  P  P4  1  0.23620886  0.27463593  0.30283916  1
+  P  P5  1  0.73257341  0.72736716  0.19348901  1
+  P  P6  1  0.76063246  0.72354998  0.69928593  1
+  P  P7  1  0.26820067  0.27330589  0.80534353  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 P0 2.478992 1_554
+Li0 P4 2.540192 1_655
+Li0 P7 2.605170 1_654
+Li0 P5 2.612228 1_545
+Li1 P1 2.480554 1_555
+Li1 P5 2.530386 1_555
+Li1 P6 2.580612 1_555
+Li1 P4 2.603197 1_565
+Li2 P2 2.493443 1_556
+Li2 P6 2.509779 1_455
+Li2 P5 2.625165 1_456
+Li2 P7 2.626458 1_565
+Ag0 P3 2.494555 1_555
+Ag0 P7 2.530547 1_555
+Ag0 P6 2.582771 1_545
+Ag0 P4 2.603521 1_555
+Ag0 Li1 2.742338 1_545
+P0 P6 2.178179 1_555
+P0 P7 2.190242 1_555
+P0 P2 2.237003 1_556
+P1 P6 2.176168 1_455
+P1 P7 2.197934 1_555
+P1 P3 2.238331 1_455
+P2 P5 2.185575 1_555
+P2 P4 2.186022 1_555
+P3 P5 2.178838 1_555
+P3 P4 2.179003 1_655

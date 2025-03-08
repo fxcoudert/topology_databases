@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_TaTe4Au3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28242222
+_cell_length_b   6.28242222
+_cell_length_c   6.28242222
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTe4Au3
+_chemical_formula_sum   'Ta1 Te4 Au3'
+_cell_volume   247.95984776
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.24937233  0.75062767  0.75062767  1
+  Te  Te1  1  0.24937233  0.24937233  0.24937233  1
+  Te  Te2  1  0.75062767  0.24937233  0.75062767  1
+  Te  Te3  1  0.75062767  0.75062767  0.24937233  1
+  Au  Au0  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au2  1  0.00000000  0.00000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ta0 Te1 2.713539 1_555
+Ta0 Te3 2.713539 1_445
+Ta0 Te2 2.713539 1_454
+Ta0 Te0 2.713539 1_544
+Au0 Te1 2.718100 1_555
+Au0 Te3 2.718100 1_455
+Au0 Te0 2.718100 1_554
+Au0 Te2 2.718100 1_454
+Au0 Ta0 3.141211 1_565
+Au0 Ta0 3.141211 1_555
+Au1 Te1 2.718100 1_555
+Au1 Te2 2.718100 1_554
+Au1 Te3 2.718100 1_545
+Au1 Te0 2.718100 1_544
+Au1 Ta0 3.141211 1_655
+Au1 Ta0 3.141211 1_555
+Au2 Te0 2.718100 1_545
+Au2 Te1 2.718100 1_555
+Au2 Te2 2.718100 1_455
+Au2 Te3 2.718100 1_445
+Au2 Ta0 3.141211 1_556
+Au2 Ta0 3.141211 1_555

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_Ta(BrF2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49345667
+_cell_length_b   8.12060095
+_cell_length_c   10.03218537
+_cell_angle_alpha   86.98045918
+_cell_angle_beta   81.23341390
+_cell_angle_gamma   79.43655875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta(BrF2)3
+_chemical_formula_sum   'Ta2 Br6 F12'
+_cell_volume   434.67212972
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.45503488  0.76925295  0.80721133  1
+  Ta  Ta1  1  0.54496512  0.23074705  0.19278867  1
+  Br  Br0  1  0.09817089  0.37518814  0.80853337  1
+  Br  Br1  1  0.90182911  0.62481186  0.19146663  1
+  Br  Br2  1  0.82845772  0.20226526  0.76883875  1
+  Br  Br3  1  0.17154228  0.79773474  0.23116125  1
+  Br  Br4  1  0.17393964  0.77780031  0.46210223  1
+  Br  Br5  1  0.82606036  0.22219969  0.53789777  1
+  F  F0  1  0.28003819  0.25388533  0.09098857  1
+  F  F1  1  0.71996181  0.74611467  0.90901143  1
+  F  F2  1  0.33176834  0.32385356  0.34685226  1
+  F  F3  1  0.66823166  0.67614644  0.65314774  1
+  F  F4  1  0.60814478  0.45371286  0.13816648  1
+  F  F5  1  0.39185522  0.54628714  0.86183352  1
+  F  F6  1  0.50402074  0.00797974  0.24924206  1
+  F  F7  1  0.49597926  0.99202026  0.75075794  1
+  F  F8  1  0.17653299  0.79375526  0.70351090  1
+  F  F9  1  0.82346701  0.20624474  0.29648910  1
+  F  F10  1  0.22116291  0.85332671  0.96063841  1
+  F  F11  1  0.77883709  0.14667329  0.03936159  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Br0 Br2 2.308114 1_455
+Br0 F5 2.445899 1_555
+Br1 Br3 2.308114 1_655
+Br1 F4 2.445899 1_555
+Br2 Br5 2.315847 1_555
+Br3 Br4 2.315847 1_555
+Br4 F8 2.434467 1_555
+Br5 F9 2.434467 1_555
+F0 Ta1 1.878558 1_555
+F1 Ta0 1.878558 1_555
+F2 Ta1 1.891789 1_555
+F3 Ta0 1.891789 1_555
+F4 Ta1 1.940871 1_555
+F5 Ta0 1.940871 1_555
+F6 Ta1 1.909518 1_555
+F7 Ta0 1.909518 1_555
+F8 Ta0 1.953038 1_555
+F9 Ta1 1.953038 1_555
+F10 Ta0 1.916306 1_555
+F11 Ta1 1.916306 1_555

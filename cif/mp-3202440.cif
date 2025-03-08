@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Lu4GaS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70735561
+_cell_length_b   6.70735650
+_cell_length_c   6.70735558
+_cell_angle_alpha   131.89070662
+_cell_angle_beta   131.89069713
+_cell_angle_gamma   70.40170611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4GaS3
+_chemical_formula_sum   'Lu4 Ga1 S3'
+_cell_volume   163.86776675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.75029381  0.75029381  1.00000000  1
+  Lu  Lu1  1  0.24970719  0.24970719  0.00000000  1
+  Lu  Lu2  1  0.00000000  0.50000000  0.50000000  1
+  Lu  Lu3  1  0.50000000  0.00000000  0.50000000  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  S  S0  1  0.50000000  0.50000000  0.00000000  1
+  S  S1  1  0.25000000  0.75000000  0.50000000  1
+  S  S2  1  0.75000000  0.25000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 S2 2.733972 1_566
+Lu0 S2 2.733972 1_555
+Lu0 S1 2.733973 1_555
+Lu0 S1 2.733973 1_656
+Lu0 S0 2.743633 1_556
+Lu1 S1 2.733972 1_544
+Lu1 S1 2.733972 1_555
+Lu1 S2 2.733973 1_555
+Lu1 S2 2.733973 1_454
+Lu1 S0 2.743622 1_555
+Lu2 S0 2.733971 1_556
+Lu2 S0 2.733971 1_455
+Lu2 S1 2.740412 1_555
+Lu2 S2 2.740412 1_455
+Lu3 S0 2.733970 1_545
+Lu3 S0 2.733970 1_556
+Lu3 S2 2.740412 1_555
+Lu3 S1 2.740412 1_545
+Ga0 Lu2 2.733970 1_555
+Ga0 Lu2 2.733970 1_544
+Ga0 Lu3 2.733971 1_454
+Ga0 Lu3 2.733971 1_555
+Ga0 Lu0 2.737191 1_444
+Ga0 Lu1 2.737202 1_555

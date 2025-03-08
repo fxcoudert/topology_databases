@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_LiIn(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45475021
+_cell_length_b   6.45474934
+_cell_length_c   14.01902694
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn(PSe3)2
+_chemical_formula_sum   'Li2 In2 P4 Se12'
+_cell_volume   505.83314398
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66666700  0.33333300  0.25000000  1
+  Li  Li1  1  0.33333300  0.66666700  0.75000000  1
+  In  In0  1  0.00000000  0.00000000  0.25000000  1
+  In  In1  1  0.00000000  0.00000000  0.75000000  1
+  P  P0  1  0.66666700  0.33333300  0.67028531  1
+  P  P1  1  0.66666700  0.33333300  0.82971469  1
+  P  P2  1  0.33333300  0.66666700  0.32971469  1
+  P  P3  1  0.33333300  0.66666700  0.17028531  1
+  Se  Se0  1  0.99202815  0.33314525  0.87406169  1
+  Se  Se1  1  0.34111710  0.33314525  0.62593831  1
+  Se  Se2  1  0.99202815  0.65888290  0.62593831  1
+  Se  Se3  1  0.66685475  0.00797185  0.62593831  1
+  Se  Se4  1  0.33314525  0.34111710  0.12593831  1
+  Se  Se5  1  0.65888290  0.99202815  0.12593831  1
+  Se  Se6  1  0.00797185  0.66685475  0.12593831  1
+  Se  Se7  1  0.65888290  0.66685475  0.37406169  1
+  Se  Se8  1  0.00797185  0.34111710  0.37406169  1
+  Se  Se9  1  0.33314525  0.99202815  0.37406169  1
+  Se  Se10  1  0.66685475  0.65888290  0.87406169  1
+  Se  Se11  1  0.34111710  0.00797185  0.87406169  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Se5 2.787491 1_545
+Li0 Se8 2.787492 1_655
+Li0 Se9 2.787494 1_545
+Li0 Se6 2.787494 1_655
+Li0 Se7 2.787496 1_555
+Li0 Se4 2.787497 1_555
+Li1 Se11 2.787491 1_565
+Li1 Se2 2.787492 1_455
+Li1 Se3 2.787494 1_565
+Li1 Se0 2.787494 1_455
+Li1 Se1 2.787496 1_555
+Li1 Se10 2.787497 1_555
+In0 Se4 2.786088 1_555
+In0 Se7 2.786088 1_445
+In0 Se8 2.786088 1_555
+In0 Se6 2.786088 1_545
+In0 Se5 2.786088 1_445
+In0 Se9 2.786088 1_545
+In1 Se10 2.786088 1_445
+In1 Se1 2.786088 1_555
+In1 Se2 2.786088 1_445
+In1 Se0 2.786088 1_455
+In1 Se11 2.786088 1_555
+In1 Se3 2.786088 1_455
+P0 Se3 2.190795 1_555
+P0 Se2 2.190798 1_555
+P0 Se1 2.190802 1_555
+P0 P1 2.235045 1_555
+P1 Se0 2.190795 1_555
+P1 Se11 2.190798 1_555
+P1 Se10 2.190801 1_555
+P2 Se9 2.190795 1_555
+P2 Se8 2.190798 1_555
+P2 Se7 2.190802 1_555
+P2 P3 2.235045 1_555
+P3 Se6 2.190795 1_555
+P3 Se5 2.190798 1_555
+P3 Se4 2.190801 1_555

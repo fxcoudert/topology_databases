@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Lu4Mg(ZnTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49746957
+_cell_length_b   8.49747084
+_cell_length_c   7.52134688
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   127.55501038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Mg(ZnTe)2
+_chemical_formula_sum   'Lu8 Mg2 Zn4 Te4'
+_cell_volume   430.54772832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.78497691  0.54314199  0.16391230  1
+  Lu  Lu1  1  0.45685801  0.21502309  0.83608770  1
+  Lu  Lu2  1  0.95685801  0.71502309  0.66391230  1
+  Lu  Lu3  1  0.28497691  0.04314199  0.33608770  1
+  Lu  Lu4  1  0.21502309  0.45685801  0.83608770  1
+  Lu  Lu5  1  0.54314199  0.78497691  0.16391230  1
+  Lu  Lu6  1  0.04314199  0.28497691  0.33608770  1
+  Lu  Lu7  1  0.71502309  0.95685801  0.66391230  1
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn0  1  0.87033529  0.87033529  0.37265079  1
+  Zn  Zn1  1  0.12966471  0.12966471  0.62734921  1
+  Zn  Zn2  1  0.62966471  0.62966471  0.87265079  1
+  Zn  Zn3  1  0.37033529  0.37033529  0.12734921  1
+  Te  Te0  1  0.20627323  0.79372677  0.00000000  1
+  Te  Te1  1  0.70627323  0.29372677  0.50000000  1
+  Te  Te2  1  0.79372677  0.20627323  0.00000000  1
+  Te  Te3  1  0.29372677  0.70627323  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Zn0 2.874501 1_555
+Lu0 Zn2 2.874763 1_554
+Lu0 Zn3 2.887753 1_555
+Lu0 Te0 3.094728 1_655
+Lu0 Te1 3.098574 1_555
+Lu0 Te2 3.158951 1_555
+Lu1 Zn1 2.874501 1_555
+Lu1 Zn3 2.874763 1_556
+Lu1 Zn2 2.887754 1_555
+Lu1 Te0 3.094728 1_546
+Lu1 Te1 3.098574 1_555
+Lu1 Te2 3.158951 1_556
+Lu2 Zn2 2.874501 1_555
+Lu2 Zn0 2.874763 1_555
+Lu2 Zn1 2.887754 1_665
+Lu2 Te1 3.094728 1_555
+Lu2 Te0 3.098574 1_656
+Lu2 Te3 3.158951 1_655
+Lu3 Zn3 2.874501 1_555
+Lu3 Zn1 2.874763 1_555
+Lu3 Zn0 2.887753 1_445
+Lu3 Te1 3.094728 1_555
+Lu3 Te0 3.098574 1_545
+Lu3 Te3 3.158951 1_545
+Lu4 Zn1 2.874501 1_555
+Lu4 Zn3 2.874763 1_556
+Lu4 Zn2 2.887753 1_555
+Lu4 Te2 3.094728 1_456
+Lu4 Te3 3.098574 1_555
+Lu4 Te0 3.158951 1_556
+Lu5 Zn0 2.874501 1_555
+Lu5 Zn2 2.874763 1_554
+Lu5 Zn3 2.887754 1_555
+Lu5 Te2 3.094728 1_565
+Lu5 Te3 3.098574 1_555
+Lu5 Te0 3.158951 1_555
+Lu6 Zn3 2.874501 1_555
+Lu6 Zn1 2.874763 1_555
+Lu6 Zn0 2.887754 1_445
+Lu6 Te3 3.094728 1_555
+Lu6 Te2 3.098574 1_455
+Lu6 Te1 3.158951 1_455
+Lu7 Zn2 2.874501 1_555
+Lu7 Zn0 2.874763 1_555
+Lu7 Zn1 2.887753 1_665
+Lu7 Te3 3.094728 1_555
+Lu7 Te2 3.098574 1_566
+Lu7 Te1 3.158951 1_565
+Mg0 Zn3 2.941308 1_555
+Mg0 Zn2 2.941308 1_444
+Mg0 Zn0 2.967150 1_445
+Mg0 Zn1 2.967150 1_554
+Mg0 Te2 3.144822 1_455
+Mg0 Te0 3.144822 1_545
+Mg1 Zn0 2.941308 1_555
+Mg1 Zn1 2.941308 1_555
+Mg1 Zn2 2.967150 1_555
+Mg1 Zn3 2.967150 1_555
+Mg1 Te3 3.144822 1_555
+Mg1 Te1 3.144822 1_555
+Zn0 Zn1 2.731696 1_665
+Zn2 Zn3 2.731696 1_556

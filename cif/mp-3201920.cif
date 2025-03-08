@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_BeNb(BMo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59235537
+_cell_length_b   4.59235467
+_cell_length_c   6.31683993
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   139.26094645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNb(BMo)3
+_chemical_formula_sum   'Be1 Nb1 B3 Mo3'
+_cell_volume   86.94164178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.56660839  0.43339161  0.50000000  1
+  Nb  Nb0  1  0.85066780  0.14933220  0.00000000  1
+  B  B0  1  0.55894407  0.44105593  0.00000000  1
+  B  B1  1  0.43849428  0.56150572  0.24903740  1
+  B  B2  1  0.43849428  0.56150572  0.75096260  1
+  Mo  Mo0  1  0.85537630  0.14462370  0.50000000  1
+  Mo  Mo1  1  0.14570644  0.85429356  0.24502391  1
+  Mo  Mo2  1  0.14570644  0.85429356  0.75497609  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Be0 Mo2 2.369208 1_545
+Be0 Mo1 2.369208 1_545
+Be0 Mo2 2.369208 1_655
+Be0 Mo1 2.369208 1_655
+Be0 Mo0 2.421385 1_565
+Be0 Mo0 2.421386 1_455
+Be0 Mo0 2.486397 1_555
+B0 B1 1.884236 1_555
+B0 B2 1.884236 1_554
+B0 Mo1 2.347090 1_545
+B0 Mo2 2.347090 1_544
+B0 Mo1 2.347091 1_655
+B0 Mo2 2.347091 1_654
+B0 Nb0 2.402327 1_565
+B0 Nb0 2.402328 1_455
+B0 Nb0 2.511848 1_555
+B1 Be0 1.931320 1_555
+B1 Mo0 2.362301 1_565
+B1 Mo0 2.362301 1_455
+B1 Nb0 2.366797 1_565
+B1 Nb0 2.366798 1_455
+B1 Mo1 2.395630 1_545
+B1 Mo1 2.395630 1_655
+B1 Mo1 2.521138 1_555
+B2 Be0 1.931320 1_555
+B2 Mo0 2.362301 1_565
+B2 Mo0 2.362301 1_455
+B2 Nb0 2.366797 1_566
+B2 Nb0 2.366798 1_456
+B2 Mo2 2.395630 1_545
+B2 Mo2 2.395630 1_655
+B2 Mo2 2.521138 1_555
+Mo1 Nb0 2.839935 1_455
+Mo1 Nb0 2.839936 1_565
+Mo2 Nb0 2.839935 1_456
+Mo2 Nb0 2.839936 1_566

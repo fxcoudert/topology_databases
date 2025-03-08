@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CdIn3Te4As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39789338
+_cell_length_b   7.86179184
+_cell_length_c   7.75471327
+_cell_angle_alpha   100.12584288
+_cell_angle_beta   114.19208370
+_cell_angle_gamma   65.68166638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdIn3Te4As
+_chemical_formula_sum   'Cd1 In3 Te4 As1'
+_cell_volume   324.21675527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00160300  0.00886100  0.00462500  1
+  In  In0  1  0.58154200  0.20673400  0.38728100  1
+  In  In1  1  0.20949100  0.39599000  0.81573100  1
+  In  In2  1  0.81140200  0.59021500  0.19376400  1
+  Te  Te0  1  0.35556300  0.70385600  0.87843700  1
+  Te  Te1  1  0.97379900  0.89444200  0.32385900  1
+  Te  Te2  1  0.53783600  0.08129200  0.68999400  1
+  Te  Te3  1  0.73070100  0.52041000  0.50827300  1
+  As  As0  1  0.14806300  0.29820100  0.09803500  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Te2 2.871355 1_454
+Cd0 Te1 2.871408 1_445
+Cd0 Te0 2.890430 1_544
+In0 Te1 2.842578 1_545
+In0 Te2 2.853147 1_555
+In0 Te3 2.874592 1_555
+In1 Te2 2.834572 1_555
+In1 Te0 2.836329 1_555
+In1 Te3 2.896757 1_455
+In2 Te0 2.839070 1_554
+In2 Te1 2.856053 1_555
+In2 Te3 2.872665 1_555
+As0 In0 2.658175 1_555
+As0 In1 2.661549 1_554
+As0 In2 2.664496 1_455
+As0 Cd0 2.682720 1_555

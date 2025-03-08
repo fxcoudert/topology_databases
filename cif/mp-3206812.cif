@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_SbPIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19277153
+_cell_length_b   6.24532917
+_cell_length_c   6.26660493
+_cell_angle_alpha   112.38837403
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbPIr
+_chemical_formula_sum   'Sb4 P4 Ir4'
+_cell_volume   224.09778232
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.12333063  0.84339118  0.13678044  1
+  Sb  Sb1  1  0.62333063  0.15660882  0.36321956  1
+  Sb  Sb2  1  0.87666937  0.15660882  0.86321956  1
+  Sb  Sb3  1  0.37666937  0.84339118  0.63678044  1
+  P  P0  1  0.86430047  0.64885189  0.32502490  1
+  P  P1  1  0.36430047  0.35114811  0.17497510  1
+  P  P2  1  0.13569953  0.35114811  0.67497510  1
+  P  P3  1  0.63569953  0.64885189  0.82502490  1
+  Ir  Ir0  1  0.51670830  0.70621626  0.20174829  1
+  Ir  Ir1  1  0.01670830  0.29378374  0.29825171  1
+  Ir  Ir2  1  0.48329170  0.29378374  0.79825171  1
+  Ir  Ir3  1  0.98329170  0.70621626  0.70174829  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 Sb0 2.555912 1_655
+P1 Sb1 2.555912 1_555
+P2 Sb2 2.555912 1_455
+P3 Sb3 2.555912 1_555
+Ir0 P1 2.356465 1_555
+Ir0 P0 2.359976 1_555
+Ir0 P3 2.366503 1_554
+Ir0 Sb0 2.664575 1_555
+Ir0 Sb3 2.671878 1_555
+Ir0 Sb1 2.683993 1_565
+Ir1 P0 2.356465 1_455
+Ir1 P1 2.359976 1_555
+Ir1 P2 2.366503 1_555
+Ir1 Sb1 2.664575 1_455
+Ir1 Sb2 2.671878 1_454
+Ir1 Sb0 2.683993 1_545
+Ir2 P3 2.356465 1_555
+Ir2 P2 2.359976 1_555
+Ir2 P1 2.366503 1_556
+Ir2 Sb2 2.664575 1_555
+Ir2 Sb1 2.671878 1_555
+Ir2 Sb3 2.683993 1_545
+Ir3 P2 2.356465 1_655
+Ir3 P3 2.359976 1_555
+Ir3 P0 2.366503 1_555
+Ir3 Sb3 2.664575 1_655
+Ir3 Sb0 2.671878 1_656
+Ir3 Sb2 2.683993 1_565

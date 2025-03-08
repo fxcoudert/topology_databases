@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_NiAs12PdRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32524779
+_cell_length_b   7.33301714
+_cell_length_c   8.47558647
+_cell_angle_alpha   54.65669037
+_cell_angle_beta   55.13720278
+_cell_angle_gamma   70.77226790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiAs12PdRu2
+_chemical_formula_sum   'Ni1 As12 Pd1 Ru2'
+_cell_volume   304.71619379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50000000  0.00000000  0.50000000  1
+  As  As0  1  0.14705124  0.14557744  0.19689654  1
+  As  As1  1  0.85294876  0.85442256  0.80310346  1
+  As  As2  1  0.84568329  0.86032157  0.49839672  1
+  As  As3  1  0.15431671  0.13967843  0.50160328  1
+  As  As4  1  0.79473381  0.50378369  0.34529998  1
+  As  As5  1  0.20526619  0.49621631  0.65470002  1
+  As  As6  1  0.50674506  0.80282245  0.34704024  1
+  As  As7  1  0.49325494  0.19717755  0.65295976  1
+  As  As8  1  0.64511299  0.34692737  0.85896356  1
+  As  As9  1  0.35488701  0.65307263  0.14103644  1
+  As  As10  1  0.65290832  0.34327030  0.14993680  1
+  As  As11  1  0.34709168  0.65672970  0.85006320  1
+  Pd  Pd0  1  0.00000000  0.50000000  0.50000000  1
+  Ru  Ru0  1  0.00000000  0.50000000  0.00000000  1
+  Ru  Ru1  1  0.50000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Ru0 2.427592 1_555
+As0 Ru1 2.433038 1_555
+As0 As2 2.487380 1_445
+As0 As3 2.588577 1_555
+As1 Ru0 2.427592 1_656
+As1 Ru1 2.433038 1_566
+As1 As3 2.487380 1_665
+As1 As2 2.588577 1_555
+As2 Ni0 2.393716 1_565
+As2 Pd0 2.503642 1_655
+As3 Ni0 2.393716 1_555
+As3 Pd0 2.503642 1_555
+As4 Ru0 2.421243 1_655
+As4 Pd0 2.482973 1_655
+As4 As6 2.492816 1_555
+As4 As7 2.575983 1_555
+As5 Ru0 2.421243 1_556
+As5 Pd0 2.482973 1_555
+As5 As7 2.492816 1_555
+As5 As6 2.575983 1_555
+As6 Ni0 2.412929 1_565
+As6 Ru1 2.437908 1_565
+As7 Ni0 2.412929 1_555
+As7 Ru1 2.437908 1_556
+As8 Ru1 2.416833 1_556
+As8 Pd0 2.490648 1_655
+As9 Ru1 2.416833 1_565
+As9 Pd0 2.490648 1_555
+As10 Ni0 2.410609 1_555
+As10 Ru0 2.437492 1_655
+As10 As8 2.483836 1_554
+As10 As9 2.579919 1_555
+As11 Ni0 2.410609 1_565
+As11 Ru0 2.437492 1_556
+As11 As9 2.483836 1_556
+As11 As8 2.579919 1_555

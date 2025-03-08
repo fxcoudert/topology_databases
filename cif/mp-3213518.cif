@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_TiSi2MoRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73392118
+_cell_length_b   6.26124191
+_cell_length_c   7.21615453
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSi2MoRh2
+_chemical_formula_sum   'Ti2 Si4 Mo2 Rh4'
+_cell_volume   168.70635952
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25000000  0.47299043  0.67390064  1
+  Ti  Ti1  1  0.25000000  0.97299043  0.82609936  1
+  Si  Si0  1  0.25000000  0.23346729  0.37116958  1
+  Si  Si1  1  0.75000000  0.76303681  0.61841665  1
+  Si  Si2  1  0.25000000  0.73346729  0.12883042  1
+  Si  Si3  1  0.75000000  0.26303681  0.88158335  1
+  Mo  Mo0  1  0.75000000  0.02698700  0.17698892  1
+  Mo  Mo1  1  0.75000000  0.52698700  0.32301108  1
+  Rh  Rh0  1  0.75000000  0.14850863  0.56777410  1
+  Rh  Rh1  1  0.25000000  0.35500984  0.05881012  1
+  Rh  Rh2  1  0.75000000  0.64850863  0.93222590  1
+  Rh  Rh3  1  0.25000000  0.85500984  0.44118988  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Ti0 2.649795 1_555
+Si1 Ti0 2.635125 1_655
+Si1 Ti0 2.635125 1_555
+Si1 Ti1 2.731236 1_555
+Si1 Ti1 2.731236 1_655
+Si2 Ti1 2.649795 1_554
+Si3 Ti1 2.635125 1_645
+Si3 Ti1 2.635125 1_545
+Si3 Ti0 2.731236 1_555
+Si3 Ti0 2.731236 1_655
+Mo0 Si3 2.593934 1_554
+Mo0 Si2 2.642690 1_645
+Mo0 Si2 2.642690 1_545
+Mo0 Si0 2.668408 1_555
+Mo0 Si0 2.668408 1_655
+Mo0 Ti1 3.164054 1_644
+Mo0 Ti1 3.164054 1_544
+Mo1 Si1 2.593934 1_555
+Mo1 Si0 2.642690 1_555
+Mo1 Si0 2.642690 1_655
+Mo1 Si2 2.668408 1_655
+Mo1 Si2 2.668408 1_555
+Mo1 Ti0 3.164054 1_555
+Mo1 Ti0 3.164054 1_655
+Rh0 Si3 2.375323 1_555
+Rh0 Si0 2.404433 1_555
+Rh0 Si0 2.404433 1_655
+Rh0 Si1 2.441042 1_545
+Rh0 Ti1 2.858003 1_645
+Rh0 Ti1 2.858003 1_545
+Rh0 Ti0 2.863506 1_555
+Rh0 Ti0 2.863506 1_655
+Rh1 Si3 2.335110 1_454
+Rh1 Si3 2.335110 1_554
+Rh1 Si0 2.379034 1_555
+Rh1 Si2 2.422885 1_555
+Rh1 Ti0 2.874119 1_554
+Rh1 Ti1 2.922539 1_544
+Rh2 Si1 2.375323 1_555
+Rh2 Si2 2.404433 1_656
+Rh2 Si2 2.404433 1_556
+Rh2 Si3 2.441042 1_555
+Rh2 Ti0 2.858003 1_555
+Rh2 Ti0 2.858003 1_655
+Rh2 Ti1 2.863506 1_655
+Rh2 Ti1 2.863506 1_555
+Rh3 Si1 2.335110 1_455
+Rh3 Si1 2.335110 1_555
+Rh3 Si2 2.379034 1_555
+Rh3 Si0 2.422885 1_565
+Rh3 Ti1 2.874119 1_555
+Rh3 Ti0 2.922539 1_555

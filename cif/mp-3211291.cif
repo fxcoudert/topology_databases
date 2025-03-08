@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Re3SnAs6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68030185
+_cell_length_b   7.68030189
+_cell_length_c   7.68109607
+_cell_angle_alpha   108.76482640
+_cell_angle_beta   108.76483029
+_cell_angle_gamma   110.88934480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re3SnAs6
+_chemical_formula_sum   'Re6 Sn2 As12'
+_cell_volume   348.64150648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.33695693  0.00870416  0.34566109  1
+  Re  Re1  1  0.00870416  0.33695693  0.34566109  1
+  Re  Re2  1  0.00884625  0.66243238  0.67127963  1
+  Re  Re3  1  0.32284858  0.32284858  0.98368373  1
+  Re  Re4  1  0.66083415  0.66083415  0.98368373  1
+  Re  Re5  1  0.66243238  0.00884625  0.67127963  1
+  Sn  Sn0  1  0.74979674  0.49557206  0.24536880  1
+  Sn  Sn1  1  0.49557206  0.74979674  0.24536880  1
+  As  As0  1  0.49634933  0.25108080  0.74743013  1
+  As  As1  1  0.75387684  0.25387684  0.50775367  1
+  As  As2  1  0.25387684  0.75387684  0.50775367  1
+  As  As3  1  0.25108080  0.49634933  0.74743013  1
+  As  As4  1  0.99316331  0.99316331  0.32485602  1
+  As  As5  1  0.67276127  0.00269561  0.00476940  1
+  As  As6  1  0.00269561  0.67276127  0.00476940  1
+  As  As7  1  0.33169271  0.33169271  0.32485602  1
+  As  As8  1  0.00207380  0.33200814  0.00476940  1
+  As  As9  1  0.67296474  0.67296474  0.66442912  1
+  As  As10  1  0.33200814  0.00207380  0.00476940  1
+  As  As11  1  0.99146438  0.99146438  0.66442912  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Re0 Sn1 2.716116 1_545
+Re1 Sn0 2.716116 1_455
+Re2 Sn0 2.756817 1_455
+Re3 Sn0 2.737586 1_556
+Re3 Sn1 2.737586 1_556
+Re4 Sn0 2.737581 1_556
+Re4 Sn1 2.737581 1_556
+Re5 Sn1 2.756817 1_545
+As0 Re0 2.595346 1_555
+As0 Re4 2.609320 1_555
+As0 Re3 2.609325 1_555
+As0 Re5 2.627291 1_555
+As1 Re2 2.599669 1_655
+As1 Re5 2.599676 1_555
+As1 Re1 2.641214 1_655
+As1 Re0 2.641214 1_555
+As2 Re5 2.599669 1_565
+As2 Re2 2.599676 1_555
+As2 Re0 2.641214 1_565
+As2 Re1 2.641214 1_555
+As3 Re1 2.595346 1_555
+As3 Re4 2.609320 1_555
+As3 Re3 2.609325 1_555
+As3 Re2 2.627291 1_555
+As4 Re0 2.550139 1_665
+As4 Re1 2.550139 1_665
+As4 Re4 2.577662 1_554
+As5 Re4 2.544355 1_544
+As5 Re5 2.553417 1_554
+As5 Re1 2.590169 1_655
+As6 Re4 2.544355 1_454
+As6 Re2 2.553417 1_554
+As6 Re0 2.590169 1_565
+As7 Re1 2.550139 1_555
+As7 Re0 2.550139 1_555
+As7 Re3 2.577657 1_554
+As7 As9 2.616717 1_555
+As8 Re3 2.544350 1_554
+As8 Re5 2.553422 1_454
+As8 Re1 2.590169 1_555
+As9 Re4 2.513673 1_555
+As9 Re2 2.593884 1_655
+As9 Re5 2.593884 1_565
+As10 Re3 2.544350 1_554
+As10 Re2 2.553422 1_544
+As10 Re0 2.590169 1_555
+As11 Re3 2.513669 1_665
+As11 Re5 2.593889 1_565
+As11 Re2 2.593889 1_655
+As11 As4 2.616717 1_555

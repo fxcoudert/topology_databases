@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_Ba(CdAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94607994
+_cell_length_b   5.94608013
+_cell_length_c   5.94607931
+_cell_angle_alpha   103.40776760
+_cell_angle_beta   103.40777106
+_cell_angle_gamma   122.42807223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(CdAu2)2
+_chemical_formula_sum   'Ba1 Cd2 Au4'
+_cell_volume   155.51877556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd0  1  0.25000000  0.75000000  0.50000000  1
+  Cd  Cd1  1  0.75000000  0.25000000  0.50000000  1
+  Au  Au0  1  0.30814244  0.30814244  0.61628388  1
+  Au  Au1  1  0.69185756  0.69185756  0.38371612  1
+  Au  Au2  1  0.69185756  0.30814244  1.00000000  1
+  Au  Au3  1  0.30814244  0.69185756  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cd0 Cd1 2.863269 1_455
+Cd0 Cd1 2.863269 1_565
+Au0 Au2 2.827937 1_555
+Au0 Au3 2.827937 1_556
+Au0 Cd1 3.034169 1_555
+Au0 Cd0 3.034169 1_555
+Au0 Cd1 3.034172 1_455
+Au0 Cd0 3.034172 1_545
+Au0 Au1 3.109207 1_555
+Au0 Au1 3.109218 1_445
+Au0 Ba0 3.211634 1_555
+Au0 Ba0 3.492409 1_666
+Au0 Ba0 3.492414 1_556
+Au1 Au3 2.827937 1_555
+Au1 Au2 2.827937 1_554
+Au1 Cd0 3.034169 1_555
+Au1 Cd1 3.034169 1_555
+Au1 Cd0 3.034172 1_655
+Au1 Cd1 3.034172 1_565
+Au1 Ba0 3.211634 1_666
+Au1 Ba0 3.492409 1_555
+Au1 Ba0 3.492414 1_665
+Au2 Cd1 3.034171 1_556
+Au2 Cd1 3.034171 1_555
+Au2 Cd0 3.034171 1_656
+Au2 Cd0 3.034171 1_545
+Au2 Au3 3.109217 1_656
+Au2 Au3 3.109217 1_546
+Au2 Ba0 3.211640 1_656
+Au2 Ba0 3.492408 1_556
+Au2 Ba0 3.492408 1_666
+Au3 Cd0 3.034171 1_554
+Au3 Cd0 3.034171 1_555
+Au3 Cd1 3.034171 1_454
+Au3 Cd1 3.034171 1_565
+Au3 Ba0 3.211640 1_565
+Au3 Ba0 3.492408 1_665
+Au3 Ba0 3.492408 1_555

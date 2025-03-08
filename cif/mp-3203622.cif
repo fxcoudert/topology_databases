@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_P4IrRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80704657
+_cell_length_b   5.76465098
+_cell_length_c   5.86203558
+_cell_angle_alpha   68.29875531
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P4IrRh
+_chemical_formula_sum   'P8 Ir2 Rh2'
+_cell_volume   182.32688283
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.11859788  0.83830587  0.87036918  1
+  P  P1  1  0.61859788  0.16169413  0.62963082  1
+  P  P2  1  0.88090247  0.15604003  0.13304980  1
+  P  P3  1  0.38090247  0.84395997  0.36695020  1
+  P  P4  1  0.62254539  0.66900733  0.18640425  1
+  P  P5  1  0.12254539  0.33099267  0.31359575  1
+  P  P6  1  0.37751940  0.33690522  0.81057360  1
+  P  P7  1  0.87751940  0.66309478  0.68942640  1
+  Ir  Ir0  1  0.50163916  0.72974116  0.78959962  1
+  Ir  Ir1  1  0.00163916  0.27025884  0.71040038  1
+  Rh  Rh0  1  0.49879470  0.27394553  0.20797761  1
+  Rh  Rh1  1  0.99879470  0.72605447  0.29202239  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+P0 P7 2.213005 1_455
+P0 Rh1 2.414418 1_456
+P1 P6 2.213005 1_555
+P1 Rh0 2.414418 1_555
+P2 P5 2.212631 1_655
+P2 Rh1 2.402686 1_545
+P2 Rh0 2.408167 1_555
+P3 P4 2.212631 1_555
+P3 Rh0 2.402686 1_565
+P3 Rh1 2.408167 1_455
+P4 Rh1 2.327193 1_555
+P4 Rh0 2.346475 1_555
+P5 Rh0 2.327193 1_555
+P5 Rh1 2.346475 1_455
+P6 Rh0 2.330115 1_556
+P7 Rh1 2.330115 1_555
+Ir0 P7 2.328881 1_555
+Ir0 P4 2.328933 1_556
+Ir0 P6 2.336014 1_555
+Ir0 P0 2.404718 1_555
+Ir0 P1 2.411266 1_565
+Ir0 P3 2.420149 1_555
+Ir1 P6 2.328881 1_555
+Ir1 P5 2.328933 1_555
+Ir1 P7 2.336014 1_455
+Ir1 P1 2.404718 1_455
+Ir1 P0 2.411266 1_545
+Ir1 P2 2.420149 1_456

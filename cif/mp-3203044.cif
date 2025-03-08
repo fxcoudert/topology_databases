@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Cs2LiAlBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.18174392
+_cell_length_b   10.18174300
+_cell_length_c   10.18174465
+_cell_angle_alpha   138.78189965
+_cell_angle_beta   59.49681581
+_cell_angle_gamma   139.05853749
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2LiAlBi2
+_chemical_formula_sum   'Cs4 Li2 Al2 Bi4'
+_cell_volume   451.24639588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.82997023  0.26760692  0.09757515  1
+  Cs  Cs1  1  0.67003177  0.76760592  0.43763669  1
+  Cs  Cs2  1  0.32996923  0.23239408  0.56236231  1
+  Cs  Cs3  1  0.17003077  0.73239308  0.90242385  1
+  Li  Li0  1  0.75000100  0.25000000  0.50000000  1
+  Li  Li1  1  0.25000000  0.75000000  0.49999900  1
+  Al  Al0  1  0.25000000  0.25000000  0.00000000  1
+  Al  Al1  1  0.75000000  0.75000000  0.00000000  1
+  Bi  Bi0  1  0.41432859  0.72588259  0.14021018  1
+  Bi  Bi1  1  0.08567241  0.22588259  0.31155400  1
+  Bi  Bi2  1  0.91432859  0.77411741  0.68844500  1
+  Bi  Bi3  1  0.58567241  0.27411741  0.85978982  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Li1 3.870563 1_655
+Cs0 Li0 3.870580 1_555
+Cs1 Li0 3.870572 1_565
+Cs1 Li1 3.870587 1_555
+Cs2 Li1 3.870572 1_545
+Cs2 Li0 3.870587 1_555
+Cs3 Li0 3.870563 1_455
+Cs3 Li1 3.870580 1_555
+Al0 Bi1 2.843497 1_555
+Al0 Bi0 2.843501 1_555
+Al0 Bi2 2.843501 1_444
+Al0 Bi3 2.843506 1_554
+Al0 Cs0 3.985704 1_455
+Al0 Cs3 3.985710 1_544
+Al0 Cs1 3.985714 1_555
+Al0 Cs2 3.985718 1_554
+Al1 Bi0 2.843497 1_555
+Al1 Bi1 2.843502 1_665
+Al1 Bi3 2.843506 1_554
+Al1 Bi2 2.843506 1_554
+Al1 Cs0 3.985710 1_565
+Al1 Cs3 3.985711 1_654
+Al1 Cs1 3.985711 1_555
+Al1 Cs2 3.985715 1_554
+Bi0 Li1 3.053611 1_555
+Bi0 Li0 3.053620 1_565
+Bi0 Cs2 3.838776 1_554
+Bi0 Cs0 3.872143 1_455
+Bi0 Cs0 3.872149 1_565
+Bi0 Cs2 3.924954 1_565
+Bi0 Cs3 4.319389 1_554
+Bi1 Li0 3.053611 1_455
+Bi1 Li1 3.053619 1_555
+Bi1 Cs3 3.838775 1_544
+Bi1 Cs1 3.872149 1_445
+Bi1 Cs1 3.872149 1_555
+Bi1 Cs3 3.924948 1_555
+Bi1 Cs2 4.319380 1_555
+Bi2 Li1 3.053611 1_655
+Bi2 Li0 3.053619 1_555
+Bi2 Cs0 3.838775 1_566
+Bi2 Cs2 3.872149 1_665
+Bi2 Cs2 3.872149 1_555
+Bi2 Cs0 3.924948 1_555
+Bi2 Cs1 4.319380 1_555
+Bi3 Li0 3.053620 1_555
+Bi3 Li1 3.053624 1_545
+Bi3 Cs1 3.838769 1_556
+Bi3 Cs3 3.872143 1_545
+Bi3 Cs3 3.872143 1_655
+Bi3 Cs1 3.924954 1_545
+Bi3 Cs0 4.319380 1_556

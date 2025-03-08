@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_Ca2In3SnPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74784855
+_cell_length_b   5.74784874
+_cell_length_c   7.67915695
+_cell_angle_alpha   90.45288014
+_cell_angle_beta   89.54711962
+_cell_angle_gamma   133.91912332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2In3SnPd2
+_chemical_formula_sum   'Ca2 In3 Sn1 Pd2'
+_cell_volume   182.73991788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.93190776  0.06809224  0.74879350  1
+  Ca  Ca1  1  0.06853802  0.93146198  0.24915405  1
+  In  In0  1  0.35856158  0.64143842  0.05318909  1
+  In  In1  1  0.35455778  0.64544222  0.44907792  1
+  In  In2  1  0.64387128  0.35612872  0.55084241  1
+  Sn  Sn0  1  0.64390466  0.35609534  0.94778301  1
+  Pd  Pd0  1  0.21239266  0.78760734  0.75485478  1
+  Pd  Pd1  1  0.78626426  0.21373574  0.24630424  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Pd0 2.967923 1_645
+Ca0 Pd0 3.233189 1_545
+Ca0 Pd0 3.233189 1_655
+Ca0 In1 3.325625 1_545
+Ca0 In1 3.325625 1_655
+Ca0 In0 3.330987 1_546
+Ca0 In0 3.330987 1_656
+Ca0 Sn0 3.396667 1_555
+Ca0 In2 3.416832 1_555
+Ca0 In2 3.512934 1_655
+Ca0 In2 3.512934 1_545
+Ca0 Sn0 3.533273 1_655
+Ca0 Sn0 3.533273 1_545
+Ca1 Pd1 2.986350 1_465
+Ca1 Pd1 3.219516 1_565
+Ca1 Pd1 3.219516 1_455
+Ca1 Sn0 3.319716 1_564
+Ca1 Sn0 3.319716 1_454
+Ca1 In2 3.330863 1_565
+Ca1 In2 3.330863 1_455
+Ca1 In1 3.404658 1_555
+Ca1 In0 3.405623 1_555
+Ca1 In0 3.509518 1_455
+Ca1 In0 3.509518 1_565
+Ca1 In1 3.532984 1_455
+Ca1 In1 3.532984 1_565
+In0 Pd0 2.774940 1_554
+In0 Pd1 2.797376 1_455
+In0 Pd1 2.797376 1_565
+In0 In1 3.040024 1_555
+In0 Sn0 3.118470 1_554
+In0 Sn0 3.302106 1_454
+In0 Sn0 3.302106 1_564
+In1 Pd0 2.777538 1_555
+In1 Pd1 2.833127 1_455
+In1 Pd1 2.833127 1_565
+In1 In2 3.165242 1_555
+In1 In2 3.257135 1_455
+In1 In2 3.257135 1_565
+In2 Pd1 2.770838 1_555
+In2 Pd0 2.839013 1_655
+In2 Pd0 2.839013 1_545
+In2 Sn0 3.048172 1_555
+Pd0 Sn0 2.786052 1_455
+Pd0 Sn0 2.786052 1_565
+Pd1 Sn0 2.753602 1_554

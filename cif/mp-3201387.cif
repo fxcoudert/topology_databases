@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Cs2Hg(IBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52655246
+_cell_length_b   7.52655247
+_cell_length_c   12.17714234
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.50399152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Hg(IBr)2
+_chemical_formula_sum   'Cs4 Hg2 I4 Br4'
+_cell_volume   654.16006620
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.62379779  0.62379779  0.50000000  1
+  Cs  Cs1  1  0.62379779  0.62379779  0.00000000  1
+  Cs  Cs2  1  0.24265207  0.89307795  0.25000000  1
+  Cs  Cs3  1  0.89307795  0.24265207  0.75000000  1
+  Hg  Hg0  1  0.86807307  0.29932077  0.25000000  1
+  Hg  Hg1  1  0.29932077  0.86807307  0.75000000  1
+  I  I0  1  0.05914285  0.44529622  0.44389732  1
+  I  I1  1  0.44529622  0.05914285  0.55610268  1
+  I  I2  1  0.05914285  0.44529622  0.05610268  1
+  I  I3  1  0.44529622  0.05914285  0.94389732  1
+  Br  Br0  1  0.53413057  0.36290802  0.25000000  1
+  Br  Br1  1  0.36290802  0.53413057  0.75000000  1
+  Br  Br2  1  0.76099486  0.92036895  0.25000000  1
+  Br  Br3  1  0.92036895  0.76099486  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 I0 3.975221 1_655
+Cs0 I1 3.975221 1_565
+Cs0 I0 4.087688 1_555
+Cs0 I1 4.087688 1_555
+Cs1 I2 3.975221 1_655
+Cs1 I3 3.975221 1_564
+Cs1 I2 4.087688 1_555
+Cs1 I3 4.087688 1_554
+Cs2 I0 3.985782 1_555
+Cs2 I2 3.985782 1_555
+Cs2 I1 4.070921 1_565
+Cs2 I3 4.070921 1_564
+Cs3 I3 3.985782 1_555
+Cs3 I1 3.985782 1_555
+Cs3 I2 4.070921 1_656
+Cs3 I0 4.070921 1_655
+Hg0 I0 2.801286 1_655
+Hg0 I2 2.801286 1_655
+Hg1 I3 2.801286 1_565
+Hg1 I1 2.801286 1_565
+Br0 Hg0 2.703692 1_555
+Br0 Cs2 3.520425 1_545
+Br0 Cs0 3.568993 1_555
+Br0 Cs1 3.568993 1_555
+Br1 Hg1 2.703692 1_555
+Br1 Cs3 3.520425 1_455
+Br1 Cs1 3.568993 1_556
+Br1 Cs0 3.568993 1_555
+Br2 Hg0 2.706568 1_565
+Br2 Cs2 3.695546 1_655
+Br2 Cs1 3.722022 1_555
+Br2 Cs0 3.722022 1_555
+Br2 Cs2 3.841086 1_555
+Br3 Hg1 2.706568 1_655
+Br3 Cs3 3.695546 1_565
+Br3 Cs1 3.722022 1_556
+Br3 Cs0 3.722022 1_555
+Br3 Cs3 3.841086 1_555

@@ -1,0 +1,90 @@
+# generated using pymatgen
+data_Ba4InAs3Pt4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87777858
+_cell_length_b   6.87777858
+_cell_length_c   6.87777858
+_cell_angle_alpha   91.24636171
+_cell_angle_beta   88.75363829
+_cell_angle_gamma   91.24636171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4InAs3Pt4
+_chemical_formula_sum   'Ba4 In1 As3 Pt4'
+_cell_volume   325.11770149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.63189979  0.37937083  0.88440029  1
+  Ba  Ba1  1  0.38440029  0.86810021  0.62062917  1
+  Ba  Ba2  1  0.12062917  0.11559971  0.13189979  1
+  Ba  Ba3  1  0.87064913  0.62935087  0.37064913  1
+  In  In0  1  0.16168443  0.33831557  0.66168443  1
+  As  As0  1  0.66949260  0.16714603  0.33282852  1
+  As  As1  1  0.33285397  0.66717148  0.16949260  1
+  As  As2  1  0.83282852  0.83050740  0.83285397  1
+  Pt  Pt0  1  0.59687482  0.90312518  0.09687482  1
+  Pt  Pt1  1  0.08649336  0.61353316  0.92572609  1
+  Pt  Pt2  1  0.42572609  0.41350664  0.38646684  1
+  Pt  Pt3  1  0.88646684  0.07427391  0.58649336  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pt3 3.388747 1_555
+Ba0 Pt1 3.499976 1_655
+Ba0 In0 3.611381 1_555
+Ba0 Pt0 3.616788 1_546
+Ba0 Pt2 3.708910 1_556
+Ba0 Pt2 3.749003 1_555
+Ba1 Pt1 3.388747 1_555
+Ba1 Pt2 3.499976 1_555
+Ba1 In0 3.611381 1_565
+Ba1 Pt0 3.616788 1_556
+Ba1 Pt3 3.708910 1_565
+Ba1 Pt3 3.749003 1_465
+Ba2 Pt2 3.388747 1_555
+Ba2 Pt3 3.499976 1_455
+Ba2 In0 3.611381 1_554
+Ba2 Pt0 3.616788 1_545
+Ba2 Pt1 3.708910 1_544
+Ba2 Pt1 3.749003 1_554
+Ba3 Pt0 3.331565 1_555
+Ba3 Pt1 3.372638 1_654
+Ba3 Pt3 3.372638 1_565
+Ba3 Pt2 3.372638 1_555
+Ba3 In0 3.541615 1_655
+In0 Pt1 2.645860 1_555
+In0 Pt2 2.645860 1_555
+In0 Pt3 2.645860 1_455
+As0 Pt3 2.425280 1_555
+As0 Pt2 2.426419 1_555
+As0 Pt0 2.459282 1_545
+As0 Ba2 3.391598 1_655
+As0 Ba1 3.438897 1_545
+As0 Ba3 3.446127 1_555
+As0 Ba0 3.457826 1_554
+As1 Pt2 2.425280 1_555
+As1 Pt1 2.426419 1_554
+As1 Pt0 2.459282 1_555
+As1 Ba1 3.391598 1_555
+As1 Ba0 3.438897 1_554
+As1 Ba3 3.446127 1_455
+As1 Ba2 3.457826 1_565
+As2 Pt1 2.425280 1_655
+As2 Pt3 2.426419 1_565
+As2 Pt0 2.459282 1_556
+As2 Ba0 3.391598 1_555
+As2 Ba2 3.438897 1_666
+As2 Ba3 3.446127 1_555
+As2 Ba1 3.457826 1_555

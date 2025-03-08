@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Y3SiTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51259165
+_cell_length_b   7.51259148
+_cell_length_c   7.51259167
+_cell_angle_alpha   147.02765448
+_cell_angle_beta   132.55609215
+_cell_angle_gamma   58.98616584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3SiTe2
+_chemical_formula_sum   'Y3 Si1 Te2'
+_cell_volume   168.53577747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.85541495  0.35541495  0.50000000  1
+  Y  Y1  1  0.50000000  0.00000000  0.50000000  1
+  Y  Y2  1  0.14458505  0.64458505  0.50000000  1
+  Si  Si0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.67337484  0.67337484  0.00000000  1
+  Te  Te1  1  0.32662516  0.32662516  1.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Si0 Y2 2.849692 1_555
+Si0 Y0 2.849692 1_444
+Si0 Y2 2.849692 1_544
+Si0 Y0 2.849692 1_455
+Si0 Y1 3.022305 1_454
+Si0 Y1 3.022305 1_555
+Te0 Y2 3.045668 1_655
+Te0 Y2 3.045668 1_554
+Te0 Y1 3.112302 1_554
+Te0 Y1 3.112302 1_565
+Te0 Y0 3.195807 1_565
+Te0 Y0 3.195807 1_554
+Te1 Y0 3.045668 1_455
+Te1 Y0 3.045668 1_556
+Te1 Y1 3.112302 1_566
+Te1 Y1 3.112302 1_555
+Te1 Y2 3.195807 1_545
+Te1 Y2 3.195807 1_556

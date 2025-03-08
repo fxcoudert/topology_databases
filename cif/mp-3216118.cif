@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_TcSb(Cl2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78826335
+_cell_length_b   8.78826335
+_cell_length_c   6.53601022
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcSb(Cl2F3)2
+_chemical_formula_sum   'Tc2 Sb2 Cl8 F12'
+_cell_volume   504.79942037
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.50000000  0.50000000  0.50000000  1
+  Tc  Tc1  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb0  1  0.00000000  0.50000000  0.20159760  1
+  Sb  Sb1  1  0.50000000  0.00000000  0.79840240  1
+  Cl  Cl0  1  0.04405089  0.19299157  0.69313783  1
+  Cl  Cl1  1  0.45594911  0.30700843  0.30686217  1
+  Cl  Cl2  1  0.30700843  0.54405089  0.69313783  1
+  Cl  Cl3  1  0.80700843  0.04405089  0.30686217  1
+  Cl  Cl4  1  0.54405089  0.69299157  0.30686217  1
+  Cl  Cl5  1  0.19299157  0.95594911  0.30686217  1
+  Cl  Cl6  1  0.69299157  0.45594911  0.69313783  1
+  Cl  Cl7  1  0.95594911  0.80700843  0.69313783  1
+  F  F0  1  0.29270298  0.93763738  0.79753226  1
+  F  F1  1  0.79270298  0.43763738  0.20246774  1
+  F  F2  1  0.20729702  0.56236262  0.20246774  1
+  F  F3  1  0.93763738  0.70729702  0.20246774  1
+  F  F4  1  0.56236262  0.79270298  0.79753226  1
+  F  F5  1  0.70729702  0.06236262  0.79753226  1
+  F  F6  1  0.43763738  0.20729702  0.79753226  1
+  F  F7  1  0.00000000  0.50000000  0.91208952  1
+  F  F8  1  0.06236262  0.29270298  0.20246774  1
+  F  F9  1  0.50000000  0.00000000  0.50972445  1
+  F  F10  1  0.00000000  0.50000000  0.49027555  1
+  F  F11  1  0.50000000  0.00000000  0.08791048  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Tc1 2.149424 1_555
+Cl1 Tc0 2.149424 1_555
+Cl2 Tc0 2.149424 1_555
+Cl3 Tc1 2.149424 1_655
+Cl4 Tc0 2.149424 1_555
+Cl5 Tc1 2.149424 1_565
+Cl6 Tc0 2.149424 1_555
+Cl7 Tc1 2.149424 1_665
+F0 Sb1 1.902442 1_565
+F1 Sb0 1.902442 1_655
+F2 Sb0 1.902442 1_555
+F3 Sb0 1.902442 1_655
+F4 Sb1 1.902442 1_565
+F5 Sb1 1.902442 1_555
+F6 Sb1 1.902442 1_555
+F7 Sb0 1.892228 1_556
+F8 Sb0 1.902442 1_555
+F9 Sb1 1.886802 1_555
+F10 Sb0 1.886802 1_555
+F11 Sb1 1.892228 1_554

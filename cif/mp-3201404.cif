@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_SrLi2CrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02726026
+_cell_length_b   5.02726948
+_cell_length_c   5.28078809
+_cell_angle_alpha   121.68294615
+_cell_angle_beta   121.68273688
+_cell_angle_gamma   63.36534681
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi2CrO4
+_chemical_formula_sum   'Sr1 Li2 Cr1 O4'
+_cell_volume   93.86676396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.99999800  0.00000000  0.99999900  1
+  Li  Li0  1  0.75000300  0.74999800  0.25000000  1
+  Li  Li1  1  0.25000100  0.25000000  0.75000200  1
+  Cr  Cr0  1  0.50000200  0.50000000  0.50000100  1
+  O  O0  1  0.54063314  0.15213898  0.15213498  1
+  O  O1  1  0.45936486  0.84786302  0.45936286  1
+  O  O2  1  0.15213498  0.54063514  0.54063514  1
+  O  O3  1  0.84786202  0.45936586  0.84786302  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O3 2.019942 1_554
+Li0 O2 2.019945 1_655
+Li0 O1 2.019957 1_555
+Li0 O0 2.019982 1_565
+Li1 O0 2.019936 1_556
+Li1 O3 2.019958 1_455
+Li1 O1 2.019960 1_545
+Li1 O2 2.019964 1_555
+Cr0 O3 1.781537 1_555
+Cr0 O0 1.781543 1_555
+Cr0 O1 1.781555 1_555
+Cr0 O2 1.781563 1_555
+O0 Sr0 2.506648 1_554
+O0 Sr0 2.746301 1_454
+O1 Sr0 2.506658 1_464
+O1 Sr0 2.746287 1_565
+O2 Sr0 2.506646 1_465
+O2 Sr0 2.746289 1_454
+O3 Sr0 2.506665 1_555
+O3 Sr0 2.746290 1_565

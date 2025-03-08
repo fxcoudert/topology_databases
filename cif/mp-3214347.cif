@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_BaSrP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27605356
+_cell_length_b   8.27605357
+_cell_length_c   6.30394493
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrP2
+_chemical_formula_sum   'Ba3 Sr3 P6'
+_cell_volume   373.92941400
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.63555226  0.50000000  1
+  Ba  Ba1  1  0.36444774  0.36444774  0.50000000  1
+  Ba  Ba2  1  0.63555226  0.00000000  0.50000000  1
+  Sr  Sr0  1  0.00000000  0.30526392  0.00000000  1
+  Sr  Sr1  1  0.69473608  0.69473608  0.00000000  1
+  Sr  Sr2  1  0.30526392  0.00000000  0.00000000  1
+  P  P0  1  0.66666700  0.33333300  0.17977061  1
+  P  P1  1  0.66666700  0.33333300  0.82022939  1
+  P  P2  1  0.33333300  0.66666700  0.82022939  1
+  P  P3  1  0.33333300  0.66666700  0.17977061  1
+  P  P4  1  0.00000000  0.00000000  0.68174482  1
+  P  P5  1  0.00000000  0.00000000  0.31825518  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 P4 3.226460 1_565
+Ba0 P5 3.226460 1_565
+Ba0 P2 3.322866 1_555
+Ba0 P3 3.322866 1_555
+Ba0 P1 3.322869 1_455
+Ba0 P0 3.322869 1_455
+Ba1 P4 3.226460 1_555
+Ba1 P5 3.226460 1_555
+Ba1 P1 3.322873 1_555
+Ba1 P0 3.322873 1_555
+Ba1 P2 3.322873 1_555
+Ba1 P3 3.322873 1_555
+Ba2 P4 3.226460 1_655
+Ba2 P5 3.226460 1_655
+Ba2 P1 3.322866 1_555
+Ba2 P0 3.322866 1_555
+Ba2 P2 3.322869 1_545
+Ba2 P3 3.322869 1_545
+P0 P1 2.266528 1_554
+P0 Sr0 3.096679 1_655
+P0 Sr2 3.096683 1_555
+P0 Sr1 3.096687 1_555
+P1 Sr0 3.096679 1_656
+P1 Sr2 3.096683 1_556
+P1 Sr1 3.096687 1_556
+P2 P3 2.266528 1_556
+P2 Sr2 3.096679 1_566
+P2 Sr0 3.096683 1_556
+P2 Sr1 3.096687 1_556
+P3 Sr2 3.096679 1_565
+P3 Sr0 3.096683 1_555
+P3 Sr1 3.096687 1_555
+P4 P5 2.291419 1_555
+P4 Sr2 3.226095 1_556
+P4 Sr1 3.226095 1_446
+P4 Sr0 3.226095 1_556
+P5 Sr2 3.226095 1_555
+P5 Sr0 3.226095 1_555
+P5 Sr1 3.226095 1_445

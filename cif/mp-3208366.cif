@@ -1,0 +1,119 @@
+# generated using pymatgen
+data_Hf4TaGaSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.53027976
+_cell_length_b   8.53027951
+_cell_length_c   5.73053122
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4TaGaSn3
+_chemical_formula_sum   'Hf8 Ta2 Ga2 Sn6'
+_cell_volume   361.12042002
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.73277125  0.73277125  0.74985200  1
+  Hf  Hf1  1  0.26722875  0.00000000  0.74985200  1
+  Hf  Hf2  1  1.00000000  0.26722875  0.74985200  1
+  Hf  Hf3  1  0.26722875  0.26722875  0.25014800  1
+  Hf  Hf4  1  0.73277125  0.00000000  0.25014800  1
+  Hf  Hf5  1  0.00000000  0.73277125  0.25014800  1
+  Hf  Hf6  1  0.33333300  0.66666700  0.50000000  1
+  Hf  Hf7  1  0.66666700  0.33333300  0.50000000  1
+  Ta  Ta0  1  0.66666700  0.33333300  0.00000000  1
+  Ta  Ta1  1  0.33333300  0.66666700  0.00000000  1
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn0  1  0.39040793  0.39040793  0.75383290  1
+  Sn  Sn1  1  0.60959207  0.00000000  0.75383290  1
+  Sn  Sn2  1  1.00000000  0.60959207  0.75383290  1
+  Sn  Sn3  1  0.60959207  0.60959207  0.24616710  1
+  Sn  Sn4  1  0.39040793  0.00000000  0.24616710  1
+  Sn  Sn5  1  0.00000000  0.39040793  0.24616710  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Sn0 2.920544 1_555
+Hf0 Sn1 2.948918 1_565
+Hf0 Sn2 2.948918 1_555
+Hf0 Sn3 3.032040 1_556
+Hf0 Sn3 3.071691 1_555
+Hf1 Sn1 2.920544 1_555
+Hf1 Sn0 2.948918 1_555
+Hf1 Sn2 2.948918 1_445
+Hf1 Sn4 3.032040 1_556
+Hf1 Sn4 3.071691 1_555
+Hf2 Sn2 2.920544 1_555
+Hf2 Sn1 2.948918 1_555
+Hf2 Sn0 2.948918 1_655
+Hf2 Sn5 3.032040 1_656
+Hf2 Sn5 3.071691 1_655
+Hf3 Sn3 2.920544 1_555
+Hf3 Sn4 2.948918 1_555
+Hf3 Sn5 2.948918 1_555
+Hf3 Sn0 3.032040 1_554
+Hf3 Sn0 3.071691 1_555
+Hf4 Sn4 2.920544 1_555
+Hf4 Sn5 2.948918 1_655
+Hf4 Sn3 2.948918 1_545
+Hf4 Sn1 3.032040 1_554
+Hf4 Sn1 3.071691 1_555
+Hf5 Sn5 2.920544 1_555
+Hf5 Sn4 2.948918 1_565
+Hf5 Sn3 2.948918 1_455
+Hf5 Sn2 3.032040 1_454
+Hf5 Sn2 3.071691 1_455
+Hf6 Ta1 2.865266 1_555
+Hf6 Ta1 2.865266 1_556
+Hf6 Sn4 3.008918 1_565
+Hf6 Sn2 3.008918 1_455
+Hf6 Sn1 3.008920 1_565
+Hf6 Sn5 3.008920 1_555
+Hf6 Sn0 3.008925 1_555
+Hf6 Sn3 3.008925 1_555
+Hf7 Ta0 2.865266 1_556
+Hf7 Ta0 2.865266 1_555
+Hf7 Sn1 3.008918 1_555
+Hf7 Sn5 3.008918 1_655
+Hf7 Sn4 3.008920 1_555
+Hf7 Sn2 3.008920 1_555
+Hf7 Sn3 3.008925 1_555
+Hf7 Sn0 3.008925 1_555
+Ga0 Hf3 2.692796 1_555
+Ga0 Hf0 2.692796 1_444
+Ga0 Hf2 2.692796 1_454
+Ga0 Hf5 2.692796 1_545
+Ga0 Hf1 2.692796 1_554
+Ga0 Hf4 2.692796 1_455
+Ga1 Hf3 2.691894 1_555
+Ga1 Hf0 2.691894 1_445
+Ga1 Hf2 2.691894 1_455
+Ga1 Hf5 2.691894 1_545
+Ga1 Hf1 2.691894 1_555
+Ga1 Hf4 2.691894 1_455
+Sn0 Ta1 2.987936 1_556
+Sn0 Ta0 2.987936 1_556
+Sn1 Ta0 2.987929 1_556
+Sn1 Ta1 2.987931 1_546
+Sn2 Ta1 2.987929 1_656
+Sn2 Ta0 2.987931 1_556
+Sn3 Ta0 2.987936 1_555
+Sn3 Ta1 2.987936 1_555
+Sn4 Ta1 2.987929 1_545
+Sn4 Ta0 2.987931 1_555
+Sn5 Ta0 2.987929 1_455
+Sn5 Ta1 2.987931 1_555

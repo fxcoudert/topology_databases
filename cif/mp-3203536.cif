@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_VTc2NiB3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37557190
+_cell_length_b   4.37557124
+_cell_length_c   10.59918485
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.65369522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VTc2NiB3
+_chemical_formula_sum   'V2 Tc4 Ni2 B6'
+_cell_volume   134.05600576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50032371  0.49967629  0.25000000  1
+  V  V1  1  0.49967629  0.50032371  0.75000000  1
+  Tc  Tc0  1  0.78781275  0.21218725  0.38591456  1
+  Tc  Tc1  1  0.21218725  0.78781275  0.61408544  1
+  Tc  Tc2  1  0.78781275  0.21218725  0.11408544  1
+  Tc  Tc3  1  0.21218725  0.78781275  0.88591456  1
+  Ni  Ni0  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni1  1  0.50000000  0.50000000  0.00000000  1
+  B  B0  1  0.08734349  0.91265651  0.39390822  1
+  B  B1  1  0.91265651  0.08734349  0.60609178  1
+  B  B2  1  0.08734349  0.91265651  0.10609178  1
+  B  B3  1  0.91265651  0.08734349  0.89390822  1
+  B  B4  1  0.20425458  0.79574542  0.25000000  1
+  B  B5  1  0.79574542  0.20425458  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+B0 B4 1.800793 1_555
+B0 Ni0 2.040123 1_565
+B0 Ni0 2.040123 1_455
+B0 Tc0 2.255547 1_455
+B0 Tc0 2.255548 1_565
+B0 V0 2.284824 1_565
+B0 V0 2.284824 1_455
+B0 Tc0 2.453917 1_465
+B0 Tc1 2.547744 1_555
+B1 B5 1.800793 1_555
+B1 Ni0 2.040123 1_545
+B1 Ni0 2.040123 1_655
+B1 Tc1 2.255547 1_655
+B1 Tc1 2.255548 1_545
+B1 V1 2.284824 1_545
+B1 V1 2.284824 1_655
+B1 Tc1 2.453917 1_645
+B1 Tc0 2.547744 1_555
+B2 B4 1.800793 1_555
+B2 Ni1 2.040123 1_565
+B2 Ni1 2.040123 1_455
+B2 Tc2 2.255547 1_455
+B2 Tc2 2.255548 1_565
+B2 V0 2.284824 1_565
+B2 V0 2.284824 1_455
+B2 Tc2 2.453917 1_465
+B2 Tc3 2.547744 1_554
+B3 B5 1.800793 1_555
+B3 Ni1 2.040123 1_546
+B3 Ni1 2.040123 1_656
+B3 Tc3 2.255547 1_655
+B3 Tc3 2.255548 1_545
+B3 V1 2.284824 1_545
+B3 V1 2.284824 1_655
+B3 Tc3 2.453917 1_645
+B3 Tc2 2.547744 1_556
+B4 Tc0 2.220258 1_455
+B4 Tc2 2.220258 1_455
+B4 Tc0 2.220258 1_565
+B4 Tc2 2.220258 1_565
+B4 V0 2.274678 1_565
+B4 V0 2.274678 1_455
+B4 V0 2.424111 1_555
+B5 Tc3 2.220258 1_655
+B5 Tc1 2.220258 1_655
+B5 Tc3 2.220258 1_545
+B5 Tc1 2.220258 1_545
+B5 V1 2.274678 1_545
+B5 V1 2.274678 1_655
+B5 V1 2.424111 1_555

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ir(IF)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48332995
+_cell_length_b   6.48332978
+_cell_length_c   6.48333074
+_cell_angle_alpha   106.35567386
+_cell_angle_beta   112.78936362
+_cell_angle_gamma   109.33290743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ir(IF)2
+_chemical_formula_sum   'Ir2 I4 F4'
+_cell_volume   209.12008661
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  1.00000000  0.24993256  0.24993256  1
+  Ir  Ir1  1  0.00000000  0.75006744  0.75006744  1
+  I  I0  1  0.76257136  0.76257136  0.00000000  1
+  I  I1  1  0.23742864  0.23742864  1.00000000  1
+  I  I2  1  0.76248718  0.26248718  0.50000000  1
+  I  I3  1  0.23751282  0.73751282  0.50000000  1
+  F  F0  1  0.72200244  0.24995555  0.97195799  1
+  F  F1  1  0.27799756  0.24995555  0.52795311  1
+  F  F2  1  0.72200244  0.75004445  0.47204689  1
+  F  F3  1  0.27799756  0.75004445  0.02804201  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+I0 Ir0 2.634909 1_565
+I0 Ir1 2.634910 1_654
+I1 Ir1 2.634909 1_545
+I1 Ir0 2.634910 1_456
+I2 Ir1 2.636109 1_655
+I2 Ir0 2.636109 1_555
+I3 Ir0 2.636109 1_455
+I3 Ir1 2.636109 1_555
+F0 Ir0 1.995089 1_556
+F1 Ir0 1.995089 1_455
+F2 Ir1 1.995089 1_655
+F3 Ir1 1.995089 1_554

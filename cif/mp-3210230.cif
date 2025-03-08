@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_BaSr(InSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88056205
+_cell_length_b   4.88056269
+_cell_length_c   19.37104226
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr(InSn)2
+_chemical_formula_sum   'Ba2 Sr2 In4 Sn4'
+_cell_volume   399.59806156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.50000000  1
+  Ba  Ba1  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr0  1  0.00000000  0.00000000  0.25000000  1
+  Sr  Sr1  1  0.00000000  0.00000000  0.75000000  1
+  In  In0  1  0.33333300  0.66666700  0.33772527  1
+  In  In1  1  0.66666700  0.33333300  0.66227473  1
+  In  In2  1  0.66666700  0.33333300  0.83772527  1
+  In  In3  1  0.33333300  0.66666700  0.16227473  1
+  Sn  Sn0  1  0.33333300  0.66666700  0.88416341  1
+  Sn  Sn1  1  0.66666700  0.33333300  0.11583659  1
+  Sn  Sn2  1  0.66666700  0.33333300  0.38416341  1
+  Sn  Sn3  1  0.33333300  0.66666700  0.61583659  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Sn3 3.602072 1_545
+Ba0 Sn2 3.602072 1_455
+Ba0 Sn3 3.602076 1_445
+Ba0 Sn2 3.602076 1_555
+Ba0 Sn3 3.602076 1_555
+Ba0 Sn2 3.602076 1_445
+Ba1 Sn1 3.602072 1_455
+Ba1 Sn0 3.602072 1_544
+Ba1 Sn1 3.602076 1_555
+Ba1 Sn0 3.602076 1_444
+Ba1 Sn1 3.602076 1_445
+Ba1 Sn0 3.602076 1_554
+In0 Sn2 2.957896 1_455
+In0 Sn2 2.957896 1_565
+In0 Sn2 2.957904 1_555
+In0 Sr0 3.290542 1_565
+In0 Sr0 3.290546 1_665
+In0 Sr0 3.290546 1_555
+In1 Sn3 2.957896 1_655
+In1 Sn3 2.957896 1_545
+In1 Sn3 2.957904 1_555
+In1 Sr1 3.290542 1_655
+In1 Sr1 3.290546 1_555
+In1 Sr1 3.290546 1_665
+In2 Sn0 2.957896 1_655
+In2 Sn0 2.957896 1_545
+In2 Sn0 2.957904 1_555
+In2 Sr1 3.290542 1_655
+In2 Sr1 3.290546 1_555
+In2 Sr1 3.290546 1_665
+In3 Sn1 2.957896 1_455
+In3 Sn1 2.957896 1_565
+In3 Sn1 2.957904 1_555
+In3 Sr0 3.290542 1_565
+In3 Sr0 3.290546 1_665
+In3 Sr0 3.290546 1_555
+Sn0 Sr1 3.833295 1_565
+Sn0 Sr1 3.833298 1_665
+Sn0 Sr1 3.833298 1_555
+Sn1 Sr0 3.833295 1_655
+Sn1 Sr0 3.833298 1_555
+Sn1 Sr0 3.833298 1_665
+Sn2 Sr0 3.833295 1_655
+Sn2 Sr0 3.833298 1_555
+Sn2 Sr0 3.833298 1_665
+Sn3 Sr1 3.833295 1_565
+Sn3 Sr1 3.833298 1_665
+Sn3 Sr1 3.833298 1_555

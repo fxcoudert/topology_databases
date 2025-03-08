@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_Sr3Ga2(SbP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.79460047
+_cell_length_b   8.79460103
+_cell_length_c   6.90173302
+_cell_angle_alpha   89.25342505
+_cell_angle_beta   89.25342612
+_cell_angle_gamma   75.08821197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ga2(SbP)2
+_chemical_formula_sum   'Sr6 Ga4 Sb4 P4'
+_cell_volume   515.76770969
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00367010  0.73464238  0.51691394  1
+  Sr  Sr1  1  0.26535762  0.99632990  0.98308606  1
+  Sr  Sr2  1  0.99632990  0.26535762  0.48308606  1
+  Sr  Sr3  1  0.73464238  0.00367010  0.01691394  1
+  Sr  Sr4  1  0.41505165  0.58494835  0.25000000  1
+  Sr  Sr5  1  0.58494835  0.41505165  0.75000000  1
+  Ga  Ga0  1  0.80593919  0.59464917  0.10035595  1
+  Ga  Ga1  1  0.40535083  0.19406081  0.39964405  1
+  Ga  Ga2  1  0.19406081  0.40535083  0.89964405  1
+  Ga  Ga3  1  0.59464917  0.80593919  0.60035595  1
+  Sb  Sb0  1  0.06206347  0.70642834  0.01330238  1
+  Sb  Sb1  1  0.29357166  0.93793653  0.48669762  1
+  Sb  Sb2  1  0.93793653  0.29357166  0.98669762  1
+  Sb  Sb3  1  0.70642834  0.06206347  0.51330238  1
+  P  P0  1  0.73723104  0.57361648  0.43509476  1
+  P  P1  1  0.42638352  0.26276896  0.06490524  1
+  P  P2  1  0.26276896  0.42638352  0.56490524  1
+  P  P3  1  0.57361648  0.73723104  0.93509476  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ga0 P0 2.397236 1_555
+Ga0 P3 2.398501 1_554
+Ga0 Sb2 2.724430 1_554
+Ga0 Sb0 2.736816 1_655
+Ga1 P1 2.397236 1_555
+Ga1 P2 2.398501 1_555
+Ga1 Sb3 2.724430 1_555
+Ga1 Sb1 2.736816 1_545
+Ga2 P2 2.397236 1_555
+Ga2 P1 2.398501 1_556
+Ga2 Sb0 2.724430 1_556
+Ga2 Sb2 2.736816 1_455
+Ga3 P3 2.397236 1_555
+Ga3 P0 2.398501 1_555
+Ga3 Sb1 2.724430 1_555
+Ga3 Sb3 2.736816 1_565
+Sb0 Sr3 3.354357 1_465
+Sb0 Sr4 3.439055 1_555
+Sb0 Sr0 3.467057 1_554
+Sb0 Sr1 3.473152 1_554
+Sb0 Sr0 3.509531 1_555
+Sb1 Sr2 3.354358 1_465
+Sb1 Sr4 3.439056 1_555
+Sb1 Sr1 3.467057 1_555
+Sb1 Sr0 3.473152 1_555
+Sb1 Sr1 3.509531 1_554
+Sb2 Sr1 3.354357 1_645
+Sb2 Sr5 3.439055 1_555
+Sb2 Sr2 3.467057 1_556
+Sb2 Sr3 3.473152 1_556
+Sb2 Sr2 3.509531 1_555
+Sb3 Sr0 3.354358 1_645
+Sb3 Sr5 3.439056 1_555
+Sb3 Sr3 3.467057 1_555
+Sb3 Sr2 3.473152 1_555
+Sb3 Sr3 3.509531 1_556
+P0 Sr5 3.044388 1_555
+P0 Sr2 3.077105 1_555
+P0 Sr0 3.094876 1_655
+P0 Sr4 3.100956 1_555
+P1 Sr5 3.044388 1_554
+P1 Sr3 3.077105 1_555
+P1 Sr1 3.094876 1_544
+P1 Sr4 3.100956 1_555
+P2 Sr4 3.044388 1_555
+P2 Sr0 3.077105 1_555
+P2 Sr2 3.094876 1_455
+P2 Sr5 3.100956 1_555
+P3 Sr4 3.044388 1_556
+P3 Sr1 3.077105 1_555
+P3 Sr3 3.094876 1_566
+P3 Sr5 3.100956 1_555

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_CsYMnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.84472064
+_cell_length_b   8.84472030
+_cell_length_c   11.80793710
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.52065924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsYMnTe3
+_chemical_formula_sum   'Cs2 Y2 Mn2 Te6'
+_cell_volume   454.57357193
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25461319  0.74538681  0.25000000  1
+  Cs  Cs1  1  0.74538681  0.25461319  0.75000000  1
+  Y  Y0  1  0.00000000  0.00000000  0.00000000  1
+  Y  Y1  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn0  1  0.53603555  0.46396445  0.25000000  1
+  Mn  Mn1  1  0.46396445  0.53603555  0.75000000  1
+  Te  Te0  1  0.61930298  0.38069702  0.05543586  1
+  Te  Te1  1  0.38069702  0.61930298  0.94456414  1
+  Te  Te2  1  0.38069702  0.61930298  0.55543586  1
+  Te  Te3  1  0.61930298  0.38069702  0.44456414  1
+  Te  Te4  1  0.94037690  0.05962310  0.25000000  1
+  Te  Te5  1  0.05962310  0.94037690  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Te4 3.893995 1_455
+Cs0 Te4 3.893995 1_565
+Cs0 Te3 3.962368 1_565
+Cs0 Te0 3.962368 1_565
+Cs0 Te3 3.962368 1_455
+Cs0 Te0 3.962368 1_455
+Cs0 Te2 4.202355 1_555
+Cs0 Te1 4.202355 1_554
+Cs1 Te5 3.893995 1_655
+Cs1 Te5 3.893995 1_545
+Cs1 Te1 3.962368 1_545
+Cs1 Te2 3.962368 1_545
+Cs1 Te1 3.962368 1_655
+Cs1 Te2 3.962368 1_655
+Cs1 Te0 4.202355 1_556
+Cs1 Te3 4.202355 1_555
+Mn0 Te3 2.703184 1_555
+Mn0 Te0 2.703184 1_555
+Mn0 Te4 2.782453 1_565
+Mn0 Te4 2.782453 1_455
+Mn1 Te1 2.703184 1_555
+Mn1 Te2 2.703184 1_555
+Mn1 Te5 2.782453 1_545
+Mn1 Te5 2.782453 1_655
+Te0 Y0 3.107733 1_665
+Te0 Y0 3.107733 1_555
+Te1 Y0 3.107733 1_556
+Te1 Y0 3.107733 1_666
+Te2 Y1 3.107733 1_555
+Te2 Y1 3.107733 1_665
+Te3 Y1 3.107733 1_665
+Te3 Y1 3.107733 1_555
+Te4 Y1 3.123234 1_655
+Te4 Y0 3.123234 1_655
+Te5 Y0 3.123234 1_566
+Te5 Y1 3.123234 1_565

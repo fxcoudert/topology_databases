@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_In2Ir2RhS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60024554
+_cell_length_b   5.60215839
+_cell_length_c   5.60024512
+_cell_angle_alpha   60.60029868
+_cell_angle_beta   60.86399294
+_cell_angle_gamma   60.60029428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Ir2RhS2
+_chemical_formula_sum   'In2 Ir2 Rh1 S2'
+_cell_volume   126.16616400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.50000000  0.50000000  0.50000000  1
+  Ir  Ir0  1  0.00000000  0.00000000  0.50000000  1
+  Ir  Ir1  1  0.50000000  0.00000000  0.00000000  1
+  Rh  Rh0  1  0.00000000  0.50000000  0.00000000  1
+  S  S0  1  0.71518673  0.71287532  0.71518673  1
+  S  S1  1  0.28481327  0.28712468  0.28481327  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 Ir0 2.800123 1_555
+In0 Ir0 2.800123 1_554
+In0 Ir1 2.800123 1_555
+In0 Ir1 2.800123 1_455
+In0 Rh0 2.801079 1_545
+In0 Rh0 2.801079 1_555
+In1 Ir0 2.825974 1_565
+In1 Ir0 2.825974 1_655
+In1 Ir1 2.825974 1_565
+In1 Ir1 2.825974 1_556
+In1 Rh0 2.836610 1_655
+In1 Rh0 2.836610 1_556
+In1 S0 2.926241 1_555
+In1 S1 2.926241 1_555
+Ir0 S1 2.308190 1_555
+Ir0 S0 2.308190 1_445
+Ir1 S1 2.308190 1_555
+Ir1 S0 2.308190 1_544
+Rh0 S1 2.291875 1_555
+Rh0 S0 2.291875 1_454

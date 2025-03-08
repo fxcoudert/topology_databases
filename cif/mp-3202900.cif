@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlCdInTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60437389
+_cell_length_b   7.60437392
+_cell_length_c   7.60437455
+_cell_angle_alpha   131.59770953
+_cell_angle_beta   131.59771318
+_cell_angle_gamma   70.86515447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCdInTe4
+_chemical_formula_sum   'Al1 Cd1 In1 Te4'
+_cell_volume   240.84840392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  0.00000000  1
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  In  In0  1  0.25000000  0.75000000  0.50000000  1
+  Te  Te0  1  0.41870708  0.88817313  0.04483063  1
+  Te  Te1  1  0.11182687  0.15665749  0.53053395  1
+  Te  Te2  1  0.62612354  0.58129292  0.46946605  1
+  Te  Te3  1  0.84334251  0.37387646  0.95516937  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Al0 Te1 2.637982 1_554
+Al0 Te0 2.637983 1_555
+Al0 Te3 2.637983 1_554
+Al0 Te2 2.637983 1_555
+Cd0 Te2 2.854093 1_444
+Cd0 Te0 2.854094 1_545
+Cd0 Te3 2.854094 1_454
+Cd0 Te1 2.854094 1_555
+In0 Te3 2.821546 1_454
+In0 Te1 2.821547 1_565
+In0 Te2 2.821547 1_555
+In0 Te0 2.821547 1_556

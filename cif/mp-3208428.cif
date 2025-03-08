@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_CsK3(SbPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15955361
+_cell_length_b   7.15955293
+_cell_length_c   7.15955345
+_cell_angle_alpha   90.31483018
+_cell_angle_beta   89.68517535
+_cell_angle_gamma   90.31483494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK3(SbPt)4
+_chemical_formula_sum   'Cs1 K3 Sb4 Pt4'
+_cell_volume   366.97644340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.86210843  0.63789157  0.36210843  1
+  K  K0  1  0.63801498  0.36014171  0.86231045  1
+  K  K1  1  0.36231045  0.86198502  0.63985829  1
+  K  K2  1  0.13985829  0.13768955  0.13801498  1
+  Sb  Sb0  1  0.15922890  0.34077110  0.65922890  1
+  Sb  Sb1  1  0.65351223  0.15471115  0.34567869  1
+  Sb  Sb2  1  0.34528885  0.65432131  0.15351223  1
+  Sb  Sb3  1  0.84567869  0.84648777  0.84528885  1
+  Pt  Pt0  1  0.59526900  0.90473100  0.09526900  1
+  Pt  Pt1  1  0.09965554  0.60044406  0.89951870  1
+  Pt  Pt2  1  0.39951870  0.40034446  0.39955594  1
+  Pt  Pt3  1  0.89955594  0.10048130  0.59965554  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 Pt0 3.327131 1_555
+Cs0 Sb0 3.704695 1_655
+Cs0 Pt3 3.723793 1_565
+Cs0 Pt2 3.723794 1_555
+Cs0 Pt1 3.723794 1_654
+Cs0 Sb1 3.761924 1_555
+Cs0 Sb3 3.761924 1_555
+Cs0 Sb2 3.761924 1_655
+K0 Pt3 3.234159 1_555
+K0 Sb2 3.623165 1_556
+K0 Pt0 3.681002 1_546
+K0 Pt1 3.727873 1_655
+K0 Sb0 3.732434 1_555
+K0 Pt2 3.748771 1_555
+K0 Sb1 3.770137 1_556
+K0 Sb3 3.780953 1_555
+K1 Pt1 3.234159 1_555
+K1 Sb1 3.623164 1_565
+K1 Pt0 3.681002 1_556
+K1 Pt2 3.727873 1_555
+K1 Sb0 3.732434 1_565
+K1 Pt3 3.748771 1_465
+K1 Sb3 3.770137 1_555
+K1 Sb2 3.780954 1_555
+K2 Pt2 3.234159 1_555
+K2 Sb3 3.623164 1_444
+K2 Pt0 3.681002 1_545
+K2 Pt3 3.727874 1_455
+K2 Sb0 3.732434 1_554
+K2 Pt1 3.748771 1_554
+K2 Sb2 3.770137 1_545
+K2 Sb1 3.780954 1_455
+Pt0 Sb1 2.560476 1_565
+Pt0 Sb2 2.560476 1_555
+Pt0 Sb3 2.560476 1_554
+Pt1 Sb0 2.561932 1_555
+Pt1 Sb2 2.562890 1_556
+Pt1 Sb3 2.571141 1_455
+Pt2 Sb0 2.561932 1_555
+Pt2 Sb1 2.562890 1_555
+Pt2 Sb2 2.571141 1_555
+Pt3 Sb0 2.561932 1_655
+Pt3 Sb3 2.562890 1_545
+Pt3 Sb1 2.571141 1_555

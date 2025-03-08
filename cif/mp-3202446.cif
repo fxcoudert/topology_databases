@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_V3(As2W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87179553
+_cell_length_b   6.87188520
+_cell_length_c   6.85875846
+_cell_angle_alpha   92.71102599
+_cell_angle_beta   93.75041776
+_cell_angle_gamma   152.57585175
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3(As2W)2
+_chemical_formula_sum   'V3 As4 W2'
+_cell_volume   144.88962142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.69606574  0.62474583  0.31843580  1
+  V  V1  1  0.30566041  0.37574729  0.68385106  1
+  V  V2  1  0.62704263  0.30185955  0.92949086  1
+  As  As0  1  0.28215028  0.94603783  0.22783527  1
+  As  As1  1  0.06378916  0.28438150  0.34786273  1
+  As  As2  1  0.94061995  0.71944000  0.66061284  1
+  As  As3  1  0.70912984  0.05408231  0.76358447  1
+  W  W0  1  0.00068149  0.99778539  0.99835268  1
+  W  W1  1  0.37485750  0.69591630  0.06997729  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+V0 W0 2.716688 1_654
+V0 W0 2.720443 1_544
+V0 W1 3.085201 1_555
+V1 W0 2.692476 1_545
+V1 W0 2.696858 1_655
+V1 W1 3.083403 1_556
+V2 W0 2.740177 1_545
+V2 W0 2.741473 1_655
+V2 W1 3.009668 1_546
+V2 W1 3.011782 1_656
+As0 V0 2.480474 1_455
+As0 V0 2.484664 1_565
+As0 W1 2.527939 1_555
+As0 V2 2.569656 1_564
+As0 V2 2.570963 1_454
+As0 W0 2.687125 1_554
+As1 V1 2.444748 1_555
+As1 V0 2.546771 1_445
+As1 W1 2.550008 1_445
+As1 V0 2.551069 1_555
+As1 W1 2.551645 1_555
+As1 W0 2.777517 1_544
+As2 V0 2.480691 1_555
+As2 V2 2.513682 1_665
+As2 V2 2.514367 1_555
+As2 V1 2.540515 1_665
+As2 V1 2.544441 1_555
+As2 W0 2.692463 1_655
+As3 V2 2.473452 1_555
+As3 V1 2.512126 1_655
+As3 V1 2.516392 1_545
+As3 W1 2.614317 1_546
+As3 W1 2.616043 1_656
+As3 W0 2.787340 1_645
+W0 W1 2.752239 1_456
+W0 W1 2.753485 1_566

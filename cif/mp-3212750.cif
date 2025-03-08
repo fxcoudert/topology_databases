@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_Li3CaReN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20743114
+_cell_length_b   7.20743085
+_cell_length_c   7.20743172
+_cell_angle_alpha   47.43084998
+_cell_angle_beta   47.43085415
+_cell_angle_gamma   47.43085570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3CaReN3
+_chemical_formula_sum   'Li6 Ca2 Re2 N6'
+_cell_volume   185.80205810
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.47427046  0.89334913  0.23857159  1
+  Li  Li1  1  0.89334913  0.23857159  0.47427046  1
+  Li  Li2  1  0.76142841  0.52572954  0.10665087  1
+  Li  Li3  1  0.52572954  0.10665087  0.76142841  1
+  Li  Li4  1  0.10665087  0.76142841  0.52572954  1
+  Li  Li5  1  0.23857159  0.47427046  0.89334913  1
+  Ca  Ca0  1  0.33871658  0.33871658  0.33871658  1
+  Ca  Ca1  1  0.66128342  0.66128342  0.66128342  1
+  Re  Re0  1  0.93924975  0.93924975  0.93924975  1
+  Re  Re1  1  0.06075025  0.06075025  0.06075025  1
+  N  N0  1  0.22308817  0.90449520  0.60002098  1
+  N  N1  1  0.60002098  0.22308817  0.90449520  1
+  N  N2  1  0.77691183  0.09550480  0.39997902  1
+  N  N3  1  0.09550480  0.39997902  0.77691183  1
+  N  N4  1  0.39997902  0.77691183  0.09550480  1
+  N  N5  1  0.90449520  0.60002098  0.22308817  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 N0 1.943209 1_555
+Li0 N1 2.118186 1_564
+Li0 N4 2.140092 1_555
+Li0 N5 2.253603 1_555
+Li1 N5 1.943209 1_555
+Li1 N0 2.118186 1_645
+Li1 N2 2.140092 1_555
+Li1 N1 2.253603 1_555
+Li2 N4 1.943209 1_555
+Li2 N3 2.118186 1_654
+Li2 N5 2.140092 1_555
+Li2 N2 2.253602 1_555
+Li3 N2 1.943209 1_555
+Li3 N4 2.118186 1_546
+Li3 N1 2.140092 1_555
+Li3 N3 2.253603 1_555
+Li4 N3 1.943209 1_555
+Li4 N2 2.118186 1_465
+Li4 N0 2.140092 1_555
+Li4 N4 2.253603 1_555
+Li5 N1 1.943209 1_555
+Li5 N5 2.118186 1_456
+Li5 N3 2.140092 1_555
+Li5 N0 2.253602 1_555
+Ca0 N4 2.567412 1_555
+Ca0 N2 2.567413 1_555
+Ca0 N3 2.567413 1_555
+Ca0 N0 2.732531 1_545
+Ca0 N5 2.732532 1_455
+Ca0 N1 2.732532 1_554
+Ca1 N1 2.567412 1_555
+Ca1 N0 2.567413 1_555
+Ca1 N5 2.567413 1_555
+Ca1 N2 2.732531 1_565
+Ca1 N3 2.732532 1_655
+Ca1 N4 2.732532 1_556
+N0 Re0 1.895727 1_455
+N1 Re0 1.895727 1_545
+N2 Re1 1.895727 1_655
+N3 Re1 1.895727 1_556
+N4 Re1 1.895727 1_565
+N5 Re0 1.895727 1_554

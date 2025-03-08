@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Ca2Si2Os2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84209858
+_cell_length_b   5.84209909
+_cell_length_c   7.13509680
+_cell_angle_alpha   126.93308512
+_cell_angle_beta   126.93308715
+_cell_angle_gamma   40.89525514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Si2Os2C
+_chemical_formula_sum   'Ca2 Si2 Os2 C1'
+_cell_volume   122.32938355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.43039625  0.43039625  0.16049729  1
+  Ca  Ca1  1  0.56960375  0.56960375  0.83950271  1
+  Si  Si0  1  0.84606526  0.84606526  0.40373367  1
+  Si  Si1  1  0.15393474  0.15393474  0.59626633  1
+  Os  Os0  1  0.20250310  0.20250310  0.31172480  1
+  Os  Os1  1  0.79749590  0.79749590  0.68827520  1
+  C  C0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Si1 3.120914 1_554
+Ca0 Si1 3.172177 1_655
+Ca0 Si1 3.172177 1_565
+Ca0 Si0 3.175683 1_455
+Ca0 Si0 3.175684 1_545
+Ca1 Si0 3.120914 1_556
+Ca1 Si0 3.172177 1_455
+Ca1 Si0 3.172177 1_545
+Ca1 Si1 3.175683 1_655
+Ca1 Si1 3.175684 1_565
+Si0 Si1 2.703541 1_665
+Os0 Si0 2.396527 1_545
+Os0 Si0 2.396527 1_455
+Os0 Si1 2.406065 1_555
+Os1 Si1 2.396521 1_565
+Os1 Si1 2.396522 1_655
+Os1 Si0 2.406073 1_555
+C0 Os0 1.880874 1_555
+C0 Os1 1.880879 1_444
+C0 Ca1 2.678946 1_544
+C0 Ca0 2.678946 1_455
+C0 Ca1 2.678947 1_454
+C0 Ca0 2.678947 1_545

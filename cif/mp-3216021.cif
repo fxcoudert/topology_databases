@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_As2PdRuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02753908
+_cell_length_b   6.02159163
+_cell_length_c   6.01639656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.50801581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   As2PdRuSe2
+_chemical_formula_sum   'As4 Pd2 Ru2 Se4'
+_cell_volume   218.35880910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.11111696  0.87444679  0.38598175  1
+  As  As1  1  0.87441264  0.39517478  0.12240353  1
+  As  As2  1  0.62558736  0.60482522  0.62240353  1
+  As  As3  1  0.38888304  0.12555321  0.88598175  1
+  Pd  Pd0  1  0.49365680  0.99293733  0.50497980  1
+  Pd  Pd1  1  0.00634320  0.00706267  0.00497980  1
+  Ru  Ru0  1  0.99698528  0.50539940  0.49346484  1
+  Ru  Ru1  1  0.50301472  0.49460060  0.99346484  1
+  Se  Se0  1  0.12236034  0.60855159  0.87928258  1
+  Se  Se1  1  0.88969184  0.12546466  0.61388750  1
+  Se  Se2  1  0.61030816  0.87453534  0.11388750  1
+  Se  Se3  1  0.37763966  0.39144841  0.37928258  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Ru0 2.408884 1_455
+As0 Se1 2.445789 1_465
+As0 Pd1 2.509964 1_565
+As0 Pd0 2.511787 1_555
+As1 Ru0 2.441623 1_555
+As1 Se0 2.447434 1_654
+As1 Ru1 2.448549 1_554
+As1 Pd1 2.574148 1_655
+As2 Ru1 2.441623 1_555
+As2 Se3 2.447434 1_555
+As2 Ru0 2.448549 1_555
+As2 Pd0 2.574148 1_555
+As3 Ru1 2.408884 1_555
+As3 Se2 2.445789 1_546
+As3 Pd0 2.509964 1_545
+As3 Pd1 2.511787 1_556
+Pd0 Se2 2.558914 1_555
+Pd0 Se1 2.594363 1_565
+Pd0 Se3 2.617079 1_565
+Pd1 Se1 2.558914 1_454
+Pd1 Se2 2.594363 1_445
+Pd1 Se0 2.617079 1_544
+Ru0 Se1 2.480121 1_555
+Ru0 Se3 2.496994 1_655
+Ru0 Se0 2.517280 1_655
+Ru1 Se2 2.480121 1_556
+Ru1 Se0 2.496994 1_555
+Ru1 Se3 2.517280 1_556

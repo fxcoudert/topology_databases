@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_SiAsSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95224368
+_cell_length_b   9.95723061
+_cell_length_c   12.54267192
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiAsSe
+_chemical_formula_sum   'Si8 As8 Se8'
+_cell_volume   618.48708440
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25000000  0.00000000  0.76638629  1
+  Si  Si1  1  0.25000000  0.50000000  0.73361371  1
+  Si  Si2  1  0.75000000  0.00000000  0.23361371  1
+  Si  Si3  1  0.75000000  0.50000000  0.26638629  1
+  Si  Si4  1  0.29918405  0.25000000  0.25000000  1
+  Si  Si5  1  0.20081595  0.75000000  0.25000000  1
+  Si  Si6  1  0.70081595  0.75000000  0.75000000  1
+  Si  Si7  1  0.79918405  0.25000000  0.75000000  1
+  As  As0  1  0.07289591  0.41161038  0.14149432  1
+  As  As1  1  0.07289591  0.08838962  0.35850568  1
+  As  As2  1  0.42710409  0.91161038  0.35850568  1
+  As  As3  1  0.42710409  0.58838962  0.14149432  1
+  As  As4  1  0.92710409  0.58838962  0.85850568  1
+  As  As5  1  0.92710409  0.91161038  0.64149432  1
+  As  As6  1  0.57289591  0.08838962  0.64149432  1
+  As  As7  1  0.57289591  0.41161038  0.85850568  1
+  Se  Se0  1  0.93701461  0.84657854  0.12015375  1
+  Se  Se1  1  0.93701461  0.65342146  0.37984625  1
+  Se  Se2  1  0.56298539  0.34657854  0.37984625  1
+  Se  Se3  1  0.56298539  0.15342146  0.12015375  1
+  Se  Se4  1  0.06298539  0.15342146  0.87984625  1
+  Se  Se5  1  0.06298539  0.34657854  0.62015375  1
+  Se  Se6  1  0.43701461  0.65342146  0.62015375  1
+  Se  Se7  1  0.43701461  0.84657854  0.87984625  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Si4 2.386945 1_555
+As0 Si3 2.405296 1_455
+As0 As3 2.485029 1_555
+As1 Si4 2.386945 1_555
+As1 Si2 2.405296 1_455
+As1 As2 2.485029 1_545
+As2 Si5 2.386945 1_555
+As2 Si2 2.405296 1_565
+As3 Si5 2.386945 1_555
+As3 Si3 2.405296 1_555
+As4 Si6 2.386945 1_555
+As4 Si1 2.405296 1_655
+As4 As7 2.485029 1_555
+As5 Si6 2.386945 1_555
+As5 Si0 2.405296 1_665
+As5 As6 2.485029 1_565
+As6 Si7 2.386945 1_555
+As6 Si0 2.405296 1_555
+As7 Si7 2.386945 1_555
+As7 Si1 2.405296 1_555
+Se0 Si2 2.283999 1_565
+Se0 Si5 2.298670 1_655
+Se1 Si3 2.283999 1_555
+Se1 Si5 2.298670 1_655
+Se2 Si3 2.283999 1_555
+Se2 Si4 2.298670 1_555
+Se3 Si2 2.283999 1_555
+Se3 Si4 2.298670 1_555
+Se4 Si0 2.283999 1_555
+Se4 Si7 2.298670 1_455
+Se5 Si1 2.283999 1_555
+Se5 Si7 2.298670 1_455
+Se6 Si1 2.283999 1_555
+Se6 Si6 2.298670 1_555
+Se7 Si0 2.283999 1_565
+Se7 Si6 2.298670 1_555

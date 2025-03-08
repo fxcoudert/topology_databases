@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Ti3(NbTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51777963
+_cell_length_b   7.51777966
+_cell_length_c   7.52135562
+_cell_angle_alpha   91.85032285
+_cell_angle_beta   95.17378140
+_cell_angle_gamma   151.33940593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3(NbTe2)2
+_chemical_formula_sum   'Ti3 Nb2 Te4'
+_cell_volume   197.44761057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.37405579  0.31089737  0.68495316  1
+  Ti  Ti1  1  0.31584054  0.61330844  0.92914899  1
+  Ti  Ti2  1  0.68369807  0.38803115  0.07173022  1
+  Nb  Nb0  1  0.00077725  0.00012184  0.00089910  1
+  Nb  Nb1  1  0.62219038  0.68410222  0.30629261  1
+  Te  Te0  1  0.71661168  0.94037901  0.65699069  1
+  Te  Te1  1  0.29068384  0.05950290  0.35018674  1
+  Te  Te2  1  0.06221939  0.72554881  0.78776920  1
+  Te  Te3  1  0.93392304  0.27810825  0.21203029  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 Ti2 2.877121 1_555
+Nb0 Ti2 2.877123 1_445
+Nb0 Ti1 2.895012 1_554
+Nb0 Ti1 2.895012 1_444
+Nb0 Te2 2.938882 1_544
+Nb0 Nb1 2.947158 1_445
+Nb0 Nb1 2.947159 1_555
+Nb0 Te0 2.949711 1_444
+Nb0 Te3 2.985749 1_455
+Nb0 Te1 3.005862 1_555
+Nb0 Ti0 3.005931 1_554
+Nb0 Ti0 3.005932 1_444
+Nb1 Te3 2.841554 1_455
+Nb1 Te3 2.841557 1_565
+Nb1 Te1 2.842556 1_555
+Nb1 Te1 2.842557 1_665
+Nb1 Te0 2.847357 1_555
+Te0 Ti1 2.783869 1_555
+Te0 Ti1 2.783869 1_665
+Te0 Ti0 2.800964 1_555
+Te0 Ti0 2.800964 1_665
+Te1 Ti0 2.762918 1_555
+Te1 Ti2 2.803508 1_555
+Te1 Ti2 2.803511 1_445
+Te2 Ti2 2.805707 1_456
+Te2 Ti2 2.805707 1_566
+Te2 Ti0 2.810812 1_455
+Te2 Ti0 2.810814 1_565
+Te2 Ti1 2.827340 1_555
+Te3 Ti2 2.785953 1_555
+Te3 Ti1 2.805569 1_654
+Te3 Ti1 2.805571 1_544

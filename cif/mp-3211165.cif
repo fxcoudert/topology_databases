@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_NbP(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32598705
+_cell_length_b   7.40984967
+_cell_length_c   7.55010573
+_cell_angle_alpha   88.52226910
+_cell_angle_beta   79.29864872
+_cell_angle_gamma   84.51409932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbP(OF3)2
+_chemical_formula_sum   'Nb2 P2 O4 F12'
+_cell_volume   291.43023930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.57723944  0.24352985  0.74345715  1
+  Nb  Nb1  1  0.42276056  0.75647015  0.25654285  1
+  P  P0  1  0.21969591  0.19514434  0.15949411  1
+  P  P1  1  0.78030409  0.80485566  0.84050589  1
+  O  O0  1  0.59429675  0.72254603  0.98512306  1
+  O  O1  1  0.76746969  0.00615954  0.83108730  1
+  O  O2  1  0.40570325  0.27745397  0.01487694  1
+  O  O3  1  0.23253031  0.99384046  0.16891270  1
+  F  F0  1  0.38858927  0.45240460  0.67830627  1
+  F  F1  1  0.25052082  0.26961631  0.34019752  1
+  F  F2  1  0.05214518  0.73159968  0.85517361  1
+  F  F3  1  0.74531720  0.18492943  0.50823879  1
+  F  F4  1  0.25468280  0.81507057  0.49176121  1
+  F  F5  1  0.61141073  0.54759540  0.32169373  1
+  F  F6  1  0.84536464  0.36681171  0.80396824  1
+  F  F7  1  0.15463536  0.63318829  0.19603176  1
+  F  F8  1  0.30934240  0.09094510  0.73922208  1
+  F  F9  1  0.69065760  0.90905490  0.26077792  1
+  F  F10  1  0.74947918  0.73038369  0.65980248  1
+  F  F11  1  0.94785482  0.26840032  0.14482639  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Nb0 O2 2.093952 1_556
+Nb0 O1 2.099069 1_555
+Nb1 O0 2.093952 1_554
+Nb1 O3 2.099069 1_555
+O0 P1 1.491665 1_555
+O1 P1 1.487122 1_545
+O2 P0 1.491665 1_555
+O3 P0 1.487122 1_565
+F0 Nb0 1.869197 1_555
+F1 P0 1.527153 1_555
+F2 P1 1.519632 1_455
+F3 Nb0 1.875858 1_555
+F4 Nb1 1.875858 1_555
+F5 Nb1 1.869197 1_555
+F6 Nb0 1.896240 1_555
+F7 Nb1 1.896240 1_555
+F8 Nb0 1.908509 1_555
+F9 Nb1 1.908509 1_555
+F10 P1 1.527153 1_555
+F11 P0 1.519632 1_655

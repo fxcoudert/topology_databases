@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_KNaSnTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69067883
+_cell_length_b   9.69067892
+_cell_length_c   9.69067880
+_cell_angle_alpha   128.91778419
+_cell_angle_beta   128.91778384
+_cell_angle_gamma   75.14289920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaSnTe5
+_chemical_formula_sum   'K2 Na2 Sn2 Te10'
+_cell_volume   536.34863331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  K  K1  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na0  1  0.25000000  0.25000000  0.00000000  1
+  Na  Na1  1  0.75000000  0.75000000  0.00000000  1
+  Sn  Sn0  1  0.25000000  0.75000000  0.50000000  1
+  Sn  Sn1  1  0.75000000  0.25000000  0.50000000  1
+  Te  Te0  1  0.04642650  0.17455164  0.50000000  1
+  Te  Te1  1  0.54642650  0.04642650  0.87187286  1
+  Te  Te2  1  0.50000000  0.00000000  0.50000000  1
+  Te  Te3  1  0.00000000  0.50000000  0.50000000  1
+  Te  Te4  1  0.67455164  0.54642650  0.50000000  1
+  Te  Te5  1  0.17455164  0.67455164  0.12812714  1
+  Te  Te6  1  0.82544836  0.32544836  0.87187286  1
+  Te  Te7  1  0.32544836  0.45357350  0.50000000  1
+  Te  Te8  1  0.95357350  0.82544836  0.50000000  1
+  Te  Te9  1  0.45357350  0.95357350  0.12812714  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 Te9 3.727568 1_545
+K0 Te1 3.727568 1_454
+K0 Te0 3.727575 1_555
+K0 Te8 3.727575 1_444
+K0 Te7 3.727575 1_555
+K0 Te4 3.727575 1_444
+K0 Te5 3.727586 1_545
+K0 Te6 3.727586 1_454
+K1 Te9 3.727568 1_555
+K1 Te1 3.727568 1_554
+K1 Te7 3.727575 1_554
+K1 Te4 3.727575 1_555
+K1 Te8 3.727575 1_555
+K1 Te0 3.727575 1_554
+K1 Te6 3.727586 1_554
+K1 Te5 3.727586 1_555
+Na0 Te6 3.490366 1_454
+Na0 Te5 3.490366 1_555
+Na0 Te7 3.490371 1_555
+Na0 Te0 3.490371 1_554
+Na0 Te4 3.490371 1_555
+Na0 Te8 3.490371 1_444
+Na0 Te1 3.490381 1_554
+Na0 Te9 3.490381 1_545
+Na1 Te5 3.490366 1_655
+Na1 Te6 3.490366 1_554
+Na1 Te4 3.490371 1_554
+Na1 Te8 3.490371 1_555
+Na1 Te7 3.490371 1_554
+Na1 Te0 3.490371 1_665
+Na1 Te9 3.490381 1_555
+Na1 Te1 3.490381 1_564
+Sn0 Te5 2.776526 1_555
+Sn0 Te8 2.776544 1_455
+Sn0 Te1 2.776544 1_565
+Sn0 Te7 2.776544 1_555
+Sn1 Te6 2.776526 1_555
+Sn1 Te0 2.776544 1_655
+Sn1 Te9 2.776544 1_545
+Sn1 Te4 2.776544 1_555
+Te0 Te3 3.069417 1_555
+Te1 Te2 3.069398 1_555
+Te2 Te9 3.069398 1_545
+Te2 Te6 3.069419 1_555
+Te2 Te5 3.069419 1_545
+Te3 Te7 3.069417 1_555
+Te3 Te4 3.069417 1_455
+Te3 Te8 3.069417 1_455

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Li2AlInTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61901866
+_cell_length_b   7.61901841
+_cell_length_c   7.61901868
+_cell_angle_alpha   130.02293455
+_cell_angle_beta   130.02292890
+_cell_angle_gamma   73.37010394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2AlInTe4
+_chemical_formula_sum   'Li2 Al1 In1 Te4'
+_cell_volume   253.17338308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000000  0.75000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.50000000  0.00000000  1
+  Al  Al0  1  0.00000000  0.00000000  0.00000000  1
+  In  In0  1  0.75000000  0.25000000  0.50000000  1
+  Te  Te0  1  0.88295026  0.87529308  0.51984511  1
+  Te  Te1  1  0.12470692  0.64455203  0.00765818  1
+  Te  Te2  1  0.63689386  0.11704974  0.99234182  1
+  Te  Te3  1  0.35544797  0.36310614  0.48015489  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Te3 2.754092 1_555
+Li0 Te1 2.754092 1_555
+Li0 Te2 2.754095 1_565
+Li0 Te0 2.754099 1_455
+Li1 Te2 2.778800 1_554
+Li1 Te0 2.778804 1_555
+Li1 Te1 2.778807 1_555
+Li1 Te3 2.778807 1_554
+Al0 Te0 2.626679 1_444
+Al0 Te1 2.626682 1_545
+Al0 Te3 2.626682 1_555
+Al0 Te2 2.626682 1_454
+In0 Te0 2.811111 1_545
+In0 Te3 2.811111 1_555
+In0 Te1 2.811112 1_656
+In0 Te2 2.811115 1_554

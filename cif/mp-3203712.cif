@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_ZrSc2SnC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35590234
+_cell_length_b   3.35590255
+_cell_length_c   20.35016600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc2SnC2
+_chemical_formula_sum   'Zr2 Sc4 Sn2 C4'
+_cell_volume   198.48024850
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.50000000  1
+  Sc  Sc0  1  0.33333400  0.66666700  0.12664614  1
+  Sc  Sc1  1  0.33333400  0.66666700  0.37335386  1
+  Sc  Sc2  1  0.66666600  0.33333400  0.62664614  1
+  Sc  Sc3  1  0.66666600  0.33333400  0.87335386  1
+  Sn  Sn0  1  0.00000000  0.00000000  0.25000000  1
+  Sn  Sn1  1  0.00000000  0.00000000  0.75000000  1
+  C  C0  1  0.66666600  0.33333400  0.06820180  1
+  C  C1  1  0.66666600  0.33333400  0.43179820  1
+  C  C2  1  0.33333400  0.66666700  0.56820180  1
+  C  C3  1  0.33333400  0.66666700  0.93179820  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Sc0 Sn0 3.171038 1_665
+Sc0 Sn0 3.171040 1_565
+Sc0 Sn0 3.171040 1_555
+Sc1 Sn0 3.171038 1_665
+Sc1 Sn0 3.171040 1_565
+Sc1 Sn0 3.171040 1_555
+Sc2 Sn1 3.171038 1_555
+Sc2 Sn1 3.171038 1_665
+Sc2 Sn1 3.171042 1_655
+Sc3 Sn1 3.171038 1_555
+Sc3 Sn1 3.171038 1_665
+Sc3 Sn1 3.171042 1_655
+C0 Sc0 2.273448 1_555
+C0 Sc0 2.273453 1_545
+C0 Sc0 2.273456 1_655
+C0 Zr0 2.383346 1_555
+C0 Zr0 2.383346 1_665
+C0 Zr0 2.383350 1_655
+C1 Sc1 2.273448 1_555
+C1 Sc1 2.273453 1_545
+C1 Sc1 2.273456 1_655
+C1 Zr1 2.383346 1_555
+C1 Zr1 2.383346 1_665
+C1 Zr1 2.383350 1_655
+C2 Sc2 2.273448 1_555
+C2 Sc2 2.273453 1_565
+C2 Sc2 2.273456 1_455
+C2 Zr1 2.383346 1_665
+C2 Zr1 2.383348 1_565
+C2 Zr1 2.383348 1_555
+C3 Sc3 2.273448 1_555
+C3 Sc3 2.273453 1_565
+C3 Sc3 2.273456 1_455
+C3 Zr0 2.383346 1_666
+C3 Zr0 2.383348 1_566
+C3 Zr0 2.383348 1_556

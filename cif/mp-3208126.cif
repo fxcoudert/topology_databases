@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_NaReO3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80014170
+_cell_length_b   9.78885457
+_cell_length_c   5.75144505
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.26737038
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaReO3F2
+_chemical_formula_sum   'Na2 Re2 O6 F4'
+_cell_volume   200.70189059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na1  1  0.00000000  0.50000000  0.50000000  1
+  Re  Re0  1  0.23157535  0.75000000  0.07661810  1
+  Re  Re1  1  0.76842565  0.25000000  0.92338190  1
+  O  O0  1  0.79717182  0.75000000  0.12738797  1
+  O  O1  1  0.82495579  0.11420848  0.12280601  1
+  O  O2  1  0.82495579  0.38579152  0.12280601  1
+  O  O3  1  0.17504521  0.61420748  0.87719399  1
+  O  O4  1  0.17504521  0.88579152  0.87719399  1
+  O  O5  1  0.20282918  0.25000000  0.87261303  1
+  F  F0  1  0.43863147  0.62149158  0.36643776  1
+  F  F1  1  0.43863147  0.87850842  0.36643776  1
+  F  F2  1  0.56136853  0.12149158  0.63356224  1
+  F  F3  1  0.56136853  0.37850842  0.63356224  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 O4 2.323556 1_545
+Na0 O1 2.323556 1_455
+Na1 O3 2.323551 1_555
+Na1 O2 2.323556 1_455
+O0 Re0 1.773229 1_655
+O0 Re0 2.066433 1_555
+O1 Re1 1.719851 1_554
+O2 Re1 1.719851 1_554
+O3 Re0 1.719859 1_556
+O4 Re0 1.719851 1_556
+O5 Re1 1.773226 1_455
+O5 Re1 2.066434 1_555
+F0 Re0 2.017769 1_555
+F0 Na1 2.328090 1_655
+F0 Na1 2.381169 1_555
+F1 Re0 2.017769 1_555
+F1 Na0 2.328090 1_665
+F1 Na0 2.381169 1_565
+F2 Re1 2.017770 1_555
+F2 Na0 2.328090 1_555
+F2 Na0 2.381169 1_655
+F3 Re1 2.017770 1_555
+F3 Na1 2.328090 1_555
+F3 Na1 2.381169 1_655

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_Ba2Cd3InPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18881097
+_cell_length_b   6.18881056
+_cell_length_c   8.23712222
+_cell_angle_alpha   89.77529236
+_cell_angle_beta   90.22470770
+_cell_angle_gamma   137.16917647
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Cd3InPd2
+_chemical_formula_sum   'Ba2 Cd3 In1 Pd2'
+_cell_volume   214.48166803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.55442277  0.44557723  0.24599585  1
+  Ba  Ba1  1  0.44583873  0.55416127  0.75085198  1
+  Cd  Cd0  1  0.83299870  0.16700130  0.05663368  1
+  Cd  Cd1  1  0.16651648  0.83348352  0.94128122  1
+  Cd  Cd2  1  0.15978595  0.84021405  0.55968685  1
+  In  In0  1  0.83715318  0.16284682  0.44280231  1
+  Pd  Pd0  1  0.28032338  0.71967662  0.25738527  1
+  Pd  Pd1  1  0.72296082  0.27703918  0.74536283  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 Pd0 3.160247 1_555
+Ba0 Pd0 3.448033 1_545
+Ba0 Pd0 3.448034 1_655
+Ba0 Cd0 3.574847 1_555
+Ba0 Cd1 3.619657 1_544
+Ba0 Cd1 3.619657 1_654
+Ba0 In0 3.632841 1_555
+Ba0 Cd2 3.637372 1_545
+Ba0 Cd2 3.637372 1_655
+Ba0 Cd0 3.743761 1_565
+Ba0 Cd0 3.743761 1_455
+Ba0 In0 3.746535 1_565
+Ba0 In0 3.746535 1_455
+Ba1 Pd1 3.193800 1_555
+Ba1 Pd1 3.420985 1_565
+Ba1 Pd1 3.420985 1_455
+Ba1 Cd1 3.586456 1_555
+Ba1 In0 3.617537 1_565
+Ba1 In0 3.617537 1_455
+Ba1 Cd0 3.628868 1_566
+Ba1 Cd0 3.628869 1_456
+Ba1 Cd2 3.647014 1_555
+Ba1 Cd2 3.700852 1_545
+Ba1 Cd2 3.700852 1_655
+Ba1 Cd1 3.741571 1_545
+Ba1 Cd1 3.741571 1_655
+Cd0 Pd1 2.855579 1_554
+Cd0 Pd0 2.866633 1_655
+Cd0 Pd0 2.866633 1_545
+Cd0 Cd1 3.110292 1_654
+Cd0 Cd1 3.110292 1_544
+Cd0 In0 3.181077 1_555
+Cd1 Pd1 2.853506 1_455
+Cd1 Pd1 2.853506 1_565
+Cd1 Pd0 2.910449 1_556
+Cd1 Cd2 3.143869 1_555
+Cd2 Pd1 2.822408 1_455
+Cd2 Pd1 2.822408 1_565
+Cd2 Pd0 2.856382 1_555
+Cd2 In0 3.197963 1_455
+Cd2 In0 3.197963 1_565
+In0 Pd0 2.803447 1_655
+In0 Pd0 2.803447 1_545
+In0 Pd1 2.823167 1_555

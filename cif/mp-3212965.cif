@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_Lu3Sc2(AlTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39751632
+_cell_length_b   8.39751612
+_cell_length_c   7.64497628
+_cell_angle_alpha   89.83887537
+_cell_angle_beta   89.83887414
+_cell_angle_gamma   125.89756911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Sc2(AlTe)2
+_chemical_formula_sum   'Lu6 Sc4 Al4 Te4'
+_cell_volume   436.70707083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.96055897  0.70273885  0.66890276  1
+  Lu  Lu1  1  0.29726115  0.03944103  0.33109724  1
+  Lu  Lu2  1  0.20465369  0.45971251  0.83273605  1
+  Lu  Lu3  1  0.54028749  0.79534631  0.16726395  1
+  Lu  Lu4  1  0.03926296  0.29519662  0.33024196  1
+  Lu  Lu5  1  0.70480338  0.96073704  0.66975804  1
+  Sc  Sc0  1  0.00011142  0.99988858  0.00000000  1
+  Sc  Sc1  1  0.50153360  0.49846640  0.50000000  1
+  Sc  Sc2  1  0.79054546  0.53987411  0.16686786  1
+  Sc  Sc3  1  0.46012589  0.20945454  0.83313214  1
+  Al  Al0  1  0.87310315  0.87012632  0.37377866  1
+  Al  Al1  1  0.12987368  0.12689685  0.62622134  1
+  Al  Al2  1  0.62760889  0.62498204  0.87609459  1
+  Al  Al3  1  0.37501796  0.37239111  0.12390541  1
+  Te  Te0  1  0.20422839  0.79577161  0.00000000  1
+  Te  Te1  1  0.70436446  0.29563554  0.50000000  1
+  Te  Te2  1  0.79114551  0.20885449  0.00000000  1
+  Te  Te3  1  0.29551297  0.70448703  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Lu0 Te0 3.061061 1_656
+Lu0 Te1 3.065717 1_555
+Lu0 Te3 3.083885 1_655
+Lu1 Te0 3.061061 1_545
+Lu1 Te1 3.065717 1_555
+Lu1 Te3 3.083885 1_545
+Lu2 Te3 3.065693 1_555
+Lu2 Te2 3.084227 1_456
+Lu2 Te0 3.103431 1_556
+Lu3 Te3 3.065693 1_555
+Lu3 Te2 3.084227 1_565
+Lu3 Te0 3.103431 1_555
+Lu4 Te3 3.081492 1_555
+Lu4 Te2 3.083724 1_455
+Lu4 Te1 3.095975 1_455
+Lu5 Te3 3.081493 1_555
+Lu5 Te2 3.083724 1_566
+Lu5 Te1 3.095975 1_565
+Sc0 Te0 3.053113 1_555
+Sc0 Te2 3.125641 1_465
+Sc1 Te1 3.033875 1_555
+Sc1 Te3 3.081587 1_555
+Sc2 Te2 3.064432 1_555
+Sc2 Te1 3.071823 1_555
+Sc2 Te0 3.085249 1_655
+Sc3 Te2 3.064432 1_556
+Sc3 Te1 3.071823 1_555
+Sc3 Te0 3.085249 1_546
+Al0 Al1 2.760056 1_665
+Al0 Sc2 2.906918 1_555
+Al0 Lu3 2.944534 1_555
+Al0 Lu0 2.967786 1_555
+Al0 Lu1 2.977751 1_665
+Al0 Lu5 2.991527 1_555
+Al0 Lu4 2.991536 1_665
+Al0 Sc1 2.992338 1_555
+Al0 Sc0 3.015439 1_655
+Al1 Sc3 2.906918 1_555
+Al1 Lu2 2.944534 1_555
+Al1 Lu1 2.967786 1_555
+Al1 Lu0 2.977751 1_445
+Al1 Lu4 2.991527 1_555
+Al1 Lu5 2.991536 1_445
+Al1 Sc1 2.992338 1_555
+Al1 Sc0 3.015439 1_546
+Al2 Al3 2.695602 1_556
+Al2 Sc2 2.911937 1_556
+Al2 Sc3 2.918191 1_555
+Al2 Lu0 2.929347 1_555
+Al2 Lu5 2.946873 1_555
+Al2 Lu3 2.962830 1_556
+Al2 Lu2 2.979899 1_555
+Al2 Sc0 3.013094 1_656
+Al2 Sc1 3.038398 1_555
+Al3 Sc3 2.911937 1_554
+Al3 Sc2 2.918191 1_555
+Al3 Lu1 2.929346 1_555
+Al3 Lu4 2.946873 1_555
+Al3 Lu2 2.962830 1_554
+Al3 Lu3 2.979898 1_555
+Al3 Sc0 3.013094 1_545
+Al3 Sc1 3.038398 1_555

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_ZrCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26135847
+_cell_length_b   6.48131538
+_cell_length_c   7.58510576
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.53025358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCl4
+_chemical_formula_sum   'Zr2 Cl8'
+_cell_volume   291.85904128
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  -0.00000000  0.83682824  1
+  Zr  Zr1  1  0.25000000  -0.00000000  0.16317176  1
+  Cl  Cl0  1  0.02202030  0.74912272  0.35878023  1
+  Cl  Cl1  1  0.49667219  0.22322772  0.89461195  1
+  Cl  Cl2  1  0.50332781  0.77677228  0.10538805  1
+  Cl  Cl3  1  0.97797970  0.25087728  0.64121977  1
+  Cl  Cl4  1  0.00332781  0.77677228  0.89461195  1
+  Cl  Cl5  1  0.52202030  0.74912272  0.64121977  1
+  Cl  Cl6  1  0.47797970  0.25087728  0.35878023  1
+  Cl  Cl7  1  0.99667219  0.22322772  0.10538805  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cl0 Zr1 2.325440 1_565
+Cl1 Zr0 2.501994 1_555
+Cl1 Zr1 2.684772 1_556
+Cl1 Cl4 3.497662 1_545
+Cl1 Cl7 3.515278 1_556
+Cl1 Cl7 3.515278 1_456
+Cl2 Zr1 2.501994 1_565
+Cl2 Zr0 2.684772 1_564
+Cl2 Cl7 3.497662 1_565
+Cl2 Cl4 3.515278 1_554
+Cl2 Cl4 3.515278 1_654
+Cl3 Zr0 2.325440 1_555
+Cl4 Zr0 2.501994 1_465
+Cl4 Zr1 2.684772 1_566
+Cl5 Zr0 2.325440 1_565
+Cl6 Zr1 2.325440 1_555
+Cl7 Zr1 2.501994 1_655
+Cl7 Zr0 2.684772 1_554

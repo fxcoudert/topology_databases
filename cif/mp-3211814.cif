@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_CaLuCuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86109245
+_cell_length_b   6.86109232
+_cell_length_c   10.39558574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.50207816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLuCuSe3
+_chemical_formula_sum   'Ca2 Lu2 Cu2 Se6'
+_cell_volume   270.08545476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24199460  0.75800440  0.25000000  1
+  Ca  Ca1  1  0.75800440  0.24199460  0.75000000  1
+  Lu  Lu0  1  0.00000000  0.00000000  0.00000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.52369511  0.47630389  0.25000000  1
+  Cu  Cu1  1  0.47630389  0.52369511  0.75000000  1
+  Se  Se0  1  0.63980253  0.36019647  0.06810238  1
+  Se  Se1  1  0.91282777  0.08717123  0.25000000  1
+  Se  Se2  1  0.63980253  0.36019647  0.43189862  1
+  Se  Se3  1  0.36019647  0.63980253  0.56810238  1
+  Se  Se4  1  0.08717123  0.91282777  0.75000000  1
+  Se  Se5  1  0.36019647  0.63980253  0.93189762  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Se1 2.991376 1_455
+Ca0 Se1 2.991376 1_565
+Ca0 Se0 3.047649 1_565
+Ca0 Se0 3.047649 1_455
+Ca0 Se2 3.047656 1_565
+Ca0 Se2 3.047656 1_455
+Ca1 Se4 2.991376 1_655
+Ca1 Se4 2.991376 1_545
+Ca1 Se3 3.047649 1_545
+Ca1 Se5 3.047649 1_545
+Ca1 Se3 3.047649 1_655
+Ca1 Se5 3.047649 1_655
+Lu0 Se5 2.790205 1_554
+Lu0 Se0 2.790206 1_555
+Lu0 Se0 2.790208 1_445
+Lu0 Se5 2.790208 1_444
+Lu0 Se4 2.840123 1_544
+Lu0 Se1 2.840123 1_455
+Lu1 Se2 2.790203 1_555
+Lu1 Se3 2.790205 1_555
+Lu1 Se2 2.790206 1_445
+Lu1 Se3 2.790208 1_445
+Lu1 Se4 2.840123 1_545
+Lu1 Se1 2.840123 1_455
+Cu0 Se0 2.429661 1_555
+Cu0 Se2 2.429669 1_555
+Cu0 Se1 2.455947 1_565
+Cu0 Se1 2.455948 1_455
+Cu1 Se3 2.429661 1_555
+Cu1 Se5 2.429661 1_555
+Cu1 Se4 2.455947 1_545
+Cu1 Se4 2.455948 1_655

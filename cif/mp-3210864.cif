@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_SnHg3(SCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51991496
+_cell_length_b   6.62097945
+_cell_length_c   13.01975085
+_cell_angle_alpha   88.62510309
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3(SCl3)2
+_chemical_formula_sum   'Sn2 Hg6 S4 Cl12'
+_cell_volume   648.05637976
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn1  1  0.00000000  0.50000000  0.00000000  1
+  Hg  Hg0  1  0.79506852  0.99356849  0.76225594  1
+  Hg  Hg1  1  0.20493148  0.00643151  0.23774406  1
+  Hg  Hg2  1  0.29506852  0.00643151  0.73774406  1
+  Hg  Hg3  1  0.70493148  0.99356849  0.26225594  1
+  Hg  Hg4  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg5  1  0.50000000  0.00000000  0.00000000  1
+  S  S0  1  0.96402631  0.15641265  0.33119321  1
+  S  S1  1  0.46402631  0.84358735  0.16880679  1
+  S  S2  1  0.53597369  0.15641265  0.83119321  1
+  S  S3  1  0.03597369  0.84358735  0.66880679  1
+  Cl  Cl0  1  0.94923258  0.65159289  0.16716787  1
+  Cl  Cl1  1  0.27882237  0.36068150  0.06820929  1
+  Cl  Cl2  1  0.72117763  0.63931850  0.93179071  1
+  Cl  Cl3  1  0.55076742  0.65159289  0.66716787  1
+  Cl  Cl4  1  0.77882237  0.63931850  0.43179071  1
+  Cl  Cl5  1  0.84711686  0.18991129  0.05922916  1
+  Cl  Cl6  1  0.44923258  0.34840711  0.33283213  1
+  Cl  Cl7  1  0.05076742  0.34840711  0.83283213  1
+  Cl  Cl8  1  0.15288314  0.81008871  0.94077084  1
+  Cl  Cl9  1  0.22117763  0.36068150  0.56820929  1
+  Cl  Cl10  1  0.65288314  0.18991129  0.55922916  1
+  Cl  Cl11  1  0.34711686  0.81008871  0.44077084  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hg0 S3 2.409614 1_655
+Hg0 S2 2.410533 1_565
+Hg1 S0 2.409614 1_455
+Hg1 S1 2.410533 1_545
+Hg2 S2 2.409614 1_555
+Hg2 S3 2.410533 1_545
+Hg3 S1 2.409614 1_555
+Hg3 S0 2.410533 1_565
+Hg4 S3 2.422159 1_545
+Hg4 S0 2.422159 1_455
+Hg5 S1 2.422159 1_545
+Hg5 S2 2.422159 1_554
+Cl0 Sn1 2.448481 1_655
+Cl1 Sn1 2.448767 1_555
+Cl1 Hg5 3.059354 1_555
+Cl2 Sn1 2.448767 1_656
+Cl2 Hg5 3.059354 1_566
+Cl3 Sn0 2.448481 1_555
+Cl4 Sn0 2.448767 1_555
+Cl4 Hg4 3.059354 1_665
+Cl5 Sn1 2.460816 1_655
+Cl5 Hg5 3.005971 1_555
+Cl6 Sn0 2.448481 1_555
+Cl7 Sn1 2.448481 1_556
+Cl8 Sn1 2.460816 1_556
+Cl8 Hg5 3.005971 1_566
+Cl9 Sn0 2.448767 1_555
+Cl9 Hg4 3.059354 1_555
+Cl10 Sn0 2.460816 1_555
+Cl10 Hg4 3.005971 1_655
+Cl11 Sn0 2.460816 1_555
+Cl11 Hg4 3.005971 1_565

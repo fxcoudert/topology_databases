@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_KAsRu2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11686745
+_cell_length_b   7.11686764
+_cell_length_c   7.11686731
+_cell_angle_alpha   147.52145788
+_cell_angle_beta   147.52145428
+_cell_angle_gamma   46.59229962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAsRu2S
+_chemical_formula_sum   'K1 As1 Ru2 S1'
+_cell_volume   103.56674295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.99584102  0.99584102  0.00000000  1
+  As  As0  1  0.64921064  0.64921064  1.00000000  1
+  Ru  Ru0  1  0.75610885  0.25610885  0.50000000  1
+  Ru  Ru1  1  0.25610885  0.75610885  0.50000000  1
+  S  S0  1  0.34272964  0.34272964  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 S0 3.453794 1_666
+K0 S0 3.453794 1_554
+K0 S0 3.453794 1_565
+K0 S0 3.453794 1_655
+As0 Ru0 2.431880 1_555
+As0 Ru0 2.431881 1_566
+As0 Ru1 2.431881 1_656
+As0 Ru1 2.431881 1_555
+As0 K0 3.455751 1_557
+As0 K0 3.455751 1_445
+As0 K0 3.455752 1_456
+As0 K0 3.455752 1_546
+Ru0 S0 2.289842 1_656
+Ru0 S0 2.289842 1_555
+Ru1 S0 2.289842 1_555
+Ru1 S0 2.289842 1_566

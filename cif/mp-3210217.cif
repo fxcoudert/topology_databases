@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Re3Tc(As2S)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04054081
+_cell_length_b   7.04054112
+_cell_length_c   7.04054016
+_cell_angle_alpha   59.77119409
+_cell_angle_beta   59.77119322
+_cell_angle_gamma   59.77119348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re3Tc(As2S)3
+_chemical_formula_sum   'Re3 Tc1 As6 S3'
+_cell_volume   245.49405985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.39876462  0.79632532  0.39876462  1
+  Re  Re1  1  0.79632532  0.39876462  0.39876462  1
+  Re  Re2  1  0.39876462  0.39876462  0.79632532  1
+  Tc  Tc0  1  0.40053786  0.40053786  0.40053786  1
+  As  As0  1  0.99915812  0.99915812  0.99915812  1
+  As  As1  1  0.14121074  0.14121074  0.14121074  1
+  As  As2  1  0.14297719  0.56929400  0.14297719  1
+  As  As3  1  0.56929400  0.14297719  0.14297719  1
+  As  As4  1  0.14297719  0.14297719  0.56929400  1
+  As  As5  1  0.63958684  0.63958684  0.63958684  1
+  S  S0  1  0.63161194  0.10718164  0.63161194  1
+  S  S1  1  0.10718164  0.63161194  0.63161194  1
+  S  S2  1  0.63161194  0.63161194  0.10718164  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Re0 S2 2.311046 1_555
+Re0 S1 2.311046 1_555
+Re1 S2 2.311046 1_555
+Re1 S0 2.311046 1_555
+Re2 S1 2.311046 1_555
+Re2 S0 2.311046 1_555
+As0 As1 2.454029 1_666
+As0 As4 2.463971 1_665
+As0 As3 2.463971 1_566
+As0 As2 2.463971 1_656
+As1 Re1 2.629863 1_455
+As1 Re0 2.629863 1_545
+As1 Re2 2.629863 1_554
+As2 Tc0 2.638268 1_555
+As2 Re2 2.643677 1_554
+As2 Re1 2.643677 1_455
+As3 Tc0 2.638268 1_555
+As3 Re2 2.643677 1_554
+As3 Re0 2.643677 1_545
+As4 Tc0 2.638268 1_555
+As4 Re1 2.643677 1_455
+As4 Re0 2.643677 1_545
+As5 Re0 2.468609 1_555
+As5 Re1 2.468609 1_555
+As5 Re2 2.468610 1_555
+S0 Tc0 2.336163 1_555
+S1 Tc0 2.336163 1_555
+S2 Tc0 2.336163 1_555

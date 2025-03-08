@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CsGaFeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32648596
+_cell_length_b   7.32648650
+_cell_length_c   7.32648612
+_cell_angle_alpha   118.98939395
+_cell_angle_beta   120.86612746
+_cell_angle_gamma   90.13283903
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGaFeF6
+_chemical_formula_sum   'Cs2 Ga2 Fe2 F12'
+_cell_volume   278.29130966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.63070782  0.88070782  0.75000000  1
+  Cs  Cs1  1  0.36929218  0.11929218  0.25000000  1
+  Ga  Ga0  1  0.00000000  0.50000000  0.00000000  1
+  Ga  Ga1  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe0  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  F  F0  1  0.04891482  0.79891482  0.25000000  1
+  F  F1  1  0.66902892  0.41902892  0.25000000  1
+  F  F2  1  0.06072552  0.83803151  0.64801217  1
+  F  F3  1  0.69001934  0.41271335  0.85198783  1
+  F  F4  1  0.69001934  0.83803151  0.27730599  1
+  F  F5  1  0.06072552  0.41271335  0.22269401  1
+  F  F6  1  0.95108518  0.20108518  0.75000000  1
+  F  F7  1  0.33097108  0.58097108  0.75000000  1
+  F  F8  1  0.93927448  0.16196849  0.35198783  1
+  F  F9  1  0.30998066  0.58728665  0.14801217  1
+  F  F10  1  0.30998066  0.16196849  0.72269401  1
+  F  F11  1  0.93927448  0.58728665  0.77730599  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cs0 F7 3.102035 1_555
+Cs0 F9 3.122111 1_555
+Cs0 F8 3.122111 1_566
+Cs0 F10 3.122111 1_565
+Cs0 F11 3.122111 1_555
+Cs0 F6 3.315649 1_565
+Cs1 F1 3.102035 1_555
+Cs1 F3 3.122111 1_555
+Cs1 F2 3.122111 1_544
+Cs1 F4 3.122111 1_545
+Cs1 F5 3.122111 1_555
+Cs1 F0 3.315649 1_545
+F0 Ga1 1.927204 1_565
+F0 Ga0 1.927204 1_555
+F1 Fe1 1.992387 1_655
+F1 Fe0 1.992387 1_555
+F2 Ga1 1.880631 1_565
+F2 Fe1 2.098579 1_555
+F3 Ga0 1.880630 1_656
+F3 Fe0 2.098579 1_556
+F4 Ga1 1.880630 1_665
+F4 Fe0 2.098579 1_555
+F5 Ga0 1.880631 1_555
+F5 Fe1 2.098579 1_555
+F6 Ga1 1.927204 1_655
+F6 Ga0 1.927204 1_656
+F7 Fe1 1.992387 1_555
+F7 Fe0 1.992387 1_556
+F8 Ga1 1.880631 1_655
+F8 Fe1 2.098579 1_655
+F9 Ga0 1.880630 1_555
+F9 Fe0 2.098579 1_555
+F10 Ga1 1.880630 1_555
+F10 Fe0 2.098579 1_556
+F11 Ga0 1.880631 1_656
+F11 Fe1 2.098579 1_655

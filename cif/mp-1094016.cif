@@ -1,16 +1,16 @@
 # generated using pymatgen
 data_YbMnSb2
 _symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   10.65110278
-_cell_length_b   10.65110278
-_cell_length_c   10.65110278
-_cell_angle_alpha   156.16399005
-_cell_angle_beta   156.16399005
-_cell_angle_gamma   33.96164480
+_cell_length_a   10.95361986
+_cell_length_b   10.95361986
+_cell_length_c   10.95361986
+_cell_angle_alpha   157.71113003
+_cell_angle_beta   157.71113003
+_cell_angle_gamma   31.72662600
 _symmetry_Int_Tables_number   1
 _chemical_formula_structural   YbMnSb2
 _chemical_formula_sum   'Yb2 Mn2 Sb4'
-_cell_volume   197.13949415
+_cell_volume   188.91106975
 _cell_formula_units_Z   2
 loop_
  _symmetry_equiv_pos_site_id
@@ -24,12 +24,12 @@ loop_
  _atom_site_fract_y
  _atom_site_fract_z
  _atom_site_occupancy
-  Yb  Yb0  1  0.87913900  0.87913900  0.00000000  1
-  Yb  Yb1  1  0.12086100  0.12086100  0.00000000  1
+  Yb  Yb0  1  0.88432804  0.88432804  0.00000000  1
+  Yb  Yb1  1  0.11567196  0.11567196  0.00000000  1
   Mn  Mn0  1  0.25000000  0.75000000  0.50000000  1
   Mn  Mn1  1  0.75000000  0.25000000  0.50000000  1
-  Sb  Sb0  1  0.67426100  0.67426100  0.00000000  1
-  Sb  Sb1  1  0.32573900  0.32573900  0.00000000  1
+  Sb  Sb0  1  0.66208993  0.66208993  0.00000000  1
+  Sb  Sb1  1  0.33791007  0.33791007  0.00000000  1
   Sb  Sb2  1  0.00000000  0.50000000  0.50000000  1
   Sb  Sb3  1  0.50000000  0.00000000  0.50000000  1
 loop_
@@ -37,39 +37,31 @@ _geom_bond_atom_site_label_1
 _geom_bond_atom_site_label_2
 _geom_bond_distance
 _geom_bond_site_symmetry_2
-Mn0 Sb1 2.686856 1_566
-Mn0 Sb0 2.686856 1_556
-Mn0 Sb1 2.686856 1_555
-Mn0 Sb0 2.686856 1_455
-Mn0 Yb1 3.429338 1_566
-Mn0 Yb1 3.429338 1_555
-Mn0 Yb0 3.429338 1_455
-Mn0 Yb0 3.429338 1_556
-Mn1 Sb0 2.686856 1_545
-Mn1 Sb0 2.686856 1_556
-Mn1 Sb1 2.686856 1_555
-Mn1 Sb1 2.686856 1_656
-Mn1 Yb1 3.429338 1_656
-Mn1 Yb0 3.429338 1_545
-Mn1 Yb0 3.429338 1_556
-Mn1 Yb1 3.429338 1_555
-Sb0 Yb1 3.295436 1_655
-Sb0 Yb1 3.295436 1_666
-Sb0 Yb1 3.295436 1_554
-Sb0 Yb1 3.295436 1_565
-Sb1 Yb0 3.295436 1_545
-Sb1 Yb0 3.295436 1_556
-Sb1 Yb0 3.295436 1_444
-Sb1 Yb0 3.295436 1_455
-Sb2 Sb3 3.110672 1_454
-Sb2 Sb3 3.110672 1_465
-Sb2 Sb3 3.110672 1_555
-Sb2 Sb3 3.110672 1_566
-Sb2 Yb0 3.301720 1_445
-Sb2 Yb1 3.301720 1_555
-Sb2 Yb0 3.301720 1_456
-Sb2 Yb1 3.301720 1_566
-Sb3 Yb0 3.301720 1_546
-Sb3 Yb0 3.301720 1_445
-Sb3 Yb1 3.301720 1_555
-Sb3 Yb1 3.301720 1_656
+Mn0 Sb1 2.813211 1_566
+Mn0 Sb1 2.813211 1_555
+Mn0 Sb0 2.813211 1_556
+Mn0 Sb0 2.813211 1_455
+Mn1 Sb1 2.813211 1_656
+Mn1 Sb1 2.813211 1_555
+Mn1 Sb0 2.813211 1_545
+Mn1 Sb0 2.813211 1_556
+Sb0 Yb1 3.149831 1_554
+Sb0 Yb1 3.149831 1_565
+Sb0 Yb1 3.149831 1_655
+Sb0 Yb1 3.149831 1_666
+Sb1 Yb0 3.149831 1_444
+Sb1 Yb0 3.149831 1_455
+Sb1 Yb0 3.149831 1_545
+Sb1 Yb0 3.149831 1_556
+Sb2 Sb3 2.994099 1_555
+Sb2 Sb3 2.994099 1_566
+Sb2 Sb3 2.994099 1_454
+Sb2 Sb3 2.994099 1_465
+Sb2 Yb1 3.228615 1_566
+Sb2 Yb1 3.228615 1_555
+Sb2 Yb0 3.228615 1_445
+Sb2 Yb0 3.228615 1_456
+Sb3 Yb1 3.228615 1_656
+Sb3 Yb1 3.228615 1_555
+Sb3 Yb0 3.228615 1_546
+Sb3 Yb0 3.228615 1_445

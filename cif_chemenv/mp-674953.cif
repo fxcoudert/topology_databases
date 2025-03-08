@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Cu2GeTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31845821
+_cell_length_b   7.31845821
+_cell_length_c   7.34681858
+_cell_angle_alpha   80.46167619
+_cell_angle_beta   80.46167619
+_cell_angle_gamma   120.05183090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2GeTe3
+_chemical_formula_sum   'Cu4 Ge2 Te6'
+_cell_volume   321.31807057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.98898093  0.15787774  0.00546934  1
+  Cu  Cu1  1  0.33478481  0.83498334  0.00433479  1
+  Cu  Cu2  1  0.15787774  0.98898093  0.50546934  1
+  Cu  Cu3  1  0.83498334  0.33478481  0.50433479  1
+  Ge  Ge0  1  0.67770926  0.50542649  0.99030844  1
+  Ge  Ge1  1  0.50542649  0.67770926  0.49030844  1
+  Te  Te0  1  0.05479745  0.88692765  0.87503202  1
+  Te  Te1  1  0.70776903  0.20112073  0.87090309  1
+  Te  Te2  1  0.35764641  0.53649917  0.88206031  1
+  Te  Te3  1  0.53649917  0.35764641  0.38206031  1
+  Te  Te4  1  0.20112073  0.70776903  0.37090309  1
+  Te  Te5  1  0.88692765  0.05479745  0.37503202  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 Te0 2.552608 1_644
+Cu0 Te1 2.556564 1_554
+Cu0 Te5 2.565844 1_555
+Cu0 Te2 2.578456 1_654
+Cu1 Te4 2.541717 1_555
+Cu1 Te1 2.551269 1_564
+Cu1 Te0 2.559545 1_554
+Cu1 Te2 2.563860 1_554
+Cu2 Te5 2.552608 1_465
+Cu2 Te4 2.556564 1_555
+Cu2 Te0 2.565844 1_555
+Cu2 Te3 2.578456 1_565
+Cu3 Te1 2.541717 1_555
+Cu3 Te4 2.551269 1_655
+Cu3 Te5 2.559545 1_555
+Cu3 Te3 2.563860 1_555
+Ge0 Te1 2.617619 1_555
+Ge0 Te0 2.617839 1_655
+Ge0 Te2 2.694772 1_555
+Ge0 Te3 2.717447 1_556
+Ge1 Te4 2.617619 1_555
+Ge1 Te5 2.617839 1_565
+Ge1 Te3 2.694772 1_555
+Ge1 Te2 2.717447 1_555

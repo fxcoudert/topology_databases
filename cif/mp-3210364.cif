@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_InSnPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41045642
+_cell_length_b   6.69221184
+_cell_length_c   7.06563547
+_cell_angle_alpha   111.85781778
+_cell_angle_beta   107.75408688
+_cell_angle_gamma   95.76284861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSnPO5
+_chemical_formula_sum   'In2 Sn2 P2 O10'
+_cell_volume   219.40844052
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.16392425  0.63168652  0.27490535  1
+  In  In1  1  0.83607575  0.36831348  0.72509465  1
+  Sn  Sn0  1  0.58582690  0.77384326  0.04234736  1
+  Sn  Sn1  1  0.41417310  0.22615674  0.95765164  1
+  P  P0  1  0.17213651  0.18512289  0.39152981  1
+  P  P1  1  0.82786349  0.81487711  0.60847019  1
+  O  O0  1  0.40652680  0.23076478  0.60594415  1
+  O  O1  1  0.59347320  0.76923522  0.39405585  1
+  O  O2  1  0.92491289  0.24526540  0.43984660  1
+  O  O3  1  0.07508711  0.75473460  0.56015340  1
+  O  O4  1  0.25785863  0.32727944  0.28311048  1
+  O  O5  1  0.74214137  0.67272056  0.71688952  1
+  O  O6  1  0.10101114  0.93751088  0.23382050  1
+  O  O7  1  0.89898886  0.06248912  0.76617950  1
+  O  O8  1  0.23776796  0.49976338  0.96581872  1
+  O  O9  1  0.76223204  0.50023662  0.03418128  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 O3 2.098969 1_555
+In0 O9 2.153543 1_455
+In0 O4 2.165538 1_555
+In0 O1 2.181152 1_555
+In0 O8 2.208111 1_554
+In0 O6 2.216056 1_555
+In1 O2 2.098969 1_555
+In1 O8 2.153543 1_655
+In1 O5 2.165538 1_555
+In1 O0 2.181152 1_555
+In1 O9 2.208111 1_556
+In1 O7 2.216056 1_555
+O0 P0 1.550042 1_555
+O0 Sn1 2.484490 1_555
+O1 P1 1.550042 1_555
+O1 Sn0 2.484497 1_555
+O2 P0 1.533619 1_655
+O3 P1 1.533619 1_455
+O4 P0 1.541985 1_555
+O4 Sn1 2.569733 1_554
+O5 P1 1.541985 1_555
+O5 Sn0 2.569727 1_556
+O6 P0 1.539862 1_565
+O6 Sn0 2.604455 1_455
+O7 P1 1.539862 1_545
+O7 Sn1 2.604455 1_655
+O8 Sn1 2.138416 1_555
+O8 Sn0 2.269316 1_556
+O9 Sn0 2.138417 1_555
+O9 Sn1 2.269313 1_554

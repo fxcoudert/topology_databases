@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Cu3Ni2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27807591
+_cell_length_b   5.27807647
+_cell_length_c   6.01882368
+_cell_angle_alpha   81.63428135
+_cell_angle_beta   81.63427773
+_cell_angle_gamma   119.99011145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Ni2SbO6
+_chemical_formula_sum   'Cu3 Ni2 Sb1 O6'
+_cell_volume   138.94135189
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.83993486  0.16006414  0.50000000  1
+  Cu  Cu1  1  0.49999900  0.49999900  0.50000000  1
+  Cu  Cu2  1  0.16006414  0.83993486  0.50000000  1
+  Ni  Ni0  1  0.66663217  0.33336683  1.00000000  1
+  Ni  Ni1  1  0.33336683  0.66663217  0.00000000  1
+  Sb  Sb0  1  0.00000000  0.00000000  0.00000000  1
+  O  O0  1  0.61647442  0.61647442  0.18024451  1
+  O  O1  1  0.26430352  0.94028229  0.18013099  1
+  O  O2  1  0.94028229  0.26430352  0.18013099  1
+  O  O3  1  0.05971871  0.73569748  0.81987001  1
+  O  O4  1  0.73569748  0.05971871  0.81987001  1
+  O  O5  1  0.38352658  0.38352658  0.81975549  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 O2 1.842149 1_555
+Cu0 O4 1.842155 1_555
+Cu1 O5 1.842118 1_555
+Cu1 O0 1.842118 1_555
+Cu2 O1 1.842149 1_555
+Cu2 O3 1.842155 1_555
+Ni0 O1 2.064079 1_546
+Ni0 O3 2.064087 1_655
+Ni0 O4 2.064319 1_555
+Ni0 O2 2.064327 1_556
+Ni0 O5 2.064802 1_555
+Ni0 O0 2.064807 1_556
+Ni1 O2 2.064079 1_455
+Ni1 O4 2.064087 1_564
+Ni1 O3 2.064319 1_554
+Ni1 O1 2.064327 1_555
+Ni1 O5 2.064802 1_554
+Ni1 O0 2.064807 1_555
+O0 Sb0 1.999454 1_665
+O1 Sb0 2.000269 1_565
+O2 Sb0 2.000269 1_655
+O3 Sb0 2.000263 1_566
+O4 Sb0 2.000263 1_656
+O5 Sb0 1.999459 1_556

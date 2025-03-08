@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_BaSrGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80125021
+_cell_length_b   6.80357580
+_cell_length_c   8.60088119
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.19085072
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrGeS4
+_chemical_formula_sum   'Ba2 Sr2 Ge2 S8'
+_cell_volume   378.09640849
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.22712445  0.74999900  0.43022580  1
+  Ba  Ba1  1  0.77287555  0.24999900  0.56977520  1
+  Sr  Sr0  1  0.72522490  0.24999900  0.05251890  1
+  Sr  Sr1  1  0.27477610  0.74999900  0.94748210  1
+  Ge  Ge0  1  0.28012496  0.24999900  0.19256352  1
+  Ge  Ge1  1  0.71987504  0.74999900  0.80743648  1
+  S  S0  1  0.90071562  0.74999900  0.06857644  1
+  S  S1  1  0.49483372  0.50250992  0.24714875  1
+  S  S2  1  0.49483372  0.99749108  0.24714875  1
+  S  S3  1  0.08954947  0.24999900  0.36033137  1
+  S  S4  1  0.91045053  0.74999900  0.63966863  1
+  S  S5  1  0.50516628  0.00250992  0.75285125  1
+  S  S6  1  0.50516628  0.49749108  0.75285125  1
+  S  S7  1  0.09928438  0.24999900  0.93142356  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 S0 3.208138 1_455
+Ba0 S4 3.210326 1_455
+Ba0 S1 3.227984 1_555
+Ba0 S2 3.227995 1_555
+Ba0 S6 3.309225 1_555
+Ba0 S5 3.309236 1_565
+Ba0 S3 3.529568 1_565
+Ba0 S3 3.529568 1_555
+Ba1 S7 3.208132 1_655
+Ba1 S3 3.210333 1_655
+Ba1 S5 3.227978 1_555
+Ba1 S6 3.227989 1_555
+Ba1 S2 3.309231 1_545
+Ba1 S1 3.309241 1_555
+Ba1 S4 3.529567 1_545
+Ba1 S4 3.529567 1_555
+Ge0 S7 2.198322 1_554
+Ge0 S2 2.208207 1_545
+Ge0 S1 2.208223 1_555
+Ge0 S3 2.220329 1_555
+Ge1 S0 2.198322 1_556
+Ge1 S6 2.208207 1_555
+Ge1 S5 2.208223 1_565
+Ge1 S4 2.220329 1_555
+S0 Sr1 3.035043 1_654
+S0 Sr0 3.593451 1_565
+S0 Sr0 3.593451 1_555
+S1 Sr1 3.051182 1_554
+S1 Sr0 3.137954 1_555
+S2 Sr1 3.051193 1_554
+S2 Sr0 3.137943 1_565
+S3 Sr0 3.008816 1_455
+S4 Sr1 3.008825 1_655
+S5 Sr0 3.051189 1_556
+S5 Sr1 3.137955 1_545
+S6 Sr0 3.051201 1_556
+S6 Sr1 3.137944 1_555
+S7 Sr0 3.035041 1_456
+S7 Sr1 3.593453 1_545
+S7 Sr1 3.593453 1_555

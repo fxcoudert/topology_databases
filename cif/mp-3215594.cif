@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_Sr3Ca3(C3Cl2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24203130
+_cell_length_b   7.24203175
+_cell_length_c   11.62350552
+_cell_angle_alpha   88.94543884
+_cell_angle_beta   91.05456081
+_cell_angle_gamma   148.06714362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca3(C3Cl2)2
+_chemical_formula_sum   'Sr3 Ca3 C6 Cl4'
+_cell_volume   322.38329478
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.65176340  0.34823660  0.56040211  1
+  Sr  Sr1  1  0.11704018  0.88295982  0.23864992  1
+  Sr  Sr2  1  0.88438571  0.11561429  0.75266371  1
+  Ca  Ca0  1  0.33896212  0.66103788  0.43852940  1
+  Ca  Ca1  1  0.34369465  0.65630535  0.06070137  1
+  Ca  Ca2  1  0.66376685  0.33623315  0.93752060  1
+  C  C0  1  0.26858658  0.73141342  0.63664582  1
+  C  C1  1  0.73572757  0.26427243  0.35891306  1
+  C  C2  1  0.73815227  0.26184773  0.13130850  1
+  C  C3  1  0.26620576  0.73379424  0.86459198  1
+  C  C4  1  0.74583673  0.25416327  0.24556174  1
+  C  C5  1  0.25785541  0.74214459  0.74997898  1
+  Cl  Cl0  1  0.53485037  0.46514963  0.75936698  1
+  Cl  Cl1  1  0.46312610  0.53687390  0.25473878  1
+  Cl  Cl2  1  0.00221642  0.99778358  0.00410074  1
+  Cl  Cl3  1  0.98782787  0.01217213  0.50632731  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ca0 Cl1 2.773928 1_555
+Ca0 Cl3 2.970565 1_565
+Ca0 Cl3 2.970565 1_455
+Ca1 Cl1 2.776538 1_555
+Ca1 Cl2 3.054468 1_655
+Ca1 Cl2 3.054468 1_545
+Ca2 Cl0 2.714500 1_555
+Ca2 Cl2 3.113662 1_546
+Ca2 Cl2 3.113662 1_656
+C0 C5 1.328617 1_555
+C0 Ca0 2.519866 1_555
+C0 Sr0 2.710185 1_455
+C0 Sr0 2.710186 1_565
+C0 Sr2 2.881669 1_565
+C0 Sr2 2.881669 1_455
+C1 C4 1.327716 1_555
+C1 Ca0 2.615440 1_655
+C1 Ca0 2.615441 1_545
+C1 Sr0 2.637601 1_555
+C1 Sr1 2.926716 1_545
+C1 Sr1 2.926716 1_655
+C2 C4 1.330284 1_555
+C2 Ca2 2.461172 1_554
+C2 Ca1 2.616911 1_655
+C2 Ca1 2.616911 1_545
+C2 Sr1 2.906902 1_545
+C2 Sr1 2.906903 1_655
+C3 C5 1.335051 1_555
+C3 Ca1 2.503241 1_556
+C3 Ca2 2.601575 1_455
+C3 Ca2 2.601576 1_565
+C3 Sr2 2.907115 1_565
+C3 Sr2 2.907115 1_455
+C4 Sr1 2.680697 1_545
+C4 Sr1 2.680697 1_655
+C5 Sr2 2.659297 1_565
+C5 Sr2 2.659298 1_455
+Cl0 Sr0 2.853619 1_555
+Cl0 Sr2 2.891091 1_455
+Cl0 Sr2 2.891091 1_565
+Cl1 Sr1 2.934706 1_655
+Cl1 Sr1 2.934707 1_545
+Cl2 Sr1 3.134069 1_555
+Cl2 Sr2 3.324183 1_464
+Cl3 Sr0 3.085448 1_655
+Cl3 Sr0 3.085448 1_545
+Cl3 Sr2 3.229751 1_555
+Cl3 Sr1 3.623864 1_645

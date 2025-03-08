@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_Na2Sn(RhSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58425181
+_cell_length_b   6.58425232
+_cell_length_c   7.20384647
+_cell_angle_alpha   81.53045455
+_cell_angle_beta   81.53044893
+_cell_angle_gamma   120.65997528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Sn(RhSe3)2
+_chemical_formula_sum   'Na2 Sn1 Rh2 Se6'
+_cell_volume   256.47927820
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16119802  0.83880198  0.50000000  1
+  Na  Na1  1  0.83880198  0.16119802  0.50000000  1
+  Sn  Sn0  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh0  1  0.33242748  0.66757252  1.00000000  1
+  Rh  Rh1  1  0.66757252  0.33242748  0.00000000  1
+  Se  Se0  1  0.93773886  0.58009727  0.19738769  1
+  Se  Se1  1  0.28875192  0.28875192  0.19927686  1
+  Se  Se2  1  0.58009727  0.93773886  0.19738769  1
+  Se  Se3  1  0.71124808  0.71124808  0.80072314  1
+  Se  Se4  1  0.06226114  0.41990273  0.80261231  1
+  Se  Se5  1  0.41990273  0.06226114  0.80261231  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Na0 Se2 2.960079 1_555
+Na0 Se4 2.960079 1_555
+Na0 Se3 3.035012 1_455
+Na0 Se1 3.035013 1_565
+Na0 Se5 3.049774 1_565
+Na0 Se0 3.049774 1_455
+Na1 Se5 2.960079 1_555
+Na1 Se0 2.960079 1_555
+Na1 Se1 3.035012 1_655
+Na1 Se3 3.035013 1_545
+Na1 Se2 3.049774 1_545
+Na1 Se4 3.049774 1_655
+Rh0 Se0 2.500158 1_456
+Rh0 Se5 2.500158 1_565
+Rh0 Se4 2.512992 1_555
+Rh0 Se2 2.512992 1_556
+Rh0 Se3 2.541049 1_555
+Rh0 Se1 2.541049 1_556
+Rh1 Se4 2.500158 1_654
+Rh1 Se2 2.500158 1_545
+Rh1 Se0 2.512992 1_555
+Rh1 Se5 2.512992 1_554
+Rh1 Se1 2.541049 1_555
+Rh1 Se3 2.541049 1_554
+Se0 Sn0 2.710745 1_665
+Se1 Sn0 2.685425 1_555
+Se2 Sn0 2.710745 1_665
+Se3 Sn0 2.685425 1_666
+Se4 Sn0 2.710745 1_556
+Se5 Sn0 2.710745 1_556

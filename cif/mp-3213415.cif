@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_KBa(AsRh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19044124
+_cell_length_b   7.19044091
+_cell_length_c   5.68909996
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.39187946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa(AsRh)4
+_chemical_formula_sum   'K1 Ba1 As4 Rh4'
+_cell_volume   213.74358101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba0  1  0.50000000  0.50000000  0.50000000  1
+  As  As0  1  0.64486039  0.35513961  0.00000000  1
+  As  As1  1  0.14682564  0.85317436  0.50000000  1
+  As  As2  1  0.85317436  0.14682564  0.50000000  1
+  As  As3  1  0.35513961  0.64486039  0.00000000  1
+  Rh  Rh0  1  0.50000000  0.00000000  0.75087878  1
+  Rh  Rh1  1  0.00000000  0.50000000  0.24912122  1
+  Rh  Rh2  1  0.00000000  0.50000000  0.75087878  1
+  Rh  Rh3  1  0.50000000  0.00000000  0.24912122  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+As0 Rh3 2.441306 1_555
+As0 Rh0 2.441306 1_554
+As0 Rh1 2.441306 1_655
+As0 Rh2 2.441306 1_654
+As0 Ba0 3.428127 1_554
+As0 Ba0 3.428127 1_555
+As0 K0 3.428181 1_665
+As0 K0 3.428181 1_555
+As1 Rh2 2.432489 1_555
+As1 Rh1 2.432489 1_555
+As1 Rh0 2.432489 1_565
+As1 Rh3 2.432489 1_565
+As1 K0 3.442681 1_566
+As1 K0 3.442681 1_565
+As1 Ba0 3.442735 1_565
+As1 Ba0 3.442735 1_455
+As2 Rh2 2.432489 1_655
+As2 Rh1 2.432489 1_655
+As2 Rh0 2.432489 1_555
+As2 Rh3 2.432489 1_555
+As2 K0 3.442681 1_655
+As2 K0 3.442681 1_656
+As2 Ba0 3.442735 1_545
+As2 Ba0 3.442735 1_655
+As3 Rh3 2.441306 1_565
+As3 Rh0 2.441306 1_564
+As3 Rh1 2.441306 1_555
+As3 Rh2 2.441306 1_554
+As3 Ba0 3.428127 1_554
+As3 Ba0 3.428127 1_555
+As3 K0 3.428181 1_555
+As3 K0 3.428181 1_665

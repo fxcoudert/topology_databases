@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_Li3Pd4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37783750
+_cell_length_b   5.44986552
+_cell_length_c   5.44986495
+_cell_angle_alpha   60.10777709
+_cell_angle_beta   59.66530093
+_cell_angle_gamma   59.66530482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Pd4Pt
+_chemical_formula_sum   'Li3 Pd4 Pt1'
+_cell_volume   112.45981535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1
+  Li  Li1  1  0.50000000  0.00000000  0.50000000  1
+  Li  Li2  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.50000000  1
+  Pd  Pd1  1  0.00000000  0.50000000  0.50000000  1
+  Pd  Pd2  1  0.00000000  0.50000000  0.00000000  1
+  Pd  Pd3  1  0.50000000  0.00000000  0.00000000  1
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 Pd1 2.688919 1_655
+Li0 Pd1 2.688919 1_555
+Li0 Pd2 2.693401 1_556
+Li0 Pd2 2.693401 1_655
+Li0 Pd0 2.693401 1_655
+Li0 Pd0 2.693401 1_565
+Li0 Pd3 2.729370 1_565
+Li0 Pd3 2.729370 1_556
+Li1 Pd0 2.688919 1_655
+Li1 Pd0 2.688919 1_555
+Li1 Pt0 2.693401 1_655
+Li1 Pt0 2.693401 1_556
+Li1 Pd1 2.693401 1_645
+Li1 Pd1 2.693401 1_555
+Li1 Pd3 2.724932 1_555
+Li1 Pd3 2.724932 1_556
+Li2 Pd2 2.688919 1_655
+Li2 Pd2 2.688919 1_555
+Li2 Pd1 2.693401 1_654
+Li2 Pd1 2.693401 1_555
+Li2 Pt0 2.693401 1_655
+Li2 Pt0 2.693401 1_565
+Li2 Pd3 2.724933 1_555
+Li2 Pd3 2.724933 1_565
+Pd0 Pd3 2.693401 1_456
+Pd0 Pd3 2.693401 1_555
+Pd0 Pt0 2.724932 1_555
+Pd0 Pt0 2.724932 1_556
+Pd0 Pd1 2.724933 1_555
+Pd0 Pd1 2.724933 1_545
+Pd0 Pd2 2.729370 1_555
+Pd0 Pd2 2.729370 1_546
+Pd1 Pd2 2.724932 1_556
+Pd1 Pd2 2.724932 1_555
+Pd1 Pt0 2.729370 1_556
+Pd1 Pt0 2.729370 1_565
+Pd2 Pd3 2.693401 1_555
+Pd2 Pd3 2.693401 1_465
+Pd2 Pt0 2.724933 1_555
+Pd2 Pt0 2.724933 1_565
+Pd3 Pt0 2.688919 1_555
+Pd3 Pt0 2.688919 1_655

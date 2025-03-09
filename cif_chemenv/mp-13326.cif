@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_PrLuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03295710
+_cell_length_b   6.85185370
+_cell_length_c   9.94817060
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.11537463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrLuSe3
+_chemical_formula_sum   'Pr2 Lu2 Se6'
+_cell_volume   262.72590171
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.74795511  0.49591021  0.75000000  1
+  Pr  Pr1  1  0.25204489  0.50408979  0.25000000  1
+  Lu  Lu0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Lu  Lu1  1  -0.00000000  -0.00000000  0.50000000  1
+  Se  Se0  1  0.91555505  0.83111311  0.25000000  1
+  Se  Se1  1  0.08444495  0.16888689  0.75000000  1
+  Se  Se2  1  0.35814701  0.71629302  0.56096351  1
+  Se  Se3  1  0.64185299  0.28370698  0.43903649  1
+  Se  Se4  1  0.35814701  0.71629302  0.93903649  1
+  Se  Se5  1  0.64185299  0.28370698  0.06096351  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Pr0 Se1 2.941448 1_555
+Pr0 Se1 2.941456 1_655
+Pr0 Se2 3.112140 1_555
+Pr0 Se4 3.112140 1_555
+Pr0 Se4 3.112143 1_655
+Pr0 Se2 3.112143 1_655
+Pr0 Se3 3.391287 1_555
+Pr0 Se5 3.391287 1_556
+Pr1 Se0 2.941448 1_555
+Pr1 Se0 2.941456 1_455
+Pr1 Se3 3.112140 1_555
+Pr1 Se5 3.112140 1_555
+Pr1 Se5 3.112143 1_455
+Pr1 Se3 3.112143 1_455
+Pr1 Se4 3.391287 1_554
+Pr1 Se2 3.391287 1_555
+Lu0 Se0 2.721854 1_445
+Lu0 Se1 2.721854 1_554
+Lu0 Se5 2.808118 1_555
+Lu0 Se4 2.808118 1_444
+Lu0 Se5 2.808120 1_455
+Lu0 Se4 2.808120 1_544
+Lu1 Se0 2.721854 1_445
+Lu1 Se1 2.721854 1_555
+Lu1 Se3 2.808118 1_555
+Lu1 Se2 2.808118 1_445
+Lu1 Se3 2.808120 1_455
+Lu1 Se2 2.808120 1_545
+Se2 Se3 3.682649 1_555
+Se2 Se3 3.682653 1_455
+Se2 Se4 3.761135 1_555
+Se3 Se5 3.761135 1_555
+Se4 Se5 3.682649 1_556
+Se4 Se5 3.682653 1_456

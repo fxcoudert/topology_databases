@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Sr(InCu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56767943
+_cell_length_b   6.56767943
+_cell_length_c   6.56767943
+_cell_angle_alpha   140.66234829
+_cell_angle_beta   140.66234829
+_cell_angle_gamma   56.84898463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(InCu)2
+_chemical_formula_sum   'Sr1 In2 Cu2'
+_cell_volume   112.89867898
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  In  In0  1  0.75000000  0.25000000  0.50000000  1
+  In  In1  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu0  1  0.39165900  0.39165900  0.00000000  1
+  Cu  Cu1  1  0.60834100  0.60834100  0.00000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+In0 In1 3.126217 1_555
+In0 In1 3.126217 1_656
+In0 In1 3.126217 1_544
+In0 In1 3.126217 1_645
+In0 Sr0 3.636882 1_656
+In0 Sr0 3.636882 1_666
+In0 Sr0 3.636882 1_655
+In0 Sr0 3.636882 1_555
+In1 Sr0 3.636882 1_566
+In1 Sr0 3.636882 1_565
+In1 Sr0 3.636882 1_555
+In1 Sr0 3.636882 1_666
+Cu0 Cu1 2.503073 1_555
+Cu0 In0 2.750361 1_555
+Cu0 In0 2.750361 1_454
+Cu0 In1 2.750361 1_555
+Cu0 In1 2.750361 1_544
+Cu0 Sr0 3.367428 1_655
+Cu0 Sr0 3.367428 1_554
+Cu0 Sr0 3.367428 1_565
+Cu0 Sr0 3.367428 1_666
+Cu1 In1 2.750361 1_655
+Cu1 In0 2.750361 1_565
+Cu1 In1 2.750361 1_554
+Cu1 In0 2.750361 1_554
+Cu1 Sr0 3.367428 1_554
+Cu1 Sr0 3.367428 1_565
+Cu1 Sr0 3.367428 1_666
+Cu1 Sr0 3.367428 1_655

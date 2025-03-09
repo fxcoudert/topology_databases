@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_HfAlCr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12631477
+_cell_length_b   5.12526371
+_cell_length_c   8.48619200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.10025691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAlCr
+_chemical_formula_sum   'Hf4 Al4 Cr4'
+_cell_volume   193.28708336
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33428500  0.33442800  0.55893700  1
+  Hf  Hf1  1  0.67114800  0.67111100  0.42836400  1
+  Hf  Hf2  1  0.67114800  0.67111100  0.07163600  1
+  Hf  Hf3  1  0.33428500  0.33442800  0.94106300  1
+  Al  Al0  1  0.99448400  0.99419900  0.48977700  1
+  Al  Al1  1  0.99448400  0.99419900  0.01022300  1
+  Al  Al2  1  0.83226200  0.34172300  0.75000000  1
+  Al  Al3  1  0.34178000  0.83223000  0.75000000  1
+  Cr  Cr0  1  0.83208000  0.83189400  0.75000000  1
+  Cr  Cr1  1  0.17945400  0.63784600  0.25000000  1
+  Cr  Cr2  1  0.63760100  0.17966100  0.25000000  1
+  Cr  Cr3  1  0.17699000  0.17717000  0.25000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Hf0 Hf1 3.148565 1_455
+Hf0 Hf1 3.148760 1_545
+Hf0 Hf1 3.187219 1_555
+Hf0 Hf3 3.242795 1_555
+Hf1 Hf2 3.027262 1_555
+Hf2 Hf3 3.148565 1_654
+Hf2 Hf3 3.148760 1_564
+Hf2 Hf3 3.187219 1_554
+Al0 Cr1 2.578502 1_655
+Al0 Cr2 2.580160 1_565
+Al0 Cr3 2.601889 1_665
+Al0 Cr0 2.636692 1_555
+Al0 Al3 2.694794 1_655
+Al0 Al2 2.695171 1_565
+Al0 Hf1 2.915033 1_555
+Al0 Hf0 2.990125 1_655
+Al0 Hf0 2.992586 1_565
+Al0 Hf1 3.052799 1_655
+Al0 Hf1 3.053245 1_565
+Al0 Hf0 3.073723 1_665
+Al1 Cr1 2.578502 1_655
+Al1 Cr2 2.580160 1_565
+Al1 Cr3 2.601889 1_665
+Al1 Cr0 2.636692 1_554
+Al1 Al3 2.694794 1_654
+Al1 Al2 2.695171 1_564
+Al1 Hf2 2.915033 1_555
+Al1 Hf3 2.990125 1_654
+Al1 Hf3 2.992586 1_564
+Al1 Hf2 3.052799 1_655
+Al1 Hf2 3.053245 1_565
+Al1 Hf3 3.073723 1_664
+Al2 Cr0 2.511791 1_555
+Al2 Al3 2.517980 1_555
+Al2 Cr0 2.613473 1_545
+Al2 Al3 2.615574 1_645
+Al2 Hf0 3.026127 1_655
+Al2 Hf3 3.026127 1_655
+Al2 Hf3 3.040099 1_555
+Al2 Hf0 3.040099 1_555
+Al2 Hf2 3.097104 1_556
+Al2 Hf1 3.097104 1_555
+Al3 Cr0 2.512574 1_555
+Al3 Cr0 2.613741 1_455
+Al3 Hf3 3.026014 1_565
+Al3 Hf0 3.026014 1_565
+Al3 Hf3 3.039343 1_555
+Al3 Hf0 3.039343 1_555
+Al3 Hf2 3.097205 1_556
+Al3 Hf1 3.097205 1_555
+Cr0 Hf3 3.035360 1_655
+Cr0 Hf0 3.035360 1_655
+Cr0 Hf3 3.036779 1_565
+Cr0 Hf0 3.036779 1_565
+Cr0 Hf2 3.080166 1_556
+Cr0 Hf1 3.080166 1_555
+Cr1 Cr2 2.352020 1_555
+Cr1 Cr3 2.367408 1_555
+Cr1 Cr3 2.757903 1_565
+Cr1 Cr2 2.781535 1_465
+Cr1 Hf1 2.943994 1_455
+Cr1 Hf2 2.943994 1_455
+Cr1 Hf0 2.948059 1_555
+Cr1 Hf3 2.948059 1_554
+Cr1 Hf1 3.016935 1_555
+Cr1 Hf2 3.016935 1_555
+Cr2 Cr3 2.367627 1_555
+Cr2 Cr3 2.758736 1_655
+Cr2 Hf1 2.944040 1_545
+Cr2 Hf2 2.944040 1_545
+Cr2 Hf3 2.947976 1_554
+Cr2 Hf0 2.947976 1_555
+Cr2 Hf1 3.016109 1_555
+Cr2 Hf2 3.016109 1_555
+Cr3 Hf3 2.970024 1_554
+Cr3 Hf0 2.970024 1_555
+Cr3 Hf1 2.979835 1_455
+Cr3 Hf2 2.979835 1_455
+Cr3 Hf1 2.980773 1_545
+Cr3 Hf2 2.980773 1_545

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_LiBiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78448413
+_cell_length_b   5.26929808
+_cell_length_c   9.74037928
+_cell_angle_alpha   105.69913433
+_cell_angle_beta   103.85631198
+_cell_angle_gamma   89.99903846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBiO2
+_chemical_formula_sum   'Li4 Bi4 O8'
+_cell_volume   228.97144425
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99843340  0.24908613  0.49856487  1
+  Li  Li1  1  0.50149653  0.75064589  0.50143577  1
+  Li  Li2  1  0.00148184  0.75094130  0.50140589  1
+  Li  Li3  1  0.49846445  0.24952111  0.49862114  1
+  Bi  Bi0  1  0.09104959  0.33251216  0.17917741  1
+  Bi  Bi1  1  0.90905759  0.66746068  0.82081746  1
+  Bi  Bi2  1  0.40912751  0.15309439  0.82086919  1
+  Bi  Bi3  1  0.59096326  0.84687404  0.17914838  1
+  O  O0  1  0.20416677  0.45531244  0.40575051  1
+  O  O1  1  0.79571660  0.54466984  0.59422407  1
+  O  O2  1  0.29579058  0.04953670  0.59432131  1
+  O  O3  1  0.70409877  0.95048127  0.40570876  1
+  O  O4  1  0.12998570  0.92425359  0.16378524  1
+  O  O5  1  0.87009732  0.07568075  0.83619998  1
+  O  O6  1  0.37009513  0.76035460  0.83628390  1
+  O  O7  1  0.62997496  0.23957511  0.16368612  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O1 1.970323 1_555
+Li0 O2 1.973511 1_655
+Li0 O3 1.974018 1_545
+Li0 O0 1.981152 1_655
+Li0 Li3 2.392226 1_555
+Li0 Li3 2.392260 1_655
+Li1 O3 1.970309 1_555
+Li1 O0 1.973377 1_555
+Li1 O1 1.974294 1_555
+Li1 O2 1.980650 1_565
+Li1 Li2 2.392242 1_655
+Li1 Li2 2.392243 1_555
+Li2 O0 1.970374 1_555
+Li2 O3 1.973297 1_455
+Li2 O2 1.973952 1_565
+Li2 O1 1.981431 1_455
+Li3 O2 1.970844 1_555
+Li3 O1 1.972439 1_555
+Li3 O0 1.974213 1_555
+Li3 O3 1.981064 1_545
+Bi0 O0 2.058438 1_555
+Bi0 O4 2.126928 1_545
+Bi0 O7 2.220282 1_455
+Bi0 O7 2.656590 1_555
+Bi1 O1 2.058626 1_555
+Bi1 O5 2.126755 1_565
+Bi1 O6 2.220119 1_655
+Bi1 O6 2.656668 1_555
+Bi2 O2 2.058253 1_555
+Bi2 O6 2.126427 1_545
+Bi2 O5 2.219938 1_555
+Bi2 O5 2.656558 1_455
+Bi3 O3 2.058354 1_555
+Bi3 O7 2.126379 1_565
+Bi3 O4 2.219900 1_555
+Bi3 O4 2.656595 1_655

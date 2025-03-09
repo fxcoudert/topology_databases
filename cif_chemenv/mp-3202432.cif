@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_ZnPd(PtO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11955118
+_cell_length_b   6.11955164
+_cell_length_c   3.16404987
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.00461808
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnPd(PtO3)2
+_chemical_formula_sum   'Zn1 Pd1 Pt2 O6'
+_cell_volume   112.03159164
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50000000  0.50000000  0.00000000  1
+  Pd  Pd0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt0  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt1  1  0.00000000  0.50000000  0.50000000  1
+  O  O0  1  0.08278638  0.33857676  0.00000000  1
+  O  O1  1  0.91721362  0.66142324  0.00000000  1
+  O  O2  1  0.33857676  0.08278638  0.00000000  1
+  O  O3  1  0.66142324  0.91721362  0.00000000  1
+  O  O4  1  0.64898064  0.35101936  0.50000000  1
+  O  O5  1  0.35101936  0.64898064  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+O0 Pd0 1.966200 1_555
+O0 Pt1 2.015248 1_555
+O0 Pt1 2.015248 1_554
+O0 Zn0 2.419056 1_555
+O0 O2 2.548780 1_555
+O0 O5 2.602827 1_555
+O0 O5 2.602827 1_554
+O1 Pd0 1.966200 1_665
+O1 Pt1 2.015248 1_654
+O1 Pt1 2.015248 1_655
+O1 Zn0 2.419056 1_555
+O1 O3 2.548780 1_555
+O1 O4 2.602827 1_555
+O1 O4 2.602827 1_554
+O2 Pd0 1.966200 1_555
+O2 Pt0 2.015248 1_555
+O2 Pt0 2.015248 1_554
+O2 Zn0 2.419056 1_555
+O2 O4 2.602827 1_554
+O2 O4 2.602827 1_555
+O3 Pd0 1.966200 1_665
+O3 Pt0 2.015248 1_565
+O3 Pt0 2.015248 1_564
+O3 Zn0 2.419056 1_555
+O3 O5 2.602827 1_555
+O3 O5 2.602827 1_554
+O4 Pt1 2.042048 1_655
+O4 Pt0 2.042048 1_555
+O4 Zn0 2.169452 1_555
+O4 Zn0 2.169452 1_556
+O5 Pt1 2.042048 1_555
+O5 Pt0 2.042048 1_565
+O5 Zn0 2.169452 1_556
+O5 Zn0 2.169452 1_555

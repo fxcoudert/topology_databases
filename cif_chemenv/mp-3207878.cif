@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_BaLuCuSe2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24449474
+_cell_length_b   7.24449368
+_cell_length_c   10.20606939
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.37548648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLuCuSe2S
+_chemical_formula_sum   'Ba2 Lu2 Cu2 Se4 S2'
+_cell_volume   288.78132125
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.26270510  0.73729690  0.25000000  1
+  Ba  Ba1  1  0.73729690  0.26270510  0.75000000  1
+  Lu  Lu0  1  0.00000000  0.00000000  0.00000000  1
+  Lu  Lu1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.52772359  0.47227841  0.25000000  1
+  Cu  Cu1  1  0.47227841  0.52772359  0.75000000  1
+  Se  Se0  1  0.63319418  0.36680782  0.05724213  1
+  Se  Se1  1  0.63319418  0.36680782  0.44275887  1
+  Se  Se2  1  0.36680782  0.63319418  0.55724213  1
+  Se  Se3  1  0.36680782  0.63319418  0.94275787  1
+  S  S0  1  0.93950280  0.06049920  0.25000000  1
+  S  S1  1  0.06049920  0.93950280  0.75000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Ba0 S0 3.191323 1_455
+Ba0 S0 3.191324 1_565
+Ba0 Se0 3.354696 1_565
+Ba0 Se0 3.354696 1_455
+Ba0 Se1 3.354702 1_565
+Ba0 Se1 3.354702 1_455
+Ba0 Se2 3.453759 1_555
+Ba0 Se3 3.453759 1_554
+Ba1 S1 3.191323 1_655
+Ba1 S1 3.191324 1_545
+Ba1 Se3 3.354696 1_545
+Ba1 Se2 3.354696 1_545
+Ba1 Se3 3.354696 1_655
+Ba1 Se2 3.354696 1_655
+Ba1 Se1 3.453749 1_555
+Ba1 Se0 3.453759 1_556
+Lu0 S0 2.686630 1_455
+Lu0 S1 2.686630 1_544
+Lu0 Se0 2.812839 1_445
+Lu0 Se3 2.812839 1_444
+Lu0 Se3 2.812844 1_554
+Lu0 Se0 2.812845 1_555
+Lu1 S0 2.686630 1_455
+Lu1 S1 2.686630 1_545
+Lu1 Se1 2.812836 1_445
+Lu1 Se2 2.812839 1_445
+Lu1 Se1 2.812843 1_555
+Lu1 Se2 2.812844 1_555
+Cu0 S0 2.375982 1_565
+Cu0 S0 2.375982 1_455
+Cu0 Se0 2.453838 1_555
+Cu0 Se1 2.453846 1_555
+Cu1 S1 2.375982 1_545
+Cu1 S1 2.375982 1_655
+Cu1 Se3 2.453838 1_555
+Cu1 Se2 2.453838 1_555

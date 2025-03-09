@@ -1,0 +1,99 @@
+# generated using pymatgen
+data_MoCl3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.27481600
+_cell_length_b   6.22247800
+_cell_length_c   6.25415929
+_cell_angle_alpha   87.69728263
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoCl3O
+_chemical_formula_sum   'Mo4 Cl12 O4'
+_cell_volume   555.07541038
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.66470700  0.30340500  0.96883300  1
+  Mo  Mo1  1  0.16470700  0.19659500  0.03116700  1
+  Mo  Mo2  1  0.33529300  0.69659500  0.03116700  1
+  Mo  Mo3  1  0.83529300  0.80340500  0.96883300  1
+  Cl  Cl0  1  0.92844900  0.64719800  0.71596900  1
+  Cl  Cl1  1  0.42844900  0.85280200  0.28403100  1
+  Cl  Cl2  1  0.07155100  0.35280200  0.28403100  1
+  Cl  Cl3  1  0.57155100  0.14719800  0.71596900  1
+  Cl  Cl4  1  0.68750800  0.61134000  0.73584800  1
+  Cl  Cl5  1  0.18750800  0.88866000  0.26415200  1
+  Cl  Cl6  1  0.31249200  0.38866000  0.26415200  1
+  Cl  Cl7  1  0.81249200  0.11134000  0.73584800  1
+  Cl  Cl8  1  0.80611300  0.44630600  0.15883400  1
+  Cl  Cl9  1  0.30611300  0.05369400  0.84116600  1
+  Cl  Cl10  1  0.19388700  0.55369400  0.84116600  1
+  Cl  Cl11  1  0.69388700  0.94630600  0.15883400  1
+  O  O0  1  0.58596300  0.38411000  0.15043300  1
+  O  O1  1  0.08596300  0.11589000  0.84956700  1
+  O  O2  1  0.41403700  0.61589000  0.84956700  1
+  O  O3  1  0.91403700  0.88411000  0.15043300  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mo0 O0 1.688628 1_556
+Mo1 O1 1.688628 1_554
+Mo2 O2 1.688628 1_554
+Mo3 O3 1.688628 1_556
+Cl0 Mo3 2.310328 1_555
+Cl0 Cl7 3.335478 1_565
+Cl0 Cl8 3.464901 1_556
+Cl1 Mo2 2.310328 1_555
+Cl1 Cl6 3.335478 1_555
+Cl1 Cl9 3.464901 1_564
+Cl2 Mo1 2.310328 1_555
+Cl2 Cl5 3.335478 1_545
+Cl3 Mo0 2.310328 1_555
+Cl3 Cl4 3.335478 1_555
+Cl4 Mo0 2.382499 1_555
+Cl4 Mo3 2.853400 1_555
+Cl5 Mo1 2.382499 1_565
+Cl5 Mo2 2.853400 1_555
+Cl6 Mo2 2.382499 1_555
+Cl6 Mo1 2.853400 1_555
+Cl6 Cl9 3.434242 1_554
+Cl7 Mo3 2.382499 1_545
+Cl7 Mo0 2.853400 1_555
+Cl7 Cl8 3.434242 1_556
+Cl8 Mo3 2.512138 1_554
+Cl8 Mo0 2.522331 1_554
+Cl8 O3 3.128274 1_555
+Cl8 O0 3.167035 1_555
+Cl9 Mo2 2.512138 1_546
+Cl9 Mo1 2.522331 1_556
+Cl9 O2 3.128274 1_545
+Cl9 O1 3.167035 1_555
+Cl10 Mo1 2.512138 1_556
+Cl10 Mo2 2.522331 1_556
+Cl10 O1 3.128274 1_555
+Cl10 O2 3.167035 1_555
+Cl10 Cl5 3.434242 1_556
+Cl10 Cl2 3.464901 1_556
+Cl10 Cl9 3.499461 1_565
+Cl10 Cl9 3.499461 1_555
+Cl11 Mo0 2.512138 1_564
+Cl11 Mo3 2.522331 1_554
+Cl11 O0 3.128274 1_565
+Cl11 O3 3.167035 1_555
+Cl11 Cl4 3.434242 1_554
+Cl11 Cl3 3.464901 1_564
+Cl11 Cl8 3.499461 1_565
+Cl11 Cl8 3.499461 1_555

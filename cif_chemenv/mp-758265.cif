@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_LiCu2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59683414
+_cell_length_b   4.59683414
+_cell_length_c   8.87282506
+_cell_angle_alpha   89.99989973
+_cell_angle_beta   90.00010027
+_cell_angle_gamma   90.02098220
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCu2F6
+_chemical_formula_sum   'Li2 Cu4 F12'
+_cell_volume   187.49062526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  -0.00000000  1
+  Li  Li1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu0  1  0.50000000  0.50000000  0.66807262  1
+  Cu  Cu1  1  0.50000000  0.50000000  0.33192738  1
+  Cu  Cu2  1  0.00000000  -0.00000000  0.83205567  1
+  Cu  Cu3  1  -0.00000000  0.00000000  0.16794433  1
+  F  F0  1  0.69149849  0.30850151  0.50000000  1
+  F  F1  1  0.69755924  0.30244076  0.82819248  1
+  F  F2  1  0.69756124  0.30243876  0.17180952  1
+  F  F3  1  0.80237301  0.80237301  0.67178662  1
+  F  F4  1  0.80237301  0.80237301  0.32821338  1
+  F  F5  1  0.80834954  0.80834954  -0.00000000  1
+  F  F6  1  0.19165046  0.19165046  -0.00000000  1
+  F  F7  1  0.19762699  0.19762699  0.67178662  1
+  F  F8  1  0.19762699  0.19762699  0.32821338  1
+  F  F9  1  0.30244076  0.69755924  0.17180752  1
+  F  F10  1  0.30243876  0.69756124  0.82819048  1
+  F  F11  1  0.30850151  0.69149849  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu0 F1 1.915330 1_555
+Cu0 F10 1.915330 1_555
+Cu0 F11 1.942751 1_555
+Cu0 F0 1.942756 1_555
+Cu0 F7 1.965615 1_555
+Cu0 F3 1.965615 1_555
+Cu1 F9 1.915330 1_555
+Cu1 F2 1.915330 1_555
+Cu1 F0 1.942751 1_555
+Cu1 F11 1.942756 1_555
+Cu1 F8 1.965615 1_555
+Cu1 F4 1.965615 1_555
+Cu2 F3 1.916295 1_445
+Cu2 F7 1.916295 1_555
+Cu2 F5 1.942221 1_446
+Cu2 F6 1.942221 1_556
+Cu2 F10 1.966785 1_545
+Cu2 F1 1.966797 1_455
+Cu3 F4 1.916295 1_445
+Cu3 F8 1.916295 1_555
+Cu3 F5 1.942221 1_445
+Cu3 F6 1.942221 1_555
+Cu3 F2 1.966785 1_455
+Cu3 F9 1.966797 1_545
+F0 Li1 2.005906 1_655
+F1 Li0 1.993471 1_556
+F2 Li0 1.993488 1_555
+F3 Li1 1.993307 1_665
+F4 Li1 1.993307 1_665
+F5 Li0 2.004184 1_555
+F6 Li0 2.004184 1_555
+F7 Li1 1.993307 1_555
+F8 Li1 1.993307 1_555
+F9 Li0 1.993471 1_555
+F10 Li0 1.993488 1_556
+F11 Li1 2.005906 1_565

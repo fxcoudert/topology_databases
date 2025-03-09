@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_LiBi2As2(PbO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98020083
+_cell_length_b   7.25965620
+_cell_length_c   7.40252434
+_cell_angle_alpha   108.05751665
+_cell_angle_beta   111.54073787
+_cell_angle_gamma   91.14095163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBi2As2(PbO5)2
+_chemical_formula_sum   'Li1 Bi2 As2 Pb2 O10'
+_cell_volume   280.93742398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.63622000  0.48889600  0.98932500  1
+  Bi  Bi0  1  0.11652300  0.26101300  0.04034400  1
+  Bi  Bi1  1  0.05271400  0.76236200  0.98507400  1
+  As  As0  1  0.65981900  0.65460900  0.35721300  1
+  As  As1  1  0.28261700  0.34458500  0.64475300  1
+  Pb  Pb0  1  0.44550500  0.90095200  0.70350900  1
+  Pb  Pb1  1  0.71619900  0.09319000  0.29593100  1
+  O  O0  1  0.14631600  0.30654600  0.38494000  1
+  O  O1  1  0.40956000  0.78770900  0.30677200  1
+  O  O2  1  0.78145000  0.69683500  0.63126600  1
+  O  O3  1  0.53801700  0.40114200  0.18923500  1
+  O  O4  1  0.07986800  0.21368900  0.69637100  1
+  O  O5  1  0.83892200  0.72385200  0.23208500  1
+  O  O6  1  0.29618600  0.00732900  0.00749300  1
+  O  O7  1  0.83246800  0.01250600  0.00237500  1
+  O  O8  1  0.34890000  0.58680800  0.80840200  1
+  O  O9  1  0.55681200  0.25797800  0.72491200  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Li0 O5 2.006478 1_556
+Li0 O9 2.029401 1_555
+Li0 O3 2.036761 1_556
+Li0 O8 2.049447 1_555
+Bi0 O6 2.144351 1_555
+Bi0 O7 2.330727 1_455
+Bi0 O4 2.386290 1_554
+Bi0 O3 2.401228 1_555
+Bi0 O0 2.406071 1_555
+Bi1 O6 2.201502 1_566
+Bi1 O7 2.263591 1_466
+Bi1 O2 2.407149 1_455
+Bi1 O1 2.497952 1_556
+Bi1 O5 2.659994 1_456
+Bi1 O8 2.688796 1_555
+As0 O1 1.784319 1_555
+As0 O5 1.803768 1_555
+As0 O2 1.805716 1_555
+As0 O3 1.823653 1_555
+As1 O0 1.717623 1_555
+As1 O9 1.730322 1_555
+As1 O8 1.736614 1_555
+As1 O4 1.743137 1_555
+O0 Pb1 2.722769 1_455
+O0 O7 2.879049 1_455
+O1 Pb0 2.716574 1_555
+O1 Pb1 2.888547 1_565
+O2 Pb0 2.633280 1_555
+O2 O7 2.888843 1_566
+O3 Pb1 2.707172 1_555
+O3 O6 2.845552 1_555
+O4 Pb1 2.804391 1_455
+O4 Pb0 3.182093 1_545
+O5 Pb1 2.738367 1_565
+O5 O7 3.073806 1_565
+O6 Pb1 2.535899 1_555
+O6 Pb0 2.623558 1_544
+O6 O7 2.760609 1_455
+O7 Pb1 2.425980 1_555
+O7 Pb0 2.441447 1_544
+O7 O9 3.164103 1_554
+O8 Pb0 2.740882 1_555
+O9 Pb0 2.604865 1_545

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_K2Li2Cu(BrO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.17815576
+_cell_length_b   12.17815576
+_cell_length_c   12.17815576
+_cell_angle_alpha   160.52270009
+_cell_angle_beta   160.52270009
+_cell_angle_gamma   27.68104780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Li2Cu(BrO)2
+_chemical_formula_sum   'K2 Li2 Cu1 Br2 O2'
+_cell_volume   200.71239680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.93128900  0.93128900  0.00000000  1
+  K  K1  1  0.06871100  0.06871100  0.00000000  1
+  Li  Li0  1  0.75000000  0.25000000  0.50000000  1
+  Li  Li1  1  0.25000000  0.75000000  0.50000000  1
+  Cu  Cu0  1  0.50000000  0.50000000  0.00000000  1
+  Br  Br0  1  0.31133800  0.31133800  0.00000000  1
+  Br  Br1  1  0.68866200  0.68866200  0.00000000  1
+  O  O0  1  0.50000000  0.00000000  0.50000000  1
+  O  O1  1  0.00000000  0.50000000  0.50000000  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+K0 O0 2.623743 1_665
+K0 O1 2.623743 1_654
+K0 O1 2.623743 1_665
+K0 O0 2.623743 1_564
+K1 O0 2.623743 1_454
+K1 O1 2.623743 1_555
+K1 O1 2.623743 1_544
+K1 O0 2.623743 1_555
+Li0 Li1 2.913262 1_645
+Li0 Li1 2.913262 1_544
+Li0 Li1 2.913262 1_555
+Li0 Li1 2.913262 1_656
+Cu0 O1 2.059987 1_655
+Cu0 O0 2.059987 1_554
+Cu0 O0 2.059987 1_565
+Cu0 O1 2.059987 1_554
+Br0 Li0 2.519476 1_454
+Br0 Li0 2.519476 1_555
+Br0 Li1 2.519476 1_544
+Br0 Li1 2.519476 1_555
+Br1 Li1 2.519476 1_655
+Br1 Li1 2.519476 1_554
+Br1 Li0 2.519476 1_565
+Br1 Li0 2.519476 1_554

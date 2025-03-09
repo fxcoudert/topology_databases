@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_FeAgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01933043
+_cell_length_b   8.01933043
+_cell_length_c   5.20107700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAgTe2
+_chemical_formula_sum   'Fe3 Ag3 Te6'
+_cell_volume   289.66773061
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe1  1  0.00000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag0  1  0.66666700  0.33333300  0.81964500  1
+  Ag  Ag1  1  0.33333300  0.66666700  0.18035500  1
+  Ag  Ag2  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te0  1  0.18631600  0.81368400  0.75208600  1
+  Te  Te1  1  0.18631600  0.37263200  0.75208600  1
+  Te  Te2  1  0.62736800  0.81368400  0.75208600  1
+  Te  Te3  1  0.37263200  0.18631600  0.24791400  1
+  Te  Te4  1  0.81368400  0.62736800  0.24791400  1
+  Te  Te5  1  0.81368400  0.18631600  0.24791400  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Fe0 Te2 2.553593 1_555
+Fe0 Te4 2.553593 1_555
+Fe0 Te1 2.553593 1_555
+Fe0 Te3 2.553593 1_555
+Fe1 Te0 2.553593 1_555
+Fe1 Te5 2.553593 1_455
+Fe1 Te4 2.553593 1_455
+Fe1 Te1 2.553593 1_555
+Fe2 Te5 2.553593 1_555
+Fe2 Te0 2.553593 1_545
+Fe2 Te2 2.553593 1_545
+Fe2 Te3 2.553593 1_555
+Ag0 Fe1 2.850093 1_655
+Ag0 Fe2 2.850093 1_555
+Ag0 Fe0 2.850098 1_555
+Ag0 Te5 3.021845 1_556
+Ag0 Te4 3.021849 1_556
+Ag0 Te3 3.021849 1_556
+Ag1 Fe1 2.850093 1_555
+Ag1 Fe2 2.850093 1_565
+Ag1 Fe0 2.850098 1_555
+Ag1 Te0 3.021845 1_554
+Ag1 Te2 3.021849 1_554
+Ag1 Te1 3.021849 1_554
+Ag2 Te3 2.891344 1_555
+Ag2 Te1 2.891344 1_554
+Ag2 Te4 2.891344 1_445
+Ag2 Te2 2.891344 1_444
+Ag2 Te5 2.891345 1_455
+Ag2 Te0 2.891345 1_544

@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_MgV4ZnO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51101605
+_cell_length_b   5.46240644
+_cell_length_c   11.80526200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.62493071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgV4ZnO10
+_chemical_formula_sum   'Mg1 V4 Zn1 O10'
+_cell_volume   214.55124731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50281400  0.01019700  0.25000000  1
+  V  V0  1  0.20866100  0.41692500  0.60041800  1
+  V  V1  1  0.78273900  0.56640900  0.39773800  1
+  V  V2  1  0.78273900  0.56640900  0.10226200  1
+  V  V3  1  0.20866100  0.41692500  0.89958200  1
+  Zn  Zn0  1  0.90953400  0.82036700  0.75000000  1
+  O  O0  1  0.69431100  0.38986100  0.25000000  1
+  O  O1  1  0.30738200  0.61467300  0.75000000  1
+  O  O2  1  0.21911600  0.43832500  0.06779100  1
+  O  O3  1  0.77919500  0.55890400  0.92977600  1
+  O  O4  1  0.77919500  0.55890400  0.57022400  1
+  O  O5  1  0.21911600  0.43832500  0.43220800  1
+  O  O6  1  0.05201100  0.10179500  0.63295000  1
+  O  O7  1  0.94065000  0.88482300  0.35610300  1
+  O  O8  1  0.05201100  0.10179500  0.86705000  1
+  O  O9  1  0.94065000  0.88482300  0.14389800  1
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Mg0 O0 1.965295 1_555
+Mg0 O9 2.251727 1_445
+Mg0 O7 2.251734 1_445
+Mg0 O9 2.252446 1_545
+Mg0 O7 2.252452 1_545
+O0 V1 1.969011 1_555
+O0 V2 1.969011 1_555
+O1 V3 2.041084 1_555
+O1 V0 2.041084 1_555
+O1 Zn0 2.053007 1_555
+O1 Zn0 2.053321 1_455
+O2 V2 1.920092 1_555
+O2 V2 1.920213 1_455
+O2 V3 1.988839 1_554
+O2 O3 2.474664 1_454
+O2 O3 2.475492 1_554
+O3 V3 1.936192 1_555
+O3 V3 1.936268 1_655
+O3 V2 2.036613 1_556
+O3 Zn0 2.517125 1_555
+O4 V0 1.936192 1_555
+O4 V0 1.936268 1_655
+O4 V1 2.036613 1_555
+O4 O5 2.474672 1_655
+O4 O5 2.475500 1_555
+O4 Zn0 2.517125 1_555
+O5 V1 1.920089 1_555
+O5 V1 1.920210 1_455
+O5 V0 1.988851 1_555
+O6 V0 1.675819 1_555
+O6 Zn0 2.007895 1_445
+O7 V1 1.719945 1_555
+O8 V3 1.675819 1_555
+O8 Zn0 2.007895 1_445
+O9 V2 1.719948 1_555
